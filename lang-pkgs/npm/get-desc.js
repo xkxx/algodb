@@ -1,17 +1,32 @@
 var fetch = require('node-fetch');
 var path = require('path');
-var registry = "https://registry.npmjs.com/";
 var downloadUrl = "https://api.npmjs.org/downloads/point/last-month/";
-var npmStat = require('npm-stats')(registry);
+var npmStat = require('npm-stats')(); //('http://127.0.0.1:5984/', {modules: 'npm'});
 var bluebird = require('bluebird');
 
 var matchGithub = /github.com\/([\w\d-_]*)\/([\w\d-_]*)/;
 
-var getDescForPkg = function(pkgName) {
-  return fetch(registry + pkgName)
+var getDownloadsForPkg = function(pkgName) {
+  return fetch(downloadUrl + pkgName)
   .then(function(res) {
     return res.json();
   }).then(function(json) {
+    return json.downloads;
+  });
+};
+
+var getDescForPkg = function(pkgName) {
+  var pkg = bluebird.promisifyAll(npmStat.module(pkgName));
+
+  return bluebird.all([
+    pkg.infoAsync(),
+    pkg.starsAsync(),
+    getDownloadsForPkg(pkgName)
+  ]).then(function(res) {
+    var json = res[0];
+    var stars = res[1].length;
+    var downloads = res[2];
+
     var name = json.name;
     var desc = json.description;
     var keywords = json.keywords;
@@ -39,38 +54,20 @@ var getDescForPkg = function(pkgName) {
     return {
       name: name,
       desc: desc,
+      latest: verLatest,
       keywords: keywords,
       readme: readme,
       readmeFile: readmeFile,
       readmeType: readmeType,
       repo: repository? repository.url : null,
-      github: github
+      github: github,
+      stars: stars,
+      downloads: downloads
     };
   });
 };
 
-var getDescForPkg = getDescForPkg;
-
-var getDownloadsForPkg = function(pkgName) {
-  return fetch(downloadUrl + pkgName)
-  .then(function(res) {
-    return res.json();
-  }).then(function(json) {
-    return downloads;
-  });
-};
-
-exports.getDownloadsForPkg = getDownloadsForPkg;
-
-var getStatsForPkg = function(pkgName) {
-  var pkg = bluebird.promisifyAll(npmStat.module(pkgName));
-
-  return pkg.starsAsync(function(stars) {
-    return stars.length;
-  });
-};
-
-exports.getStatsForPkg = getStatsForPkg;
+exports.getDescForPkg = getDescForPkg;
 
 var moduleListAsync = bluebird.promisify(npmStat.list);
 var getAllPkgs = function() {
@@ -89,3 +86,5 @@ if(require.main === module) {
     });
   }
 }
+
+exports.getAllPkgs = getAllPkgs;
