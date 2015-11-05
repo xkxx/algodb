@@ -9,11 +9,14 @@ with open(algo_file_name, "r") as f:
     algo_names = [name.lower().split() for name in f]
 
 corpus = []
+file_names = []
 for fname in os.listdir(test_file_folder):
+    file_names.append(fname)
     with open(os.path.join(test_file_folder, fname), "r") as f:
         corpus.append(f.read().lower())
 
 # Simple string matching:
+idx = 0
 for doc in corpus:
     algo_counts = {}
     tokens = re.split(r'\s+', doc)
@@ -38,4 +41,5 @@ for doc in corpus:
 
     # Right now, limit 1 term per text, so get max occurances.
     best = max(found_algorithms, key=found_algorithms.get)
-    print(best + " with count " + str(found_algorithms[best]))
+    print("expected: "  + file_names[idx], "got: " + best)
+    idx += 1
