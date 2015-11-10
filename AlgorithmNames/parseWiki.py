@@ -1,8 +1,6 @@
 import unicodecsv as csv
 import wikipedia as wiki
 
-output = open('wiki.csv', 'w+')
-csv_writer = csv.writer(output)
 
 def is_algorithm(page):
     category_match = False
@@ -15,21 +13,52 @@ def is_algorithm(page):
 
     return category_match and summary_match
 
-list_of_algorithms_page = wiki.page('list of algorithms')
-links = list_of_algorithms_page.links
-print len(links)
-
-for link in links:
+def get_wiki_page(title):
     try:
-        link_page = wiki.page(link, auto_suggest=False)
-    except wiki.exceptions.PageError:
+        # disable auto_suggest to get the correct page
+        # (e.g. auto_suggest will turn 'B*' into 'Bacteria')
+        return wiki.page(title, auto_suggest=False)
+    except:
         try:
-            link_page = wiki.page(link)
-        except wiki.exceptions.PageError:
-            continue
-    print link
-    if is_algorithm(link_page):
-        csv_writer.writerow([link, link_page.summary,
-            link_page.categories, link_page.links])
+            # if there's no exact matching page,
+            # try the auto_suggest before giving up
+            return wiki.page(title)
+        except:
+            return None
 
-output.close()
+def write_output_from_page(csv_writer, page):
+    csv_writer.writerow([page.title, page.summary,
+        page.categories, page.links])
+
+def parse_list_of_algorithms_page():
+    output = open('wiki.csv', 'w+')
+    csv_writer = csv.writer(output)
+
+    list_of_algorithms_page = wiki.page('list of algorithms')
+
+    for link in list_of_algorithms_page.links:
+        link_page = get_wiki_page(link)
+        if link_page is None:
+            continue
+        if is_algorithm(link_page):
+            write_output_from_page(csv_writer, link_page)
+
+    output.close()
+
+def parse_category_recursively(category):
+    output = open('wiki_algo_category.csv', 'w+')
+    csv_writer = csv.writer(output)
+
+    algo_cat = wiki.categorypage(category)
+    for member in algo_cat.categorymembers:
+        print member
+        if member.encode('utf8').startswith('Category:'):  # subcategory page
+            parse_category_recursively(member)
+        else:                                             # member page
+            page = get_wiki_page(member)
+            if page is None:
+                continue
+            if is_algorithm(page):
+                write_output_from_page(csv_writer, page)
+
+parse_category_recursively('Category:Algorithms')
