@@ -1,8 +1,10 @@
+var bluebird = require('bluebird');
 var fetch = require('node-fetch');
+fetch.Promise = bluebird;
 var path = require('path');
 var downloadUrl = "https://api.npmjs.org/downloads/point/last-month/";
 var npmStat = require('npm-stats')(); //('http://127.0.0.1:5984/', {modules: 'npm'});
-var bluebird = require('bluebird');
+var fs = bluebird.promisifyAll(require('fs'));
 
 var matchGithub = /github.com\/([\w\d-_]*)\/([\w\d-_]*)/;
 
@@ -72,6 +74,70 @@ exports.getDescForPkg = getDescForPkg;
 var moduleListAsync = bluebird.promisify(npmStat.list);
 var getAllPkgs = function() {
   return moduleListAsync();
+};
+
+var readOrCreateList = function() {
+  var file = 'list.json';
+  return fs.readFileAsync(file, 'utf-8')
+  .then(function(content) {
+    var list = JSON.parse(content);
+    return list;
+  })
+  .catch(function() {
+    var list;
+    return getAllPkg()
+    .then(function(content) {
+      list = content;
+      return fs.writeFileAsync(file, content, 'utf-8');
+    })
+    .then(function() {
+      return list;
+    });
+  });
+};
+
+var readCursor = function() {
+  var file = 'cursor.dat';
+  return fs.readFileAsync(file, 'utf-8')
+  .then(function(content) {
+    return content;
+  })
+  .catch(function(err) {
+    return -1;
+  });
+};
+
+var updateCursor = function(cur) {
+  var file = 'cursor.dat';
+  return fs.writeFileAsync(file, cur.toString(), 'utf-8')
+};
+
+var process = function() {
+  var out = bluebird.promisifyAll(fs.createWriteStream('results.json', {flags: 'a'}));
+
+  readOrCreateList()
+  .then(function(list) {
+    return readCursor()
+    .then(function(cursor) {
+      return list.slice(cursor + 1);
+    });
+  })
+  .each(function(pkgName, idx, len) {
+    console.info(idx + " of " + len);
+    return getDescForPkg(pkgName)
+    .then(function(result) {
+      return out.writeAsync(JSON.stringify(result) + '\n');
+    })
+    .then(function() {
+      return updateCursor(idx);
+    });
+  })
+  .then(function() {
+    return out.endAsync();
+  })
+  .catch(function(err) {
+    console.error(err);
+  });
 };
 
 if(require.main === module) {
