@@ -1,8 +1,9 @@
 import unicodecsv as csv
 import wikipedia as wiki
 
+MAX_CATEGORY_DEPTH = 3
 
-def is_algorithm(page):
+def is_algorithm_page(page):
     category_match = False
     for category in page.categories:
         if 'Algorithm' in category or 'algorithm' in category:
@@ -40,25 +41,40 @@ def parse_list_of_algorithms_page():
         link_page = get_wiki_page(link)
         if link_page is None:
             continue
-        if is_algorithm(link_page):
+        if is_algorithm_page(link_page):
             write_output_from_page(csv_writer, link_page)
 
     output.close()
 
-def parse_category_recursively(category):
-    output = open('wiki_algo_category.csv', 'w+')
-    csv_writer = csv.writer(output)
+def is_category_title(title):
+    return title.encode('utf8').startswith('Category:')
 
-    algo_cat = wiki.categorypage(category)
-    for member in algo_cat.categorymembers:
-        print member
-        if member.encode('utf8').startswith('Category:'):  # subcategory page
-            parse_category_recursively(member)
-        else:                                             # member page
+def parse_category_page(page, csv_writer, depth):
+    print 'looking at page:', page.title
+    for member in page.categorymembers:
+        print member,
+        if is_category_title(member):        # subcategory page
+            if depth < MAX_CATEGORY_DEPTH:
+                page = wiki.categorypage(member)
+                if page is None:
+                    print '-> subcategory not found'
+                    continue
+                print '-> subcategory'
+                parse_category_page(page, csv_writer, depth + 1)
+        else:                                # member page
             page = get_wiki_page(member)
             if page is None:
+                print '-> member page not found'
                 continue
-            if is_algorithm(page):
+            if is_algorithm_page(page):
+                print '-> member page'
                 write_output_from_page(csv_writer, page)
 
-parse_category_recursively('Category:Algorithms')
+def parse_category(category):
+    output = open('wiki_algo_category.csv', 'w+')
+    csv_writer = csv.writer(output)
+    print 'start parsing...'
+
+    parse_category_page(wiki.categorypage(category), csv_writer, 0)
+
+parse_category('Category:Algorithms')
