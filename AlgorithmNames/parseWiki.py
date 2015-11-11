@@ -67,8 +67,10 @@ def parse_category_page(page, csv_writer, depth):
                 print '-> member page not found'
                 continue
             if is_algorithm_page(page):
-                print '-> member page'
+                print '-> algorithm page'
                 write_output_from_page(csv_writer, page)
+            else:
+                print '-> member page of other stuff'
 
 def parse_category(category):
     output = open('wiki_algo_category.csv', 'w+')
@@ -77,4 +79,4 @@ def parse_category(category):
 
     parse_category_page(wiki.categorypage(category), csv_writer, 0)
 
-parse_category('Category:Algorithms')
+parse_category('Category:Computer algebra systems')
