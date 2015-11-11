@@ -23,4 +23,11 @@
 
 5. wiki_algo_category.json (1119 algorithms)
 --------------------
-	
+	Each line is a json object:
+		{'title': page.title,
+		'summary': page.summary,
+		'categories': page.categories,
+		'links': page.links}
+
+
+
