@@ -1,5 +1,6 @@
-import unicodecsv as csv
+# import unicodecsv as csv
 import wikipedia as wiki
+import json
 
 MAX_CATEGORY_DEPTH = 3
 
@@ -27,13 +28,18 @@ def get_wiki_page(title):
         except:
             return None
 
-def write_output_from_page(csv_writer, page):
-    csv_writer.writerow([page.title, page.summary,
-        page.categories, page.links])
+def write_output_from_page(output, page):
+    json.dump(
+        {'title': page.title,
+        'summary': page.summary,
+        'categories': page.categories,
+        'links': page.links},
+        output)
+    output.write('\n')
 
 def parse_list_of_algorithms_page():
     output = open('wiki.csv', 'w+')
-    csv_writer = csv.writer(output)
+    # csv_writer = csv.writer(output)
 
     list_of_algorithms_page = wiki.page('list of algorithms')
 
@@ -42,17 +48,21 @@ def parse_list_of_algorithms_page():
         if link_page is None:
             continue
         if is_algorithm_page(link_page):
-            write_output_from_page(csv_writer, link_page)
+            write_output_from_page(output, link_page)
 
     output.close()
 
 def is_category_title(title):
     return title.encode('utf8').startswith('Category:')
 
-def parse_category_page(page, csv_writer, depth):
+def parse_category_page(page, output, depth, visited):
     print 'looking at page:', page.title
     for member in page.categorymembers:
-        print member,
+        print member, depth
+        if member in visited:
+            print 'visited'
+            continue
+        visited.add(member)
         if is_category_title(member):        # subcategory page
             if depth < MAX_CATEGORY_DEPTH:
                 page = wiki.categorypage(member)
@@ -60,7 +70,7 @@ def parse_category_page(page, csv_writer, depth):
                     print '-> subcategory not found'
                     continue
                 print '-> subcategory'
-                parse_category_page(page, csv_writer, depth + 1)
+                parse_category_page(page, output, depth + 1, visited)
         else:                                # member page
             page = get_wiki_page(member)
             if page is None:
@@ -68,15 +78,25 @@ def parse_category_page(page, csv_writer, depth):
                 continue
             if is_algorithm_page(page):
                 print '-> algorithm page'
-                write_output_from_page(csv_writer, page)
+                write_output_from_page(output, page)
             else:
                 print '-> member page of other stuff'
 
 def parse_category(category):
-    output = open('wiki_algo_category.csv', 'w+')
-    csv_writer = csv.writer(output)
+    visited = set()
+    try:
+        input = open('wiki_algo_category.json')
+        for line in input:
+            visited.add(json.loads(line)['title'])
+        input.close()
+    except IOError:
+        pass
+
+    output = open('wiki_algo_category.json', 'a')
+    # csv_writer = csv.writer(output)
+
     print 'start parsing...'
+    parse_category_page(wiki.categorypage(category), output, 0, visited)
+    output.close()
 
-    parse_category_page(wiki.categorypage(category), csv_writer, 0)
-
-parse_category('Category:Computer algebra systems')
+parse_category('Category:Algorithms')

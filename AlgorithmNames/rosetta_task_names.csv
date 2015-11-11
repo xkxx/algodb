@@ -1,0 +1,780 @@
+Enforced immutability
+Color quantization
+Deepcopy
+Averages/Mean angle
+Identity matrix
+Averages/Mean time of day
+Arena storage pool
+Fibonacci word
+Pascal matrix generation
+Happy numbers
+Closest-pair problem
+Call a function in a shared library
+Long multiplication
+Count occurrences of a substring
+Function composition
+Four bit adder
+Longest common subsequence
+Averages/Root mean square
+Literals/Integer
+Digital root
+Averages/Pythagorean means
+CRC-32
+Factors of an integer
+Parsing/RPN calculator algorithm
+Comments
+Percolation/Mean cluster density
+Execute a Markov algorithm
+"Abundant, deficient and perfect number classifications"
+Forest fire
+Constrained random points on a circle
+Parsing/RPN to infix conversion
+Atomic updates
+Almost prime
+Longest increasing subsequence
+Loop over multiple arrays simultaneously
+Empty directory
+Flipping bits game
+Loops/Do-while
+Pascal's triangle
+Ludic numbers
+Loops/While
+Loops/Foreach
+Matrix transposition
+Factorial
+Active Directory/Connect
+LZW compression
+FTP
+Continued fraction
+Hofstadter Q sequence
+Knuth shuffle
+Hofstadter Figure-Figure sequences
+Knuth's algorithm S
+Ordered words
+Distributed programming
+Non-decimal radices/Input
+Documentation
+Last Friday of each month
+Classes
+Polymorphic copy
+Cut a rectangle
+Dining philosophers
+Active object
+OLE Automation
+Inheritance/Single
+Hostname
+Hello world/Newbie
+Permutations/Derangements
+Anagrams/Deranged anagrams
+Here document
+Hello world/Standard error
+Modular exponentiation
+Operator precedence
+Arithmetic/Complex
+Loops/Downward for
+Non-decimal radices/Convert
+Largest int from concatenated ints
+Pinstripe/Display
+Pinstripe/Printer
+Colour bars/Display
+Gamma function
+Colour pinstripe/Printer
+Colour pinstripe/Display
+Break OO privacy
+Memory layout of a data structure
+Define a primitive data type
+Object serialization
+Determine if a string is numeric
+Introspection
+Call a function
+Binary strings
+Palindrome detection
+JortSort
+Greatest element of a list
+Fractal tree
+Generate lower case ASCII alphabet
+Arrays
+Literals/String
+Deconvolution/1D
+Convert seconds to compound duration
+Munching squares
+Higher-order functions
+Menu
+Left factorials
+Middle three digits
+Digital root/Multiplicative digital root
+Make directory path
+Catalan numbers/Pascal's triangle
+Comma quibbling
+Animate a pendulum
+Character codes
+Align columns
+Percentage difference between images
+CSV data manipulation
+Greatest subsequential sum
+Knapsack problem/0-1
+Number names
+Globally replace text in several files
+Arbitrary-precision integers (included)
+Multiplication tables
+Permutation test
+Hello world/Line printer
+Maze solving
+Parallel calculations
+Optional parameters
+"Calendar - for ""REAL"" programmers"
+Animation
+Combinations
+FizzBuzz
+100 doors
+Multiplicative order
+Balanced ternary
+DNS query
+Hailstone sequence
+"Hofstadter-Conway $10,000 sequence"
+Matrix multiplication
+Langton's ant
+Compile-time calculation
+Interactive programming
+Huffman coding
+Mandelbrot set
+Function prototype
+Bitmap/Flood fill
+Day of the week
+Arithmetic-geometric mean
+Factors of a Mersenne number
+Bitmap/Read an image through a pipe
+Floyd's triangle
+Casting out nines
+Chat server
+Best shuffle
+Draw a cuboid
+Find largest left truncatable prime in a given base
+Maze generation
+Matrix arithmetic
+Circles of given radius through two points
+Count in factors
+Paraffins
+Accumulator factory
+JSON
+Draw a sphere
+Formatted numeric output
+Percolation/Bond percolation
+Nth root
+Iterated digits squaring
+Holidays related to Easter
+Playing cards
+Loops/Continue
+Leap year
+Discordian date
+Constrained genericity
+One of n lines in a file
+Penney's game
+Brownian tree
+Hello world/Graphical
+Minesweeper game
+Integer sequence
+Mouse position
+Detect division by zero
+Keyboard macros
+Longest string challenge
+Lucas-Lehmer test
+Color of a screen pixel
+Bitmap/Midpoint circle algorithm
+GUI enabling/disabling of controls
+GUI component interaction
+Input loop
+Hamming numbers
+Catalan numbers
+Last letter-first letter
+Count in octal
+Create an object at a given address
+Evaluate binomial coefficients
+Brace expansion
+Chinese remainder theorem
+Checkpoint synchronization
+Doubly-linked list/Element definition
+24 game/Solve
+Execute a system command
+Generic swap
+Knapsack problem/Bounded
+Least common multiple
+Death Star
+Cholesky decomposition
+Hello world/Newline omission
+Image noise
+Create an HTML table
+Permutations
+Conjugate transpose
+Fast Fourier transform
+Concurrent computing
+Image convolution
+Josephus problem
+General FizzBuzz
+Multifactorial
+Luhn test of credit card numbers
+Check that file exists
+Create a file
+File size
+Delete a file
+Loops/N plus one half
+Multisplit
+Execute HQ9+
+A+B
+Number reversal game
+N'th
+Greyscale bars/Display
+Parse an IP Address
+Median filter
+Euler method
+Copy a string
+Increment a numerical string
+Enumerations
+Element-wise operations
+Kaprekar numbers
+GUI/Maximum window dimensions
+Heronian triangles
+Anonymous recursion
+Hash join
+Entropy
+Nautical bell
+Assertions
+Monty Hall problem
+Active Directory/Search for a user
+HTTP
+Anagrams
+Ackermann function
+Monte Carlo methods
+Call a foreign-language function
+Guess the number
+Doubly-linked list/Element insertion
+Ethiopian multiplication
+Date format
+Draw a clock
+Metaprogramming
+Literals/Floating point
+Determine if only one instance is running
+Doubly-linked list/Traversal
+Keyboard input/Flush the keyboard buffer
+Keyboard input/Obtain a Y or N response
+Keyboard input/Keypress check
+Executable library
+Balanced brackets
+Gray code
+Create a file on magnetic tape
+History variables
+Inverted syntax
+Evolutionary algorithm
+Averages/Simple moving average
+Parametrized SQL statement
+Find the last Sunday of each month
+Arithmetic/Integer
+Averages/Arithmetic mean
+Arithmetic evaluation
+Dot product
+Delegates
+Fork
+Doubly-linked list/Definition
+Handle a signal
+Environment variables
+Closures/Value capture
+Caesar cipher
+Convert decimal number to rational
+HTTPS
+Bulls and cows
+Fibonacci sequence
+Honeycombs
+9 billion names of God the integer
+Catamorphism
+99 Bottles of Beer
+Dutch national flag problem
+Boolean values
+Aliquot sequence classifications
+IBAN
+Deal cards for FreeCell
+Horner's rule for polynomial evaluation
+Letter frequency
+Play recorded sounds
+Multiple distinct objects
+Filter
+Pi
+Partial function application
+Associative array/Creation
+Find the missing permutation
+Box the compass
+Dinesman's multiple-dwelling problem
+Percolation/Site percolation
+Even or odd
+Move-to-front algorithm
+Combinations with repetitions
+Associative array/Iteration
+Pattern matching
+Integer overflow
+Bitmap/PPM conversion through a pipe
+Binary search
+Phrase reversals
+Parametric polymorphism
+Array length
+Integer comparison
+Narcissistic decimal number
+Loops/For with a specified step
+Numerical integration
+Levenshtein distance
+Forward difference
+Greatest common divisor
+Look-and-say sequence
+Man or boy test
+Old lady swallowed a fly
+Loops/Nested
+Averages/Median
+Averages/Mode
+N-queens problem
+24 game
+Array concatenation
+Main step of GOST 28147-89
+Hello world/Text
+Non-continuous subsequences
+File input/output
+Equilibrium index
+Hello world/Web server
+Linear congruential generator
+MD5/Implementation
+Bitmap/Bézier curves/Quadratic
+ABC Problem
+Pangram checker
+Five weekends
+Harshad or Niven series
+Ordered Partitions
+Case-sensitivity of identifiers
+Calendar
+Generate Chess960 starting position
+Include a file
+Fibonacci word/fractal
+File modification time
+Extreme floating point values
+Function frequency
+Pick random element
+Percolation/Mean run density
+Joystick position
+Pig the dice game/Player
+Metronome
+Append a record to the end of a text file
+Compound data type
+Galton box animation
+Morse code
+Date manipulation
+Gaussian elimination
+Echo server
+Bitmap/Read a PPM file
+Grayscale image
+Bitmap/Histogram
+Exceptions/Catch an exception thrown in a nested call
+Bulls and cows/Player
+Map range
+Euler's sum of powers conjecture
+Flow-control structures
+Exceptions
+Lychrel numbers
+Pointers and references
+Execute SNUSP
+Inheritance/Multiple
+Conditional structures
+Non-decimal radices/Output
+Knapsack problem/Continuous
+Numeric error propagation
+Execute Brain****
+Catmull–Clark subdivision surface
+Find common directory path
+Mad Libs
+Amicable pairs
+Order two numerical lists
+Guess the number/With feedback (player)
+Loops/Break
+Guess the number/With feedback
+Abstract type
+Benford's law
+Jensen's Device
+Perfect numbers
+First-class functions/Use numbers analogously
+K-d tree
+CSV to HTML translation
+Canny edge detector
+MD5
+Bitwise operations
+Fibonacci n-step number sequences
+Call an object method
+Infinity
+Machine code
+Pascal's triangle/Puzzle
+Binary digits
+List comprehensions
+Amb
+Count the coins
+Magic squares of odd order
+Extend your language
+Narcissist
+First class environments
+Dragon curve
+Formal power series
+Empty string
+Combinations and permutations
+MD4
+OpenGL
+Permutations by swapping
+HTTPS/Authenticated
+Matrix-exponentiation operator
+Jump anywhere
+Exponentiation operator
+Pernicious numbers
+Compare a list of strings
+First-class functions
+Metered concurrency
+Command-line arguments
+Bitwise IO
+Permutations/Rank of a permutation
+Dynamic variable names
+HTTPS/Client-authenticated
+Currying
+K-means++ clustering
+Hickerson series of almost integers
+Logical operations
+Bitcoin/address validation
+I before E except after C
+Bitcoin/public point to address
+Modular inverse
+Carmichael 3 strong pseudoprimes
+Bitmap/Bresenham's line algorithm
+Mutual recursion
+Bitmap/Write a PPM file
+Address of a variable
+Create a two-dimensional array at runtime
+Collections
+Bitmap
+Hash from two arrays
+Apply a callback to an array
+Flatten a list
+Bitmap/Bézier curves/Cubic
+Haversine formula
+Parsing/Shunting-yard algorithm
+Generator/Exponential
+Loops/Infinite
+Loops/For
+Bernoulli numbers
+One-dimensional cellular automata
+Empty program
+Null object
+Conway's Game of Life
+Host introspection
+Hough transform
+Find limit of recursion
+Inverted index
+Deconvolution/2D+
+Average loop length
+Arithmetic/Rational
+Naming conventions
+Compare sorting algorithms' performance
+Events
+Memory allocation
+Fractran
+Natural sorting
+Continued fraction/Arithmetic/Construct from rational number
+Extensible prime generator
+Plot coordinate pairs
+Named parameters
+Multiple regression
+Add a variable to a class instance at runtime
+Odd word problem
+Pig the dice game
+Function definition
+Maximum triangle path sum
+Order disjoint list items
+LU decomposition
+AKS test for primes
+Check Machin-like formulas
+Arithmetic-geometric mean/Calculate Pi
+Horizontal sundial calculations
+Numerical integration/Gauss-Legendre Quadrature
+Knight's tour
+Miller–Rabin primality test
+Go Fish
+Knapsack problem/Unbounded
+Spiral matrix
+Read a specific line from a file
+Time a function
+SEDOLs
+Real constants and functions
+Rate counter
+Zeckendorf arithmetic
+Tic-tac-toe
+Rosetta Code/Fix code tags
+Ranking methods
+Write language name in 3D ASCII
+Solve the no connection puzzle
+Sorting algorithms/Radix sort
+Zeckendorf number representation
+Variables
+RCRPG
+Sort an array of composite structures
+Voronoi diagram
+Terminal control/Dimensions
+Runtime evaluation
+Runtime evaluation/In an environment
+SQL-based authentication
+Window management
+Seven-sided dice from five-sided dice
+Sort stability
+Unbias a random generator
+Probabilistic choice
+System time
+Statistics/Basic
+Rendezvous
+String matching
+QR decomposition
+SOAP
+Self-describing numbers
+Xiaolin Wu's line algorithm
+Table creation/Postal addresses
+URL decoding
+URL encoding
+Sorting algorithms/Sleep sort
+Resistor mesh
+Set
+Sorting algorithms/Comb sort
+Total circles area
+Rosetta Code/Find bare lang tags
+Short-circuit evaluation
+Sierpinski triangle
+Sorting algorithms/Bogosort
+Sorting algorithms/Permutation sort
+Rename a file
+Primes - allocate descendants to their ancestors
+The ISAAC Cipher
+Sudoku
+Price fraction
+Sequence of primes by Trial Division
+Simple windowed application
+Ray-casting algorithm
+Remove lines from a file
+Zero to the zero power
+Sorting algorithms/Selection sort
+Pythagorean triples
+Subleq
+Window creation
+SHA-256
+Web scraping
+Subtractive generator
+Speech synthesis
+Sorting algorithms/Quicksort
+Sleep
+Set of real numbers
+User input/Graphical
+User input/Text
+Roots of unity
+Take notes on the command line
+Primality by trial division
+Rot-13
+Solve a Numbrix puzzle
+Solve a Hopido puzzle
+String length
+String interpolation (included)
+Set puzzle
+Zhang-Suen thinning algorithm
+Priority queue
+XML/Output
+XML/Input
+Sorting algorithms/Cocktail sort
+Strip a set of characters from a string
+Roots of a quadratic function
+Tokenize a string
+Sorting algorithms/Counting sort
+String append
+SHA-1
+RSA code
+Sum of squares
+Sparkline in unicode
+Terminal control/Preserve screen
+Terminal control/Clear the screen
+Shell one-liner
+Walk a directory/Recursively
+Roman numerals/Encode
+Tree traversal
+Safe addition
+Yahoo! search interface
+Word wrap
+Sieve of Eratosthenes
+Soundex
+Secure temporary file
+RIPEMD-160
+Twelve statements
+Sorting algorithms/Heapsort
+Temperature conversion
+Sockets
+Stack traces
+Sorting algorithms/Strand sort
+Trigonometric functions
+String case
+Simple database
+String concatenation
+Synchronous concurrency
+Reduced row echelon form
+Rosetta Code/Rank languages by popularity
+Read entire file
+Reverse a string
+The Twelve Days of Christmas
+"Sailors, coconuts and a monkey problem"
+Remove duplicate elements
+Zebra puzzle
+Simulate input/Keyboard
+XML/XPath
+Write entire file
+Stable marriage problem
+Sort an integer array
+Set consolidation
+Sequence of non-squares
+Yin and yang
+Read a file line by line
+Quickselect algorithm
+Sum and product of an array
+Pragmatic directives
+Wireworld
+Sorting algorithms/Stooge sort
+Sierpinski triangle/Graphical
+Substring
+Run-length encoding
+Update a configuration file
+Video display modes
+Terminal control/Ringing the terminal bell
+State name puzzle
+Return multiple values
+Symmetric difference
+Read a configuration file
+Roots of a function
+Vigenère cipher/Cryptanalysis
+Show the epoch
+Ternary logic
+Stern-Brocot sequence
+Sorting algorithms/Bead sort
+Sort using a custom comparator
+Send email
+String comparison
+Quaternion type
+Strip control codes and extended characters from a string
+World Cup group stage
+Rock-paper-scissors
+Variable size/Set
+Sum multiples of 3 and 5
+Power set
+Program termination
+Truncate a file
+Rosetta Code/Count examples
+Variadic function
+Write float arrays to a text file
+Topic variable
+Ulam spiral (for primes)
+Stack
+Terminal control/Display an extended character
+Terminal control/Inverse video
+Terminal control/Hiding the cursor
+Sum of a series
+Universal Turing machine
+Test a function
+Send an unknown method call
+Vogel's approximation method
+Trabb Pardo–Knuth algorithm
+Singly-linked list/Traversal
+Roman numerals/Decode
+Program name
+Queue/Definition
+String prepend
+Strip whitespace from a string/Top and tail
+Special variables
+Sorting algorithms/Pancake sort
+Quine
+Top rank per group
+Verify distribution uniformity/Naive
+Sorting algorithms/Insertion sort
+Sorting algorithms/Bubble sort
+Verify distribution uniformity/Chi-squared test
+Random numbers
+XML/DOM serialization
+Terminal control/Coloured text
+Vigenère cipher
+Text processing/2
+Visualize a tree
+Unicode strings
+Textonyms
+Same Fringe
+Primorial numbers
+Sorting algorithms/Shell sort
+S-Expressions
+Sierpinski carpet
+Scope modifiers
+Sorting algorithms/Gnome sort
+Van der Corput sequence
+Text processing/Max licenses in use
+Unicode variable names
+Polynomial regression
+Standard deviation
+Thiele's interpolation formula
+Runge-Kutta method
+Sum digits of an integer
+Random number generator (device)
+Self-referential sequence
+Record sound
+Stem-and-leaf plot
+URL parser
+Scope/Function names and labels
+Polymorphism
+Solve a Hidato puzzle
+Unix/ls
+Stair-climbing puzzle
+Text processing/1
+Special characters
+Rep-string
+Truncatable primes
+Semordnilap
+Semiprime
+Range expansion
+Range extraction
+Regular expressions
+Vector products
+Prime decomposition
+Singleton
+Variable size/Get
+Sort disjoint sublist
+Start from a main routine
+Respond to an unknown method call
+Reverse words in a string
+Simulate input/Mouse
+Terminal control/Cursor movement
+Zig-zag matrix
+Rosetta Code/Find unimplemented tasks
+Terminal control/Positional read
+Problem of Apollonius
+Topological sort
+Terminal control/Cursor positioning
+Search a list
+Terminal control/Unicode output
+Sutherland-Hodgman polygon clipping
+Solve a Holy Knight's tour
+Window creation/X11
+Vampire number
+Use another language to call a function
+Random number generator (included)
+Towers of Hanoi
+Repeat a string
+Sokoban
+Polynomial long division
+Queue/Usage
+Undefined values
+Y combinator
+Singly-linked list/Element insertion
+Substring/Top and tail
+Singly-linked list/Element definition
+Variable-length quantity
+Write to Windows event log
+Strip block comments
+Sorting algorithms/Merge sort
+Walk a directory/Non-recursively
+Strip comments from a string
+Topswops

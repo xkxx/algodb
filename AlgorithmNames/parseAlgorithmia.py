@@ -1,7 +1,7 @@
 import json
 import unicodecsv as csv
 
-dump = open('algorithms.json')
+dump = open('algorithmia_dump.json')
 algorithms = json.loads(dump.read())
 print len(algorithms)
 
@@ -19,3 +19,5 @@ def write_output():
             call_count])
 
     output.close()
+
+write_output()
