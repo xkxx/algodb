@@ -24,10 +24,25 @@
 5. wiki_algo_category.json (1119 algorithms)
 --------------------
 	Each line is a json object:
-		{'title': page.title,
-		'summary': page.summary,
-		'categories': page.categories,
-		'links': page.links}
+		{'title': <string> the name of algorithm,
+		'summary': <string> a description of the algorithm,
+		'categories': <array of strings> the categories that the algorithm belongs to
+		'links': <array of strings> the related terms linked from the algorithm page}
+
+6. rosetta_task_pages.json (780 algorithms)
+--------------------
+	Each line is a json object:
+		{'task': <string> the name of the task,
+		 'task_summary': <array of strings> the descriptions of the algorithm,
+		 'solutions': [{
+				'language': <string> the language of the solution,
+				'content': [{'type': <string> 'description' or 'code',
+					     'value': <string> the text of this description or code},
+					    ....]
+			      },
+			      ....
+			      ]
+		}
 
 
 
