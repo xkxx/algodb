@@ -1,45 +1,73 @@
 import os
 import re
+import unicodecsv as csv
+from nltk import ngrams
+import math
 
-# Read algo names and get test doc corpus
-algo_file_name = "../AlgorithmNames/list_of_algo.txt"
-test_file_folder = "testDocs"
 
-with open(algo_file_name, "r") as f:
-    algo_names = [name.lower().split() for name in f]
+def remove_stopwords(tokens, stop_words):
+    return [word for word in tokens if word not in stop_words]
 
-corpus = []
-file_names = []
-for fname in os.listdir(test_file_folder):
-    file_names.append(fname)
-    with open(os.path.join(test_file_folder, fname), "r") as f:
-        corpus.append(f.read().lower())
 
-# Simple string matching:
-idx = 0
-for doc in corpus:
-    algo_counts = {}
-    tokens = re.split(r'\s+', doc)
-    word_counts = {}
-    for t in tokens:
-        if t not in word_counts:
-            word_counts[t] = 0
-        word_counts[t] += 1
+def load_data(algo_file_name, test_file_folder, stopword_file):
+    with open(stopword_file, "r") as f:
+        stop_words = set(x.strip() for x in f)
 
-    found_algorithms = {}
-    for algo in algo_names:
-        algo_in_doc = {}
+    with open(algo_file_name, "rb") as f:
+        reader = csv.reader(f)
+        algo_names = [tuple(row[0].lower().split()) for row in reader]
+        algo_names = set(remove_stopwords(algo_names, stop_words))
 
-        # Algo is each word in the algorithm name -> merge sort is [merge, sort]
-        for algo_part in algo:
-            if algo_part in word_counts:
-                algo_in_doc[algo_part] = word_counts[algo_part]
-        if len(algo_in_doc) == len(algo):
-            # All words matched. Take the min to get instances of algorithm name
-            full_name = " ".join(algo)
-            found_algorithms[full_name] = min(v for k, v in algo_in_doc.items())
+    corpus = []
+    file_names = []
+    for fname in os.listdir(test_file_folder):
+        file_names.append(fname)
+        with open(os.path.join(test_file_folder, fname), "r") as f:
+            corpus.append(f.read().lower())
 
-    # Right now, limit 1 term per text, so get max occurances.
-    best = max(found_algorithms, key=found_algorithms.get)
-    print("expected: "  + file_names[idx], "got: " + best)
-    idx += 1
+    return stop_words, algo_names, corpus, file_names
+
+
+# N-gram string matching
+def string_match(stop_words, algo_names, corpus,  file_names):
+    idx = 0
+    maxN = max(len(name) for name in algo_names)
+
+    detected = {}
+    algo_total_frequency = {}
+    for doc in corpus:
+        tokens = re.split(r'\s+', doc)
+        tokens = remove_stopwords(tokens, stop_words)
+
+        algo_doc_frequency = {}
+        for n in range(1, maxN+1):
+            for ngram in ngrams(tokens, n):
+                if ngram in algo_names:
+                    name = " ".join(ngram)
+                    if name not in algo_doc_frequency:
+                        algo_doc_frequency[name] = 0
+                        algo_total_frequency[name] = 1
+                    algo_doc_frequency[name] += 1
+        detected[file_names[idx]] = algo_doc_frequency
+        idx += 1
+    tf_idf(detected, algo_total_frequency)
+    return detected
+
+
+def tf_idf(doc_freq, total_freq):
+    for doc, algos_found in doc_freq.items():
+        for algo, freq in algos_found.items():
+            doc_freq[doc][algo] = freq * math.log(1.0 * len(doc_freq) / total_freq[algo])
+
+def run():
+    # Read algo names and get test doc corpus
+    algo_file_name = "algolist.csv"
+    test_file_folder = "testDocs"
+    stopword_file = "stopwords.txt"
+
+    stop_words, algo_names, corpus, file_names = load_data(algo_file_name, test_file_folder, stopword_file)
+    detected_algos = string_match(stop_words, algo_names, corpus,  file_names)
+    for doc, algos_found in detected_algos.items():
+        print("expected: " + doc, "got: " + str(algos_found))
+
+run()
