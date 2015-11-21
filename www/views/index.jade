@@ -2,3 +2,10 @@ extends layout
 
 block content
   h1 AlgoDB
+  form
+    input(name='q')
+  .results
+    if results
+      for r in results
+        .result
+          .name r.name
