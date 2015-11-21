@@ -5,7 +5,8 @@ block content
   form
     input(name='q')
   .results
-    if results
+    if results.length
+      h2 Results
       for r in results
         .result
-          .name r.name
+          .name= r.name
