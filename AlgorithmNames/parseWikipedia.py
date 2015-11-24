@@ -99,4 +99,4 @@ def parse_category(category):
     parse_category_page(wiki.categorypage(category), output, 0, visited)
     output.close()
 
-parse_category('Category:Algorithms')
+# parse_category('Category:Algorithms')
