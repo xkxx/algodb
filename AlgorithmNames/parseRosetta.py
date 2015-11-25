@@ -5,11 +5,20 @@ import mwparserfromhell as parser
 import re
 
 site = mw.Site('rosettacode.org', path='/mw/')
-matchHeader = re.compile(r"\{\{header\|(.+)\}\}")
 
 class Task:
+    """
+        self.solutions: a list of implementations.
+                        each entry in list is a map,
+                            with keys:'language', 'content'
+                        each entry in content has attribute 'type', 'content'
+        self.task_name: a string
+        self.task_summary: a list of sentences
+        self.nodeslist: a list of mediawiki nodes from the page's text
+    """
     def _parse_language_from_header(self, title):
         # e.g. '{{header|8th}}'
+        matchHeader = re.compile(r"\{\{header\|(.+)\}\}")
         result = matchHeader.match(title)
         return result and result.group(1)
 
@@ -34,11 +43,11 @@ class Task:
                 current_solution['language'] = lang
                 current_solution['content'] = list()
             if type(node) is parser.nodes.text.Text:
-                current_solution['content'].append({'type': 'description',
-                    'value': node.value.encode('utf8')})
+                current_solution['content'].append({'type': 'commentary',
+                    'content': node.value.encode('utf8')})
             if type(node) is parser.nodes.tag.Tag and node.tag == 'lang':
                 current_solution['content'].append({'type': 'code',
-                    'value': node.contents.encode('utf8')})
+                    'content': node.contents.encode('utf8')})
         print '================================'
 
     def _parse_summary(self):
@@ -56,9 +65,9 @@ class Task:
             if type(curr) is parser.nodes.text.Text:
                 self.task_summary.append(curr.value.encode('utf8'))
 
-    def __init__(self, page, task_name):
+    def __init__(self, page):
         self.nodeslist = parser.parse(page.text()).nodes
-        self.task_name = task_name
+        self.task_name = page.page_title
         self._parse_summary()
 
     def toJson(self):
@@ -81,7 +90,8 @@ def parse_rosetta_task_pages():
 
     category = site.Pages['Category:Programming Tasks']
     for page in category:
-        output.write(Task(page, page.page_title).toJson())
+        output.write(Task(page).toJson())
         output.write('\n')
 
-parse_rosetta_task_pages()
+if __name__ == '__main__':
+    parse_rosetta_task_pages()
