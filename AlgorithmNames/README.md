@@ -12,7 +12,7 @@ CSV, JSON Files:
 2. list_of_algo.txt
 --------------------
 
-	This is not a list of algorithm names :( but all the related terms linked from the page "list of algorithms". 
+	This is not a list of algorithm names :( but all the related terms linked from the page "list of algorithms".
 
 
 3. list_of_algorithms.csv (433 algorithms)
@@ -23,12 +23,12 @@ CSV, JSON Files:
 	Format: name | summary (plain text) | categories (it belongs to in wikipedia) | links (the title of links in the page)
 
 	TODO: parse runtime
-	
+
 
 4. rosetta_task_names.csv (780 task names)
 -------------------------------------------
 
-	Each line is a task name in Rosetta Code. 
+	Each line is a task name in Rosetta Code.
 
 
 5. wiki_algo_category.json (1119 algorithms)
@@ -61,37 +61,46 @@ CSV, JSON Files:
 
 	TODO: parse related tasks
 
-Script:
-=======
+# Script:
 
-1. rundbservers.sh
---------------------
+## Install
 
-	runs the redis and elasticsearch server.
-	elasticsearch is for algorithms, categories, and implementations,
-	redis is for visited terms when indexing wikipedia.
+Install redis and elastic search.
 
-2. backup_elasticsearch.sh
----------------------------
+```
+brew install redis
+brew install elasticsearch
+npm install elasticdump -g
+```
 
-	backup all the tables in elasticsearch into a json file
+## Quickstart
 
-3. restore_elasticsearch.sh
-----------------------------
+In one terminal, run redis
+```
+./run_redis.sh
+```
 
-	restore elasticsearch db from the json file
+In another terminal, run elastic search
+```
+./run_elastic_search.sh
+```
 
-Database:
-=========
+Restore data from json data dump
+```
+./restore_elasticsearch.sh
+```
 
-1. dump.rdb
-------------
+## Other scripts
 
-	the redis database dump
+Backup all the tables in elasticsearch into a json file
+```
+backup_elasticsearch.sh
+```
 
-2. elasticsearch_wikipedia.json
--------------------------------
+# Database
 
-	the elasticsearch database dump
-	for now: 110 categories + 1028 algorithms
+`elasticsearch_wikipedia.json`
+
+> the elasticsearch database dump
+> currently: 110 categories + 1028 algorithms
 
