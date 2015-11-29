@@ -28,6 +28,40 @@ h1.logo {
   padding: 6px;
 }
 
+.results.title {
+  font-size: 30px;
+  font-weight: 700;
+  margin: 20px 0;
+}
+.results.title.empty {
+  color: #C52A20;
+  margin: 60px 0;
+}
+
+.result {
+  border: 2px dashed rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  line-height: 1.5;
+}
+.result .name {
+  font-size: 22px;
+  font-weight: 700;
+  margin-bottom: 10px;
+}
+.result .description {
+  margin: 10px;
+}
+.result .description:first-letter {
+  float: left;
+  font-size: 40px;
+  line-height: 30px;
+  padding-top: 4px;
+  padding-right: 8px;
+  padding-left: 3px;
+}
+.result .categories.title {
+  font-weight: 700;
+}
 
 footer {
   margin-top: 100px;

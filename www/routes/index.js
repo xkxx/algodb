@@ -20,8 +20,10 @@ router.get('/', function(req, res, next) {
   }, function(err, data) {
     // After doing all the queries in parallel, render the page!
 
+    if (data.search.hits) {
+      console.log(data.search.hits[0]);
+    }
     data.query = query; // may be undefined
-    data.results = []; // temp
     console.log('Render /index.html with the following data:');
     console.log(data);
     res.render('index', data);

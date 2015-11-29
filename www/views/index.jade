@@ -13,13 +13,25 @@ block content
       strong= count_summary.implementation
       span  implemenatations
   form
-    input.query-input(name='q')
+    input.query-input(name='q' value=query)
   .results
-    if results.length
-      h2 Results
-      for r in results
+    - var numResults = search.hits.length;
+    if numResults
+      - var resultsTitle = numResults + ' Result' + (numResults === 1 ? '' : 's');
+      h2.results.title= resultsTitle
+      for h in search.hits
+        - var hit = h._source;
         .result
-          .name= r.name
+          .name= hit.name
+          p.description= hit.description
+          h3.categories.title Categories
+          ul.categories
+          for c in hit.categories
+            li.category= c
+          .tagline= hit.tagline
+    else
+      h2.results.title.empty= 'No search results for "' + query + '"!'
+
   footer
     p Made with 💖by
     ul

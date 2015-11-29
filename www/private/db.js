@@ -30,14 +30,25 @@ module.exports = {
    * @return {Object} res.json The json body from elasticsearch
    */
   search: function(query, cb) {
-    var url = ELASTIC_SEARCH_URL;
-    request(url, function(error, response, body) {
+    var url = ELASTIC_SEARCH_URL + 'algorithm/_search';
+    var body = {
+      query: {
+        match: {
+          name: query
+        }
+      }
+    };
+    request({
+      url: url,
+      body: body,
+      json: true
+    }, function(error, response, body) {
       var res = {};
       res.error = error;
 
       // Add the response data if there wasn't an error
       if (!error && response.statusCode == 200) {
-        res.json = JSON.parse(body);
+        res.hits = body.hits.hits;
       }
 
       // Send back the data
