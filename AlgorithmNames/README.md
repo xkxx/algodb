@@ -85,7 +85,7 @@ In another terminal, run elastic search
 ./run_elastic_search.sh
 ```
 
-Restore data from json data dump
+Restore data from json data dump (only one time to load data into db)
 ```
 ./restore_elasticsearch.sh
 ```
