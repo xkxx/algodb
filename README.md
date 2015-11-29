@@ -2,6 +2,11 @@
 
 Mad (╯°□°)╯'ing.
 
+## Setup
+
+1. Run the DB by following the instructions in `AlgorithmNames`
+2. Run the web server in `www`
+
 ## Parts
 
 ### AlgorithmNames
