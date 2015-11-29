@@ -1,12 +1,29 @@
 extends layout
 
 block content
-  h1 AlgoDB
+  h1.logo AlgoDB
+  .stats
+    h3
+      strong= count_summary.algorithm
+      span  algorithms
+    h3
+      strong= count_summary.category
+      span  categories
+    h3
+      strong= count_summary.implementation
+      span  implemenatations
   form
-    input(name='q')
+    input.query-input(name='q')
   .results
     if results.length
       h2 Results
       for r in results
         .result
           .name= r.name
+  footer
+    p Made with 💖by
+    ul
+      li: a(href='http://github.com/grant') grant
+      li: a(href='http://github.com/gupta-ak') gupta-ak
+      li: a(href='http://github.com/MinjingZhu') minjingzhu
+      li: a(href='http://github.com/xkxx') xkxx

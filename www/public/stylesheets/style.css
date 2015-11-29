@@ -6,3 +6,29 @@ body {
 a {
   color: #00B7FF;
 }
+
+h1.logo {
+  font-size: 40px;
+  font-weight: 700;
+  margin: 20px 0;
+}
+
+.stats {
+  margin: 10px 0;
+}
+.stats strong {
+  font-weight: 700;
+}
+
+
+.query-input {
+  height: 40px;
+  width: 320px;
+  font-size: 22px;
+  padding: 6px;
+}
+
+
+footer {
+  margin-top: 100px;
+}
