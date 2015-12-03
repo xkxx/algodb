@@ -34,7 +34,7 @@ module.exports = {
     var body = {
       query: {
         match: {
-          name: query
+          description: query
         }
       }
     };
