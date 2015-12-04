@@ -9,5 +9,6 @@ Uses similar model as string matching, but instead finds words by filtering stop
 
 
 Elastic Search string matching:
-run ./npm_elastic_dump.sh
-run python stringmatching_npm.py
+For every algorithm, uses elastic search to search the algortihm in the npm document focus and returns the top values
+usage:
+python string_matching_npm.py algolist.csv topK_from_elastic_search
