@@ -8,10 +8,12 @@ from index_elasticsearch_wikipedia import INDEX_NAME, normalize, \
 
 from parseWikipedia import get_wiki_page, is_algorithm_page
 
+import json
+
 es = Elasticsearch([{'host': 'localhost', 'port': 9200}])
 
 visitedwiki = load_visited()
-indexedimpl = set(rd.smembers('rosetta-mapping-success'))
+indexedimpl = set(rd.hkeys('rosetta-mapping-success'))
 
 FUZZY_THRESHOLD = 79
 
@@ -19,14 +21,12 @@ def index_rosetta():
     category = site.Pages['Category:Programming Tasks']
     for page in category:
         if page.page_title not in indexedimpl:  # save time
-            print 'looking for page:', page.page_title
-            res = get_corres_wikipedia_algo_id(page)
-            if res is not None:
-                (algo_ids, description) = res
-                if algo_ids is not None:
-                    index_rosetta_page(page, algo_ids, description)
+            # print 'looking for page:', page.page_title.encode('utf8')
+            algo_ids = get_corres_wikipedia_algo_id(page)
+            if algo_ids is not None:
+                index_rosetta_page(page, algo_ids)
 
-def index_rosetta_page(page, algo_ids, description):
+def index_rosetta_page(page, algo_ids):
     pagetask = Task(page)  # extract data from page using Task from pr
 
     for impl in pagetask.solutions:
@@ -35,12 +35,15 @@ def index_rosetta_page(page, algo_ids, description):
             'algorithm': algo_ids,
             'source': 'rosetta',
             'implementation': impl['content'],
-            'description': description
         }
 
-        print '----task name:', pagetask.task_name
-        print '----lang:', impl['language']
-        print '----algos:', algo_ids
+        # print '----task name:', pagetask.task_name.encode('utf8')
+        # print '----lang:', impl['language'].decode('utf8')
+        # print '----algos:', algo_ids
+
+        if len(algo_ids) > 1:
+            body['description'] = '\n'.join(pagetask.task_summary)
+            # print '----task description:', body['description'].decode('utf8')
 
         es.index(index=INDEX_NAME, doc_type='implementation',
             id='rosetta:' + normalize(pagetask.task_name) + ':' +
@@ -55,7 +58,7 @@ def get_sorted_similar_links(taskname, links):
         rd.sadd('rosetta-mapping-taskname-coding-error', str(e) + taskname)
         return []
     if res is not None:
-        print 'confidence: ', res
+        # print 'confidence: ', res
         res = [link for (link, confidence) in res
             if confidence > FUZZY_THRESHOLD]
         return sorted(res, key=lambda x: x[1], reverse = True)
@@ -69,7 +72,6 @@ def index_corresponding_algorithm(wikipage, linktitle, page_title):
     if wikipage is not None:
         id = index_wiki_algorithm_entry(wikipage, linktitle,
             visitedwiki)
-        rd.sadd('rosetta-mapping-success', page_title)
         return id
 
     rd.sadd('rosetta-mapping-error-indexing-error',
@@ -80,11 +82,10 @@ def index_corresponding_algorithm(wikipage, linktitle, page_title):
 # None otherwise
 def get_id_of_corresponding_algorithm(linktitle, page_title):
     id = convert_to_id(linktitle)
-    print '--looking for id:', id
+    # print '--looking for id:', id
     result = es.get(index=INDEX_NAME, doc_type='algorithm',
         id=id, ignore=404)
     if result['found']:
-        rd.sadd('rosetta-mapping-success', page_title)
         return id
 
     rd.sadd('rosetta-mapping-error-correspage-notfound',
@@ -109,15 +110,17 @@ def get_corres_wikipedia_algo_id(page):
     for link in get_sorted_similar_links(page.page_title, wikilinks):
         # check if indexed
         id = get_id_of_corresponding_algorithm(link, page.page_title)
-        if id is not None:
-            rd.sadd('rosetta-mapping-similars-success', page.page_title)
-            return ([id], '')
-        # try to index this algorithm
-        wikipage = get_wiki_page(link)
-        id = index_corresponding_algorithm(wikipage, link, page.page_title)
-        if id is not None:
-            rd.sadd('rosetta-mapping-similars-success', page.page_title)
-            return ([id], '')
+        if id is None:
+            # try to index this algorithm
+            wikipage = get_wiki_page(link)
+            id = index_corresponding_algorithm(wikipage, link, page.page_title)
+            if id is None:
+                continue
+
+        rd.hset('rosetta-mapping-success', page.page_title,
+            json.dumps([id]))
+        rd.sadd('rosetta-mapping-similars-success', page.page_title)
+        return ([id], '')
 
     # then, if none of the links is similar to the task name,
     # 1, store the task description
@@ -129,16 +132,18 @@ def get_corres_wikipedia_algo_id(page):
         if wikipage is not None and is_algorithm_page(wikipage):
             # check if indexed
             id = get_id_of_corresponding_algorithm(link, page.page_title)
-            if id is not None:
-                ids.append(id)
-                continue
-            # try to index this algorithm
-            wikipage = get_wiki_page(link)
-            id = index_corresponding_algorithm(wikipage, link, page.page_title)
-            if id is not None:
-                ids.append(id)
+            if id is None:
+                # try to index this algorithm
+                wikipage = get_wiki_page(link)
+                id = index_corresponding_algorithm(wikipage, link,
+                    page.page_title)
+                if id is None:
+                    continue
+            ids.append(id)
     if len(ids) > 0:
-        return (ids, page.task_summary)
+        rd.hset('rosetta-mapping-success', page.page_title,
+            json.dumps(ids))
+        return ids
 
     rd.sadd('rosetta-mapping-error-undefinable-wikilinks', page.page_title)
     return None
