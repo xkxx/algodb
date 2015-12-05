@@ -27,9 +27,10 @@ module.exports = {
    * @param  {Callback} cb The response callback
    * @return {Object} res A search result object with the following data
    * @return {Object} res.error The error
-   * @return {Object} res.json The json body from elasticsearch
+   * @return {Object} res.hits The hits from elasticsearch
    */
   search: function(query, cb) {
+    var self = this;
     var url = ELASTIC_SEARCH_URL + 'algorithm/_search';
     var body = {
       query: {
@@ -46,12 +47,73 @@ module.exports = {
       var res = {};
       res.error = error;
 
-      // Add the response data if there wasn't an error
-      if (!error && response.statusCode == 200) {
+      // Add the algorithm response data if there wasn't an error
+      if (!error && response.statusCode === 200) {
+        res.hits = body.hits.hits;
+
+        // Get a list of algorithm ids
+        var ids = res.hits.map(function(alg) {
+          return alg._id;
+        });
+
+        // Prepare the implemenatation queries
+        var algorithmImplementationQueries = ids.map(function(id) {
+          return function(queryCb) {
+            self.get_implementations(id, function(err, impls) {
+              queryCb(err, {
+                id: id,
+                hits: impls.hits
+              });
+            });
+          };
+        });
+        // Execute the queries in parallel
+        async.parallel(algorithmImplementationQueries, function(queryErr, implQueryData) {
+          for (var i = 0; i < res.hits.length; ++i) {
+            var algorithm = res.hits[i];
+
+            var impls = implQueryData.filter(function(impls) {
+              return impls.id === algorithm._id;
+            })[0];
+            algorithm.implementations = impls.hits;
+          }
+          cb(error, res);
+        });
+      } else {
+        cb(error, res);
+      }
+    });
+  },
+
+  /**
+   * Gets all the implementation documents for a given algorithm id
+   * @param {String} algorithmIds The algorithm id
+   * @param {Function} cb The response callback
+   * @return {Object} res A list of implementations
+   * @return {Object} res.error The error
+   * @return {Object} res.hits The hits
+   */
+  get_implementations: function(algorithmId, cb) {
+    var url = ELASTIC_SEARCH_URL + 'implementation/_search';
+    var body = {
+      query: {
+        match: {
+          algorithm: algorithmId
+        }
+      }
+    };
+    request({
+      url: url,
+      body: body,
+      json: true,
+    }, function(error, response, body) {
+      var res = {};
+      res.error = error;
+
+      if (!error && response.statusCode === 200) {
         res.hits = body.hits.hits;
       }
 
-      // Send back the data
       cb(error, res);
     });
   },
