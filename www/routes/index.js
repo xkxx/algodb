@@ -20,12 +20,13 @@ router.get('/', function(req, res, next) {
   }, function(err, data) {
     // After doing all the queries in parallel, render the page!
 
-    if (data.search.hits) {
-      console.log(data.search.hits[0]);
-    }
     data.query = query; // may be undefined
     console.log('Render /index.html with the following data:');
-    console.log(data);
+    if (data.search.hits) {
+      for (var i = 0; i < data.search.hits.length; ++i) {
+        console.log(!!data.search.hits[i].implementations);
+      }
+    }
     res.render('index', data);
   });
 });

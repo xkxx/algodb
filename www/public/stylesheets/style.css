@@ -59,8 +59,16 @@ h1.logo {
   padding-right: 8px;
   padding-left: 3px;
 }
-.result .categories.title {
+.result .title {
   font-weight: 700;
+}
+.result ul {
+  margin: 10px;
+}
+
+li {
+  list-style-type: disc;
+  margin-left: 20px;
 }
 
 footer {
