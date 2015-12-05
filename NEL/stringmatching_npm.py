@@ -2,6 +2,7 @@ import json
 import requests
 import sys
 import unicodecsv as csv
+from elasticsearch import ElasticSearch
 
 NAME = "name"
 README = "readme" #"name" # "readme"
@@ -20,7 +21,18 @@ def parse_single_algo(algo, response, takeMax=1):
         if i == takeMax:
             break
     return res  
+   
+def link_algorithm(description, es):
+    return es.search(index='throwtable',doc_type='algorithm',body={
+        "query": {
+            "multi_match" : {
+                "query": description,
+                "fields": ['name', 'tag_line', 'description']
+            }
+        }
+    })
     
+ 
 def run_elastic_search(algolist, takeMax):
     mapping = {}
     url = "http://localhost:9200/throwtable/algorithm/_search" 
