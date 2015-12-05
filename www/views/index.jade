@@ -15,22 +15,25 @@ block content
   form
     input.query-input(name='q' value=query)
   .results
-    - var numResults = search.hits.length;
-    if numResults
-      - var resultsTitle = numResults + ' Result' + (numResults === 1 ? '' : 's');
-      h2.results.title= resultsTitle
-      for h in search.hits
-        - var hit = h._source;
-        .result
-          .name= hit.name
-          p.description= hit.description
-          h3.categories.title Categories
-          ul.categories
-          for c in hit.categories
-            li.category= c
-          .tagline= hit.tagline
+    if search.hits
+      - var numResults = search.hits.length;
+      if numResults
+        - var resultsTitle = numResults + ' Result' + (numResults === 1 ? '' : 's');
+        h2.results.title= resultsTitle
+        for h in search.hits
+          - var hit = h._source;
+          .result
+            .name= hit.name
+            p.description= hit.description
+            h3.categories.title Categories
+            ul.categories
+            for c in hit.categories
+              li.category= c
+            .tagline= hit.tagline
+      else
+        h2.results.title.empty= 'No search results for "' + query + '"!'
     else
-      h2.results.title.empty= 'No search results for "' + query + '"!'
+      h2.results.title Please enter a query.
 
   footer
     p Made with 💖by

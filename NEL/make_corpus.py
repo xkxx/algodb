@@ -3,7 +3,7 @@ import os
 from bs4 import BeautifulSoup
 
 # Load algorith name and summaries
-algo_files = ["list_of_algorithms.csv", "algorithmia.csv"]
+algo_files = ["list_of_algorithms.csv"]
 algo_paths = [os.path.join("..", "AlgorithmNames", f) for f in algo_files]
 
 algo_names = []
