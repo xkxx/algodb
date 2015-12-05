@@ -27,9 +27,12 @@ block content
             p.description= hit.description
             h3.categories.title Categories
             ul.categories
-            for c in hit.categories
-              li.category= c
-            .tagline= hit.tagline
+              for c in hit.categories
+                li.category= c
+            h3.implementations.title Implementations
+            ul.implementations
+              for i in h.implementations
+                li.implementation= i._id
       else
         h2.results.title.empty= 'No search results for "' + query + '"!'
     else

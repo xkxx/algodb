@@ -5,7 +5,7 @@ import unicodecsv as csv
 
 NAME = "name"
 README = "readme" #"name" # "readme"
-DESC = "desc" #"description" # "desc" 
+DESC = "desc" #"description" # "desc"
 def parse_single_algo(algo, response, takeMax=1):
     jdata = json.loads(response.text)
     hits = jdata["hits"]["hits"]
@@ -19,17 +19,28 @@ def parse_single_algo(algo, response, takeMax=1):
         i += 1
         if i == takeMax:
             break
-    return res  
-    
+    return res
+
+def link_algorithm(description, es):
+    return es.search(index='throwtable', doc_type='algorithm', body={
+        "query": {
+            "multi_match": {
+                "query": description,
+                "fields": ['name^3', 'tag_line^1.5', 'description']
+            }
+        }
+    })
+
+
 def run_elastic_search(algolist, takeMax):
     mapping = {}
-    url = "http://localhost:9200/throwtable/algorithm/_search" 
+    url = "http://localhost:9200/throwtable/algorithm/_search"
     for algo in algolist:
         query = json.dumps({
             "query": {
                 "multi_match" : {
                     "query" : algo,
-                    "fields" : [README, DESC] 
+                    "fields" : [README, DESC]
                 }
             }
         })
@@ -41,10 +52,10 @@ def run_elastic_search(algolist, takeMax):
 
 if __name__ == '__main__':
     algo_list = sys.argv[1]
-    max_entries = int(sys.argv[2])    
+    max_entries = int(sys.argv[2])
     #print(run_elastic_search(["quicksort", "binary search", "mergesort", "depth first search"], 1))
-    
+
     with open(algo_list, "rb") as f:
         reader = csv.reader(f)
-        algo_names = [row[0].lower() for row in reader]    
+        algo_names = [row[0].lower() for row in reader]
     print(run_elastic_search(algo_names, max_entries))
