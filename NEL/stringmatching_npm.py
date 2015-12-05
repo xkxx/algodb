@@ -27,7 +27,7 @@ def link_algorithm(description, es):
         "query": {
             "multi_match" : {
                 "query": description,
-                "fields": ['name', 'tag_line', 'description']
+                "fields": ['name^3', 'tag_line^1.5', 'description']
             }
         }
     })
