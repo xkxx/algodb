@@ -24,7 +24,7 @@ router.get('/', function(req, res, next) {
     console.log('Render /index.html with the following data:');
     if (data.search.hits) {
       for (var i = 0; i < data.search.hits.length; ++i) {
-        console.log(!!data.search.hits[i].implementations);
+        console.log(data.search.hits[i].implementations[0]);
       }
     }
     res.render('index', data);

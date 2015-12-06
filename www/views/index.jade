@@ -29,10 +29,13 @@ block content
             ul.categories
               for c in hit.categories
                 li.category= c
-            h3.implementations.title Implementations
-            ul.implementations
-              for i in h.implementations
-                li.implementation= i._id
+            if h.implementations.length
+              h3.implementations.title Implementations
+              ul.implementations
+                for i in h.implementations
+                  include ./implementation
+            else
+              h3.implementations.title No Implementations Found
       else
         h2.results.title.empty= 'No search results for "' + query + '"!'
     else

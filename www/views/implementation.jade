@@ -1,0 +1,18 @@
+//- In this scope, i = the implementation data
+- var impl = i._source;
+li.implementation(class=i._id)
+  .language
+    span.title= "Language: "
+    span.lang= impl.language
+  .source
+    span.title= "Source: "
+    span.name= impl.source
+  .source-code
+    ul.lines
+      for line in impl.implementation
+        li.line
+          if line.type === 'code'
+            pre
+              code.code(class=impl.language)= line.content
+          else if line.type === 'commentary'
+            p.commentary= line.content

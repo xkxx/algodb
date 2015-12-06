@@ -7,6 +7,8 @@ a {
   color: #00B7FF;
 }
 
+/* Header */
+
 h1.logo {
   font-size: 40px;
   font-weight: 700;
@@ -20,6 +22,7 @@ h1.logo {
   font-weight: 700;
 }
 
+/* Query */
 
 .query-input {
   height: 40px;
@@ -27,6 +30,8 @@ h1.logo {
   font-size: 22px;
   padding: 6px;
 }
+
+/* Results */
 
 .results.title {
   font-size: 30px;
@@ -43,7 +48,7 @@ h1.logo {
   padding: 20px;
   line-height: 1.5;
 }
-.result .name {
+.result > .name {
   font-size: 22px;
   font-weight: 700;
   margin-bottom: 10px;
@@ -62,7 +67,7 @@ h1.logo {
 .result .title {
   font-weight: 700;
 }
-.result ul {
+.result > ul {
   margin: 10px;
 }
 
@@ -70,6 +75,34 @@ li {
   list-style-type: disc;
   margin-left: 20px;
 }
+
+/* Implementation */
+
+.implementations li {
+  list-style-type: none;
+}
+
+.implementation .source .name {
+  text-transform: capitalize;
+}
+
+/* Formatting for source code */
+
+.source-code {
+  color: green;
+}
+.source-code .code {
+  font-family: 'Source Code Pro';
+  font-size: 12px;
+  padding: 10px;
+  white-space: pre-wrap;
+}
+.source-code .commentary {
+  color: gray;
+  padding: 10px;
+}
+
+/* End formatting for source code */
 
 footer {
   margin-top: 100px;
