@@ -95,6 +95,7 @@ li {
   font-family: 'Source Code Pro';
   font-size: 12px;
   padding: 10px;
+  tab-size: 2;
   white-space: pre-wrap;
 }
 .source-code .commentary {

@@ -34,8 +34,10 @@ module.exports = {
     var url = ELASTIC_SEARCH_URL + 'algorithm/_search';
     var body = {
       query: {
-        match: {
-          description: query
+        multi_match: {
+          query: query,
+          fields: ['name^3', 'tag_line^1.5', 'description'],
+          fuzziness: 'AUTO'
         }
       }
     };
