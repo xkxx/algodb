@@ -120,7 +120,7 @@ def get_corres_wikipedia_algo_id(page):
         rd.hset('rosetta-mapping-success', page.page_title,
             json.dumps([id]))
         rd.sadd('rosetta-mapping-similars-success', page.page_title)
-        return ([id], '')
+        return [id]
 
     # then, if none of the links is similar to the task name,
     # 1, store the task description

@@ -163,17 +163,19 @@ var main = function() {
 };
 
 if(require.main === module) {
-  main();
-  /*
-
-  var pkgName = process.argv.slice(-1)[0];
-  if (pkgName) {
-    getDescForPkg(pkgName)
-    .then(function(result) {
-      console.info(result);
-    })
-    .catch(function(err) {
-      console.error(err);
-    });
-  } */
+  if (process.argv.length == 1) {
+    main();
+  }
+  else {
+    var pkgName = process.argv.slice(-1)[0];
+    if (pkgName) {
+      getDescForPkg(pkgName)
+      .then(function(result) {
+        console.info(JSON.stringify(result));
+      })
+      .catch(function(err) {
+        console.error(err);
+      });
+    }
+  }
 }
