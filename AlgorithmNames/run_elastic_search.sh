@@ -1,1 +1,0 @@
-/usr/local/Cellar/elasticsearch/2.1.0_1/bin/elasticsearch

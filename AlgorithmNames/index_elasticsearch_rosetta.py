@@ -17,11 +17,16 @@ indexedimpl = set(rd.hkeys('rosetta-mapping-success'))
 
 FUZZY_THRESHOLD = 79
 
+UPDATING = True
+
 def index_rosetta():
     category = site.Pages['Category:Programming Tasks']
+    counter = 0
     for page in category:
-        if page.page_title not in indexedimpl:  # save time
-            # print 'looking for page:', page.page_title.encode('utf8')
+        counter += 1
+        if page.page_title not in indexedimpl or UPDATING:  # save time
+            print '#%d, looking for page: %s' \
+                % (counter, page.page_title.encode('utf8'))
             algo_ids = get_corres_wikipedia_algo_id(page)
             if algo_ids is not None:
                 index_rosetta_page(page, algo_ids)

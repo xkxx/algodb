@@ -5,6 +5,8 @@ import mwparserfromhell as parser
 import re
 
 site = mw.Site('rosettacode.org', path='/mw/')
+search_pattern = re.compile(r"([\s\S]*?)<lang (\w+)>([\s\S]+?)<\/lang>")
+trim_pattern = re.compile(r"{{.+?}}")
 
 class Task:
     """
@@ -22,14 +24,38 @@ class Task:
         result = matchHeader.match(title)
         return result and result.group(1)
 
+    # find the first commentary block and the first code block,
+    # if match found, return (commentary, code, entirematch),
+    # otherwise return (commentary, None, None).
+    def parse_text(self, text):
+        match = search_pattern.search(text)
+        if match is None:
+            return (text, None, None)
+        # print '--------------------------------------------------------------'
+        # print 'text:', text
+        # print '------'
+        # print 'g1:', match.group(1)
+        # print '------'
+        # print 'g3:', match.group(3)
+        # print '------'
+        # print 'g0:', match.group(0)
+        # print '------'
+        return (match.group(1), match.group(3), match.group(0))
+
+    def trim(self, commentary):
+        commentary = re.sub(trim_pattern, '', commentary).strip()
+        # print '------'
+        # print 'commentary', commentary
+        return commentary
+
     def _parse_solutions(self, solution_nodes):
         self.solutions = list()
         current_solution = None
         for node in solution_nodes:
-            print '================================node: ', \
-                node.encode('utf8'), \
-                'task:', self.task_name
-            print type(node)
+            # print '================================node: ', \
+                # node.encode('utf8'), \
+                # 'task:', self.task_name
+            # print type(node)
             if type(node) is parser.nodes.heading.Heading:
                 lang = \
                     self._parse_language_from_header(node.title.encode('utf8'))
@@ -42,22 +68,32 @@ class Task:
                 current_solution = dict()
                 current_solution['language'] = lang
                 current_solution['content'] = list()
-            if type(node) is parser.nodes.text.Text:
-                current_solution['content'].append({'type': 'commentary',
-                    'content': node.value.encode('utf8')})
             if type(node) is parser.nodes.tag.Tag and node.tag == 'lang':
                 current_solution['content'].append({'type': 'code',
                     'content': node.contents.encode('utf8')})
-        print '================================'
+            if type(node) is parser.nodes.text.Text:
+                text = str(node.value.encode('utf8'))
+                (commentary, code, entirematch) = self.parse_text(text)
+                while code is not None:
+                    current_solution['content'].append({'type': 'code',
+                        'content': code})
+                    commentary = self.trim(commentary)
+                    if len(commentary) > 0:
+                        current_solution['content'].append({'type':
+                            'commentary', 'content': commentary})
+                    text = text[len(entirematch):]
+                    (commentary, code, entirematch) = self.parse_text(text)
+
+        # print '================================'
 
     def _parse_summary(self):
         self.task_summary = list()
         for i in range(len(self.nodeslist)):
             curr = self.nodeslist[i]
             if type(curr) is parser.nodes.heading.Heading:
-                print curr
+                # print curr
                 if self._parse_language_from_header(curr.title.encode('utf8')):
-                    print curr
+                    # print curr
                     self._parse_solutions(self.nodeslist[i:])
                     break
                 else:
@@ -94,4 +130,7 @@ def parse_rosetta_task_pages():
         output.write('\n')
 
 if __name__ == '__main__':
-    parse_rosetta_task_pages()
+    # parse_rosetta_task_pages()
+    page = site.Pages['fractran']
+
+    print Task(page).solutions

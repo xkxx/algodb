@@ -61,46 +61,10 @@ CSV, JSON Files:
 
 	TODO: parse related tasks
 
-# Script:
-
-## Install
-
-Install redis and elastic search.
-
-```
-brew install redis
-brew install elasticsearch
-npm install elasticdump -g
-```
 
 ## Quickstart
 
-In one terminal, run redis
+Open a terminal in this folder, and run redis
 ```
 ./run_redis.sh
 ```
-
-In another terminal, run elastic search
-```
-./run_elastic_search.sh
-```
-
-Restore data from json data dump (only one time to load data into db)
-```
-./restore_elasticsearch.sh
-```
-
-## Other scripts
-
-Backup all the tables in elasticsearch into a json file
-```
-backup_elasticsearch.sh
-```
-
-# Database
-
-`elasticsearch_wikipedia.json`
-
-> the elasticsearch database dump
-> currently: 110 categories + 1028 algorithms
-
