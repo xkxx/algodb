@@ -33,13 +33,13 @@ backup_elasticsearch.sh
 
 `elasticsearch_category.json`
 > the elasticsearch database dump for categories
-> currently: ? categories
+> currently: 110 categories
 
 `elasticsearch_algorithm.json`
 > the elasticsearch database dump for algorithms
-> currently: ? algorithms
+> currently: 1170 algorithms
 
 `elasticsearch_implementation.json`
 > the elasticsearch database dump for implementations
-> currently: ? implementations
+> currently: 10015 implementations
 

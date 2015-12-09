@@ -18,5 +18,4 @@ Small example set of crosswikis dictionary.
 
 ## dictionary
 
-The crosswikis dictionary.
-Can be download at http://www-nlp.stanford.edu/pubs/crosswikis-data.tar.bz2/dictionary.bz2
+The crosswikis dictionary. Can be download at http://www-nlp.stanford.edu/pubs/crosswikis-data.tar.bz2/dictionary.bz2
