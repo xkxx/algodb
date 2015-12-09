@@ -42,6 +42,12 @@ block content
       h2.results.title Please enter a query.
 
   footer
+    .languages
+      ul.list
+        for l in languages
+          li.lang(style='color:'+l.color)
+            span.title= l.language
+            span.count= ' (' + l.count + ')'
     p Made with 💖by
     ul
       li: a(href='http://github.com/grant') grant

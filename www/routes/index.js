@@ -4,6 +4,37 @@ var router = express.Router();
 
 var db = require('../private/db');
 
+// Statically gather the language count on server start
+var languages;
+db.get_languages(function(err, langs) {
+  // Make languages a sorted list by count
+  var langArray = [];
+  for (var lang in langs) {
+    var langObj = {
+      language: lang,
+      count: langs[lang]
+    };
+    langArray.push(langObj);
+  }
+  var languagesCount = langArray.reduce(function(a,b) {
+    return a + b.count;
+  }, 0);
+
+  for (var i in langArray) {
+    var percent = langArray[i].count / languagesCount;
+    var r = Math.round(percent * 255 * 99);
+    var color ='rgb(' + r + ',45,34)';
+    langArray[i].color = color;
+  }
+
+  langArray.sort(function(a, b) {
+    return b.count - a.count;
+  });
+  languages = langArray;
+
+});
+
+
 /* GET home page. */
 router.get('/', function(req, res, next) {
   var query = req.query.q;
@@ -20,6 +51,7 @@ router.get('/', function(req, res, next) {
   }, function(err, data) {
     // After doing all the queries in parallel, render the page!
 
+    data.languages = languages;
     data.query = query; // may be undefined
     console.log('Render /index.html with the following data:');
     if (data.search.hits) {

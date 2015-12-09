@@ -7,6 +7,7 @@ var request = require('request');
 var map = require('objmap');
 
 var ELASTIC_SEARCH_URL = 'http://localhost:9200/throwtable/';
+var ELASTIC_SCROLL_URL = 'http://localhost:9200/';
 
 /**
  * Quick way to get json from a url.
@@ -83,6 +84,54 @@ module.exports = {
         });
       } else {
         cb(error, res);
+      }
+    });
+  },
+
+  /**
+   * Gets a count of the number of implementations in each language.
+   * @param  {Function} cb The response callback
+   * @return {Object}      A map from language to implementation in that language count
+   */
+  get_languages: function(cb) {
+    var url = ELASTIC_SEARCH_URL + 'implementation/_search?search_type=scan&scroll=1m';
+    var body = {
+      fields: ['language'],
+      // from: 1000,
+      size: 100000,
+      query: {
+        match_all: {}
+      },
+    };
+    request({
+      url: url,
+      body: body,
+      json: true
+    }, function(error, response, body) {
+      var scrollId = body._scroll_id;
+      if (!error && response.statusCode === 200) {
+        url = ELASTIC_SCROLL_URL + '_search/scroll?scroll=5m&scroll_id=' + scrollId;
+        body = {};
+        request({
+          url: url,
+          body: body,
+          json: true
+        }, function(error, response, body) {
+          var languages = {};
+
+          if (!error && response.statusCode === 200) {
+            var hits = body.hits.hits;
+            for (var i = 0; i < hits.length; ++i) {
+              var lang = hits[i].fields.language[0];
+              if (!languages[lang]) {
+                languages[lang] = 0;
+              }
+              ++languages[lang];
+            }
+          }
+
+          cb(error, languages);
+        });
       }
     });
   },
