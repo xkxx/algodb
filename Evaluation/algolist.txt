@@ -1,0 +1,364 @@
+Powerset construction
+Todd-Coxeter algorithm
+Alpha-beta
+Ant-algorithms
+CLA
+DE (Differential evolution)
+Semi-Supervised Recognition of Sarcastic Sentences in Online Product Reviews
+Algorithm that recognize sacarsms or irony in a tweet or an online document
+Sentiment analysis
+Epitome
+Counting objects in an image
+Deep Dense Face Detector
+Evolution-Constructed Features
+O'Carroll algorithm
+Tracking-Learning Detection
+Viola-Jones object detection framework, simple and fast
+Fitness proportionate selection
+Truncation selection
+Tournament selection
+Stochastic universal sampling
+Hopfield net
+Backpropagation
+Self-organizing map (Kohonen map)
+PAVA (Pool-Adjacent-Violators Algorithm)
+Multiplicative Weights
+Needleman-Wunsch
+Smith-Waterman
+Ullmann's algorithm
+Burrows-Wheeler transform
+Deflate
+Delta encoding
+Incremental encoding
+LZW
+LZ77 and 78
+LZMA
+LZO
+PPM (Prediction by Partial Matching)
+Shannon-Fano coding
+Truncated binary
+Run-length encoding
+Sequitur
+EZW (Embedded Zerotree Wavelet)
+Zopfli
+Brotli
+Entropy encoding
+Huffman coding
+Adaptive Huffman coding
+Arithmetic coding
+Range encoding
+Unary coding
+Elias delta, gamma, omega coding
+Fibonacci coding
+Golomb coding
+Rice coding
+Linear predictive coding
+A-law algorithm
+Mu-law algorithm
+Fractal compression
+Transform coding
+Vector quantization
+Wavelet compression
+Advanced Encryption Standard (AES)
+Rijndael
+Blowfish
+Data Encryption Standard (DES)
+IDEA (International Data Encryption Algorithm)
+RC4 or ARC4
+Tiny Encryption Algorithm
+PES (Proposed Encryption Standard)
+DSA (Digital Signature Algorithm)
+ElGamal
+RSA (Rivest, Shamir, Adleman)
+Diffie-Hellman (Merkle) key exchange (or exponential key exchange)
+NTRUEncrypt
+MD5
+RIPEMD (RACE Integrity Primitives Evaluation Message Digest)
+SHA-1 (Secure Hash Algorithm 1)
+HMAC
+Tiger (TTH)
+See
+Shamir's secret sharing scheme
+Blakley's secret sharing scheme
+Subset sum
+Shor's algorithm
+Gift wrapping
+Gilbert-Johnson-Keerthi distance
+Graham scan
+Line segment intersection
+Point in polygon
+Ray/Plane intersection
+Line/Triangle intersection
+Polygonization of implicit surfaces
+Triangulation
+A* tree search
+3D Surface Tracker Technology
+Bellman-Ford
+Graph canonization
+Dijkstra's algorithm
+Perturbation methods
+Floyd-Warshall
+Floyd's cycle-finding
+Johnson
+Hopcroft–Karp algorithm
+Kruskal
+Prim's
+Boruvka
+Ford-Fulkerson
+Edmonds-Karp
+Nonblocking Minimal Spanning Switch
+Woodhouse-Sharp
+Spring based
+Hungarian
+Coloring algorithm
+Nearest neighbour
+Topological sort
+Tarjan's off-line least common ancestors algorithm
+Bresenham's line algorithm
+Colorization
+Depixelizing Pixel Art
+DDA line algorithm
+Flood fill
+HDR
+Xiaolin Wu's line algorithm
+Painter's algorithm
+Ray tracing
+Phong shading
+Gouraud shading
+Scanline rendering
+Global illumination
+Interpolation
+Resynthesizer
+Slope-intercept algorithm
+Spline interpolation
+3D Surface Tracker Technology
+Binary search algorithm
+Breadth-first search
+Best-first search
+Depth-first search
+Dictionary search
+Disjoint-set data structure and algorithm
+Hash table
+Interpolated search
+Median search
+Predictive search
+Selection algorithm
+Skip list
+Splay tree
+Uniform-cost search
+Binary tree sort
+Bogosort
+Bubble sort
+Bucket sort
+Cocktail sort
+Comb sort
+Counting sort
+Gnome sort
+Heapsort
+Insertion sort
+Introsort
+Merge sort
+Pancake sort
+Pigeonhole sort
+Postman sort
+Quicksort
+Radix sort
+Selection sort
+Shell sort
+Smoothsort
+Stochastic sort
+Simple Merge
+k-way Merge sort
+Davis–Putnam algorithm
+Buchberger's algorithm
+Extended Euclidean algorithm
+Fourier transform multiplication
+Gram-Schmidt process
+Gauss-Jordan elimination
+Karatsuba multiplication
+Knuth-Bendix completion
+Multivariate division
+Risch algorithm
+Toom-Cook (Toom3)
+QR algorithm
+Inverse iteration
+Rayleigh quotient iteration
+Arnoldi iteration
+Lanczos iteration
+Jacobi method
+Bisection
+Divide-and-conquer
+Richardson eigenvector algorithm
+Max-Plus
+Abrams and Lloyd eigenvector algorithm
+Binary GCD algorithm
+Booth's multiplication
+Euclidean algorithm
+Binary multiplication (Peasant or Egyptian multiplication)
+Baby-step giant-step
+Pollard's rho algorithm for logarithms
+Pohlig-Hellman algorithm
+Index calculus algorithm
+Fermat's factorization method
+Trial division
+Lenstra elliptic curve factorization or elliptic curve factorization method (ECM)
+Pollard's rho
+Pollard's p-1
+Congruence of squares
+Quadratic sieve
+Dixon's factorization method
+Special number field sieve
+General number field sieve (GNS)
+AKS primality test (Agrawal-Kayal-Saxena)
+Fermat primality test
+Miller-Rabin primality test
+Sieve of Eratosthenes
+Sieve of Atkin
+Solovay-Strassen primality test
+Fibonacci
+Biconjugate gradient method
+Dancing Links
+De Boor algorithm
+De Casteljau's algorithm
+False position method
+Gauss-Legendre
+Kahan summation
+MISER
+Newton's method
+Rounding functions
+Secant method
+Shifting nth-root
+Square root
+Borwein's algorithm
+Metropolis-Hastings
+Exponentiating by squaring
+Rutishauser
+Strassen algorithm
+Symbolic Cholesky decomposition
+Zha's algorithm
+Matrix chain multiplication
+Gerchberg Saxton
+Almost Linear Max Flow
+Ant colony optimization
+BFGS (Broyden-Fletcher-Goldfarb-Shanno method)
+Branch and bound
+Conjugate gradient method
+Evolution strategy
+Gauss-Newton
+Gradient descent
+Gradient ascent
+Levenberg-Marquardt
+Line search
+Local search
+Nelder-Mead method (downhill simplex method)
+Newton's method in optimization
+Paxos
+PSO, Particle swarm optimization
+Random-restart hill climbing
+Simplex algorithm
+Simulated annealing
+Steepest descent
+Stochastic tunneling
+Tabu search
+Trust search
+CYK (Cocke-Younger-Kasami)
+Earley's algorithm
+Inside-outside
+Dijkstra's shunting yard algorithm is commonly used to implement operator precedence parsers which convert from infix notation to Reverse Polish notation (RPN)
+LALR (Look-ahead LR)
+SLR (Simple LR) parser
+Canonical LR parser or LR(1) parser
+GLR
+Packrat parser
+Baum-Welch
+Viterbi
+Grover's algorithm
+Shor's algorithm
+Deutsch-Jozsa
+Blum Blum Shub
+Mersenne twister
+Lagged Fibonacci generator
+Linear congruential generator
+Yarrow algorithm
+Fortuna
+Linear feedback shift register
+Ephemerides
+Positions of Moon or other celestial objects
+Julian day
+Julian date
+Computation useful in healthcare
+Help to diagnosis
+CORDIC
+Rainflow-counting algorithm
+Osem
+Goertzel algorithm
+Discrete Fourier transform
+Fast Fourier transform
+Cooley-Tukey FFT
+Rader's FFT
+Bluestein's FFT
+Bruun's FFT
+Prime-factor FFT
+Richardson-Lucy deconvolution
+Elser Difference-Map
+Shazam
+Algorithms for Recovery and Isolation Exploiting Semantics
+Unicode Collation
+CHS conversion
+Cyclic redundancy check
+Parity control
+Boehm garbage collector
+Buddy memory allocation
+Generational garbage collector
+Mark and sweep
+Reference counting
+Lamport ordering
+Snapshot
+Vector clocks
+Marzullo
+Intersection
+Banker
+Page replacement
+Bully
+Elevator
+Shortest seek first
+Peterson
+Lamport's Bakery algorithm
+Dekker
+Earliest deadline first scheduling
+Fair-share scheduling
+Least slack time scheduling or Least Laxity First
+List scheduling
+Multi level feedback queue
+Rate-monotonic scheduling
+Round-Robin scheduling
+Shortest job next (or first)
+Shortest remaining time
+Aho-Corasick
+Bitap (or shift-or, shift-and, Baeza-Yates-Gonnet)
+Boyer-Moore string search
+Burrows Wheeler transform
+Knuth-Morris-Pratt
+Rabin-Karp string search
+Longest common subsequence problem
+Longest increasing subsequence problem
+Shortest common supersequence
+Horspool
+Levenshtein distance (or edit distance)
+Soundex
+Metaphone
+NYSIIS
+Latent Dirichlet Allocation (LDA)
+Latent Semantic Indexing (LSI)
+Stemming
+Doomsday
+Xor swap
+Hamming weight
+Luhn
+Create bit mask
+BrowseRank
+Hypertext Induced Topic Selection (HITS, patent in 1997)
+Leaf shape
+PageRank
+Schreier-Sims
+Robinson-Schensted
