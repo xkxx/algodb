@@ -1,6 +1,5 @@
 from cassandra.cluster import Cluster
-
-f = open('dictionary')
+import sys
 
 def parseRawCrosswikisRow(row):
     """Parses the fields from a row in dictionary.
@@ -18,12 +17,13 @@ def parseRawCrosswikisRow(row):
     info = ' '.join(middleParts[2:])
     return (anchor, cprob, entity, info)
 
-def index_cassandra_crosswikis():
+def index_cassandra_crosswikis(filename):
     cluster = Cluster()  # localhost
     session = cluster.connect()  # default key space
     session.set_keyspace('crosswikis')
 
-    out = open('out', 'w+')
+    f = open(filename)
+    out = open(filename + '.out', 'w+')
     for line in f:
         (anchor, cprob, entity, _) = parseRawCrosswikisRow(line)
         try:
@@ -46,4 +46,5 @@ def num(s):
         return 0.0
         print 'converting error:', s
 
-index_cassandra_crosswikis()
+if __name__ == '__main__':
+    index_cassandra_crosswikis(sys.argv[1])
