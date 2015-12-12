@@ -1,0 +1,222 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Best-first search - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Best</b>-<b>first search</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Best-first_search", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Best</b>-<b>first</b>_<b>search</b>", 
+            "snippet": "Best-first search is a search algorithm which explores a graph by expanding the \nmost promising node chosen according to a specified rule. Judea Pearl\u00a0...", 
+            "htmlSnippet": "<b>Best</b>-<b>first search</b> is a search algorithm which explores a graph by expanding the <br>\nmost promising node chosen according to a specified rule. Judea Pearl&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Best-first_search", 
+            "cacheId": "g1gNOtwtrvIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "A* search algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "A* <b>search</b> algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/A*_search_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/A*_<b>search</b>_algorithm", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "259", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQfEKtF0BKmWahyaJuzky8WNenoyEDowBUENpLFx28SGsSRAnKuBgkbKZ0j", 
+                        "height": "194"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/6/60/A*_Search_Example_on_North_American_Freight_Train_Network.gif"
+                    }
+                ]
+            }, 
+            "snippet": "A* uses a best-first search and finds a least-cost path from a given initial node to \none goal node (out of one or more possible goals). As A* traverses the graph,\u00a0...", 
+            "htmlSnippet": "A* uses a <b>best</b>-<b>first search</b> and finds a least-cost path from a given initial node to <br>\none goal node (out of one or more possible goals). As A* traverses the graph,&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/A*_search_algorithm", 
+            "cacheId": "YlqnN_QLnKMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Beam search - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Beam <b>search</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Beam_search", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Beam_<b>search</b>", 
+            "snippet": "Beam search is an optimization of best-first search that reduces its memory \nrequirements. Best-first search is a graph search which orders all partial solutions\n\u00a0...", 
+            "htmlSnippet": "Beam search is an optimization of <b>best</b>-<b>first search</b> that reduces its memory <br>\nrequirements. <b>Best</b>-<b>first search</b> is a graph search which orders all partial solutions<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Beam_search", 
+            "cacheId": "wcAH0lxYQQoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Breadth-first search - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Breadth-<b>first search</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Breadth-first_search", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Breadth-<b>first</b>_<b>search</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "240", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSQLOoYuxzr5X74q9M9vGXyQJRtsTtmzh8TX45RZgGlXCuKA__-PgY-t88_", 
+                        "height": "153"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Breadth-first-tree.svg/300px-Breadth-first-tree.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "Breadth-first search (BFS) is an algorithm for traversing or searching tree or \ngraph data structures. It starts at the tree root (or some arbitrary node of a graph,\u00a0...", 
+            "htmlSnippet": "Breadth-first search (<b>BFS</b>) is an algorithm for traversing or searching tree or <br>\ngraph data structures. It starts at the tree root (or some arbitrary node of a graph,&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Breadth-first_search", 
+            "cacheId": "jEQeW6JwIN4J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Iterative deepening depth-first search - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Iterative deepening depth-<b>first search</b> - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Iterative_deepening_depth-first_search", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Iterative_deepening_depth-<b>first</b>_<b>search</b>", 
+            "snippet": "In computer science, iterative deepening depth-first search (IDDFS) is a state \nspace ... alpha-beta pruning is most efficient if it searches the best moves first.", 
+            "htmlSnippet": "In computer science, iterative deepening depth-<b>first search</b> (IDDFS) is a state <br>\nspace ... alpha-beta pruning is most efficient if it searches the <b>best</b> moves <b>first</b>.", 
+            "link": "https://en.wikipedia.org/wiki/Iterative_deepening_depth-first_search", 
+            "cacheId": "frB8VIIjWwAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Dijkstra's algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Dijkstra&#39;s algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Dijkstra's_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Dijkstra&#39;s_algorithm", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "226", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7l2TIvp9Wa492c9Rcz22YNA1enA9GetarZ6XBCDXGMTP9PArL8dzhy2EW", 
+                        "height": "177"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/5/57/Dijkstra_Animation.gif"
+                    }
+                ]
+            }, 
+            "snippet": "... search and formulated as an instance of the more general idea of best-first \nsearch. ... Illustration of Dijkstra's algorithm search for finding path from a start \nnode\u00a0...", 
+            "htmlSnippet": "... search and formulated as an instance of the more general idea of <b>best</b>-<b>first</b> <br>\n<b>search</b>. ... Illustration of Dijkstra&#39;s algorithm search for finding path from a start <br>\nnode&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Dijkstra's_algorithm", 
+            "cacheId": "aJ7q_2Gm80YJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Greedy best-first search - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:Greedy <b>best</b>-<b>first search</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3AGreedy_best-first_search", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3AGreedy_<b>best</b>-<b>first</b>_<b>search</b>", 
+            "snippet": "Talk:Greedy best-first search. From Wikipedia, the free encyclopedia. Jump to: \nnavigation, search. Shouldn't this article be merged with Best-first_search?", 
+            "htmlSnippet": "Talk:Greedy <b>best</b>-<b>first search</b>. From Wikipedia, the free encyclopedia. Jump to: <br>\nnavigation, search. Shouldn&#39;t this article be merged with Best-first_search?", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3AGreedy_best-first_search", 
+            "cacheId": "wtUwO2sK46IJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Heuristic function - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Heuristic function - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Heuristic_function", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Heuristic_function", 
+            "snippet": "Heuristics are used by informed search algorithms such as Greedy best-first \nsearch and A* to choose the best node to explore. Greedy best-first search will\u00a0...", 
+            "htmlSnippet": "Heuristics are used by informed search algorithms such as Greedy <b>best</b>-<b>first</b> <br>\n<b>search</b> and A* to choose the best node to explore. Greedy <b>best</b>-<b>first search</b> will&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Heuristic_function", 
+            "cacheId": "CKWqoiRbcKgJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Depth-first search - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Depth-<b>first search</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Depth-first_search", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Depth-<b>first</b>_<b>search</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "240", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAHyH6tRbpBEVFpm5MeihoL88S61Mw7Kg-XrNxgtDI-r8ly0ihddDd0ouA", 
+                        "height": "153"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Depth-first-tree.svg/300px-Depth-first-tree.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "Depth-first search (DFS) is an algorithm for traversing or searching tree or graph \ndata structures. One starts at the root (selecting some arbitrary node as the root\u00a0...", 
+            "htmlSnippet": "Depth-<b>first search</b> (DFS) is an algorithm for traversing or <b>searching</b> tree or graph <br>\ndata structures. One starts at the root (selecting some arbitrary node as the root&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Depth-first_search", 
+            "cacheId": "CMEdqxvhPk0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Iterative deepening A* - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Iterative deepening A* - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Iterative_deepening_A*", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Iterative_deepening_A*", 
+            "snippet": "It is a variant of iterative deepening depth-first search that borrows the idea to use \na ... Recursive best-first search is another memory-constrained version of A*\u00a0...", 
+            "htmlSnippet": "It is a variant of iterative deepening depth-first search that borrows the idea to use <br>\na ... Recursive <b>best</b>-<b>first search</b> is another memory-constrained version of A*&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Iterative_deepening_A*", 
+            "cacheId": "tdRfNdhlAb0J"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Best-first search", 
+                "safe": "off", 
+                "searchTerms": "Best-first search", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "7070000"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Best-first search", 
+                "safe": "off", 
+                "searchTerms": "Best-first search", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "7070000"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.38", 
+        "formattedTotalResults": "7,070,000", 
+        "totalResults": "7070000", 
+        "searchTime": 0.383215
+    }
+}

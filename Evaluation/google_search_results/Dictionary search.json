@@ -1,0 +1,236 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Trie - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Trie - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Trie", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Trie", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "200", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRsG1oR6jEN2OTeH6CB8Tv6DlxZgoQqU2E2_tw3GS7yuCoPahvfaf3Ufgc", 
+                        "height": "187"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Trie_example.svg/250px-Trie_example.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "Unlike a binary search tree, no node in the tree stores the key associated with ... \n2.2 Dictionary representation; 2.3 Algorithms; 2.4 Sorting; 2.5 Full text search.", 
+            "htmlSnippet": "Unlike a binary <b>search</b> tree, no node in the tree stores the key associated with ... <br>\n2.2 <b>Dictionary</b> representation; 2.3 Algorithms; 2.4 Sorting; 2.5 Full text <b>search</b>.", 
+            "link": "https://en.wikipedia.org/wiki/Trie", 
+            "cacheId": "RbU6Xb8ttbAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Aho\u2013Corasick algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Aho\u2013Corasick algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Aho\u2013Corasick_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Aho\u2013Corasick_algorithm", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTNJCAn9TZE6CSKKkNIrv9g34mUGN_ZolJ67NgObW_mmSQAMKqjRamTXVw", 
+                        "height": "176"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ahocorasick.svg/220px-Ahocorasick.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "In computer science, the Aho\u2013Corasick algorithm is a string searching ... It is a \nkind of dictionary-matching algorithm that locates elements of a finite set of \nstrings\u00a0...", 
+            "htmlSnippet": "In computer science, the Aho\u2013Corasick algorithm is a string <b>searching</b> ... It is a <br>\nkind of <b>dictionary</b>-matching algorithm that locates elements of a finite set of <br>\nstrings&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Aho%E2%80%93Corasick_algorithm", 
+            "cacheId": "_iZfgIEZ0MoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Associative array - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Associative array - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Associative_array", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Associative_array", 
+            "snippet": "The dictionary problem is a classic computer science problem: the task of \ndesigning a data structure that maintains a set of data during 'search' 'delete' and\n\u00a0...", 
+            "htmlSnippet": "The <b>dictionary</b> problem is a classic computer science problem: the task of <br>\ndesigning a data structure that maintains a set of data during &#39;<b>search</b>&#39; &#39;delete&#39; and<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Associative_array", 
+            "cacheId": "6vRWYBmTYdoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Youdao - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Youdao - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Youdao", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Youdao", 
+            "snippet": "Youdao (\u6709\u9053) is a search engine released by Chinese internet leviathan, \nNetEase ... Youdao has launched Youdao dictionary, Youdao Cloud Notes, Hui \nHui\u00a0...", 
+            "htmlSnippet": "Youdao (\u6709\u9053) is a <b>search</b> engine released by Chinese internet leviathan, <br>\nNetEase ... Youdao has launched Youdao <b>dictionary</b>, Youdao Cloud Notes, Hui <br>\nHui&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Youdao", 
+            "cacheId": "tUxdVGr1TFkJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Digital Dictionary of Buddhism - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Digital <b>Dictionary</b> of Buddhism - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Digital_Dictionary_of_Buddhism", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Digital_<b>Dictionary</b>_of_Buddhism", 
+            "snippet": "The project of the Digital Dictionary of Buddhism (usually referred to by the ... the \ndictionaries were placed on the web in XML format with a search engine.", 
+            "htmlSnippet": "The project of the Digital <b>Dictionary</b> of Buddhism (usually referred to by the ... the <br>\n<b>dictionaries</b> were placed on the web in XML format with a <b>search</b> engine.", 
+            "link": "https://en.wikipedia.org/wiki/Digital_Dictionary_of_Buddhism", 
+            "cacheId": "nEZBd0eXW_QJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Babylon (software) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Babylon (software) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Babylon_(software)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Babylon_(software)", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "240", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSwkIdeW7HgzWzGY09hUyTLWJYJmmCQlt3-IKqYyEywwrPLU4TAfOsoob0", 
+                        "height": "188"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Babylon_(program).png/300px-Babylon_(program).png"
+                    }
+                ]
+            }, 
+            "snippet": "Babylon is a computer dictionary and translation program, developed by Babylon \n... It changes browser preferences such as the user's home page and search\u00a0...", 
+            "htmlSnippet": "Babylon is a computer <b>dictionary</b> and translation program, developed by Babylon <br>\n... It changes browser preferences such as the user&#39;s home page and <b>search</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Babylon_(software)", 
+            "cacheId": "HAfqtGaBF0sJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Google Dictionary - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Google <b>Dictionary</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Google_Dictionary", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Google_<b>Dictionary</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "160", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSIpl5Yi-7KjbRgRndJOxmuFAQ8wl2GnldOviMW8484yEUorvpKQ0h5DfM", 
+                        "height": "88"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/Google_Dictionary_screenshot.PNG/200px-Google_Dictionary_screenshot.PNG"
+                    }
+                ]
+            }, 
+            "snippet": "The Google Dictionary website was terminated on August 5, 2011 after part of its \nfunctionality was integrated into Google Search using the define: operator.", 
+            "htmlSnippet": "The Google <b>Dictionary</b> website was terminated on August 5, 2011 after part of its <br>\nfunctionality was integrated into Google <b>Search</b> using the define: operator.", 
+            "link": "https://en.wikipedia.org/wiki/Google_Dictionary", 
+            "cacheId": "2f1cOYcL0XwJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Google (verb) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Google (verb) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Google_(verb)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Google_(verb)", 
+            "snippet": "However, in many dictionaries the verb refers to using any web search engine, \nsuch as Yahoo! or Bing. A neologism arising from the popularity and dominance\n\u00a0...", 
+            "htmlSnippet": "However, in many <b>dictionaries</b> the verb refers to using any web <b>search</b> engine, <br>\nsuch as Yahoo! or Bing. A neologism arising from the popularity and dominance<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Google_(verb)", 
+            "cacheId": "fvqGzvxXDgoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Approximate string matching - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Approximate string matching - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Approximate_string_matching", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Approximate_string_matching", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "240", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTmVCIT7ff7y2UU9TJ-WPc3liSxY92V0E5jM6SWmtQCvYNHaCi0KcnMSg", 
+                        "height": "96"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Did_you_mean_andr%C3%A9_emotions.png/300px-Did_you_mean_andr%C3%A9_emotions.png"
+                    }
+                ]
+            }, 
+            "snippet": "Fuzzy Mediawiki search for \"angry emoticon\": \"Did you mean: andr\u00e9 emotions .... \n\"Indexing methods for approximate dictionary searching: Comparative analysis\"\u00a0...", 
+            "htmlSnippet": "Fuzzy Mediawiki search for &quot;angry emoticon&quot;: &quot;Did you mean: andr\u00e9 emotions .... <br>\n&quot;Indexing methods for approximate <b>dictionary searching</b>: Comparative analysis&quot;&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Approximate_string_matching", 
+            "cacheId": "Om7bhMNPyEAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Dictionary attack - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Dictionary</b> attack - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Dictionary_attack", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Dictionary</b>_attack", 
+            "snippet": "Jump to: navigation, search ... In cryptanalysis and computer security, a dictionary \nattack is a technique for defeating a cipher or authentication mechanism by\u00a0...", 
+            "htmlSnippet": "Jump to: navigation, <b>search</b> ... In cryptanalysis and computer security, a <b>dictionary</b> <br>\nattack is a technique for defeating a cipher or authentication mechanism by&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Dictionary_attack", 
+            "cacheId": "Z5GsLig17GAJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Dictionary search", 
+                "safe": "off", 
+                "searchTerms": "Dictionary search", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "13400000"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Dictionary search", 
+                "safe": "off", 
+                "searchTerms": "Dictionary search", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "13400000"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.30", 
+        "formattedTotalResults": "13,400,000", 
+        "totalResults": "13400000", 
+        "searchTime": 0.299033
+    }
+}

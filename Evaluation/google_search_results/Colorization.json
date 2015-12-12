@@ -1,0 +1,265 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Film colorization - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Film <b>colorization</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Film_colorization", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Film_<b>colorization</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQm_2snuIvKbljIGCf_vKU9YkcORFVp-0jZpurofcEB1o0-sUVlbq70qDo", 
+                        "height": "132"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/She_(colorized).jpg/220px-She_(colorized).jpg"
+                    }
+                ]
+            }, 
+            "snippet": "Film colorization is any process that adds color to black-and-white, sepia, or other \nmonochrome moving-picture images. It may be done as a special effect, or to\u00a0...", 
+            "htmlSnippet": "Film <b>colorization</b> is any process that adds color to black-and-white, sepia, or other <br>\nmonochrome moving-picture images. It may be done as a special effect, or to&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Film_colorization", 
+            "cacheId": "Tx9u1yWGBgcJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Colorization - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Colorization</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Colorization", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Colorization</b>", 
+            "snippet": "Colorization, colourization, colorisation, or colourisation may refer to: Film \ncolorization - a process that adds color to black and white, sepia or monochrome\n\u00a0...", 
+            "htmlSnippet": "<b>Colorization</b>, colourization, colorisation, or colourisation may refer to: Film <br>\n<b>colorization</b> - a process that adds color to black and white, sepia or monochrome<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Colorization", 
+            "cacheId": "7UJxKK5lrUcJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "List of black-and-white films that have been colorized - Wikipedia ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "List of black-and-white films that have been <b>colorized</b> - Wikipedia <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../List_of_black-and-white_films_that_have_been_ colorized", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../List_of_black-and-white_films_that_have_been_ <b>colorized</b>", 
+            "snippet": "Film, Year of production or release, Year of colorization/ Colorization company or \ndistributor/employer. 20 Million Miles to Earth, 1957, 2007 (Legend Films).", 
+            "htmlSnippet": "Film, Year of production or release, Year of <b>colorization</b>/ <b>Colorization</b> company or <br>\ndistributor/employer. 20 Million Miles to Earth, 1957, 2007 (Legend Films).", 
+            "link": "https://en.wikipedia.org/wiki/List_of_black-and-white_films_that_have_been_colorized", 
+            "cacheId": "mzC5j2T6C6wJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Wilson Markle - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Wilson Markle - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Wilson_Markle", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Wilson_Markle", 
+            "pagemap": {
+                "hcard": [
+                    {
+                        "bday": "1938-09-02", 
+                        "category": "Canada", 
+                        "fn": "Wilson Markle"
+                    }
+                ]
+            }, 
+            "snippet": "Wilson Markle (born September 2, 1938) is a Canadian engineer who invented \nthe film colorization process in 1970. His first company, Image Transform,\u00a0...", 
+            "htmlSnippet": "Wilson Markle (born September 2, 1938) is a Canadian engineer who invented <br>\nthe film <b>colorization</b> process in 1970. His first company, Image Transform,&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Wilson_Markle", 
+            "cacheId": "JysgKHKXpsEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "File:She (colorized).jpg - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "File:She (<b>colorized</b>).jpg - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/File:She_(colorized).jpg", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/File:She_(<b>colorized</b>).jpg", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "259", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcShdjubVj8BUijsnzpHEPDAjrh9IOuAPdk1VrhvCM0VaaVu7Wia57CmSIs", 
+                        "height": "194"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/b/b4/She_(colorized).jpg"
+                    }
+                ]
+            }, 
+            "snippet": "This image illustrates the topic of film colorization and is being used to represent \nan example of colorized footage in the article's introduction. This image is of\u00a0...", 
+            "htmlSnippet": "This image illustrates the topic of film <b>colorization</b> and is being used to represent <br>\nan example of <b>colorized</b> footage in the article&#39;s introduction. This image is of&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/File:She_(colorized).jpg", 
+            "cacheId": "58CcvF2dXqQJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Legend Films - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Legend Films - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Legend_Films", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Legend_Films", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "160", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQa5ZNuuB47jyLhJjgZf5gMX2Kg0L9scK48yJvjKm2KRdIx1meLWl9w2A", 
+                        "height": "45"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/2/23/Legend_Films_Logo.png"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "category": "Private", 
+                        "fn": "Legend Films, Inc."
+                    }
+                ]
+            }, 
+            "snippet": "The company started business providing restoration and colorization of classic \nblack-and-white films for DVD, HDTV and theatrical release. However, with the\u00a0...", 
+            "htmlSnippet": "The company started business providing restoration and <b>colorization</b> of classic <br>\nblack-and-white films for DVD, HDTV and theatrical release. However, with the&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Legend_Films", 
+            "cacheId": "EI9qbv92ersJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Film colorization - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:Film <b>colorization</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3AFilm_colorization", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3AFilm_<b>colorization</b>", 
+            "snippet": "This is the talk page for discussing improvements to the Film colorization article. \nThis is not a ... Film colorization is a former featured article candidate. Please\u00a0...", 
+            "htmlSnippet": "This is the talk page for discussing improvements to the Film <b>colorization</b> article. <br>\nThis is not a ... Film <b>colorization</b> is a former featured article candidate. Please&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3AFilm_colorization", 
+            "cacheId": "VIwkv97dbFEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "File:Night of the Living Dead color 2004.jpg - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "File:Night of the Living Dead color 2004.jpg - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../File:Night_of_the_Living_Dead_color_2004.jpg", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../File:Night_of_the_Living_Dead_color_2004.jpg", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "259", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiiWh7g4GmJvwDv7oogz1JwL9kFXu3QJJ8J3tTrsxObQTL4eZHgye98QU", 
+                        "height": "195"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/d/d6/Night_of_the_Living_Dead_color_2004.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "Screenshot from the 2004 colorized version of Night of the Living Dead (1968) \nproduced by ... is subject to fair use in the article Film colorization because:.", 
+            "htmlSnippet": "Screenshot from the 2004 <b>colorized</b> version of Night of the Living Dead (1968) <br>\nproduced by ... is subject to fair use in the article Film <b>colorization</b> because:.", 
+            "link": "https://en.wikipedia.org/wiki/File:Night_of_the_Living_Dead_color_2004.jpg", 
+            "cacheId": "2vcsd1ZJMvsJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Hand-colouring of photographs - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Hand-colouring of photographs - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Hand-colouring_of_photographs", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Hand-colouring_of_photographs", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiVZMowrjx6MLtB6zM-0aqVeOtJ4iEzkuiY-HjpM9JP5CnMDLQGmamB12G", 
+                        "height": "211"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Hand-coloured_daguerreotype.jpg/220px-Hand-coloured_daguerreotype.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "For colourisation of moving-picture images, see Film colorization. A hand-\ncoloured daguerreotype by J. Garnier, ca. 1850. Hand-colouring (or hand-\ncoloring)\u00a0...", 
+            "htmlSnippet": "For colourisation of moving-picture images, see Film <b>colorization</b>. A hand-<br>\ncoloured daguerreotype by J. Garnier, ca. 1850. Hand-colouring (or hand-<br>\ncoloring)&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Hand-colouring_of_photographs", 
+            "cacheId": "G6yRnMscCA0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "File:Night of the Living Dead color 1986.JPG - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "File:Night of the Living Dead color 1986.JPG - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../File:Night_of_the_Living_Dead_color_1986.JPG", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../File:Night_of_the_Living_Dead_color_1986.JPG", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "259", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRjP9Qn5jQ-Rx1sUntZ5YNa6tDem5Jz1E1sB6VXxrHBv6cyQFMO_8UNodI", 
+                        "height": "195"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/d/dd/Night_of_the_Living_Dead_color_1986.JPG"
+                    }
+                ]
+            }, 
+            "snippet": "It is believed that this image, Night_of_the_Living_Dead_color_1986.JPG, is \nsubject to fair use in the article Film colorization because: This image illustrates \nthe\u00a0...", 
+            "htmlSnippet": "It is believed that this image, Night_of_the_Living_Dead_color_1986.JPG, is <br>\nsubject to fair use in the article Film <b>colorization</b> because: This image illustrates <br>\nthe&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/File:Night_of_the_Living_Dead_color_1986.JPG", 
+            "cacheId": "g10hCDRfd2YJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Colorization", 
+                "safe": "off", 
+                "searchTerms": "Colorization", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "1870"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Colorization", 
+                "safe": "off", 
+                "searchTerms": "Colorization", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "1870"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.27", 
+        "formattedTotalResults": "1,870", 
+        "totalResults": "1870", 
+        "searchTime": 0.266303
+    }
+}

@@ -1,0 +1,264 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Graph coloring - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Graph <b>coloring</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Graph_coloring", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Graph_<b>coloring</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSW-4gg0hraBbeWVZuXVQ4q6v__BEo-ZvS5KSRBdPiIY1b5Ihyq1wdFmeg", 
+                        "height": "168"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Petersen_graph_3-coloring.svg/220px-Petersen_graph_3-coloring.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "[edit]. In the field of distributed algorithms, graph coloring is closely related to the \nproblem of symmetry\u00a0...", 
+            "htmlSnippet": "[edit]. In the field of distributed <b>algorithms</b>, graph <b>coloring</b> is closely related to the <br>\nproblem of symmetry&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Graph_coloring", 
+            "cacheId": "cLjgRaBJxvIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Greedy coloring - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Greedy <b>coloring</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Greedy_coloring", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Greedy_<b>coloring</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTiZJKB16oLv_iM94iIUtwO7PYBQQwEjWYbLBOXhuVMtwafgp7wiUaIDw", 
+                        "height": "109"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Greedy_colourings.svg/220px-Greedy_colourings.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "The right example generalises to 2-colorable graphs with n vertices, where the \ngreedy algorithm expends n/2 colors. In the study of graph coloring problems in\u00a0...", 
+            "htmlSnippet": "The right example generalises to 2-colorable graphs with n vertices, where the <br>\ngreedy <b>algorithm</b> expends n/2 colors. In the study of graph <b>coloring</b> problems in&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Greedy_coloring", 
+            "cacheId": "k-ZjVdUlgd0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Four color theorem - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Four color theorem - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Four_color_theorem", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Four_color_theorem", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTc1ouux6f_IJX38MG1lFHzyXXmYaYLHA1iOtDWjAmYV4Ap8WYpecLjts8t", 
+                        "height": "234"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Four_Colour_Map_Example.svg/220px-Four_Colour_Map_Example.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "A four-coloring of a map of the states of the United States (ignoring lakes). .... \ncreated a quadratic-time algorithm, improving on a quartic-time algorithm based \non\u00a0...", 
+            "htmlSnippet": "A four-<b>coloring</b> of a map of the states of the United States (ignoring lakes). .... <br>\ncreated a quadratic-time <b>algorithm</b>, improving on a quartic-time <b>algorithm</b> based <br>\non&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Four_color_theorem", 
+            "cacheId": "UFSjBJPonXQJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Misra & Gries edge coloring algorithm - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Misra &amp; Gries edge <b>coloring algorithm</b> - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../Misra_%26_Gries_edge_coloring_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Misra_%26_Gries_edge_<b>coloring</b>_<b>algorithm</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr4R0-jxXIPKsb9YZiVuNeWZF118UBcBsrbfd5emME5YBDlPcNu-Hm_uE", 
+                        "height": "106"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Fan,_Misra_and_Gries_edge_coloring_algorithm.png/220px-Fan,_Misra_and_Gries_edge_coloring_algorithm.png"
+                    }
+                ]
+            }, 
+            "snippet": "The Misra & Gries edge coloring algorithm is a polynomial time algorithm in \ngraph theory that finds an edge coloring of any graph. The coloring produces \nuses at\u00a0...", 
+            "htmlSnippet": "The Misra &amp; Gries edge <b>coloring algorithm</b> is a polynomial time algorithm in <br>\ngraph theory that finds an edge coloring of any graph. The coloring produces <br>\nuses at&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Misra_%26_Gries_edge_coloring_algorithm", 
+            "cacheId": "SFMeS2DE-H8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Chaitin's algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Chaitin&#39;s <b>algorithm</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Chaitin's_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Chaitin&#39;s_<b>algorithm</b>", 
+            "snippet": "Chaitin's algorithm is a bottom-up, graph coloring register allocation algorithm \nthat uses cost/degree as its spill metric. It is named after its designer, Gregory\u00a0...", 
+            "htmlSnippet": "Chaitin&#39;s <b>algorithm</b> is a bottom-up, graph <b>coloring</b> register allocation <b>algorithm</b> <br>\nthat uses cost/degree as its spill metric. It is named after its designer, Gregory&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Chaitin's_algorithm", 
+            "cacheId": "uXfrrwSlC1sJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Edge coloring - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Edge <b>coloring</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Edge_coloring", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Edge_<b>coloring</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "200", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQQjUiSLmcLws7g2rfBMHn_JYzNi1J-xUh1j9MytI4c6XCn0i9SdBs80Nfn", 
+                        "height": "200"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Desargues_graph_3color_edge.svg/250px-Desargues_graph_3color_edge.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "[edit]. Misra & Gries (1992) and Gabow et al. (1985) describe polynomial time\u00a0...", 
+            "htmlSnippet": "[edit]. Misra &amp; Gries (1992) and Gabow et al. (1985) describe polynomial time&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Edge_coloring", 
+            "cacheId": "aXwB5VeTERsJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Five color theorem - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Five color theorem - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Five_color_theorem", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Five_color_theorem", 
+            "snippet": "1 Outline of the proof by contradiction; 2 Linear time five-coloring algorithm; 3 \nSee ... The problem is then translated into a graph coloring problem: one has to\u00a0...", 
+            "htmlSnippet": "1 Outline of the proof by contradiction; 2 Linear time five-<b>coloring algorithm</b>; 3 <br>\nSee ... The problem is then translated into a graph coloring problem: one has to&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Five_color_theorem", 
+            "cacheId": "2ZkJSk5iFJwJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Register allocation - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Register allocation - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Register_allocation", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Register_allocation", 
+            "snippet": "It may be the case that the graph coloring algorithm fails to find a coloring of the \ninterference graph. In this case, some of the variables must be spilled to memory\n\u00a0...", 
+            "htmlSnippet": "It may be the case that the graph <b>coloring algorithm</b> fails to find a coloring of the <br>\ninterference graph. In this case, some of the variables must be spilled to memory<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Register_allocation", 
+            "cacheId": "pkKr-YnFdQgJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Brooks' theorem - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Brooks&#39; theorem - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Brooks'_theorem", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Brooks&#39;_theorem", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "143", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR0TyumIqAeZbfXs94QxIaCbGHv__Dsx0B6tLTrF8DabqXl_m7mBYZCTHQ", 
+                        "height": "152"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Graph_exact_coloring.gif"
+                    }
+                ]
+            }, 
+            "snippet": "If the graph has a vertex v with degree less than \u0394, then a greedy coloring \nalgorithm that colors vertices farther from v before closer ones uses at most \u0394 \ncolors.", 
+            "htmlSnippet": "If the graph has a vertex v with degree less than \u0394, then a greedy <b>coloring</b> <br>\n<b>algorithm</b> that colors vertices farther from v before closer ones uses at most \u0394 <br>\ncolors.", 
+            "link": "https://en.wikipedia.org/wiki/Brooks'_theorem", 
+            "cacheId": "8UdzFI3yk_kJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Mandelbrot set - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Mandelbrot set - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Mandelbrot_set", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Mandelbrot_set", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "257", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRcB9BPjiOnpMsNkXi1SJRGI-XZLmB3nZeemzraCt3Cq_rZmrcdPOq7mkp9", 
+                        "height": "193"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Mandel_zoom_00_mandelbrot_set.jpg/322px-Mandel_zoom_00_mandelbrot_set.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "8.1 Escape time algorithm. 8.1.1 Histogram coloring; 8.1.2 ... A picture of the \nMandelbrot set can be made by coloring all the points c that belong to M black, \nand\u00a0...", 
+            "htmlSnippet": "8.1 Escape time <b>algorithm</b>. 8.1.1 Histogram <b>coloring</b>; 8.1.2 ... A picture of the <br>\nMandelbrot set can be made by <b>coloring</b> all the points c that belong to M black, <br>\nand&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Mandelbrot_set", 
+            "cacheId": "dCqu3BNqlsUJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Coloring algorithm", 
+                "safe": "off", 
+                "searchTerms": "Coloring algorithm", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "1600"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Coloring algorithm", 
+                "safe": "off", 
+                "searchTerms": "Coloring algorithm", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "1600"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.32", 
+        "formattedTotalResults": "1,600", 
+        "totalResults": "1600", 
+        "searchTime": 0.317969
+    }
+}

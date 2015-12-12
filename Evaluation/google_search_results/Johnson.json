@@ -1,0 +1,397 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Lyndon B. Johnson - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Lyndon B. <b>Johnson</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Lyndon_B._Johnson", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Lyndon_B._<b>Johnson</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSWm0VOe-t3rchvfLvfpZ7UOFzy-QV4rz1qVXD6nUUVbVGxTVyhzxSImVs", 
+                        "height": "280"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Lyndon_B._Johnson,_photo_portrait,_leaning_on_chair,_color_cropped.jpg/220px-Lyndon_B._Johnson,_photo_portrait,_leaning_on_chair,_color_cropped.jpg"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "bday": "1908-08-27", 
+                        "nickname": "Lyndon Baines Johnson", 
+                        "fn": "Lyndon B. Johnson", 
+                        "label": "Johnson Family Cemetery Stonewall, Texas"
+                    }
+                ]
+            }, 
+            "snippet": "Lyndon Baines Johnson (/\u02c8l\u026and\u0259n \u02c8be\u026anz \u02c8d\u0292\u0252ns\u0259n/; August 27, 1908 \u2013 \nJanuary 22, 1973), often referred to as LBJ, was the 36th President of the United\n\u00a0...", 
+            "htmlSnippet": "Lyndon Baines <b>Johnson</b> (/\u02c8l\u026and\u0259n \u02c8be\u026anz \u02c8d\u0292\u0252ns\u0259n/; August 27, 1908 \u2013 <br>\nJanuary 22, 1973), often referred to as LBJ, was the 36th President of the United<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Lyndon_B._Johnson", 
+            "cacheId": "T-G4Qf0Zu3gJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Samuel Johnson - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Samuel <b>Johnson</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Samuel_Johnson", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Samuel_<b>Johnson</b>", 
+            "pagemap": {
+                "person": [
+                    {
+                        "role": "Essayist, lexicographer, biographer, poet"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRtq9E2z4QzAfYl5oN0jIWGlJMmgxRDqeCE9jhNBNYkzm4bEsDExz4UsNQ", 
+                        "height": "214"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Samuel_Johnson_by_Joshua_Reynolds.jpg/220px-Samuel_Johnson_by_Joshua_Reynolds.jpg"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "bday": "1709-09-18", 
+                        "category": "British", 
+                        "role": "Essayist, lexicographer, biographer, poet", 
+                        "fn": "Samuel Johnson"
+                    }
+                ]
+            }, 
+            "snippet": "Samuel Johnson (18 September 1709 [O.S. 7 September] \u2013 13 December 1784), \noften referred to as Dr Johnson, was an English writer who made lasting\u00a0...", 
+            "htmlSnippet": "Samuel <b>Johnson</b> (18 September 1709 [O.S. 7 September] \u2013 13 December 1784), <br>\noften referred to as Dr <b>Johnson</b>, was an English writer who made lasting&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Samuel_Johnson", 
+            "cacheId": "IZV58fcAg5UJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Johnson & Johnson - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Johnson</b> &amp; <b>Johnson</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Johnson_%26_Johnson", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Johnson</b>_%26_<b>Johnson</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "200", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFtiyRLGWYEP9UVB0eRBlFR8-sk_xcWKipO03Q4aYmulo9aZvoo5tXmVCt", 
+                        "height": "148"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/JohnsonJohnson_HQ_building.jpg/250px-JohnsonJohnson_HQ_building.jpg"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "category": "Public", 
+                        "url_text": "jnj.com", 
+                        "url": "jnj.com", 
+                        "label": "One Johnson & Johnson Plaza, New Brunswick, New Jersey, United States", 
+                        "bday": "1886", 
+                        "logo": "J&J headquarters at One Johnson & Johnson Plaza in New Brunswick, New Jersey", 
+                        "fn": "Johnson & Johnson"
+                    }
+                ]
+            }, 
+            "snippet": "Johnson & Johnson is an American multinational medical devices, \npharmaceutical and consumer packaged goods manufacturer founded in 1886. \nIts common\u00a0...", 
+            "htmlSnippet": "<b>Johnson</b> &amp; <b>Johnson</b> is an American multinational medical devices, <br>\npharmaceutical and consumer packaged goods manufacturer founded in 1886. <br>\nIts common&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Johnson_%26_Johnson", 
+            "cacheId": "9rrl3V5-CwQJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Johnson - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Johnson</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Johnson", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Johnson</b>", 
+            "snippet": "Johnson is a surname of Swedish origin. The name itself is a patronym of the \ngiven name John, literally meaning \"son of John\". The name John derives from\u00a0...", 
+            "htmlSnippet": "<b>Johnson</b> is a surname of Swedish origin. The name itself is a patronym of the <br>\ngiven name John, literally meaning &quot;son of John&quot;. The name John derives from&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Johnson", 
+            "cacheId": "KTQ-zH_9lUwJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Robert Johnson - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Robert <b>Johnson</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Robert_Johnson", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Robert_<b>Johnson</b>", 
+            "pagemap": {
+                "person": [
+                    {
+                        "role": "Musician, singer, songwriter"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2bus9yXdAlaOA3EkunLwba8CRPq_nVbnwB2NAEkaeEfXF6XjtRJXuRTE", 
+                        "height": "250"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/Robert_Johnson.png/220px-Robert_Johnson.png"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "bday": "1911-05-08", 
+                        "role": "Musician, singer, songwriter", 
+                        "note": "Guitar, vocals, harmonica", 
+                        "nickname": "Robert Leroy Johnson", 
+                        "fn": "Robert Johnson"
+                    }, 
+                    {
+                        "fn": "Robert Johnson"
+                    }
+                ]
+            }, 
+            "snippet": "Robert Leroy Johnson (May 8, 1911 \u2013 August 16, 1938) was an American blues \nsinger-songwriter and musician. His landmark recordings in 1936 and 1937\u00a0...", 
+            "htmlSnippet": "Robert Leroy <b>Johnson</b> (May 8, 1911 \u2013 August 16, 1938) was an American blues <br>\nsinger-songwriter and musician. His landmark recordings in 1936 and 1937&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Robert_Johnson", 
+            "cacheId": "1RKkmAmWrgAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Philip Johnson - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Philip <b>Johnson</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Philip_Johnson", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Philip_<b>Johnson</b>", 
+            "pagemap": {
+                "person": [
+                    {
+                        "role": "Architect"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRHOx5qBXt5FnSo995XKxGsYUlJU0n6PN6EC-CyQLhusCfMbut52-HMthJu", 
+                        "height": "168"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Philip_Johnson.2002.FILARDO.jpg/220px-Philip_Johnson.2002.FILARDO.jpg"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "category": "American", 
+                        "bday": "1906-07-08", 
+                        "note": "IDS Tower, PPG Place, Crystal Cathedral", 
+                        "role": "Architect", 
+                        "nickname": "Philip Cortelyou Johnson", 
+                        "fn": "Philip Johnson"
+                    }
+                ]
+            }, 
+            "snippet": "Philip Cortelyou Johnson (July 8, 1906 \u2013 January 25, 2005) was an influential \nAmerican architect. He is especially known for his postmodern work since the\u00a0...", 
+            "htmlSnippet": "Philip Cortelyou <b>Johnson</b> (July 8, 1906 \u2013 January 25, 2005) was an influential <br>\nAmerican architect. He is especially known for his postmodern work since the&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Philip_Johnson", 
+            "cacheId": "GpAYweFHlRYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Steven Johnson (author) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Steven <b>Johnson</b> (author) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Steven_Johnson_(author)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Steven_<b>Johnson</b>_(author)", 
+            "pagemap": {
+                "person": [
+                    {
+                        "role": "Author, TV presenter"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "width": "180", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNj7fUc6I7aHYh-0ThaSYABBL3q9pA9YjxZxxOySTICI4EoFv0Q0vArio", 
+                        "height": "211"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Steven_Berlin_Johnson_-_South_by_Southwest_2008_crop.jpg/225px-Steven_Berlin_Johnson_-_South_by_Southwest_2008_crop.jpg"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "url_text": "StevenBerlinJohnson.com", 
+                        "url": "StevenBerlinJohnson.com", 
+                        "bday": "1968-06-06", 
+                        "role": "Author, TV presenter", 
+                        "nickname": "Steven Berlin Johnson", 
+                        "fn": "Steven Johnson"
+                    }
+                ]
+            }, 
+            "snippet": "Johnson grew up in Washington, D.C., where he attended St. Albans School. He \ncompleted his undergraduate degree at Brown University, where he studied\u00a0...", 
+            "htmlSnippet": "<b>Johnson</b> grew up in Washington, D.C., where he attended St. Albans School. He <br>\ncompleted his undergraduate degree at Brown University, where he studied&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Steven_Johnson_(author)", 
+            "cacheId": "8Zjce3giu-EJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Chalmers Johnson - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Chalmers <b>Johnson</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Chalmers_Johnson", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Chalmers_<b>Johnson</b>", 
+            "pagemap": {
+                "person": [
+                    {
+                        "role": "President, Japan Policy Research Institute, University of San Francisco; Professor emeritus of the University of California, San Diego"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "category": "Political Science", 
+                        "url_text": "www.americanempireproject.com/johnson/index.asp", 
+                        "url": "www.americanempireproject.com/johnson/index.asp", 
+                        "bday": "1931-08-06", 
+                        "role": "President, Japan Policy Research Institute, University of San Francisco; Professor emeritus of the University of California, San Diego", 
+                        "fn": "Chalmers Johnson"
+                    }
+                ]
+            }, 
+            "snippet": "Chalmers Ashby Johnson (August 6, 1931 \u2013 November 20, 2010) was an \nAmerican author and professor emeritus of the University of California, San \nDiego.", 
+            "htmlSnippet": "Chalmers Ashby <b>Johnson</b> (August 6, 1931 \u2013 November 20, 2010) was an <br>\nAmerican author and professor emeritus of the University of California, San <br>\nDiego.", 
+            "link": "https://en.wikipedia.org/wiki/Chalmers_Johnson", 
+            "cacheId": "8TRlg8MEkEQJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Magic Johnson - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Magic <b>Johnson</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Magic_Johnson", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Magic_<b>Johnson</b>", 
+            "pagemap": {
+                "person": [
+                    {
+                        "location": "the United States"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "width": "160", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ9_bZ8QFAQR4SAXMEngCcmVISLmjK2nfu6zBT5ln090sy7gXji0QhL6kI", 
+                        "height": "221"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Earvin_%22Magic%22_Johnson_on_'07.jpg/200px-Earvin_%22Magic%22_Johnson_on_'07.jpg"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "bday": "1959-08-14", 
+                        "fn": "Earvin \"Magic\" Johnson"
+                    }
+                ]
+            }, 
+            "snippet": "Earvin \"Magic\" Johnson Jr. (born August 14, 1959) is a retired American \nprofessional basketball player who played point guard for the Los Angeles \nLakers of the\u00a0...", 
+            "htmlSnippet": "Earvin &quot;Magic&quot; <b>Johnson</b> Jr. (born August 14, 1959) is a retired American <br>\nprofessional basketball player who played point guard for the Los Angeles <br>\nLakers of the&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Magic_Johnson", 
+            "cacheId": "X49vNbqA0eQJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Rian Johnson - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Rian <b>Johnson</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Rian_Johnson", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Rian_<b>Johnson</b>", 
+            "pagemap": {
+                "person": [
+                    {
+                        "role": "Director, producer, screenwriter"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSIl5kZJQrazO1PwWvNXQHDoorofjAN6KAnVrrtfHcS8l9WGRwZ9URkpbY", 
+                        "height": "209"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Rian_Johnson_by_Gage_Skidmore.jpg/220px-Rian_Johnson_by_Gage_Skidmore.jpg"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "bday": "1973-12-17", 
+                        "role": "Director, producer, screenwriter", 
+                        "fn": "Rian Johnson"
+                    }
+                ]
+            }, 
+            "snippet": "Rian Craig Johnson (born December 17, 1973) is an American writer, producer, \nand director. He won the Special Jury Prize for Originality of Vision at the 2005\u00a0...", 
+            "htmlSnippet": "Rian Craig <b>Johnson</b> (born December 17, 1973) is an American writer, producer, <br>\nand director. He won the Special Jury Prize for Originality of Vision at the 2005&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Rian_Johnson", 
+            "cacheId": "2UoBUfWiWngJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Johnson", 
+                "safe": "off", 
+                "searchTerms": "Johnson", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "7780000"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Johnson", 
+                "safe": "off", 
+                "searchTerms": "Johnson", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "7780000"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.34", 
+        "formattedTotalResults": "7,780,000", 
+        "totalResults": "7780000", 
+        "searchTime": 0.335424
+    }
+}

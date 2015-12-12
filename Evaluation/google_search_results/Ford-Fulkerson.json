@@ -1,0 +1,215 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Ford\u2013Fulkerson algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Ford</b>\u2013<b>Fulkerson</b> algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Ford\u2013Fulkerson_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Ford</b>\u2013<b>Fulkerson</b>_algorithm", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "240", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTZu-CDkNtvKPA_BjEC0QzXuscMbPHnozMEoN-BmWyuX4tM4OE8am7m-20", 
+                        "height": "171"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Ford-Fulkerson_example_0.svg/300px-Ford-Fulkerson_example_0.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "The Ford\u2013Fulkerson method or Ford\u2013Fulkerson algorithm (FFA) is an algorithm \nthat computes the maximum flow in a flow network. It is called a \"method\" instead\n\u00a0...", 
+            "htmlSnippet": "The <b>Ford</b>\u2013<b>Fulkerson</b> method or <b>Ford</b>\u2013<b>Fulkerson</b> algorithm (FFA) is an algorithm <br>\nthat computes the maximum flow in a flow network. It is called a &quot;method&quot; instead<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Ford%E2%80%93Fulkerson_algorithm", 
+            "cacheId": "3eEY_NJFTzMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Edmonds\u2013Karp algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Edmonds\u2013Karp algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Edmonds\u2013Karp_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Edmonds\u2013Karp_algorithm", 
+            "snippet": "In computer science, the Edmonds\u2013Karp algorithm is an implementation of the \nFord\u2013Fulkerson method for computing the maximum flow in a flow network in O(V\n\u00a0...", 
+            "htmlSnippet": "In computer science, the Edmonds\u2013Karp algorithm is an implementation of the <br>\n<b>Ford</b>\u2013<b>Fulkerson</b> method for computing the maximum flow in a flow network in O(V<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Edmonds%E2%80%93Karp_algorithm", 
+            "cacheId": "o5GoZCBt518J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "D. R. Fulkerson - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "D. R. <b>Fulkerson</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/D._R._Fulkerson", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/D._R._<b>Fulkerson</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "144", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCM5O20FeJ7mMLC6qqrfiHTTrEv0j63P2ABVTv9mkUr0ZTkdzPR1ccMKuC", 
+                        "height": "195"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/2/25/Delbert_Ray_Fulkerson.png/180px-Delbert_Ray_Fulkerson.png"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "bday": "1924-08-14", 
+                        "category": "Mathematics", 
+                        "fn": "Delbert Ray Fulkerson"
+                    }
+                ]
+            }, 
+            "snippet": "Delbert Ray Fulkerson (August 14, 1924 \u2013 January 10, 1976) was an American \nmathematician who co-developed the Ford\u2013Fulkerson algorithm, one of the most\n\u00a0...", 
+            "htmlSnippet": "Delbert Ray Fulkerson (August 14, 1924 \u2013 January 10, 1976) was an American <br>\nmathematician who co-developed the <b>Ford</b>\u2013<b>Fulkerson</b> algorithm, one of the most<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/D._R._Fulkerson", 
+            "cacheId": "vzrxZKGkzwoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "L. R. Ford, Jr. - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "L. R. <b>Ford</b>, Jr. - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/L._R._Ford,_Jr.", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/L._R._<b>Ford</b>,_Jr.", 
+            "snippet": "Ford's paper with D. R. Fulkerson on the maximum flow problem and the Ford\u2013\nFulkerson algorithm for solving it, published as a technical report in 1954 and in a\n\u00a0...", 
+            "htmlSnippet": "Ford&#39;s paper with D. R. Fulkerson on the maximum flow problem and the <b>Ford</b>\u2013<br>\n<b>Fulkerson</b> algorithm for solving it, published as a technical report in 1954 and in a<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/L._R._Ford,_Jr.", 
+            "cacheId": "qfK_FZoHAOUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Max-flow min-cut theorem - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Max-flow min-cut theorem - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Max-flow_min-cut_theorem", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Max-flow_min-cut_theorem", 
+            "snippet": "The max-flow min-cut theorem was proven by P. Elias, A. Feinstein, and C.E. \nShannon in 1956, and independently also by L.R. Ford, Jr. and D.R. Fulkerson in\n\u00a0...", 
+            "htmlSnippet": "The max-flow min-cut theorem was proven by P. Elias, A. Feinstein, and C.E. <br>\nShannon in 1956, and independently also by L.R. <b>Ford</b>, Jr. and D.R. <b>Fulkerson</b> in<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Max-flow_min-cut_theorem", 
+            "cacheId": "z7B70XqfqxwJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Ford\u2013Fulkerson algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Ford</b>\u2013<b>Fulkerson</b> algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3AFord-Fulkerson_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>Ford</b>-<b>Fulkerson</b>_algorithm", 
+            "snippet": "This entry should actually be called the Ford-Fulkerson Method. It's not called an \nalgorithm, because there is some part in the procedure which is left unspecified.", 
+            "htmlSnippet": "This entry should actually be called the <b>Ford</b>-<b>Fulkerson</b> Method. It&#39;s not called an <br>\nalgorithm, because there is some part in the procedure which is left unspecified.", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3AFord-Fulkerson_algorithm", 
+            "cacheId": "laX3HNjajHwJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Dinic's algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Dinic&#39;s algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Dinic's_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Dinic&#39;s_algorithm", 
+            "snippet": "For about 10 years of time after Ford\u2013Fulkerson algorithm was invented, it was \nunknown if it can be made to terminate in polynomial time in the generic case of\u00a0...", 
+            "htmlSnippet": "For about 10 years of time after <b>Ford</b>\u2013<b>Fulkerson</b> algorithm was invented, it was <br>\nunknown if it can be made to terminate in polynomial time in the generic case of&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Dinic's_algorithm", 
+            "cacheId": "kB-3_gsOElAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Maximum flow problem - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Maximum flow problem - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Maximum_flow_problem", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Maximum_flow_problem", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "264", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzoz9IscCyRpXlIWMSDWM2nUrUwYjUj2FWaeDJpzgnzx9VE5yqlwqQFLA", 
+                        "height": "144"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Max_flow.svg/330px-Max_flow.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "Ford\u2013Fulkerson algorithm, O(E max| f |), As long as there is an open path through \nthe residual graph, send the minimum of the residual capacities on the path.", 
+            "htmlSnippet": "<b>Ford</b>\u2013<b>Fulkerson</b> algorithm, O(E max| f |), As long as there is an open path through <br>\nthe residual graph, send the minimum of the residual capacities on the path.", 
+            "link": "https://en.wikipedia.org/wiki/Maximum_flow_problem", 
+            "cacheId": "QtKStUKWoQoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Fulkerson - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Fulkerson</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Fulkerson", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Fulkerson</b>", 
+            "snippet": "Fulkerson may refer to: ... mathematician who co-developed the Ford-Fulkerson \nalgorithm; Frank B. Fulkerson (1866\u20131936), U.S. Representative from Missouri\u00a0...", 
+            "htmlSnippet": "Fulkerson may refer to: ... mathematician who co-developed the <b>Ford</b>-<b>Fulkerson</b> <br>\nalgorithm; Frank B. Fulkerson (1866\u20131936), U.S. Representative from Missouri&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Fulkerson", 
+            "cacheId": "LhejHBEebFUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Approximate max-flow min-cut theorem - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Approximate max-flow min-cut theorem - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../Approximate_max-flow_min-cut_theorem", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Approximate_max-flow_min-cut_theorem", 
+            "snippet": "According to the famous Ford\u2013Fulkerson algorithm (see Ford\u2013Fulkerson \nalgorithm),the max-flow and min-cut are always equal in a 1-commodity flow \nproblem.", 
+            "htmlSnippet": "According to the famous <b>Ford</b>\u2013<b>Fulkerson</b> algorithm (see <b>Ford</b>\u2013<b>Fulkerson</b> <br>\nalgorithm),the max-flow and min-cut are always equal in a 1-commodity flow <br>\nproblem.", 
+            "link": "https://en.wikipedia.org/wiki/Approximate_max-flow_min-cut_theorem", 
+            "cacheId": "o2JY_l-VlnkJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Ford-Fulkerson", 
+                "safe": "off", 
+                "searchTerms": "Ford-Fulkerson", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "279"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Ford-Fulkerson", 
+                "safe": "off", 
+                "searchTerms": "Ford-Fulkerson", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "279"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.26", 
+        "formattedTotalResults": "279", 
+        "totalResults": "279", 
+        "searchTime": 0.259412
+    }
+}

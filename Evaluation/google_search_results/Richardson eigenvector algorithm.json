@@ -1,0 +1,222 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Modified Richardson iteration - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Modified <b>Richardson</b> iteration - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Modified_Richardson_iteration", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Modified_<b>Richardson</b>_iteration", 
+            "snippet": "Modified Richardson iteration is an iterative method for solving a system of ... If \nthere are both positive and negative eigenvalues, the method will diverge for any\n\u00a0...", 
+            "htmlSnippet": "Modified <b>Richardson</b> iteration is an iterative <b>method</b> for solving a system of ... If <br>\nthere are both positive and negative <b>eigenvalues</b>, the <b>method</b> will diverge for any<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Modified_Richardson_iteration", 
+            "cacheId": "rEIa28-FlHYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Richardson\u2013Lucy deconvolution - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Richardson</b>\u2013Lucy <b>deconvolution</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Richardson\u2013Lucy_deconvolution", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Richardson</b>\u2013Lucy_<b>deconvolution</b>", 
+            "snippet": "The Richardson\u2013Lucy algorithm, also known as Lucy\u2013Richardson deconvolution, \nis an iterative procedure for recovering a latent image that has been blurred by\u00a0...", 
+            "htmlSnippet": "The <b>Richardson</b>\u2013Lucy <b>algorithm</b>, also known as Lucy\u2013<b>Richardson deconvolution</b>, <br>\nis an iterative procedure for recovering a latent image that has been blurred by&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Richardson%E2%80%93Lucy_deconvolution", 
+            "cacheId": "Mpr2CFpJKH8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Jacobi eigenvalue algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Jacobi <b>eigenvalue algorithm</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Jacobi_eigenvalue_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Jacobi_<b>eigenvalue</b>_<b>algorithm</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "342", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQZCQ5Y_6la64wnqisk54caPB4Vr7meONZMruHEbjYRO7MWMgfa6bEAOQc", 
+                        "height": "138"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/math/0/2/a/02a36dd19b455e6028cbfa5d9320caf6.png"
+                    }
+                ]
+            }, 
+            "snippet": "In numerical linear algebra, the Jacobi eigenvalue algorithm is an iterative \nmethod for the calculation of the eigenvalues and eigenvectors of a real \nsymmetric\u00a0...", 
+            "htmlSnippet": "In numerical linear algebra, the Jacobi <b>eigenvalue algorithm</b> is an iterative <br>\n<b>method</b> for the <b>calculation</b> of the <b>eigenvalues</b> and <b>eigenvectors</b> of a real <br>\nsymmetric&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Jacobi_eigenvalue_algorithm", 
+            "cacheId": "4N6E72i2DWcJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Preconditioner - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Preconditioner - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Preconditioner", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Preconditioner", 
+            "snippet": "... of the problem. The preconditioned problem is then usually solved by an \niterative method. ... 1.7 External links. 2 Preconditioning for eigenvalue problems \n... P^{-1}(Ax-b)=0. For example, the standard Richardson iteration for solving Ax-b\n=0\u00a0...", 
+            "htmlSnippet": "... of the problem. The preconditioned problem is then usually solved by an <br>\niterative <b>method</b>. ... 1.7 External links. 2 Preconditioning for <b>eigenvalue</b> problems <br>\n... P^{-1}(Ax-b)=0. For example, the standard <b>Richardson</b> iteration for solving Ax-b<br>\n=0&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Preconditioner", 
+            "cacheId": "1aw6viilHT0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Eigenvalue algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Eigenvalue algorithm</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Eigenvalue_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Eigenvalue</b>_<b>algorithm</b>", 
+            "snippet": "In numerical analysis, one of the most important problems is designing efficient \nand stable algorithms for finding the eigenvalues of a matrix. These eigenvalue\u00a0...", 
+            "htmlSnippet": "In numerical analysis, one of the most important problems is designing efficient <br>\nand stable <b>algorithms</b> for finding the <b>eigenvalues</b> of a matrix. These <b>eigenvalue</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Eigenvalue_algorithm", 
+            "cacheId": "WeSAMpGy004J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Divide-and-conquer eigenvalue algorithm - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Divide-and-conquer <b>eigenvalue algorithm</b> - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../Divide-and-conquer_eigenvalue_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Divide-and-conquer_<b>eigenvalue</b>_<b>algorithm</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "173", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQyzNyohQv4qQ86nDRmrzhR6moU1iMhIvo2qFRjGnXBdAd3WzAZkM-IYA", 
+                        "height": "117"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Almost_block_diagonal.png"
+                    }
+                ]
+            }, 
+            "snippet": "Divide-and-conquer eigenvalue algorithms are a class of eigenvalue algorithms \nfor Hermitian or real symmetric matrices that have recently (circa 1990s)\u00a0...", 
+            "htmlSnippet": "Divide-and-conquer <b>eigenvalue algorithms</b> are a class of <b>eigenvalue algorithms</b> <br>\nfor Hermitian or real symmetric matrices that have recently (circa 1990s)&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Divide-and-conquer_eigenvalue_algorithm", 
+            "cacheId": "65jpDO4FnsUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "PageRank - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "PageRank - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/PageRank", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/PageRank", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "250", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTs1b-ufXmgFCf8c07wRUTPYvlcCk8nYXfyfZ25xgo6arHjkrJjwkGxXCP9", 
+                        "height": "201"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/PageRanks-Example.svg/400px-PageRanks-Example.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "PageRank is an algorithm used by Google Search to rank websites in their \nsearch engine results. PageRank was .... This makes PageRank a particularly \nelegant metric: the eigenvector is ...... Richardson, Matthew; Domingos, Pedro (\n2002).", 
+            "htmlSnippet": "PageRank is an <b>algorithm</b> used by Google Search to rank websites in their <br>\nsearch engine results. PageRank was .... This makes PageRank a particularly <br>\nelegant metric: the <b>eigenvector</b> is ...... <b>Richardson</b>, Matthew; Domingos, Pedro (<br>\n2002).", 
+            "link": "https://en.wikipedia.org/wiki/PageRank", 
+            "cacheId": "sMxUlfSyoa0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Power iteration - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Power iteration - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Power_iteration", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Power_iteration", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "114", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSQqqTszgez9ArjJd31zbRpr0sD-njGlkVQf8s-hinfObrSNTjRljYPDQ", 
+                        "height": "43"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/math/3/b/d/3bd1a9b0f598a965e67d61ad319debc2.png"
+                    }
+                ]
+            }, 
+            "snippet": "In mathematics, the power iteration is an eigenvalue algorithm: given a matrix A, \nthe algorithm will produce a number \u03bb (the eigenvalue) and a nonzero vector v\u00a0...", 
+            "htmlSnippet": "In mathematics, the power iteration is an <b>eigenvalue algorithm</b>: given a matrix A, <br>\nthe <b>algorithm</b> will produce a number \u03bb (the <b>eigenvalue</b>) and a nonzero vector v&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Power_iteration", 
+            "cacheId": "yUC6aKTgKmUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Lanczos algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Lanczos <b>algorithm</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Lanczos_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Lanczos_<b>algorithm</b>", 
+            "snippet": "[edit]. Main article: Power iteration. The power method for finding the largest \neigenvalue of a\u00a0...", 
+            "htmlSnippet": "[edit]. Main article: Power iteration. The power <b>method</b> for finding the largest <br>\n<b>eigenvalue</b> of a&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Lanczos_algorithm", 
+            "cacheId": "Ernbg3S4Z0sJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Chebyshev iteration - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Chebyshev iteration - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Chebyshev_iteration", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Chebyshev_iteration", 
+            "snippet": "In numerical linear algebra, the Chebyshev iteration is an iterative method for ... \nestimate for the upper eigenvalue and lower estimate for the lower eigenvalue.", 
+            "htmlSnippet": "In numerical linear algebra, the Chebyshev iteration is an iterative <b>method</b> for ... <br>\nestimate for the upper <b>eigenvalue</b> and lower estimate for the lower <b>eigenvalue</b>.", 
+            "link": "https://en.wikipedia.org/wiki/Chebyshev_iteration", 
+            "cacheId": "bW7Nv65-9sgJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Richardson eigenvector algorithm", 
+                "safe": "off", 
+                "searchTerms": "Richardson eigenvector algorithm", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "27"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Richardson eigenvector algorithm", 
+                "safe": "off", 
+                "searchTerms": "Richardson eigenvector algorithm", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "27"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.26", 
+        "formattedTotalResults": "27", 
+        "totalResults": "27", 
+        "searchTime": 0.260387
+    }
+}

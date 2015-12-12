@@ -1,0 +1,254 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Pancake sorting - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Pancake sorting</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Pancake_sorting", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Pancake</b>_<b>sorting</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "223", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRdeNgOgG15j2tQSy4XUjFfAAxxMIXMmkC-Fwp5N622Celef06vBozdq18", 
+                        "height": "188"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Pancake_sort_operation.png"
+                    }
+                ]
+            }, 
+            "snippet": "Pancake sorting is the colloquial term for the mathematical problem of sorting a \ndisordered stack of pancakes in order of size when a spatula can be inserted at\u00a0...", 
+            "htmlSnippet": "<b>Pancake sorting</b> is the colloquial term for the mathematical problem of sorting a <br>\ndisordered stack of pancakes in order of size when a spatula can be inserted at&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Pancake_sorting", 
+            "cacheId": "dShhSkueQVoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Pancake sorting - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Pancake sorting</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3APancake_sorting", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>Pancake</b>_<b>sorting</b>", 
+            "snippet": "Algorithm?[edit]. How is this article describing an algorithm? It seems to be \ndescribing a problem, yet it's listed as a sorting algorithm on multiple other pages.", 
+            "htmlSnippet": "Algorithm?[edit]. How is this article describing an algorithm? It seems to be <br>\ndescribing a problem, yet it&#39;s listed as a <b>sorting</b> algorithm on multiple other pages.", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3APancake_sorting", 
+            "cacheId": "b_N1ekz2x5sJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "David X. Cohen - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "David X. Cohen - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/David_X._Cohen", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/David_X._Cohen", 
+            "pagemap": {
+                "person": [
+                    {
+                        "role": "Television writer"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "width": "198", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD34hGuErGfSIwF9pI774qu4gPqpi6frDjrKhgMjEMonDxoxI3duaHhgP0", 
+                        "height": "254"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/David_X._Cohen_by_Gage_Skidmore_2.jpg/250px-David_X._Cohen_by_Gage_Skidmore_2.jpg"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "bday": "1966-07-13", 
+                        "category": "American", 
+                        "role": "Television writer", 
+                        "fn": "David X. Cohen"
+                    }
+                ]
+            }, 
+            "snippet": "Cohen's most notable academic publication concerned the theoretical computer \nscience problem of pancake sorting, which was also the subject of an academic\u00a0...", 
+            "htmlSnippet": "Cohen&#39;s most notable academic publication concerned the theoretical computer <br>\nscience problem of <b>pancake sorting</b>, which was also the subject of an academic&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/David_X._Cohen", 
+            "cacheId": "vruwIU_5OmoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Selection sort - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Selection <b>sort</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Selection_sort", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Selection_<b>sort</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "200", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqW-tX09lefZmTj0ucNZTX7asAds3LnF-SdafvTQv80HgCIXQb0zGlL2m3", 
+                        "height": "200"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Selection_sort_animation.gif/250px-Selection_sort_animation.gif"
+                    }
+                ]
+            }, 
+            "snippet": "Selection sort is noted for its simplicity, and it has performance advantages over \nmore complicated algorithms in certain ... Here is an example of this sort \nalgorithm sorting five elements: .... Topological sorting \u00b7 Pancake sorting \u00b7 \nSpaghetti sort\u00a0...", 
+            "htmlSnippet": "Selection sort is noted for its simplicity, and it has performance advantages over <br>\nmore complicated algorithms in certain ... Here is an example of this sort <br>\nalgorithm sorting five elements: .... Topological sorting &middot; <b>Pancake sorting</b> &middot; <br>\nSpaghetti sort&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Selection_sort", 
+            "cacheId": "hnCZz3eE85EJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Category:Sorting algorithms - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Category:<b>Sorting</b> algorithms - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Category:Sorting_algorithms", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Category:<b>Sorting</b>_algorithms", 
+            "snippet": "... encyclopedia. Jump to: navigation, search. The main article for this category is \nsorting algorithm. Wikimedia Commons has media related to Sort algorithms.", 
+            "htmlSnippet": "... encyclopedia. Jump to: navigation, search. The main article for this category is <br>\n<b>sorting</b> algorithm. Wikimedia Commons has media related to <b>Sort</b> algorithms.", 
+            "link": "https://en.wikipedia.org/wiki/Category:Sorting_algorithms", 
+            "cacheId": "40uTcv1LOogJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Template:Sorting - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Template:<b>Sorting</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Template:Sorting", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Template:<b>Sorting</b>", 
+            "snippet": "Template:Sorting ... Topological sorting \u00b7 Pancake sorting \u00b7 Spaghetti sort ... \ntitlebar \u2013 e.g. {{Sorting |state=collapsed}}: |state=expanded to show the template \nin its\u00a0...", 
+            "htmlSnippet": "Template:Sorting ... Topological sorting &middot; <b>Pancake sorting</b> &middot; Spaghetti sort ... <br>\ntitlebar \u2013 e.g. {{Sorting |state=collapsed}}: |state=expanded to show the template <br>\nin its&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Template:Sorting", 
+            "cacheId": "WVxdu9IzZP0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Pancake - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Pancake</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Pancake", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Pancake</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "200", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRUuJNOxSBqqLjTYhNWehf-VMmadr1pvc3jF1gMHvmIa-p6OJ4ljcv4n-lH", 
+                        "height": "133"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Platt_brunch.jpg/250px-Platt_brunch.jpg"
+                    }
+                ], 
+                "hrecipe": [
+                    {
+                        "fn": "Pancake"
+                    }
+                ]
+            }, 
+            "snippet": "A pancake is a flat cake, often thin, and round, prepared from a starch-based .... \nDorayaki are a sort of sandwich made from Western-style pancakes and anko.", 
+            "htmlSnippet": "A <b>pancake</b> is a flat cake, often thin, and round, prepared from a starch-based .... <br>\nDorayaki are a <b>sort</b> of sandwich made from Western-style <b>pancakes</b> and anko.", 
+            "link": "https://en.wikipedia.org/wiki/Pancake", 
+            "cacheId": "1iFfPORO0R4J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Oscillating merge sort - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Oscillating merge <b>sort</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Oscillating_merge_sort", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Oscillating_merge_<b>sort</b>", 
+            "snippet": "The oscillating merge sort does not waste rewind time or have tape drives sit idle \nas in the conventional ... Topological sorting \u00b7 Pancake sorting \u00b7 Spaghetti sort\u00a0...", 
+            "htmlSnippet": "The oscillating merge sort does not waste rewind time or have tape drives sit idle <br>\nas in the conventional ... Topological sorting &middot; <b>Pancake sorting</b> &middot; Spaghetti sort&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Oscillating_merge_sort", 
+            "cacheId": "6eQpw8LMclcJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Bogosort - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Bogosort - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Bogosort", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Bogo<b>sort</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRLOxBIFc6CG0FtjOzicWW5s1Q-Whx4IkI8QFHn0__G95h7zMHP8uDXMPNf", 
+                        "height": "148"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Bogo_sort_animation.gif/220px-Bogo_sort_animation.gif"
+                    }
+                ]
+            }, 
+            "snippet": "In computer science, bogosort (also stupid sort, slowsort, random sort, shotgun \nsort or monkey sort) is a particularly ineffective sorting algorithm based on the \ngenerate and test paradigm. .... Topological sorting \u00b7 Pancake sorting \u00b7 Spaghetti \nsort\u00a0...", 
+            "htmlSnippet": "In computer science, bogosort (also stupid sort, slowsort, random sort, shotgun <br>\nsort or monkey sort) is a particularly ineffective sorting algorithm based on the <br>\ngenerate and test paradigm. .... Topological sorting &middot; <b>Pancake sorting</b> &middot; Spaghetti <br>\nsort&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Bogosort", 
+            "cacheId": "5KVYypNchgMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Cascade merge sort - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Cascade merge <b>sort</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Cascade_merge_sort", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Cascade_merge_<b>sort</b>", 
+            "snippet": "Cascade merge sort is similar to the polyphase merge sort but uses a simpler \ndistribution. ... Other. Topological sorting \u00b7 Pancake sorting \u00b7 Spaghetti sort\u00a0...", 
+            "htmlSnippet": "Cascade merge sort is similar to the polyphase merge sort but uses a simpler <br>\ndistribution. ... Other. Topological sorting &middot; <b>Pancake sorting</b> &middot; Spaghetti sort&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Cascade_merge_sort", 
+            "cacheId": "_KG1RiSCP-EJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Pancake sort", 
+                "safe": "off", 
+                "searchTerms": "Pancake sort", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "1800"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Pancake sort", 
+                "safe": "off", 
+                "searchTerms": "Pancake sort", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "1800"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.27", 
+        "formattedTotalResults": "1,800", 
+        "totalResults": "1800", 
+        "searchTime": 0.26609
+    }
+}

@@ -1,0 +1,243 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "High-dynamic-range imaging - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>High-dynamic-range</b> imaging - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/High-dynamic-range_imaging", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/High-dynamic-range_imaging", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQL2vY-W4sQ2Zx1TjEuHX2UtRjtlt8I3GvOkNBEQkgInYt38wZM_Ql0IQ", 
+                        "height": "117"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/St_Kentigerns_Church_HDR_(8226826999).jpg/220px-St_Kentigerns_Church_HDR_(8226826999).jpg"
+                    }
+                ]
+            }, 
+            "snippet": "High-dynamic-range imaging (HDRI or HDR) is a technique used in imaging and \nphotography to reproduce a greater dynamic range of luminosity than is\u00a0...", 
+            "htmlSnippet": "<b>High-dynamic-range</b> imaging (HDRI or <b>HDR</b>) is a technique used in imaging and <br>\nphotography to reproduce a greater dynamic range of luminosity than is&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/High-dynamic-range_imaging", 
+            "cacheId": "FWPrNpvacD0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "High-dynamic-range rendering - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>High-dynamic-range</b> rendering - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/High-dynamic-range_rendering", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/High-dynamic-range_rendering", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "240", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQVpamw08tXDRjU53T6sjRyb9ORszNshO4Mp2TCAk88fverU_Fnk7Fzo9Q", 
+                        "height": "149"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/8/89/Lost_Coast_HDR_comparison.png/300px-Lost_Coast_HDR_comparison.png"
+                    }
+                ]
+            }, 
+            "snippet": "High-dynamic-range rendering (HDRR or HDR rendering), also known as high-\ndynamic-range lighting, is the rendering of computer graphics scenes by using\u00a0...", 
+            "htmlSnippet": "<b>High-dynamic-range</b> rendering (HDRR or <b>HDR</b> rendering), also known as <b>high-</b><br>\n<b>dynamic-range</b> lighting, is the rendering of computer graphics scenes by using&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/High-dynamic-range_rendering", 
+            "cacheId": "InKigh_U-jYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "HDR - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>HDR</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/HDR", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>HDR</b>", 
+            "snippet": "Jump to: navigation, search. HDR may refer to: ... This disambiguation page lists \narticles associated with the title HDR. If an internal link led you here, you may\u00a0...", 
+            "htmlSnippet": "Jump to: navigation, search. <b>HDR</b> may refer to: ... This disambiguation page lists <br>\narticles associated with the title <b>HDR</b>. If an internal link led you here, you may&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/HDR", 
+            "cacheId": "WGmppu5faGoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "HDR, Inc. - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>HDR</b>, Inc. - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/HDR,_Inc.", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>HDR</b>,_Inc.", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "160", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRi39h5LgkNggMnO_k4np65jwm4BBwv8f4eIVuSdtrM3rWzLcPWrfWWVA", 
+                        "height": "90"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/HDR,_Inc._logo.png/200px-HDR,_Inc._logo.png"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "category": "Private Employee Owned Corporation", 
+                        "fn": "HDR Inc.", 
+                        "label": "Omaha, Nebraska USA"
+                    }
+                ]
+            }, 
+            "snippet": "Founded in 1917 by Henning Henry (H.H.) Henningson, the Henningson \nEngineering Company got its start as a civil engineering firm in Omaha, where \nHDR's\u00a0...", 
+            "htmlSnippet": "Founded in 1917 by Henning Henry (H.H.) Henningson, the Henningson <br>\nEngineering Company got its start as a civil engineering firm in Omaha, where <br>\n<b>HDR&#39;s</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/HDR,_Inc.", 
+            "cacheId": "e0pG4ptQGDwJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "JPEG-HDR - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "JPEG-<b>HDR</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/JPEG-HDR", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/JPEG-<b>HDR</b>", 
+            "snippet": "JPEG-HDR was created by Greg Ward and Maryann Simmons as a way to store \nhigh dynamic range images inside a standard JPEG file. This reduces the file\u00a0...", 
+            "htmlSnippet": "JPEG-<b>HDR</b> was created by Greg Ward and Maryann Simmons as a way to store <br>\nhigh dynamic range images inside a standard JPEG file. This reduces the file&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/JPEG-HDR", 
+            "cacheId": "hKRrF0NwhR4J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Luminance HDR - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Luminance <b>HDR</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Luminance_HDR", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Luminance_<b>HDR</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "160", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQBgab8LHg6uNcGv2bde4Ozw4dnqgX_lderPWzudq4i0RMKGRZbQy-eb8HS", 
+                        "height": "140"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Qtpfsgui_Screenshot.png/200px-Qtpfsgui_Screenshot.png"
+                    }
+                ]
+            }, 
+            "snippet": "Luminance HDR \u2013 formerly Qtpfsgui \u2013 is graphics software used for the creation \nand manipulation of High Dynamic Range images. It is released under the terms\n\u00a0...", 
+            "htmlSnippet": "Luminance <b>HDR</b> \u2013 formerly Qtpfsgui \u2013 is graphics software used for the creation <br>\nand manipulation of High Dynamic Range images. It is released under the terms<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Luminance_HDR", 
+            "cacheId": "A36p5_yVnRkJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Habilitation - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Habilitation - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Habilitation", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Habilitation", 
+            "snippet": "Habilitation qualifications exist in France (Habilitation \u00e0 diriger des recherches, \"\naccreditation to supervise research\", abbreviated HDR), Switzerland, Germany\u00a0...", 
+            "htmlSnippet": "Habilitation qualifications exist in France (<b>Habilitation \u00e0 diriger des recherches</b>, &quot;<br>\naccreditation to supervise research&quot;, abbreviated <b>HDR</b>), Switzerland, Germany&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Habilitation", 
+            "cacheId": "_soieVWYo7MJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "HDR PhotoStudio - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>HDR</b> PhotoStudio - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/HDR_PhotoStudio", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>HDR</b>_PhotoStudio", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "200", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSctQi9Jo8ESb1zxmYJ2TL_XhWyqhVzuejwgLPC2oPJem5UNH1AMXDBMOs", 
+                        "height": "144"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/d/db/HDR_PhotoStudio_screenshot.jpeg/250px-HDR_PhotoStudio_screenshot.jpeg"
+                    }
+                ]
+            }, 
+            "snippet": "HDR PhotoStudio was an advanced HDR (High Dynamic Range) digital imaging \nsoftware application developed by Unified Color for Microsoft Windows\u00a0...", 
+            "htmlSnippet": "<b>HDR</b> PhotoStudio was an advanced <b>HDR</b> (High Dynamic Range) digital imaging <br>\nsoftware application developed by Unified Color for Microsoft Windows&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/HDR_PhotoStudio", 
+            "cacheId": "ciYVZrd8oxsJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Homology directed repair - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Homology directed repair</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Homology_directed_repair", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Homology_directed_repair", 
+            "snippet": "Homology directed repair (HDR) is a mechanism in cells to repair double strand \nDNA lesions. The most common form of HDR is homologous recombination.", 
+            "htmlSnippet": "<b>Homology directed repair</b> (<b>HDR</b>) is a mechanism in cells to repair double strand <br>\nDNA lesions. The most common form of <b>HDR</b> is homologous recombination.", 
+            "link": "https://en.wikipedia.org/wiki/Homology_directed_repair", 
+            "cacheId": "t6a6obFPyxsJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "RGBE image format - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "RGBE image format - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/RGBE_image_format", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/RGBE_image_format", 
+            "snippet": "Filename extension .hdr. Internet media type, image/vnd.radiance. Magic number \n... See also[edit]. Radiance HDR image format \u00b7 High dynamic range imaging\u00a0...", 
+            "htmlSnippet": "Filename extension .<b>hdr</b>. Internet media type, image/vnd.radiance. Magic number <br>\n... See also[edit]. Radiance <b>HDR</b> image format &middot; High dynamic range imaging&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/RGBE_image_format", 
+            "cacheId": "u-ZkJiysG3QJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - HDR", 
+                "safe": "off", 
+                "searchTerms": "HDR", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "12300"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - HDR", 
+                "safe": "off", 
+                "searchTerms": "HDR", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "12300"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.31", 
+        "formattedTotalResults": "12,300", 
+        "totalResults": "12300", 
+        "searchTime": 0.305046
+    }
+}

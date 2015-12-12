@@ -1,0 +1,222 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Euclidean algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Euclidean algorithm</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Euclidean_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Euclidean</b>_<b>algorithm</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "190", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTPdPkIvtfEH4tMKI0RbyKx0DroUx3qVd4o8wVNtihkVu-XAG2aZXUIpaE", 
+                        "height": "265"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Euclid's_algorithm_Book_VII_Proposition_2_3.png/300px-Euclid's_algorithm_Book_VII_Proposition_2_3.png"
+                    }
+                ]
+            }, 
+            "snippet": "In mathematics, the Euclidean algorithm, or Euclid's algorithm, is an efficient \nmethod for computing the greatest common divisor (GCD) of two numbers, the\u00a0...", 
+            "htmlSnippet": "In mathematics, the <b>Euclidean algorithm</b>, or <b>Euclid&#39;s algorithm</b>, is an efficient <br>\nmethod for computing the greatest common divisor (GCD) of two numbers, the&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Euclidean_algorithm", 
+            "cacheId": "Y__peSq19QMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Euclidean division - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Euclidean</b> division - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Euclidean_division", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Euclidean</b>_division", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQWjKGws9VJEoJCDFg9lKcfLTOe3Q4RORxWKGLBYeoxlwg-jeGl391569I", 
+                        "height": "132"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Euclidean_division_example.svg/220px-Euclidean_division_example.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "Integer division algorithms compute the quotient and remainder given two \nintegers, the most well-known such algorithm being long division. Euclidean \ndivision\u00a0...", 
+            "htmlSnippet": "Integer division algorithms compute the quotient and remainder given two <br>\nintegers, the most well-known such <b>algorithm</b> being long division. <b>Euclidean</b> <br>\ndivision&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Euclidean_division", 
+            "cacheId": "RSaA4GBmb6MJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Greatest common divisor - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Greatest common divisor - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Greatest_common_divisor", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Greatest_common_divisor", 
+            "snippet": "A much more efficient method is the Euclidean algorithm, which uses a division \nalgorithm such as long division in combination with the observation that the gcd\u00a0...", 
+            "htmlSnippet": "A much more efficient method is the <b>Euclidean algorithm</b>, which uses a division <br>\nalgorithm such as long division in combination with the observation that the gcd&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Greatest_common_divisor", 
+            "cacheId": "Kh_SoR_lsTwJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Extended Euclidean algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Extended <b>Euclidean algorithm</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Extended_Euclidean_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Extended_<b>Euclidean</b>_<b>algorithm</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "267", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfX5SMh1A3dPf18FMnntW90htVqdFNLHJpKMJvKN986ShwqO655-W0tA", 
+                        "height": "84"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/math/e/6/0/e60a24e9bb7d2c1f557c902a4b79b98d.png"
+                    }
+                ]
+            }, 
+            "snippet": "In arithmetic and computer programming, the extended Euclidean algorithm is an \nextension to the Euclidean algorithm, which computes, besides the greatest\u00a0...", 
+            "htmlSnippet": "In arithmetic and computer programming, the extended <b>Euclidean algorithm</b> is an <br>\nextension to the <b>Euclidean algorithm</b>, which computes, besides the greatest&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Extended_Euclidean_algorithm", 
+            "cacheId": "vYK32f7-e7cJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Binary GCD algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Binary GCD <b>algorithm</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Binary_GCD_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Binary_GCD_<b>algorithm</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "212", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSakGIl4SgvtitOv4DfquRhxyuU2xEnrxx2juPDzoFt38XeyVdl1ghuavM", 
+                        "height": "238"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Binary_GCD_algorithm_visualisation.svg/400px-Binary_GCD_algorithm_visualisation.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "Stein's algorithm uses simpler arithmetic operations than the conventional \nEuclidean algorithm; it replaces division with arithmetic shifts, comparisons, and\u00a0...", 
+            "htmlSnippet": "Stein&#39;s algorithm uses simpler arithmetic operations than the conventional <br>\n<b>Euclidean algorithm</b>; it replaces division with arithmetic shifts, comparisons, and&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Binary_GCD_algorithm", 
+            "cacheId": "CxPf0CNyjQ4J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Polynomial greatest common divisor - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Polynomial greatest common divisor - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Polynomial_greatest_common_divisor", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Polynomial_greatest_common_divisor", 
+            "snippet": "In the important case of univariate polynomials over a field the polynomial GCD \nmay be computed, like for the integer GCD, by Euclid's algorithm using long\u00a0...", 
+            "htmlSnippet": "In the important case of univariate polynomials over a field the polynomial GCD <br>\nmay be computed, like for the integer GCD, by <b>Euclid&#39;s algorithm</b> using long&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Polynomial_greatest_common_divisor", 
+            "cacheId": "0Uyk4KCBniYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Euclidean rhythm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Euclidean</b> rhythm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Euclidean_rhythm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Euclidean</b>_rhythm", 
+            "snippet": "[edit]. In the 17th century Conrad Henfling writing to Leibniz about music theory \nand the tuning of\u00a0...", 
+            "htmlSnippet": "[edit]. In the 17th century Conrad Henfling writing to Leibniz about music theory <br>\nand the tuning of&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Euclidean_rhythm", 
+            "cacheId": "t2BH_0-aiyQJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Euclidean domain - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Euclidean</b> domain - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Euclidean_domain", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Euclidean</b>_domain", 
+            "snippet": "This generalized Euclidean algorithm can be put to many of the same uses as \nEuclid's original algorithm in the ring of integers: in any Euclidean domain, one\u00a0...", 
+            "htmlSnippet": "This generalized <b>Euclidean algorithm</b> can be put to many of the same uses as <br>\nEuclid&#39;s original algorithm in the ring of integers: in any Euclidean domain, one&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Euclidean_domain", 
+            "cacheId": "T_icIGmTFnQJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Modular multiplicative inverse - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Modular multiplicative inverse - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Modular_multiplicative_inverse", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Modular_multiplicative_inverse", 
+            "snippet": "2.1 Extended Euclidean algorithm; 2.2 Using Euler's theorem ... multiplicative \ninverse of a modulo m can be found with the extended Euclidean algorithm.", 
+            "htmlSnippet": "2.1 Extended <b>Euclidean algorithm</b>; 2.2 Using Euler&#39;s theorem ... multiplicative <br>\ninverse of a modulo m can be found with the extended <b>Euclidean algorithm</b>.", 
+            "link": "https://en.wikipedia.org/wiki/Modular_multiplicative_inverse", 
+            "cacheId": "L_V9trRY5cQJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Euclidean - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Euclidean</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Euclidean", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Euclidean</b>", 
+            "snippet": "Look up Euclidean or Euclidian in Wiktionary, the free dictionary. ... a method for \nfinding greatest common divisors; Extended Euclidean algorithm, a method for\u00a0...", 
+            "htmlSnippet": "Look up Euclidean or Euclidian in Wiktionary, the free dictionary. ... a method for <br>\nfinding greatest common divisors; Extended <b>Euclidean algorithm</b>, a method for&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Euclidean", 
+            "cacheId": "Fv7FWdEneUwJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Euclidean algorithm", 
+                "safe": "off", 
+                "searchTerms": "Euclidean algorithm", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "2180"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Euclidean algorithm", 
+                "safe": "off", 
+                "searchTerms": "Euclidean algorithm", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "2180"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.26", 
+        "formattedTotalResults": "2,180", 
+        "totalResults": "2180", 
+        "searchTime": 0.259543
+    }
+}

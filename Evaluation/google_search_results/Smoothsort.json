@@ -1,0 +1,243 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Smoothsort - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Smoothsort</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Smoothsort", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Smoothsort</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "236", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQmkhZTDDTaX6BKr7FO0uFIfdv3NoVNQjWSNbhdfDgM50UKnexmdmnsBNRT", 
+                        "height": "180"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Smoothsort.gif"
+                    }
+                ]
+            }, 
+            "snippet": "Smoothsort is a comparison-based sorting algorithm. It is a variation of heapsort \ndeveloped by Edsger Dijkstra in 1981. Like heapsort, smoothsort is an in-place\u00a0...", 
+            "htmlSnippet": "<b>Smoothsort</b> is a comparison-based sorting algorithm. It is a variation of heapsort <br>\ndeveloped by Edsger Dijkstra in 1981. Like heapsort, <b>smoothsort</b> is an in-place&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Smoothsort", 
+            "cacheId": "lpSY0f19vrwJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Leonardo number - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Leonardo number - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Leonardo_number", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Leonardo_number", 
+            "snippet": "Edsger W. Dijkstra used them as an integral part of his smoothsort algorithm, and \nalso analyzed them in some detail. Computing a second-order recurrence\u00a0...", 
+            "htmlSnippet": "Edsger W. Dijkstra used them as an integral part of his <b>smoothsort</b> algorithm, and <br>\nalso analyzed them in some detail. Computing a second-order recurrence&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Leonardo_number", 
+            "cacheId": "tsFhPFOSnRIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Introsort - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Introsort - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Introsort", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Introsort", 
+            "snippet": "Selection sort \u00b7 Heapsort \u00b7 Smoothsort \u00b7 Cartesian tree sort \u00b7 Tournament sort \u00b7 \nCycle sort. Insertion sorts. Insertion sort \u00b7 Shellsort \u00b7 Splaysort \u00b7 Tree sort \u00b7 Library\n\u00a0...", 
+            "htmlSnippet": "Selection sort &middot; Heapsort &middot; <b>Smoothsort</b> &middot; Cartesian tree sort &middot; Tournament sort &middot; <br>\nCycle sort. Insertion sorts. Insertion sort &middot; Shellsort &middot; Splaysort &middot; Tree sort &middot; Library<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Introsort", 
+            "cacheId": "dGnHHCTo5FQJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Template:Cite EWD - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Template:Cite EWD - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Template:Cite_EWD", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Template:Cite_EWD", 
+            "snippet": "(original; transcription), i.e. the same without <ref/> (put here to expose potential \nspurious newlines bugs); {{Cite EWD|796a| Smoothsort \u2013 an alternative to\u00a0...", 
+            "htmlSnippet": "(original; transcription), i.e. the same without &lt;ref/&gt; (put here to expose potential <br>\nspurious newlines bugs); {{Cite EWD|796a| <b>Smoothsort</b> \u2013 an alternative to&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Template:Cite_EWD", 
+            "cacheId": "moXhLuO3E2IJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Adaptive sort - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Adaptive sort - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Adaptive_sort", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Adaptive_sort", 
+            "snippet": "... is to being sorted. Other examples of adaptive sorting algorithms are adaptive \nheap sort, adaptive merge sort, patience sort, smoothsort, splaysort and Timsort.", 
+            "htmlSnippet": "... is to being sorted. Other examples of adaptive sorting algorithms are adaptive <br>\nheap sort, adaptive merge sort, patience sort, <b>smoothsort</b>, splaysort and Timsort.", 
+            "link": "https://en.wikipedia.org/wiki/Adaptive_sort", 
+            "cacheId": "DbTSGucI8zEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Edsger W. Dijkstra - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Edsger W. Dijkstra - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Edsger_W._Dijkstra", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Edsger_W._Dijkstra", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRqynTK7EiSESiZ2MaZ0gsk5d4lP3w17qHaHGkiEnqnJzNzSH7rRAyD5jQ", 
+                        "height": "234"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Edsger_Wybe_Dijkstra.jpg/220px-Edsger_Wybe_Dijkstra.jpg"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "bday": "1930-05-11", 
+                        "category": "Computing science Theoretical computer science", 
+                        "fn": "Edsger Wybe Dijkstra"
+                    }
+                ]
+            }, 
+            "snippet": "... for detecting termination in distributed systems. In 1981 Dijkstra developed \nsmoothsort, a comparison-based sorting algorithm and a variation of heapsort.", 
+            "htmlSnippet": "... for detecting termination in distributed systems. In 1981 Dijkstra developed <br>\n<b>smoothsort</b>, a comparison-based sorting algorithm and a variation of heapsort.", 
+            "link": "https://en.wikipedia.org/wiki/Edsger_W._Dijkstra", 
+            "cacheId": "_6uyKRDdCiEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "User:Swfung8 - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "User:Swfung8 - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/User:Swfung8", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/User:Swfung8", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "251", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQl6Mn28scJfP_zS4qmM-LASWK4PcyZe32UbvJtAmIRnxEJ0-6K_vnXDJk", 
+                        "height": "201"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Heapsort-example.gif"
+                    }
+                ]
+            }, 
+            "snippet": "The smoothsort algorithm is a variation of heapsort developed by Edsger Dijkstra \nin 1981. Like heapsort, smoothsort's upper bound is O(n log n). The advantage\u00a0...", 
+            "htmlSnippet": "The <b>smoothsort</b> algorithm is a variation of heapsort developed by Edsger Dijkstra <br>\nin 1981. Like heapsort, <b>smoothsort&#39;s</b> upper bound is O(n log n). The advantage&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/User:Swfung8", 
+            "cacheId": "9NvxWfrF8sAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Comparison sort - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Comparison sort - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Comparison_sort", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Comparison_sort", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "232", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS78wJQXHvx9Wq1up4xGVYL_B6rWVFL3Xwngh2al3NdWTocWiiJl944Vpyw", 
+                        "height": "217"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Balance_%C3%A0_tabac_1850.JPG/300px-Balance_%C3%A0_tabac_1850.JPG"
+                    }
+                ]
+            }, 
+            "snippet": "... Intro sort \u00b7 Insertion sort \u00b7 Selection sort \u00b7 Bubble sort \u00b7 Odd-even sort \u00b7 Cocktail \nsort \u00b7 Cycle sort \u00b7 Merge insertion (Ford-Johnson) sort \u00b7 Smoothsort \u00b7 Timsort\u00a0...", 
+            "htmlSnippet": "... Intro sort &middot; Insertion sort &middot; Selection sort &middot; Bubble sort &middot; Odd-even sort &middot; Cocktail <br>\nsort &middot; Cycle sort &middot; Merge insertion (Ford-Johnson) sort &middot; <b>Smoothsort</b> &middot; Timsort&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Comparison_sort", 
+            "cacheId": "k7GGonoy80oJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Heapsort - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Heapsort - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Heapsort", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Heapsort", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "224", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ2oLMliBb_2ZN4BfjN6vjRl-EKR-rnFLD_x8z5dboL_9Fc3pJkI_zq4-0", 
+                        "height": "171"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Sorting_heapsort_anim.gif"
+                    }
+                ]
+            }, 
+            "snippet": "The smoothsort algorithm is a variation of heapsort developed by Edsger Dijkstra \nin 1981. Like heapsort, smoothsort's upper bound is O(n log n). The advantage\u00a0...", 
+            "htmlSnippet": "The <b>smoothsort</b> algorithm is a variation of heapsort developed by Edsger Dijkstra <br>\nin 1981. Like heapsort, <b>smoothsort&#39;s</b> upper bound is O(n log n). The advantage&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Heapsort", 
+            "cacheId": "xsQCCGTlloEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Category:Sorting algorithms - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Category:Sorting algorithms - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Category:Sorting_algorithms", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Category:Sorting_algorithms", 
+            "snippet": "Samplesort \u00b7 Schwartzian transform \u00b7 Selection sort \u00b7 Shellsort \u00b7 Smoothsort \u00b7 Sort \n(C++) \u00b7 Sort (Unix) \u00b7 Sorting \u00b7 Sorting network \u00b7 Spaghetti sort \u00b7 Splaysort\u00a0...", 
+            "htmlSnippet": "Samplesort &middot; Schwartzian transform &middot; Selection sort &middot; Shellsort &middot; <b>Smoothsort</b> &middot; Sort <br>\n(C++) &middot; Sort (Unix) &middot; Sorting &middot; Sorting network &middot; Spaghetti sort &middot; Splaysort&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Category:Sorting_algorithms", 
+            "cacheId": "40uTcv1LOogJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Smoothsort", 
+                "safe": "off", 
+                "searchTerms": "Smoothsort", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "132"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Smoothsort", 
+                "safe": "off", 
+                "searchTerms": "Smoothsort", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "132"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.24", 
+        "formattedTotalResults": "132", 
+        "totalResults": "132", 
+        "searchTime": 0.238441
+    }
+}

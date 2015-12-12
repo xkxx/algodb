@@ -1,0 +1,269 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Depth-first search - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Depth</b>-<b>first search</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Depth-first_search", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Depth</b>-<b>first</b>_<b>search</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "240", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAHyH6tRbpBEVFpm5MeihoL88S61Mw7Kg-XrNxgtDI-r8ly0ihddDd0ouA", 
+                        "height": "153"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Depth-first-tree.svg/300px-Depth-first-tree.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "Depth-first search (DFS) is an algorithm for traversing or searching tree or graph \ndata structures. One starts at the root (selecting some arbitrary node as the root\u00a0...", 
+            "htmlSnippet": "<b>Depth</b>-<b>first search</b> (<b>DFS</b>) is an algorithm for traversing or searching tree or graph <br>\ndata structures. One starts at the root (selecting some arbitrary node as the root&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Depth-first_search", 
+            "cacheId": "CMEdqxvhPk0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Iterative deepening depth-first search - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Iterative deepening <b>depth</b>-<b>first search</b> - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Iterative_deepening_depth-first_search", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Iterative_deepening_<b>depth</b>-<b>first</b>_<b>search</b>", 
+            "snippet": "In computer science, iterative deepening depth-first search (IDDFS) is a state \nspace search strategy in which a depth-limited search is run repeatedly, \nincreasing\u00a0...", 
+            "htmlSnippet": "In computer science, iterative deepening <b>depth</b>-<b>first search</b> (IDDFS) is a state <br>\nspace search strategy in which a depth-limited search is run repeatedly, <br>\nincreasing&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Iterative_deepening_depth-first_search", 
+            "cacheId": "frB8VIIjWwAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Maze generation algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Maze generation algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Maze_generation_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Maze_generation_algorithm", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "160", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSZ8cpOqjek1NeXifDZHLKyUNmQQcTFf-ZT-M1itXrGIxoFjArVPk3cB3Ta", 
+                        "height": "160"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Prim_Maze.svg/200px-Prim_Maze.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "Mazes generated with a depth-first search have a low branching factor and \ncontain many long corridors, because the algorithm explores as far as possible \nalong\u00a0...", 
+            "htmlSnippet": "Mazes generated with a <b>depth</b>-<b>first search</b> have a low branching factor and <br>\ncontain many long corridors, because the algorithm explores as far as possible <br>\nalong&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Maze_generation_algorithm", 
+            "cacheId": "1x_Vaxn0DiMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Depth-limited search - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Depth</b>-limited <b>search</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Depth-limited_search", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Depth</b>-limited_<b>search</b>", 
+            "snippet": "General[edit]. Like the normal depth-first search, depth-limited search is an \nuninformed search. It works exactly like depth-first search, but avoids its \ndrawbacks\u00a0...", 
+            "htmlSnippet": "General[edit]. Like the normal <b>depth</b>-<b>first search</b>, depth-limited search is an <br>\nuninformed search. It works exactly like <b>depth</b>-<b>first search</b>, but avoids its <br>\ndrawbacks&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Depth-limited_search", 
+            "cacheId": "7dwnBA-HyXEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Tr\u00e9maux tree - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Tr\u00e9maux tree - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Tr\u00e9maux_tree", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Tr\u00e9maux_tree", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "184", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRfzCzSLnAvFzxzU-GfEYErekeXnnNVo6bt4NQzTOqwGUqBzJ29c-bdeA", 
+                        "height": "122"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Undirected_graph.svg/231px-Undirected_graph.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "All depth-first search trees and all Hamiltonian paths are Tr\u00e9maux trees. Tr\u00e9maux \ntrees are named after Charles Pierre Tr\u00e9maux, a 19th-century French author\u00a0...", 
+            "htmlSnippet": "All <b>depth</b>-<b>first search</b> trees and all Hamiltonian paths are Tr\u00e9maux trees. Tr\u00e9maux <br>\ntrees are named after Charles Pierre Tr\u00e9maux, a 19th-century French author&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Tr%C3%A9maux_tree", 
+            "cacheId": "KDVDmuCLXe0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Tree traversal - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Tree traversal - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Tree_traversal", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Tree_traversal", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMPW8TIJqnlvOKNUBZhf7W62EGbhfRSBoJqgI_a_vB_WJle6XrTN7xpn8", 
+                        "height": "150"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Sorted_binary_tree_preorder.svg/220px-Sorted_binary_tree_preorder.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "In computer science, tree traversal (also known as tree search) is a form of ... \nThere are three types of depth-first traversal: pre-order, in-order, and post-order.", 
+            "htmlSnippet": "In computer science, tree traversal (also known as tree <b>search</b>) is a form of ... <br>\nThere are three types of <b>depth</b>-<b>first</b> traversal: pre-order, in-order, and post-order.", 
+            "link": "https://en.wikipedia.org/wiki/Tree_traversal", 
+            "cacheId": "BOGFRf8V_ysJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Breadth-first search - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Breadth-<b>first search</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Breadth-first_search", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Breadth-<b>first</b>_<b>search</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "240", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSQLOoYuxzr5X74q9M9vGXyQJRtsTtmzh8TX45RZgGlXCuKA__-PgY-t88_", 
+                        "height": "153"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Breadth-first-tree.svg/300px-Breadth-first-tree.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "Breadth-first search (BFS) is an algorithm for traversing or searching tree or ... to \nthe non-recursive implementation of depth-first search, but differs from it in two\u00a0...", 
+            "htmlSnippet": "Breadth-first search (BFS) is an algorithm for traversing or searching tree or ... to <br>\nthe non-recursive implementation of <b>depth</b>-<b>first search</b>, but differs from it in two&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Breadth-first_search", 
+            "cacheId": "jEQeW6JwIN4J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Graph traversal - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Graph traversal - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Graph_traversal", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Graph_traversal", 
+            "snippet": "A depth-first search (DFS) is an algorithm for traversing a finite graph. DFS visits \nthe child nodes before visiting the sibling nodes; that is, it traverses the depth of\u00a0...", 
+            "htmlSnippet": "A <b>depth</b>-<b>first search</b> (DFS) is an algorithm for traversing a finite graph. DFS visits <br>\nthe child nodes before visiting the sibling nodes; that is, it traverses the depth of&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Graph_traversal", 
+            "cacheId": "hOzoffqDg_0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "File:MAZE 30x20 DFS.ogv - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "File:MAZE 30x20 DFS.ogv - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/File:MAZE_30x20_DFS.ogv", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/File:MAZE_30x20_DFS.ogv", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "274", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQAYLioQggq_0-4yeQA4E0pmd4eMGoYQRsbTUKvCgwTFWZrZM3CaV_1zjmy", 
+                        "height": "184"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/MAZE_30x20_DFS.ogv/732px--MAZE_30x20_DFS.ogv.jpg"
+                    }
+                ], 
+                "hproduct": [
+                    {
+                        "fn": "MAZE 30x20 DFS.ogv"
+                    }
+                ]
+            }, 
+            "snippet": "English: The generation of a maze using a depth-first search algorithm. This \nmaze is 30x20 in size. The C++ source code used to create this can be seen at\u00a0...", 
+            "htmlSnippet": "English: The generation of a maze using a <b>depth</b>-<b>first search</b> algorithm. This <br>\nmaze is 30x20 in size. The C++ source code used to create this can be seen at&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/File:MAZE_30x20_DFS.ogv", 
+            "cacheId": "E1a6kNWiF3cJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "File:Depth-First Search Animation.ogv - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "File:<b>Depth</b>-<b>First Search</b> Animation.ogv - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/File:Depth-First_Search_Animation.ogv", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/File:<b>Depth</b>-<b>First</b>_<b>Search</b>_Animation.ogv", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "300", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQpla47RqtOBdWHGPesywJbAZiiDDNf85EjCDFq-dglVnVBJCb145Xiihs", 
+                        "height": "168"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7d/Depth-First_Search_Animation.ogv/640px--Depth-First_Search_Animation.ogv.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "Depth-First_Search_Animation.ogv   (Ogg multiplexed audio/video file, ... This \nvideo shows Depth-First Search in action in a 20 fps animation of the generator's\n\u00a0...", 
+            "htmlSnippet": "Depth-First_Search_Animation.ogv   (Ogg multiplexed audio/video file, ... This <br>\nvideo shows <b>Depth</b>-<b>First Search</b> in action in a 20 fps animation of the generator&#39;s<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/File:Depth-First_Search_Animation.ogv", 
+            "cacheId": "i61yMWjoCvYJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Depth-first search", 
+                "safe": "off", 
+                "searchTerms": "Depth-first search", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "95600"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Depth-first search", 
+                "safe": "off", 
+                "searchTerms": "Depth-first search", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "95600"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.33", 
+        "formattedTotalResults": "95,600", 
+        "totalResults": "95600", 
+        "searchTime": 0.329756
+    }
+}

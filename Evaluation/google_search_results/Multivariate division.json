@@ -1,0 +1,180 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Multivariate division", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Multivariate division</b>", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Multivariate_division_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Multivariate</b>_<b>division</b>_algorithm", 
+            "snippet": "(Redirected from Multivariate division algorithm) ... Gr\u00f6bner basis computation \ncan be seen as a multivariate, non-linear generalization of both Euclid's \nalgorithm\u00a0...", 
+            "htmlSnippet": "(Redirected from <b>Multivariate division</b> algorithm) ... Gr\u00f6bner basis computation <br>\ncan be seen as a multivariate, non-linear generalization of both Euclid&#39;s <br>\nalgorithm&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Multivariate_division_algorithm", 
+            "cacheId": "USULpPGhBg8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Multivariate division algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Multivariate division</b> algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/.../Talk%3AMultivariate_division_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Talk%3A<b>Multivariate</b>_<b>division</b>_algorithm", 
+            "snippet": "Could you make some clarification on using Groebner bases for deterministic \nmultivariate division, please? Link for an article would be appreciated. Phil.", 
+            "htmlSnippet": "Could you make some clarification on using Groebner bases for deterministic <br>\n<b>multivariate division</b>, please? Link for an article would be appreciated. Phil.", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3AMultivariate_division_algorithm", 
+            "cacheId": "sapgdybxNwkJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Multivariate - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Multivariate</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Multivariate", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Multivariate</b>", 
+            "snippet": "Look up multivariate in Wiktionary, the free dictionary. ... Multivariable calculus \u00b7 \nMultivariate division algorithm \u00b7 Multivariate interpolation \u00b7 Multivariate\u00a0...", 
+            "htmlSnippet": "Look up multivariate in Wiktionary, the free dictionary. ... Multivariable calculus &middot; <br>\n<b>Multivariate division</b> algorithm &middot; Multivariate interpolation &middot; Multivariate&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Multivariate", 
+            "cacheId": "k9Z_C8UuRBkJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Polynomial greatest common divisor - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Polynomial greatest common divisor - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Polynomial_greatest_common_divisor", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Polynomial_greatest_common_divisor", 
+            "snippet": "4.1 Euclidean division; 4.2 Euclid's algorithm; 4.3 B\u00e9zout's identity and ... the \nGCD over R and over F; 5.3 Proof that GCD exists for multivariate polynomials.", 
+            "htmlSnippet": "4.1 Euclidean <b>division</b>; 4.2 Euclid&#39;s algorithm; 4.3 B\u00e9zout&#39;s identity and ... the <br>\nGCD over R and over F; 5.3 Proof that GCD exists for <b>multivariate</b> polynomials.", 
+            "link": "https://en.wikipedia.org/wiki/Polynomial_greatest_common_divisor", 
+            "cacheId": "0Uyk4KCBniYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Buchberger's algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Buchberger&#39;s algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Buchberger's_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Buchberger&#39;s_algorithm", 
+            "snippet": "Reduce Sij, with the multivariate division algorithm relative to the set G until the \nresult is not further reducible. If the result is non-zero, add it to G. Repeat steps\u00a0...", 
+            "htmlSnippet": "Reduce Sij, with the <b>multivariate division</b> algorithm relative to the set G until the <br>\nresult is not further reducible. If the result is non-zero, add it to G. Repeat steps&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Buchberger's_algorithm", 
+            "cacheId": "A207x6mEIAUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Polynomial - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Polynomial - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Polynomial", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Polynomial", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "136", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcReJkXAC0GdgLm8OL692lvg8FzfC5j-2xSaSRuVV_HQ8nan5c-vhHjwbIg", 
+                        "height": "136"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Polynomialdeg3.svg/170px-Polynomialdeg3.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "It is possible to further classify multivariate polynomials as bivariate, trivariate, ... \nto compute the remainder of polynomial division by a polynomial of degree one,\u00a0...", 
+            "htmlSnippet": "It is possible to further classify <b>multivariate</b> polynomials as bivariate, trivariate, ... <br>\nto compute the remainder of polynomial <b>division</b> by a polynomial of degree one,&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Polynomial", 
+            "cacheId": "80VMviLrHTAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Ratio distribution - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Ratio distribution - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Ratio_distribution", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Ratio_distribution", 
+            "snippet": "Ratio distributions also appear in multivariate analysis. If the random ... Statistical \nEngineering Division, National Institute of Science and Technology. Retrieved\u00a0...", 
+            "htmlSnippet": "Ratio distributions also appear in <b>multivariate</b> analysis. If the random ... Statistical <br>\nEngineering <b>Division</b>, National Institute of Science and Technology. Retrieved&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Ratio_distribution", 
+            "cacheId": "Ns4kXyaSAk8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Polynomial ring - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Polynomial ring - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Polynomial_ring", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Polynomial_ring", 
+            "snippet": "At each step of this algorithm, a pair (a, b), a > b, of natural numbers is replaced \nby a new pair (b, r), where r is the remainder from the division of a by b, and the\u00a0...", 
+            "htmlSnippet": "At each step of this algorithm, a pair (a, b), a &gt; b, of natural numbers is replaced <br>\nby a new pair (b, r), where r is the remainder from the <b>division</b> of a by b, and the&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Polynomial_ring", 
+            "cacheId": "EP9iaajhqCYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Monomial order - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Monomial order - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Monomial_order", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Monomial_order", 
+            "snippet": "... ordering is interesting only in the case of multiple variables. Monomial \norderings are most commonly used with Gr\u00f6bner bases and multivariate division.", 
+            "htmlSnippet": "... ordering is interesting only in the case of multiple variables. Monomial <br>\norderings are most commonly used with Gr\u00f6bner bases and <b>multivariate division</b>.", 
+            "link": "https://en.wikipedia.org/wiki/Monomial_order", 
+            "cacheId": "AeEnyojjbaQJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Category talk:Computer algebra - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Category talk:Computer algebra - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Category_talk:Computer_algebra", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Category_talk:Computer_algebra", 
+            "snippet": "Landau's algorithm, Stub. Multivariate division algorithm, Unknown. Pollard's \nkangaroo algorithm, Unknown. Polynomial long division, Unknown. Record \nlinkage\u00a0...", 
+            "htmlSnippet": "Landau&#39;s algorithm, Stub. <b>Multivariate division</b> algorithm, Unknown. Pollard&#39;s <br>\nkangaroo algorithm, Unknown. Polynomial long division, Unknown. Record <br>\nlinkage&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Category_talk:Computer_algebra", 
+            "cacheId": "OmQNV9rlhy8J"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Multivariate division", 
+                "safe": "off", 
+                "searchTerms": "Multivariate division", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "817"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Multivariate division", 
+                "safe": "off", 
+                "searchTerms": "Multivariate division", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "817"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.26", 
+        "formattedTotalResults": "817", 
+        "totalResults": "817", 
+        "searchTime": 0.263593
+    }
+}

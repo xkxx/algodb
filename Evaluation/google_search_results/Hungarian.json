@@ -1,0 +1,276 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Hungarian language - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Hungarian</b> language - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Hungarian_language", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Hungarian</b>_language", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSQj8h2M7yZzLFRmoh_Dh8YY6bf1kEPaxiyc4e4vWlu8yE0ppkJ0jEH2rg", 
+                        "height": "115"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Idioma_h%C3%BAngaro.PNG/220px-Idioma_h%C3%BAngaro.PNG"
+                    }
+                ]
+            }, 
+            "snippet": "Hungarian is the official language of Hungary and one of the 24 official \nlanguages of the European Union. Outside Hungary it is also spoken by \ncommunities of\u00a0...", 
+            "htmlSnippet": "<b>Hungarian</b> is the official language of Hungary and one of the 24 official <br>\nlanguages of the European Union. Outside Hungary it is also spoken by <br>\ncommunities of&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Hungarian_language", 
+            "cacheId": "2AoQ9CbmJesJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Hungarian - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Hungarian</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Hungarian", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Hungarian</b>", 
+            "snippet": "Jump to: navigation, search. Hungarian may refer to: ... This disambiguation page \nlists articles associated with the title Hungarian. If an internal link led you here,\u00a0...", 
+            "htmlSnippet": "Jump to: navigation, search. <b>Hungarian</b> may refer to: ... This disambiguation page <br>\nlists articles associated with the title <b>Hungarian</b>. If an internal link led you here,&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Hungarian", 
+            "cacheId": "kaqMBYbK2mkJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Hungarians - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Hungarians - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Hungarians", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Hungarian</b>s", 
+            "pagemap": {
+                "hcard": [
+                    {
+                        "fn": "Hungarians Magyarok"
+                    }, 
+                    {
+                        "fn": "Hungary", 
+                        "label": "Hungary"
+                    }
+                ]
+            }, 
+            "snippet": "Hungarians, also known as Magyars (Hungarian: magyarok), are a nation and \nethnic group who speak Hungarian and are primarily associated with Hungary.", 
+            "htmlSnippet": "Hungarians, also known as Magyars (<b>Hungarian</b>: magyarok), are a nation and <br>\nethnic group who speak <b>Hungarian</b> and are primarily associated with Hungary.", 
+            "link": "https://en.wikipedia.org/wiki/Hungarians", 
+            "cacheId": "Bf6M4NPMosQJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Hungarian notation - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Hungarian</b> notation - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Hungarian_notation", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Hungarian</b>_notation", 
+            "snippet": "Hungarian notation is an identifier naming convention in computer programming, \nin which the name of a variable or function indicates its type or intended use.", 
+            "htmlSnippet": "<b>Hungarian</b> notation is an identifier naming convention in computer programming, <br>\nin which the name of a variable or function indicates its type or intended use.", 
+            "link": "https://en.wikipedia.org/wiki/Hungarian_notation", 
+            "cacheId": "Rns9Pn5deHUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Hungary - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Hungary - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Hungary", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Hungary", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "200", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQfXBWB7HWnPCbQVfk8qhIkmN8eOj_ZPPKIZ0Du85_n4fJNdMYm8-2yIKNb", 
+                        "height": "168"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/EU-Hungary.svg/250px-EU-Hungary.svg.png"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "fn": "Hungary"
+                    }, 
+                    {
+                        "fn": "Hungary", 
+                        "label": "Hungary"
+                    }
+                ]
+            }, 
+            "snippet": "The Hungarian endonym is Magyarorsz\u00e1g, composed of magyar ('Hungarian') \nand orsz\u00e1g ('country'). The word magyar is taken from the name of one of the\u00a0...", 
+            "htmlSnippet": "The <b>Hungarian</b> endonym is Magyarorsz\u00e1g, composed of magyar (&#39;<b>Hungarian</b>&#39;) <br>\nand orsz\u00e1g (&#39;country&#39;). The word magyar is taken from the name of one of the&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Hungary", 
+            "cacheId": "Sn0FSxJwrcUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Hungarian cuisine - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Hungarian</b> cuisine - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Hungarian_cuisine", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Hungarian</b>_cuisine", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRhpEbKdY9KXtGx7QmBc_HU0pyT4G44mF8dPJP-hadinGmc-9C6eQ1NQm0", 
+                        "height": "117"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Hortobagy_palacsinta.JPG/220px-Hortobagy_palacsinta.JPG"
+                    }
+                ]
+            }, 
+            "snippet": "Hungarian or Magyar cuisine is the cuisine characteristic of the nation of Hungary \nand its primary ethnic group, the Magyars. Traditional Hungarian dishes are\u00a0...", 
+            "htmlSnippet": "<b>Hungarian</b> or Magyar cuisine is the cuisine characteristic of the nation of Hungary <br>\nand its primary ethnic group, the Magyars. Traditional <b>Hungarian</b> dishes are&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Hungarian_cuisine", 
+            "cacheId": "TrdSuPQ5VJsJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Hungarian alphabet - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Hungarian</b> alphabet - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Hungarian_alphabet", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Hungarian</b>_alphabet", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "119", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRzioWFLz-FyTX9oF_aN_zaawyTCfLWly82Qi81SWVMD-jLd7SZTLLK", 
+                        "height": "89"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Specialkeys_hungarian_keyboard.jpg/149px-Specialkeys_hungarian_keyboard.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "The Hungarian alphabet is an extension of the Latin alphabet used for writing the \nHungarian language. One sometimes speaks of the smaller and greater\u00a0...", 
+            "htmlSnippet": "The <b>Hungarian</b> alphabet is an extension of the Latin alphabet used for writing the <br>\n<b>Hungarian</b> language. One sometimes speaks of the smaller and greater&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Hungarian_alphabet", 
+            "cacheId": "FmfTO1WpQtAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Help:IPA for Hungarian - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Help:IPA for <b>Hungarian</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Help:IPA_for_Hungarian", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Help:IPA_for_<b>Hungarian</b>", 
+            "snippet": "The charts below show the way in which the International Phonetic Alphabet (IPA\n) represents Hungarian language pronunciations in Wikipedia articles.", 
+            "htmlSnippet": "The charts below show the way in which the International Phonetic Alphabet (IPA<br>\n) represents <b>Hungarian</b> language pronunciations in Wikipedia articles.", 
+            "link": "https://en.wikipedia.org/wiki/Help:IPA_for_Hungarian", 
+            "cacheId": "EHw4OntMw-wJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Hungarian Revolution of 1956 - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Hungarian</b> Revolution of 1956 - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Hungarian_Revolution_of_1956", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Hungarian</b>_Revolution_of_1956", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "224", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTQ9r0LVlHPasNy1gSmNX5NrlxrGBziaHc7WhKnRI74miq6IOyBL7r3xyA", 
+                        "height": "155"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Sz%C3%A9tl%C5%91tt_harckocsi_a_M%C3%B3ricz_Zsigmond_k%C3%B6rt%C3%A9ren.jpg/280px-Sz%C3%A9tl%C5%91tt_harckocsi_a_M%C3%B3ricz_Zsigmond_k%C3%B6rt%C3%A9ren.jpg"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "fn": "Hungary", 
+                        "label": "Hungary"
+                    }
+                ]
+            }, 
+            "snippet": "The Hungarian Revolution of 1956 or the Hungarian Uprising of 1956 (\nHungarian: 1956-os forradalom or felkel\u00e9s) was a nationwide revolt against the\u00a0...", 
+            "htmlSnippet": "The <b>Hungarian</b> Revolution of 1956 or the <b>Hungarian</b> Uprising of 1956 (<br>\n<b>Hungarian</b>: 1956-os forradalom or felkel\u00e9s) was a nationwide revolt against the&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Hungarian_Revolution_of_1956", 
+            "cacheId": "xOtZ6m9LBvQJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Hungarian Ohioans - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Hungarian</b> Ohioans - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Hungarian_Ohioans", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Hungarian</b>_Ohioans", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "240", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ8uzTJFoG1Ur3BLpmLLzn5KaRkLFV_ga5_zxA50fknV8NtxCOC7ZUPdXQ", 
+                        "height": "192"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Hungarian_Immigrants_Cleveland.jpg/300px-Hungarian_Immigrants_Cleveland.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "Hungarian Ohioans are Hungarian Americans living in Ohio. Their number was \n203,417 in 2010 and 183,593 in 2014. Fairport Harbor, Ohio is 11.8% Hungarian\n\u00a0...", 
+            "htmlSnippet": "<b>Hungarian</b> Ohioans are <b>Hungarian</b> Americans living in Ohio. Their number was <br>\n203,417 in 2010 and 183,593 in 2014. Fairport Harbor, Ohio is 11.8% <b>Hungarian</b><br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Hungarian_Ohioans", 
+            "cacheId": "rJnQ_mLBr8AJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Hungarian", 
+                "safe": "off", 
+                "searchTerms": "Hungarian", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "961000"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Hungarian", 
+                "safe": "off", 
+                "searchTerms": "Hungarian", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "961000"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.32", 
+        "formattedTotalResults": "961,000", 
+        "totalResults": "961000", 
+        "searchTime": 0.324824
+    }
+}

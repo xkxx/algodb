@@ -1,0 +1,222 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Insertion sort - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Insertion sort</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Insertion_sort", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Insertion</b>_<b>sort</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "224", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT6RzyuBsYKxfCZVtgJuUIpjespdgbrhkokyXQ_Op7GjHb9o6IqkYMKL7Y", 
+                        "height": "200"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Insertionsort-edited.png"
+                    }
+                ]
+            }, 
+            "snippet": "Insertion sort is a simple sorting algorithm that builds the final sorted array (or list) \none item at a time. It is much less efficient on large lists than more advanced\u00a0...", 
+            "htmlSnippet": "<b>Insertion sort</b> is a simple sorting algorithm that builds the final sorted array (or list) <br>\none item at a time. It is much less efficient on large lists than more advanced&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Insertion_sort", 
+            "cacheId": "N0f73BW4PMAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Adaptive sort - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Adaptive <b>sort</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Adaptive_sort", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Adaptive_<b>sort</b>", 
+            "snippet": "A classic example of an adaptive sorting algorithm is Straight Insertion Sort. In \nthis sorting algorithm, we scan the input from left to right, repeatedly finding the\u00a0...", 
+            "htmlSnippet": "A classic example of an adaptive sorting algorithm is Straight <b>Insertion Sort</b>. In <br>\nthis sorting algorithm, we scan the input from left to right, repeatedly finding the&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Adaptive_sort", 
+            "cacheId": "DbTSGucI8zEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Gnome sort - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Gnome <b>sort</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Gnome_sort", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Gnome_<b>sort</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "201", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRO2rIq6gT72URDmOsAnMUPHzi1isHPFQYNE9tiJWYEryTa0snA4QLEd0", 
+                        "height": "250"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/3/37/Sorting_gnomesort_anim.gif"
+                    }
+                ]
+            }, 
+            "snippet": "It is a sorting algorithm which is similar to insertion sort, except that moving an \nelement to its proper place is accomplished by a series of swaps, as in bubble \nsort\u00a0...", 
+            "htmlSnippet": "It is a sorting algorithm which is similar to <b>insertion sort</b>, except that moving an <br>\nelement to its proper place is accomplished by a series of swaps, as in bubble <br>\nsort&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Gnome_sort", 
+            "cacheId": "PkrhIKUNnJ0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Timsort - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Timsort - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Timsort", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Tim<b>sort</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "224", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR4KGs5s1zk2Q_jHCHH8u_TsgRsYJ8czMN9hjvMr_5SB35QS3wOB-q4lA", 
+                        "height": "104"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Selection_of_minrun_by_timsort.png/280px-Selection_of_minrun_by_timsort.png"
+                    }
+                ]
+            }, 
+            "snippet": "Timsort is a hybrid stable sorting algorithm, derived from merge sort and insertion \nsort, designed to perform well on many kinds of real-world data. It was invented\u00a0...", 
+            "htmlSnippet": "Timsort is a hybrid stable sorting algorithm, derived from merge sort and <b>insertion</b> <br>\n<b>sort</b>, designed to perform well on many kinds of real-world data. It was invented&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Timsort", 
+            "cacheId": "lcQWSqEAlN8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Sorting algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Sorting</b> algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Sorting_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Sorting</b>_algorithm", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "284", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcw9pl3Q9PmPu7dU3Xk3DdbeYqZIQCzyyRfukXqYXWdm69y04uEeRiB3br", 
+                        "height": "178"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Sorting_playing_cards_using_stable_sort.svg/400px-Sorting_playing_cards_using_stable_sort.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "[edit]. Main article: Insertion sort \u00b7 Insertion sort is a simple sorting algorithm that is \nrelatively efficient for small lists and mostly sorted\u00a0...", 
+            "htmlSnippet": "[edit]. Main article: <b>Insertion sort</b> &middot; <b>Insertion sort</b> is a simple sorting algorithm that is <br>\nrelatively efficient for small lists and mostly sorted&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Sorting_algorithm", 
+            "cacheId": "CyeqKExhw84J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Online algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Online algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Online_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Online_algorithm", 
+            "snippet": "Note that insertion sort produces the optimum result, i.e., a correctly sorted list. \nFor many problems, online algorithms cannot match the performance of offline\u00a0...", 
+            "htmlSnippet": "Note that <b>insertion sort</b> produces the optimum result, i.e., a correctly sorted list. <br>\nFor many problems, online algorithms cannot match the performance of offline&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Online_algorithm", 
+            "cacheId": "23q9mxFCYYoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Library sort - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Library <b>sort</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Library_sort", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Library_<b>sort</b>", 
+            "snippet": "Library sort, or gapped insertion sort is a sorting algorithm that uses an insertion \nsort, but with gaps in the array to accelerate subsequent insertions. The name\u00a0...", 
+            "htmlSnippet": "Library sort, or gapped <b>insertion sort</b> is a sorting algorithm that uses an <b>insertion</b> <br>\n<b>sort</b>, but with gaps in the array to accelerate subsequent insertions. The name&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Library_sort", 
+            "cacheId": "UPNcm597j3oJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Insertion sort - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Insertion sort</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3AInsertion_sort", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>Insertion</b>_<b>sort</b>", 
+            "snippet": "Yaneurao says insertion sort is very useful when the size of array is small or the \narray is partially organized, therefore an improvement of insertion sort is very\u00a0...", 
+            "htmlSnippet": "Yaneurao says <b>insertion sort</b> is very useful when the size of array is small or the <br>\narray is partially organized, therefore an improvement of <b>insertion sort</b> is very&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3AInsertion_sort", 
+            "cacheId": "CKuodocm6mgJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Introsort - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Introsort - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Introsort", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Intro<b>sort</b>", 
+            "snippet": "Introsort or introspective sort is a hybrid sorting algorithm that provides both fast ... \nThe element threshold for switching to the simple insertion sort was 16.", 
+            "htmlSnippet": "Introsort or introspective sort is a hybrid sorting algorithm that provides both fast ... <br>\nThe element threshold for switching to the simple <b>insertion sort</b> was 16.", 
+            "link": "https://en.wikipedia.org/wiki/Introsort", 
+            "cacheId": "dGnHHCTo5FQJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "File talk:Insertion sort animation.gif - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "File talk:<b>Insertion sort</b> animation.gif - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/File_talk:Insertion_sort_animation.gif", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/File_talk:<b>Insertion</b>_<b>sort</b>_animation.gif", 
+            "snippet": "{ read numbers to be sorted into the array } repeat Flag := true; for I := 1 to N - 1 \ndo if (A[I] > A[I+1]) then begin Temp := A[I]; A[I] := A[I+1]; A[I+1] := Temp; Flag\u00a0...", 
+            "htmlSnippet": "{ read numbers to be <b>sorted</b> into the array } repeat Flag := true; for I := 1 to N - 1 <br>\ndo if (A[I] &gt; A[I+1]) then begin Temp := A[I]; A[I] := A[I+1]; A[I+1] := Temp; Flag&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/File_talk:Insertion_sort_animation.gif", 
+            "cacheId": "RgQlQGG-6ZwJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Insertion sort", 
+                "safe": "off", 
+                "searchTerms": "Insertion sort", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "3110"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Insertion sort", 
+                "safe": "off", 
+                "searchTerms": "Insertion sort", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "3110"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.31", 
+        "formattedTotalResults": "3,110", 
+        "totalResults": "3110", 
+        "searchTime": 0.307908
+    }
+}

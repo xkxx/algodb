@@ -1,0 +1,217 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Counting sort - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Counting sort</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Counting_sort", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Counting</b>_<b>sort</b>", 
+            "snippet": "In computer science, counting sort is an algorithm for sorting a collection of \nobjects according to keys that are small integers; that is, it is an integer sorting\u00a0...", 
+            "htmlSnippet": "In computer science, <b>counting sort</b> is an algorithm for sorting a collection of <br>\nobjects according to keys that are small integers; that is, it is an integer sorting&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Counting_sort", 
+            "cacheId": "BUSvqypY3wQJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Pigeonhole sort - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Pigeonhole <b>sort</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Pigeonhole_sort", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Pigeonhole_<b>sort</b>", 
+            "snippet": "It is similar to counting sort, but differs in that it \"moves items twice: once to the \nbucket array and again to the final destination [whereas] counting sort builds an\u00a0...", 
+            "htmlSnippet": "It is similar to <b>counting sort</b>, but differs in that it &quot;moves items twice: once to the <br>\nbucket array and again to the final destination [whereas] <b>counting sort</b> builds an&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Pigeonhole_sort", 
+            "cacheId": "v92WroQSqvcJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Sorting algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Sorting</b> algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Sorting_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Sorting</b>_algorithm", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "284", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcw9pl3Q9PmPu7dU3Xk3DdbeYqZIQCzyyRfukXqYXWdm69y04uEeRiB3br", 
+                        "height": "178"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Sorting_playing_cards_using_stable_sort.svg/400px-Sorting_playing_cards_using_stable_sort.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "[edit]. Main article: Counting sort. Counting sort is applicable when each input is \nknown to belong to a particular set, S,\u00a0...", 
+            "htmlSnippet": "[edit]. Main article: <b>Counting sort</b>. <b>Counting sort</b> is applicable when each input is <br>\nknown to belong to a particular set, S,&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Sorting_algorithm", 
+            "cacheId": "CyeqKExhw84J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Counting sort - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Counting sort</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3ACounting_sort", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>Counting</b>_<b>sort</b>", 
+            "snippet": "I am the inventor of counting sort and radix sort. \"Information sorting...\" is my 1954 \nMasters thesis. Many other sorts are included in its 60 pages. Knuth's sorting\u00a0...", 
+            "htmlSnippet": "I am the inventor of <b>counting sort</b> and radix sort. &quot;Information sorting...&quot; is my 1954 <br>\nMasters thesis. Many other sorts are included in its 60 pages. Knuth&#39;s sorting&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3ACounting_sort", 
+            "cacheId": "e3EN5qi9LGMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Harold H. Seward - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Harold H. Seward - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Harold_H._Seward", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Harold_H._Seward", 
+            "pagemap": {
+                "hcard": [
+                    {
+                        "bday": "1930-07-24", 
+                        "category": "Computer Science", 
+                        "fn": "Harold Herbert Seward"
+                    }
+                ]
+            }, 
+            "snippet": "Harold H. Seward (July 24, 1930 - June 19, 2012) was a computer scientist, \nengineer, and inventor. Seward developed the radix sort and counting sort\u00a0...", 
+            "htmlSnippet": "Harold H. Seward (July 24, 1930 - June 19, 2012) was a computer scientist, <br>\nengineer, and inventor. Seward developed the radix sort and <b>counting sort</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Harold_H._Seward", 
+            "cacheId": "1Hwiy1s3j2cJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Bucket sort - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Bucket <b>sort</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Bucket_sort", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Bucket_<b>sort</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "248", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTWviVJFEkvbIeYW0EyIuTbtOoINrOCeR-GuORaYp_7RMsYAPcywcF1-w", 
+                        "height": "104"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/6/61/Bucket_sort_1.png"
+                    }
+                ]
+            }, 
+            "snippet": "Bucket sort, or bin sort, is a sorting algorithm that works by distributing the ... \nAnother variant of bucket sort known as histogram sort or counting sort adds an\u00a0...", 
+            "htmlSnippet": "Bucket sort, or bin sort, is a sorting algorithm that works by distributing the ... <br>\nAnother variant of bucket sort known as histogram sort or <b>counting sort</b> adds an&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Bucket_sort", 
+            "cacheId": "iXo-5ffR8ikJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Integer sorting - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Integer <b>sorting</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Integer_sorting", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Integer_<b>sorting</b>", 
+            "snippet": "The classical integer sorting algorithms of bucket sort, counting sort, and radix \nsort are widely used and practical. Much of the subsequent research on integer\u00a0...", 
+            "htmlSnippet": "The classical integer sorting algorithms of bucket sort, <b>counting sort</b>, and radix <br>\nsort are widely used and practical. Much of the subsequent research on integer&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Integer_sorting", 
+            "cacheId": "q-meQhPfcbwJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Radix sort - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Radix <b>sort</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Radix_sort", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Radix_<b>sort</b>", 
+            "snippet": "A Least significant digit (LSD) RADIX sort is a fast stable sorting algorithm which \n... The sort in step 2 is usually done using bucket sort or counting sort, which are\u00a0...", 
+            "htmlSnippet": "A Least significant digit (LSD) RADIX sort is a fast stable sorting algorithm which <br>\n... The sort in step 2 is usually done using bucket sort or <b>counting sort</b>, which are&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Radix_sort", 
+            "cacheId": "MWLYmdndgUAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Wikipedia:Counting and sorting are not original research - Wikipedia ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Wikipedia:<b>Counting</b> and <b>sorting</b> are not original research - Wikipedia <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../Wikipedia:Counting_and_sorting_are_not_ original_research", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Wikipedia:<b>Counting</b>_and_<b>sorting</b>_are_not_ original_research", 
+            "snippet": "Wikipedia maintains a policy against publication of original research. However, \ncounting and sorting are not original research and therefore can be included in\u00a0...", 
+            "htmlSnippet": "Wikipedia maintains a policy against publication of original research. However, <br>\n<b>counting</b> and <b>sorting</b> are not original research and therefore can be included in&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Wikipedia:Counting_and_sorting_are_not_original_research", 
+            "cacheId": "ITd-oSpsoRoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Comparison sort - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Comparison <b>sort</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Comparison_sort", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Comparison_<b>sort</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "232", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS78wJQXHvx9Wq1up4xGVYL_B6rWVFL3Xwngh2al3NdWTocWiiJl944Vpyw", 
+                        "height": "217"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Balance_%C3%A0_tabac_1850.JPG/300px-Balance_%C3%A0_tabac_1850.JPG"
+                    }
+                ]
+            }, 
+            "snippet": "A comparison sort must have an average-case lower bound of \u03a9(n log n) \ncomparison ... When the keys form a small (compared to n) range, counting sort is \nan\u00a0...", 
+            "htmlSnippet": "A comparison sort must have an average-case lower bound of \u03a9(n log n) <br>\ncomparison ... When the keys form a small (compared to n) range, <b>counting sort</b> is <br>\nan&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Comparison_sort", 
+            "cacheId": "k7GGonoy80oJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Counting sort", 
+                "safe": "off", 
+                "searchTerms": "Counting sort", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "7990"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Counting sort", 
+                "safe": "off", 
+                "searchTerms": "Counting sort", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "7990"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.30", 
+        "formattedTotalResults": "7,990", 
+        "totalResults": "7990", 
+        "searchTime": 0.295073
+    }
+}

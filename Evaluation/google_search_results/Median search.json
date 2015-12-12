@@ -1,0 +1,259 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Selection algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Selection algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Selection_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Selection_algorithm", 
+            "snippet": "Conversely, the hardest case of a selection algorithm is finding the median, and \n.... and using the median at each pivot means that at each step the search set\u00a0...", 
+            "htmlSnippet": "Conversely, the hardest case of a selection algorithm is finding the <b>median</b>, and <br>\n.... and using the <b>median</b> at each pivot means that at each step the <b>search</b> set&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Selection_algorithm", 
+            "cacheId": "3HYUkFLo3ZYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Median of medians - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Median</b> of medians - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Median_of_medians", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Median</b>_of_<b>median</b>s", 
+            "snippet": "The approximate median-selection algorithm can also be used as a pivot ... \nHowever, if the search set decreases slowly in size, such as linearly (by a fixed\u00a0...", 
+            "htmlSnippet": "The approximate <b>median</b>-selection algorithm can also be used as a pivot ... <br>\nHowever, if the <b>search</b> set decreases slowly in size, such as linearly (by a fixed&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Median_of_medians", 
+            "cacheId": "TnGuCD90hvkJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Median - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Median</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Median", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Median</b>", 
+            "snippet": "Median. From Wikipedia, the free encyclopedia. Jump to: navigation, search ... In \nstatistics and probability theory, a median is the number separating the higher\u00a0...", 
+            "htmlSnippet": "<b>Median</b>. From Wikipedia, the free encyclopedia. Jump to: navigation, <b>search</b> ... In <br>\nstatistics and probability theory, a <b>median</b> is the number separating the higher&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Median", 
+            "cacheId": "CnUdxs0NAMgJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Median filter - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Median</b> filter - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Median_filter", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Median</b>_filter", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "160", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQvRgtqodtRxwWgNrILi8TVIKvW_iV-7w3EuND2nJgjKBGmVhKwx-t-TabL", 
+                        "height": "176"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Median_filter_example.jpg/200px-Median_filter_example.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "Jump to: navigation, search ... The median filter is a nonlinear digital filtering \ntechnique, often used to remove ... So, the median filtered output signal y will be:", 
+            "htmlSnippet": "Jump to: navigation, <b>search</b> ... The <b>median</b> filter is a nonlinear digital filtering <br>\ntechnique, often used to remove ... So, the <b>median</b> filtered output signal y will be:", 
+            "link": "https://en.wikipedia.org/wiki/Median_filter", 
+            "cacheId": "f9tYO4xGaLIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Media (region) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Media (region) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Media_(region)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Media_(region)", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "136", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSTcxf2LmVpaZrKIZlvF_KAd9IFl-4WjR4qrCp1rWdMF5R1706tlQKeCtgZ", 
+                        "height": "175"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Mad-5223.jpg/170px-Mad-5223.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "Jump to: navigation, search. Rock relief of a Median man. Media (Old ... In 678 \nBC, Deioces united the Median tribes of Media and made the first Iranian empire.", 
+            "htmlSnippet": "Jump to: navigation, <b>search</b>. Rock relief of a <b>Median</b> man. Media (Old ... In 678 <br>\nBC, Deioces united the <b>Median</b> tribes of Media and made the first Iranian empire.", 
+            "link": "https://en.wikipedia.org/wiki/Media_(region)", 
+            "cacheId": "ByGKpPr9n3gJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "k-d tree - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "k-d tree - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/K-d_tree", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/K-d_tree", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "200", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYmNbVdVu-7nedl0YlW6P_m0oEVatDToGkxOLdOadhF6QqgNT-uIse1zY", 
+                        "height": "190"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/3dtree.png/250px-3dtree.png"
+                    }
+                ]
+            }, 
+            "snippet": "leftChild := kdtree(points in pointList before median, depth+1); node. ..... If the \nmedian is less than the xlow coordinate of the search rectangle, then no \nrectangle\u00a0...", 
+            "htmlSnippet": "leftChild := kdtree(points in pointList before <b>median</b>, depth+1); node. ..... If the <br>\n<b>median</b> is less than the xlow coordinate of the <b>search</b> rectangle, then no <br>\nrectangle&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/K-d_tree", 
+            "cacheId": "cGs91BTGy38J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Median household income - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Median</b> household income - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Median_household_income", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Median</b>_household_income", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "282", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT3Eb8gkinla5_YAsjLIzoXN-E9UDnSRn7ItYvGmJWAl1rOma87-vFLmN4", 
+                        "height": "178"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/US_real_median_household_income_1967_-_2014.PNG/400px-US_real_median_household_income_1967_-_2014.PNG"
+                    }
+                ]
+            }, 
+            "snippet": "Jump to: navigation, search ... Gallup gross median household income[edit]. In \n2013, Gallup published a list of countries with median household income, based\n\u00a0...", 
+            "htmlSnippet": "Jump to: navigation, <b>search</b> ... Gallup gross <b>median</b> household income[edit]. In <br>\n2013, Gallup published a list of countries with <b>median</b> household income, based<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Median_household_income", 
+            "cacheId": "AlskBNcAvXcJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Medes - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Medes - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Medes", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Medes", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "200", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQZsLgUHzJXp5Kp-jlF4KdVextmPvfBGT8Ec_g9jYtkdAoJGGsjtb_FGhM", 
+                        "height": "113"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Median_empire_map.png/250px-Median_empire_map.png"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "fn": "Median Empire"
+                    }, 
+                    {
+                        "fn": "Iran", 
+                        "label": "Iran"
+                    }
+                ]
+            }, 
+            "snippet": "For sometime after 1960 the search for Median archeological sources has been \nfor most parts focused in an area known as the \u201cMedian triangle,\u201d defined\u00a0...", 
+            "htmlSnippet": "For sometime after 1960 the <b>search</b> for <b>Median</b> archeological sources has been <br>\nfor most parts focused in an area known as the \u201c<b>Median</b> triangle,\u201d defined&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Medes", 
+            "cacheId": "q4k3utjfcAQJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Paramedian pontine reticular formation - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Paramedian pontine reticular formation - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../Paramedian_pontine_reticular_formation", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Para<b>median</b>_pontine_reticular_formation", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "200", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQe4YBliXGz6ViDKJ_QEhdDN7Q6LtqEmekBA5yccthF5ZddpFWHUbDZBnI", 
+                        "height": "168"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Pons_section_at_facial_colliculus.png/250px-Pons_section_at_facial_colliculus.png"
+                    }
+                ]
+            }, 
+            "snippet": "Paramedian pontine reticular formation. From Wikipedia, the free encyclopedia. \nJump to: navigation, search. Paramedian pontine reticular formation.", 
+            "htmlSnippet": "Paramedian pontine reticular formation. From Wikipedia, the free encyclopedia. <br>\nJump to: navigation, <b>search</b>. Paramedian pontine reticular formation.", 
+            "link": "https://en.wikipedia.org/wiki/Paramedian_pontine_reticular_formation", 
+            "cacheId": "nCVH7BTkf4IJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Geometric median - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Geometric <b>median</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Geometric_median", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Geometric_<b>median</b>", 
+            "snippet": "Jump to: navigation, search. Not to be confused with Median (geometry). The \ngeometric median of a discrete set of sample points in a Euclidean space is the\u00a0...", 
+            "htmlSnippet": "Jump to: navigation, <b>search</b>. Not to be confused with <b>Median</b> (geometry). The <br>\ngeometric <b>median</b> of a discrete set of sample points in a Euclidean space is the&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Geometric_median", 
+            "cacheId": "VQfZKULOeRAJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Median search", 
+                "safe": "off", 
+                "searchTerms": "Median search", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "185000"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Median search", 
+                "safe": "off", 
+                "searchTerms": "Median search", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "185000"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.30", 
+        "formattedTotalResults": "185,000", 
+        "totalResults": "185000", 
+        "searchTime": 0.304171
+    }
+}

@@ -1,0 +1,180 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Arnoldi iteration - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Arnoldi iteration</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Arnoldi_iteration", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Arnoldi</b>_<b>iteration</b>", 
+            "snippet": "In numerical linear algebra, the Arnoldi iteration is an eigenvalue algorithm and \nan important example of iterative methods. Arnoldi finds the eigenvalues of\u00a0...", 
+            "htmlSnippet": "In numerical linear algebra, the <b>Arnoldi iteration</b> is an eigenvalue algorithm and <br>\nan important example of iterative methods. Arnoldi finds the eigenvalues of&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Arnoldi_iteration", 
+            "cacheId": "jEnIYVxHyUoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Walter Edwin Arnoldi - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Walter Edwin <b>Arnoldi</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Walter_Edwin_Arnoldi", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Walter_Edwin_<b>Arnoldi</b>", 
+            "snippet": "Walter Edwin Arnoldi (New York, December 14, 1917-October 5, 1995) was an \nAmerican engineer mainly known for the Arnoldi iteration, an eigenvalue\u00a0...", 
+            "htmlSnippet": "Walter Edwin Arnoldi (New York, December 14, 1917-October 5, 1995) was an <br>\nAmerican engineer mainly known for the <b>Arnoldi iteration</b>, an eigenvalue&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Walter_Edwin_Arnoldi", 
+            "cacheId": "lQ3QniHLKycJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Arnoldi iteration - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Arnoldi iteration</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3AArnoldi_iteration", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>Arnoldi</b>_<b>iteration</b>", 
+            "snippet": "Contents. [hide]. 1 how to select the Rize values as the wanted eigenvalue? 2 \nThe Arnoldi iteration; 3 dimensions of the Q matrix not correct? 4 matrix dimention\n\u00a0...", 
+            "htmlSnippet": "Contents. [hide]. 1 how to select the Rize values as the wanted eigenvalue? 2 <br>\nThe <b>Arnoldi iteration</b>; 3 dimensions of the Q matrix not correct? 4 matrix dimention<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3AArnoldi_iteration", 
+            "cacheId": "MKD1ODWgniQJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Arnoldi - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Arnoldi</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Arnoldi", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Arnoldi</b>", 
+            "snippet": "Bartholomaeus Arnoldi, an Augustinian friar associated with Martin Luther; \nCharles ... Arnoldi iteration, an algorithm in algebra; Paa arnoldi, a species of frog\n\u00a0...", 
+            "htmlSnippet": "Bartholomaeus Arnoldi, an Augustinian friar associated with Martin Luther; <br>\nCharles ... <b>Arnoldi iteration</b>, an algorithm in algebra; Paa arnoldi, a species of frog<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Arnoldi", 
+            "cacheId": "P7cZPtzBgQAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Krylov subspace - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Krylov subspace - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Krylov_subspace", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Krylov_subspace", 
+            "snippet": "Modern iterative methods for finding one (or a few) eigenvalues of large sparse ... \niteration for Hermitian matrices or Arnoldi iteration for more general matrices.", 
+            "htmlSnippet": "Modern iterative methods for finding one (or a few) eigenvalues of large sparse ... <br>\niteration for Hermitian matrices or <b>Arnoldi iteration</b> for more general matrices.", 
+            "link": "https://en.wikipedia.org/wiki/Krylov_subspace", 
+            "cacheId": "6gpCurexE0sJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Generalized minimal residual method - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Generalized minimal residual method - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Generalized_minimal_residual_method", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Generalized_minimal_residual_method", 
+            "snippet": "The Arnoldi iteration is used to find this vector. The GMRES method was \ndeveloped by Yousef Saad and Martin H. Schultz in 1986. GMRES is a \ngeneralization of\u00a0...", 
+            "htmlSnippet": "The <b>Arnoldi iteration</b> is used to find this vector. The GMRES method was <br>\ndeveloped by Yousef Saad and Martin H. Schultz in 1986. GMRES is a <br>\ngeneralization of&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Generalized_minimal_residual_method", 
+            "cacheId": "qPEz4EwEHYoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Derivation of the conjugate gradient method - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Derivation of the conjugate gradient method - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../Derivation_of_the_conjugate_gradient_method", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Derivation_of_the_conjugate_gradient_method", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "124", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQGaV7z363rPEajH1Low9TZvzjrE-iAEHdjVKYnErBfauYGvTAbzkADSA", 
+                        "height": "84"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/math/d/5/8/d58adbf810047c58b3e4529178048a51.png"
+                    }
+                ]
+            }, 
+            "snippet": "In numerical linear algebra, the conjugate gradient method is an iterative method \nfor numerically solving the ... 2 Derivation from the Arnoldi/Lanczos iteration.", 
+            "htmlSnippet": "In numerical linear algebra, the conjugate gradient method is an <b>iterative</b> method <br>\nfor numerically solving the ... 2 Derivation from the <b>Arnoldi</b>/Lanczos <b>iteration</b>.", 
+            "link": "https://en.wikipedia.org/wiki/Derivation_of_the_conjugate_gradient_method", 
+            "cacheId": "Ma_t6iRVkToJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Eigenvalue algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Eigenvalue algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Eigenvalue_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Eigenvalue_algorithm", 
+            "snippet": "For general matrices, algorithms are iterative, producing better approximate \nsolutions with ... Arnoldi iteration, General, Hessenberg, Perform Gram\u2013Schmidt\u00a0...", 
+            "htmlSnippet": "For general matrices, algorithms are iterative, producing better approximate <br>\nsolutions with ... <b>Arnoldi iteration</b>, General, Hessenberg, Perform Gram\u2013Schmidt&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Eigenvalue_algorithm", 
+            "cacheId": "WeSAMpGy004J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Category:Numerical linear algebra - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Category:Numerical linear algebra - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Category:Numerical_linear_algebra", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Category:Numerical_linear_algebra", 
+            "snippet": "R. \u25bb Relaxation (iterative methods)   (6 P) ... ABS methods \u00b7 Armadillo (C++ \nlibrary) \u00b7 Arnoldi iteration \u00b7 Walter Edwin Arnoldi \u00b7 Automatically Tuned Linear \nAlgebra\u00a0...", 
+            "htmlSnippet": "R. \u25bb Relaxation (iterative methods)   (6 P) ... ABS methods &middot; Armadillo (C++ <br>\nlibrary) &middot; <b>Arnoldi iteration</b> &middot; Walter Edwin Arnoldi &middot; Automatically Tuned Linear <br>\nAlgebra&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Category:Numerical_linear_algebra", 
+            "cacheId": "ufkagUZPyzEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Orthogonalization - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Orthogonalization - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Orthogonalization", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Orthogonalization", 
+            "snippet": "This makes only the Gram\u2013Schmidt process applicable for iterative methods like \nthe Arnoldi iteration. The Givens rotation is more easily parallelized than\u00a0...", 
+            "htmlSnippet": "This makes only the Gram\u2013Schmidt process applicable for iterative methods like <br>\nthe <b>Arnoldi iteration</b>. The Givens rotation is more easily parallelized than&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Orthogonalization", 
+            "cacheId": "jh39J0kRSY4J"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Arnoldi iteration", 
+                "safe": "off", 
+                "searchTerms": "Arnoldi iteration", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "50"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Arnoldi iteration", 
+                "safe": "off", 
+                "searchTerms": "Arnoldi iteration", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "50"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.25", 
+        "formattedTotalResults": "50", 
+        "totalResults": "50", 
+        "searchTime": 0.252485
+    }
+}

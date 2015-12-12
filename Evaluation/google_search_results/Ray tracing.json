@@ -1,0 +1,241 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Ray tracing (graphics) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Ray tracing</b> (graphics) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Ray_tracing_(graphics)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Ray</b>_<b>tracing</b>_(graphics)", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "200", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRrR46LQhv3yKRlFKotOG1Kd5BzSEVUJ1mmX6cxY0yvbT5xXXxUPLltvcE", 
+                        "height": "200"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Recursive_raytrace_of_a_sphere.png/250px-Recursive_raytrace_of_a_sphere.png"
+                    }
+                ]
+            }, 
+            "snippet": "In computer graphics, ray tracing is a technique for generating an image by \ntracing the path of light through pixels in an image plane and simulating the \neffects of\u00a0...", 
+            "htmlSnippet": "In computer graphics, <b>ray tracing</b> is a technique for generating an image by <br>\ntracing the path of light through pixels in an image plane and simulating the <br>\neffects of&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Ray_tracing_(graphics)", 
+            "cacheId": "Otc2ZDa3llUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Ray tracing - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Ray tracing</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Ray_tracing", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Ray</b>_<b>tracing</b>", 
+            "snippet": "Ray tracing is a method for calculating the path of waves or particles through a \nsystem. The method is practiced in two distinct forms: Ray tracing (physics), \nwhich\u00a0...", 
+            "htmlSnippet": "<b>Ray tracing</b> is a method for calculating the path of waves or particles through a <br>\nsystem. The method is practiced in two distinct forms: <b>Ray tracing</b> (physics), <br>\nwhich&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Ray_tracing", 
+            "cacheId": "RhVYqRht84IJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Ray tracing (physics) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Ray tracing</b> (physics) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Ray_tracing_(physics)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Ray</b>_<b>tracing</b>_(physics)", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "240", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSiqdbyZpXhQxd_rQzT--odMw6yMu1WneHLR6wTQ7q9FctiRsOCHV2h0TQ", 
+                        "height": "104"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Raytrace_changing_refractive_index.svg/300px-Raytrace_changing_refractive_index.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "In physics, ray tracing is a method for calculating the path of waves or particles \nthrough a system with regions of varying propagation velocity, absorption\u00a0...", 
+            "htmlSnippet": "In physics, <b>ray tracing</b> is a method for calculating the path of waves or particles <br>\nthrough a system with regions of varying propagation velocity, absorption&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Ray_tracing_(physics)", 
+            "cacheId": "V4ZBC4JKGz4J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Distributed ray tracing - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Distributed <b>ray tracing</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Distributed_ray_tracing", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Distributed_<b>ray</b>_<b>tracing</b>", 
+            "snippet": "Distributed ray tracing, also called distribution ray tracing and stochastic ray \ntracing, is a refinement of ray tracing that allows for the rendering of \"soft\"\u00a0...", 
+            "htmlSnippet": "Distributed <b>ray tracing</b>, also called distribution <b>ray tracing</b> and stochastic <b>ray</b> <br>\n<b>tracing</b>, is a refinement of <b>ray tracing</b> that allows for the rendering of &quot;soft&quot;&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Distributed_ray_tracing", 
+            "cacheId": "Gwmb-vEVubsJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Ray tracing hardware - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Ray tracing</b> hardware - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Ray_tracing_hardware", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Ray</b>_<b>tracing</b>_hardware", 
+            "snippet": "The ray tracing algorithm is inherently suitable for scaling by parallelization of \nindividual ray renders. However anything other than ray casting requires \nrecursion\u00a0...", 
+            "htmlSnippet": "The <b>ray tracing</b> algorithm is inherently suitable for scaling by parallelization of <br>\nindividual ray renders. However anything other than ray casting requires <br>\nrecursion&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Ray_tracing_hardware", 
+            "cacheId": "lp_Ze1csAewJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Wolfenstein: Ray Traced - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Wolfenstein: <b>Ray Traced</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Wolfenstein:_Ray_Traced", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Wolfenstein:_<b>Ray</b>_<b>Traced</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "200", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTPjO7vQqUdqkxWw6cReuKyDWfs_OkMjqeJ4e8XKuyG5BpQtCcFMCXpjQ", 
+                        "height": "124"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fe/Wolf_chand1.png/250px-Wolf_chand1.png"
+                    }
+                ]
+            }, 
+            "snippet": "Wolfenstein: Ray Traced is a research project from Intel Corporation that applied \na ray tracing renderer to the game content of Wolfenstein (2009). The possibility\u00a0...", 
+            "htmlSnippet": "Wolfenstein: <b>Ray Traced</b> is a research project from Intel Corporation that applied <br>\na <b>ray tracing</b> renderer to the game content of Wolfenstein (2009). The possibility&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Wolfenstein:_Ray_Traced", 
+            "cacheId": "QiA-2SaRsH0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "List of ray tracing software - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "List of <b>ray tracing</b> software - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/List_of_ray_tracing_software", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/List_of_<b>ray</b>_<b>tracing</b>_software", 
+            "snippet": "Ray tracing is a technique that can generate near photo-realistic computer \nimages. A wide range of free software and commercial software is available for\u00a0...", 
+            "htmlSnippet": "<b>Ray tracing</b> is a technique that can generate near photo-realistic computer <br>\nimages. A wide range of free software and commercial software is available for&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/List_of_ray_tracing_software", 
+            "cacheId": "XUGvk3LaiacJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Quake Wars: Ray Traced - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Quake Wars: <b>Ray Traced</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Quake_Wars:_Ray_Traced", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Quake_Wars:_<b>Ray</b>_<b>Traced</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "200", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1vyxMhHUmduv3GwZ0TBpfxTNiEHpEAw-FLNN1H0dWhfCC0_lpjKSRzg", 
+                        "height": "112"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/QWRT_gameplay.jpg/250px-QWRT_gameplay.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "Quake Wars: Ray Traced is a research project from Intel Corporation that applied \na ray tracing renderer to the game content of Enemy Territory: Quake Wars.", 
+            "htmlSnippet": "Quake Wars: <b>Ray Traced</b> is a research project from Intel Corporation that applied <br>\na <b>ray tracing</b> renderer to the game content of Enemy Territory: Quake Wars.", 
+            "link": "https://en.wikipedia.org/wiki/Quake_Wars:_Ray_Traced", 
+            "cacheId": "weas11ACxrcJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "File:Glasses 800 edit.png - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "File:Glasses 800 edit.png - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/File:Glasses_800_edit.png", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/File:Glasses_800_edit.png", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "259", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSNLYfG5iPR5cJqjdzhXhMBtKQz8PPLED-_6RWiqHoUmma_D52DzRnkPT0", 
+                        "height": "194"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Glasses_800_edit.png/800px-Glasses_800_edit.png"
+                    }
+                ], 
+                "hproduct": [
+                    {
+                        "fn": "Glasses 800 edit.png"
+                    }
+                ]
+            }, 
+            "snippet": "English: This image was created by Gilles Tran with POV-Ray 3.6 using Radiosity\n. .... User:Dirk H\u00fcnniger/blender \u00b7 Blender 3D: Noob to Pro/Ray Tracing.", 
+            "htmlSnippet": "English: This image was created by Gilles Tran with POV-Ray 3.6 using Radiosity<br>\n. .... User:Dirk H\u00fcnniger/blender &middot; Blender 3D: Noob to Pro/<b>Ray Tracing</b>.", 
+            "link": "https://en.wikipedia.org/wiki/File:Glasses_800_edit.png", 
+            "cacheId": "dLN5WK4Si9sJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Manta Interactive Ray Tracer - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Manta Interactive <b>Ray Tracer</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Manta_Interactive_Ray_Tracer", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Manta_Interactive_<b>Ray</b>_<b>Tracer</b>", 
+            "snippet": "Manta is a highly portable interactive ray tracing environment designed to be \nused on both workstations and super computers and is distributed under the MIT\n\u00a0...", 
+            "htmlSnippet": "Manta is a highly portable interactive <b>ray tracing</b> environment designed to be <br>\nused on both workstations and super computers and is distributed under the MIT<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Manta_Interactive_Ray_Tracer", 
+            "cacheId": "CstE6_5G9uoJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Ray tracing", 
+                "safe": "off", 
+                "searchTerms": "Ray tracing", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "3090"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Ray tracing", 
+                "safe": "off", 
+                "searchTerms": "Ray tracing", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "3090"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.30", 
+        "formattedTotalResults": "3,090", 
+        "totalResults": "3090", 
+        "searchTime": 0.295709
+    }
+}

@@ -1,0 +1,250 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Bubble sort - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Bubble sort</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Bubble_sort", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Bubble</b>_<b>sort</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC4jPAo3gFiCIT3zmrMiWD7sRLrWwbLeFIpkNF3ubj-cDxEdPCwY66zBiI", 
+                        "height": "146"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Bubblesort-edited-color.svg/220px-Bubblesort-edited-color.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "Bubble sort, sometimes referred to as sinking sort, is a simple sorting algorithm \nthat repeatedly steps through the list to be sorted, compares each pair of adjacent\n\u00a0...", 
+            "htmlSnippet": "<b>Bubble sort</b>, sometimes referred to as sinking sort, is a simple sorting algorithm <br>\nthat repeatedly steps through the list to be sorted, compares each pair of adjacent<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Bubble_sort", 
+            "cacheId": "7cIqxF0u80cJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Cocktail sort - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Cocktail <b>sort</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Cocktail_sort", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Cocktail_<b>sort</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "221", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc5QtJ5uS-ADo5upPwiaRSz4th4wq5rmoX6D_a3mXl41rrL34sxpO_82Ur", 
+                        "height": "205"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Sorting_shaker_sort_anim.gif"
+                    }
+                ]
+            }, 
+            "snippet": "[edit]. Cocktail sort is a slight variation of bubble sort. It differs in that instead of \nrepeatedly passing through the list\u00a0...", 
+            "htmlSnippet": "[edit]. Cocktail sort is a slight variation of <b>bubble sort</b>. It differs in that instead of <br>\nrepeatedly passing through the list&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Cocktail_sort", 
+            "cacheId": "JhWvPJ5hqHwJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Sorting algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Sorting</b> algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Sorting_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Sorting</b>_algorithm", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "284", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcw9pl3Q9PmPu7dU3Xk3DdbeYqZIQCzyyRfukXqYXWdm69y04uEeRiB3br", 
+                        "height": "178"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Sorting_playing_cards_using_stable_sort.svg/400px-Sorting_playing_cards_using_stable_sort.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "[edit]. A bubble sort, a sorting algorithm that continuously steps through a list, \nswapping items until they appear in the correct order.", 
+            "htmlSnippet": "[edit]. A <b>bubble sort</b>, a sorting algorithm that continuously steps through a list, <br>\nswapping items until they appear in the correct order.", 
+            "link": "https://en.wikipedia.org/wiki/Sorting_algorithm", 
+            "cacheId": "CyeqKExhw84J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Comb sort - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Comb <b>sort</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Comb_sort", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Comb_<b>sort</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "215", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ4_U2mV2JJGXlayvYS9NnVHhIPVRQ_5k4xDVPrX49Ar367mvNhKXhM_vBd", 
+                        "height": "205"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/4/46/Comb_sort_demo.gif"
+                    }
+                ]
+            }, 
+            "snippet": "Algorithm[edit]. The basic idea is to eliminate turtles, or small values near the end \nof the list, since in a bubble sort these slow the sorting down tremendously.", 
+            "htmlSnippet": "Algorithm[edit]. The basic idea is to eliminate turtles, or small values near the end <br>\nof the list, since in a <b>bubble sort</b> these slow the sorting down tremendously.", 
+            "link": "https://en.wikipedia.org/wiki/Comb_sort", 
+            "cacheId": "2M_4f0UAM9kJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Odd\u2013even sort - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Odd\u2013even <b>sort</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Odd\u2013even_sort", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Odd\u2013even_<b>sort</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "224", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSp11L4wjAw8SYCac43lzK6edipPP2oNTL3BWxuQ5GUu9OvFhcu0uBRMoVI", 
+                        "height": "189"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Odd_even_sort_animation.gif"
+                    }
+                ]
+            }, 
+            "snippet": "It is a comparison sort related to bubble sort, with which it shares many \ncharacteristics. It functions by comparing all odd/even indexed pairs of adjacent \nelements\u00a0...", 
+            "htmlSnippet": "It is a comparison sort related to <b>bubble sort</b>, with which it shares many <br>\ncharacteristics. It functions by comparing all odd/even indexed pairs of adjacent <br>\nelements&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Odd%E2%80%93even_sort", 
+            "cacheId": "lM1zlQCQO_AJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Category:Stable sorts - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Category:Stable sorts - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Category:Stable_sorts", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Category:Stable_<b>sort</b>s", 
+            "snippet": "Stable sorting algorithms maintain the relative order of records with equal keys (\ni.e. values). That is, a sorting algorithm ... B. Block sort \u00b7 Bubble sort \u00b7 Bucket sort\u00a0...", 
+            "htmlSnippet": "Stable sorting algorithms maintain the relative order of records with equal keys (<br>\ni.e. values). That is, a sorting algorithm ... B. Block sort &middot; <b>Bubble sort</b> &middot; Bucket sort&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Category:Stable_sorts", 
+            "cacheId": "d0KA44qzn8AJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "User:Bubblesort - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "User:<b>Bubblesort</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/User:Bubblesort", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/User:<b>Bubblesort</b>", 
+            "snippet": "Jump to: navigation, search. Bubblesort is in Pennsylvania, USA. Retrieved from \"\nhttps://en.wikipedia.org/w/index.php?title=User:Bubblesort&oldid=276927695\"\u00a0...", 
+            "htmlSnippet": "Jump to: navigation, search. <b>Bubblesort</b> is in Pennsylvania, USA. Retrieved from &quot;<br>\nhttps://en.wikipedia.org/w/index.php?title=User:Bubblesort&amp;oldid=276927695&quot;&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/User:Bubblesort", 
+            "cacheId": "wbTglMITw88J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Bubble sort - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Bubble sort</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3ABubble_sort", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>Bubble</b>_<b>sort</b>", 
+            "snippet": "\"In the worst case, bubble sort will require O(n^2) swaps, while insertion sort will \nrequire at most O(n^2) swaps.\" Doesn't \"require O(n^2)\" and \"at most O(n^2)\"\u00a0...", 
+            "htmlSnippet": "&quot;In the worst case, <b>bubble sort</b> will require O(n^2) swaps, while insertion sort will <br>\nrequire at most O(n^2) swaps.&quot; Doesn&#39;t &quot;require O(n^2)&quot; and &quot;at most O(n^2)&quot;&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3ABubble_sort", 
+            "cacheId": "jmlo56D4SXAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "File talk:Bubble sort animation.gif - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "File talk:<b>Bubble sort</b> animation.gif - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/File_talk:Bubble_sort_animation.gif", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/File_talk:<b>Bubble</b>_<b>sort</b>_animation.gif", 
+            "snippet": "Without explanation, this image is completely unhelpful in helping anyone \nunderstand how Bubble Sort works... Tomer 21:56, 18 August 2009 (UTC). \nAgreed.", 
+            "htmlSnippet": "Without explanation, this image is completely unhelpful in helping anyone <br>\nunderstand how <b>Bubble Sort</b> works... Tomer 21:56, 18 August 2009 (UTC). <br>\nAgreed.", 
+            "link": "https://en.wikipedia.org/wiki/File_talk:Bubble_sort_animation.gif", 
+            "cacheId": "cXugaTX8HEYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Wikipedia:Valued picture candidates/Bubble Sort - Wikipedia, the ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Wikipedia:Valued picture candidates/<b>Bubble Sort</b> - Wikipedia, the <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Wikipedia:Valued.../Bubble_Sort", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Wikipedia:Valued.../<b>Bubble</b>_<b>Sort</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "200", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRBZVEHS9me3q7fj7eeHaULyW74cAfC1di0PJhpAUTK_lBHG9xZ1_OKvPQ", 
+                        "height": "169"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Bubble_sort_animation.gif/250px-Bubble_sort_animation.gif"
+                    }
+                ]
+            }, 
+            "snippet": "Original - A bubble sort is a sorting algorithm that continuously steps through a \nlist, swapping items until they appear in the correct order. A bubble sort is an\u00a0...", 
+            "htmlSnippet": "Original - A <b>bubble sort</b> is a sorting algorithm that continuously steps through a <br>\nlist, swapping items until they appear in the correct order. A <b>bubble sort</b> is an&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Wikipedia:Valued_picture_candidates/Bubble_Sort", 
+            "cacheId": "60yvHkQO4-wJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Bubble sort", 
+                "safe": "off", 
+                "searchTerms": "Bubble sort", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "5600"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Bubble sort", 
+                "safe": "off", 
+                "searchTerms": "Bubble sort", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "5600"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.31", 
+        "formattedTotalResults": "5,600", 
+        "totalResults": "5600", 
+        "searchTime": 0.314268
+    }
+}

@@ -1,0 +1,208 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Radix sort - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Radix sort</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Radix_sort", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Radix</b>_<b>sort</b>", 
+            "snippet": "In computer science, radix sort is a non-comparative integer sorting algorithm that \nsorts data with integer keys by grouping keys by the individual digits which\u00a0...", 
+            "htmlSnippet": "In computer science, <b>radix sort</b> is a non-comparative integer sorting algorithm that <br>\nsorts data with integer keys by grouping keys by the individual digits which&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Radix_sort", 
+            "cacheId": "MWLYmdndgUAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "American flag sort - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "American flag <b>sort</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/American_flag_sort", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/American_flag_<b>sort</b>", 
+            "snippet": "An American flag sort is an efficient, in-place variant of radix sort that distributes \nitems into hundreds of buckets. Non-comparative sorting algorithms such as\u00a0...", 
+            "htmlSnippet": "An American flag sort is an efficient, in-place variant of <b>radix sort</b> that distributes <br>\nitems into hundreds of buckets. Non-comparative sorting algorithms such as&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/American_flag_sort", 
+            "cacheId": "cfwTleA4gn4J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Counting sort - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Counting <b>sort</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Counting_sort", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Counting_<b>sort</b>", 
+            "snippet": "In applications such as in radix sort, a bound on the maximum key value k will be \nknown in advance, and can be assumed to be part of the input to the algorithm.", 
+            "htmlSnippet": "In applications such as in <b>radix sort</b>, a bound on the maximum key value k will be <br>\nknown in advance, and can be assumed to be part of the input to the algorithm.", 
+            "link": "https://en.wikipedia.org/wiki/Counting_sort", 
+            "cacheId": "BUSvqypY3wQJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Sorting algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Sorting</b> algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Sorting_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Sorting</b>_algorithm", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "284", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcw9pl3Q9PmPu7dU3Xk3DdbeYqZIQCzyyRfukXqYXWdm69y04uEeRiB3br", 
+                        "height": "178"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Sorting_playing_cards_using_stable_sort.svg/400px-Sorting_playing_cards_using_stable_sort.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "[edit]. Main article: Radix sort. Radix sort is an algorithm that sorts numbers by \nprocessing individual digits. n numbers consisting of k\u00a0...", 
+            "htmlSnippet": "[edit]. Main article: <b>Radix sort</b>. <b>Radix sort</b> is an algorithm that sorts numbers by <br>\nprocessing individual digits. n numbers consisting of k&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Sorting_algorithm", 
+            "cacheId": "CyeqKExhw84J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "IBM card sorter - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "IBM card sorter - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/IBM_card_sorter", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/IBM_card_<b>sort</b>er", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRVB8dhUtMN3PSlXKZJSOi7BlRi0KpGVBg0EhY2uo_3py7PrAabxEl9w68", 
+                        "height": "132"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Punch_card_sorter.JPG/220px-Punch_card_sorter.JPG"
+                    }
+                ]
+            }, 
+            "snippet": "An IBM card sorter is a machine for sorting decks of punched cards in the format \npopularized by the ... This is called a least significant digit radix sort. Numeric\u00a0...", 
+            "htmlSnippet": "An IBM card sorter is a machine for sorting decks of punched cards in the format <br>\npopularized by the ... This is called a least significant digit <b>radix sort</b>. Numeric&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/IBM_card_sorter", 
+            "cacheId": "GASISdps7h0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Multi-key quicksort - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Multi-key quicksort - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Multi-key_quicksort", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Multi-key_quick<b>sort</b>", 
+            "snippet": "Multi-key quicksort, also known as three-way radix quicksort, is an algorithm for \nsorting strings. This hybrid of quicksort and radix sort was originally suggested by\n\u00a0...", 
+            "htmlSnippet": "Multi-key quicksort, also known as three-way radix quicksort, is an algorithm for <br>\nsorting strings. This hybrid of quicksort and <b>radix sort</b> was originally suggested by<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Multi-key_quicksort", 
+            "cacheId": "S55-YFZVEq4J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Radix sort - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Radix sort</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3ARadix_sort", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>Radix</b>_<b>sort</b>", 
+            "snippet": "In the section \"Incremental Trie-based Radix sort\", there is a sentence with this as \nits subject: \"The sorted lists of other non-incremental radix sorting algorithms\u00a0...", 
+            "htmlSnippet": "In the section &quot;Incremental Trie-based <b>Radix sort</b>&quot;, there is a sentence with this as <br>\nits subject: &quot;The sorted lists of other non-incremental <b>radix sorting</b> algorithms&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3ARadix_sort", 
+            "cacheId": "8s62dvgtGUUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Burstsort - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Burstsort - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Burstsort", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Burst<b>sort</b>", 
+            "snippet": "Burstsort and its variants are cache-efficient algorithms for sorting strings and are \nfaster than radix sort for large data sets of common strings, first published in\u00a0...", 
+            "htmlSnippet": "Burstsort and its variants are cache-efficient algorithms for sorting strings and are <br>\nfaster than <b>radix sort</b> for large data sets of common strings, first published in&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Burstsort", 
+            "cacheId": "jZtHlB2v6sgJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Bucket sort - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Bucket <b>sort</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Bucket_sort", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Bucket_<b>sort</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "248", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTWviVJFEkvbIeYW0EyIuTbtOoINrOCeR-GuORaYp_7RMsYAPcywcF1-w", 
+                        "height": "104"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/6/61/Bucket_sort_1.png"
+                    }
+                ]
+            }, 
+            "snippet": "It is a distribution sort, and is a cousin of radix sort in the most to least significant \ndigit flavour. Bucket sort is a generalization of pigeonhole sort. Bucket sort can\u00a0...", 
+            "htmlSnippet": "It is a distribution sort, and is a cousin of <b>radix sort</b> in the most to least significant <br>\ndigit flavour. Bucket sort is a generalization of pigeonhole sort. Bucket sort can&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Bucket_sort", 
+            "cacheId": "iXo-5ffR8ikJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Spreadsort - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Spreadsort - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Spreadsort", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Spread<b>sort</b>", 
+            "snippet": "Spreadsort is a sorting algorithm invented by Steven J. Ross in 2002. It combines \nconcepts from distribution-based sorts, such as radix sort and bucket sort, with\u00a0...", 
+            "htmlSnippet": "Spreadsort is a sorting algorithm invented by Steven J. Ross in 2002. It combines <br>\nconcepts from distribution-based sorts, such as <b>radix sort</b> and bucket sort, with&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Spreadsort", 
+            "cacheId": "3DxjJEl_ZLEJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Radix sort", 
+                "safe": "off", 
+                "searchTerms": "Radix sort", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "534"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Radix sort", 
+                "safe": "off", 
+                "searchTerms": "Radix sort", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "534"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.25", 
+        "formattedTotalResults": "534", 
+        "totalResults": "534", 
+        "searchTime": 0.247517
+    }
+}

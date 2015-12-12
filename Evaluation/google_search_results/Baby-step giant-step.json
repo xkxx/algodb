@@ -1,0 +1,194 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Baby-step giant-step - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Baby</b>-<b>step giant</b>-<b>step</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Baby-step_giant-step", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Baby</b>-<b>step</b>_<b>giant</b>-<b>step</b>", 
+            "snippet": "In group theory, a branch of mathematics, the baby-step giant-step is a meet-in-\nthe-middle algorithm computing the discrete logarithm. The discrete log problem\n\u00a0...", 
+            "htmlSnippet": "In group theory, a branch of mathematics, the <b>baby</b>-<b>step giant</b>-<b>step</b> is a meet-in-<br>\nthe-middle algorithm computing the discrete logarithm. The discrete log problem<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Baby-step_giant-step", 
+            "cacheId": "lSrR_z_yF6EJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Counting points on elliptic curves - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Counting points on elliptic curves - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Counting_points_on_elliptic_curves", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Counting_points_on_elliptic_curves", 
+            "snippet": "[hide]. 1 Approaches to counting points on elliptic curves; 2 Naive approach. 2.1 \nExample. 3 Baby-step giant-step. 3.1 The algorithm; 3.2 Notes to the algorithm.", 
+            "htmlSnippet": "[hide]. 1 Approaches to counting points on elliptic curves; 2 Naive approach. 2.1 <br>\nExample. 3 <b>Baby</b>-<b>step giant</b>-<b>step</b>. 3.1 The algorithm; 3.2 Notes to the algorithm.", 
+            "link": "https://en.wikipedia.org/wiki/Counting_points_on_elliptic_curves", 
+            "cacheId": "78KlV_um_bcJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Baby-step giant-step - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Baby</b>-<b>step giant</b>-<b>step</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3ABaby-step_giant-step", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>Baby</b>-<b>step</b>_<b>giant</b>-<b>step</b>", 
+            "snippet": "We called it \"Shanks Babystep-Giantstep Algorithm\". I\u00b4m not sure... but if it is so \none should mention it. Yes it was Shanks, and he initially used it to compute\u00a0...", 
+            "htmlSnippet": "We called it &quot;Shanks <b>Babystep</b>-<b>Giantstep</b> Algorithm&quot;. I\u00b4m not sure... but if it is so <br>\none should mention it. Yes it was Shanks, and he initially used it to compute&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3ABaby-step_giant-step", 
+            "cacheId": "3ZNykm3fZnAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Pohlig\u2013Hellman algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Pohlig\u2013Hellman algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Pohlig\u2013Hellman_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Pohlig\u2013Hellman_algorithm", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "250", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSHRwLcEBergHf8F5_Z7EjUBfr6i4i2Ng73LMX7q-UXMNWrzqMz74fky70", 
+                        "height": "71"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/math/1/4/8/14809309fc08d6dda500c6d88ba8aabe.png"
+                    }
+                ]
+            }, 
+            "snippet": "We can find the value of b1 by examining all the possible values between 0 and \np1-1. (We may also use a faster algorithm such as baby-step giant-step when\u00a0...", 
+            "htmlSnippet": "We can find the value of b1 by examining all the possible values between 0 and <br>\np1-1. (We may also use a faster algorithm such as <b>baby</b>-<b>step giant</b>-<b>step</b> when&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Pohlig%E2%80%93Hellman_algorithm", 
+            "cacheId": "niOscesjTowJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Mother May I? - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Mother May I? - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Mother_May_I%3F", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Mother_May_I%3F", 
+            "snippet": "For example, one might ask, \"Mother/Father, may I take five steps forward? ... \nTake (#) baby steps forward (usually a large number, due to tiny step size) ... \nreducing five giant steps to three giant steps), or make a different suggestion, \nsuch as:.", 
+            "htmlSnippet": "For example, one might ask, &quot;Mother/Father, may I take five <b>steps</b> forward? ... <br>\nTake (#) <b>baby steps</b> forward (usually a large number, due to tiny <b>step</b> size) ... <br>\nreducing five <b>giant steps</b> to three <b>giant steps</b>), or make a different suggestion, <br>\nsuch as:.", 
+            "link": "https://en.wikipedia.org/wiki/Mother_May_I%3F", 
+            "cacheId": "uCCM2zojI3QJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Pollard's rho algorithm for logarithms - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Pollard&#39;s rho algorithm for logarithms - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Pollard's_rho_algorithm_for_logarithms", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Pollard&#39;s_rho_algorithm_for_logarithms", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "140", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSaSbim2P33w77aID39-QCjxNIpXOiIO6VzgK6GRhI50K7mK2egYm5dFNM", 
+                        "height": "56"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/math/5/3/3/533af701acd39cb60d43185ff001a163.png"
+                    }
+                ]
+            }, 
+            "snippet": "steps. One way to define such a function is to use the following rules: Divide G \ninto three disjoint subsets of approximately equal size: S_0 , S_1 , and S_2 . If x_i\n\u00a0...", 
+            "htmlSnippet": "<b>steps</b>. One way to define such a function is to use the following rules: Divide G <br>\ninto three disjoint subsets of approximately equal size: S_0 , S_1 , and S_2 . If x_i<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Pollard's_rho_algorithm_for_logarithms", 
+            "cacheId": "rW5BGP7FSQoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Infrastructure (number theory) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Infrastructure (number theory) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Infrastructure_(number_theory)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Infrastructure_(number_theory)", 
+            "snippet": "In 1972, D. Shanks first discovered the infrastructure of a real quadratic number \nfield and applied his baby-step giant-step algorithm to compute the regulator of\u00a0...", 
+            "htmlSnippet": "In 1972, D. Shanks first discovered the infrastructure of a real quadratic number <br>\nfield and applied his <b>baby</b>-<b>step giant</b>-<b>step</b> algorithm to compute the regulator of&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Infrastructure_(number_theory)", 
+            "cacheId": "1bCH9HTjQVcJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Discrete logarithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Discrete logarithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Discrete_logarithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Discrete_logarithm", 
+            "snippet": "Baby-step giant-step \u00b7 Function field sieve \u00b7 Index calculus algorithm ... the \ndiscrete logarithm problem in general, the first three steps of the number field \nsieve\u00a0...", 
+            "htmlSnippet": "<b>Baby</b>-<b>step giant</b>-<b>step</b> &middot; Function field sieve &middot; Index calculus algorithm ... the <br>\ndiscrete logarithm problem in general, the first three steps of the number field <br>\nsieve&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Discrete_logarithm", 
+            "cacheId": "7imu4Vf2ay0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "BSGS - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>BSGS</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/BSGS", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/BSGS", 
+            "snippet": "The abbreviation BSGS has two meanings, both related to group theory in ... \nBaby-step giant-step, an algorithm for solving the discrete logarithm problem; The\n\u00a0...", 
+            "htmlSnippet": "The abbreviation <b>BSGS</b> has two meanings, both related to group theory in ... <br>\n<b>Baby</b>-<b>step giant</b>-<b>step</b>, an algorithm for solving the discrete logarithm problem; The<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/BSGS", 
+            "cacheId": "ZPi2cNfWMj0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Function field sieve - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Function field sieve - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Function_field_sieve", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Function_field_sieve", 
+            "snippet": "Discrete logarithm \u00b7 Baby-step giant-step \u00b7 Pollard rho \u00b7 Pollard kangaroo \u00b7 Pohlig\n\u2013Hellman \u00b7 Index calculus; Function field sieve. Greatest common divisor.", 
+            "htmlSnippet": "Discrete logarithm &middot; <b>Baby</b>-<b>step giant</b>-<b>step</b> &middot; Pollard rho &middot; Pollard kangaroo &middot; Pohlig<br>\n\u2013Hellman &middot; Index calculus; Function field sieve. Greatest common divisor.", 
+            "link": "https://en.wikipedia.org/wiki/Function_field_sieve", 
+            "cacheId": "g90n6fVmcLwJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Baby-step giant-step", 
+                "safe": "off", 
+                "searchTerms": "Baby-step giant-step", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "8980"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Baby-step giant-step", 
+                "safe": "off", 
+                "searchTerms": "Baby-step giant-step", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "8980"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.34", 
+        "formattedTotalResults": "8,980", 
+        "totalResults": "8980", 
+        "searchTime": 0.337139
+    }
+}

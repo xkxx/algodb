@@ -1,0 +1,236 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Bucket sort - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Bucket <b>sort</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Bucket_sort", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Bucket_<b>sort</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "248", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTWviVJFEkvbIeYW0EyIuTbtOoINrOCeR-GuORaYp_7RMsYAPcywcF1-w", 
+                        "height": "104"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/6/61/Bucket_sort_1.png"
+                    }
+                ]
+            }, 
+            "snippet": "[edit]. The Postman's sort is a variant of bucket sort that takes advantage of a \nhierarchical structure of elements, typically\u00a0...", 
+            "htmlSnippet": "[edit]. The <b>Postman&#39;s sort</b> is a variant of bucket sort that takes advantage of a <br>\nhierarchical structure of elements, typically&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Bucket_sort", 
+            "cacheId": "iXo-5ffR8ikJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:IBM card sorter - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:IBM card sorter - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3AIBM_card_sorter", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3AIBM_card_<b>sort</b>er", 
+            "snippet": "See the description of Postman's sort in the Bin Sort article for a description of \nradix sorting, also look at the radix sort article. Thanks. 69.106.232.37 00:45,\u00a0...", 
+            "htmlSnippet": "See the description of <b>Postman&#39;s sort</b> in the Bin Sort article for a description of <br>\nradix sorting, also look at the radix sort article. Thanks. 69.106.232.37 00:45,&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3AIBM_card_sorter", 
+            "cacheId": "5ntZTZGdAAwJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "United States Postal Service - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "United States Postal Service - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/United_States_Postal_Service", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/United_States_Postal_Service", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "144", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ5a2092yNG1UQdoQFusMmNnDzUOMREcNx1BOXCZaDCzKZjct7_AR_t435Q", 
+                        "height": "146"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/4/43/United_States_Postal_Service_(emblem).png"
+                    }
+                ]
+            }, 
+            "snippet": "7.5 International services; 7.6 Sorting and delivery process. 7.6.1 Types of .... Rail \ncars designed to sort and distribute mail while rolling were soon introduced.", 
+            "htmlSnippet": "7.5 International services; 7.6 <b>Sorting</b> and delivery process. 7.6.1 Types of .... Rail <br>\ncars designed to <b>sort</b> and distribute mail while rolling were soon introduced.", 
+            "link": "https://en.wikipedia.org/wiki/United_States_Postal_Service", 
+            "cacheId": "1SASa8zgXXoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "File talk:Iran tricolour.png - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "File talk:Iran tricolour.png - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/File_talk:Iran_tricolour.png", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/File_talk:Iran_tricolour.png", 
+            "snippet": "R: POSTMAN PAT: : TERRORIST ROOM 101: : \u2026 at the beginning of the ... the \nrepublics --- found that it could energise iran in this way in a sort of `postman pat\n\u00a0...", 
+            "htmlSnippet": "R: <b>POSTMAN</b> PAT: : TERRORIST ROOM 101: : \u2026 at the beginning of the ... the <br>\nrepublics --- found that it could energise iran in this way in a <b>sort</b> of `<b>postman</b> pat<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/File_talk:Iran_tricolour.png", 
+            "cacheId": "xFoY-V6s25YJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "List of Postman Pat episodes - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "List of <b>Postman</b> Pat episodes - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/List_of_Postman_Pat_episodes", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/List_of_<b>Postman</b>_Pat_episodes", 
+            "snippet": "Postman Pat\u2032s first 13-episode season was screened on BBC1 in 1981. ..... \nMeanwhile, the kids are enjoying a different sort of maths lesson by counting and\n\u00a0...", 
+            "htmlSnippet": "<b>Postman</b> Pat\u2032s first 13-episode season was screened on BBC1 in 1981. ..... <br>\nMeanwhile, the kids are enjoying a different <b>sort</b> of maths lesson by counting and<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/List_of_Postman_Pat_episodes", 
+            "cacheId": "biZQHcKoDaUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Radix sort - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Radix <b>sort</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Radix_sort", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Radix_<b>sort</b>", 
+            "snippet": "A Least significant digit (LSD) RADIX sort is a fast stable sorting algorithm which \ncan be used to sort .... A postman's sort / postal sort is a kind of MSD radix sort.", 
+            "htmlSnippet": "A Least significant digit (LSD) RADIX sort is a fast stable sorting algorithm which <br>\ncan be used to sort .... A <b>postman&#39;s sort</b> / postal sort is a kind of MSD radix sort.", 
+            "link": "https://en.wikipedia.org/wiki/Radix_sort", 
+            "cacheId": "MWLYmdndgUAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Mail carrier - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Mail carrier - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Mail_carrier", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Mail_carrier", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRaGixjcTQgZ04FQy3wksF8yTZawuBhnXaAasGw9mePGbsCzrmo_B0n0A", 
+                        "height": "117"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Postie_on_motorbike_-_chadstone.jpg/220px-Postie_on_motorbike_-_chadstone.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "A mail carrier, mailman, mailwoman, postal carrier, postman, postwoman, or letter \ncarrier (in American English), sometimes colloquially known as a postie (in\u00a0...", 
+            "htmlSnippet": "A mail carrier, mailman, mailwoman, postal carrier, <b>postman</b>, postwoman, or letter <br>\ncarrier (in American English), sometimes colloquially known as a postie (in&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Mail_carrier", 
+            "cacheId": "9e_dAEHWuCcJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Amusing Ourselves to Death - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Amusing Ourselves to Death - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Amusing_Ourselves_to_Death", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Amusing_Ourselves_to_Death", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR9opeZU9obf5CuyGOG7cDppx-CBwR5tLao4ha4QkOv6CK2Kw4IbDyofLLd", 
+                        "height": "266"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1e/Amusinghkn.jpg/220px-Amusinghkn.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "Amusing Ourselves to Death: Public Discourse in the Age of Show Business (\n1985) is a book by educator Neil Postman. The book's origins lay in a talk \nPostman\u00a0...", 
+            "htmlSnippet": "Amusing Ourselves to Death: Public Discourse in the Age of Show Business (<br>\n1985) is a book by educator Neil <b>Postman</b>. The book&#39;s origins lay in a talk <br>\n<b>Postman</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Amusing_Ourselves_to_Death", 
+            "cacheId": "tzVKoZ3EuP8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Postal worker - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Postal worker - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Postal_worker", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Postal_worker", 
+            "snippet": "Mail Sorters - Physically sort the mail to go to the correct place. As automation \nhas become more common, some of these people now operate the sorting\u00a0...", 
+            "htmlSnippet": "Mail Sorters - Physically <b>sort</b> the mail to go to the correct place. As automation <br>\nhas become more common, some of these people now operate the <b>sorting</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Postal_worker", 
+            "cacheId": "exnfXGHzK9wJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Sorting algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Sorting</b> algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Sorting_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Sorting</b>_algorithm", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "284", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcw9pl3Q9PmPu7dU3Xk3DdbeYqZIQCzyyRfukXqYXWdm69y04uEeRiB3br", 
+                        "height": "178"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Sorting_playing_cards_using_stable_sort.svg/400px-Sorting_playing_cards_using_stable_sort.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "Comparison-based sorting algorithms, need at least O(n log n) comparisons for \nmost inputs. ..... Postman sort, \u2014, n\\cdot {\\frac {k}{d}}, n+2^{d}, \u2014, No, A variation\n\u00a0...", 
+            "htmlSnippet": "Comparison-based sorting algorithms, need at least O(n log n) comparisons for <br>\nmost inputs. ..... <b>Postman sort</b>, \u2014, n\\cdot {\\frac {k}{d}}, n+2^{d}, \u2014, No, A variation<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Sorting_algorithm", 
+            "cacheId": "CyeqKExhw84J"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Postman sort", 
+                "safe": "off", 
+                "searchTerms": "Postman sort", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "1270"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Postman sort", 
+                "safe": "off", 
+                "searchTerms": "Postman sort", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "1270"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.30", 
+        "formattedTotalResults": "1,270", 
+        "totalResults": "1270", 
+        "searchTime": 0.296597
+    }
+}

@@ -1,0 +1,236 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Breadth-first search - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Breadth</b>-<b>first search</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Breadth-first_search", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Breadth</b>-<b>first</b>_<b>search</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "240", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSQLOoYuxzr5X74q9M9vGXyQJRtsTtmzh8TX45RZgGlXCuKA__-PgY-t88_", 
+                        "height": "153"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Breadth-first-tree.svg/300px-Breadth-first-tree.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "Breadth-first search (BFS) is an algorithm for traversing or searching tree or \ngraph data structures. It starts at the tree root (or some arbitrary node of a graph,\u00a0...", 
+            "htmlSnippet": "<b>Breadth</b>-<b>first search</b> (<b>BFS</b>) is an algorithm for traversing or searching tree or <br>\ngraph data structures. It starts at the tree root (or some arbitrary node of a graph,&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Breadth-first_search", 
+            "cacheId": "jEQeW6JwIN4J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Lexicographic breadth-first search - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Lexicographic <b>breadth</b>-<b>first search</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Lexicographic_breadth-first_search", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Lexicographic_<b>breadth</b>-<b>first</b>_<b>search</b>", 
+            "snippet": "In computer science, lexicographic breadth-first search or Lex-BFS is a linear \ntime algorithm for ordering the vertices of a graph. The algorithm is different from\n\u00a0...", 
+            "htmlSnippet": "In computer science, lexicographic <b>breadth</b>-<b>first search</b> or Lex-BFS is a linear <br>\ntime algorithm for ordering the vertices of a graph. The algorithm is different from<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Lexicographic_breadth-first_search", 
+            "cacheId": "dk7LqfOz2dIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Depth-first search - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Depth-<b>first search</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Depth-first_search", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Depth-<b>first</b>_<b>search</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "240", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAHyH6tRbpBEVFpm5MeihoL88S61Mw7Kg-XrNxgtDI-r8ly0ihddDd0ouA", 
+                        "height": "153"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Depth-first-tree.svg/300px-Depth-first-tree.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "Thus, in this setting, the time and space bounds are the same as for breadth-first \nsearch and the choice of which of these two algorithms to use depends less on\u00a0...", 
+            "htmlSnippet": "Thus, in this setting, the time and space bounds are the same as for <b>breadth</b>-<b>first</b> <br>\n<b>search</b> and the choice of which of these two algorithms to use depends less on&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Depth-first_search", 
+            "cacheId": "CMEdqxvhPk0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Tree traversal - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Tree traversal - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Tree_traversal", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Tree_traversal", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMPW8TIJqnlvOKNUBZhf7W62EGbhfRSBoJqgI_a_vB_WJle6XrTN7xpn8", 
+                        "height": "150"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Sorted_binary_tree_preorder.svg/220px-Sorted_binary_tree_preorder.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "In computer science, tree traversal (also known as tree search) is a form of graph \n.... This search is referred to as breadth-first search, as the search tree is\u00a0...", 
+            "htmlSnippet": "In computer science, tree traversal (also known as tree search) is a form of graph <br>\n.... This search is referred to as <b>breadth</b>-<b>first search</b>, as the search tree is&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Tree_traversal", 
+            "cacheId": "BOGFRf8V_ysJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Iterative deepening depth-first search - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Iterative deepening depth-<b>first search</b> - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Iterative_deepening_depth-first_search", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Iterative_deepening_depth-<b>first</b>_<b>search</b>", 
+            "snippet": "IDDFS is equivalent to breadth-first search, but uses much less memory; on each \niteration, it visits the nodes in the search tree in the same order as depth-first\u00a0...", 
+            "htmlSnippet": "IDDFS is equivalent to <b>breadth</b>-<b>first search</b>, but uses much less memory; on each <br>\niteration, it visits the nodes in the search tree in the same order as depth-first&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Iterative_deepening_depth-first_search", 
+            "cacheId": "frB8VIIjWwAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Graph traversal - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Graph traversal - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Graph_traversal", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Graph_traversal", 
+            "snippet": "Both the depth-first and breadth-first graph searches are adaptations of ... A \nbreadth-first search (BFS) is another technique for traversing a finite graph.", 
+            "htmlSnippet": "Both the depth-first and breadth-first graph searches are adaptations of ... A <br>\n<b>breadth</b>-<b>first search</b> (BFS) is another technique for traversing a finite graph.", 
+            "link": "https://en.wikipedia.org/wiki/Graph_traversal", 
+            "cacheId": "hOzoffqDg_0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Breadth-first search - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Breadth</b>-<b>first search</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3ABreadth-first_search", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>Breadth</b>-<b>first</b>_<b>search</b>", 
+            "snippet": "\"Since all nodes discovered so far have to be saved, the space complexity of \nbreadth-first search is O(|V| + |E|).\" I don't see it. Where does the |E| come from?", 
+            "htmlSnippet": "&quot;Since all nodes discovered so far have to be saved, the space complexity of <br>\n<b>breadth</b>-<b>first search</b> is O(|V| + |E|).&quot; I don&#39;t see it. Where does the |E| come from?", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3ABreadth-first_search", 
+            "cacheId": "L5r2TgXcpwIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Connected component (graph theory) - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Connected component (graph theory) - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Connected_component_(graph_theory)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Connected_component_(graph_theory)", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "192", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRBITZeIZMgR80xOxwYcQ-6JLR6lnkTjy-G87GnjWt25ycmYmF_cdNm7Fk", 
+                        "height": "166"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Pseudoforest.svg/240px-Pseudoforest.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "To find all the connected components of a graph, loop through its vertices, \nstarting a new breadth first or depth first search whenever the loop reaches a \nvertex\u00a0...", 
+            "htmlSnippet": "To find all the connected components of a graph, loop through its vertices, <br>\nstarting a new <b>breadth first</b> or depth <b>first search</b> whenever the loop reaches a <br>\nvertex&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Connected_component_(graph_theory)", 
+            "cacheId": "rGin8gl-e-UJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Beam search - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Beam <b>search</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Beam_search", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Beam_<b>search</b>", 
+            "snippet": "With an infinite beam width, no states are pruned and beam search is identical to \nbreadth-first search. The beam width bounds the memory required to perform\u00a0...", 
+            "htmlSnippet": "With an infinite beam width, no states are pruned and beam search is identical to <br>\n<b>breadth</b>-<b>first search</b>. The beam width bounds the memory required to perform&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Beam_search", 
+            "cacheId": "wcAH0lxYQQoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Bipartite graph - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Bipartite graph - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Bipartite_graph", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Bipartite_graph", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQn7T9KQQJpRA4tdS4N4iu267bkT0v2StesHamEgizuN-sBOA9Tgvtx3hm8", 
+                        "height": "176"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Simple-bipartite-graph.svg/220px-Simple-bipartite-graph.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "Alternatively, a similar procedure may be used with breadth-first search in place \nof depth-first search. Again, each node is given the opposite color to its parent in\n\u00a0...", 
+            "htmlSnippet": "Alternatively, a similar procedure may be used with <b>breadth</b>-<b>first search</b> in place <br>\nof depth-first search. Again, each node is given the opposite color to its parent in<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Bipartite_graph", 
+            "cacheId": "-zfXGf8iiJsJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Breadth-first search", 
+                "safe": "off", 
+                "searchTerms": "Breadth-first search", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "10100"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Breadth-first search", 
+                "safe": "off", 
+                "searchTerms": "Breadth-first search", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "10100"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.34", 
+        "formattedTotalResults": "10,100", 
+        "totalResults": "10100", 
+        "searchTime": 0.337006
+    }
+}

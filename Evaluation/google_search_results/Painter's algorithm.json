@@ -1,0 +1,264 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Painter's algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Painter&#39;s algorithm</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Painter's_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Painter&#39;s</b>_<b>algorithm</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTyJVwFya0Wc330nuTAaatSUIJTy8yfnZopiQdtO0CcYl9K3fxAiD6xfiyO", 
+                        "height": "186"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Painters_problem.svg/220px-Painters_problem.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "The painter's algorithm, also known as a priority fill, is one of the simplest \nsolutions to the visibility problem in 3D computer graphics. When projecting a 3D \nscene\u00a0...", 
+            "htmlSnippet": "The <b>painter&#39;s algorithm</b>, also known as a priority fill, is one of the simplest <br>\nsolutions to the visibility problem in 3D computer graphics. When projecting a 3D <br>\nscene&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Painter's_algorithm", 
+            "cacheId": "1yLAhEiuaz4J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Joel Spolsky - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Joel Spolsky - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Joel_Spolsky", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Joel_Spolsky", 
+            "pagemap": {
+                "person": [
+                    {
+                        "role": "Software developer CEO, Fog Creek Software CEO, Stack Exchange Network"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR2Gw2YW24IrxSqWc37cFNqyFXmEDiPXJ4eC-4VlkkCQpqr4naByC_seGlD", 
+                        "height": "174"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Joel_Spolsky_2014-06-18.jpg/220px-Joel_Spolsky_2014-06-18.jpg"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "url": "joelonsoftware.com", 
+                        "category": "American, New Zealand, Dual citizenship[1]", 
+                        "url_text": "joelonsoftware.com", 
+                        "role": "Software developer CEO, Fog Creek Software CEO, Stack Exchange Network", 
+                        "fn": "Joel Spolsky"
+                    }
+                ]
+            }, 
+            "snippet": "In software development, a Shlemiel the painter's algorithm (sometimes, Shlemiel \n... Schlemiel The Painter algorithms right and left and they don't even realize it,\u00a0...", 
+            "htmlSnippet": "In software development, a Shlemiel the <b>painter&#39;s algorithm</b> (sometimes, Shlemiel <br>\n... Schlemiel The <b>Painter algorithms</b> right and left and they don&#39;t even realize it,&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Joel_Spolsky", 
+            "cacheId": "gg3R_K1YhqQJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "File:Painter's algorithm.png - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "File:<b>Painter&#39;s algorithm</b>.png - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/File:Painter's_algorithm.png", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/File:<b>Painter&#39;s</b>_<b>algorithm</b>.png", 
+            "snippet": "This image was previously a featured picture, but community consensus \ndetermined that it no longer meets our featured-picture criteria. If you have a\u00a0...", 
+            "htmlSnippet": "This image was previously a featured picture, but community consensus <br>\ndetermined that it no longer meets our featured-picture criteria. If you have a&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/File:Painter's_algorithm.png", 
+            "cacheId": "3B9D9rTCYqwJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Painter's algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Painter&#39;s algorithm</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "en.wikipedia.org/wiki/Talk%3APainter's_algorithm", 
+            "htmlFormattedUrl": "en.wikipedia.org/wiki/Talk%3A<b>Painter&#39;s</b>_<b>algorithm</b>", 
+            "snippet": "I believe \"painter's algorithm\" would be correct (if we could lowercase the first \nletter) as there isn't a Mr Painter. It's a bit like \"jockey's helmet\", I suppose. Unless\n\u00a0...", 
+            "htmlSnippet": "I believe &quot;<b>painter&#39;s algorithm</b>&quot; would be correct (if we could lowercase the first <br>\nletter) as there isn&#39;t a Mr Painter. It&#39;s a bit like &quot;jockey&#39;s helmet&quot;, I suppose. Unless<br>\n&nbsp;...", 
+            "link": "http://en.wikipedia.org/wiki/Talk%3APainter's_algorithm", 
+            "cacheId": "xllsGEv9XUcJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Newell's algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Newell&#39;s <b>algorithm</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Newell's_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Newell&#39;s_<b>algorithm</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "80", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh-FcgSTKiLuvHGxLxy7Cuv-sFXpFGafmBQIRSKLXoxzHSyVl_o4P0uQ", 
+                        "height": "80"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/6/64/Painters_problem.png"
+                    }
+                ]
+            }, 
+            "snippet": "Newell's Algorithm is a 3D computer graphics procedure for elimination of \npolygon cycles in the depth ... Painter's algorithm \u00b7 Boolean operations on \npolygons\u00a0...", 
+            "htmlSnippet": "Newell&#39;s Algorithm is a 3D computer graphics procedure for elimination of <br>\npolygon cycles in the depth ... <b>Painter&#39;s algorithm</b> &middot; Boolean operations on <br>\npolygons&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Newell's_algorithm", 
+            "cacheId": "c7T_2ilPmiMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Z-buffering - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Z-buffering - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Z-buffering", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Z-buffering", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRVQA2GziEjbBMUVHX8IpDxhG3JgjCjE2qDV82NdK4ltrLs2W7tGzStsL8", 
+                        "height": "227"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Z_buffer.svg/220px-Z_buffer.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "The painter's algorithm is another common solution which, though less efficient, \ncan also handle non-opaque scene elements. When an object is rendered, the\u00a0...", 
+            "htmlSnippet": "The <b>painter&#39;s algorithm</b> is another common solution which, though less efficient, <br>\ncan also handle non-opaque scene elements. When an object is rendered, the&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Z-buffering", 
+            "cacheId": "3ifjwpI_PekJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Wikipedia:Featured picture candidates/delist/Painter's algorithm ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Wikipedia:Featured picture candidates/delist/<b>Painter&#39;s algorithm</b> <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Wikipedia.../Painter's_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Wikipedia.../<b>Painter&#39;s</b>_<b>algorithm</b>", 
+            "snippet": "Reason: It's a good image that clearly illustrates the topic, but I don't think it has \nthe WOW factor needed for a FP. Also, it should be an SVG instead a JPG.", 
+            "htmlSnippet": "Reason: It&#39;s a good image that clearly illustrates the topic, but I don&#39;t think it has <br>\nthe WOW factor needed for a FP. Also, it should be an SVG instead a JPG.", 
+            "link": "https://en.wikipedia.org/wiki/Wikipedia:Featured_picture_candidates/delist/Painter's_algorithm", 
+            "cacheId": "y4841QX2VZoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Binary space partitioning - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Binary space partitioning - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Binary_space_partitioning", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Binary_space_partitioning", 
+            "snippet": "A simple way to draw such scenes is the painter's algorithm, which produces \npolygons in order of distance from the viewer, back to front, painting over the\u00a0...", 
+            "htmlSnippet": "A simple way to draw such scenes is the <b>painter&#39;s algorithm</b>, which produces <br>\npolygons in order of distance from the viewer, back to front, painting over the&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Binary_space_partitioning", 
+            "cacheId": "CGxP4hnaIcsJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Painting - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Painting - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Painting", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Painting", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-pSyX7oMpGb7BMYLzlkLLMORmBw0LBejF0-n4hvF6Phus_1scYBkhxHBd", 
+                        "height": "262"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Mona_Lisa,_by_Leonardo_da_Vinci,_from_C2RMF_retouched.jpg/220px-Mona_Lisa,_by_Leonardo_da_Vinci,_from_C2RMF_retouched.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "In practice, painters can articulate shapes by juxtaposing surfaces of different \nintensity; by using just color (of the same intensity) one can only represent\u00a0...", 
+            "htmlSnippet": "In practice, <b>painters</b> can articulate shapes by juxtaposing surfaces of different <br>\nintensity; by using just color (of the same intensity) one can only represent&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Painting", 
+            "cacheId": "iA56nOE6uzwJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Scanline rendering - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Scanline rendering - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Scanline_rendering", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Scanline_rendering", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS4VueYZeF-IGrFKiqTaR51ZzDGFdzT-UKOsbLlIJOyr0xYxNcsCxLfA4A", 
+                        "height": "159"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Scan-line_algorithm.svg/220px-Scan-line_algorithm.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "Scanline rendering is an algorithm for visible surface determination, in 3D ... It \nproved better than Z-buffer/painter's type algorithms at handling scenes of high\u00a0...", 
+            "htmlSnippet": "Scanline rendering is an <b>algorithm</b> for visible surface determination, in 3D ... It <br>\nproved better than Z-buffer/<b>painter&#39;s</b> type <b>algorithms</b> at handling scenes of high&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Scanline_rendering", 
+            "cacheId": "LiavbOOtI0kJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Painter's algorithm", 
+                "safe": "off", 
+                "searchTerms": "Painter's algorithm", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "1200"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Painter's algorithm", 
+                "safe": "off", 
+                "searchTerms": "Painter's algorithm", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "1200"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.27", 
+        "formattedTotalResults": "1,200", 
+        "totalResults": "1200", 
+        "searchTime": 0.270045
+    }
+}

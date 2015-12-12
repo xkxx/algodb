@@ -1,0 +1,243 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Gram\u2013Schmidt process - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Gram</b>\u2013<b>Schmidt process</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Gram\u2013Schmidt_process", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Gram</b>\u2013<b>Schmidt</b>_<b>process</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "280", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQP1gABIuNpHBxjlJke_0V37Ylq7ZSw9lXnJrBdQ7Rj9RXnF2KeAD4LkLj7", 
+                        "height": "144"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Gram%E2%80%93Schmidt_process.svg/350px-Gram%E2%80%93Schmidt_process.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "The method is named after J\u00f8rgen Pedersen Gram and Erhard Schmidt but it \nappeared earlier in the work of Laplace and Cauchy. In the theory of Lie group\u00a0...", 
+            "htmlSnippet": "The <b>method</b> is named after J\u00f8rgen Pedersen <b>Gram</b> and Erhard <b>Schmidt</b> but it <br>\nappeared earlier in the work of Laplace and Cauchy. In the theory of Lie group&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Gram%E2%80%93Schmidt_process", 
+            "cacheId": "09zYNRqEJ_IJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "QR decomposition - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "QR decomposition - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/QR_decomposition", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/QR_decomposition", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "278", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR2yKZQYKlBxTFcB4mFT6yUpCgSLnAduTq5wSAdIfh2ch4DPhtq0MlvOerw", 
+                        "height": "181"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/math/9/3/c/93c3106cc0c3c5a0d1f075954a1f3b5c.png"
+                    }
+                ]
+            }, 
+            "snippet": "Consider the Gram\u2013Schmidt process applied to the columns of the full column ... \nQR decomposition is Gram\u2013Schmidt orthogonalization of columns of A, started\u00a0...", 
+            "htmlSnippet": "Consider the <b>Gram</b>\u2013<b>Schmidt process</b> applied to the columns of the full column ... <br>\nQR decomposition is <b>Gram</b>\u2013<b>Schmidt orthogonalization</b> of columns of A, started&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/QR_decomposition", 
+            "cacheId": "4eJ5V7zpNM0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Gram\u2013Schmidt process - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Gram</b>\u2013<b>Schmidt process</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3AGram\u2013Schmidt_process", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>Gram</b>\u2013<b>Schmidt</b>_<b>process</b>", 
+            "snippet": "Gram\u2013Schmidt process.svg \u2026would it fulfill its purpose? \u2013Gustavb 07:16, 18 \nFebruary 2006 (UTC). Yes, I guess that is basically it. However, I think that u_2\u00a0...", 
+            "htmlSnippet": "<b>Gram</b>\u2013<b>Schmidt process</b>.svg \u2026would it fulfill its purpose? \u2013Gustavb 07:16, 18 <br>\nFebruary 2006 (UTC). Yes, I guess that is basically it. However, I think that u_2&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3AGram%E2%80%93Schmidt_process", 
+            "cacheId": "X9_EngM4hqsJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Orthogonalization - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Orthogonalization</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Orthogonalization", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Orthogonalization</b>", 
+            "snippet": "In linear algebra, orthogonalization is the process of finding a set of ... This makes \nonly the Gram\u2013Schmidt process applicable for iterative methods like the\u00a0...", 
+            "htmlSnippet": "In linear algebra, orthogonalization is the process of finding a set of ... This makes <br>\nonly the <b>Gram</b>\u2013<b>Schmidt process</b> applicable for iterative methods like the&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Orthogonalization", 
+            "cacheId": "jh39J0kRSY4J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Arnoldi iteration - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Arnoldi iteration - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Arnoldi_iteration", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Arnoldi_iteration", 
+            "snippet": "The term iterative method, used to describe Arnoldi, can perhaps be somewhat ... \nThe Arnoldi iteration uses the stabilized Gram\u2013Schmidt process to produce a\u00a0...", 
+            "htmlSnippet": "The term iterative method, used to describe Arnoldi, can perhaps be somewhat ... <br>\nThe Arnoldi iteration uses the stabilized <b>Gram</b>\u2013<b>Schmidt process</b> to produce a&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Arnoldi_iteration", 
+            "cacheId": "jEnIYVxHyUoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "J\u00f8rgen Pedersen Gram - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "J\u00f8rgen Pedersen <b>Gram</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/J\u00f8rgen_Pedersen_Gram", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/J\u00f8rgen_Pedersen_<b>Gram</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqdIlDVY70W9cRAWGujMEvpEvHcsVchhx9vF0s-0Ds1L7LJNvXlgbrgGk6", 
+                        "height": "240"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/J%C3%B8rgen_Pedersen_Gram_by_Johannes_Hauerslev.jpg/220px-J%C3%B8rgen_Pedersen_Gram_by_Johannes_Hauerslev.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "The mathematical method that bears his name, the Gram\u2013Schmidt process, was \nfirst published in the former paper, in 1883. Gram's theorem and the Gramian\u00a0...", 
+            "htmlSnippet": "The mathematical method that bears his name, the <b>Gram</b>\u2013<b>Schmidt process</b>, was <br>\nfirst published in the former paper, in 1883. Gram&#39;s theorem and the Gramian&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/J%C3%B8rgen_Pedersen_Gram", 
+            "cacheId": "SsHFZZppisUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Erhard Schmidt - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Erhard <b>Schmidt</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Erhard_Schmidt", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Erhard_<b>Schmidt</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWvtPN-OvL9TtCUXsXJ-HERs-YUO6neyiU5DxsVyExo5EYMwZBRRhax6E", 
+                        "height": "248"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Erhard_Schmidt.jpg/220px-Erhard_Schmidt.jpg"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "bday": "1876-01-13", 
+                        "category": "Mathematics", 
+                        "fn": "Erhard Schmidt"
+                    }
+                ]
+            }, 
+            "snippet": "For the World War I Imperial German Admiral, see Erhard Schmidt (admiral). ... \nGram\u2013Schmidt process \u00b7 Hilbert\u2013Schmidt operator \u00b7 Lyapunov\u2013Schmidt reduction\n\u00a0...", 
+            "htmlSnippet": "For the World War I Imperial German Admiral, see Erhard Schmidt (admiral). ... <br>\n<b>Gram</b>\u2013<b>Schmidt process</b> &middot; Hilbert\u2013Schmidt operator &middot; Lyapunov\u2013Schmidt reduction<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Erhard_Schmidt", 
+            "cacheId": "P7d0rj6dlZUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Inner product space - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Inner product space - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Inner_product_space", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Inner_product_space", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "240", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJoiJtC9vCZJYGRkcTlYxgBSZ6Hl5tp3JlhgzT1_AhvhjKcQPyQS76aGqg", 
+                        "height": "184"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Inner-product-angle.png/300px-Inner-product-angle.png"
+                    }
+                ]
+            }, 
+            "snippet": "Using the Gram\u2013Schmidt process we may start with an arbitrary basis and \ntransform it into an orthonormal basis. That is, into a basis in which all the \nelements\u00a0...", 
+            "htmlSnippet": "Using the <b>Gram</b>\u2013<b>Schmidt process</b> we may start with an arbitrary basis and <br>\ntransform it into an orthonormal basis. That is, into a basis in which all the <br>\nelements&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Inner_product_space", 
+            "cacheId": "K3DeMgfMDYEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Orthonormal basis - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Orthonormal basis - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Orthonormal_basis", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Orthonormal_basis", 
+            "snippet": "Every finite-dimensional inner product space has an orthonormal basis, which \nmay be obtained from an arbitrary basis using the Gram\u2013Schmidt process.", 
+            "htmlSnippet": "Every finite-dimensional inner product space has an orthonormal basis, which <br>\nmay be obtained from an arbitrary basis using the <b>Gram</b>\u2013<b>Schmidt process</b>.", 
+            "link": "https://en.wikipedia.org/wiki/Orthonormal_basis", 
+            "cacheId": "cr8CA6UQBvQJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Iwasawa decomposition - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Iwasawa decomposition - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Iwasawa_decomposition", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Iwasawa_decomposition", 
+            "snippet": "... matrix (a consequence of Gram\u2013Schmidt orthogonalization). It is named after \nKenkichi Iwasawa, the Japanese mathematician who developed this method.", 
+            "htmlSnippet": "... matrix (a consequence of <b>Gram</b>\u2013<b>Schmidt orthogonalization</b>). It is named after <br>\nKenkichi Iwasawa, the Japanese mathematician who developed this method.", 
+            "link": "https://en.wikipedia.org/wiki/Iwasawa_decomposition", 
+            "cacheId": "i0Wb4Kg52K0J"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Gram-Schmidt process", 
+                "safe": "off", 
+                "searchTerms": "Gram-Schmidt process", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "475"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Gram-Schmidt process", 
+                "safe": "off", 
+                "searchTerms": "Gram-Schmidt process", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "475"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.26", 
+        "formattedTotalResults": "475", 
+        "totalResults": "475", 
+        "searchTime": 0.264902
+    }
+}

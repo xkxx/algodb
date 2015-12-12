@@ -1,0 +1,194 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Stochastic simulation - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Stochastic</b> simulation - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Stochastic_simulation", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Stochastic</b>_simulation", 
+            "snippet": "[edit]. Published in 2004 and 2005. These methods sort the cumulative array to \nreduce the average search\u00a0...", 
+            "htmlSnippet": "[edit]. Published in 2004 and 2005. These methods <b>sort</b> the cumulative array to <br>\nreduce the average search&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Stochastic_simulation", 
+            "cacheId": "aKqHgmAhMGMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Algorithmic composition - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Algorithmic composition - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Algorithmic_composition", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Algorithmic_composition", 
+            "snippet": "There is no universal method to sort different compositional algorithms into ... \ncommon way to create compositions through mathematics is stochastic \nprocesses.", 
+            "htmlSnippet": "There is no universal method to <b>sort</b> different compositional algorithms into ... <br>\ncommon way to create compositions through mathematics is <b>stochastic</b> <br>\nprocesses.", 
+            "link": "https://en.wikipedia.org/wiki/Algorithmic_composition", 
+            "cacheId": "K5FOZ9A03PMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Numerical weather prediction - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Numerical weather prediction - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Numerical_weather_prediction", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Numerical_weather_prediction", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "231", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvbqUJCPDZ2Waa9nEsOm7FVS8QIC7EADDDzgF8Qi9GOOVjX8mitPyIyEpy", 
+                        "height": "218"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/AtmosphericModelSchematic.png/300px-AtmosphericModelSchematic.png"
+                    }
+                ]
+            }, 
+            "snippet": "Since the 1990s, ensemble forecasts have been used operationally (as routine \nforecasts) to account for the stochastic nature of weather processes \u2013 that is,\u00a0...", 
+            "htmlSnippet": "Since the 1990s, ensemble forecasts have been used operationally (as routine <br>\nforecasts) to account for the <b>stochastic</b> nature of weather processes \u2013 that is,&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Numerical_weather_prediction", 
+            "cacheId": "m4ps6zJ--Z4J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Category:Sorting algorithms - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Category:<b>Sorting</b> algorithms - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Category:Sorting_algorithms", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Category:<b>Sorting</b>_algorithms", 
+            "snippet": "... encyclopedia. Jump to: navigation, search. The main article for this category is \nsorting algorithm. Wikimedia Commons has media related to Sort algorithms.", 
+            "htmlSnippet": "... encyclopedia. Jump to: navigation, search. The main article for this category is <br>\n<b>sorting</b> algorithm. Wikimedia Commons has media related to <b>Sort</b> algorithms.", 
+            "link": "https://en.wikipedia.org/wiki/Category:Sorting_algorithms", 
+            "cacheId": "40uTcv1LOogJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Selection (genetic algorithm) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Selection (genetic algorithm) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Selection_(genetic_algorithm)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Selection_(genetic_algorithm)", 
+            "snippet": "The population is sorted by descending fitness values. ... equally spaced pointers \non a wheel that is spun once, it is called stochastic universal sampling.", 
+            "htmlSnippet": "The population is <b>sorted</b> by descending fitness values. ... equally spaced pointers <br>\non a wheel that is spun once, it is called <b>stochastic</b> universal sampling.", 
+            "link": "https://en.wikipedia.org/wiki/Selection_(genetic_algorithm)", 
+            "cacheId": "4zoVr716WioJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Stochastic calculus - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Stochastic</b> calculus - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Stochastic_calculus", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Stochastic</b>_calculus", 
+            "snippet": "Stochastic calculus is a branch of mathematics that operates on stochastic \nprocesses. It allows a consistent theory of integration to be defined for integrals of\n\u00a0...", 
+            "htmlSnippet": "<b>Stochastic</b> calculus is a branch of mathematics that operates on <b>stochastic</b> <br>\nprocesses. It allows a consistent theory of integration to be defined for integrals of<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Stochastic_calculus", 
+            "cacheId": "UKYOKn67k5gJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Imputation (statistics) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Imputation (statistics) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Imputation_(statistics)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Imputation_(statistics)", 
+            "snippet": "... superseded the original random and sorted hot deck imputation techniques. ... \nStochastic regression was a fairly successful attempt to correct the lack of an\u00a0...", 
+            "htmlSnippet": "... superseded the original random and <b>sorted</b> hot deck imputation techniques. ... <br>\n<b>Stochastic</b> regression was a fairly successful attempt to correct the lack of an&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Imputation_(statistics)", 
+            "cacheId": "3c8TWLdKJJcJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Small population size - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Small population size - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Small_population_size", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Small_population_size", 
+            "snippet": "The influence of stochastic variation in demographic (reproductive and mortality) \nrates is much higher for small populations than large ones. Stochastic variation\u00a0...", 
+            "htmlSnippet": "The influence of <b>stochastic</b> variation in demographic (reproductive and mortality) <br>\nrates is much higher for small populations than large ones. <b>Stochastic</b> variation&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Small_population_size", 
+            "cacheId": "VfPZORJnOuwJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Stochastic - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Stochastic</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Stochastic", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Stochastic</b>", 
+            "snippet": "The term stochastic occurs in a wide variety of professional or academic fields to \ndescribe events or systems that are unpredictable due to the influence of a\u00a0...", 
+            "htmlSnippet": "The term <b>stochastic</b> occurs in a wide variety of professional or academic fields to <br>\ndescribe events or systems that are unpredictable due to the influence of a&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Stochastic", 
+            "cacheId": "vtYv0-uNR0gJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Stochastic matrix - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Stochastic</b> matrix - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Stochastic_matrix", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Stochastic</b>_matrix", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "227", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTPRvnfj55ovadPpsfB2MgxMADdfAp1Gi37vKTrVuRUTTo0_vpaUQA_l_E", 
+                        "height": "105"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/math/8/e/2/8e2c6efe49aedcc420f77478a219a3c6.png"
+                    }
+                ]
+            }, 
+            "snippet": "In mathematics, a stochastic matrix (also termed probability matrix, transition \nmatrix, substitution matrix, or Markov matrix) is a matrix used to describe the\u00a0...", 
+            "htmlSnippet": "In mathematics, a <b>stochastic</b> matrix (also termed probability matrix, transition <br>\nmatrix, substitution matrix, or Markov matrix) is a matrix used to describe the&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Stochastic_matrix", 
+            "cacheId": "ONfPQhDr3nQJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Stochastic sort", 
+                "safe": "off", 
+                "searchTerms": "Stochastic sort", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "1180"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Stochastic sort", 
+                "safe": "off", 
+                "searchTerms": "Stochastic sort", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "1180"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.24", 
+        "formattedTotalResults": "1,180", 
+        "totalResults": "1180", 
+        "searchTime": 0.241856
+    }
+}

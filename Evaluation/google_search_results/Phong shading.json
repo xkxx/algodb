@@ -1,0 +1,258 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Phong shading - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Phong shading</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Phong_shading", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Phong</b>_<b>shading</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "342", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSliNmttbQnin7agmXwTG_bNOsKupkrZxS5Fe1ZKJfOsCtfo0eyFtReW-p1", 
+                        "height": "147"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Phong-shading-sample.jpg/500px-Phong-shading-sample.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "Phong shading refers to an interpolation technique for surface shading in 3D \ncomputer graphics. It is also called Phong interpolation or normal-vector\u00a0...", 
+            "htmlSnippet": "<b>Phong shading</b> refers to an interpolation technique for surface shading in 3D <br>\ncomputer graphics. It is also called Phong interpolation or normal-vector&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Phong_shading", 
+            "cacheId": "wsq72q906p8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Phong reflection model - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Phong</b> reflection model - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Phong_reflection_model", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Phong</b>_reflection_model", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "426", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTP4dYwhJkJ-yEcf3CKtfoq02Wre-X1dDE7aes1OMH3hvPK0Rv4xXiPQw", 
+                        "height": "118"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Phong_components_version_4.png/655px-Phong_components_version_4.png"
+                    }
+                ]
+            }, 
+            "snippet": "In 3D computer graphics, it is sometimes ambiguously referred to as \"Phong \nshading\", in particular if the model is used in combination with the interpolation\u00a0...", 
+            "htmlSnippet": "In 3D computer graphics, it is sometimes ambiguously referred to as &quot;<b>Phong</b> <br>\n<b>shading</b>&quot;, in particular if the model is used in combination with the interpolation&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Phong_reflection_model", 
+            "cacheId": "S5zHGzvI6wsJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Blinn\u2013Phong shading model - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Blinn\u2013<b>Phong shading</b> model - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Blinn\u2013Phong_shading_model", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Blinn\u2013<b>Phong</b>_<b>shading</b>_model", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRzEmnyKWdkAbWiM3vIBDmMtEcOwkyt-oPgDKV920kWtUioGSS7CjJyDA", 
+                        "height": "120"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Blinn_Vectors.svg/220px-Blinn_Vectors.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "Blinn\u2013Phong is the default shading model used in OpenGL and Direct3D's fixed-\nfunction pipeline (before Direct3D 10 and OpenGL 3.1), and is carried out on\u00a0...", 
+            "htmlSnippet": "Blinn\u2013<b>Phong</b> is the default <b>shading</b> model used in OpenGL and Direct3D&#39;s fixed-<br>\nfunction pipeline (before Direct3D 10 and OpenGL 3.1), and is carried out on&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Blinn%E2%80%93Phong_shading_model", 
+            "cacheId": "eNbVdHRZRUAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "List of common shading algorithms - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "List of common <b>shading</b> algorithms - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/List_of_common_shading_algorithms", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/List_of_common_<b>shading</b>_algorithms", 
+            "snippet": "Below is a list of common shading algorithms: ... Blinn\u2013Phong \u00b7 Cel shading uses \na special kind of non-photorealistic illumination model; Cook\u2013Torrance\u00a0...", 
+            "htmlSnippet": "Below is a list of common <b>shading</b> algorithms: ... Blinn\u2013<b>Phong</b> &middot; Cel <b>shading</b> uses <br>\na special kind of non-photorealistic illumination model; Cook\u2013Torrance&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/List_of_common_shading_algorithms", 
+            "cacheId": "25lmIHv5pb8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Phong - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Phong</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Phong", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Phong</b>", 
+            "snippet": "Phong. From Wikipedia, the free encyclopedia. Jump to: navigation, search ... \nmodel \u00b7 Bui Tuong Phong - creator of the Phong shading interpolation method \nand\u00a0...", 
+            "htmlSnippet": "Phong. From Wikipedia, the free encyclopedia. Jump to: navigation, search ... <br>\nmodel &middot; Bui Tuong Phong - creator of the <b>Phong shading</b> interpolation method <br>\nand&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Phong", 
+            "cacheId": "ZtOHXb7ehjMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Bui Tuong Phong - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Bui Tuong <b>Phong</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Bui_Tuong_Phong", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Bui_Tuong_<b>Phong</b>", 
+            "pagemap": {
+                "hcard": [
+                    {
+                        "category": "Computer science", 
+                        "fn": "B\u00f9i T\u01b0\u1eddng Phong"
+                    }
+                ]
+            }, 
+            "snippet": "Phong was the inventor of the Phong reflection model and the Phong shading \ninterpolation method, techniques widely used in computer graphics. He \npublished\u00a0...", 
+            "htmlSnippet": "Phong was the inventor of the Phong reflection model and the <b>Phong shading</b> <br>\ninterpolation method, techniques widely used in computer graphics. He <br>\npublished&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Bui_Tuong_Phong", 
+            "cacheId": "IL0_CvijsoUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Gouraud shading - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Gouraud <b>shading</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Gouraud_shading", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Gouraud_<b>shading</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "240", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvdVpsfSaozfb5jehXBH2eubtpC7vWaIXU11rrNshXY9hrhjp0oYVzReqN", 
+                        "height": "145"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Gouraudshading00.png/300px-Gouraudshading00.png"
+                    }
+                ]
+            }, 
+            "snippet": "Gouraud-shaded triangle mesh using the Phong reflection model ... In \ncomparison to Phong shading, Gouraud shading's strength and weakness lies in \nits\u00a0...", 
+            "htmlSnippet": "Gouraud-shaded triangle mesh using the Phong reflection model ... In <br>\ncomparison to <b>Phong shading</b>, Gouraud shading&#39;s strength and weakness lies in <br>\nits&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Gouraud_shading", 
+            "cacheId": "XgWIqq_JZwMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Shading - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Shading</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Shading", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Shading</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "160", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQY12_9bwyc66m9T1MFqOy3iNuhDe3KCqnMjIy8g0A4LxePx6JDqLIJvxg", 
+                        "height": "160"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Gouraud_high.gif/200px-Gouraud_high.gif"
+                    }
+                ]
+            }, 
+            "snippet": "[edit]. Phong shading is similar to Gouraud shading, except that the Normals are \ninterpolated. Thus, the specular highlights are\u00a0...", 
+            "htmlSnippet": "[edit]. <b>Phong shading</b> is similar to Gouraud shading, except that the Normals are <br>\ninterpolated. Thus, the specular highlights are&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Shading", 
+            "cacheId": "M4tdL4BefXQJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Specular highlight - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Specular highlight - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Specular_highlight", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Specular_highlight", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "153", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSWgBN5xgbV5nho94RVKBiqCuPudc1wK4JASw_UwrFlIVJVQuf8WBeTl28", 
+                        "height": "153"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Specular_highlight.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "2.1 Phong distribution; 2.2 Gaussian distribution; 2.3 Beckmann distribution ... In \nthe Blinn\u2013Phong shading model, the intensity of a specular highlight is\u00a0...", 
+            "htmlSnippet": "2.1 Phong distribution; 2.2 Gaussian distribution; 2.3 Beckmann distribution ... In <br>\nthe Blinn\u2013<b>Phong shading</b> model, the intensity of a specular highlight is&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Specular_highlight", 
+            "cacheId": "Va4-mKBdkNUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Phong shading - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Phong shading</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3APhong_shading", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>Phong</b>_<b>shading</b>", 
+            "snippet": "Text and/or other creative content from this version of Phong shading was ... \nPhong shading is based on Phong reflection model, but they aren't strictly related\n.", 
+            "htmlSnippet": "Text and/or other creative content from this version of <b>Phong shading</b> was ... <br>\n<b>Phong shading</b> is based on Phong reflection model, but they aren&#39;t strictly related<br>\n.", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3APhong_shading", 
+            "cacheId": "JpZAlanLp_QJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Phong shading", 
+                "safe": "off", 
+                "searchTerms": "Phong shading", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "169"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Phong shading", 
+                "safe": "off", 
+                "searchTerms": "Phong shading", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "169"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.26", 
+        "formattedTotalResults": "169", 
+        "totalResults": "169", 
+        "searchTime": 0.256999
+    }
+}

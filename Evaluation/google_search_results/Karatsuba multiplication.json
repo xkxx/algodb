@@ -1,0 +1,201 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Karatsuba algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Karatsuba</b> algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Karatsuba_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Karatsuba</b>_algorithm", 
+            "snippet": "The Karatsuba algorithm is a fast multiplication algorithm. It was discovered by \nAnatoly Karatsuba in 1960 and published in 1962. It reduces the multiplication of\n\u00a0...", 
+            "htmlSnippet": "The <b>Karatsuba</b> algorithm is a fast <b>multiplication</b> algorithm. It was discovered by <br>\nAnatoly <b>Karatsuba</b> in 1960 and published in 1962. It reduces the <b>multiplication</b> of<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Karatsuba_algorithm", 
+            "cacheId": "1lsSGEoHzLMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Multiplication algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Multiplication</b> algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Multiplication_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Multiplication</b>_algorithm", 
+            "snippet": "[edit]. Main article: Karatsuba algorithm. For systems that need to multiply \nnumbers in the range of several thousand\u00a0...", 
+            "htmlSnippet": "[edit]. Main article: <b>Karatsuba</b> algorithm. For systems that need to multiply <br>\nnumbers in the range of several thousand&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Multiplication_algorithm", 
+            "cacheId": "dwLGhItDFBEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Anatoly Karatsuba - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Anatoly <b>Karatsuba</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Anatoly_Karatsuba", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Anatoly_<b>Karatsuba</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRcW2lLpbkj1hddCIK-AfIGW-3HaEn0EO2RmisvyoblaUrW_u1ejKi7JLg", 
+                        "height": "235"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/a/aa/Anatolii_Karatsuba.jpg/220px-Anatolii_Karatsuba.jpg"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "bday": "1937-01-31", 
+                        "category": "Mathematician", 
+                        "fn": "Anatolii Alexeevich Karatsuba"
+                    }
+                ]
+            }, 
+            "snippet": "Anatoly Alexeevitch Karatsuba (or Kara\u010duba) (Russian: \u0410\u043d\u0430\u0442\u043e\u0301\u043b\u0438\u0439 \u0410\u043b\u0435\u043a\u0441\u0435\u0301\u0435\u0432\u0438\u0447 ... \nfor multiplication and lives on as a special case of its direct generalization, the\u00a0...", 
+            "htmlSnippet": "Anatoly Alexeevitch <b>Karatsuba</b> (or Kara\u010duba) (Russian: \u0410\u043d\u0430\u0442\u043e\u0301\u043b\u0438\u0439 \u0410\u043b\u0435\u043a\u0441\u0435\u0301\u0435\u0432\u0438\u0447 ... <br>\nfor <b>multiplication</b> and lives on as a special case of its direct generalization, the&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Anatoly_Karatsuba", 
+            "cacheId": "3oy8Fj_pJQUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Toom\u2013Cook multiplication - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Toom\u2013Cook <b>multiplication</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Toom\u2013Cook_multiplication", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Toom\u2013Cook_<b>multiplication</b>", 
+            "snippet": "The Karatsuba algorithm is a special case of Toom\u2013Cook, where the number is \nsplit into two ... 1.3 Pointwise multiplication; 1.4 Interpolation; 1.5 Recomposition.", 
+            "htmlSnippet": "The <b>Karatsuba</b> algorithm is a special case of Toom\u2013Cook, where the number is <br>\nsplit into two ... 1.3 Pointwise <b>multiplication</b>; 1.4 Interpolation; 1.5 Recomposition.", 
+            "link": "https://en.wikipedia.org/wiki/Toom%E2%80%93Cook_multiplication", 
+            "cacheId": "Gi5b_UP5_0kJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Karatsuba algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Karatsuba</b> algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3AKaratsuba_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>Karatsuba</b>_algorithm", 
+            "snippet": "[edit]. Consider merging material from The Karatsuba multiplication, which has \nsome descriptions of\u00a0...", 
+            "htmlSnippet": "[edit]. Consider merging material from The <b>Karatsuba multiplication</b>, which has <br>\nsome descriptions of&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3AKaratsuba_algorithm", 
+            "cacheId": "7B-2e8WlfCIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Sch\u00f6nhage\u2013Strassen algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Sch\u00f6nhage\u2013Strassen algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Sch\u00f6nhage\u2013Strassen_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Sch\u00f6nhage\u2013Strassen_algorithm", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "241", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQTM5ailoOD5ppzjGmjOteEkMAOqjNTSxmsstDT9X4KzwUf_gtrRUY7JGjN", 
+                        "height": "210"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Integer_multiplication_by_FFT.svg/350px-Integer_multiplication_by_FFT.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "In practice the Sch\u00f6nhage\u2013Strassen algorithm starts to outperform older methods \nsuch as Karatsuba and Toom\u2013Cook multiplication for numbers beyond 2215 to\u00a0...", 
+            "htmlSnippet": "In practice the Sch\u00f6nhage\u2013Strassen algorithm starts to outperform older methods <br>\nsuch as <b>Karatsuba</b> and Toom\u2013Cook <b>multiplication</b> for numbers beyond 2<sup>215</sup> to&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Sch%C3%B6nhage%E2%80%93Strassen_algorithm", 
+            "cacheId": "ULiDfQCxd38J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Polynomial interpolation - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Polynomial interpolation - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Polynomial_interpolation", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Polynomial_interpolation", 
+            "snippet": "Polynomial interpolation is also essential to perform sub-quadratic multiplication \nand squaring such as Karatsuba multiplication and Toom\u2013Cook multiplication,\u00a0...", 
+            "htmlSnippet": "Polynomial interpolation is also essential to perform sub-quadratic multiplication <br>\nand squaring such as <b>Karatsuba multiplication</b> and Toom\u2013Cook multiplication,&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Polynomial_interpolation", 
+            "cacheId": "Ns8RkX95QjwJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "F\u00fcrer's algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "F\u00fcrer&#39;s algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/F\u00fcrer's_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/F\u00fcrer&#39;s_algorithm", 
+            "snippet": "Fuerer's algorithm is an integer multiplication algorithm for very large numbers \npossessing a very low asymptotic complexity. It was created in 2007 by Swiss\u00a0...", 
+            "htmlSnippet": "Fuerer&#39;s algorithm is an integer <b>multiplication</b> algorithm for very large numbers <br>\npossessing a very low asymptotic complexity. It was created in 2007 by Swiss&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/F%C3%BCrer's_algorithm", 
+            "cacheId": "_V3RKNMeZlIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Multiplication algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Multiplication</b> algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3AMultiplication_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>Multiplication</b>_algorithm", 
+            "snippet": "Karatsuba[edit]. I thought this section could use more references and more in the \nway of practical application -- what ranges it's\u00a0...", 
+            "htmlSnippet": "<b>Karatsuba</b>[edit]. I thought this section could use more references and more in the <br>\nway of practical application -- what ranges it&#39;s&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3AMultiplication_algorithm", 
+            "cacheId": "57MXLKxF2hgJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Ancient Egyptian multiplication - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Ancient Egyptian <b>multiplication</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Ancient_Egyptian_multiplication", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Ancient_Egyptian_<b>multiplication</b>", 
+            "snippet": "In mathematics, ancient Egyptian multiplication (also known as Egyptian \nmultiplication, Ethiopian multiplication, Russian multiplication, or peasant \nmultiplication)\u00a0...", 
+            "htmlSnippet": "In mathematics, ancient Egyptian <b>multiplication</b> (also known as Egyptian <br>\n<b>multiplication</b>, Ethiopian <b>multiplication</b>, Russian <b>multiplication</b>, or peasant <br>\n<b>multiplication</b>)&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Ancient_Egyptian_multiplication", 
+            "cacheId": "O9iCFTqJL-YJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Karatsuba multiplication", 
+                "safe": "off", 
+                "searchTerms": "Karatsuba multiplication", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "170"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Karatsuba multiplication", 
+                "safe": "off", 
+                "searchTerms": "Karatsuba multiplication", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "170"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.25", 
+        "formattedTotalResults": "170", 
+        "totalResults": "170", 
+        "searchTime": 0.251266
+    }
+}
