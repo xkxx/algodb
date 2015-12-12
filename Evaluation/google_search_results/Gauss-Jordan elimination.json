@@ -1,0 +1,264 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Gaussian elimination - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Gaussian elimination</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Gaussian_elimination", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Gaussian</b>_<b>elimination</b>", 
+            "snippet": "Using row operations to convert a matrix into reduced row echelon form is \nsometimes called Gauss\u2013Jordan elimination. Some authors use the term \nGaussian\u00a0...", 
+            "htmlSnippet": "Using row operations to convert a matrix into reduced row echelon form is <br>\nsometimes called <b>Gauss</b>\u2013<b>Jordan elimination</b>. Some authors use the term <br>\nGaussian&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Gaussian_elimination", 
+            "cacheId": "J6rQ5C5wc3IJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Wilhelm Jordan (geodesist) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Wilhelm <b>Jordan</b> (geodesist) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Wilhelm_Jordan_(geodesist)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Wilhelm_<b>Jordan</b>_(geodesist)", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "168", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS45m7d13tm3Qc6N-lqowKzZ77O0KtZXANg9RZxLGKzWWzVWaVWK47ohvGa", 
+                        "height": "215"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/7/70/Wilhelm_Jordan.png"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "bday": "1842-03-01", 
+                        "category": "Geodesy Geometry", 
+                        "fn": "Wilhelm Jordan"
+                    }
+                ]
+            }, 
+            "snippet": "[edit]. Evidence suggests that B.-I. Clasen also developed the Gauss\u2013Jordan \nelimination method\u00a0...", 
+            "htmlSnippet": "[edit]. Evidence suggests that B.-I. Clasen also developed the <b>Gauss</b>\u2013<b>Jordan</b> <br>\n<b>elimination</b> method&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Wilhelm_Jordan_(geodesist)", 
+            "cacheId": "r6vk1FBBnhkJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Row echelon form - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Row echelon form - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Row_echelon_form", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Row_echelon_form", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "143", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjcUBS8rQvZ-3W7luNJcuPO8hqHZkoSPbR42LZq6FCPIF3xAdWrW6Z-w", 
+                        "height": "58"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/math/4/a/6/4a66bdff4c6cb49a00ddeafd8451ab4f.png"
+                    }
+                ]
+            }, 
+            "snippet": "Row echelon form means that Gaussian elimination has operated on the rows ... \nrow echelon form of a matrix may be computed by Gauss\u2013Jordan elimination.", 
+            "htmlSnippet": "Row echelon form means that Gaussian elimination has operated on the rows ... <br>\nrow echelon form of a matrix may be computed by <b>Gauss</b>\u2013<b>Jordan elimination</b>.", 
+            "link": "https://en.wikipedia.org/wiki/Row_echelon_form", 
+            "cacheId": "z2rpR1htgVAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Invertible matrix - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Invertible matrix - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Invertible_matrix", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Invertible_matrix", 
+            "snippet": "2.1 Gaussian elimination; 2.2 Newton's method; 2.3 Cayley\u2013Hamilton method .... \nGauss\u2013Jordan elimination is an algorithm that can be used to determine\u00a0...", 
+            "htmlSnippet": "2.1 Gaussian elimination; 2.2 Newton&#39;s method; 2.3 Cayley\u2013Hamilton method .... <br>\n<b>Gauss</b>\u2013<b>Jordan elimination</b> is an algorithm that can be used to determine&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Invertible_matrix", 
+            "cacheId": "w3JiL79Wm8AJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Wilhelm Jordan - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Wilhelm <b>Jordan</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Wilhelm_Jordan", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Wilhelm_<b>Jordan</b>", 
+            "snippet": "Carl Friedrich Wilhelm Jordan (1819\u20131904), known as Wilhelm Jordan, German \nwriter ... German scientist, noted for the Gauss\u2013Jordan elimination algorithm\u00a0...", 
+            "htmlSnippet": "Carl Friedrich Wilhelm Jordan (1819\u20131904), known as Wilhelm Jordan, German <br>\nwriter ... German scientist, noted for the <b>Gauss</b>\u2013<b>Jordan elimination</b> algorithm&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Wilhelm_Jordan", 
+            "cacheId": "oQe3LkaT_IAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "List of things named after Carl Friedrich Gauss - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "List of things named after Carl Friedrich <b>Gauss</b> - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../List_of_things_named_after_Carl_Friedrich_ Gauss", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../List_of_things_named_after_Carl_Friedrich_ <b>Gauss</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "264", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTB5R-Dz8XKpM59k8cdRWU0MgoigTcQ-6bn_kSuOC3_gJtyMAz8dntapEo", 
+                        "height": "156"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Braunschweig_Gaussberg_von_Suedwesten_(2011).JPG/330px-Braunschweig_Gaussberg_von_Suedwesten_(2011).JPG"
+                    }
+                ]
+            }, 
+            "snippet": "Carl Friedrich Gauss (1777\u20131855) is the eponym of all of the topics listed below. \n... Gauss\u2013Jordan elimination, a method in linear algebra \u00b7 Gauss\u2013Kronrod\u00a0...", 
+            "htmlSnippet": "Carl Friedrich Gauss (1777\u20131855) is the eponym of all of the topics listed below. <br>\n... <b>Gauss</b>\u2013<b>Jordan elimination</b>, a method in linear algebra &middot; Gauss\u2013Kronrod&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/List_of_things_named_after_Carl_Friedrich_Gauss", 
+            "cacheId": "GzBwsK6xCKUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Camille Jordan - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Camille <b>Jordan</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Camille_Jordan", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Camille_<b>Jordan</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRUZhiqq-RCx-2u91T3uEdaKiy5pA23JfdNulNLDzX-puaBTdVPdm7oZEk", 
+                        "height": "221"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Jordan_4.jpeg/220px-Jordan_4.jpeg"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "bday": "1838-01-05", 
+                        "category": "Mathematics", 
+                        "fn": "Camille Jordan"
+                    }
+                ]
+            }, 
+            "snippet": "Camille Jordan is not to be confused with the geodesist Wilhelm Jordan (Gauss\u2013\nJordan elimination) or the physicist Pascual Jordan (Jordan algebras).", 
+            "htmlSnippet": "Camille Jordan is not to be confused with the geodesist Wilhelm Jordan (<b>Gauss</b>\u2013<br>\n<b>Jordan elimination</b>) or the physicist Pascual Jordan (Jordan algebras).", 
+            "link": "https://en.wikipedia.org/wiki/Camille_Jordan", 
+            "cacheId": "QtdNoKGhZFIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "System of linear equations - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "System of linear equations - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/System_of_linear_equations", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/System_of_linear_equations", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGr7epIO_UxyYYQPYmqQNT0rOHk4dY5Q51qPxsVSVeeFNkvJ3aHZns-b0", 
+                        "height": "176"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Secretsharing_3-point.svg/220px-Secretsharing_3-point.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "5.1 Describing the solution; 5.2 Elimination of variables; 5.3 Row reduction ..... \nThe following computation shows Gauss-Jordan elimination applied to the matrix\n\u00a0...", 
+            "htmlSnippet": "5.1 Describing the solution; 5.2 Elimination of variables; 5.3 Row reduction ..... <br>\nThe following computation shows <b>Gauss</b>-<b>Jordan elimination</b> applied to the matrix<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/System_of_linear_equations", 
+            "cacheId": "Xdf9rijYVusJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Elementary matrix - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Elementary matrix - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Elementary_matrix", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Elementary_matrix", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "238", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRiEFAROyiB_kt0B5zl8qI_x618mgNsFf_j15UzkfakGm1pt5QzmPESI6g", 
+                        "height": "154"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/math/1/6/c/16c94d719d94fe7b7a397a59d781be2b.png"
+                    }
+                ]
+            }, 
+            "snippet": "Elementary row operations are used in Gaussian elimination to reduce a matrix \nto row echelon form. They are also used in Gauss-Jordan elimination to further\u00a0...", 
+            "htmlSnippet": "Elementary row operations are used in Gaussian elimination to reduce a matrix <br>\nto row echelon form. They are also used in <b>Gauss</b>-<b>Jordan elimination</b> to further&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Elementary_matrix", 
+            "cacheId": "7QyfwvRxLSIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Jordan (disambiguation) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Jordan</b> (disambiguation) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Jordan_(disambiguation)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Jordan</b>_(disambiguation)", 
+            "snippet": "People[edit]. Jordan (name), a list of people with this surname or given name ... \nGauss\u2013Jordan elimination, version of Gaussian elimination; Jordan algebra,\u00a0...", 
+            "htmlSnippet": "People[edit]. Jordan (name), a list of people with this surname or given name ... <br>\n<b>Gauss</b>\u2013<b>Jordan elimination</b>, version of Gaussian elimination; Jordan algebra,&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Jordan_(disambiguation)", 
+            "cacheId": "88lViWTVIiQJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Gauss-Jordan elimination", 
+                "safe": "off", 
+                "searchTerms": "Gauss-Jordan elimination", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "124"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Gauss-Jordan elimination", 
+                "safe": "off", 
+                "searchTerms": "Gauss-Jordan elimination", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "124"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.26", 
+        "formattedTotalResults": "124", 
+        "totalResults": "124", 
+        "searchTime": 0.257531
+    }
+}

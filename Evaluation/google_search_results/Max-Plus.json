@@ -1,0 +1,250 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Max-plus algebra - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Max</b>-<b>plus</b> algebra - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Max-plus_algebra", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Max</b>-<b>plus</b>_algebra", 
+            "snippet": "Max-plus algebra can be used for matrix operands A, B likewise, where the size \nof both matrices is the same. To perform the A \\oplus B - operation, the elements\n\u00a0...", 
+            "htmlSnippet": "<b>Max</b>-<b>plus</b> algebra can be used for matrix operands A, B likewise, where the size <br>\nof both matrices is the same. To perform the A \\oplus B - operation, the elements<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Max-plus_algebra", 
+            "cacheId": "NFbEYtZz8b4J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Alpha max plus beta min algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Alpha <b>max plus</b> beta min algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Alpha_max_plus_beta_min_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Alpha_<b>max</b>_<b>plus</b>_beta_min_algorithm", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "357", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSkjOPiSdiKEnvV497MK_wGcVo0QMivHK_LCCLQLpiOx7i0yhJJ0tWNEv4", 
+                        "height": "141"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Alpha_Max_Beta_Min_approximation.png/800px-Alpha_Max_Beta_Min_approximation.png"
+                    }
+                ]
+            }, 
+            "snippet": "The alpha max plus beta min algorithm is a high-speed approximation of the \nsquare root of the sum of two squares. The square root of the sum of two squares,\n\u00a0...", 
+            "htmlSnippet": "The alpha <b>max plus</b> beta min algorithm is a high-speed approximation of the <br>\nsquare root of the sum of two squares. The square root of the sum of two squares,<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Alpha_max_plus_beta_min_algorithm", 
+            "cacheId": "8BaFLZ7Ty_gJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Tropical geometry - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Tropical geometry - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Tropical_geometry", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Tropical_geometry", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQfvP9X6KoBvUe3QthAu9h2VkNvqNsjfIOAmEUnCPNzG6nosPXZlhYviKay", 
+                        "height": "176"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cubique_tropicale_min.svg/220px-Cubique_tropicale_min.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "The tropical semiring (also known as a tropical algebra or, with the max \nconvention, the max-plus algebra, due to the name of its operations) is a semiring \n(\u211d\u00a0...", 
+            "htmlSnippet": "The tropical semiring (also known as a tropical algebra or, with the max <br>\nconvention, the <b>max</b>-<b>plus</b> algebra, due to the name of its operations) is a semiring <br>\n(\u211d&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Tropical_geometry", 
+            "cacheId": "AfZFsgkwCOwJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Alpha max plus beta min algorithm - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:Alpha <b>max plus</b> beta min algorithm - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../Talk%3AAlpha_max_plus_beta_min_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Talk%3AAlpha_<b>max</b>_<b>plus</b>_beta_min_algorithm", 
+            "snippet": "Is there a way to polish the solution?[edit]. Is there a way to compute a new \nestimate of hypot from this starting condition like is done with typical sqrt \nalgorithms?", 
+            "htmlSnippet": "Is there a way to polish the solution?[edit]. Is there a way to compute a new <br>\nestimate of hypot from this starting condition like is done with typical sqrt <br>\nalgorithms?", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3AAlpha_max_plus_beta_min_algorithm", 
+            "cacheId": "VvznLqArtc8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Drill bit shank - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Drill bit shank - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Drill_bit_shank", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Drill_bit_shank", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "160", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQG6jzpxyejP_anxIf-bys65C3UJsWVVhCLfv3GHz--3frQwZ-Gk4MGxrY", 
+                        "height": "109"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/1/12/Drill_shank_brace.jpg/200px-Drill_shank_brace.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "The shortest SDS-plus masonry drill bits are about 110 mm overall length, and \nthe longest 1500 mm. SDS-max is more common for larger rotary hammers and\u00a0...", 
+            "htmlSnippet": "The shortest SDS-<b>plus</b> masonry drill bits are about 110 mm overall length, and <br>\nthe longest 1500 mm. SDS-<b>max</b> is more common for larger rotary hammers and&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Drill_bit_shank", 
+            "cacheId": "s-uNfNnPBD0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "AT&T U-verse - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "AT&amp;T U-verse - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/AT%26T_U-verse", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/AT%26T_U-verse", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "200", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVmjNjTZRZDc9gqPdqUGPa-Bs3ZsxlCPV7iPLieGVhp43qv_5fvJyNyqgo", 
+                        "height": "154"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/2/22/U-verse_logo.png/250px-U-verse_logo.png"
+                    }
+                ]
+            }, 
+            "snippet": "Where pair bonding is available, the maximum service distance can extend to .... \nAT&T announced Max Plus service (then called \"Max 18\") in November 2008,\u00a0...", 
+            "htmlSnippet": "Where pair bonding is available, the maximum service distance can extend to .... <br>\nAT&amp;T announced <b>Max Plus</b> service (then called &quot;Max 18&quot;) in November 2008,&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/AT%26T_U-verse", 
+            "cacheId": "XbkJiVDGtGwJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Nike Air Max - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Nike Air <b>Max</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Nike_Air_Max", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Nike_Air_<b>Max</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRpF6krczbnmo480hf8F8eW7ewhF3P0vbl_iIf28ufDZ_KyyByi6tg7mI_j", 
+                        "height": "132"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/AirmaxBWJPG.jpg/220px-AirmaxBWJPG.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "Nike Air Max is a line of shoes first released by Nike, Inc. in 1987. ... Air Max \nDeluxe; Air Max 2000; Air Max Plus (commonly known as Air Max TN); Air Max \nLtd -\u00a0...", 
+            "htmlSnippet": "Nike Air Max is a line of shoes first released by Nike, Inc. in 1987. ... Air Max <br>\nDeluxe; Air Max 2000; Air <b>Max Plus</b> (commonly known as Air Max TN); Air Max <br>\nLtd -&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Nike_Air_Max", 
+            "cacheId": "qbCVQ8qznUgJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Max Roach + 4 - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Max</b> Roach + 4 - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Max_Roach_%2B_4", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Max</b>_Roach_%2B_4", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "160", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShwv36x2NOPBGIg7-13kdce1nyTwSLk6O3d_Oo_GFMHD2rUUj0K5gscro-", 
+                        "height": "160"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/6/6b/5244roach.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "Max Roach + 4 is an LP recorded by jazz drummer Max Roach, which featured \nKenny Dorham on trumpet, Sonny Rollins on tenor sax, Ray Bryant on piano, and\n\u00a0...", 
+            "htmlSnippet": "<b>Max</b> Roach + 4 is an LP recorded by jazz drummer <b>Max</b> Roach, which featured <br>\nKenny Dorham on trumpet, Sonny Rollins on tenor sax, Ray Bryant on piano, and<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Max_Roach_%2B_4", 
+            "cacheId": "7SuQwtCWFeYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Semiring - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Semiring - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Semiring", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Semiring", 
+            "snippet": "The max-plus semiring R \u222a {\u2212\u221e}, is a commutative, idempotent semiring with \nmax(a,b) serving as semiring addition (identity \u2212\u221e) and ordinary addition (\nidentity\u00a0...", 
+            "htmlSnippet": "The <b>max</b>-<b>plus</b> semiring R \u222a {\u2212\u221e}, is a commutative, idempotent semiring with <br>\nmax(a,b) serving as semiring addition (identity \u2212\u221e) and ordinary addition (<br>\nidentity&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Semiring", 
+            "cacheId": "2LLReYoaOvAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Solpadeine - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Solpadeine - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Solpadeine", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Solpadeine", 
+            "snippet": "... with a higher codeine content than Solpadeine Plus; Solpadeine Migraine, ... \nSolpadeine Max tablets contain 12.8 mg of codeine, which in combination with\u00a0...", 
+            "htmlSnippet": "... with a higher codeine content than Solpadeine <b>Plus</b>; Solpadeine Migraine, ... <br>\nSolpadeine <b>Max</b> tablets contain 12.8 mg of codeine, which in combination with&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Solpadeine", 
+            "cacheId": "WSHuihhIyxsJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Max-Plus", 
+                "safe": "off", 
+                "searchTerms": "Max-Plus", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "44100"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Max-Plus", 
+                "safe": "off", 
+                "searchTerms": "Max-Plus", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "44100"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.31", 
+        "formattedTotalResults": "44,100", 
+        "totalResults": "44100", 
+        "searchTime": 0.312155
+    }
+}

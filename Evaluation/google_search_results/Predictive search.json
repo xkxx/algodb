@@ -1,0 +1,180 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Predictive text - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Predictive</b> text - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Predictive_text", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Predictive</b>_text", 
+            "snippet": "Predictive text could allow for an entire word to be input by single keypress. ... the \nnumber buttons, an algorithm searches the dictionary for a list of possible\u00a0...", 
+            "htmlSnippet": "<b>Predictive</b> text could allow for an entire word to be input by single keypress. ... the <br>\nnumber buttons, an algorithm <b>searches</b> the dictionary for a list of possible&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Predictive_text", 
+            "cacheId": "wHRAZbygN7QJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Autocomplete - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Autocomplete - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Autocomplete", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Autocomplete", 
+            "snippet": "3.1 In web browsers; 3.2 In e-mail programs; 3.3 In search engines; 3.4 In source \ncode editors ..... Predictive Assessment for Communication Aid Prescription:\u00a0...", 
+            "htmlSnippet": "3.1 In web browsers; 3.2 In e-mail programs; 3.3 In <b>search</b> engines; 3.4 In source <br>\ncode editors ..... <b>Predictive</b> Assessment for Communication Aid Prescription:&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Autocomplete", 
+            "cacheId": "b6DNyTYoy-IJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "T9 (predictive text) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "T9 (<b>predictive</b> text) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/T9_(predictive_text)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/T9_(<b>predictive</b>_text)", 
+            "snippet": "Jump to: navigation, search ... T9, which stands for Text on 9 keys, is a USA-\npatented predictive text technology for mobile phones (specifically those that \ncontain\u00a0...", 
+            "htmlSnippet": "Jump to: navigation, <b>search</b> ... T9, which stands for Text on 9 keys, is a USA-<br>\npatented <b>predictive</b> text technology for mobile phones (specifically those that <br>\ncontain&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/T9_(predictive_text)", 
+            "cacheId": "eXPw-rfciCgJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Predictive modelling - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Predictive</b> modelling - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Predictive_modelling", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Predictive</b>_modelling", 
+            "snippet": "Jump to: navigation, search. Predictive modeling leverages statistics to predict \noutcomes. Most often the event one wants to predict is in the future, but predictive\n\u00a0...", 
+            "htmlSnippet": "Jump to: navigation, <b>search</b>. <b>Predictive</b> modeling leverages statistics to predict <br>\noutcomes. Most often the event one wants to predict is in the future, but <b>predictive</b><br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Predictive_modelling", 
+            "cacheId": "LzCVwWe9g6AJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Predictive validity - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Predictive</b> validity - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Predictive_validity", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Predictive</b>_validity", 
+            "snippet": "Jump to: navigation, search. In psychometrics, predictive validity is the extent to \nwhich a score on a scale or test predicts scores on some criterion measure.", 
+            "htmlSnippet": "Jump to: navigation, <b>search</b>. In psychometrics, <b>predictive</b> validity is the extent to <br>\nwhich a score on a scale or test predicts scores on some criterion measure.", 
+            "link": "https://en.wikipedia.org/wiki/Predictive_validity", 
+            "cacheId": "crbqX8e0EaoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Predictive behavioral targeting - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Predictive</b> behavioral targeting - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Predictive_behavioral_targeting", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Predictive</b>_behavioral_targeting", 
+            "snippet": "Jump to: navigation, search ... The Predictive Behavioral Targeting system learns \nfrom user behavior combined with survey (concerning socio-demographics,\u00a0...", 
+            "htmlSnippet": "Jump to: navigation, <b>search</b> ... The <b>Predictive</b> Behavioral Targeting system learns <br>\nfrom user behavior combined with survey (concerning socio-demographics,&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Predictive_behavioral_targeting", 
+            "cacheId": "J3TBp8CCF8YJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Precision and recall - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Precision and recall - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Precision_and_recall", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Precision_and_recall", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "166", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQyBRCjhEKT3ffBx2orijoZki-kdZf0putf-h4nUAhxGpYeIxvEjRN-4c6b", 
+                        "height": "303"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Precisionrecall.svg/350px-Precisionrecall.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "So, in this case, precision is 'how useful the search results are', and recall is .... \nreferred to as positive predictive value (PPV); other related measures used in\u00a0...", 
+            "htmlSnippet": "So, in this case, precision is &#39;how useful the <b>search</b> results are&#39;, and recall is .... <br>\nreferred to as positive <b>predictive</b> value (PPV); other related measures used in&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Precision_and_recall", 
+            "cacheId": "rCa1-SuJ1Z8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Mobile search - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Mobile <b>search</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Mobile_search", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Mobile_<b>search</b>", 
+            "snippet": "Web search engine ability in a mobile form allows users to find mobile content ... \nsuch as location and predictive searching will become increasingly important.", 
+            "htmlSnippet": "Web search engine ability in a mobile form allows users to find mobile content ... <br>\nsuch as location and <b>predictive searching</b> will become increasingly important.", 
+            "link": "https://en.wikipedia.org/wiki/Mobile_search", 
+            "cacheId": "GMiz4cd97AQJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Criterion validity - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Criterion validity - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Criterion_validity", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Criterion_validity", 
+            "snippet": "Jump to: navigation, search. In psychometrics, criterion or ... Criterion validity is \noften divided into concurrent and predictive validity. Concurrent validity refers to a\n\u00a0...", 
+            "htmlSnippet": "Jump to: navigation, <b>search</b>. In psychometrics, criterion or ... Criterion validity is <br>\noften divided into concurrent and <b>predictive</b> validity. Concurrent validity refers to a<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Criterion_validity", 
+            "cacheId": "nBTD70yt4ioJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Exploratory search - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Exploratory <b>search</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Exploratory_search", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Exploratory_<b>search</b>", 
+            "snippet": "Exploratory search is a specialization of information exploration which .... Such \npredictive user modeling, also referred as intent modeling, can help users to get\u00a0...", 
+            "htmlSnippet": "Exploratory <b>search</b> is a specialization of information exploration which .... Such <br>\n<b>predictive</b> user modeling, also referred as intent modeling, can help users to get&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Exploratory_search", 
+            "cacheId": "6rkw36i8oF4J"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Predictive search", 
+                "safe": "off", 
+                "searchTerms": "Predictive search", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "9720"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Predictive search", 
+                "safe": "off", 
+                "searchTerms": "Predictive search", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "9720"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.33", 
+        "formattedTotalResults": "9,720", 
+        "totalResults": "9720", 
+        "searchTime": 0.327956
+    }
+}

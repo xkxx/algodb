@@ -1,3 +1,236 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:52f53c78bec67594e6fb8a3b58628f0428c5f8df3d81d69911f0deea53d829b5
-size 16793
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Motion capture - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Motion capture - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Motion_capture", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Motion_capture", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "240", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTWnX6UAYTPqNEfzgvHRdXUJj-6NXXKlIQhNDPCW_bN5ppmT3FiOLfmLNQ", 
+                        "height": "120"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Temporal-Control-and-Hand-Movement-Efficiency-in-Skilled-Music-Performance-pone.0050901.s001.ogv/300px--Temporal-Control-and-Hand-Movement-Efficiency-in-Skilled-Music-Performance-pone.0050901.s001.ogv.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "In many fields, motion capture is sometimes called motion tracking, but in .... \nFacial recognition technology Facerig reads player facial expressions and maps \n..... the stereo mesh solver from OpenCV to create a 3D surface mesh, or to use \nlight\u00a0...", 
+            "htmlSnippet": "In many fields, motion capture is sometimes called motion <b>tracking</b>, but in .... <br>\nFacial recognition <b>technology</b> Facerig reads player facial expressions and maps <br>\n..... the stereo mesh solver from OpenCV to create a <b>3D surface</b> mesh, or to use <br>\nlight&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Motion_capture", 
+            "cacheId": "K9G4dndBzyMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Match moving - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Match moving - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Match_moving", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Match_moving", 
+            "snippet": "Sometimes referred to as motion tracking or camera solving, match moving is ... \nMatch moving, by contrast, is typically a software-based technology, applied after \nthe ... is that each feature represents a specific point on the surface of a real \nobject. ... In this way features tracked in 2D correspond to real points in a 3D \nspace.", 
+            "htmlSnippet": "Sometimes referred to as motion <b>tracking</b> or camera solving, match moving is ... <br>\nMatch moving, by contrast, is typically a software-based <b>technology</b>, applied after <br>\nthe ... is that each feature represents a specific point on the <b>surface</b> of a real <br>\nobject. ... In this way features tracked in 2D correspond to real points in a <b>3D</b> <br>\nspace.", 
+            "link": "https://en.wikipedia.org/wiki/Match_moving", 
+            "cacheId": "J3F0rC0zKZQJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Laser tracker - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Laser <b>tracker</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Laser_tracker", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Laser_<b>tracker</b>", 
+            "snippet": "The accuracy of laser trackers is of the order of 0.025 mm over a distance of ... \nretroreflector (SMR), which resembles a ball bearing with mirrored surfaces cut \ninto it. ... called Automated Precision Inc. API has refined tracking technology, \nbuilding ... 3D imaging \u00b7 Laser image acquisition \u00b7 Metrology \u00b7 Surveying \ninstruments\u00a0...", 
+            "htmlSnippet": "The accuracy of laser <b>trackers</b> is of the order of 0.025 mm over a distance of ... <br>\nretroreflector (SMR), which resembles a ball bearing with mirrored <b>surfaces</b> cut <br>\ninto it. ... called Automated Precision Inc. API has refined <b>tracking technology</b>, <br>\nbuilding ... <b>3D</b> imaging &middot; Laser image acquisition &middot; Metrology &middot; Surveying <br>\ninstruments&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Laser_tracker", 
+            "cacheId": "45crIzNRExQJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "GestureTek - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "GestureTek - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/GestureTek", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/GestureTek", 
+            "snippet": "GestureTek is an American-based interactive technology company ... \nGestureTek's 3D tracking technology is used in a 3D television prototype from \nHitachi and\u00a0...", 
+            "htmlSnippet": "GestureTek is an American-based interactive <b>technology</b> company ... <br>\nGestureTek&#39;s <b>3D tracking technology</b> is used in a <b>3D</b> television prototype from <br>\nHitachi and&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/GestureTek", 
+            "cacheId": "H3Pf5pPSBZYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Digital image correlation - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Digital image correlation - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Digital_image_correlation", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Digital_image_correlation", 
+            "snippet": "Digital image correlation and tracking is an optical method that employs ... DIC \ncan be and has been extended to almost any imaging technology. .... 3D \ndeformations, but it does so by capturing planar images of the surface of a body \nonly.", 
+            "htmlSnippet": "Digital image correlation and <b>tracking</b> is an optical method that employs ... DIC <br>\ncan be and has been extended to almost any imaging <b>technology</b>. .... <b>3D</b> <br>\ndeformations, but it does so by capturing planar images of the <b>surface</b> of a body <br>\nonly.", 
+            "link": "https://en.wikipedia.org/wiki/Digital_image_correlation", 
+            "cacheId": "k-H78PgotlkJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "3D interaction - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>3D</b> interaction - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/3D_interaction", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>3D</b>_interaction", 
+            "snippet": "The 3D space used for interaction can be the real physical space, a virtual ... \nAvailability of technology as well as impractical costs held back the ... on a 2D \nsurface so some inconsistencies in depth perception will still exist. ... 3D trackers \nhave been identified as mechanical, magnetic, ultrasonic, optical, and hybrid \ninertial.", 
+            "htmlSnippet": "The <b>3D</b> space used for interaction can be the real physical space, a virtual ... <br>\nAvailability of <b>technology</b> as well as impractical costs held back the ... on a 2D <br>\n<b>surface</b> so some inconsistencies in depth perception will still exist. ... <b>3D trackers</b> <br>\nhave been identified as mechanical, magnetic, ultrasonic, optical, and hybrid <br>\ninertial.", 
+            "link": "https://en.wikipedia.org/wiki/3D_interaction", 
+            "cacheId": "Sv4qvpW-kTgJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Autostereoscopy - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Autostereoscopy - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Autostereoscopy", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Autostereoscopy", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "200", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQGIhl2aXo4oZ67KzKDWyh5WVmRL3znhQL-gDj6muBVl10yOTIQ7j6EKuc", 
+                        "height": "180"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Nintendo-3DS-AquaOpen.png/250px-Nintendo-3DS-AquaOpen.png"
+                    }
+                ]
+            }, 
+            "snippet": "The Nintendo 3DS uses parallax barrier autostereoscopy to display a 3D .... \nSeeReal Technologies has developed a holographic display based on eye \ntracking.", 
+            "htmlSnippet": "The Nintendo 3DS uses parallax barrier autostereoscopy to display a <b>3D</b> .... <br>\nSeeReal <b>Technologies</b> has developed a holographic display based on eye <br>\n<b>tracking</b>.", 
+            "link": "https://en.wikipedia.org/wiki/Autostereoscopy", 
+            "cacheId": "cKtPEMLfm0MJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "3D scanner - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>3D</b> scanner - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/3D_scanner", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>3D</b>_scanner", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ5TuwjIoHWEmb4x0BMmp9jdzDFDJYn4NON9L20ypF0VjSz8-nDm6e-3g", 
+                        "height": "116"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/VIUscan_handheld_3D_scanner_in_use.jpg/220px-VIUscan_handheld_3D_scanner_in_use.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "Many different technologies can be used to build these 3D-scanning devices; ... \nThe \"picture\" produced by a 3D scanner describes the distance to a surface at .... \nExternal tracking often takes the form of a laser tracker (to provide the sensor\u00a0...", 
+            "htmlSnippet": "Many different <b>technologies</b> can be used to build these <b>3D</b>-scanning devices; ... <br>\nThe &quot;picture&quot; produced by a <b>3D</b> scanner describes the distance to a <b>surface</b> at .... <br>\nExternal <b>tracking</b> often takes the form of a laser <b>tracker</b> (to provide the sensor&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/3D_scanner", 
+            "cacheId": "zpN4iMnCmcgJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Pointing device - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Pointing device - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Pointing_device", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Pointing_device", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj8_A7L3C5jc5QAgrzRq9EWPu5F4o8Ve_pJ1Y7mSv6LBkMypdPAdhUO90", 
+                        "height": "132"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Logitech_Mouse.JPG/220px-Logitech_Mouse.JPG"
+                    }
+                ]
+            }, 
+            "snippet": "A finger tracking device tracks fingers in the 3D space or close to the surface \nwithout contact with a screen. Fingers are triangulated by technologies like stereo\n\u00a0...", 
+            "htmlSnippet": "A finger <b>tracking</b> device tracks fingers in the <b>3D</b> space or close to the <b>surface</b> <br>\nwithout contact with a screen. Fingers are triangulated by <b>technologies</b> like stereo<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Pointing_device", 
+            "cacheId": "pnoz3AvJrGUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Computer mouse - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Computer mouse - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Computer_mouse", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Computer_mouse", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTbGKgeUhz5jYPIlk84N2u-KvjqQSIbH4WA07SdFoc6L2mF0lhS-getOeY", 
+                        "height": "154"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/3-Tastenmaus_Microsoft.jpg/220px-3-Tastenmaus_Microsoft.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "Mice often also feature other elements, such as touch surfaces and \"wheels\", \nwhich ..... In the late 1990s Logitech created ultrasound based tracking which \ngave 3D ... are designed for more advanced input technology like touch and \nimage.", 
+            "htmlSnippet": "Mice often also feature other elements, such as touch <b>surfaces</b> and &quot;wheels&quot;, <br>\nwhich ..... In the late 1990s Logitech created ultrasound based <b>tracking</b> which <br>\ngave <b>3D</b> ... are designed for more advanced input <b>technology</b> like touch and <br>\nimage.", 
+            "link": "https://en.wikipedia.org/wiki/Computer_mouse", 
+            "cacheId": "eLhYvDUfrVQJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - 3D Surface Tracker Technology", 
+                "safe": "off", 
+                "searchTerms": "3D Surface Tracker Technology", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "25000"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - 3D Surface Tracker Technology", 
+                "safe": "off", 
+                "searchTerms": "3D Surface Tracker Technology", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "25000"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.36", 
+        "formattedTotalResults": "25,000", 
+        "totalResults": "25000", 
+        "searchTime": 0.360024
+    }
+}

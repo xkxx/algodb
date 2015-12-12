@@ -1,0 +1,236 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Convolution theorem - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Convolution theorem - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Convolution_theorem", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Convolution_theorem", 
+            "snippet": "With the help of the convolution theorem and the fast Fourier transform, the \ncomplexity of the ... This can be exploited to construct fast multiplication \nalgorithms.", 
+            "htmlSnippet": "With the help of the convolution theorem and the fast <b>Fourier transform</b>, the <br>\ncomplexity of the ... This can be exploited to construct fast <b>multiplication</b> <br>\nalgorithms.", 
+            "link": "https://en.wikipedia.org/wiki/Convolution_theorem", 
+            "cacheId": "y_qfrN8E5CUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Multiplication algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Multiplication</b> algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Multiplication_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Multiplication</b>_algorithm", 
+            "snippet": "[edit]. Demonstration of multiplying 1234 \u00d7 5678 = 7006652 using fast Fourier \ntransforms (FFTs). Number-theoretic\u00a0...", 
+            "htmlSnippet": "[edit]. Demonstration of <b>multiplying</b> 1234 \u00d7 5678 = 7006652 using fast <b>Fourier</b> <br>\n<b>transforms</b> (FFTs). Number-theoretic&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Multiplication_algorithm", 
+            "cacheId": "dwLGhItDFBEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Fourier transform - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Fourier transform</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Fourier_transform", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Fourier</b>_<b>transform</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "240", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRNsGIQwsqHlMLQc9GVovDLMKSOajRCa3E4ZibhssHuer0fjT8ekFUOMtU", 
+                        "height": "180"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Fourier_unit_pulse.svg/300px-Fourier_unit_pulse.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "The Fourier transform decomposes a function of time (a signal) into the ..... The \nFourier transform translates between convolution and multiplication of functions.", 
+            "htmlSnippet": "The <b>Fourier transform</b> decomposes a function of time (a signal) into the ..... The <br>\n<b>Fourier transform</b> translates between convolution and <b>multiplication</b> of functions.", 
+            "link": "https://en.wikipedia.org/wiki/Fourier_transform", 
+            "cacheId": "4F4OKo6OOBEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Discrete Fourier transform - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Discrete <b>Fourier transform</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Discrete_Fourier_transform", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Discrete_<b>Fourier</b>_<b>transform</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "282", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7eTBS1VqYusI0aBy7CM7BmORU6mb9QqNgYcmlCfZvKZTHD4hZnJjsIEs", 
+                        "height": "179"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Fourier_transform,_Fourier_series,_DTFT,_DFT.gif/400px-Fourier_transform,_Fourier_series,_DTFT,_DFT.gif"
+                    }
+                ]
+            }, 
+            "snippet": "[edit]. Suppose we wish to compute the polynomial product c(x) = a(x) \u00b7 b(x). The \nordinary product expression for the\u00a0...", 
+            "htmlSnippet": "[edit]. Suppose we wish to compute the polynomial product c(x) = a(x) \u00b7 b(x). The <br>\nordinary product expression for the&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Discrete_Fourier_transform", 
+            "cacheId": "6dhBpq97clMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Multiplier (Fourier analysis) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Multiplier (<b>Fourier</b> analysis) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Multiplier_(Fourier_analysis)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Multiplier_(<b>Fourier</b>_analysis)", 
+            "snippet": "These operators act on a function by altering its Fourier transform. Specifically \nthey multiply the Fourier transform of a function by a specified function known as\n\u00a0...", 
+            "htmlSnippet": "These operators act on a function by altering its <b>Fourier transform</b>. Specifically <br>\nthey <b>multiply</b> the <b>Fourier transform</b> of a function by a specified function known as<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Multiplier_(Fourier_analysis)", 
+            "cacheId": "9tGo0AooZ4UJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Sch\u00f6nhage\u2013Strassen algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Sch\u00f6nhage\u2013Strassen algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Sch\u00f6nhage\u2013Strassen_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Sch\u00f6nhage\u2013Strassen_algorithm", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "241", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQTM5ailoOD5ppzjGmjOteEkMAOqjNTSxmsstDT9X4KzwUf_gtrRUY7JGjN", 
+                        "height": "210"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Integer_multiplication_by_FFT.svg/350px-Integer_multiplication_by_FFT.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "The Sch\u00f6nhage\u2013Strassen algorithm is based on the Fast Fourier transform (FFT) \nmethod of integer multiplication. This figure demonstrates multiplying 1234\u00a0...", 
+            "htmlSnippet": "The Sch\u00f6nhage\u2013Strassen algorithm is based on the Fast <b>Fourier transform</b> (FFT) <br>\nmethod of integer <b>multiplication</b>. This figure demonstrates <b>multiplying</b> 1234&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Sch%C3%B6nhage%E2%80%93Strassen_algorithm", 
+            "cacheId": "ULiDfQCxd38J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "DFT matrix - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "DFT matrix - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/DFT_matrix", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/DFT_matrix", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "400", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRimRvkx29tRfjiTck4DauSbjLRsm0c8uFmxKt5fXb_myffMwJeoCpVIg", 
+                        "height": "125"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/math/9/c/c/9cce22a5a4d6ad84538dc40a90dd365f.png"
+                    }
+                ]
+            }, 
+            "snippet": "A DFT matrix is an expression of a discrete Fourier transform (DFT) as a \ntransformation matrix, which can be applied to a signal through matrix \nmultiplication.", 
+            "htmlSnippet": "A DFT matrix is an expression of a discrete <b>Fourier transform</b> (DFT) as a <br>\ntransformation matrix, which can be applied to a signal through matrix <br>\n<b>multiplication</b>.", 
+            "link": "https://en.wikipedia.org/wiki/DFT_matrix", 
+            "cacheId": "HptcJcks7xoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Pointwise product - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Pointwise product - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Pointwise_product", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Pointwise_product", 
+            "snippet": "For entrywise product, see Matrix multiplication#Hadamard product. ... The \nconvolution theorem states that the Fourier transform of a convolution is the \npointwise\u00a0...", 
+            "htmlSnippet": "For entrywise product, see Matrix <b>multiplication</b>#Hadamard product. ... The <br>\nconvolution theorem states that the <b>Fourier transform</b> of a convolution is the <br>\npointwise&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Pointwise_product", 
+            "cacheId": "k132oahVyrYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Discrete Fourier transform (general) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Discrete <b>Fourier transform</b> (general) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Discrete_Fourier_transform_(general)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Discrete_<b>Fourier</b>_<b>transform</b>_(general)", 
+            "snippet": "This article is about the discrete Fourier transform (DFT) over any ring, commonly \n... transform is a linear operator, it can be described by matrix multiplication.", 
+            "htmlSnippet": "This article is about the discrete <b>Fourier transform</b> (DFT) over any ring, commonly <br>\n... transform is a linear operator, it can be described by matrix <b>multiplication</b>.", 
+            "link": "https://en.wikipedia.org/wiki/Discrete_Fourier_transform_(general)", 
+            "cacheId": "BsFsWDR0qccJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Pontryagin duality - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Pontryagin duality - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Pontryagin_duality", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Pontryagin_duality", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "225", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ9JNxtsD4QLv2A3CzoWog1iYQCcCTKpnz_ZN7ha7Quh-HlRipsSNdoCso", 
+                        "height": "225"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/2-adic_integers_with_dual_colorings.svg/300px-2-adic_integers_with_dual_colorings.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "4.1 Haar measure; 4.2 Fourier transform and Fourier inversion formula for L- ... \nThe group operation on the dual group is given by pointwise multiplication of\u00a0...", 
+            "htmlSnippet": "4.1 Haar measure; 4.2 <b>Fourier transform</b> and Fourier inversion formula for L- ... <br>\nThe group operation on the dual group is given by pointwise <b>multiplication</b> of&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Pontryagin_duality", 
+            "cacheId": "Kmru1nzXwWAJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Fourier transform multiplication", 
+                "safe": "off", 
+                "searchTerms": "Fourier transform multiplication", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "1240"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Fourier transform multiplication", 
+                "safe": "off", 
+                "searchTerms": "Fourier transform multiplication", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "1240"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.33", 
+        "formattedTotalResults": "1,240", 
+        "totalResults": "1240", 
+        "searchTime": 0.332178
+    }
+}

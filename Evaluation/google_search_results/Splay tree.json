@@ -1,0 +1,230 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Splay tree - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Splay tree</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Splay_tree", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Splay</b>_<b>tree</b>", 
+            "snippet": "A splay tree is a self-adjusting binary search tree with the additional property that \nrecently accessed elements are quick to access again. It performs basic\u00a0...", 
+            "htmlSnippet": "A <b>splay tree</b> is a self-adjusting binary search tree with the additional property that <br>\nrecently accessed elements are quick to access again. It performs basic&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Splay_tree", 
+            "cacheId": "0Os1SkU186wJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Splaysort - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Splaysort - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Splaysort", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Splay</b>sort", 
+            "snippet": "Based on the amortized analysis of splay trees, the worst case running time of \nsplaysort, on an input with n data items, is O(n log n), matching the time bounds \nfor\u00a0...", 
+            "htmlSnippet": "Based on the amortized analysis of <b>splay trees</b>, the worst case running time of <br>\nsplaysort, on an input with n data items, is O(n log n), matching the time bounds <br>\nfor&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Splaysort", 
+            "cacheId": "lExYk_OfKLkJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Splay tree - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Splay tree</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3ASplay_tree", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>Splay</b>_<b>tree</b>", 
+            "snippet": "I've been trying to work out a way to balance a splay tree since I saw this article's \nclaim that splay trees are \"self-balancing\" and support O(log N) \"amortized\u00a0...", 
+            "htmlSnippet": "I&#39;ve been trying to work out a way to balance a <b>splay tree</b> since I saw this article&#39;s <br>\nclaim that <b>splay trees</b> are &quot;self-balancing&quot; and support O(log N) &quot;amortized&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3ASplay_tree", 
+            "cacheId": "cB26_7L6oqkJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Link/cut tree - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Link/cut <b>tree</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Link/cut_tree", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Link/cut_<b>tree</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "285", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRZ5sGTJkJHLqQqYkdfoaOwUECy9l8lKNNBqTbFcw9gJMkWzBztnvJO7sM", 
+                        "height": "177"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/9/98/Linkcuttree1.png"
+                    }
+                ]
+            }, 
+            "snippet": "Link/cut trees divide each tree in the represented forest into vertex-disjoint paths, \nwhere each path is represented by an auxiliary tree (often splay trees, though\u00a0...", 
+            "htmlSnippet": "Link/cut trees divide each tree in the represented forest into vertex-disjoint paths, <br>\nwhere each path is represented by an auxiliary tree (often <b>splay trees</b>, though&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Link/cut_tree", 
+            "cacheId": "YcOgea9gFMoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Optimal binary search tree - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Optimal binary search <b>tree</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Optimal_binary_search_tree", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Optimal_binary_search_<b>tree</b>", 
+            "snippet": "[edit]. Main article: Splay tree. The splay tree is a data structure invented in 1985 \nby Daniel Sleator and Robert Tarjan which is\u00a0...", 
+            "htmlSnippet": "[edit]. Main article: <b>Splay tree</b>. The <b>splay tree</b> is a data structure invented in 1985 <br>\nby Daniel Sleator and Robert Tarjan which is&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Optimal_binary_search_tree", 
+            "cacheId": "vnG3sy6AYDUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Daniel Sleator - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Daniel Sleator - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Daniel_Sleator", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Daniel_Sleator", 
+            "pagemap": {
+                "hcard": [
+                    {
+                        "category": "Computer Science", 
+                        "fn": "Daniel Sleator"
+                    }
+                ]
+            }, 
+            "snippet": "He was one of the pioneers in amortized analysis of algorithms, early examples \nof which were the analyses of the move-to-front heuristic, and splay trees.", 
+            "htmlSnippet": "He was one of the pioneers in amortized analysis of algorithms, early examples <br>\nof which were the analyses of the move-to-front heuristic, and <b>splay trees</b>.", 
+            "link": "https://en.wikipedia.org/wiki/Daniel_Sleator", 
+            "cacheId": "9rLQ_55rhWcJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Iacono's working set structure - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Iacono&#39;s working set structure - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Iacono's_working_set_structure", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Iacono&#39;s_working_set_structure", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTHjUoJat46w0tqE00LOHLVJCeaBfRycX-tYKtz9TrfuAMAdWR7yOcp9ko", 
+                        "height": "160"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Working_Set_DS.svg/220px-Working_Set_DS.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "Tree T_k and deque Q_k consist of the remaining elements, i.e., their size is n .... \nMoreover, the Working Set Theorem for splay trees states that the cost to\u00a0...", 
+            "htmlSnippet": "Tree T_k and deque Q_k consist of the remaining elements, i.e., their size is n .... <br>\nMoreover, the Working Set Theorem for <b>splay trees</b> states that the cost to&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Iacono's_working_set_structure", 
+            "cacheId": "WVuqwfogx1QJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "List of data structures - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "List of data structures - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/List_of_data_structures", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/List_of_data_structures", 
+            "snippet": "3 Trees. 3.1 Binary trees; 3.2 B-trees; 3.3 Heaps; 3.4 Trees; 3.5 Multiway trees; \n3.6 ... In these data structures each tree node compares a bit slice of key values.", 
+            "htmlSnippet": "3 <b>Trees</b>. 3.1 Binary <b>trees</b>; 3.2 B-<b>trees</b>; 3.3 Heaps; 3.4 <b>Trees</b>; 3.5 Multiway <b>trees</b>; <br>\n3.6 ... In these data structures each <b>tree</b> node compares a bit slice of key values.", 
+            "link": "https://en.wikipedia.org/wiki/List_of_data_structures", 
+            "cacheId": "UrUn6P_KW0YJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Self-balancing binary search tree - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Self-balancing binary search <b>tree</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Self-balancing_binary_search_tree", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Self-balancing_binary_search_<b>tree</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "200", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSuEhMCvAhPGMFlJ1JJumOMVpYued2ABSO_8X3ihZ_hyIxVFRbo04kNPqM", 
+                        "height": "200"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Unbalanced_binary_tree.svg/251px-Unbalanced_binary_tree.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "In computer science, a self-balancing (or height-balanced) binary search tree is \nany node-based binary search tree that automatically keeps its height (maximal\u00a0...", 
+            "htmlSnippet": "In computer science, a self-balancing (or height-balanced) binary search <b>tree</b> is <br>\nany node-based binary search <b>tree</b> that automatically keeps its height (maximal&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Self-balancing_binary_search_tree", 
+            "cacheId": "Lvk38SyMqlEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Geometry of binary search trees - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Geometry of binary search <b>trees</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Geometry_of_binary_search_trees", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Geometry_of_binary_search_<b>trees</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "237", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS5R_TC2G8WHrgoBcrwlNnRckJ2sSsrc8jmfc_NxgfNc7qAUVUfeI_MgudB", 
+                        "height": "212"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Geometrical_view_of_binary_search_trees_-_access_sequence_only.jpg/320px-Geometrical_view_of_binary_search_trees_-_access_sequence_only.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "Any particular algorithm for maintaining binary search trees (such as the splay \ntree algorithm or Iacono's working set structure) has a cost for each access\u00a0...", 
+            "htmlSnippet": "Any particular algorithm for maintaining binary search trees (such as the <b>splay</b> <br>\n<b>tree</b> algorithm or Iacono&#39;s working set structure) has a cost for each access&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Geometry_of_binary_search_trees", 
+            "cacheId": "YK96XYcricYJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Splay tree", 
+                "safe": "off", 
+                "searchTerms": "Splay tree", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "475"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Splay tree", 
+                "safe": "off", 
+                "searchTerms": "Splay tree", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "475"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.26", 
+        "formattedTotalResults": "475", 
+        "totalResults": "475", 
+        "searchTime": 0.261584
+    }
+}

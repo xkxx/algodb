@@ -1,0 +1,233 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Skip list - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Skip list</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Skip_list", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Skip</b>_<b>list</b>", 
+            "snippet": "In computer science, a skip list is a data structure that allows fast search within an \nordered sequence of elements. Fast search is made possible by maintaining a\u00a0...", 
+            "htmlSnippet": "In computer science, a <b>skip list</b> is a data structure that allows fast search within an <br>\nordered sequence of elements. Fast search is made possible by maintaining a&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Skip_list", 
+            "cacheId": "glCAt62LaGgJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Skip graph - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Skip</b> graph - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Skip_graph", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Skip</b>_graph", 
+            "snippet": "Skip graphs are a kind of distributed data structure based on skip lists. They were \ninvented in 2003 by James Aspnes and Gauri Shah. They have the full\u00a0...", 
+            "htmlSnippet": "Skip graphs are a kind of distributed data structure based on <b>skip lists</b>. They were <br>\ninvented in 2003 by James Aspnes and Gauri Shah. They have the full&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Skip_graph", 
+            "cacheId": "gTZOfhKBi7AJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Finger search - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Finger search - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Finger_search", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Finger_search", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQtbgTM0q-zuPD9sYjzNU27PWss2wRNSMh-YlgAB05dgdE5eb_OD5YOEVYm", 
+                        "height": "172"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Performing_finger_searches_on_treaps.svg/220px-Performing_finger_searches_on_treaps.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "In a skip list, one can finger search for x from a node containing the element y by \nsimply continuing the search from this point. Note that if x < y, then search\u00a0...", 
+            "htmlSnippet": "In a <b>skip list</b>, one can finger search for x from a node containing the element y by <br>\nsimply continuing the search from this point. Note that if x &lt; y, then search&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Finger_search", 
+            "cacheId": "LOF_BF6D5U8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "William Pugh - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "William Pugh - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/William_Pugh", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/William_Pugh", 
+            "pagemap": {
+                "hcard": [
+                    {
+                        "url": "www.cs.umd.edu/~pugh/", 
+                        "bday": "1960-06-14", 
+                        "category": "Computer Science, Software Engineering", 
+                        "url_text": "www.cs.umd.edu/~pugh/", 
+                        "fn": "Bill Pugh"
+                    }
+                ]
+            }, 
+            "snippet": "William Worthington \"Bill\" Pugh Jr. (born 1960) is an American computer scientist \nwho invented the skip list and the Omega test for deciding Presburger\u00a0...", 
+            "htmlSnippet": "William Worthington &quot;Bill&quot; Pugh Jr. (born 1960) is an American computer scientist <br>\nwho invented the <b>skip list</b> and the Omega test for deciding Presburger&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/William_Pugh", 
+            "cacheId": "SWAQCtwPtgcJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Unrolled linked list - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Unrolled linked <b>list</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Unrolled_linked_list", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Unrolled_linked_<b>list</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "144", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQizbLN6DSJbXSE57SAR6pnsR7VTJy2m8S_DIhA006Hs3Btf2GyvzAZ2BY", 
+                        "height": "127"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Unrolled_linked_lists_(1-8).PNG/180px-Unrolled_linked_lists_(1-8).PNG"
+                    }
+                ]
+            }, 
+            "snippet": "In computer programming, an unrolled linked list is a variation on the linked list ... \nanother array/singly-linked list hybrid designed for fast lookup; the skip list,\u00a0...", 
+            "htmlSnippet": "In computer programming, an unrolled linked list is a variation on the linked list ... <br>\nanother array/singly-linked list hybrid designed for fast lookup; the <b>skip list</b>,&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Unrolled_linked_list", 
+            "cacheId": "5tIoWZqUi08J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "List of Skip Beat! characters - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>List</b> of <b>Skip</b> Beat! characters - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/List_of_Skip_Beat!_characters", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>List</b>_of_<b>Skip</b>_Beat!_characters", 
+            "snippet": "The \u201cSkip Beat!\u201d universe, or Sukippu B\u012bto (\u30b9\u30ad\u30c3\u30d7\u30fb\u30d3\u30fc\u30c8!) in Japanese, consists \nof a large array of characters. Yoshiki Nakamura has created a fictional world\u00a0...", 
+            "htmlSnippet": "The \u201c<b>Skip</b> Beat!\u201d universe, or Sukippu B\u012bto (\u30b9\u30ad\u30c3\u30d7\u30fb\u30d3\u30fc\u30c8!) in Japanese, consists <br>\nof a large array of characters. Yoshiki Nakamura has created a fictional world&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/List_of_Skip_Beat!_characters", 
+            "cacheId": "nwgR_JA-EvYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "List of Skip Beat! episodes - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>List</b> of <b>Skip</b> Beat! episodes - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/List_of_Skip_Beat!_episodes", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>List</b>_of_<b>Skip</b>_Beat!_episodes", 
+            "snippet": "This is a list of episodes of the anime series Skip Beat!, based on the manga \nseries of the same name written by Yoshiki Nakamura. Produced by Hal Film \nMaker,\u00a0...", 
+            "htmlSnippet": "This is a <b>list</b> of episodes of the anime series <b>Skip</b> Beat!, based on the manga <br>\nseries of the same name written by Yoshiki Nakamura. Produced by Hal Film <br>\nMaker,&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/List_of_Skip_Beat!_episodes", 
+            "cacheId": "YOmDE5PQtGIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "List of Skip Beat! chapters - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>List</b> of <b>Skip</b> Beat! chapters - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/List_of_Skip_Beat!_chapters", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>List</b>_of_<b>Skip</b>_Beat!_chapters", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTyOyXBJ-4olEZGGfBv4euEtZI5JVbsfgBk9l11nFE5n6vRAh_vyMrKK1Z2", 
+                        "height": "277"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/Skip-Beat!_cover_vol01.jpg/220px-Skip-Beat!_cover_vol01.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "The chapters of the ongoing Japanese sh\u014djo manga series Skip Beat! are written \nand illustrated by Yoshiki Nakamura. It is the story of Kyoko Mogami,\u00a0...", 
+            "htmlSnippet": "The chapters of the ongoing Japanese sh\u014djo manga series <b>Skip</b> Beat! are written <br>\nand illustrated by Yoshiki Nakamura. It is the story of Kyoko Mogami,&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/List_of_Skip_Beat!_chapters", 
+            "cacheId": "gQIKL0EpgMoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "List of data structures - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>List</b> of data structures - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/List_of_data_structures", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>List</b>_of_data_structures", 
+            "snippet": "For a wider list of terms, see list of terms relating to algorithms and data structures\n. For a comparison of running time of subset of this list see comparison of data \nstructures. ... Doubly linked list \u00b7 Array list \u00b7 Linked list \u00b7 Self-organizing list \u00b7 Skip \nlist\u00a0...", 
+            "htmlSnippet": "For a wider list of terms, see list of terms relating to algorithms and data structures<br>\n. For a comparison of running time of subset of this list see comparison of data <br>\nstructures. ... Doubly linked list &middot; Array list &middot; Linked list &middot; Self-organizing list &middot; <b>Skip</b> <br>\n<b>list</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/List_of_data_structures", 
+            "cacheId": "UrUn6P_KW0YJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Bloom filter - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Bloom filter - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Bloom_filter", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Bloom_filter", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "238", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTcnYPpq6GUQrR0PCiwQ7noxrVuHroSQTQIXxzJJN0R2Hp1GErHHqHo7jNr", 
+                        "height": "212"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Bloom_filter_speed.svg/360px-Bloom_filter_speed.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "This article includes a list of references, but its sources remain unclear because it \nhas insufficient inline ... Bloom filter; Count\u2013min sketch \u00b7 Quotient filter \u00b7 Skip list.", 
+            "htmlSnippet": "This article includes a list of references, but its sources remain unclear because it <br>\nhas insufficient inline ... Bloom filter; Count\u2013min sketch &middot; Quotient filter &middot; <b>Skip list</b>.", 
+            "link": "https://en.wikipedia.org/wiki/Bloom_filter", 
+            "cacheId": "wInl2bV9ruUJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Skip list", 
+                "safe": "off", 
+                "searchTerms": "Skip list", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "26000"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Skip list", 
+                "safe": "off", 
+                "searchTerms": "Skip list", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "26000"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.30", 
+        "formattedTotalResults": "26,000", 
+        "totalResults": "26000", 
+        "searchTime": 0.304108
+    }
+}

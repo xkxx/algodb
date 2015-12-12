@@ -1,0 +1,261 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Technos acxel - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Technos acxel - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Technos_acxel", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Technos_acxel", 
+            "snippet": "The Technos Acxel is a resynthesizer, launched by the Quebec-based Technos \ncorporation in 1987. Operation[edit]. The Technos Acxel may look similar in\u00a0...", 
+            "htmlSnippet": "The Technos Acxel is a <b>resynthesizer</b>, launched by the Quebec-based Technos <br>\ncorporation in 1987. Operation[edit]. The Technos Acxel may look similar in&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Technos_acxel", 
+            "cacheId": "oK_Qvtb_fOUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Inpainting - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Inpainting - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Inpainting", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Inpainting", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "280", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2Jllow_5SCsQl0WP2GLmvgqopm8usgRbu9KtjMN3sMuiSkaX3hVO9lA", 
+                        "height": "104"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Restoration.jpg/350px-Restoration.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "Resynthesizer. An open source Gimp plug-in for inpainting and texture \nexpanding. Photo restoration software which implements image inpainting by \nMaxim\u00a0...", 
+            "htmlSnippet": "<b>Resynthesizer</b>. An open source Gimp plug-in for inpainting and texture <br>\nexpanding. Photo restoration software which implements image inpainting by <br>\nMaxim&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Inpainting", 
+            "cacheId": "lzWYTyIXhf0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "File:Pisgah Home Historic District, Highland Park.JPG - Wikipedia ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "File:Pisgah Home Historic District, Highland Park.JPG - Wikipedia <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../File:Pisgah_Home_Historic_District,_Highland_ Park.JPG", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../File:Pisgah_Home_Historic_District,_Highland_ Park.JPG", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "232", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrj-cs2mb2IYrQvis2URoD6ZsekYfhYror8unxj0YcaCodmmuXPi9X2vF3", 
+                        "height": "217"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Pisgah_Home_Historic_District,_Highland_Park.JPG/641px-Pisgah_Home_Historic_District,_Highland_Park.JPG"
+                    }
+                ], 
+                "hproduct": [
+                    {
+                        "fn": "Pisgah Home Historic District, Highland Park.JPG"
+                    }
+                ]
+            }, 
+            "snippet": "Modifications: perspective corrected in hugin, a slice on the lower right hand side \n(mostly bushes) filled in with the GIMP Resynthesizer plugin to avoid cropping\u00a0...", 
+            "htmlSnippet": "Modifications: perspective corrected in hugin, a slice on the lower right hand side <br>\n(mostly bushes) filled in with the GIMP <b>Resynthesizer</b> plugin to avoid cropping&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/File:Pisgah_Home_Historic_District,_Highland_Park.JPG", 
+            "cacheId": "zH0lrhEE4uAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "iZotope - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "iZotope - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/IZotope", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/IZotope", 
+            "snippet": "... re-synthesizer featuring spectral selection tools; Nectar 2 (released 11/2013) \n\u2014 vocal production suite; Ozone 6 and Ozone 6 Advanced (released October 30,\n\u00a0...", 
+            "htmlSnippet": "... <b>re-synthesizer</b> featuring spectral selection tools; Nectar 2 (released 11/2013) <br>\n\u2014 vocal production suite; Ozone 6 and Ozone 6 Advanced (released October 30,<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/IZotope", 
+            "cacheId": "yrJCWm-stNgJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Linear predictive coding - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Linear predictive coding - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Linear_predictive_coding", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Linear_predictive_coding", 
+            "snippet": "Linear predictive coding (LPC) is a tool used mostly in audio signal processing \nand speech processing for representing the spectral envelope of a digital signal\u00a0...", 
+            "htmlSnippet": "Linear predictive coding (LPC) is a tool used mostly in audio signal processing <br>\nand speech processing for representing the spectral envelope of a digital signal&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Linear_predictive_coding", 
+            "cacheId": "ac7_mYFuNs0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Prosoniq - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Prosoniq - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Prosoniq", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Prosoniq", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "160", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQYT2xBmDWnDEBz1h1Iz1U0gpaeFLhYcMq746_ejZFsvEShL4QtsPJn7A", 
+                        "height": "77"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/5/5e/PQ-logo.jpg"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "category": "Software", 
+                        "fn": "Prosoniq Products GmbH"
+                    }
+                ]
+            }, 
+            "snippet": "OrangeVocoder VST/RTAS vocoder plug-in - Hartmann Neuron synthesizer - \nHartmann NeuronVS synthesizer - Magenta resynthesizer - Rayverb inverse ray\n\u00a0...", 
+            "htmlSnippet": "OrangeVocoder VST/RTAS vocoder plug-in - Hartmann Neuron synthesizer - <br>\nHartmann NeuronVS synthesizer - Magenta <b>resynthesizer</b> - Rayverb inverse ray<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Prosoniq", 
+            "cacheId": "PIjYK2cCKxEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Wikipedia:Graphics Lab/Images to improve/Archive/Dec 2006 ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Wikipedia:Graphics Lab/Images to improve/Archive/Dec 2006 <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Wikipedia:Graphics...to.../Dec_2006", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Wikipedia:Graphics...to.../Dec_2006", 
+            "snippet": "What I did was I first constructed a crude mask of the figures, scaled down the \nimage and used the Resynthesizer plugin to remove the figures. I then scaled the\n\u00a0...", 
+            "htmlSnippet": "What I did was I first constructed a crude mask of the figures, scaled down the <br>\nimage and used the <b>Resynthesizer</b> plugin to remove the figures. I then scaled the<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Wikipedia:Graphics_Lab/Images_to_improve/Archive/Dec_2006", 
+            "cacheId": "i1ZRQ5qwxZkJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Texture synthesis - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Texture synthesis - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Patch-based_texture_synthesis", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Patch-based_texture_synthesis", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTwYTuYxgh-SR-v0bHFA-ho72MnI5xSfcADK95caghEgf6TfBYsII7DyqmM", 
+                        "height": "132"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Ahorn-Maser_Holz.JPG/220px-Ahorn-Maser_Holz.JPG"
+                    }
+                ]
+            }, 
+            "snippet": "Texturize \u00b7 Resynthesizer. A pixel-based texture synthesis implementation: \nParallel Controllable Texture Synthesis. Patch-based texture synthesis:.", 
+            "htmlSnippet": "Texturize &middot; <b>Resynthesizer</b>. A pixel-based texture synthesis implementation: <br>\nParallel Controllable Texture Synthesis. Patch-based texture synthesis:.", 
+            "link": "https://en.wikipedia.org/wiki/Patch-based_texture_synthesis", 
+            "cacheId": "9_yNnVvt-lwJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Wikipedia:Graphics Lab/Images to improve/Archive/Aug 2007 ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Wikipedia:Graphics Lab/Images to improve/Archive/Aug 2007 <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Wikipedia:Graphics.../Aug_2007", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Wikipedia:Graphics.../Aug_2007", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "287", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTCrEAKWnrKxrTO1kPlu2Ee5eNH6keU_ZlPcpxhW-yCoLtSiIGju5g2aLBC", 
+                        "height": "176"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/SanFranLabor.jpg/375px-SanFranLabor.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "I had to play with resynthesizer quite a bit to correct the resulting gaps along the \nwrinkle line, so I went ahead and corrected some of those white lines too.", 
+            "htmlSnippet": "I had to play with <b>resynthesizer</b> quite a bit to correct the resulting gaps along the <br>\nwrinkle line, so I went ahead and corrected some of those white lines too.", 
+            "link": "https://en.wikipedia.org/wiki/Wikipedia:Graphics_Lab/Images_to_improve/Archive/Aug_2007", 
+            "cacheId": "m4YYi4yxBDYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Timeline of United States inventions (1890\u20131945) - Wikipedia, the ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Timeline of United States inventions (1890\u20131945) - Wikipedia, the <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../Timeline_of_United_States_inventions_ (1890\u20131945)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Timeline_of_United_States_inventions_ (1890\u20131945)", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSMLBa4wmallCt6S4poPWLwFTkzkzLC0hsutGyErqSSTQ1ASNEq-Fkp6Xte", 
+                        "height": "230"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Dr._Robert_H._Goddard_-_GPN-2002-000131.jpg/220px-Dr._Robert_H._Goddard_-_GPN-2002-000131.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "The decoder applies these control signals to corresponding filters in the (re)\nsynthesizer. Research physicist Homer Dudley invented the Vocoder at Bell Labs \nin\u00a0...", 
+            "htmlSnippet": "The decoder applies these control signals to corresponding filters in the (<b>re)</b><br>\n<b>synthesizer</b>. Research physicist Homer Dudley invented the Vocoder at Bell Labs <br>\nin&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Timeline_of_United_States_inventions_(1890%E2%80%931945)", 
+            "cacheId": "gaCFw3kfC2QJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Resynthesizer", 
+                "safe": "off", 
+                "searchTerms": "Resynthesizer", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "31"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Resynthesizer", 
+                "safe": "off", 
+                "searchTerms": "Resynthesizer", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "31"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.24", 
+        "formattedTotalResults": "31", 
+        "totalResults": "31", 
+        "searchTime": 0.236856
+    }
+}

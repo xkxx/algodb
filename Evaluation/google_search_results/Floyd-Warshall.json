@@ -1,0 +1,251 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Floyd\u2013Warshall algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Floyd</b>\u2013<b>Warshall</b> algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Floyd\u2013Warshall_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Floyd</b>\u2013<b>Warshall</b>_algorithm", 
+            "snippet": "In computer science, the Floyd\u2013Warshall algorithm is an algorithm for finding \nshortest paths in a weighted graph with positive or negative edge weights (but \nwith\u00a0...", 
+            "htmlSnippet": "In computer science, the <b>Floyd</b>\u2013<b>Warshall</b> algorithm is an algorithm for finding <br>\nshortest paths in a weighted graph with positive or negative edge weights (but <br>\nwith&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Floyd%E2%80%93Warshall_algorithm", 
+            "cacheId": "N7zr5n9KM3QJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Stephen Warshall - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Stephen <b>Warshall</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Stephen_Warshall", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Stephen_<b>Warshall</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSDsUZNArYNtnqiqYCoXG-sBzNMM3mbh7MgkNe_qWJVdY_7gvdOPDh2mvE", 
+                        "height": "236"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/S_Warshall.jpg/220px-S_Warshall.jpg"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "bday": "1935-11-15", 
+                        "fn": "Stephen Warshall"
+                    }
+                ]
+            }, 
+            "snippet": "Known for, Floyd\u2013Warshall algorithm. Stephen Warshall (November 15, 1935 \u2013 \nDecember 11, 2006) was born in New York City. During his career, Warshall\u00a0...", 
+            "htmlSnippet": "Known for, <b>Floyd</b>\u2013<b>Warshall</b> algorithm. Stephen Warshall (November 15, 1935 \u2013 <br>\nDecember 11, 2006) was born in New York City. During his career, Warshall&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Stephen_Warshall", 
+            "cacheId": "RZFebF62wbUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Floyd\u2013Warshall algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Floyd</b>\u2013<b>Warshall</b> algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3AFloyd\u2013Warshall_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>Floyd</b>\u2013<b>Warshall</b>_algorithm", 
+            "snippet": "1 Path reconstruction Incorrect; 2 Litmus Testing; 3 Simpler path reconstruction; 4 \nFloyd's and Warshall's algorithms are not the same! 5 Litmus Test\u00a0...", 
+            "htmlSnippet": "1 Path reconstruction Incorrect; 2 Litmus Testing; 3 Simpler path reconstruction; 4 <br>\n<b>Floyd&#39;s</b> and <b>Warshall&#39;s</b> algorithms are not the same! 5 Litmus Test&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3AFloyd%E2%80%93Warshall_algorithm", 
+            "cacheId": "92qjyovc9LAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Robert W. Floyd - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Robert W. <b>Floyd</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Robert_W._Floyd", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Robert_W._<b>Floyd</b>", 
+            "pagemap": {
+                "hcard": [
+                    {
+                        "bday": "1936-06-08", 
+                        "category": "Computer science", 
+                        "fn": "Robert W Floyd"
+                    }
+                ]
+            }, 
+            "snippet": "Robert W (Bob) Floyd (June 8, 1936 \u2013 September 25, 2001) was an eminent \ncomputer scientist. His contributions include the design of the Floyd\u2013Warshall\u00a0...", 
+            "htmlSnippet": "Robert W (Bob) Floyd (June 8, 1936 \u2013 September 25, 2001) was an eminent <br>\ncomputer scientist. His contributions include the design of the <b>Floyd</b>\u2013<b>Warshall</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Robert_W._Floyd", 
+            "cacheId": "vY_NTcg2jNAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Widest path problem - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Widest path problem - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Widest_path_problem", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Widest_path_problem", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "192", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSf5FMAW9aPYjQSaFMCkZHDU7v90fY2X4GMnCYtO6rqJ18J4SAK4vQ_928", 
+                        "height": "244"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CPT-Graphs-undirected-weighted.svg/240px-CPT-Graphs-undirected-weighted.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "Instead, the reference implementation for the Schulze method uses a modified \nversion of the simpler Floyd\u2013Warshall algorithm, which takes O(n3) time.", 
+            "htmlSnippet": "Instead, the reference implementation for the Schulze method uses a modified <br>\nversion of the simpler <b>Floyd</b>\u2013<b>Warshall</b> algorithm, which takes O(n<sup>3</sup>) time.", 
+            "link": "https://en.wikipedia.org/wiki/Widest_path_problem", 
+            "cacheId": "gnAUO5rJSYEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Min-plus matrix multiplication - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Min-plus matrix multiplication - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Min-plus_matrix_multiplication", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Min-plus_matrix_multiplication", 
+            "snippet": "See also[edit]. Floyd\u2013Warshall algorithm \u00b7 Tropical geometry: The distance \nproduct is equivalent to standard matrix multiplication in the tropical semi-ring.", 
+            "htmlSnippet": "See also[edit]. <b>Floyd</b>\u2013<b>Warshall</b> algorithm &middot; Tropical geometry: The distance <br>\nproduct is equivalent to standard matrix multiplication in the tropical semi-ring.", 
+            "link": "https://en.wikipedia.org/wiki/Min-plus_matrix_multiplication", 
+            "cacheId": "wZg4Gp3JEJ8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Reachability - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Reachability - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Reachability", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Reachability", 
+            "snippet": "The Floyd\u2013Warshall algorithm can be used to compute the transitive closure of \nany directed graph, which gives rise to the reachability relation as in the definition\n\u00a0...", 
+            "htmlSnippet": "The <b>Floyd</b>\u2013<b>Warshall</b> algorithm can be used to compute the transitive closure of <br>\nany directed graph, which gives rise to the reachability relation as in the definition<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Reachability", 
+            "cacheId": "KrJzwG1pT5QJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Shortest path problem - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Shortest path problem - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Shortest_path_problem", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Shortest_path_problem", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQMpn1Rnz_E4TtCgOuILOpwSyXinNPw4gekHR0GUm8Oza4RCm6jgv6527Y", 
+                        "height": "116"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/6n-graf.svg/220px-6n-graf.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "Floyd\u2013Warshall algorithm solves all pairs shortest paths. ... algorithm solves all \npairs shortest paths, and may be faster than Floyd\u2013Warshall on sparse graphs.", 
+            "htmlSnippet": "<b>Floyd</b>\u2013<b>Warshall</b> algorithm solves all pairs shortest paths. ... algorithm solves all <br>\npairs shortest paths, and may be faster than <b>Floyd</b>\u2013<b>Warshall</b> on sparse graphs.", 
+            "link": "https://en.wikipedia.org/wiki/Shortest_path_problem", 
+            "cacheId": "p8nrvK-HScMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Johnson's algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Johnson&#39;s algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Johnson's_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Johnson&#39;s_algorithm", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "356", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRppIqUlwvK2X665YuLuxwuH2rt-ypW16tG1QADFoqvbfFyfKnxty3h074", 
+                        "height": "141"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Johnson's_algorithm.svg/540px-Johnson's_algorithm.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "... each of V instantiations of Dijkstra's algorithm. Thus, when the graph is sparse, \nthe total time can be faster than the Floyd\u2013Warshall algorithm, which solves the\u00a0...", 
+            "htmlSnippet": "... each of V instantiations of Dijkstra&#39;s algorithm. Thus, when the graph is sparse, <br>\nthe total time can be faster than the <b>Floyd</b>\u2013<b>Warshall</b> algorithm, which solves the&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Johnson's_algorithm", 
+            "cacheId": "9QlkuiRAO10J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Bellman\u2013Ford algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Bellman\u2013Ford algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Bellman\u2013Ford_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Bellman\u2013Ford_algorithm", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVLoDrUYBsjQddwnoIkU2ja9Kk9Qq0nsiybgYQcDEMMEvBx3h_vZAlVvw", 
+                        "height": "188"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Bellman-Ford_worst-case_example.svg/220px-Bellman-Ford_worst-case_example.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "... Edmonds \u00b7 Floyd\u2013Warshall \u00b7 Fringe search \u00b7 Hill climbing \u00b7 IDA* \u00b7 Iterative \ndeepening \u00b7 Johnson \u00b7 Jump point \u00b7 Kruskal \u00b7 Lexicographic BFS \u00b7 Prim \u00b7 SMA*.", 
+            "htmlSnippet": "... Edmonds &middot; <b>Floyd</b>\u2013<b>Warshall</b> &middot; Fringe search &middot; Hill climbing &middot; IDA* &middot; Iterative <br>\ndeepening &middot; Johnson &middot; Jump point &middot; Kruskal &middot; Lexicographic BFS &middot; Prim &middot; SMA*.", 
+            "link": "https://en.wikipedia.org/wiki/Bellman%E2%80%93Ford_algorithm", 
+            "cacheId": "HGn7_oMfMCkJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Floyd-Warshall", 
+                "safe": "off", 
+                "searchTerms": "Floyd-Warshall", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "281"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Floyd-Warshall", 
+                "safe": "off", 
+                "searchTerms": "Floyd-Warshall", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "281"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.27", 
+        "formattedTotalResults": "281", 
+        "totalResults": "281", 
+        "searchTime": 0.274567
+    }
+}

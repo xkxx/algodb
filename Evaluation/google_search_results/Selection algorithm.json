@@ -1,0 +1,194 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Selection algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Selection algorithm</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Selection_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Selection</b>_<b>algorithm</b>", 
+            "snippet": "In computer science, a selection algorithm is an algorithm for finding the kth \nsmallest number in a list or array; such a number is called the kth order statistic.", 
+            "htmlSnippet": "In computer science, a <b>selection algorithm</b> is an algorithm for finding the kth <br>\nsmallest number in a list or array; such a number is called the kth order statistic.", 
+            "link": "https://en.wikipedia.org/wiki/Selection_algorithm", 
+            "cacheId": "3HYUkFLo3ZYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Quickselect - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Quickselect - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Quickselect", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Quick<b>select</b>", 
+            "snippet": "In computer science, quickselect is a selection algorithm to find the kth smallest \nelement in an unordered list. It is related to the quicksort sorting algorithm.", 
+            "htmlSnippet": "In computer science, quickselect is a <b>selection algorithm</b> to find the kth smallest <br>\nelement in an unordered list. It is related to the quicksort sorting algorithm.", 
+            "link": "https://en.wikipedia.org/wiki/Quickselect", 
+            "cacheId": "pH_5kIFkY98J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Category:Selection algorithms - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Category:<b>Selection algorithms</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Category:Selection_algorithms", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Category:<b>Selection</b>_<b>algorithms</b>", 
+            "snippet": "Category:Selection algorithms. From Wikipedia, the free encyclopedia. Jump to: \nnavigation, search. The main article for this category is Selection algorithm.", 
+            "htmlSnippet": "Category:<b>Selection algorithms</b>. From Wikipedia, the free encyclopedia. Jump to: <br>\nnavigation, search. The main article for this category is <b>Selection algorithm</b>.", 
+            "link": "https://en.wikipedia.org/wiki/Category:Selection_algorithms", 
+            "cacheId": "TMKF_TwOZm8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Clonal Selection Algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Clonal <b>Selection Algorithm</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Clonal_Selection_Algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Clonal_<b>Selection</b>_<b>Algorithm</b>", 
+            "snippet": "In artificial immune systems, Clonal selection algorithms are a class of algorithms \ninspired by the clonal selection theory of acquired immunity that explains how\u00a0...", 
+            "htmlSnippet": "In artificial immune systems, Clonal <b>selection algorithms</b> are a class of algorithms <br>\ninspired by the clonal selection theory of acquired immunity that explains how&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Clonal_Selection_Algorithm", 
+            "cacheId": "tAaAgWio9PcJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Median of medians - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Median of medians - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Median_of_medians", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Median_of_medians", 
+            "snippet": "In computer science, the median of medians algorithm is a selection algorithm \nbased on the quickselect algorithm, and is optimal, having worst-case linear time\n\u00a0...", 
+            "htmlSnippet": "In computer science, the median of medians algorithm is a <b>selection algorithm</b> <br>\nbased on the quickselect algorithm, and is optimal, having worst-case linear time<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Median_of_medians", 
+            "cacheId": "TnGuCD90hvkJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Selection sort - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Selection</b> sort - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Selection_sort", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Selection</b>_sort", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "200", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqW-tX09lefZmTj0ucNZTX7asAds3LnF-SdafvTQv80HgCIXQb0zGlL2m3", 
+                        "height": "200"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Selection_sort_animation.gif/250px-Selection_sort_animation.gif"
+                    }
+                ]
+            }, 
+            "snippet": "[edit]. Among simple average-case \u0398(n2) algorithms, selection sort almost always \noutperforms bubble\u00a0...", 
+            "htmlSnippet": "[edit]. Among simple average-case \u0398(n<sup>2</sup>) <b>algorithms</b>, <b>selection</b> sort almost always <br>\noutperforms bubble&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Selection_sort", 
+            "cacheId": "hnCZz3eE85EJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Floyd\u2013Rivest algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Floyd\u2013Rivest <b>algorithm</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Floyd\u2013Rivest_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Floyd\u2013Rivest_<b>algorithm</b>", 
+            "snippet": "In computer science, the Floyd-Rivest algorithm is a selection algorithm \ndeveloped by Robert W. Floyd and Ronald L. Rivest that has an optimal expected\n\u00a0...", 
+            "htmlSnippet": "In computer science, the Floyd-Rivest algorithm is a <b>selection algorithm</b> <br>\ndeveloped by Robert W. Floyd and Ronald L. Rivest that has an optimal expected<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Floyd%E2%80%93Rivest_algorithm", 
+            "cacheId": "0WnTjoX5mzIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Selection (genetic algorithm) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Selection</b> (genetic <b>algorithm</b>) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Selection_(genetic_algorithm)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Selection</b>_(genetic_<b>algorithm</b>)", 
+            "snippet": "Selection is the stage of a genetic algorithm in which individual genomes are \nchosen from a population for later breeding (using the crossover operator).", 
+            "htmlSnippet": "<b>Selection</b> is the stage of a genetic <b>algorithm</b> in which individual genomes are <br>\nchosen from a population for later breeding (using the crossover operator).", 
+            "link": "https://en.wikipedia.org/wiki/Selection_(genetic_algorithm)", 
+            "cacheId": "4zoVr716WioJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Activity selection problem - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Activity <b>selection</b> problem - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Activity_selection_problem", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Activity_<b>selection</b>_problem", 
+            "snippet": "Algorithm[edit]. 1 Greedy-Iterative-Activity-Selector(A, s, f): 2 3 Sort A by finish \ntimes stored in f' 4 5 S = {A[1]} 6 k = 1 7 8 n = A.length 9\u00a0...", 
+            "htmlSnippet": "<b>Algorithm</b>[edit]. 1 Greedy-Iterative-Activity-Selector(A, s, f): 2 3 Sort A by finish <br>\ntimes stored in f&#39; 4 5 S = {A[1]} 6 k = 1 7 8 n = A.length 9&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Activity_selection_problem", 
+            "cacheId": "LeR-j8FraKgJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Fitness proportionate selection - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Fitness proportionate <b>selection</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Fitness_proportionate_selection", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Fitness_proportionate_<b>selection</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "216", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQFriSC0IGzsJHb_azdXtr0_fVk6nsdW8246sFOCGRNHx1gS55uaWRPVaQ", 
+                        "height": "68"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Fitness_proportionate_selection_example.png/270px-Fitness_proportionate_selection_example.png"
+                    }
+                ]
+            }, 
+            "snippet": "Fitness proportionate selection, also known as roulette wheel selection, is a \ngenetic operator used in genetic algorithms for selecting potentially useful \nsolutions\u00a0...", 
+            "htmlSnippet": "Fitness proportionate <b>selection</b>, also known as roulette wheel <b>selection</b>, is a <br>\ngenetic operator used in genetic <b>algorithms</b> for selecting potentially useful <br>\nsolutions&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Fitness_proportionate_selection", 
+            "cacheId": "CinUVh_JAjMJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Selection algorithm", 
+                "safe": "off", 
+                "searchTerms": "Selection algorithm", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "8030"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Selection algorithm", 
+                "safe": "off", 
+                "searchTerms": "Selection algorithm", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "8030"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.42", 
+        "formattedTotalResults": "8,030", 
+        "totalResults": "8030", 
+        "searchTime": 0.416717
+    }
+}

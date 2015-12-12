@@ -1,0 +1,194 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Binary GCD algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Binary GCD algorithm</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Binary_GCD_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Binary</b>_<b>GCD</b>_<b>algorithm</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "212", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSakGIl4SgvtitOv4DfquRhxyuU2xEnrxx2juPDzoFt38XeyVdl1ghuavM", 
+                        "height": "238"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Binary_GCD_algorithm_visualisation.svg/400px-Binary_GCD_algorithm_visualisation.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "The binary GCD algorithm, also known as Stein's algorithm, is an algorithm that \ncomputes the greatest common divisor of two nonnegative integers. Stein's\u00a0...", 
+            "htmlSnippet": "The <b>binary GCD algorithm</b>, also known as Stein&#39;s algorithm, is an algorithm that <br>\ncomputes the greatest common divisor of two nonnegative integers. Stein&#39;s&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Binary_GCD_algorithm", 
+            "cacheId": "CxPf0CNyjQ4J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Greatest common divisor - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Greatest common divisor - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Greatest_common_divisor", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Greatest_common_divisor", 
+            "snippet": "In mathematics, the greatest common divisor (gcd) of two or more integers, .... \nThe Binary GCD algorithm is particularly easy to implement on binary computers.", 
+            "htmlSnippet": "In mathematics, the greatest common divisor (gcd) of two or more integers, .... <br>\nThe <b>Binary GCD algorithm</b> is particularly easy to implement on binary computers.", 
+            "link": "https://en.wikipedia.org/wiki/Greatest_common_divisor", 
+            "cacheId": "Kh_SoR_lsTwJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Binary GCD algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Binary GCD algorithm</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3ABinary_GCD_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>Binary</b>_<b>GCD</b>_<b>algorithm</b>", 
+            "snippet": "This is the talk page for discussing improvements to the Binary GCD algorithm \narticle. ... The comparison of the Binary GCD with GCD implemented by hardware\n\u00a0...", 
+            "htmlSnippet": "This is the talk page for discussing improvements to the <b>Binary GCD algorithm</b> <br>\narticle. ... The comparison of the Binary GCD with GCD implemented by hardware<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3ABinary_GCD_algorithm", 
+            "cacheId": "THUw7r9lhWQJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Euclidean algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Euclidean <b>algorithm</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Euclidean_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Euclidean_<b>algorithm</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "190", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTPdPkIvtfEH4tMKI0RbyKx0DroUx3qVd4o8wVNtihkVu-XAG2aZXUIpaE", 
+                        "height": "265"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Euclid's_algorithm_Book_VII_Proposition_2_3.png/300px-Euclid's_algorithm_Book_VII_Proposition_2_3.png"
+                    }
+                ]
+            }, 
+            "snippet": "The Euclidean algorithm calculates the greatest common divisor (GCD) of two \n...... The binary GCD algorithm is an efficient alternative that substitutes division\u00a0...", 
+            "htmlSnippet": "The Euclidean algorithm calculates the greatest common divisor (GCD) of two <br>\n...... The <b>binary GCD algorithm</b> is an efficient alternative that substitutes division&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Euclidean_algorithm", 
+            "cacheId": "Y__peSq19QMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Lehmer's GCD algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Lehmer&#39;s <b>GCD algorithm</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Lehmer's_GCD_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Lehmer&#39;s_<b>GCD</b>_<b>algorithm</b>", 
+            "snippet": "Lehmer's GCD algorithm, named after Derrick Henry Lehmer, is a fast GCD \nalgorithm, an improvement on the simpler but slower Euclidean algorithm. It is \nmainly\u00a0...", 
+            "htmlSnippet": "Lehmer&#39;s <b>GCD algorithm</b>, named after Derrick Henry Lehmer, is a fast <b>GCD</b> <br>\n<b>algorithm</b>, an improvement on the simpler but slower Euclidean <b>algorithm</b>. It is <br>\nmainly&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Lehmer's_GCD_algorithm", 
+            "cacheId": "3tL1XAOdgPsJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Computational complexity of mathematical operations - Wikipedia ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Computational complexity of mathematical operations - Wikipedia <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../Computational_complexity_of_mathematical_ operations", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Computational_complexity_of_mathematical_ operations", 
+            "snippet": "Operation, Input, Output, Algorithm, Complexity ... Sch\u00f6nhage\u2013Strassen \nalgorithm, O(n log n log log n) .... Left/right k-ary binary GCD algorithm, O(n2/ log \nn).", 
+            "htmlSnippet": "Operation, Input, Output, Algorithm, Complexity ... Sch\u00f6nhage\u2013Strassen <br>\nalgorithm, O(n log n log log n) .... Left/right k-ary <b>binary GCD algorithm</b>, O(n<sup>2</sup>/ log <br>\nn).", 
+            "link": "https://en.wikipedia.org/wiki/Computational_complexity_of_mathematical_operations", 
+            "cacheId": "btNcRqLeZOoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "GCD - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>GCD</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/GCD", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>GCD</b>", 
+            "snippet": "GCD. From Wikipedia, the free encyclopedia. Jump to: navigation, search ... \nBinary GCD algorithm, an algorithm which computes the greatest common divisor\n\u00a0...", 
+            "htmlSnippet": "GCD. From Wikipedia, the free encyclopedia. Jump to: navigation, search ... <br>\n<b>Binary GCD algorithm</b>, an algorithm which computes the greatest common divisor<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/GCD", 
+            "cacheId": "b0nL_D3bpFEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Branch predication - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:Branch predication - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3ABranch_predication", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3ABranch_predication", 
+            "snippet": "The binary GCD algorithm in ARM assembly is probably appropriate on this page \n(but not on the page it references). I'm not sure how I copy the code from the\u00a0...", 
+            "htmlSnippet": "The <b>binary GCD algorithm</b> in ARM assembly is probably appropriate on this page <br>\n(but not on the page it references). I&#39;m not sure how I copy the code from the&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3ABranch_predication", 
+            "cacheId": "xf_VZ6uemikJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "List of terms relating to algorithms and data structures - Wikipedia ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "List of terms relating to algorithms and data structures - Wikipedia <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../List_of_terms_relating_to_algorithms_and_data_ structures", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../List_of_terms_relating_to_<b>algorithm</b>s_and_data_ structures", 
+            "snippet": "backtracking \u00b7 bag \u00b7 Baillie-PSW primality test \u00b7 balanced binary search tree ... \nbinary function \u00b7 binary GCD algorithm \u00b7 binary heap \u00b7 binary insertion sort \u00b7 binary\n\u00a0...", 
+            "htmlSnippet": "backtracking &middot; bag &middot; Baillie-PSW primality test &middot; balanced binary search tree ... <br>\nbinary function &middot; <b>binary GCD algorithm</b> &middot; binary heap &middot; binary insertion sort &middot; binary<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/List_of_terms_relating_to_algorithms_and_data_structures", 
+            "cacheId": "I9ZgFcoIPGUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Category:Number theoretic algorithms - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Category:Number theoretic algorithms - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Category:Number_theoretic_algorithms", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Category:Number_theoretic_<b>algorithm</b>s", 
+            "snippet": "Ancient Egyptian multiplication. B. Baby-step giant-step \u00b7 Bhaskara's lemma \u00b7 \nBinary GCD algorithm ... L. Lehmer's GCD algorithm. M. Modular exponentiation. \nP.", 
+            "htmlSnippet": "Ancient Egyptian multiplication. B. Baby-step giant-step &middot; Bhaskara&#39;s lemma &middot; <br>\n<b>Binary GCD algorithm</b> ... L. Lehmer&#39;s GCD algorithm. M. Modular exponentiation. <br>\nP.", 
+            "link": "https://en.wikipedia.org/wiki/Category:Number_theoretic_algorithms", 
+            "cacheId": "k35U4Qs5K9wJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Binary GCD algorithm", 
+                "safe": "off", 
+                "searchTerms": "Binary GCD algorithm", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "241"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Binary GCD algorithm", 
+                "safe": "off", 
+                "searchTerms": "Binary GCD algorithm", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "241"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.29", 
+        "formattedTotalResults": "241", 
+        "totalResults": "241", 
+        "searchTime": 0.288519
+    }
+}

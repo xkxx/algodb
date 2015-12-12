@@ -1,0 +1,208 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Rayleigh quotient iteration - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Rayleigh quotient iteration</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Rayleigh_quotient_iteration", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Rayleigh</b>_<b>quotient</b>_<b>iteration</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "103", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ5GFFjBAUhu6786L6zFGkmfg2EbfuGVHCJkyPcfB7Gu6l7-HKs_Gh6", 
+                        "height": "61"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/math/4/7/1/47188cadbf57c986ec70bb7bbc8eafc0.png"
+                    }
+                ]
+            }, 
+            "snippet": "Rayleigh quotient iteration is an eigenvalue algorithm which extends the idea of \nthe inverse iteration by using the Rayleigh quotient to obtain increasingly\u00a0...", 
+            "htmlSnippet": "<b>Rayleigh quotient iteration</b> is an eigenvalue algorithm which extends the idea of <br>\nthe inverse iteration by using the Rayleigh quotient to obtain increasingly&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Rayleigh_quotient_iteration", 
+            "cacheId": "Zsj3iS-8ZxoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Rayleigh quotient - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Rayleigh quotient</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Rayleigh_quotient", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Rayleigh</b>_<b>quotient</b>", 
+            "snippet": "The Rayleigh quotient is used in the min-max theorem to get exact values of all \neigenvalues. ... Specifically, this is the basis for Rayleigh quotient iteration.", 
+            "htmlSnippet": "The Rayleigh quotient is used in the min-max theorem to get exact values of all <br>\neigenvalues. ... Specifically, this is the basis for <b>Rayleigh quotient iteration</b>.", 
+            "link": "https://en.wikipedia.org/wiki/Rayleigh_quotient", 
+            "cacheId": "VzBbnDi8YtcJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Power iteration - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Power <b>iteration</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Power_iteration", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Power_<b>iteration</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "114", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSQqqTszgez9ArjJd31zbRpr0sD-njGlkVQf8s-hinfObrSNTjRljYPDQ", 
+                        "height": "43"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/math/3/b/d/3bd1a9b0f598a965e67d61ad319debc2.png"
+                    }
+                ]
+            }, 
+            "snippet": "In mathematics, the power iteration is an eigenvalue algorithm: given a matrix A, \n... radius (the largest eigenvalue) of a matrix by computing the Rayleigh quotient.", 
+            "htmlSnippet": "In mathematics, the power <b>iteration</b> is an eigenvalue algorithm: given a matrix A, <br>\n... radius (the largest eigenvalue) of a matrix by computing the <b>Rayleigh quotient</b>.", 
+            "link": "https://en.wikipedia.org/wiki/Power_iteration", 
+            "cacheId": "yUC6aKTgKmUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Inverse iteration - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Inverse <b>iteration</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Inverse_iteration", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Inverse_<b>iteration</b>", 
+            "snippet": "In numerical analysis, inverse iteration is an iterative eigenvalue algorithm. .... of \nthe approximate eigenvalue as the Rayleigh quotient corresponding to the\u00a0...", 
+            "htmlSnippet": "In numerical analysis, inverse <b>iteration</b> is an iterative eigenvalue algorithm. .... of <br>\nthe approximate eigenvalue as the <b>Rayleigh quotient</b> corresponding to the&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Inverse_iteration", 
+            "cacheId": "WJLxDiDAvaAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Eigenvalue algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Eigenvalue algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Eigenvalue_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Eigenvalue_algorithm", 
+            "snippet": "Power iteration finds the largest eigenvalue in absolute value, so even when \u03bb is \nonly ... Rayleigh quotient iteration, Hermitian, eigenpair with value closest to \u03bc\u00a0...", 
+            "htmlSnippet": "Power iteration finds the largest eigenvalue in absolute value, so even when \u03bb is <br>\nonly ... <b>Rayleigh quotient iteration</b>, Hermitian, eigenpair with value closest to \u03bc&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Eigenvalue_algorithm", 
+            "cacheId": "WeSAMpGy004J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Hermitian matrix - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Hermitian matrix - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Hermitian_matrix", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Hermitian_matrix", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "111", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQNJjLQiXUjjT8pnH8HxCAbvOVc-b6vc0eKxvd9rOdHvHEwDVtRq9x0qw", 
+                        "height": "58"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/math/7/0/a/70a550cb5afac32eeff4b1e89a90ec02.png"
+                    }
+                ]
+            }, 
+            "snippet": "1 Examples; 2 Properties; 3 Further properties; 4 Rayleigh quotient; 5 See also; 6 \nReferences .... Specifically, this is the basis for Rayleigh quotient iteration.", 
+            "htmlSnippet": "1 Examples; 2 Properties; 3 Further properties; 4 Rayleigh quotient; 5 See also; 6 <br>\nReferences .... Specifically, this is the basis for <b>Rayleigh quotient iteration</b>.", 
+            "link": "https://en.wikipedia.org/wiki/Hermitian_matrix", 
+            "cacheId": "u9DyFSW1OqYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Preconditioner - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Preconditioner - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Preconditioner", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Preconditioner", 
+            "snippet": "which has optimal condition number of 1, requiring a single iteration for .... The \nRayleigh quotient iteration is a shift-and-invert method with a variable shift.", 
+            "htmlSnippet": "which has optimal condition number of 1, requiring a single iteration for .... The <br>\n<b>Rayleigh quotient iteration</b> is a shift-and-invert method with a variable shift.", 
+            "link": "https://en.wikipedia.org/wiki/Preconditioner", 
+            "cacheId": "1aw6viilHT0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Book:Numerical Linear Algebra - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Book:Numerical Linear Algebra - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Book:Numerical_Linear_Algebra", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Book:Numerical_Linear_Algebra", 
+            "snippet": "... iteration \u00b7 Preconditioner \u00b7 Pseudospectrum \u00b7 QR algorithm \u00b7 QR decomposition \n\u00b7 Rayleigh quotient iteration \u00b7 Relaxation (iterative method) \u00b7 Row echelon form\u00a0...", 
+            "htmlSnippet": "... iteration &middot; Preconditioner &middot; Pseudospectrum &middot; QR algorithm &middot; QR decomposition <br>\n&middot; <b>Rayleigh quotient iteration</b> &middot; Relaxation (iterative method) &middot; Row echelon form&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Book:Numerical_Linear_Algebra", 
+            "cacheId": "RcEy0pwmai0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Category:Articles with example MATLAB/Octave code - Wikipedia ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Category:Articles with example MATLAB/Octave code - Wikipedia <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Category:Articles.../Octave_code", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Category:Articles.../Octave_code", 
+            "snippet": "M. MATLAB \u00b7 Minimum polynomial extrapolation \u00b7 Multivariate kernel density \nestimation. P. PageRank. R. Rayleigh quotient iteration \u00b7 Richardson \nextrapolation\u00a0...", 
+            "htmlSnippet": "M. MATLAB &middot; Minimum polynomial extrapolation &middot; Multivariate kernel density <br>\nestimation. P. PageRank. R. <b>Rayleigh quotient iteration</b> &middot; Richardson <br>\nextrapolation&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Category:Articles_with_example_MATLAB/Octave_code", 
+            "cacheId": "2jY_HiEPU4IJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Category:Numerical linear algebra - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Category:Numerical linear algebra - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Category:Numerical_linear_algebra", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Category:Numerical_linear_algebra", 
+            "snippet": "R. Rayleigh quotient iteration \u00b7 Relaxation (iterative method) \u00b7 Row echelon form \u00b7 \nRRQR factorization \u00b7 Rybicki Press algorithm\u00a0...", 
+            "htmlSnippet": "R. <b>Rayleigh quotient iteration</b> &middot; Relaxation (iterative method) &middot; Row echelon form &middot; <br>\nRRQR factorization &middot; Rybicki Press algorithm&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Category:Numerical_linear_algebra", 
+            "cacheId": "ufkagUZPyzEJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Rayleigh quotient iteration", 
+                "safe": "off", 
+                "searchTerms": "Rayleigh quotient iteration", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "43"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Rayleigh quotient iteration", 
+                "safe": "off", 
+                "searchTerms": "Rayleigh quotient iteration", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "43"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.25", 
+        "formattedTotalResults": "43", 
+        "totalResults": "43", 
+        "searchTime": 0.252365
+    }
+}

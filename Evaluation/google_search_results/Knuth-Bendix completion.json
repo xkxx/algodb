@@ -1,0 +1,218 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Knuth\u2013Bendix completion algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Knuth</b>\u2013<b>Bendix completion</b> algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Knuth\u2013Bendix_completion_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Knuth</b>\u2013<b>Bendix</b>_<b>completion</b>_algorithm", 
+            "snippet": "The Knuth\u2013Bendix completion algorithm (named after Donald Knuth and Peter \nBendix) is a semi-decision algorithm for transforming a set of equations (over\u00a0...", 
+            "htmlSnippet": "The <b>Knuth</b>\u2013<b>Bendix completion</b> algorithm (named after Donald Knuth and Peter <br>\nBendix) is a semi-decision algorithm for transforming a set of equations (over&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Knuth%E2%80%93Bendix_completion_algorithm", 
+            "cacheId": "yZ7yjP2wE_gJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Knuth\u2013Bendix completion algorithm - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Knuth</b>\u2013<b>Bendix completion</b> algorithm - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../Talk%3AKnuth-Bendix_completion_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Talk%3A<b>Knuth</b>-<b>Bendix</b>_<b>completion</b>_algorithm", 
+            "snippet": "(Redirected from Talk:Knuth-Bendix completion algorithm). Jump to: navigation ... \nI barely recognize KB completion from the current article. Maybe it's because I\u00a0...", 
+            "htmlSnippet": "(Redirected from Talk:<b>Knuth</b>-<b>Bendix completion</b> algorithm). Jump to: navigation ... <br>\nI barely recognize KB completion from the current article. Maybe it&#39;s because I&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3AKnuth-Bendix_completion_algorithm", 
+            "cacheId": "xMCb-HrRAfMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Word problem (mathematics) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Word problem (mathematics) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Word_problem_(mathematics)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Word_problem_(mathematics)", 
+            "snippet": "Bl\u00e4sius and B\u00fcrckert demonstrate the Knuth\u2013Bendix algorithm on an axiom set \nfor groups. ... Term rewrite system obtained from Knuth\u2013Bendix completion\u00a0...", 
+            "htmlSnippet": "Bl\u00e4sius and B\u00fcrckert demonstrate the Knuth\u2013Bendix algorithm on an axiom set <br>\nfor groups. ... Term rewrite system obtained from <b>Knuth</b>\u2013<b>Bendix completion</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Word_problem_(mathematics)", 
+            "cacheId": "ebxFz9X3p2cJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Critical pair (logic) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Critical pair (logic) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Critical_pair_(logic)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Critical_pair_(logic)", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "275", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSmUIxaRTsZTm0CAHRUhVVD2x7z0rE4F7nAn5Wg14zd65fe11mWBnYtZA", 
+                        "height": "183"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/CritPair_svg.svg/400px-CritPair_svg.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "Knuth\u2013Bendix completion, an algorithm based on critical pairs to compute a \nconfluent and terminating term rewriting system equivalent to a given one\u00a0...", 
+            "htmlSnippet": "<b>Knuth</b>\u2013<b>Bendix completion</b>, an algorithm based on critical pairs to compute a <br>\nconfluent and terminating term rewriting system equivalent to a given one&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Critical_pair_(logic)", 
+            "cacheId": "ZHbI3pN7HpMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Encompassment ordering - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Encompassment ordering - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Encompassment_ordering", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Encompassment_ordering", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR8ZNmtNJU2uriFuSE-vQZYjRb2DkoF8jVXRPB2vfNm_xtz_3CIvRIk6ds", 
+                        "height": "180"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Encompassment_ordering_on_terms_s,t_svg.svg/220px-Encompassment_ordering_on_terms_s,t_svg.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "... preorder (\u2264) on the set of terms, is defined by. s \u2264 t if a subterm of t is a \nsubstitution instance of s. It is used e.g. in the Knuth\u2013Bendix completion algorithm\n.", 
+            "htmlSnippet": "... preorder (\u2264) on the set of terms, is defined by. s \u2264 t if a subterm of t is a <br>\nsubstitution instance of s. It is used e.g. in the <b>Knuth</b>\u2013<b>Bendix completion</b> algorithm<br>\n.", 
+            "link": "https://en.wikipedia.org/wiki/Encompassment_ordering", 
+            "cacheId": "JLQhbKk2jM8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Category:Donald Knuth - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Category:Donald <b>Knuth</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Category:Donald_Knuth", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Category:Donald_<b>Knuth</b>", 
+            "snippet": "Donald Ervin Knuth (born January 10, 1938) is a computer scientist and ... \nnotation \u00b7 Knuth\u2013Bendix completion algorithm \u00b7 Knuth\u2013Morris\u2013Pratt algorithm\u00a0...", 
+            "htmlSnippet": "Donald Ervin Knuth (born January 10, 1938) is a computer scientist and ... <br>\nnotation &middot; <b>Knuth</b>\u2013<b>Bendix completion</b> algorithm &middot; Knuth\u2013Morris\u2013Pratt algorithm&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Category:Donald_Knuth", 
+            "cacheId": "YcQLXk6DgX4J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Path ordering (term rewriting) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Path ordering (term rewriting) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Path_ordering_(term_rewriting)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Path_ordering_(term_rewriting)", 
+            "snippet": "A path ordering is often used as reduction ordering in term rewriting, in particular \nin the Knuth\u2013Bendix completion algorithm. As an example, a term rewriting\u00a0...", 
+            "htmlSnippet": "A path ordering is often used as reduction ordering in term rewriting, in particular <br>\nin the <b>Knuth</b>\u2013<b>Bendix completion</b> algorithm. As an example, a term rewriting&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Path_ordering_(term_rewriting)", 
+            "cacheId": "bzrItHKOT9wJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Template:Donald Knuth navbox - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Template:Donald <b>Knuth</b> navbox - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Template:Donald_Knuth_navbox", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Template:Donald_<b>Knuth</b>_navbox", 
+            "snippet": "Template:Donald Knuth navbox. From Wikipedia, the ... Knuth's Algorithm X \u00b7 \nKnuth\u2013Bendix completion algorithm \u00b7 Knuth\u2013Morris\u2013Pratt algorithm \u00b7 Knuth \nshuffle\u00a0...", 
+            "htmlSnippet": "Template:Donald Knuth navbox. From Wikipedia, the ... Knuth&#39;s Algorithm X &middot; <br>\n<b>Knuth</b>\u2013<b>Bendix completion</b> algorithm &middot; Knuth\u2013Morris\u2013Pratt algorithm &middot; Knuth <br>\nshuffle&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Template:Donald_Knuth_navbox", 
+            "cacheId": "sgdACb1LZjcJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Donald Knuth - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Donald <b>Knuth</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Donald_Knuth", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Donald_<b>Knuth</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "153", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQsk5_F3os6RKY-mfI9zfu2ZYkuGDfk-ANGMSf3fPNDpSI5vO0bziw5lM0", 
+                        "height": "181"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/KnuthAtOpenContentAlliance.jpg/192px-KnuthAtOpenContentAlliance.jpg"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "category": "Mathematics Computer science", 
+                        "url_text": "cs.stanford.edu/~uno", 
+                        "url": "cs.stanford.edu/~uno", 
+                        "bday": "1938-01-10", 
+                        "nickname": "\u9ad8\u5fb7\u7eb3[1][2][3]", 
+                        "fn": "Donald Knuth"
+                    }
+                ]
+            }, 
+            "snippet": "Knuth\u2013Morris\u2013Pratt algorithm \u00b7 Knuth\u2013Bendix completion algorithm ... Knuth has \nbeen called the \"father of the analysis of algorithms\". He contributed to the\u00a0...", 
+            "htmlSnippet": "Knuth\u2013Morris\u2013Pratt algorithm &middot; <b>Knuth</b>\u2013<b>Bendix completion</b> algorithm ... Knuth has <br>\nbeen called the &quot;father of the analysis of algorithms&quot;. He contributed to the&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Donald_Knuth", 
+            "cacheId": "l2dVh_IlHs0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Completion - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Completion</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Completion", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Completion</b>", 
+            "snippet": "Completion (metric space) \u2014 constructing the smallest complete metric space ... \nKnuth\u2013Bendix completion algorithm \u2014 transforming an equation set into a\u00a0...", 
+            "htmlSnippet": "Completion (metric space) \u2014 constructing the smallest complete metric space ... <br>\n<b>Knuth</b>\u2013<b>Bendix completion</b> algorithm \u2014 transforming an equation set into a&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Completion", 
+            "cacheId": "tUEgtst7XP0J"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Knuth-Bendix completion", 
+                "safe": "off", 
+                "searchTerms": "Knuth-Bendix completion", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "78"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Knuth-Bendix completion", 
+                "safe": "off", 
+                "searchTerms": "Knuth-Bendix completion", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "78"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.26", 
+        "formattedTotalResults": "78", 
+        "totalResults": "78", 
+        "searchTime": 0.258214
+    }
+}

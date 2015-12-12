@@ -1,0 +1,208 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Merge sort - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Merge sort</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Merge_sort", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Merge</b>_<b>sort</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "240", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTuWZxJArKEvX9MLa5gO_4rMxlDPk3_iiUEZ1aJiXjbINPgfIf4BPqkVGuj", 
+                        "height": "144"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Merge-sort-example-300px.gif"
+                    }
+                ]
+            }, 
+            "snippet": "An example of merge sort. First divide the list into the smallest unit (1 element), \nthen compare each element with the adjacent list to sort and merge the two\u00a0...", 
+            "htmlSnippet": "An example of <b>merge sort</b>. First divide the list into the smallest unit (1 element), <br>\nthen compare each element with the adjacent list to sort and merge the two&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Merge_sort", 
+            "cacheId": "IbQYEmUDyJIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Polyphase merge sort - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Polyphase <b>merge sort</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Polyphase_merge_sort", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Polyphase_<b>merge</b>_<b>sort</b>", 
+            "snippet": "A polyphase merge sort is an algorithm which decreases the number of runs at \nevery iteration of the main loop by merging runs into larger runs. It is used for\u00a0...", 
+            "htmlSnippet": "A polyphase <b>merge sort</b> is an algorithm which decreases the number of runs at <br>\nevery iteration of the main loop by merging runs into larger runs. It is used for&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Polyphase_merge_sort", 
+            "cacheId": "1xDUHK9r16sJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Sort-merge join - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Sort</b>-<b>merge</b> join - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Sort-merge_join", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Sort</b>-<b>merge</b>_join", 
+            "snippet": "The sort-merge join (also known as merge join) is a join algorithm and is used in \nthe implementation of a relational database management system. The basic\u00a0...", 
+            "htmlSnippet": "The <b>sort</b>-<b>merge</b> join (also known as <b>merge</b> join) is a join algorithm and is used in <br>\nthe implementation of a relational database management system. The basic&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Sort-merge_join", 
+            "cacheId": "TTJo7HshoykJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "External sorting - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "External <b>sorting</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/External_sorting", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/External_<b>sorting</b>", 
+            "snippet": "[edit]. One example of external sorting is the external merge sort algorithm, which \nsorts chunks that each fit in RAM, then\u00a0...", 
+            "htmlSnippet": "[edit]. One example of external sorting is the external <b>merge sort</b> algorithm, which <br>\nsorts chunks that each fit in RAM, then&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/External_sorting", 
+            "cacheId": "VDzx1mvwWrMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Batcher odd\u2013even mergesort - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Batcher odd\u2013even <b>mergesort</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Batcher_odd\u2013even_mergesort", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Batcher_odd\u2013even_<b>mergesort</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "250", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTDe_24_DBimQkf1y2RokRKwCTLd29vtr4ltXMnUafhyHAk36zSI5VgcvY", 
+                        "height": "202"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Batcher_Odd-Even_Mergesort_for_eight_inputs.svg/356px-Batcher_Odd-Even_Mergesort_for_eight_inputs.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "Batcher's odd\u2013even mergesort is a generic construction devised by Ken Batcher \nfor sorting networks of size O(n (log n)2) and depth O((log n)2), where n is the\u00a0...", 
+            "htmlSnippet": "Batcher&#39;s odd\u2013even <b>mergesort</b> is a generic construction devised by Ken Batcher <br>\nfor sorting networks of size O(n (log n)<sup>2</sup>) and depth O((log n)<sup>2</sup>), where n is the&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Batcher_odd%E2%80%93even_mergesort", 
+            "cacheId": "8Jf4lzsENnwJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Oscillating merge sort - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Oscillating <b>merge sort</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Oscillating_merge_sort", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Oscillating_<b>merge</b>_<b>sort</b>", 
+            "snippet": "Oscillating merge sort or oscillating sort is a variation of merge sort used with \ntape drives that can read backwards. Instead of doing a complete distribution as \nis\u00a0...", 
+            "htmlSnippet": "Oscillating <b>merge sort</b> or oscillating sort is a variation of <b>merge sort</b> used with <br>\ntape drives that can read backwards. Instead of doing a complete distribution as <br>\nis&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Oscillating_merge_sort", 
+            "cacheId": "6eQpw8LMclcJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Cascade merge sort - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Cascade <b>merge sort</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Cascade_merge_sort", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Cascade_<b>merge</b>_<b>sort</b>", 
+            "snippet": "Cascade merge sort is similar to the polyphase merge sort but uses a simpler \ndistribution. The merge is slower than a polyphase merge when there are fewer\u00a0...", 
+            "htmlSnippet": "Cascade <b>merge sort</b> is similar to the polyphase <b>merge sort</b> but uses a simpler <br>\ndistribution. The merge is slower than a polyphase merge when there are fewer&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Cascade_merge_sort", 
+            "cacheId": "_KG1RiSCP-EJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Bitonic sorter - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Bitonic sorter - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Bitonic_sorter", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Bitonic_<b>sort</b>er", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "244", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQvWhB-yagFmumdY3jRKdKh2GmAaBGRNPTququi43Yp4FIPak1mmTMixQ4u", 
+                        "height": "144"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Batcher_Bitonic_Mergesort_for_eight_inputs.svg/305px-Batcher_Bitonic_Mergesort_for_eight_inputs.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "Bitonic mergesort is a parallel algorithm for sorting. It is also used as a \nconstruction method for building a sorting network. The algorithm was devised by \nKen\u00a0...", 
+            "htmlSnippet": "Bitonic <b>mergesort</b> is a parallel algorithm for sorting. It is also used as a <br>\nconstruction method for building a sorting network. The algorithm was devised by <br>\nKen&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Bitonic_sorter", 
+            "cacheId": "yquY9QPpSB0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Adaptive sort - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Adaptive <b>sort</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Adaptive_sort", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Adaptive_<b>sort</b>", 
+            "snippet": "A sorting algorithm falls into the adaptive sort family if it takes advantage of ... \nnotably heap sort and merge sort, do not take existing order within their input into\n\u00a0...", 
+            "htmlSnippet": "A sorting algorithm falls into the adaptive sort family if it takes advantage of ... <br>\nnotably heap sort and <b>merge sort</b>, do not take existing order within their input into<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Adaptive_sort", 
+            "cacheId": "DbTSGucI8zEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Mainframe sort merge - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Mainframe <b>sort merge</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Mainframe_sort_merge", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Mainframe_<b>sort</b>_<b>merge</b>", 
+            "snippet": "The Sort/Merge utility is a mainframe program to sort records in a file into a \nspecified order, merge pre-sorted files into a sorted file, or copy selected records.", 
+            "htmlSnippet": "The <b>Sort</b>/<b>Merge</b> utility is a mainframe program to <b>sort</b> records in a file into a <br>\nspecified order, <b>merge</b> pre-sorted files into a sorted file, or copy selected records.", 
+            "link": "https://en.wikipedia.org/wiki/Mainframe_sort_merge", 
+            "cacheId": "hBsaq2Fcoz0J"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Merge sort", 
+                "safe": "off", 
+                "searchTerms": "Merge sort", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "11100"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Merge sort", 
+                "safe": "off", 
+                "searchTerms": "Merge sort", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "11100"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.33", 
+        "formattedTotalResults": "11,100", 
+        "totalResults": "11100", 
+        "searchTime": 0.326951
+    }
+}

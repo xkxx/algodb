@@ -1,0 +1,180 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Risch algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Risch algorithm</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Risch_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Risch</b>_<b>algorithm</b>", 
+            "snippet": "The Risch algorithm, named after Robert Henry Risch, is an algorithm for \nindefinite integration (i.e., finding antiderivatives in calculus). The algorithm is \nused in\u00a0...", 
+            "htmlSnippet": "The <b>Risch algorithm</b>, named after Robert Henry Risch, is an algorithm for <br>\nindefinite integration (i.e., finding antiderivatives in calculus). The algorithm is <br>\nused in&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Risch_algorithm", 
+            "cacheId": "Sqkq4MjuHoIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Symbolic integration - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Symbolic integration - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Symbolic_integration", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Symbolic_integration", 
+            "snippet": "A procedure called the Risch algorithm exists which is capable of determining if \nthe integral of an elementary function (function built from a finite number of\u00a0...", 
+            "htmlSnippet": "A procedure called the <b>Risch algorithm</b> exists which is capable of determining if <br>\nthe integral of an elementary function (function built from a finite number of&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Symbolic_integration", 
+            "cacheId": "KbxlipesPw0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Risch algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Risch algorithm</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3ARisch_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>Risch</b>_<b>algorithm</b>", 
+            "snippet": "The Risch decision procedure is not formally an algorithm because it requires an \noracle that decides whether a constant expression is zero, a problem shown by\u00a0...", 
+            "htmlSnippet": "The <b>Risch</b> decision procedure is not formally an <b>algorithm</b> because it requires an <br>\noracle that decides whether a constant expression is zero, a problem shown by&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3ARisch_algorithm", 
+            "cacheId": "Hp94pVP40IUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "User:CRGreathouse/Risch - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "User:CRGreathouse/<b>Risch</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/User:CRGreathouse/Risch", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/User:CRGreathouse/<b>Risch</b>", 
+            "snippet": "Integrates expr with respect to x using the transcendental case of the Risch \nalgorithm. (The algebraic case of the Risch algorithm has not been implemented.\n)\u00a0...", 
+            "htmlSnippet": "Integrates expr with respect to x using the transcendental case of the <b>Risch</b> <br>\n<b>algorithm</b>. (The algebraic case of the <b>Risch algorithm</b> has not been implemented.<br>\n)&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/User:CRGreathouse/Risch", 
+            "cacheId": "YxIM5817CvMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Elementary function - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Elementary function - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Elementary_function", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Elementary_function", 
+            "snippet": "... that is not elementary is the error function. \\mathrm{erf}(x)=\\frac{2}{\\. a fact that \nmay not be immediately obvious, but can be proven using the Risch algorithm.", 
+            "htmlSnippet": "... that is not elementary is the error function. \\mathrm{erf}(x)=\\frac{2}{\\. a fact that <br>\nmay not be immediately obvious, but can be proven using the <b>Risch algorithm</b>.", 
+            "link": "https://en.wikipedia.org/wiki/Elementary_function", 
+            "cacheId": "3xlhtOHrgKcJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Differential Galois theory - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:Differential Galois theory - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3ADifferential_Galois_theory", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3ADifferential_Galois_theory", 
+            "snippet": "I started writing something into the Risch algorithm page, which then required the \nelementary function page, after which I discovered this article. My knowledge\u00a0...", 
+            "htmlSnippet": "I started writing something into the <b>Risch algorithm</b> page, which then required the <br>\nelementary function page, after which I discovered this article. My knowledge&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3ADifferential_Galois_theory", 
+            "cacheId": "l_hX4YmSxP4J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Computer algebra system - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Computer algebra system - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Computer_algebra_system", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Computer_algebra_system", 
+            "snippet": "a programming language, allowing users to implement their own algorithms ... \nSymbolic integration via e.g. Risch algorithm or Risch-Norman algorithm\u00a0...", 
+            "htmlSnippet": "a programming language, allowing users to implement their own algorithms ... <br>\nSymbolic integration via e.g. <b>Risch algorithm</b> or Risch-Norman algorithm&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Computer_algebra_system", 
+            "cacheId": "4PwKFK53rzIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Axiom (computer algebra system) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Axiom (computer algebra system) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Axiom_(computer_algebra_system)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Axiom_(computer_algebra_system)", 
+            "snippet": "Axiom matrix manipulation. Axiom computing a Risch integral. Axiom has an \nimplementation of the Risch algorithm for elementary integration, which was \ndone\u00a0...", 
+            "htmlSnippet": "Axiom matrix manipulation. Axiom computing a Risch integral. Axiom has an <br>\nimplementation of the <b>Risch algorithm</b> for elementary integration, which was <br>\ndone&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Axiom_(computer_algebra_system)", 
+            "cacheId": "Cvs1wiuEOJEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Liouville's theorem (differential algebra) - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Liouville&#39;s theorem (differential algebra) - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../Liouville's_theorem_(differential_algebra)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Liouville&#39;s_theorem_(differential_algebra)", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "204", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTRw6v2IWqfXuQpF49N-oOdHcETgKepT1LWKa_IYPi-_oblFu08Ip0aKStT", 
+                        "height": "247"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/math/2/5/f/25fd0cb89242253a888c966ea68fa87e.png"
+                    }
+                ]
+            }, 
+            "snippet": "Algorithms for Computer Algebra. Kluwer Academic Publishers. ISBN 0-7923-\n9259-0. Magid, Andy R. (1994), ... See also[edit]. Risch algorithm. Retrieved from\n\u00a0...", 
+            "htmlSnippet": "Algorithms for Computer Algebra. Kluwer Academic Publishers. ISBN 0-7923-<br>\n9259-0. Magid, Andy R. (1994), ... See also[edit]. <b>Risch algorithm</b>. Retrieved from<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Liouville's_theorem_(differential_algebra)", 
+            "cacheId": "8kFdnv6k1I0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Timeline of algorithms - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Timeline of <b>algorithms</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Timeline_of_algorithms", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Timeline_of_<b>algorithms</b>", 
+            "snippet": "1600 BC - Babylonians develop earliest known algorithms for factorization and ... \n1968 - Risch algorithm for indefinite integration developed by Robert Henry\u00a0...", 
+            "htmlSnippet": "1600 BC - Babylonians develop earliest known algorithms for factorization and ... <br>\n1968 - <b>Risch algorithm</b> for indefinite integration developed by Robert Henry&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Timeline_of_algorithms", 
+            "cacheId": "bX_hzRNkUiIJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Risch algorithm", 
+                "safe": "off", 
+                "searchTerms": "Risch algorithm", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "88"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Risch algorithm", 
+                "safe": "off", 
+                "searchTerms": "Risch algorithm", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "88"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.24", 
+        "formattedTotalResults": "88", 
+        "totalResults": "88", 
+        "searchTime": 0.243916
+    }
+}

@@ -1,0 +1,236 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Topological sorting - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Topological sorting</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Topological_sorting", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Topological</b>_<b>sorting</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "144", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRus2wh-C4PVp_WwNS8oQMX7M5SQ1MLPiMtpaQnCXCYrlUU1LqzN1ZuaX4", 
+                        "height": "116"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Directed_acyclic_graph_2.svg/180px-Directed_acyclic_graph_2.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "In the field of computer science, a topological sort (sometimes abbreviated \ntoposort) or topological ordering of a directed graph is a linear ordering of its \nvertices\u00a0...", 
+            "htmlSnippet": "In the field of computer science, a <b>topological sort</b> (sometimes abbreviated <br>\ntoposort) or topological ordering of a directed graph is a linear ordering of its <br>\nvertices&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Topological_sorting", 
+            "cacheId": "StiEC1kaPy8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "tsort - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "tsort - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Tsort", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/T<b>sort</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "244", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSDuLLUwffQqs8lM_TqauD2q181hTKfjwIATP9y7nFHsA5kpNn8O36kKTnX", 
+                        "height": "196"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Directed_acyclic_graph_2.svg/305px-Directed_acyclic_graph_2.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "... location, see Discworld geography#Tsort. The tsort program is a command line \nutility on Unix-like platforms, that performs a topological sort on its input.", 
+            "htmlSnippet": "... location, see Discworld geography#Tsort. The tsort program is a command line <br>\nutility on Unix-like platforms, that performs a <b>topological sort</b> on its input.", 
+            "link": "https://en.wikipedia.org/wiki/Tsort", 
+            "cacheId": "NUmb7euxQvoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Topological sorting - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Topological sorting</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3ATopological_sorting", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>Topological</b>_<b>sorting</b>", 
+            "snippet": "The article says 'Any DAG has a topological sort, and in fact must have many.' \nThis is untrue. You can have a simple, linear DAG that has only 1 topological sort.", 
+            "htmlSnippet": "The article says &#39;Any DAG has a <b>topological sort</b>, and in fact must have many.&#39; <br>\nThis is untrue. You can have a simple, linear DAG that has only 1 <b>topological sort</b>.", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3ATopological_sorting", 
+            "cacheId": "0yu0-1kYkHwJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Linear extension - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Linear extension - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Linear_extension", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Linear_extension", 
+            "snippet": "The order extension principle is constructively provable for finite sets using \ntopological sorting algorithms, where the partial order is represented by a \ndirected\u00a0...", 
+            "htmlSnippet": "The order extension principle is constructively provable for finite sets using <br>\n<b>topological sorting</b> algorithms, where the partial order is represented by a <br>\ndirected&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Linear_extension", 
+            "cacheId": "ac-Tr6qF_WwJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Directed acyclic graph - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Directed acyclic graph - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Directed_acyclic_graph", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Directed_acyclic_graph", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "265", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb_h_7r5YNPSFVLLsALLODSI7QuYR5LlW9NtPIJOD2p3c7NW2LFfowVXv_", 
+                        "height": "190"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Directed_acyclic_graph_3.svg/356px-Directed_acyclic_graph_3.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "Topological sorting is the algorithmic problem of finding topological orderings; it \ncan be solved in linear time. Kahn's algorithm for topological sorting builds the\u00a0...", 
+            "htmlSnippet": "<b>Topological sorting</b> is the algorithmic problem of finding topological orderings; it <br>\ncan be solved in linear time. Kahn&#39;s algorithm for <b>topological sorting</b> builds the&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Directed_acyclic_graph", 
+            "cacheId": "RouDjS-b3ZkJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "User:KSDTS - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "User:KSDTS - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/User:KSDTS", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/User:KSDTS", 
+            "snippet": "Dynamic Topological Sorting is the problem of updating a topological sort of \nsome graph after a new edge has been inserted. For a directed acyclic graph,\u00a0...", 
+            "htmlSnippet": "Dynamic <b>Topological Sorting</b> is the problem of updating a <b>topological sort</b> of <br>\nsome graph after a new edge has been inserted. For a directed acyclic graph,&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/User:KSDTS", 
+            "cacheId": "fyX9QPtLsF4J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Dependency graph - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Dependency graph - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Dependency_graph", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Dependency_graph", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "224", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRPKeA1ct4FGwJJPrpDS79f6O88mOdMhLcc-1yQUCWlZ1ejJNF14hzdjz0", 
+                        "height": "115"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Dependencygraph.png"
+                    }
+                ]
+            }, 
+            "snippet": "If a dependency graph does not have any circular dependencies, it forms a \ndirected acyclic graph, and an evaluation order may be found by topological \nsorting.", 
+            "htmlSnippet": "If a dependency graph does not have any circular dependencies, it forms a <br>\ndirected acyclic graph, and an evaluation order may be found by <b>topological</b> <br>\n<b>sorting</b>.", 
+            "link": "https://en.wikipedia.org/wiki/Dependency_graph", 
+            "cacheId": "HghedNm1atIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Tarjan's strongly connected components algorithm - Wikipedia, the ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Tarjan&#39;s strongly connected components algorithm - Wikipedia, the <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../Tarjan's_strongly_connected_components_ algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Tarjan&#39;s_strongly_connected_components_ algorithm", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "200", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRf3mv_MP_AacFEI1a-3UOYtXLJ2wYbkpHR4VAiUS6CKwcIaoYFozeORg", 
+                        "height": "102"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Tarjan's_Algorithm_Animation.gif/250px-Tarjan's_Algorithm_Animation.gif"
+                    }
+                ]
+            }, 
+            "snippet": "Therefore, the order in which the strongly connected components are identified \nconstitutes a reverse topological sort of the DAG formed by the strongly\u00a0...", 
+            "htmlSnippet": "Therefore, the order in which the strongly connected components are identified <br>\nconstitutes a reverse <b>topological sort</b> of the DAG formed by the strongly&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Tarjan's_strongly_connected_components_algorithm", 
+            "cacheId": "wmz8yOjqj7oJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Topological order - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Topological</b> order - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Topological_order", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Topological</b>_order", 
+            "snippet": "For the graph-theoretical concept, see topological sort. In physics, topological \norder is a kind of order in zero-temperature phase of matter (also known as\u00a0...", 
+            "htmlSnippet": "For the graph-theoretical concept, see <b>topological sort</b>. In physics, topological <br>\norder is a kind of order in zero-temperature phase of matter (also known as&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Topological_order", 
+            "cacheId": "hsUUrE6HZkQJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "User:Khurram231 - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "User:Khurram231 - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/User:Khurram231", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/User:Khurram231", 
+            "snippet": "Dynamic Topological Sorting is the problem of updating a topological sort of \nsome graph after a new edge has been inserted. For a directed acyclic graph,\u00a0...", 
+            "htmlSnippet": "Dynamic <b>Topological Sorting</b> is the problem of updating a <b>topological sort</b> of <br>\nsome graph after a new edge has been inserted. For a directed acyclic graph,&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/User:Khurram231", 
+            "cacheId": "XFxlmyGgWvoJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Topological sort", 
+                "safe": "off", 
+                "searchTerms": "Topological sort", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "872"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Topological sort", 
+                "safe": "off", 
+                "searchTerms": "Topological sort", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "872"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.28", 
+        "formattedTotalResults": "872", 
+        "totalResults": "872", 
+        "searchTime": 0.279532
+    }
+}

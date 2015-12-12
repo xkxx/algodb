@@ -1,0 +1,194 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Pollard's rho algorithm for logarithms - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Pollard&#39;s rho algorithm for logarithms</b> - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Pollard's_rho_algorithm_for_logarithms", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Pollard&#39;s</b>_<b>rho</b>_<b>algorithm_for_logarithms</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "140", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSaSbim2P33w77aID39-QCjxNIpXOiIO6VzgK6GRhI50K7mK2egYm5dFNM", 
+                        "height": "56"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/math/5/3/3/533af701acd39cb60d43185ff001a163.png"
+                    }
+                ]
+            }, 
+            "snippet": "Pollard's rho algorithm for logarithms is an algorithm introduced by John Pollard \nin 1978 for solving the discrete logarithm problem analogous to Pollard's rho\u00a0...", 
+            "htmlSnippet": "<b>Pollard&#39;s rho algorithm for logarithms</b> is an algorithm introduced by John Pollard <br>\nin 1978 for solving the discrete logarithm problem analogous to Pollard&#39;s rho&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Pollard's_rho_algorithm_for_logarithms", 
+            "cacheId": "rW5BGP7FSQoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Pollard's rho algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Pollard&#39;s rho algorithm</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Pollard's_rho_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Pollard&#39;s</b>_<b>rho</b>_<b>algorithm</b>", 
+            "snippet": "This article is about the integer factorization algorithm. For the discrete logarithm \nalgorithm, see Pollard's rho algorithm for logarithms. Pollard's rho algorithm is a\u00a0...", 
+            "htmlSnippet": "This article is about the integer factorization algorithm. For the discrete logarithm <br>\nalgorithm, see <b>Pollard&#39;s rho algorithm for logarithms</b>. Pollard&#39;s rho algorithm is a&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Pollard's_rho_algorithm", 
+            "cacheId": "uKg6CQmQp7IJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Pollard's rho algorithm for logarithms - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Pollard&#39;s rho algorithm for logarithms</b> - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "en.wikipedia.org/.../Talk%3APollard's_rho_algorithm_for_logarithms", 
+            "htmlFormattedUrl": "en.wikipedia.org/.../Talk%3A<b>Pollard&#39;s</b>_<b>rho</b>_<b>algorithm_for_logarithms</b>", 
+            "snippet": "Talk:Pollard's rho algorithm for logarithms. From Wikipedia, the free ... I don't \ntotally understand this algorithm yet, but the bottom of the page says: That is 2^{\n172}\u00a0...", 
+            "htmlSnippet": "Talk:<b>Pollard&#39;s rho algorithm for logarithms</b>. From Wikipedia, the free ... I don&#39;t <br>\ntotally understand this algorithm yet, but the bottom of the page says: That is 2^{<br>\n172}&nbsp;...", 
+            "link": "http://en.wikipedia.org/wiki/Talk%3APollard's_rho_algorithm_for_logarithms", 
+            "cacheId": "lo07o6Wo9WQJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Pollard's kangaroo algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Pollard&#39;s</b> kangaroo <b>algorithm</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Pollard's_kangaroo_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Pollard&#39;s</b>_kangaroo_<b>algorithm</b>", 
+            "snippet": "We may search the entire range of possible logarithms by setting a=0 and b=n-1 , \nalthough in this case Pollard's rho algorithm is more efficient. We proceed as\u00a0...", 
+            "htmlSnippet": "We may search the entire range of possible <b>logarithms</b> by setting a=0 and b=n-1 , <br>\nalthough in this case <b>Pollard&#39;s rho algorithm</b> is more efficient. We proceed as&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Pollard's_kangaroo_algorithm", 
+            "cacheId": "wv0K0Bur5n8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Discrete logarithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Discrete <b>logarithm</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Discrete_logarithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Discrete_<b>logarithm</b>", 
+            "snippet": "No efficient classical algorithm for computing general discrete logarithms logb g \nis ... Pollard's rho algorithm for logarithms \u00b7 Pollard's kangaroo algorithm (aka\u00a0...", 
+            "htmlSnippet": "No efficient classical algorithm for computing general discrete logarithms logb g <br>\nis ... <b>Pollard&#39;s rho algorithm for logarithms</b> &middot; Pollard&#39;s kangaroo algorithm (aka&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Discrete_logarithm", 
+            "cacheId": "7imu4Vf2ay0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Baby-step giant-step - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Baby-step giant-step - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Baby-step_giant-step", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Baby-step_giant-step", 
+            "snippet": "The baby-step giant-step algorithm is based on rewriting x .... Alternatively one \ncan use Pollard's rho algorithm for logarithms, which has about the same running\n\u00a0...", 
+            "htmlSnippet": "The baby-step giant-step algorithm is based on rewriting x .... Alternatively one <br>\ncan use <b>Pollard&#39;s rho algorithm for logarithms</b>, which has about the same running<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Baby-step_giant-step", 
+            "cacheId": "lSrR_z_yF6EJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Index calculus algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Index calculus <b>algorithm</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Index_calculus_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Index_calculus_<b>algorithm</b>", 
+            "snippet": "In computational number theory, the index calculus algorithm is a probabilistic \nalgorithm for computing discrete logarithms. Dedicated to the discrete logarithm \nin\u00a0...", 
+            "htmlSnippet": "In computational number theory, the index calculus <b>algorithm</b> is a probabilistic <br>\n<b>algorithm</b> for computing discrete <b>logarithms</b>. Dedicated to the discrete <b>logarithm</b> <br>\nin&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Index_calculus_algorithm", 
+            "cacheId": "e5Unmk2NMM4J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Category:Logarithms - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Category:<b>Logarithms</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Category:Logarithms", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Category:<b>Logarithms</b>", 
+            "snippet": "The main article for this category is Logarithm. ... Pages in category \"Logarithms\" \n... Pollard's kangaroo algorithm \u00b7 Pollard's rho algorithm for logarithms \u00b7 Prime\u00a0...", 
+            "htmlSnippet": "The main article for this category is Logarithm. ... Pages in category &quot;Logarithms&quot; <br>\n... Pollard&#39;s kangaroo algorithm &middot; <b>Pollard&#39;s rho algorithm for logarithms</b> &middot; Prime&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Category:Logarithms", 
+            "cacheId": "tDDg6zIOi9AJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Rho (disambiguation) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Rho</b> (disambiguation) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Rho_(disambiguation)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Rho</b>_(disambiguation)", 
+            "snippet": "Jump to: navigation, search. Rho (\u03a1 or \u03c1) is a letter of the Greek alphabet. Rho \nalso ... Spectral radius in a spherical coordinate system; Pollard's rho algorithm \u00b7 \nPollard's rho algorithm for logarithms. in physics. Density of a material; Volume\u00a0...", 
+            "htmlSnippet": "Jump to: navigation, search. Rho (\u03a1 or \u03c1) is a letter of the Greek alphabet. Rho <br>\nalso ... Spectral radius in a spherical coordinate system; Pollard&#39;s rho algorithm &middot; <br>\n<b>Pollard&#39;s rho algorithm for logarithms</b>. in physics. Density of a material; Volume&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Rho_(disambiguation)", 
+            "cacheId": "TRscjXmuD-YJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Cycle detection - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Cycle detection - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Cycle_detection", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Cycle_detection", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "192", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSraBrRQPoLVmpJ_DGRL32QOm6htW2LrWgBIiTDb61g2aqA14g3ILfl2zs", 
+                        "height": "145"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Functional_graph.svg/240px-Functional_graph.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "In some applications, and in particular in Pollard's rho algorithm for integer .... \nassumption that the input function is random) is logarithmic in the sequence \nlength.", 
+            "htmlSnippet": "In some applications, and in particular in <b>Pollard&#39;s rho algorithm</b> for integer .... <br>\nassumption that the input function is random) is <b>logarithmic</b> in the sequence <br>\nlength.", 
+            "link": "https://en.wikipedia.org/wiki/Cycle_detection", 
+            "cacheId": "XR6kDmkyTtkJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Pollard's rho algorithm for logarithms", 
+                "safe": "off", 
+                "searchTerms": "Pollard's rho algorithm for logarithms", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "128"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Pollard's rho algorithm for logarithms", 
+                "safe": "off", 
+                "searchTerms": "Pollard's rho algorithm for logarithms", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "128"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.27", 
+        "formattedTotalResults": "128", 
+        "totalResults": "128", 
+        "searchTime": 0.268584
+    }
+}

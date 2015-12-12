@@ -1,0 +1,244 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Kruskal's algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Kruskal&#39;s</b> algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Kruskal's_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Kruskal&#39;s</b>_algorithm", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "160", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQBl1V-6SgtkfBIstxFbHSavcmk60Ee_og61ou5_1KwmSsiYojnOu_8fTzk", 
+                        "height": "160"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/MST_kruskal_en.gif/200px-MST_kruskal_en.gif"
+                    }
+                ]
+            }, 
+            "snippet": "Kruskal's algorithm is a minimum-spanning-tree algorithm where the algorithm \nfinds an edge of the least possible weight that connects any two trees in the forest\n\u00a0...", 
+            "htmlSnippet": "<b>Kruskal&#39;s</b> algorithm is a minimum-spanning-tree algorithm where the algorithm <br>\nfinds an edge of the least possible weight that connects any two trees in the forest<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Kruskal's_algorithm", 
+            "cacheId": "VwYb882BkGcJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Joseph Kruskal - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Joseph <b>Kruskal</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Joseph_Kruskal", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Joseph_<b>Kruskal</b>", 
+            "snippet": "Joseph Bernard Kruskal, Jr was an American mathematician, statistician, \ncomputer scientist and psychometrician. He was a student at the University of \nChicago\u00a0...", 
+            "htmlSnippet": "Joseph Bernard <b>Kruskal</b>, Jr was an American mathematician, statistician, <br>\ncomputer scientist and psychometrician. He was a student at the University of <br>\nChicago&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Joseph_Kruskal", 
+            "cacheId": "CfPH3uJEsNQJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "William Kruskal - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "William <b>Kruskal</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/William_Kruskal", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/William_<b>Kruskal</b>", 
+            "snippet": "William Henry (\"Bill\") Kruskal (/\u02c8kr\u028csk\u0259l/; October 10, 1919 \u2013 April 21, 2005) was \nan American mathematician and statistician. He is best known for having\u00a0...", 
+            "htmlSnippet": "William Henry (&quot;Bill&quot;) <b>Kruskal</b> (/\u02c8kr\u028csk\u0259l/; October 10, 1919 \u2013 April 21, 2005) was <br>\nan American mathematician and statistician. He is best known for having&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/William_Kruskal", 
+            "cacheId": "OJWWbrkWC8MJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Kruskal - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Kruskal</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Kruskal", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Kruskal</b>", 
+            "snippet": "Kruskal may refer to any of the following, of whom the first three are brothers: \nWilliam Kruskal (1919\u20142005), American mathematician and statistician.", 
+            "htmlSnippet": "<b>Kruskal</b> may refer to any of the following, of whom the first three are brothers: <br>\nWilliam <b>Kruskal</b> (1919\u20142005), American mathematician and statistician.", 
+            "link": "https://en.wikipedia.org/wiki/Kruskal", 
+            "cacheId": "4X399NNsnk4J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Martin David Kruskal - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Martin David <b>Kruskal</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Martin_David_Kruskal", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Martin_David_<b>Kruskal</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRKU5_2Okn5peMzmf1KklSGqROMCG1gQGqJ1zLQ-dwnAoNpjRHs6-E_xhM", 
+                        "height": "264"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/d/db/Martin_David_Kruskal.jpg/220px-Martin_David_Kruskal.jpg"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "bday": "1925-09-28", 
+                        "category": "Mathematical physics", 
+                        "fn": "Martin David Kruskal"
+                    }
+                ]
+            }, 
+            "snippet": "Martin David Kruskal (/\u02c8kr\u028csk\u0259l/; September 28, 1925 \u2013 December 26, 2006) \nwas an American mathematician and physicist. He made fundamental\u00a0...", 
+            "htmlSnippet": "Martin David <b>Kruskal</b> (/\u02c8kr\u028csk\u0259l/; September 28, 1925 \u2013 December 26, 2006) <br>\nwas an American mathematician and physicist. He made fundamental&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Martin_David_Kruskal", 
+            "cacheId": "1srTRHmlWx8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Clyde Kruskal - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Clyde <b>Kruskal</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Clyde_Kruskal", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Clyde_<b>Kruskal</b>", 
+            "pagemap": {
+                "person": [
+                    {
+                        "role": "Computer Scientist"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "bday": "1954-05-25", 
+                        "category": "American", 
+                        "role": "Computer Scientist", 
+                        "fn": "Clyde Kruskal"
+                    }
+                ]
+            }, 
+            "snippet": "Clyde P. Kruskal (born May 25, 1954) is an American computer scientist, working \non parallel computing architectures, models, and algorithms. He got his A.B.\u00a0...", 
+            "htmlSnippet": "Clyde P. <b>Kruskal</b> (born May 25, 1954) is an American computer scientist, working <br>\non parallel computing architectures, models, and algorithms. He got his A.B.&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Clyde_Kruskal", 
+            "cacheId": "mx5gZsU_NM8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Kruskal\u2013Wallis one-way analysis of variance - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Kruskal</b>\u2013Wallis one-way analysis of variance - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../Kruskal\u2013Wallis_one-way_analysis_of_variance", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../<b>Kruskal</b>\u2013Wallis_one-way_analysis_of_variance", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "258", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTPm50sImxqLN30-Kk6Yy6a6ma-SZrhdjAdxILqnq6HZx1FT3FjosAHJyA", 
+                        "height": "97"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/math/8/3/c/83c97130f9191023a721ba078a93208e.png"
+                    }
+                ]
+            }, 
+            "snippet": "The Kruskal\u2013Wallis test by ranks, Kruskal\u2013Wallis H test (named after William \nKruskal and W. Allen Wallis), or One-way ANOVA on ranks is a non-parametric\u00a0...", 
+            "htmlSnippet": "The <b>Kruskal</b>\u2013Wallis test by ranks, <b>Kruskal</b>\u2013Wallis H test (named after William <br>\n<b>Kruskal</b> and W. Allen Wallis), or One-way ANOVA on ranks is a non-parametric&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Kruskal%E2%80%93Wallis_one-way_analysis_of_variance", 
+            "cacheId": "OyhJI4uFCjgJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Kruskal\u2013Katona theorem - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Kruskal</b>\u2013Katona theorem - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Kruskal\u2013Katona_theorem", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Kruskal</b>\u2013Katona_theorem", 
+            "snippet": "In algebraic combinatorics, the Kruskal\u2013Katona theorem gives a complete \ncharacterization of the f-vectors of abstract simplicial complexes. It includes as a\u00a0...", 
+            "htmlSnippet": "In algebraic combinatorics, the <b>Kruskal</b>\u2013Katona theorem gives a complete <br>\ncharacterization of the f-vectors of abstract simplicial complexes. It includes as a&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Kruskal%E2%80%93Katona_theorem", 
+            "cacheId": "k7wPR1PlBqQJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Kruskal\u2013Szekeres coordinates - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Kruskal</b>\u2013Szekeres coordinates - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Kruskal\u2013Szekeres_coordinates", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Kruskal</b>\u2013Szekeres_coordinates", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "208", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRsiNI-oHoxmDlxZiX-Qt2l_o8uaO1szvs7-qbfxhE7finQzZ27JiF1q6Yw", 
+                        "height": "213"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Kruskal_diagram_of_Schwarzschild_chart.svg/260px-Kruskal_diagram_of_Schwarzschild_chart.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "Kruskal\u2013Szekeres diagram, illustrated for 2GM=1. The quadrants are the black \nhole interior (II), the white hole interior (IV) and the two exterior regions (I and III).", 
+            "htmlSnippet": "<b>Kruskal</b>\u2013Szekeres diagram, illustrated for 2GM=1. The quadrants are the black <br>\nhole interior (II), the white hole interior (IV) and the two exterior regions (I and III).", 
+            "link": "https://en.wikipedia.org/wiki/Kruskal%E2%80%93Szekeres_coordinates", 
+            "cacheId": "EXSaj0yYC7wJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Kruskal's tree theorem - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Kruskal&#39;s</b> tree theorem - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Kruskal's_tree_theorem", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Kruskal&#39;s</b>_tree_theorem", 
+            "snippet": "In mathematics, Kruskal's tree theorem states that the set of finite trees over a well\n-quasi-ordered set of labels is itself well-quasi-ordered (under homeomorphic\u00a0...", 
+            "htmlSnippet": "In mathematics, <b>Kruskal&#39;s</b> tree theorem states that the set of finite trees over a well<br>\n-quasi-ordered set of labels is itself well-quasi-ordered (under homeomorphic&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Kruskal's_tree_theorem", 
+            "cacheId": "UyJxS6Ev2hEJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Kruskal", 
+                "safe": "off", 
+                "searchTerms": "Kruskal", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "1820"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Kruskal", 
+                "safe": "off", 
+                "searchTerms": "Kruskal", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "1820"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.29", 
+        "formattedTotalResults": "1,820", 
+        "totalResults": "1820", 
+        "searchTime": 0.29201
+    }
+}

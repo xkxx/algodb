@@ -1,0 +1,222 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Inverse iteration - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Inverse iteration</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Inverse_iteration", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Inverse</b>_<b>iteration</b>", 
+            "snippet": "In numerical analysis, inverse iteration is an iterative eigenvalue algorithm. It \nallows one to find an approximate eigenvector when an approximation to a\u00a0...", 
+            "htmlSnippet": "In numerical analysis, <b>inverse iteration</b> is an iterative eigenvalue algorithm. It <br>\nallows one to find an approximate eigenvector when an approximation to a&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Inverse_iteration", 
+            "cacheId": "WJLxDiDAvaAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Rayleigh quotient iteration - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Rayleigh quotient <b>iteration</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Rayleigh_quotient_iteration", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Rayleigh_quotient_<b>iteration</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "103", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ5GFFjBAUhu6786L6zFGkmfg2EbfuGVHCJkyPcfB7Gu6l7-HKs_Gh6", 
+                        "height": "61"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/math/4/7/1/47188cadbf57c986ec70bb7bbc8eafc0.png"
+                    }
+                ]
+            }, 
+            "snippet": "Rayleigh quotient iteration is an eigenvalue algorithm which extends the idea of \nthe inverse iteration by using the Rayleigh quotient to obtain increasingly\u00a0...", 
+            "htmlSnippet": "Rayleigh quotient iteration is an eigenvalue algorithm which extends the idea of <br>\nthe <b>inverse iteration</b> by using the Rayleigh quotient to obtain increasingly&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Rayleigh_quotient_iteration", 
+            "cacheId": "Zsj3iS-8ZxoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Power iteration - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Power <b>iteration</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Power_iteration", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Power_<b>iteration</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "114", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSQqqTszgez9ArjJd31zbRpr0sD-njGlkVQf8s-hinfObrSNTjRljYPDQ", 
+                        "height": "43"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/math/3/b/d/3bd1a9b0f598a965e67d61ad319debc2.png"
+                    }
+                ]
+            }, 
+            "snippet": "In mathematics, the power iteration is an eigenvalue algorithm: given a .... For \ninstance, the inverse iteration method applies power iteration to the matrix A^{-1} \n.", 
+            "htmlSnippet": "In mathematics, the power iteration is an eigenvalue algorithm: given a .... For <br>\ninstance, the <b>inverse iteration</b> method applies power iteration to the matrix A^{-1} <br>\n.", 
+            "link": "https://en.wikipedia.org/wiki/Power_iteration", 
+            "cacheId": "yUC6aKTgKmUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Julia set - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Julia set - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Julia_set", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Julia_set", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "204", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQJcH9WYvcLmMZEu69jqy6CVeJD0di4am-cItQ5UAvTGD4pYLnOAe8tww4L", 
+                        "height": "153"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Julia_set_(ice).png/256px-Julia_set_(ice).png"
+                    }
+                ]
+            }, 
+            "snippet": "11.1 Using backwards (inverse) iteration (IIM); 11.2 Using DEM/J ... Although \nthere are points in the Julia set whose sequence of iterations is finite, there are \nonly\u00a0...", 
+            "htmlSnippet": "11.1 Using backwards (<b>inverse</b>) <b>iteration</b> (IIM); 11.2 Using DEM/J ... Although <br>\nthere are points in the Julia set whose sequence of iterations is finite, there are <br>\nonly&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Julia_set", 
+            "cacheId": "HymwFsT93q0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Eigenvalue algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Eigenvalue algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Eigenvalue_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Eigenvalue_algorithm", 
+            "snippet": "Conversely, inverse iteration based methods find the lowest eigenvalue, so \u03bc is \nchosen well away from \u03bb and hopefully closer to some other eigenvalue.", 
+            "htmlSnippet": "Conversely, <b>inverse iteration</b> based methods find the lowest eigenvalue, so \u03bc is <br>\nchosen well away from \u03bb and hopefully closer to some other eigenvalue.", 
+            "link": "https://en.wikipedia.org/wiki/Eigenvalue_algorithm", 
+            "cacheId": "WeSAMpGy004J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Preconditioner - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Preconditioner - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Preconditioner", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Preconditioner", 
+            "snippet": "The preconditioned problem is then usually solved by an iterative method. .... \nThis gives the Inverse iteration, which normally converges to the eigenvector,\u00a0...", 
+            "htmlSnippet": "The preconditioned problem is then usually solved by an iterative method. .... <br>\nThis gives the <b>Inverse iteration</b>, which normally converges to the eigenvector,&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Preconditioner", 
+            "cacheId": "1aw6viilHT0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Nash\u2013Moser theorem - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Nash\u2013Moser theorem - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Nash\u2013Moser_theorem", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Nash\u2013Moser_theorem", 
+            "snippet": "It is particularly useful when the inverse to the derivative \"loses\" derivatives, and \ntherefore ... Moser, J\u00fcrgen (1966a), \"A rapidly convergent iteration method and\u00a0...", 
+            "htmlSnippet": "It is particularly useful when the <b>inverse</b> to the derivative &quot;loses&quot; derivatives, and <br>\ntherefore ... Moser, J\u00fcrgen (1966a), &quot;A rapidly convergent <b>iteration</b> method and&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Nash%E2%80%93Moser_theorem", 
+            "cacheId": "aNTTLfiLKz8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "SLEPc - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "SLEPc - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/SLEPc", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/SLEPc", 
+            "snippet": "EPS provides iterative algorithms for linear eigenvalue problems. ... Basic solvers \nsuch as residual inverse iteration and successive linear problems. A solver\u00a0...", 
+            "htmlSnippet": "EPS provides iterative algorithms for linear eigenvalue problems. ... Basic solvers <br>\nsuch as residual <b>inverse iteration</b> and successive linear problems. A solver&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/SLEPc", 
+            "cacheId": "8uQB6fWbEQMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Iterative reconstruction - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Iterative</b> reconstruction - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Iterative_reconstruction", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Iterative</b>_reconstruction", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQdjF5xAX-noTzcz_qT_6dR9016rw326LxXyfJl9wlwnsLKnxttLJ4iTgM", 
+                        "height": "177"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/FBP_Iter_single.jpg/220px-FBP_Iter_single.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "Iterative reconstruction refers to iterative algorithms used to reconstruct 2D and ... \nThe reconstruction of an image from the acquired data is an inverse problem.", 
+            "htmlSnippet": "<b>Iterative</b> reconstruction refers to <b>iterative</b> algorithms used to reconstruct 2D and ... <br>\nThe reconstruction of an image from the acquired data is an <b>inverse</b> problem.", 
+            "link": "https://en.wikipedia.org/wiki/Iterative_reconstruction", 
+            "cacheId": "Ql92qnsBIaoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Landweber iteration - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Landweber <b>iteration</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Landweber_iteration", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Landweber_<b>iteration</b>", 
+            "snippet": "The Landweber iteration or Landweber algorithm is an algorithm to solve ill-\nposed linear inverse problems, and it has been extended to solve non-linear\u00a0...", 
+            "htmlSnippet": "The Landweber <b>iteration</b> or Landweber algorithm is an algorithm to solve ill-<br>\nposed linear <b>inverse</b> problems, and it has been extended to solve non-linear&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Landweber_iteration", 
+            "cacheId": "OOS68lZNHpgJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Inverse iteration", 
+                "safe": "off", 
+                "searchTerms": "Inverse iteration", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "1340"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Inverse iteration", 
+                "safe": "off", 
+                "searchTerms": "Inverse iteration", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "1340"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.29", 
+        "formattedTotalResults": "1,340", 
+        "totalResults": "1340", 
+        "searchTime": 0.294313
+    }
+}

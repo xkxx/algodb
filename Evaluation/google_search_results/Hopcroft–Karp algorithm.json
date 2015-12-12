@@ -1,0 +1,238 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Hopcroft\u2013Karp algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Hopcroft</b>\u2013<b>Karp algorithm</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Hopcroft\u2013Karp_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Hopcroft</b>\u2013<b>Karp</b>_<b>algorithm</b>", 
+            "snippet": "In computer science, the Hopcroft\u2013Karp algorithm is an algorithm that takes as \ninput a bipartite graph and produces as output a maximum cardinality matching\u00a0...", 
+            "htmlSnippet": "In computer science, the <b>Hopcroft</b>\u2013<b>Karp algorithm</b> is an algorithm that takes as <br>\ninput a bipartite graph and produces as output a maximum cardinality matching&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Hopcroft%E2%80%93Karp_algorithm", 
+            "cacheId": "lknNvBaOY3UJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Richard M. Karp - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Richard M. <b>Karp</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Richard_M._Karp", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Richard_M._<b>Karp</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR6X_rdr7VoHOVvRhoKU9wC1jYhP6AfRSOeE2biw9S-sOn3M0lUEXlaficR", 
+                        "height": "176"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Karp_mg_7725-b.cr2.jpg/220px-Karp_mg_7725-b.cr2.jpg"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "bday": "1935-01-03", 
+                        "category": "Computer Science", 
+                        "fn": "Richard Manning Karp"
+                    }
+                ]
+            }, 
+            "snippet": "In 1973 he and John Hopcroft published the Hopcroft\u2013Karp algorithm, still the \nfastest known method for finding maximum cardinality matchings in bipartite\u00a0...", 
+            "htmlSnippet": "In 1973 he and John Hopcroft published the <b>Hopcroft</b>\u2013<b>Karp algorithm</b>, still the <br>\nfastest known method for finding maximum cardinality matchings in bipartite&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Richard_M._Karp", 
+            "cacheId": "tMS5f-UI670J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Dinic's algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Dinic&#39;s <b>algorithm</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Dinic's_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Dinic&#39;s_<b>algorithm</b>", 
+            "snippet": "Dinitz's algorithm is a strongly polynomial algorithm for computing the maximum \nflow in a .... The resulting algorithm is also known as Hopcroft\u2013Karp algorithm.", 
+            "htmlSnippet": "Dinitz&#39;s algorithm is a strongly polynomial algorithm for computing the maximum <br>\nflow in a .... The resulting algorithm is also known as <b>Hopcroft</b>\u2013<b>Karp algorithm</b>.", 
+            "link": "https://en.wikipedia.org/wiki/Dinic's_algorithm", 
+            "cacheId": "kB-3_gsOElAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "John Hopcroft - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "John <b>Hopcroft</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/John_Hopcroft", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/John_<b>Hopcroft</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "120", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQSMpHF6fyua7GkUzn7sH21gAE7OYo9L7B7YoxcarJ5BL2a9tggVR-itQ", 
+                        "height": "160"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Hopcrofg.jpg/150px-Hopcrofg.jpg"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "url": "www.cs.cornell.edu/jeh", 
+                        "bday": "1939-10-07", 
+                        "category": "Computer Science", 
+                        "url_text": "www.cs.cornell.edu/jeh", 
+                        "fn": "John Edward Hopcroft"
+                    }
+                ]
+            }, 
+            "snippet": "John Edward Hopcroft (born October 7, 1939) is an American theoretical ... \nTarjan on planar graphs he is also known for the Hopcroft\u2013Karp algorithm for \nfinding\u00a0...", 
+            "htmlSnippet": "John Edward Hopcroft (born October 7, 1939) is an American theoretical ... <br>\nTarjan on planar graphs he is also known for the <b>Hopcroft</b>\u2013<b>Karp algorithm</b> for <br>\nfinding&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/John_Hopcroft", 
+            "cacheId": "2I_SbeJ1Z7QJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Matching (graph theory) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Matching (graph theory) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Matching_(graph_theory)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Matching_(graph_theory)", 
+            "snippet": "An improvement over this is the Hopcroft\u2013Karp algorithm, which runs in O({\\sqrt {\nV}}E) time. Another approach is based on the fast matrix multiplication algorithm\u00a0...", 
+            "htmlSnippet": "An improvement over this is the <b>Hopcroft</b>\u2013<b>Karp algorithm</b>, which runs in O({\\sqrt {<br>\nV}}E) time. Another approach is based on the fast matrix multiplication algorithm&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Matching_(graph_theory)", 
+            "cacheId": "DFJD2I0Cy5kJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Edmonds\u2013Karp algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Edmonds\u2013<b>Karp algorithm</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Edmonds\u2013Karp_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Edmonds\u2013<b>Karp</b>_<b>algorithm</b>", 
+            "snippet": "In computer science, the Edmonds\u2013Karp algorithm is an implementation of the \nFord\u2013Fulkerson method for computing the maximum flow in a flow network in O(V\n\u00a0...", 
+            "htmlSnippet": "In computer science, the Edmonds\u2013<b>Karp algorithm</b> is an implementation of the <br>\nFord\u2013Fulkerson method for computing the maximum flow in a flow network in O(V<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Edmonds%E2%80%93Karp_algorithm", 
+            "cacheId": "o5GoZCBt518J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Book:Algorithms - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Book:Algorithms - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Book:Algorithms", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Book:<b>Algorithm</b>s", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "100", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQEnyeN8yQ7u_cUY3vrMNnpAOcaBWwvA045-Sq35R78YJJ74vWo3wcMqA", 
+                        "height": "124"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Mergesort_algorithm_diagram.png/125px-Mergesort_algorithm_diagram.png"
+                    }
+                ]
+            }, 
+            "snippet": "Mergesort algorithm diagram.png ... Graph traversal \u00b7 Hierarchical clustering of \nnetworks \u00b7 Hopcroft\u2013Karp algorithm \u00b7 IDA* \u00b7 Iterative deepening depth-first search\n\u00a0...", 
+            "htmlSnippet": "Mergesort algorithm diagram.png ... Graph traversal &middot; Hierarchical clustering of <br>\nnetworks &middot; <b>Hopcroft</b>\u2013<b>Karp algorithm</b> &middot; IDA* &middot; Iterative deepening depth-first search<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Book:Algorithms", 
+            "cacheId": "2Z-Kr-9h6gwJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Category:Graph algorithms - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Category:Graph algorithms - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Category:Graph_algorithms", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Category:Graph_<b>algorithm</b>s", 
+            "snippet": "Knuth's Simpath algorithm ... H. Havel\u2013Hakimi algorithm \u00b7 Hierarchical closeness \n\u00b7 Hierarchical clustering of networks \u00b7 Hopcroft\u2013Karp algorithm\u00a0...", 
+            "htmlSnippet": "Knuth&#39;s Simpath algorithm ... H. Havel\u2013Hakimi algorithm &middot; Hierarchical closeness <br>\n&middot; Hierarchical clustering of networks &middot; <b>Hopcroft</b>\u2013<b>Karp algorithm</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Category:Graph_algorithms", 
+            "cacheId": "C520Liw0GkUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Book:Graph Algorithms - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Book:Graph Algorithms - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Book:Graph_Algorithms", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Book:Graph_<b>Algorithm</b>s", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "100", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRCMmu7RZdfYXVq3agCN7sEmTTGtDiAnh0yih8exwvCjp7eBWsTsxWJ", 
+                        "height": "65"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Cube-maximal-independence.svg/125px-Cube-maximal-independence.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "Shortest paths: Shortest path problem \u00b7 Dijkstra's algorithm for single-source \nshortest ... Matching: Matching \u00b7 Hopcroft\u2013Karp algorithm for maximum matching \nin\u00a0...", 
+            "htmlSnippet": "Shortest paths: Shortest path problem &middot; Dijkstra&#39;s algorithm for single-source <br>\nshortest ... Matching: Matching &middot; <b>Hopcroft</b>\u2013<b>Karp algorithm</b> for maximum matching <br>\nin&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Book:Graph_Algorithms", 
+            "cacheId": "lSSDWnbNJbIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Category:B-Class Computer science articles - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Category:B-Class Computer science articles - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../Category:B-Class_Computer_science_articles", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Category:B-Class_Computer_science_articles", 
+            "snippet": "Talk:A New Kind of Science \u00b7 Talk:A* search algorithm \u00b7 Talk:A5/1 \u00b7 Talk:\nAckermann function ... Talk:Hindley\u2013Milner type system \u00b7 Talk:Hopcroft\u2013Karp \nalgorithm\u00a0...", 
+            "htmlSnippet": "Talk:A New Kind of Science &middot; Talk:A* search algorithm &middot; Talk:A5/1 &middot; Talk:<br>\nAckermann function ... Talk:Hindley\u2013Milner type system &middot; Talk:<b>Hopcroft</b>\u2013<b>Karp</b> <br>\n<b>algorithm</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Category:B-Class_Computer_science_articles", 
+            "cacheId": "1_KhFhaOMoIJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Hopcroft\u2013Karp algorithm", 
+                "safe": "off", 
+                "searchTerms": "Hopcroft\u2013Karp algorithm", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "94"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Hopcroft\u2013Karp algorithm", 
+                "safe": "off", 
+                "searchTerms": "Hopcroft\u2013Karp algorithm", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "94"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.26", 
+        "formattedTotalResults": "94", 
+        "totalResults": "94", 
+        "searchTime": 0.261832
+    }
+}

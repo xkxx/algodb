@@ -1,0 +1,277 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Bor\u016fvka's algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Bor\u016fvka&#39;s</b> algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Bor\u016fvka's_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Bor\u016fvka&#39;s</b>_algorithm", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "300", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSUm0yA68jysuO4KkFRvuOBrsx0swLyW6bQFoFyRkVx510_NEF_fUv3B1TE", 
+                        "height": "168"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Boruvka's_algorithm_(Sollin's_algorithm)_Anim.gif/500px-Boruvka's_algorithm_(Sollin's_algorithm)_Anim.gif"
+                    }
+                ]
+            }, 
+            "snippet": "Bor\u016fvka's algorithm is an algorithm for finding a minimum spanning tree in a \ngraph for which all edge weights are distinct. It was first published in 1926 by \nOtakar\u00a0...", 
+            "htmlSnippet": "<b>Bor\u016fvka&#39;s</b> algorithm is an algorithm for finding a minimum spanning tree in a <br>\ngraph for which all edge weights are distinct. It was first published in 1926 by <br>\nOtakar&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Bor%C5%AFvka's_algorithm", 
+            "cacheId": "9mYveZ2dHhAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Otakar Bor\u016fvka - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Otakar <b>Bor\u016fvka</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Otakar_Bor\u016fvka", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Otakar_<b>Bor\u016fvka</b>", 
+            "snippet": "Otakar Bor\u016fvka (10 May 1899 in Uhersk\u00fd Ostroh \u2013 22 July 1995 in Brno) was a \nCzech mathematician best known today for his work in graph theory, long before\n\u00a0...", 
+            "htmlSnippet": "Otakar <b>Bor\u016fvka</b> (10 May 1899 in Uhersk\u00fd Ostroh \u2013 22 July 1995 in Brno) was a <br>\nCzech mathematician best known today for his work in graph theory, long before<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Otakar_Bor%C5%AFvka", 
+            "cacheId": "3MkWAJz19eoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Expected linear time MST algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Expected linear time MST algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Expected_linear_time_MST_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Expected_linear_time_MST_algorithm", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "160", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEOypmtnFgr6A65h5P20C3YBztM-PzNGNV10yaTiZ5Eqovsgj06V82OQhY", 
+                        "height": "134"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Boruvka_Step_1.svg/200px-Boruvka_Step_1.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "A Bor\u016fvka step is equivalent to the inner loop of Bor\u016fvka's algorithm, which runs \nin O(m) time where m is the number of edges in G. Furthermore, since each\u00a0...", 
+            "htmlSnippet": "A <b>Bor\u016fvka</b> step is equivalent to the inner loop of <b>Bor\u016fvka&#39;s</b> algorithm, which runs <br>\nin O(m) time where m is the number of edges in G. Furthermore, since each&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Expected_linear_time_MST_algorithm", 
+            "cacheId": "Y2yJ9ethNmkJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Bor\u016fvka's algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Bor\u016fvka&#39;s</b> algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3ABor\u016fvka's_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>Bor\u016fvka&#39;s</b>_algorithm", 
+            "snippet": "References for the other authors:[edit]. This page refers the original papers by \nOtakar Bor\u016fvka and Gustave Choquet, but lacks references to the paper by \nFlorek,\u00a0...", 
+            "htmlSnippet": "References for the other authors:[edit]. This page refers the original papers by <br>\nOtakar <b>Bor\u016fvka</b> and Gustave Choquet, but lacks references to the paper by <br>\nFlorek,&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3ABor%C5%AFvka's_algorithm", 
+            "cacheId": "GF66aSpe5HIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "File talk:Boruvka's-algorithm-example.gif - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "File talk:<b>Boruvka&#39;s</b>-algorithm-example.gif - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "en.wikipedia.org/wiki/File_talk:Boruvka's-algorithm-example.gif", 
+            "htmlFormattedUrl": "en.wikipedia.org/wiki/File_talk:<b>Boruvka&#39;s</b>-algorithm-example.gif", 
+            "snippet": "File talk:Boruvka's-algorithm-example.gif ... Retrieved from \"http://en.wikipedia.\norg/w/index.php?title=File_talk:Boruvka%27s-algorithm-example.gif&oldid=\u00a0...", 
+            "htmlSnippet": "File talk:<b>Boruvka&#39;s</b>-algorithm-example.gif ... Retrieved from &quot;http://en.wikipedia.<br>\norg/w/index.php?title=File_talk:<b>Boruvka</b>%27s-algorithm-example.gif&amp;oldid=&nbsp;...", 
+            "link": "http://en.wikipedia.org/wiki/File_talk:Boruvka's-algorithm-example.gif", 
+            "cacheId": "f46FMl446uEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Josef \u0160kvoreck\u00fd - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Josef \u0160kvoreck\u00fd - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Josef_\u0160kvoreck\u00fd", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Josef_\u0160kvoreck\u00fd", 
+            "pagemap": {
+                "person": [
+                    {
+                        "role": "Writer, publisher"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRZWq6_MTS8LnzaGdcykCMdYcRB3SnotSyqSLMSDox5vNge-_L7UQnbr4En", 
+                        "height": "286"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Josef_skvorecky.jpg/220px-Josef_skvorecky.jpg"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "bday": "1924-09-27", 
+                        "role": "Writer, publisher", 
+                        "fn": "Josef \u0160kvoreck\u00fd"
+                    }
+                ]
+            }, 
+            "snippet": "He wrote four books of detective stories featuring Lieutenant Boruvka of the \nPrague Homicide Bureau: The Mournful Demeanor of Lieutenant Boruvka, Sins \nfor\u00a0...", 
+            "htmlSnippet": "He wrote four books of detective stories featuring Lieutenant <b>Boruvka</b> of the <br>\nPrague Homicide Bureau: The Mournful Demeanor of Lieutenant <b>Boruvka</b>, Sins <br>\nfor&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Josef_%C5%A0kvoreck%C3%BD", 
+            "cacheId": "hCAI1X5HzmkJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Kruskal's algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:Kruskal&#39;s algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3AKruskal's_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3AKruskal&#39;s_algorithm", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "225", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSAzx0qQugp7XC5Ht7vNUrnM0qZE1Eg4iYkZ7wHExzQnVBtqbUnVsVUaZM", 
+                        "height": "225"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/MST_kruskal_en.gif/450px-MST_kruskal_en.gif"
+                    }
+                ]
+            }, 
+            "snippet": "The three pages Kruskal's algorithm, Boruvka's algorithm and Prim's algorithm \nshould be merged into one article (possibly named minimum weight spanning\u00a0...", 
+            "htmlSnippet": "The three pages Kruskal&#39;s algorithm, <b>Boruvka&#39;s</b> algorithm and Prim&#39;s algorithm <br>\nshould be merged into one article (possibly named minimum weight spanning&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3AKruskal's_algorithm", 
+            "cacheId": "YgqQgRdHAqoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Diane McNaron - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Diane McNaron - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Diane_McNaron", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Diane_McNaron", 
+            "pagemap": {
+                "person": [
+                    {
+                        "role": "Singer, producer and Cabaret entertainer"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "url": "dianemcnaron.com", 
+                        "url_text": "dianemcnaron.com", 
+                        "role": "Singer, producer and Cabaret entertainer", 
+                        "fn": "Diane McNaron"
+                    }
+                ]
+            }, 
+            "snippet": "In 2000, she released the CD Music in Flight featuring pianist Shari Boruvka and \nthe works of Kurt Weill, Hanns Eisler, Paul Dessau, LaDonna Smith and Ed\u00a0...", 
+            "htmlSnippet": "In 2000, she released the CD Music in Flight featuring pianist Shari <b>Boruvka</b> and <br>\nthe works of Kurt Weill, Hanns Eisler, Paul Dessau, LaDonna Smith and Ed&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Diane_McNaron", 
+            "cacheId": "Zp5yZVooW_YJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Kruskal's algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Kruskal&#39;s algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Kruskal's_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Kruskal&#39;s_algorithm", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "160", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQBl1V-6SgtkfBIstxFbHSavcmk60Ee_og61ou5_1KwmSsiYojnOu_8fTzk", 
+                        "height": "160"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/MST_kruskal_en.gif/200px-MST_kruskal_en.gif"
+                    }
+                ]
+            }, 
+            "snippet": "... in 1956, and was written by Joseph Kruskal. Other algorithms for this problem \ninclude Prim's algorithm, Reverse-delete algorithm, and Bor\u016fvka's algorithm.", 
+            "htmlSnippet": "... in 1956, and was written by Joseph Kruskal. Other algorithms for this problem <br>\ninclude Prim&#39;s algorithm, Reverse-delete algorithm, and <b>Bor\u016fvka&#39;s</b> algorithm.", 
+            "link": "https://en.wikipedia.org/wiki/Kruskal's_algorithm", 
+            "cacheId": "VwYb882BkGcJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Distributed minimum spanning tree - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Distributed minimum spanning tree - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Distributed_minimum_spanning_tree", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Distributed_minimum_spanning_tree", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "250", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSIDdSBzb5KkR4OJf0WL8cLdJuSa6vsw1HmPbTP1KM35Qu5UJ8Pqx_W4k0", 
+                        "height": "202"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Minimum_spanning_tree.svg/400px-Minimum_spanning_tree.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "It is radically different from the classical sequential problem, although the most \nbasic approach resembles Bor\u016fvka's algorithm. One important application of this\n\u00a0...", 
+            "htmlSnippet": "It is radically different from the classical sequential problem, although the most <br>\nbasic approach resembles <b>Bor\u016fvka&#39;s</b> algorithm. One important application of this<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Distributed_minimum_spanning_tree", 
+            "cacheId": "o48l8jvuJFsJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Boruvka", 
+                "safe": "off", 
+                "searchTerms": "Boruvka", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "40"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Boruvka", 
+                "safe": "off", 
+                "searchTerms": "Boruvka", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "40"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.19", 
+        "formattedTotalResults": "40", 
+        "totalResults": "40", 
+        "searchTime": 0.194638
+    }
+}

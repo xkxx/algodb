@@ -1,0 +1,236 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Interpolation - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Interpolation</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Interpolation", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Interpolation</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "226", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOwzacfyce9ouwA7CzVU5AKRfNiL7KUkLrqp-N-rfp4gltNfzHXdmRMK8", 
+                        "height": "223"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Splined_epitrochoid.svg/300px-Splined_epitrochoid.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "In the mathematical field of numerical analysis, interpolation is a method of \nconstructing new data points within the range of a discrete set of known data \npoints.", 
+            "htmlSnippet": "In the mathematical field of numerical analysis, <b>interpolation</b> is a method of <br>\nconstructing new data points within the range of a discrete set of known data <br>\npoints.", 
+            "link": "https://en.wikipedia.org/wiki/Interpolation", 
+            "cacheId": "3natRjjhOpYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Linear interpolation - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Linear <b>interpolation</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Linear_interpolation", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Linear_<b>interpolation</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "225", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTUJfmGzjv38ZU52KrybX2X-hvk-wt-_BBF8bXy5yC0uVTrwJ-34X4BoyhU", 
+                        "height": "225"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/LinearInterpolation.svg/300px-LinearInterpolation.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "1 Linear interpolation between two known points; 2 Interpolation of a data set; 3 \nLinear interpolation as approximation; 4 Applications; 5 Extensions.", 
+            "htmlSnippet": "1 Linear <b>interpolation</b> between two known points; 2 <b>Interpolation</b> of a data set; 3 <br>\nLinear <b>interpolation</b> as approximation; 4 Applications; 5 Extensions.", 
+            "link": "https://en.wikipedia.org/wiki/Linear_interpolation", 
+            "cacheId": "TP0xt8psXA0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Interpolation (manuscripts) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Interpolation</b> (manuscripts) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Interpolation_(manuscripts)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Interpolation</b>_(manuscripts)", 
+            "snippet": "An interpolation, in relation to literature and especially ancient manuscripts, is an \nentry or passage in a text that was not written by the original author. As there\u00a0...", 
+            "htmlSnippet": "An <b>interpolation</b>, in relation to literature and especially ancient manuscripts, is an <br>\nentry or passage in a text that was not written by the original author. As there&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Interpolation_(manuscripts)", 
+            "cacheId": "bTKGrg8BkvMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Interpolation (music) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Interpolation</b> (music) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Interpolation_(music)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Interpolation</b>_(music)", 
+            "snippet": "Interpolation (also known as replayed), especially 20th-century music and later, \nis an abrupt change of musical elements, with (almost immediate) resumption of\u00a0...", 
+            "htmlSnippet": "<b>Interpolation</b> (also known as replayed), especially 20th-century music and later, <br>\nis an abrupt change of musical elements, with (almost immediate) resumption of&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Interpolation_(music)", 
+            "cacheId": "FW2kFWPAKlUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Bicubic interpolation - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Bicubic <b>interpolation</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Bicubic_interpolation", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Bicubic_<b>interpolation</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTcYfukDZ_XGd4f0N1yyY-xLfJFDZxSK3ln5e4IgTapNZA97DI0Xx8Y4p0", 
+                        "height": "136"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/BicubicInterpolationExample.png/220px-BicubicInterpolationExample.png"
+                    }
+                ]
+            }, 
+            "snippet": "Bicubic interpolation on the square [0,3] \\times [0,3] consisting of 9 unit squares \npatched together. Bicubic interpolation as per MATLAB's implementation. Colour\n\u00a0...", 
+            "htmlSnippet": "Bicubic <b>interpolation</b> on the square [0,3] \\times [0,3] consisting of 9 unit squares <br>\npatched together. Bicubic <b>interpolation</b> as per MATLAB&#39;s implementation. Colour<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Bicubic_interpolation", 
+            "cacheId": "gpoWpr6u_4EJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "String interpolation - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "String <b>interpolation</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/String_interpolation", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/String_<b>interpolation</b>", 
+            "snippet": "In computer programming, string interpolation or variable interpolation (also \nvariable substitution or variable expansion) is the process of evaluating a string\u00a0...", 
+            "htmlSnippet": "In computer programming, string <b>interpolation</b> or variable <b>interpolation</b> (also <br>\nvariable substitution or variable expansion) is the process of evaluating a string&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/String_interpolation", 
+            "cacheId": "K3yBQjkxQJoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Motion interpolation - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Motion <b>interpolation</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Motion_interpolation", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Motion_<b>interpolation</b>", 
+            "snippet": "Motion interpolation or Motion-Compensated Frame Interpolation (MCFI) is a \nform of video processing in which intermediate animation frames are generated\u00a0...", 
+            "htmlSnippet": "Motion <b>interpolation</b> or Motion-Compensated Frame <b>Interpolation</b> (MCFI) is a <br>\nform of video processing in which intermediate animation frames are generated&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Motion_interpolation", 
+            "cacheId": "LL6Dwllffv4J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Multivariate interpolation - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Multivariate <b>interpolation</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Multivariate_interpolation", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Multivariate_<b>interpolation</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "96", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRtooCTSLeTXTivPrvB8rGPx6EShNBn7JS6Ysm3CMTRFwATwCXpyGIb", 
+                        "height": "74"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/BilinearInterpolExample.png/120px-BilinearInterpolExample.png"
+                    }
+                ]
+            }, 
+            "snippet": "In numerical analysis, multivariate interpolation or spatial interpolation is \ninterpolation on functions of more than one variable. The function to be \ninterpolated is\u00a0...", 
+            "htmlSnippet": "In numerical analysis, multivariate <b>interpolation</b> or spatial <b>interpolation</b> is <br>\n<b>interpolation</b> on functions of more than one variable. The function to be <br>\ninterpolated is&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Multivariate_interpolation", 
+            "cacheId": "mjLDQafht1EJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Category:Interpolation - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Category:<b>Interpolation</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Category:Interpolation", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Category:<b>Interpolation</b>", 
+            "snippet": "... the free encyclopedia. Jump to: navigation, search. The main article for this \ncategory is Interpolation. Wikimedia Commons has media related to Interpolation.", 
+            "htmlSnippet": "... the free encyclopedia. Jump to: navigation, search. The main article for this <br>\ncategory is <b>Interpolation</b>. Wikimedia Commons has media related to <b>Interpolation</b>.", 
+            "link": "https://en.wikipedia.org/wiki/Category:Interpolation", 
+            "cacheId": "4LlecNJ-y48J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Bilinear interpolation - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Bilinear <b>interpolation</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Bilinear_interpolation", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Bilinear_<b>interpolation</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRPxPZ4nvLDi7jE7ku1afCBWhRQctak0DjST6y2O3yuPZsbt2De5RGMjBgD", 
+                        "height": "166"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BilinearInterpolation.svg/220px-BilinearInterpolation.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "In mathematics, bilinear interpolation is an extension of linear interpolation for \ninterpolating functions of two variables (e.g., x and y) on a rectilinear 2D grid.", 
+            "htmlSnippet": "In mathematics, bilinear <b>interpolation</b> is an extension of linear <b>interpolation</b> for <br>\ninterpolating functions of two variables (e.g., x and y) on a rectilinear 2D grid.", 
+            "link": "https://en.wikipedia.org/wiki/Bilinear_interpolation", 
+            "cacheId": "a7icc6r-PZkJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Interpolation", 
+                "safe": "off", 
+                "searchTerms": "Interpolation", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "25700"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Interpolation", 
+                "safe": "off", 
+                "searchTerms": "Interpolation", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "25700"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.31", 
+        "formattedTotalResults": "25,700", 
+        "totalResults": "25700", 
+        "searchTime": 0.308674
+    }
+}

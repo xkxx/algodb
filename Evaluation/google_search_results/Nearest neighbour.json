@@ -1,0 +1,236 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Nearest neighbour algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Nearest neighbour</b> algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Nearest_neighbour_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Nearest</b>_<b>neighbour</b>_algorithm", 
+            "snippet": "The nearest neighbour algorithm was one of the first algorithms used to \ndetermine a solution to the travelling salesman problem. In it, the salesman starts \nat a\u00a0...", 
+            "htmlSnippet": "The <b>nearest neighbour</b> algorithm was one of the first algorithms used to <br>\ndetermine a solution to the travelling salesman problem. In it, the salesman starts <br>\nat a&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Nearest_neighbour_algorithm", 
+            "cacheId": "ikKbu_JFuWAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Nearest neighbor - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Nearest neighbor</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Nearest_neighbor", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Nearest</b>_<b>neighbor</b>", 
+            "snippet": "Nearest neighbor may refer to: ... generalized forms of nearest neighbor search \nand interpolation; The nearest neighbour algorithm for approximately solving the\n\u00a0...", 
+            "htmlSnippet": "<b>Nearest neighbor</b> may refer to: ... generalized forms of <b>nearest neighbor</b> search <br>\nand interpolation; The <b>nearest neighbour</b> algorithm for approximately solving the<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Nearest_neighbor", 
+            "cacheId": "7u652LujFEQJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "k-nearest neighbors algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "k-<b>nearest</b> neighbors algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/K-<b>nearest</b>_<b>neighbor</b>s_algorithm", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRI4J4bzmO4wkP3-2sb7oiR77-9WoZaVt7X35xaW5lfOU6_Svj5yLkbGh8", 
+                        "height": "159"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/KnnClassification.svg/220px-KnnClassification.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "If k = 1, then the object is simply assigned to the class of that single nearest \nneighbor. In k-NN regression, the output is the property value for the object.", 
+            "htmlSnippet": "If k = 1, then the object is simply assigned to the class of that single <b>nearest</b> <br>\n<b>neighbor</b>. In k-NN regression, the output is the property value for the object.", 
+            "link": "https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm", 
+            "cacheId": "sp4pUCCvJnUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Nearest-neighbor interpolation - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Nearest</b>-<b>neighbor</b> interpolation - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Nearest-neighbor_interpolation", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Nearest</b>-<b>neighbor</b>_interpolation", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSaFPS_MtBET0kfcAiWrMZjMOYsnrLHVP0Y7WV51M0CUP_rIjjzeZl7ad0", 
+                        "height": "140"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Piecewise_constant.svg/220px-Piecewise_constant.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "Example of nearest neighbor interpolation of a random set of points (black dots) \nin 2D. Each coloured cell indicates the area in which all the points have the\u00a0...", 
+            "htmlSnippet": "Example of <b>nearest neighbor</b> interpolation of a random set of points (black dots) <br>\nin 2D. Each coloured cell indicates the area in which all the points have the&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Nearest-neighbor_interpolation", 
+            "cacheId": "KSsLnMwqgWsJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Nearest neighbor search - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Nearest neighbor</b> search - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Nearest_neighbor_search", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Nearest</b>_<b>neighbor</b>_search", 
+            "snippet": "Nearest neighbor search (NNS), also known as proximity search, similarity \nsearch or closest point search, is an optimization problem for finding closest (or \nmost\u00a0...", 
+            "htmlSnippet": "<b>Nearest neighbor</b> search (NNS), also known as proximity search, similarity <br>\nsearch or closest point search, is an optimization problem for finding closest (or <br>\nmost&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Nearest_neighbor_search", 
+            "cacheId": "Di3K1PXw7uYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Nearest neighbour classifiers - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Nearest neighbour</b> classifiers - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Nearest_neighbour_classifiers", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Nearest</b>_<b>neighbour</b>_classifiers", 
+            "snippet": "Nearest neighbour classifiers are a class of non-parametric methods used in \nstatistical classification (or pattern recognition). The method classifies objects\u00a0...", 
+            "htmlSnippet": "<b>Nearest neighbour</b> classifiers are a class of non-parametric methods used in <br>\nstatistical classification (or pattern recognition). The method classifies objects&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Nearest_neighbour_classifiers", 
+            "cacheId": "TFS32WdFE9EJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Nearest neighbor graph - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Nearest neighbor</b> graph - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Nearest_neighbor_graph", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Nearest</b>_<b>neighbor</b>_graph", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "192", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTQupTTwa_wyxQd7ZIQu2EZDkLYEig3RacP1Dy4EuD8SauHTSJxnyo_mV8", 
+                        "height": "189"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Nearest_neighbor_graph.svg/240px-Nearest_neighbor_graph.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "The nearest neighbor graph (NNG) for a set of n objects P in a metric space (e.g., \nfor a set of points in the plane with Euclidean distance) is a directed graph with\u00a0...", 
+            "htmlSnippet": "The <b>nearest neighbor</b> graph (NNG) for a set of n objects P in a metric space (e.g., <br>\nfor a set of points in the plane with Euclidean distance) is a directed graph with&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Nearest_neighbor_graph", 
+            "cacheId": "Hpj-hwFvQ5gJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Large margin nearest neighbor - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Large margin <b>nearest neighbor</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Large_margin_nearest_neighbor", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Large_margin_<b>nearest</b>_<b>neighbor</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "240", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS48mqRN9_qjXitJ-OcXxc0h-fZqxoYJbr5cZZmALJPxHggVI_rnZeeuEo", 
+                        "height": "164"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lmnn.png/300px-Lmnn.png"
+                    }
+                ]
+            }, 
+            "snippet": "Large margin nearest neighbor (LMNN) classification is a statistical machine \nlearning algorithm. It learns a Pseudometric designed for k-nearest neighbor\u00a0...", 
+            "htmlSnippet": "Large margin <b>nearest neighbor</b> (LMNN) classification is a statistical machine <br>\nlearning algorithm. It learns a Pseudometric designed for k-<b>nearest neighbor</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Large_margin_nearest_neighbor", 
+            "cacheId": "sEr-twtEDEgJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Nearest neighbour distribution - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Nearest neighbour</b> distribution - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Nearest_neighbour_distribution", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Nearest</b>_<b>neighbour</b>_distribution", 
+            "snippet": "In probability and statistics, a nearest neighbour function, nearest neighbour \ndistance distribution, nearest-neighbour distribution function or nearest \nneighbour\u00a0...", 
+            "htmlSnippet": "In probability and statistics, a <b>nearest neighbour</b> function, <b>nearest neighbour</b> <br>\ndistance distribution, <b>nearest</b>-<b>neighbour</b> distribution function or <b>nearest</b> <br>\n<b>neighbour</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Nearest_neighbour_distribution", 
+            "cacheId": "QhE_c4nwGlUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Nearest-neighbor chain algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Nearest</b>-<b>neighbor</b> chain algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Nearest-neighbor_chain_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Nearest</b>-<b>neighbor</b>_chain_algorithm", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "220", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS9hU4luIRNFXtRO4SWx7Yx4JLGp6QmE92BqLhtjCvwqmWun8nesXJZ__8", 
+                        "height": "229"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/d/db/Nearest-neighbor_chain_algorithm_animated.gif"
+                    }
+                ]
+            }, 
+            "snippet": "In the theory of cluster analysis, the nearest-neighbor chain algorithm is a method \nthat can be used to perform several types of agglomerative hierarchical\u00a0...", 
+            "htmlSnippet": "In the theory of cluster analysis, the <b>nearest</b>-<b>neighbor</b> chain algorithm is a method <br>\nthat can be used to perform several types of agglomerative hierarchical&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Nearest-neighbor_chain_algorithm", 
+            "cacheId": "BbNCF66YtM8J"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Nearest neighbour", 
+                "safe": "off", 
+                "searchTerms": "Nearest neighbour", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "5470"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Nearest neighbour", 
+                "safe": "off", 
+                "searchTerms": "Nearest neighbour", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "5470"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.33", 
+        "formattedTotalResults": "5,470", 
+        "totalResults": "5470", 
+        "searchTime": 0.328148
+    }
+}

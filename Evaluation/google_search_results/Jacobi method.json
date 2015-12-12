@@ -1,0 +1,194 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Jacobi method - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Jacobi method</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Jacobi_method", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Jacobi</b>_<b>method</b>", 
+            "snippet": "In numerical linear algebra, the Jacobi method (or Jacobi iterative method) is an \nalgorithm for determining the solutions of a diagonally dominant system of linear\n\u00a0...", 
+            "htmlSnippet": "In numerical linear algebra, the <b>Jacobi method</b> (or Jacobi iterative method) is an <br>\nalgorithm for determining the solutions of a diagonally dominant system of linear<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Jacobi_method", 
+            "cacheId": "oKN8MUnWbWQJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Jacobi eigenvalue algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Jacobi</b> eigenvalue algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Jacobi_eigenvalue_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Jacobi</b>_eigenvalue_algorithm", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "342", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQZCQ5Y_6la64wnqisk54caPB4Vr7meONZMruHEbjYRO7MWMgfa6bEAOQc", 
+                        "height": "138"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/math/0/2/a/02a36dd19b455e6028cbfa5d9320caf6.png"
+                    }
+                ]
+            }, 
+            "snippet": "In numerical linear algebra, the Jacobi eigenvalue algorithm is an iterative \nmethod for the calculation of the eigenvalues and eigenvectors of a real \nsymmetric\u00a0...", 
+            "htmlSnippet": "In numerical linear algebra, the <b>Jacobi</b> eigenvalue algorithm is an iterative <br>\n<b>method</b> for the calculation of the eigenvalues and eigenvectors of a real <br>\nsymmetric&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Jacobi_eigenvalue_algorithm", 
+            "cacheId": "4N6E72i2DWcJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Jacobi method for complex Hermitian matrices - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Jacobi method</b> for complex Hermitian matrices - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../Jacobi_method_for_complex_Hermitian_matrices", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../<b>Jacobi</b>_<b>method</b>_for_complex_Hermitian_matrices", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "232", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWxrnIxZ_lJwx2GjXxFwCF48mbGszo0faHSvriUdDvi3S0Uwky-ORcwGo", 
+                        "height": "218"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/math/3/b/c/3bc5f2210c6b24395be0d8d09c746872.png"
+                    }
+                ]
+            }, 
+            "snippet": "In mathematics, the Jacobi method for complex Hermitian matrices is a \ngeneralization of the Jacobi iteration method. The Jacobi iteration method is also\n\u00a0...", 
+            "htmlSnippet": "In mathematics, the <b>Jacobi method</b> for complex Hermitian matrices is a <br>\ngeneralization of the <b>Jacobi iteration</b> method. The <b>Jacobi iteration</b> method is also<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Jacobi_method_for_complex_Hermitian_matrices", 
+            "cacheId": "2Y6j5At3F_gJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Matrix splitting - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Matrix splitting - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Matrix_splitting", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Matrix_splitting", 
+            "snippet": "1 Regular splittings; 2 Matrix iterative methods; 3 Example. 3.1 Regular splitting; \n3.2 Jacobi method; 3.3 Gauss-Seidel method; 3.4 Successive over-relaxation\u00a0...", 
+            "htmlSnippet": "1 Regular splittings; 2 Matrix iterative methods; 3 Example. 3.1 Regular splitting; <br>\n3.2 <b>Jacobi method</b>; 3.3 Gauss-Seidel method; 3.4 Successive over-relaxation&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Matrix_splitting", 
+            "cacheId": "Si7WN9Te2hYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Gauss\u2013Seidel method - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Gauss\u2013Seidel <b>method</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Gauss\u2013Seidel_method", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Gauss\u2013Seidel_<b>method</b>", 
+            "snippet": "It is named after the German mathematicians Carl Friedrich Gauss and Philipp \nLudwig von Seidel, and is similar to the Jacobi method. Though it can be applied\n\u00a0...", 
+            "htmlSnippet": "It is named after the German mathematicians Carl Friedrich Gauss and Philipp <br>\nLudwig von Seidel, and is similar to the <b>Jacobi method</b>. Though it can be applied<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Gauss%E2%80%93Seidel_method", 
+            "cacheId": "1tSorN4bhcwJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Jacobi method - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Jacobi method</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3AJacobi_method", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>Jacobi</b>_<b>method</b>", 
+            "snippet": "And mention of JOR (Jacobi Over Relaxation) would be nice. Even better would \nbe some data on flops required per iteration, some sample problems solved\u00a0...", 
+            "htmlSnippet": "And mention of JOR (<b>Jacobi</b> Over Relaxation) would be nice. Even better would <br>\nbe some data on flops required per <b>iteration</b>, some sample problems solved&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3AJacobi_method", 
+            "cacheId": "8DbL75gPcqUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Successive over-relaxation - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Successive over-relaxation - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Successive_over-relaxation", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Successive_over-relaxation", 
+            "snippet": "In numerical linear algebra, the method of successive over-relaxation (SOR) is a \nvariant of the ... A similar method can be used for any slowly converging iterative \nprocess. .... Jacobi method \u00b7 Gaussian Belief Propagation \u00b7 Matrix splitting\u00a0...", 
+            "htmlSnippet": "In numerical linear algebra, the method of successive over-relaxation (SOR) is a <br>\nvariant of the ... A similar method can be used for any slowly converging iterative <br>\nprocess. .... <b>Jacobi method</b> &middot; Gaussian Belief Propagation &middot; Matrix splitting&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Successive_over-relaxation", 
+            "cacheId": "MHDVBmf1lRkJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Hamilton\u2013Jacobi equation - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Hamilton\u2013<b>Jacobi</b> equation - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Hamilton\u2013Jacobi_equation", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Hamilton\u2013<b>Jacobi</b>_equation", 
+            "snippet": "In mathematics, the Hamilton\u2013Jacobi equation (HJE) is a necessary condition \ndescribing ..... \"On the Application to Dynamics of a General Mathematical \nMethod\u00a0...", 
+            "htmlSnippet": "In mathematics, the Hamilton\u2013<b>Jacobi</b> equation (HJE) is a necessary condition <br>\ndescribing ..... &quot;On the Application to Dynamics of a General Mathematical <br>\n<b>Method</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Hamilton%E2%80%93Jacobi_equation", 
+            "cacheId": "iDGIQlArPaoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Relaxation (iterative method) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Relaxation (iterative <b>method</b>) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Relaxation_(iterative_method)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Relaxation_(iterative_<b>method</b>)", 
+            "snippet": "In numerical mathematics, relaxation methods are iterative methods for solving ... \nThe Gauss\u2013Seidel method is an improvement upon the Jacobi method.", 
+            "htmlSnippet": "In numerical mathematics, relaxation methods are iterative methods for solving ... <br>\nThe Gauss\u2013Seidel method is an improvement upon the <b>Jacobi method</b>.", 
+            "link": "https://en.wikipedia.org/wiki/Relaxation_(iterative_method)", 
+            "cacheId": "jdLBiBr2SpgJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Jacobi - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Jacobi</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Jacobi", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Jacobi</b>", 
+            "snippet": "Jacobi may refer to: People with the surname Jacobi: ... Jacobi method, a method \nfor diagonalization of matrices in mathematics; Jacobi eigenvalue algorithm\u00a0...", 
+            "htmlSnippet": "Jacobi may refer to: People with the surname Jacobi: ... <b>Jacobi method</b>, a method <br>\nfor diagonalization of matrices in mathematics; Jacobi eigenvalue algorithm&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Jacobi", 
+            "cacheId": "WnkbnWxBjaYJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Jacobi method", 
+                "safe": "off", 
+                "searchTerms": "Jacobi method", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "2740"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Jacobi method", 
+                "safe": "off", 
+                "searchTerms": "Jacobi method", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "2740"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.29", 
+        "formattedTotalResults": "2,740", 
+        "totalResults": "2740", 
+        "searchTime": 0.294183
+    }
+}

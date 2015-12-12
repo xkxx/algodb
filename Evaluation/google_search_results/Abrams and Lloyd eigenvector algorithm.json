@@ -1,0 +1,91 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "User:Mathbot/List of mathematical redlinks (A) - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "User:Mathbot/List of mathematical redlinks (A) - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/.../List_of_mathematical_redlinks_(A)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/.../List_of_mathematical_redlinks_(A)", 
+            "snippet": "... Wicquefort -- Abraham Hewitt -- Abraham Schrameck -- Abraham Seidenberg -\n- Abraham Wolf Crown -- Abrams and Lloyd eigenvector algorithm -- Abridged\u00a0...", 
+            "htmlSnippet": "... Wicquefort -- Abraham Hewitt -- Abraham Schrameck -- Abraham Seidenberg -<br>\n- Abraham Wolf Crown -- <b>Abrams and Lloyd eigenvector algorithm</b> -- Abridged&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/User:Mathbot/List_of_mathematical_redlinks_(A)", 
+            "cacheId": "6ENzMhIwuY8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "User:Salih/MathRedlinks - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "User:Salih/MathRedlinks - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/User:Salih/MathRedlinks", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/User:Salih/MathRedlinks", 
+            "snippet": "... Wicquefort -- Abraham Hewitt -- Abraham Schrameck -- Abraham Seidenberg -\n- Abraham Wolf Crown -- Abrams and Lloyd eigenvector algorithm -- Abridged\u00a0...", 
+            "htmlSnippet": "... Wicquefort -- Abraham Hewitt -- Abraham Schrameck -- Abraham Seidenberg -<br>\n- Abraham Wolf Crown -- <b>Abrams and Lloyd eigenvector algorithm</b> -- Abridged&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/User:Salih/MathRedlinks"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Quantum algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Quantum <b>algorithm</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Quantum_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Quantum_<b>algorithm</b>", 
+            "snippet": "In quantum computing, a quantum algorithm is an algorithm which runs on a \nrealistic ... The quantum phase estimation algorithm is used to determine the \neigenphase of an eigenvector of a unitary ..... Jump up ^ Abrams, D. S.; Lloyd, S. (\n1997).", 
+            "htmlSnippet": "In quantum computing, a quantum <b>algorithm</b> is an <b>algorithm</b> which runs on a <br>\nrealistic ... The quantum phase estimation <b>algorithm</b> is used to determine the <br>\neigenphase of an <b>eigenvector</b> of a unitary ..... Jump up ^ <b>Abrams</b>, D. S.; <b>Lloyd</b>, S. (<br>\n1997).", 
+            "link": "https://en.wikipedia.org/wiki/Quantum_algorithm", 
+            "cacheId": "zQtqAxtDTe8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Wikipedia:Release Version - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Wikipedia:Release Version - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Wikipedia:Release_Version", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Wikipedia:Release_Version", 
+            "snippet": "... Robert Lawson (architect) \u2014 Frank Lloyd Wright \u2014 Benjamin Mountfort \u2014 \nPalace of ...... Kammerlader \u2014 Krag-J\u00f8rgensen \u2014 Krag-Petersson \u2014 M1 Abrams \n\u2014 M1 ... Abacus \u2014 Addition \u2014 Algebra \u2014 Algorithm \u2014 Arithmetic \u2014 Bayes' \ntheorem ... theory \u2014 Derivative \u2014 e (mathematical constant) \u2014 Eigenvalue, \neigenvector\u00a0...", 
+            "htmlSnippet": "... Robert Lawson (architect) \u2014 Frank <b>Lloyd</b> Wright \u2014 Benjamin Mountfort \u2014 <br>\nPalace of ...... Kammerlader \u2014 Krag-J\u00f8rgensen \u2014 Krag-Petersson \u2014 M1 <b>Abrams</b> <br>\n\u2014 M1 ... Abacus \u2014 Addition \u2014 Algebra \u2014 <b>Algorithm</b> \u2014 Arithmetic \u2014 Bayes&#39; <br>\ntheorem ... theory \u2014 Derivative \u2014 e (mathematical constant) \u2014 <b>Eigenvalue</b>, <br>\n<b>eigenvector</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Wikipedia:Release_Version", 
+            "cacheId": "vFvbYtw8jucJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Wikipedia:0.8/First half - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Wikipedia:0.8/First half - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Wikipedia:0.8/First_half", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Wikipedia:0.8/First_half", 
+            "snippet": "AATP World Tour Masters 1000A cappellaA Coru\u00f1aA PortuguesaA* search \nalgorithmA-TeensA priori and a posterioriFairchild Republic A-10 Thunderbolt\u00a0...", 
+            "htmlSnippet": "AATP World Tour Masters 1000A cappellaA Coru\u00f1aA PortuguesaA* search <br>\n<b>algorithm</b>A-TeensA priori and a posterioriFairchild Republic A-10 Thunderbolt&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Wikipedia:0.8/First_half"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 5, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Abrams and Lloyd eigenvector algorithm", 
+                "safe": "off", 
+                "searchTerms": "Abrams and Lloyd eigenvector algorithm", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "5"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.44", 
+        "formattedTotalResults": "5", 
+        "totalResults": "5", 
+        "searchTime": 0.43504
+    }
+}

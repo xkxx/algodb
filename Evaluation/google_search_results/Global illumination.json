@@ -1,0 +1,231 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Global illumination - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Global illumination</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Global_illumination", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Global</b>_<b>illumination</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "240", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSJ6wEB5o4bnqKKOXY3CZfeJl2tNysfdj7iskzwod_kNTTBzyUHzos-lBEV", 
+                        "height": "180"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Local_illumination.JPG/300px-Local_illumination.JPG"
+                    }
+                ]
+            }, 
+            "snippet": "Rendering without global illumination. Areas that lie outside of the ceiling lamp's \ndirect light lack definition. For example, the lamp's housing appears completely\u00a0...", 
+            "htmlSnippet": "Rendering without <b>global illumination</b>. Areas that lie outside of the ceiling lamp&#39;s <br>\ndirect light lack definition. For example, the lamp&#39;s housing appears completely&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Global_illumination", 
+            "cacheId": "h3LcOwMzb3oJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Category:Global illumination software - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Category:<b>Global illumination</b> software - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Category:Global_illumination_software", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Category:<b>Global</b>_<b>illumination</b>_software", 
+            "snippet": "Pages in category \"Global illumination software\". The following 23 pages are in \nthis category, out of 23 total. This list may not reflect recent changes (learn more).", 
+            "htmlSnippet": "Pages in category &quot;<b>Global illumination</b> software&quot;. The following 23 pages are in <br>\nthis category, out of 23 total. This list may not reflect recent changes (learn more).", 
+            "link": "https://en.wikipedia.org/wiki/Category:Global_illumination_software", 
+            "cacheId": "ch2iSpiBCpcJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Category:Global illumination algorithms - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Category:<b>Global illumination</b> algorithms - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../Category:Global_illumination_algorithms", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Category:<b>Global</b>_<b>illumination</b>_algorithms", 
+            "snippet": "Pages in category \"Global illumination algorithms\". The following 13 pages are in \nthis category, out of 13 total. This list may not reflect recent changes (learn\u00a0...", 
+            "htmlSnippet": "Pages in category &quot;<b>Global illumination</b> algorithms&quot;. The following 13 pages are in <br>\nthis category, out of 13 total. This list may not reflect recent changes (learn&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Category:Global_illumination_algorithms", 
+            "cacheId": "IgAF0-1HctcJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Global illumination - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Global illumination</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3AGlobal_illumination", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>Global</b>_<b>illumination</b>", 
+            "snippet": "In real-time 3D graphics, global illumination is sometimes approximated by an \"\nambient\" term in the lighting equation. \u2014Preceding unsigned comment added by\n\u00a0...", 
+            "htmlSnippet": "In real-time 3D graphics, <b>global illumination</b> is sometimes approximated by an &quot;<br>\nambient&quot; term in the lighting equation. \u2014Preceding unsigned comment added by<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3AGlobal_illumination", 
+            "cacheId": "9PRLNPUDgMMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Radiosity (computer graphics) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Radiosity (computer graphics) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Radiosity_(computer_graphics)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Radiosity_(computer_graphics)", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "240", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJPuyy3593Bqbi-1WusXBNN2V5y_y_Oz418HdzxRhtPFUY90xgqBKZEHQ", 
+                        "height": "176"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Radiosity_-_RRV,_step_79.png/300px-Radiosity_-_RRV,_step_79.png"
+                    }
+                ]
+            }, 
+            "snippet": "Radiosity is a global illumination algorithm in the sense that the illumination \narriving on a surface comes not just directly from the light sources, but also from\u00a0...", 
+            "htmlSnippet": "Radiosity is a <b>global illumination</b> algorithm in the sense that the illumination <br>\narriving on a surface comes not just directly from the light sources, but also from&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Radiosity_(computer_graphics)", 
+            "cacheId": "zk2d5WTKEk0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Category talk:Global illumination software - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Category talk:<b>Global illumination</b> software - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../Category_talk:Global_illumination_software", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Category_talk:<b>Global</b>_<b>illumination</b>_software", 
+            "snippet": "Category talk:Global illumination software. From Wikipedia ... This category is \nsorely needed, based on the \"See also\" section in the Global illumination article.", 
+            "htmlSnippet": "Category talk:<b>Global illumination</b> software. From Wikipedia ... This category is <br>\nsorely needed, based on the &quot;See also&quot; section in the <b>Global illumination</b> article.", 
+            "link": "https://en.wikipedia.org/wiki/Category_talk:Global_illumination_software", 
+            "cacheId": "AUdKVaNLjpYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Ambient occlusion - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Ambient occlusion - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Ambient_occlusion", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Ambient_occlusion", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "174", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRi6JWUpP95PogKzZFow18GA-At0bOjo4oSUz4QNc4dtdiyCcECxGYB1mI", 
+                        "height": "290"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Show_how_3D_real_time_ambient_occlusion_works_2013-11-23_10-45.jpeg/220px-Show_how_3D_real_time_ambient_occlusion_works_2013-11-23_10-45.jpeg"
+                    }
+                ]
+            }, 
+            "snippet": "However, it is a very crude approximation to full global illumination. The \nappearance achieved by ambient occlusion alone is similar to the way an object \nmight\u00a0...", 
+            "htmlSnippet": "However, it is a very crude approximation to full <b>global illumination</b>. The <br>\nappearance achieved by ambient occlusion alone is similar to the way an object <br>\nmight&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Ambient_occlusion", 
+            "cacheId": "TLpTVTfgeC0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Illuminate Labs - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Illuminate Labs - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Illuminate_Labs", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Illuminate_Labs", 
+            "pagemap": {
+                "hcard": [
+                    {
+                        "category": "Video games", 
+                        "logo": "Illuminate Labs logo", 
+                        "fn": "Illuminate Labs"
+                    }
+                ]
+            }, 
+            "snippet": "Turtle can create global illumination for game levels and then bake the \nillumination into texture maps, vertex maps or point clouds. Other features include \nthe\u00a0...", 
+            "htmlSnippet": "Turtle can create <b>global illumination</b> for game levels and then bake the <br>\nillumination into texture maps, vertex maps or point clouds. Other features include <br>\nthe&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Illuminate_Labs", 
+            "cacheId": "EK5ZGTKiOPkJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Photon mapping - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Photon mapping - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Photon_mapping", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Photon_mapping", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTe4nskBJcSguLmaVgtkH87MbGw3EcoDO68P1hvYUGrngPm3YzC5eTvSFU", 
+                        "height": "132"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Glas-1000-enery.jpg/220px-Glas-1000-enery.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "In computer graphics, photon mapping is a two-pass global illumination algorithm \ndeveloped by Henrik Wann Jensen that approximately solves the rendering\u00a0...", 
+            "htmlSnippet": "In computer graphics, photon mapping is a two-pass <b>global illumination</b> algorithm <br>\ndeveloped by Henrik Wann Jensen that approximately solves the rendering&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Photon_mapping", 
+            "cacheId": "5dPx3PEH8zIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Path tracing - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Path tracing - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Path_tracing", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Path_tracing", 
+            "snippet": "Path tracing is a computer graphics Monte Carlo method of rendering images of \nthree-dimensional scenes such that the global illumination is faithful to reality.", 
+            "htmlSnippet": "Path tracing is a computer graphics Monte Carlo method of rendering images of <br>\nthree-dimensional scenes such that the <b>global illumination</b> is faithful to reality.", 
+            "link": "https://en.wikipedia.org/wiki/Path_tracing", 
+            "cacheId": "Cv6WjS2V9GkJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Global illumination", 
+                "safe": "off", 
+                "searchTerms": "Global illumination", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "3130"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Global illumination", 
+                "safe": "off", 
+                "searchTerms": "Global illumination", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "3130"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.33", 
+        "formattedTotalResults": "3,130", 
+        "totalResults": "3130", 
+        "searchTime": 0.32634
+    }
+}

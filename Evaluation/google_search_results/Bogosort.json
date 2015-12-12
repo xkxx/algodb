@@ -1,0 +1,208 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Bogosort - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Bogosort</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Bogosort", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Bogosort</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRLOxBIFc6CG0FtjOzicWW5s1Q-Whx4IkI8QFHn0__G95h7zMHP8uDXMPNf", 
+                        "height": "148"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Bogo_sort_animation.gif/220px-Bogo_sort_animation.gif"
+                    }
+                ]
+            }, 
+            "snippet": "In computer science, bogosort (also stupid sort, slowsort, random sort, shotgun \nsort or monkey sort) is a particularly ineffective sorting algorithm based on the\u00a0...", 
+            "htmlSnippet": "In computer science, <b>bogosort</b> (also stupid sort, slowsort, random sort, shotgun <br>\nsort or monkey sort) is a particularly ineffective sorting algorithm based on the&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Bogosort", 
+            "cacheId": "5KVYypNchgMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Bogosort - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Bogosort</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3ABogosort", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>Bogosort</b>", 
+            "snippet": "I don't think \"For dealing with a list of two elements, this places Bogosort amongst \nthe best sorting methods: one comparison, and then either it finishes, or else\u00a0...", 
+            "htmlSnippet": "I don&#39;t think &quot;For dealing with a list of two elements, this places <b>Bogosort</b> amongst <br>\nthe best sorting methods: one comparison, and then either it finishes, or else&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3ABogosort", 
+            "cacheId": "qs-rJ2qiOvUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Stupid sort - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Stupid sort - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Stupid_sort", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Stupid_sort", 
+            "snippet": "\"bogo-sort\". The New Hacker's Dictionary. MIT Press, 1996. Jump up ^ Sarbazi-\nAzad, Hamid (2 October 2000). \"Stupid Sort: A new sorting algorithm\" (PDF).", 
+            "htmlSnippet": "&quot;<b>bogo-sort</b>&quot;. The New Hacker&#39;s Dictionary. MIT Press, 1996. Jump up ^ Sarbazi-<br>\nAzad, Hamid (2 October 2000). &quot;Stupid Sort: A new sorting algorithm&quot; (PDF).", 
+            "link": "https://en.wikipedia.org/wiki/Stupid_sort", 
+            "cacheId": "L5Zuyr_kSWkJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Las Vegas algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:Las Vegas algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3ALas_Vegas_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3ALas_Vegas_algorithm", 
+            "snippet": "For instance, is bogosort a Las Vegas algorithm? Bogosort is very random but is \nsupposed to eventually give the right solution. Right now, there is only one\u00a0...", 
+            "htmlSnippet": "For instance, is <b>bogosort</b> a Las Vegas algorithm? <b>Bogosort</b> is very random but is <br>\nsupposed to eventually give the right solution. Right now, there is only one&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3ALas_Vegas_algorithm", 
+            "cacheId": "MFA_RIFkjJwJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Gnome sort - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Gnome sort - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Gnome_sort", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Gnome_sort", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "201", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRO2rIq6gT72URDmOsAnMUPHzi1isHPFQYNE9tiJWYEryTa0snA4QLEd0", 
+                        "height": "250"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/3/37/Sorting_gnomesort_anim.gif"
+                    }
+                ]
+            }, 
+            "snippet": "... 2000 and called \"stupid sort\" (not to be confused with bogosort), and then later \non described by Dick Grune and named \"gnome sort\" from the observation that\u00a0...", 
+            "htmlSnippet": "... 2000 and called &quot;stupid sort&quot; (not to be confused with <b>bogosort</b>), and then later <br>\non described by Dick Grune and named &quot;gnome sort&quot; from the observation that&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Gnome_sort", 
+            "cacheId": "PkrhIKUNnJ0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Template talk:Infobox algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Template talk:Infobox algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Template_talk:Infobox_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Template_talk:Infobox_algorithm", 
+            "snippet": "Isn't it enough to list the best/average/worst time/space complexities? If my \nprimary objective is to entertain, would I be remiss in changing Bogosort to \"\nOptimal:\u00a0...", 
+            "htmlSnippet": "Isn&#39;t it enough to list the best/average/worst time/space complexities? If my <br>\nprimary objective is to entertain, would I be remiss in changing <b>Bogosort</b> to &quot;<br>\nOptimal:&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Template_talk:Infobox_algorithm", 
+            "cacheId": "9UQ0_B58y6AJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Template talk:Sorting - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Template talk:Sorting - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Template_talk:Sorting", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Template_talk:Sorting", 
+            "snippet": "Contents. [hide]. 1 Sorting Network Picture; 2 Jokeful? 3 Bogosort; 4 Create \ncategory page? ... Bogosort[edit]. Any reason why it's listed twice (under 'other' \nand\u00a0...", 
+            "htmlSnippet": "Contents. [hide]. 1 Sorting Network Picture; 2 Jokeful? 3 <b>Bogosort</b>; 4 Create <br>\ncategory page? ... <b>Bogosort</b>[edit]. Any reason why it&#39;s listed twice (under &#39;other&#39; <br>\nand&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Template_talk:Sorting", 
+            "cacheId": "OulpZVoUrWIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Trial and error - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Trial and error - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Trial_and_error", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Trial_and_error", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSMxbjUl2Y1KiGwDNkAa1nAeJ1SbVkFHF93g36kT1IUJXeDIUZUOtLg31Q", 
+                        "height": "176"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Computer_graph_created_by_trial_and_error.jpg/220px-Computer_graph_created_by_trial_and_error.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "Bogosort, a conceptual sorting algorithm (that is extremely inefficient and \nimpractical), can be viewed as a trial and error approach to sorting a list. \nHowever\u00a0...", 
+            "htmlSnippet": "<b>Bogosort</b>, a conceptual sorting algorithm (that is extremely inefficient and <br>\nimpractical), can be viewed as a trial and error approach to sorting a list. <br>\nHowever&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Trial_and_error", 
+            "cacheId": "R_yPlouGKI4J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Quantum sort - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:Quantum sort - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3AQuantum_sort", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3AQuantum_sort", 
+            "snippet": "There is more to the concept of sorting on a quantum machine than the bogosort \njoke, though. The article doesn't currently say much of anything, you're right.", 
+            "htmlSnippet": "There is more to the concept of sorting on a quantum machine than the <b>bogosort</b> <br>\njoke, though. The article doesn&#39;t currently say much of anything, you&#39;re right.", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3AQuantum_sort", 
+            "cacheId": "dZPo9-ZK9UoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:List of algorithms - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:List of algorithms - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3AList_of_algorithms", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3AList_of_algorithms", 
+            "snippet": "1 algorithms described in Wikipedia; 2 bogo-sort/stupid-sort; 3 Other algorithms; \n4 method of generating most-perfect magic squares of order 2; 5 List the Algo\u00a0...", 
+            "htmlSnippet": "1 algorithms described in Wikipedia; 2 <b>bogo-sort</b>/stupid-sort; 3 Other algorithms; <br>\n4 method of generating most-perfect magic squares of order 2; 5 List the Algo&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3AList_of_algorithms", 
+            "cacheId": "cQ23_HKNiSYJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Bogosort", 
+                "safe": "off", 
+                "searchTerms": "Bogosort", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "132"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Bogosort", 
+                "safe": "off", 
+                "searchTerms": "Bogosort", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "132"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.24", 
+        "formattedTotalResults": "132", 
+        "totalResults": "132", 
+        "searchTime": 0.240349
+    }
+}

@@ -1,0 +1,208 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "List of terms relating to algorithms and data structures - Wikipedia ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "List of terms relating to algorithms and data structures - Wikipedia <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../List_of_terms_relating_to_algorithms_and_data_ structures", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../List_of_terms_relating_to_algorithms_and_data_ structures", 
+            "snippet": "backtracking \u00b7 bag \u00b7 Baillie-PSW primality test \u00b7 balanced binary search tree \u00b7 \nbalanced binary tree \u00b7 balanced k-way merge sort \u00b7 balanced merge sort \u00b7 \nbalanced\u00a0...", 
+            "htmlSnippet": "backtracking &middot; bag &middot; Baillie-PSW primality test &middot; balanced binary search tree &middot; <br>\nbalanced binary tree &middot; balanced <b>k</b>-<b>way merge sort</b> &middot; balanced <b>merge sort</b> &middot; <br>\nbalanced&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/List_of_terms_relating_to_algorithms_and_data_structures", 
+            "cacheId": "I9ZgFcoIPGUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Merge algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Merge</b> algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Merge_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Merge</b>_algorithm", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT1LjvTww0m1ZgWAbKHRLqxJqjQYHnzGo5ZYzjCyovbz-fEMhMRHkL9Ab7a", 
+                        "height": "169"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Merge_sort_algorithm_diagram.svg/220px-Merge_sort_algorithm_diagram.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "Conceptually, merge sort algorithm consists of two steps: ... Applications of k-way \nmerging arise various sorting algorithms, including patience sorting and an \nexternal sorting algorithm that divides its ..... Springer Science+Business Media. p\n.", 
+            "htmlSnippet": "Conceptually, <b>merge sort</b> algorithm consists of two steps: ... Applications of <b>k</b>-<b>way</b> <br>\nmerging arise various sorting algorithms, including patience sorting and an <br>\nexternal sorting algorithm that divides its ..... Springer Science+Business Media. <b>p</b><br>\n.", 
+            "link": "https://en.wikipedia.org/wiki/Merge_algorithm", 
+            "cacheId": "h7tLf4bUnRcJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "External sorting - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "External <b>sorting</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/External_sorting", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/External_<b>sorting</b>", 
+            "snippet": "One example of external sorting is the external merge sort algorithm, which sorts \n... Note that there was a single k-way merge, rather than, say, a series of 2-way\u00a0...", 
+            "htmlSnippet": "One example of external sorting is the external <b>merge sort</b> algorithm, which sorts <br>\n... Note that there was a single <b>k</b>-<b>way</b> merge, rather than, say, a series of 2-<b>way</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/External_sorting", 
+            "cacheId": "VDzx1mvwWrMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Wikipedia:Missing science topics/NIST Dictionary of Algorithms and ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Wikipedia:Missing science topics/NIST Dictionary of Algorithms and <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../NIST_Dictionary_of_Algorithms_and_Data_ Structures", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../NIST_Dictionary_of_Algorithms_and_Data_ Structures", 
+            "snippet": "Other variants are \"quick sort\" and \"quicksort\", \"sort\" and \"sorting algorithm\", and \"\ndoubly ... variable, such as n-way, m-dimensional, or p-branching, are under k-.", 
+            "htmlSnippet": "Other variants are &quot;quick <b>sort</b>&quot; and &quot;quicksort&quot;, &quot;<b>sort</b>&quot; and &quot;<b>sorting</b> algorithm&quot;, and &quot;<br>\ndoubly ... variable, such as n-<b>way</b>, m-dimensional, or <b>p</b>-branching, are under <b>k</b>-.", 
+            "link": "https://en.wikipedia.org/wiki/Wikipedia:Missing_science_topics/NIST_Dictionary_of_Algorithms_and_Data_Structures", 
+            "cacheId": "DuiEEv1Eg-oJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Polyphase merge sort - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Polyphase <b>merge sort</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Polyphase_merge_sort", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Polyphase_<b>merge</b>_<b>sort</b>", 
+            "snippet": "A polyphase merge sort is an algorithm which decreases the number of runs at \nevery iteration of the ... The polyphase merge found a way to use the idle drives.", 
+            "htmlSnippet": "A polyphase <b>merge sort</b> is an algorithm which decreases the number of runs at <br>\nevery iteration of the ... The polyphase merge found a <b>way</b> to use the idle drives.", 
+            "link": "https://en.wikipedia.org/wiki/Polyphase_merge_sort", 
+            "cacheId": "1xDUHK9r16sJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Merge sort - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Merge sort</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3AMerge_sort", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>Merge</b>_<b>sort</b>", 
+            "snippet": "1 In-place merge sort has the same time complexity as the out-of-place merge ... \n36 k-way merge sorting; 37 The source of the algorithm in question; 38 External \nmerge ..... and the Art of Programming', George Springer and Daniel P. Friedman.", 
+            "htmlSnippet": "1 In-place <b>merge sort</b> has the same time complexity as the out-of-place merge ... <br>\n36 <b>k</b>-<b>way merge sorting</b>; 37 The source of the algorithm in question; 38 External <br>\nmerge ..... and the Art of Programming&#39;, George Springer and Daniel <b>P</b>. Friedman.", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3AMerge_sort", 
+            "cacheId": "-THBy5dYgi4J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Merge algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Merge</b> algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3AMerge_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>Merge</b>_algorithm", 
+            "snippet": "... A k-way in-memory merge sort can also ... from a k-way merge algorithm, but \nhis\u00a0...", 
+            "htmlSnippet": "... A <b>k</b>-<b>way</b> in-memory <b>merge sort</b> can also ... from a <b>k</b>-<b>way</b> merge algorithm, but <br>\nhis&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3AMerge_algorithm", 
+            "cacheId": "Rv91-Xzs6dYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Sorting algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Sorting</b> algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Sorting_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Sorting</b>_algorithm", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "284", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcw9pl3Q9PmPu7dU3Xk3DdbeYqZIQCzyyRfukXqYXWdm69y04uEeRiB3br", 
+                        "height": "178"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Sorting_playing_cards_using_stable_sort.svg/400px-Sorting_playing_cards_using_stable_sort.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "One way of doing this is to artificially extend the key comparison, so that ..... and \nthe results merged using a k-way merge similar to that used in mergesort. This is\n\u00a0...", 
+            "htmlSnippet": "One <b>way</b> of doing this is to artificially extend the key comparison, so that ..... and <br>\nthe results merged using a <b>k</b>-<b>way</b> merge similar to that used in <b>mergesort</b>. This is<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Sorting_algorithm", 
+            "cacheId": "CyeqKExhw84J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "K-ary tree - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>K</b>-ary tree - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/K-ary_tree", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>K</b>-ary_tree", 
+            "snippet": "In graph theory, a k-ary tree is a rooted tree in which each node has no more than \nk children. It is also sometimes known as a k-way tree, an N-ary tree, or an M-ary \ntree. ... N-ary trees, Bruno R. Preiss, P.Eng. ... iDistance; K-ary; Left-child right-\nsibling \u00b7 Link/cut \u00b7 Log-structured merge \u00b7 Merkle \u00b7 PQ \u00b7 Range \u00b7 SPQR \u00b7 Top\u00a0...", 
+            "htmlSnippet": "In graph theory, a k-ary tree is a rooted tree in which each node has no more than <br>\nk children. It is also sometimes known as a <b>k</b>-<b>way</b> tree, an N-ary tree, or an M-ary <br>\ntree. ... N-ary trees, Bruno R. Preiss, <b>P</b>.Eng. ... iDistance; K-ary; Left-child right-<br>\nsibling &middot; Link/cut &middot; Log-structured <b>merge</b> &middot; Merkle &middot; PQ &middot; Range &middot; SPQR &middot; Top&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/K-ary_tree", 
+            "cacheId": "3KVYF9_aShkJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "k-d tree - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "k-d tree - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/K-d_tree", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>K</b>-d_tree", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "200", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYmNbVdVu-7nedl0YlW6P_m0oEVatDToGkxOLdOadhF6QqgNT-uIse1zY", 
+                        "height": "190"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/3dtree.png/250px-3dtree.png"
+                    }
+                ]
+            }, 
+            "snippet": "The hyperplane direction is chosen in the following way: every node in the .... in \neach of k dimensions using an O(n log n) sort such as Heapsort or Mergesort ... \nFor the general case, find a replacement point, say p, from the subtree rooted at \nR.", 
+            "htmlSnippet": "The hyperplane direction is chosen in the following <b>way</b>: every node in the .... in <br>\neach of <b>k</b> dimensions using an O(n log n) sort such as Heapsort or <b>Mergesort</b> ... <br>\nFor the general case, find a replacement point, say <b>p</b>, from the subtree rooted at <br>\nR.", 
+            "link": "https://en.wikipedia.org/wiki/K-d_tree", 
+            "cacheId": "cGs91BTGy38J"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - k-way Merge sort (or p-way", 
+                "safe": "off", 
+                "searchTerms": "k-way Merge sort (or p-way", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "3120"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - k-way Merge sort (or p-way", 
+                "safe": "off", 
+                "searchTerms": "k-way Merge sort (or p-way", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "3120"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.34", 
+        "formattedTotalResults": "3,120", 
+        "totalResults": "3120", 
+        "searchTime": 0.339245
+    }
+}

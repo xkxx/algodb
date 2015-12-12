@@ -1,0 +1,208 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Booth's multiplication algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Booth&#39;s multiplication</b> algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Booth's_multiplication_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Booth&#39;s</b>_<b>multiplication</b>_algorithm", 
+            "snippet": "Booth's multiplication algorithm is a multiplication algorithm that multiplies two \nsigned binary numbers in two's complement notation. The algorithm was \ninvented\u00a0...", 
+            "htmlSnippet": "<b>Booth&#39;s multiplication</b> algorithm is a multiplication algorithm that multiplies two <br>\nsigned binary numbers in two&#39;s complement notation. The algorithm was <br>\ninvented&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Booth's_multiplication_algorithm", 
+            "cacheId": "-9p-8tewq7wJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Booth's multiplication algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Booth&#39;s multiplication</b> algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/.../Talk%3ABooth's_multiplication_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Talk%3A<b>Booth&#39;s</b>_<b>multiplication</b>_algorithm", 
+            "snippet": "Here is a reference to Booth's paper: A. D. Booth. A Signed Binary Multiplication \nTechnique, Quarterly Journal of Mechanics and Applied Mathematics 4 (1951),\u00a0...", 
+            "htmlSnippet": "Here is a reference to <b>Booth&#39;s</b> paper: A. D. <b>Booth</b>. A Signed Binary <b>Multiplication</b> <br>\nTechnique, Quarterly Journal of Mechanics and Applied Mathematics 4 (1951),&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3ABooth's_multiplication_algorithm", 
+            "cacheId": "BZghQEtdjCYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Booth - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Booth</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Booth", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Booth</b>", 
+            "snippet": "Look up booth in Wiktionary, the free dictionary. Booth may refer to: ... Booth's \nmultiplication algorithm, algorithm invented by Andrew D. Booth; Boothe \nMemorial\u00a0...", 
+            "htmlSnippet": "Look up booth in Wiktionary, the free dictionary. Booth may refer to: ... <b>Booth&#39;s</b> <br>\n<b>multiplication</b> algorithm, algorithm invented by Andrew D. Booth; Boothe <br>\nMemorial&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Booth", 
+            "cacheId": "iCzzojaMFOgJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Andrew Donald Booth - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Andrew Donald <b>Booth</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Andrew_Donald_Booth", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Andrew_Donald_<b>Booth</b>", 
+            "snippet": "Andrew Donald Booth (February 11, 1918 \u2013 November 29, 2009) was a British ... \ndrum memory for computers and invented Booth's multiplication algorithm.", 
+            "htmlSnippet": "Andrew Donald Booth (February 11, 1918 \u2013 November 29, 2009) was a British ... <br>\ndrum memory for computers and invented <b>Booth&#39;s multiplication</b> algorithm.", 
+            "link": "https://en.wikipedia.org/wiki/Andrew_Donald_Booth", 
+            "cacheId": "lkL9szFgJdcJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Category:Multiplication - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Category:<b>Multiplication</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Category:Multiplication", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Category:<b>Multiplication</b>", 
+            "snippet": "Wikimedia Commons has media related to Multiplication. ... Pages in category \"\nMultiplication\" ... B. Binary multiplier \u00b7 Booth's multiplication algorithm\u00a0...", 
+            "htmlSnippet": "Wikimedia Commons has media related to Multiplication. ... Pages in category &quot;<br>\nMultiplication&quot; ... B. Binary multiplier &middot; <b>Booth&#39;s multiplication</b> algorithm&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Category:Multiplication", 
+            "cacheId": "aFfu2oW_Rc0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Binary multiplier - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Binary multiplier - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Binary_multiplier", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Binary_multiplier", 
+            "snippet": "1 History; 2 Multiplication basics; 3 A more advanced approach: an unsigned .... \ntree implementation is sometimes improved by modified Booth encoding one of\u00a0...", 
+            "htmlSnippet": "1 History; 2 <b>Multiplication</b> basics; 3 A more advanced approach: an unsigned .... <br>\ntree implementation is sometimes improved by modified <b>Booth</b> encoding one of&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Binary_multiplier", 
+            "cacheId": "zzusn6jXjccJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Wallace tree - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Wallace tree - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Wallace_tree", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Wallace_tree", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKkmc3nk3Cq9605CN7t8TdcnO5nUeu31ehltUde7-8X3NnbLSHv4xkDw", 
+                        "height": "106"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Hindu_lattice_2.svg/220px-Hindu_lattice_2.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "basic principle known from manual multiplication. Example of reduction on 8x8 ... \nby a tree of 3/2 or 4/2 adders. It is sometimes combined with Booth encoding.", 
+            "htmlSnippet": "basic principle known from manual <b>multiplication</b>. Example of reduction on 8x8 ... <br>\nby a tree of 3/2 or 4/2 adders. It is sometimes combined with <b>Booth</b> encoding.", 
+            "link": "https://en.wikipedia.org/wiki/Wallace_tree", 
+            "cacheId": "etSqyjltO4IJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Dadda multiplier - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Dadda multiplier - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Dadda_multiplier", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Dadda_multiplier", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKkmc3nk3Cq9605CN7t8TdcnO5nUeu31ehltUde7-8X3NnbLSHv4xkDw", 
+                        "height": "106"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Hindu_lattice_2.svg/220px-Hindu_lattice_2.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "basic principle known from manual multiplication. Example of Dadda reduction \non 8x8 multiplier. Full adder, would in this case use only exclusive OR (XOR).", 
+            "htmlSnippet": "basic principle known from manual <b>multiplication</b>. Example of Dadda reduction <br>\non 8x8 multiplier. Full adder, would in this case use only exclusive OR (XOR).", 
+            "link": "https://en.wikipedia.org/wiki/Dadda_multiplier", 
+            "cacheId": "f7XzMq8J7FEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "User:Cedars/Article list - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "User:Cedars/Article list - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/User:Cedars/Article_list", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/User:Cedars/Article_list", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "288", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ2MdCkYsNEmyo3qlfOKyNqL2wZj69bfIDNtJlCgzr7coeACEi4K04tnyP", 
+                        "height": "133"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/2/21/Digital_television.png/360px-Digital_television.png"
+                    }
+                ]
+            }, 
+            "snippet": "Booth-encoded multiplier (Booth's multiplication algorithm already exists); Burr \ndistribution \u00b7 Sound localization \u00b7 THINK Pascal \u00b7 Vector quantization\u00a0...", 
+            "htmlSnippet": "Booth-encoded multiplier (<b>Booth&#39;s multiplication</b> algorithm already exists); Burr <br>\ndistribution &middot; Sound localization &middot; THINK Pascal &middot; Vector quantization&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/User:Cedars/Article_list", 
+            "cacheId": "2j5TdBmgp-IJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Book:List of Algorithms - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Book:List of Algorithms - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Book:List_of_Algorithms", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Book:List_of_Algorithms", 
+            "snippet": "... Quasi-triangulation \u00b7 Number theory \u00b7 Binary GCD algorithm \u00b7 Booth's \nmultiplication algorithm \u00b7 Chakravala method \u00b7 Discrete logarithm \u00b7 Baby-step \ngiant-step\u00a0...", 
+            "htmlSnippet": "... Quasi-triangulation &middot; Number theory &middot; Binary GCD algorithm &middot; <b>Booth&#39;s</b> <br>\n<b>multiplication</b> algorithm &middot; Chakravala method &middot; Discrete logarithm &middot; Baby-step <br>\ngiant-step&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Book:List_of_Algorithms", 
+            "cacheId": "aEsv0l7z6nEJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Booth's multiplication", 
+                "safe": "off", 
+                "searchTerms": "Booth's multiplication", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "166"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Booth's multiplication", 
+                "safe": "off", 
+                "searchTerms": "Booth's multiplication", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "166"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.28", 
+        "formattedTotalResults": "166", 
+        "totalResults": "166", 
+        "searchTime": 0.279251
+    }
+}
