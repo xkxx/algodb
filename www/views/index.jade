@@ -33,7 +33,13 @@ block content
               for c in hit.categories
                 li.category= c
             if h.implementations.length
-              h3.implementations.title Implementations
+              h3.implementations.title
+                span Implementations
+                span= ' ('
+                span.langs
+                  for l in h.implementationLanguages
+                    span.lang= l
+                span= ')'
               ul.implementations
                 for i in h.implementations
                   include ./implementation
@@ -51,9 +57,10 @@ block content
           li.lang(style='color:'+l.color)
             span.title= l.language
             span.count= ' (' + l.count + ')'
-    p Made with 💖by
-    ul
-      li: a(href='http://github.com/grant') grant
-      li: a(href='http://github.com/gupta-ak') gupta-ak
-      li: a(href='http://github.com/MinjingZhu') minjingzhu
-      li: a(href='http://github.com/xkxx') xkxx
+    .authors
+      p Made with 💖by
+      ul
+        li: a(href='http://github.com/grant') grant
+        li: a(href='http://github.com/gupta-ak') gupta-ak
+        li: a(href='http://github.com/MinjingZhu') minjingzhu
+        li: a(href='http://github.com/xkxx') xkxx

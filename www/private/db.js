@@ -5,6 +5,18 @@
 var async = require('async');
 var request = require('request');
 var map = require('objmap');
+var marked = require('marked');
+marked.setOptions({
+  renderer: new marked.Renderer(),
+  gfm: true,
+  tables: true,
+  breaks: false,
+  pedantic: false,
+  sanitize: true,
+  smartLists: true,
+  smartypants: false
+});
+var unique = require('array-unique');
 
 var ELASTIC_SEARCH_URL = 'http://localhost:9200/throwtable/';
 var ELASTIC_SCROLL_URL = 'http://localhost:9200/';
@@ -81,7 +93,21 @@ module.exports = {
               return impls.id === algorithm._id;
             })[0];
             algorithm.implementations = impls.hits;
+
+            // Convert npm markdown to html
+            for (var j = 0; j < algorithm.implementations.length; ++j) {
+              if (algorithm.implementations[j]._source.source === 'npm') {
+                var instruction = algorithm.implementations[j]._source.instruction;
+                instruction.html = marked(instruction.content);
+              }
+            }
+
+            // Add list of languages
+            algorithm.implementationLanguages = unique(algorithm.implementations.map(function(impl) {
+              return impl._source.language;
+            }).sort());
           }
+
           cb(error, res);
         });
       } else {

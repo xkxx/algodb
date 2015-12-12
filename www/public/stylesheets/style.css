@@ -126,6 +126,16 @@ li {
   list-style-type: none;
 }
 
+.implementations.title .langs {
+  font-weight: 100;
+}
+.implementations.title .langs .lang:after {
+  content: ', ';
+}
+.implementations.title .langs .lang:last-child:after {
+  content: '';
+}
+
 .implementation .source .name {
   text-transform: capitalize;
 }
@@ -135,7 +145,7 @@ li {
 .source-code {
   color: green;
 }
-.source-code .code {
+code {
   font-family: 'Source Code Pro';
   font-size: 12px;
   padding: 10px;
@@ -147,8 +157,115 @@ li {
   padding: 10px;
 }
 
+/* NPM markdown */
+
+.npm {
+  margin-left: 20px;
+}
+
+.markdown {
+  margin: 0;
+}
+.markdown > h1 {
+  margin: 0;
+  padding: 20px 0 5px 0;
+  text-align: left;
+  line-height: 1.2;
+  white-space: normal;
+  overflow-y: hidden;
+  text-transform: none;
+}
+.markdown > h1 a {
+  color: rgba(0,0,0,0.8);
+  text-decoration: none;
+}
+.markdown >h2,
+.markdown h3,
+.markdown h4,
+.markdown h5,
+.markdown h6 {
+  color: rgba(0,0,0,0.8);
+  font-weight: 700;
+  padding: 10px 0;
+}
+.markdown >h2 a,
+.markdown h3 a,
+.markdown h4 a,
+.markdown h5 a,
+.markdown h6 a {
+  font-weight: 700;
+  color: rgba(0,0,0,0.8);
+  text-decoration: none;
+}
+.markdown >h2.deep-link a:before,
+.markdown h3.deep-link a:before,
+.markdown h4.deep-link a:before,
+.markdown h5.deep-link a:before,
+.markdown h6.deep-link a:before {
+  display: inline-block;
+  content: "#";
+  color: #fff;
+  margin-left: -20px;
+  width: 20px;
+  transition: all 0.2s;
+}
+@media only screen and (max-width: 767px) {
+  .markdown >h2.deep-link a:before,
+  .markdown h3.deep-link a:before,
+  .markdown h4.deep-link a:before,
+  .markdown h5.deep-link a:before,
+  .markdown h6.deep-link a:before {
+    display: none;
+  }
+}
+.markdown >h2.deep-link a:hover:before,
+.markdown h3.deep-link a:hover:before,
+.markdown h4.deep-link a:hover:before,
+.markdown h5.deep-link a:hover:before,
+.markdown h6.deep-link a:hover:before {
+  color: rgba(0,0,0,0.8);
+}
+.markdown h3 {
+  font-size: 20px;
+}
+.markdown h4,
+.markdown h5,
+.markdown h6 {
+  font-size: 18px;
+}
+.markdown ol ol,
+.markdown ul ol,
+.markdown ol ul,
+.markdown ul ul {
+  margin: 0 0 0 20px;
+}
+.markdown p,
+.markdown li {
+  font-size: 16px;
+}
+.markdown p a,
+.markdown li a {
+  font-weight: 600;
+}
+.markdown th {
+  font-weight: bold;
+}
+.markdown td,
+.markdown th {
+  padding: 0 5px;
+  background: #f5f5f5;
+}
+.markdown img {
+  max-width: 100%;
+}
+
+
 /* End formatting for source code */
 
 footer {
   margin-top: 100px;
+}
+
+footer .authors {
+  margin-top: 20px;
 }
