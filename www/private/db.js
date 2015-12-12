@@ -40,7 +40,9 @@ module.exports = {
           fields: ['name^3', 'tag_line^1.5', 'description'],
           fuzziness: 'AUTO'
         }
-      }
+      },
+      min_score: 1,
+      size: 50,
     };
     request({
       url: url,

@@ -1,5 +1,5 @@
 body {
-  padding: 50px;
+  padding: 20px;
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
 }
 
@@ -9,14 +9,27 @@ a {
 
 /* Header */
 
+header {
+  overflow: hidden;
+}
+
+header .row {
+  display: block;
+  overflow: hidden;
+}
+
 h1.logo {
   font-size: 40px;
   font-weight: 700;
-  margin: 20px 0;
+  display: inline-block;
+  margin: 10px 0;
+  padding-right: 20px;
+  float: left;
 }
 
 .stats {
   margin: 10px 0;
+  float: left;
 }
 .stats strong {
   font-weight: 700;
@@ -25,9 +38,9 @@ h1.logo {
 /* Languages */
 
 .languages .list {
-  -webkit-columns: 6 70px;
-     -moz-columns: 6 70px;
-          columns: 6 70px;
+  -webkit-columns: 6 150px;
+     -moz-columns: 6 150px;
+          columns: 6 150px;
 }
 
 .languages .list .count {
@@ -41,6 +54,25 @@ h1.logo {
   width: 320px;
   font-size: 22px;
   padding: 6px;
+  border: 1px solid rgb(240, 240, 240);
+  border-radius: 2px;
+  margin-right: 10px;
+}
+
+.submit {
+  font-size: 18px;
+  line-height: 18px;
+  display: inline-block;
+  border: 0;
+  vertical-align: top;
+  margin: 0;
+  padding: 10px 20px;
+  cursor: pointer;
+  height: 40px;
+  background-color: rgb(61, 134, 247);
+  color: white;
+  font-weight: 100;
+  border-radius: 2px;
 }
 
 /* Results */

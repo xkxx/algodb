@@ -53,12 +53,12 @@ router.get('/', function(req, res, next) {
 
     data.languages = languages;
     data.query = query; // may be undefined
-    console.log('Render /index.html with the following data:');
-    if (data.search.hits) {
-      for (var i = 0; i < data.search.hits.length; ++i) {
-        console.log(data.search.hits[i].implementations[0]);
-      }
-    }
+    // console.log('Render /index.html with the following data:');
+    // if (data.search.hits) {
+    //   for (var i = 0; i < data.search.hits.length; ++i) {
+    //     console.log(data.search.hits[i].implementations[0]);
+    //   }
+    // }
     res.render('index', data);
   });
 });
