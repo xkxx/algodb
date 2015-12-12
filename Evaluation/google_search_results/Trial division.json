@@ -1,0 +1,243 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Trial division - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Trial division</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Trial_division", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Trial</b>_<b>division</b>", 
+            "snippet": "Trial division is the most laborious but easiest to understand of the integer \nfactorization algorithms. The essential idea behind trial division tests to see if an\u00a0...", 
+            "htmlSnippet": "<b>Trial division</b> is the most laborious but easiest to understand of the integer <br>\nfactorization algorithms. The essential idea behind <b>trial division</b> tests to see if an&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Trial_division", 
+            "cacheId": "2AP2OFQsSiEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Federal Court of Canada - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Federal Court of Canada - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Federal_Court_of_Canada", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Federal_Court_of_Canada", 
+            "snippet": "The Court was split into two separate Courts, with the Trial Division continued as \nthe Federal Court and the Appeal Division continued as the Federal Court of\u00a0...", 
+            "htmlSnippet": "The Court was split into two separate Courts, with the <b>Trial Division</b> continued as <br>\nthe Federal Court and the Appeal Division continued as the Federal Court of&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Federal_Court_of_Canada", 
+            "cacheId": "ua7WHWYzfr4J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Supreme Court of Newfoundland and Labrador - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Supreme Court of Newfoundland and Labrador - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../Supreme_Court_of_Newfoundland_and_Labrador", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Supreme_Court_of_Newfoundland_and_Labrador", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "200", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV9orj3QoM9unrM_fsXWVLtD--gU-COulD5GkcdMM4q3DbEwAuXFDSRMkR", 
+                        "height": "150"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/SCNL_TrialDivisionOnDuckworth.JPG/250px-SCNL_TrialDivisionOnDuckworth.JPG"
+                    }
+                ]
+            }, 
+            "snippet": "Supreme Court of Newfoundland and Labrador (Trial Division); Supreme Court of \nNewfoundland and Labrador (Family Court). Duckworth street facade of the\u00a0...", 
+            "htmlSnippet": "Supreme Court of Newfoundland and Labrador (<b>Trial Division</b>); Supreme Court of <br>\nNewfoundland and Labrador (Family Court). Duckworth street facade of the&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Supreme_Court_of_Newfoundland_and_Labrador", 
+            "cacheId": "4re_4fsrc5oJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Oklahoma Court on the Judiciary - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Oklahoma Court on the Judiciary - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Oklahoma_Court_on_the_Judiciary", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Oklahoma_Court_on_the_Judiciary", 
+            "pagemap": {
+                "hcard": [
+                    {
+                        "fn": "Oklahoma"
+                    }
+                ]
+            }, 
+            "snippet": "There are nine judges that sit on the appellate division and nine other judges that \nsit on the trial division. Each judge is appointed by either the Oklahoma\u00a0...", 
+            "htmlSnippet": "There are nine judges that sit on the appellate division and nine other judges that <br>\nsit on the <b>trial division</b>. Each judge is appointed by either the Oklahoma&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Oklahoma_Court_on_the_Judiciary", 
+            "cacheId": "_aAGX3GZMYkJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Trial division - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Trial division</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3ATrial_division", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>Trial</b>_<b>division</b>", 
+            "snippet": "However, for n with at least one small factor, trial division can be a quick way to \nfind that small factor. It is worthwhile to note that for random n, there is a 50%\u00a0...", 
+            "htmlSnippet": "However, for n with at least one small factor, <b>trial division</b> can be a quick way to <br>\nfind that small factor. It is worthwhile to note that for random n, there is a 50%&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3ATrial_division", 
+            "cacheId": "HIAgSxwDuJMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Supreme Court of Victoria - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Supreme Court of Victoria - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Supreme_Court_of_Victoria", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Supreme_Court_of_Victoria", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "180", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRZd6dGScYbPwW5Gfa8sN_Ha28yo7ZFhrRZXcGOLUvkTLDwDux5RGRTfWI", 
+                        "height": "148"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Royal_Coat_of_Arms_of_the_United_Kingdom_(HM_Government).svg/225px-Royal_Coat_of_Arms_of_the_United_Kingdom_(HM_Government).svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "The Trial Division also acts as an appeal court from the Magistrates' Court on \nquestions of law, and appeals from the Victorian Civil and Administrative Tribunal\n\u00a0...", 
+            "htmlSnippet": "The <b>Trial Division</b> also acts as an appeal court from the Magistrates&#39; Court on <br>\nquestions of law, and appeals from the Victorian Civil and Administrative Tribunal<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Supreme_Court_of_Victoria", 
+            "cacheId": "XH6nWG3NkY8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Supreme Court of Prince Edward Island - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Supreme Court of Prince Edward Island - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../Supreme_Court_of_Prince_Edward_Island", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Supreme_Court_of_Prince_Edward_Island", 
+            "snippet": "All former justices of the Supreme Court (Trial Division) became justices of the \nSupreme Court. Pursuant to the Constitution Act, 1867, the Supreme Court is\u00a0...", 
+            "htmlSnippet": "All former justices of the Supreme Court (<b>Trial Division</b>) became justices of the <br>\nSupreme Court. Pursuant to the Constitution Act, 1867, the Supreme Court is&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Supreme_Court_of_Prince_Edward_Island", 
+            "cacheId": "59kgDS-rGL8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "High Court of American Samoa - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "High Court of American Samoa - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/High_Court_of_American_Samoa", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/High_Court_of_American_Samoa", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "120", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTbfDR0M14jZIPYKA3q1Dv6nT90spEZcPVqty-D0b4hmKQ7eGFcK7Kh", 
+                        "height": "90"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/High_Court_of_American_Samoa.jpg/150px-High_Court_of_American_Samoa.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "The trial division, which consists of the Chief Justice, the Associate Justice, and \nassociate judges, is a court of general jurisdiction, empowered to hear, among\u00a0...", 
+            "htmlSnippet": "The <b>trial division</b>, which consists of the Chief Justice, the Associate Justice, and <br>\nassociate judges, is a court of general jurisdiction, empowered to hear, among&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/High_Court_of_American_Samoa", 
+            "cacheId": "WdQ6PkAXICgJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Prime number - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Prime number - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Prime_number", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Prime_number", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "247", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS4V0-UUBA4o4YR9hTtoKMPE_QuAU3Bwj5JLG0pHZlI0X_afRWsvBn5sQs", 
+                        "height": "204"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Sieve_of_Eratosthenes_animation.gif"
+                    }
+                ]
+            }, 
+            "snippet": "A simple but slow method of verifying the primality of a given number n is known \nas trial division. It consists of testing whether n is a multiple of any integer\u00a0...", 
+            "htmlSnippet": "A simple but slow method of verifying the primality of a given number n is known <br>\nas <b>trial division</b>. It consists of testing whether n is a multiple of any integer&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Prime_number", 
+            "cacheId": "_yJlcjIoBHwJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Court of Queen's Bench of Alberta - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Court of Queen&#39;s Bench of Alberta - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Court_of_Queen's_Bench_of_Alberta", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Court_of_Queen&#39;s_Bench_of_Alberta", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "160", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTgn5JPjNqX8GwQx_Iz_GUr1WRMHxlXLHSt8IGx1qyCMdP6hp3kbiAJo7Bq", 
+                        "height": "213"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Queen's_Court-Calgary.JPG/200px-Queen's_Court-Calgary.JPG"
+                    }
+                ]
+            }, 
+            "snippet": "In 1921, the Supreme Court was reorganized to have an independent trial \ndivision (Supreme Court of Alberta Trial Division), and an independent appellate\n\u00a0...", 
+            "htmlSnippet": "In 1921, the Supreme Court was reorganized to have an independent <b>trial</b> <br>\n<b>division</b> (Supreme Court of Alberta <b>Trial Division</b>), and an independent appellate<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Court_of_Queen's_Bench_of_Alberta", 
+            "cacheId": "wAFh6AteeWsJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Trial division", 
+                "safe": "off", 
+                "searchTerms": "Trial division", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "2000000"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Trial division", 
+                "safe": "off", 
+                "searchTerms": "Trial division", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "2000000"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.41", 
+        "formattedTotalResults": "2,000,000", 
+        "totalResults": "2000000", 
+        "searchTime": 0.413384
+    }
+}

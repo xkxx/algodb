@@ -1,0 +1,278 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Ant colony optimization algorithms - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Ant colony optimization</b> algorithms - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Ant_colony_optimization_algorithms", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Ant</b>_<b>colony</b>_<b>optimization</b>_algorithms", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRRy8pMsLzkLlLJOToonGcv8nO0drOurG5SQtfEN4EhdzG40FrOk41YZw", 
+                        "height": "116"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Safari_ants.jpg/220px-Safari_ants.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "In computer science and operations research, the ant colony optimization \nalgorithm (ACO) is a probabilistic technique for solving computational problems \nwhich\u00a0...", 
+            "htmlSnippet": "In computer science and operations research, the <b>ant colony optimization</b> <br>\nalgorithm (<b>ACO</b>) is a probabilistic technique for solving computational problems <br>\nwhich&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Ant_colony_optimization_algorithms", 
+            "cacheId": "XvEjVwkisqMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Swarm intelligence - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Swarm intelligence - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Swarm_intelligence", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Swarm_intelligence", 
+            "snippet": "Ant colony optimization (ACO), introduced by Dorigo in his doctoral dissertation, \nis a class of optimization algorithms modeled on the actions of an ant colony.", 
+            "htmlSnippet": "<b>Ant colony optimization</b> (ACO), introduced by Dorigo in his doctoral dissertation, <br>\nis a class of optimization algorithms modeled on the actions of an ant colony.", 
+            "link": "https://en.wikipedia.org/wiki/Swarm_intelligence", 
+            "cacheId": "fM9mJL5kp7AJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Ant colony - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Ant colony</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Ant_colony", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Ant</b>_<b>colony</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTbxEW9bW3bjE62iHFo4_QvkY094u-iJ35ZgmywQbCbZDD9Obca1_YxPFwF", 
+                        "height": "232"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Ant_Nest.jpg/220px-Ant_Nest.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "Until 2000, the largest known ant supercolony was on the Ishikari coast of ... Ant \ncolony optimization, a technique in computer science inspired by ant colonies\u00a0...", 
+            "htmlSnippet": "Until 2000, the largest known ant supercolony was on the Ishikari coast of ... <b>Ant</b> <br>\n<b>colony optimization</b>, a technique in computer science inspired by ant colonies&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Ant_colony", 
+            "cacheId": "yUdGpgh7EG8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Marco Dorigo - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Marco Dorigo - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Marco_Dorigo", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Marco_Dorigo", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRQk0n_KeevAhXgwZeFlktYWeYd1h-OjgR_a7yOI2mz5ha-kkHs7lbDZ_c", 
+                        "height": "264"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Marco_Dorigo.jpg/220px-Marco_Dorigo.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "He is the proponent of the ant colony optimization metaheuristic (see his book \npublished by MIT Press in 2004), and one of the founders of the swarm\u00a0...", 
+            "htmlSnippet": "He is the proponent of the <b>ant colony optimization</b> metaheuristic (see his book <br>\npublished by MIT Press in 2004), and one of the founders of the swarm&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Marco_Dorigo", 
+            "cacheId": "-6lp99bZoM0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Travelling salesman problem - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Travelling salesman problem - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Travelling_salesman_problem", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Travelling_salesman_problem", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSS9g8B7r7LFUFeLljn3ADcIhT6V438-FdyjjuaF1CRqnhqnIoQgl1DnmCg", 
+                        "height": "176"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/GLPK_solution_of_a_travelling_salesman_problem.svg/220px-GLPK_solution_of_a_travelling_salesman_problem.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "4.2.3.1 Ant colony optimization. 5 Special cases of the TSP. 5.1 Metric TSP; 5.2 \nEuclidean TSP; 5.3 Asymmetric TSP. 5.3.1 Solving by conversion to symmetric\u00a0...", 
+            "htmlSnippet": "4.2.3.1 <b>Ant colony optimization</b>. 5 Special cases of the TSP. 5.1 Metric TSP; 5.2 <br>\nEuclidean TSP; 5.3 Asymmetric TSP. 5.3.1 Solving by conversion to symmetric&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Travelling_salesman_problem", 
+            "cacheId": "uizxvqXgoRYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Artificial ants - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Artificial <b>ants</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Artificial_ants", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Artificial_<b>ants</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "235", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn5iCAEh1_weM8t91Z9q0kZA7zLFEyV2PoaV3bCcdXDjxDu0HNV4ndv8OA", 
+                        "height": "214"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Artificial_ants.jpg/400px-Artificial_ants.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "As an example, Ant colony optimization is a class of optimization algorithms \nmodeled on the actions of an ant colony. Artificial 'ants' (e.g. simulation agents)\u00a0...", 
+            "htmlSnippet": "As an example, <b>Ant colony optimization</b> is a class of optimization algorithms <br>\nmodeled on the actions of an ant colony. Artificial &#39;ants&#39; (e.g. simulation agents)&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Artificial_ants", 
+            "cacheId": "HSrA-02cOTYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Ant colony optimization algorithms - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Ant colony optimization</b> algorithms - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3AAnt_colony_optimization", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>Ant</b>_<b>colony</b>_<b>optimization</b>", 
+            "snippet": "(Redirected from Talk:Ant colony optimization) ... I suggest to move the related \nmethods section to the \"combinatorial optimization\" article, also including a short\n\u00a0...", 
+            "htmlSnippet": "(Redirected from Talk:<b>Ant colony optimization</b>) ... I suggest to move the related <br>\nmethods section to the &quot;combinatorial optimization&quot; article, also including a short<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3AAnt_colony_optimization", 
+            "cacheId": "7eP584l2MpQJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Bees algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Bees algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Bees_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Bees_algorithm", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRgJ2Fm-cTvzGPKhTs4eoglm8xN5yhA4jSBSvNtxHDQ2MHYoLM68d_WQWE", 
+                        "height": "148"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Honey_Bee_takes_Nectar.JPG/220px-Honey_Bee_takes_Nectar.JPG"
+                    }
+                ]
+            }, 
+            "snippet": "It mimics the food foraging behaviour of honey bee colonies. .... Particle swarm \noptimization \u00b7 Ant colony optimization algorithms \u00b7 Artificial bee colony algorithm\u00a0...", 
+            "htmlSnippet": "It mimics the food foraging behaviour of honey bee colonies. .... Particle swarm <br>\noptimization &middot; <b>Ant colony optimization</b> algorithms &middot; Artificial bee colony algorithm&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Bees_algorithm", 
+            "cacheId": "KjK5apRcu70J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Metaheuristic - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Metaheuristic - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Metaheuristic", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Metaheuristic", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSKtpF7LiS9cmJ35Wkuwmj0-ALrPrEisrvxNGBurO7RFu-dJWhXVlDpOuk8", 
+                        "height": "161"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Metaheuristics_classification.svg/220px-Metaheuristics_classification.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "Ant colony optimization, particle swarm optimization, social cognitive optimization\n, and artificial bee colony algorithms are examples of this category.", 
+            "htmlSnippet": "<b>Ant colony optimization</b>, particle swarm optimization, social cognitive optimization<br>\n, and artificial bee colony algorithms are examples of this category.", 
+            "link": "https://en.wikipedia.org/wiki/Metaheuristic", 
+            "cacheId": "NMl8jyVSk2AJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Stigmergy - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Stigmergy - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Stigmergy", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Stigmergy", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRRy8pMsLzkLlLJOToonGcv8nO0drOurG5SQtfEN4EhdzG40FrOk41YZw", 
+                        "height": "116"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Safari_ants.jpg/220px-Safari_ants.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "In computer science, this general method has been applied in a variety of \ntechniques called ant colony optimization, which search for solutions to complex\n\u00a0...", 
+            "htmlSnippet": "In computer science, this general method has been applied in a variety of <br>\ntechniques called <b>ant colony optimization</b>, which search for solutions to complex<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Stigmergy", 
+            "cacheId": "ugqOK0Z1CU8J"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Ant colony optimization", 
+                "safe": "off", 
+                "searchTerms": "Ant colony optimization", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "324"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Ant colony optimization", 
+                "safe": "off", 
+                "searchTerms": "Ant colony optimization", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "324"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.27", 
+        "formattedTotalResults": "324", 
+        "totalResults": "324", 
+        "searchTime": 0.266329
+    }
+}

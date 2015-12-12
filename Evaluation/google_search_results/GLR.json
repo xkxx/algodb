@@ -1,0 +1,215 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "GLR parser - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>GLR</b> parser - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/GLR_parser", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>GLR</b>_parser", 
+            "snippet": "A GLR parser (GLR standing for \"generalized LR\", where L stands for \"left-to-right\n\" and R stands for \"rightmost (derivation)\") is an extension of an LR parser\u00a0...", 
+            "htmlSnippet": "A <b>GLR</b> parser (<b>GLR</b> standing for &quot;generalized LR&quot;, where L stands for &quot;left-to-right<br>\n&quot; and R stands for &quot;rightmost (derivation)&quot;) is an extension of an LR parser&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/GLR_parser", 
+            "cacheId": "5ys1qOjhJLgJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "BBC Radio London - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "BBC Radio London - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/BBC_Radio_London", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/BBC_Radio_London", 
+            "pagemap": {
+                "hcard": [
+                    {
+                        "url": "www.bbc.co.uk/radiolondon", 
+                        "category": "Local news, talk and music", 
+                        "url_text": "www.bbc.co.uk/radiolondon", 
+                        "fn": "BBC Radio London", 
+                        "label": "Greater London"
+                    }
+                ]
+            }, 
+            "snippet": "1.1 1970\u20131988: BBC Radio London; 1.2 1988\u20132000: Greater London Radio (\nGLR). 1.2.1 Controversy and closure. 1.3 2000\u20132001: BBC London Live 94.9; 1.4\n\u00a0...", 
+            "htmlSnippet": "1.1 1970\u20131988: BBC Radio London; 1.2 1988\u20132000: <b>Greater London Radio</b> (<br>\n<b>GLR</b>). 1.2.1 Controversy and closure. 1.3 2000\u20132001: BBC London Live 94.9; 1.4<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/BBC_Radio_London", 
+            "cacheId": "LLDluqXvmsUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "GLR - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>GLR</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/GLR", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>GLR</b>", 
+            "snippet": "GLR can refer to: BBC London 94.9 (Greater London ... This disambiguation \npage lists articles associated with the title GLR. If an internal link led you here, \nyou\u00a0...", 
+            "htmlSnippet": "<b>GLR</b> can refer to: BBC London 94.9 (Greater London ... This disambiguation <br>\npage lists articles associated with the title <b>GLR</b>. If an internal link led you here, <br>\nyou&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/GLR", 
+            "cacheId": "Kl23zRWJQCwJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Great Lakes Relay - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Great Lakes Relay - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Great_Lakes_Relay", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Great_Lakes_Relay", 
+            "snippet": "The Great Lakes Relay (GLR) is a three-day race for runners that crosses the \nnorthern portion of Michigan's Lower Peninsula, and sometimes part of the Upper\n\u00a0...", 
+            "htmlSnippet": "The Great Lakes Relay (<b>GLR</b>) is a three-day race for runners that crosses the <br>\nnorthern portion of Michigan&#39;s Lower Peninsula, and sometimes part of the Upper<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Great_Lakes_Relay", 
+            "cacheId": "tf2ywY6oOHcJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Gaylord Regional Airport - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Gaylord Regional Airport - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Gaylord_Regional_Airport", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Gaylord_Regional_Airport", 
+            "pagemap": {
+                "hcard": [
+                    {
+                        "category": "Public", 
+                        "note": "Owner County of Otsego", 
+                        "nickname": "GLR", 
+                        "fn": "Gaylord Regional Airport"
+                    }
+                ]
+            }, 
+            "snippet": "Gaylord Regional Airport (IATA: GLR, ICAO: KGLR, FAA LID: GLR) is a county \nowned, public use airport located one nautical mile (2 km) southwest of the \ncentral\u00a0...", 
+            "htmlSnippet": "Gaylord Regional Airport (IATA: <b>GLR</b>, ICAO: KGLR, FAA LID: <b>GLR</b>) is a county <br>\nowned, public use airport located one nautical mile (2 km) southwest of the <br>\ncentral&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Gaylord_Regional_Airport", 
+            "cacheId": "6xkpiyPVlZMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:GLR parser - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>GLR</b> parser - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3AGLR_parser", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>GLR</b>_parser", 
+            "snippet": "GLR is pretty hard to sum-up. In the end, the \"scanner\" form should be described \nfirst, then the parse-forest can be described. Presumably a little disambiguation\u00a0...", 
+            "htmlSnippet": "<b>GLR</b> is pretty hard to sum-up. In the end, the &quot;scanner&quot; form should be described <br>\nfirst, then the parse-forest can be described. Presumably a little disambiguation&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3AGLR_parser", 
+            "cacheId": "r0hzcTfW4xEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "The Maharaja Railways of India - Wikipedia, the free ... - Gwalior", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "The Maharaja Railways of India - Wikipedia, the free <b>...</b> - Gwalior", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/The_Maharaja_Railways_of_India", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/The_Maharaja_Railways_of_India", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "160", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTCciGy_oDvZy2oAN3j1Kf9D0fkEkoQADf7lExzmTG3wzMtWyjuBHJTQ", 
+                        "height": "106"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/4/47/Gwalior_rail_small.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "The Gwalior Light Railway (GLR) has been proposed for inclusion in the \nUNESCO list of World Heritage Sites. Indian Maharaja began thinking of \nconstruction of\u00a0...", 
+            "htmlSnippet": "The <b>Gwalior Light Railway</b> (<b>GLR</b>) has been proposed for inclusion in the <br>\nUNESCO list of World Heritage Sites. Indian Maharaja began thinking of <br>\nconstruction of&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/The_Maharaja_Railways_of_India", 
+            "cacheId": "csvIl2i9pNMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Grupo Latino de Radio - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Grupo Latino de Radio</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Grupo_Latino_de_Radio", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Grupo_Latino_de_Radio", 
+            "snippet": "Grupo Latino de Radio (GLR) is the US subsidiary of PRISA Radio, holding \ncompany for Grupo PRISA's radio assets. GLR operates two radio stations in the \nU.S.\u00a0...", 
+            "htmlSnippet": "<b>Grupo Latino de Radio</b> (<b>GLR</b>) is the US subsidiary of PRISA Radio, holding <br>\ncompany for Grupo PRISA&#39;s radio assets. <b>GLR</b> operates two radio stations in the <br>\nU.S.&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Grupo_Latino_de_Radio", 
+            "cacheId": "Pw1M-gB2h8QJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:GLR - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>GLR</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3AGLR", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>GLR</b>", 
+            "snippet": "This page is within the scope of WikiProject Disambiguation, an attempt to \nstructure and organize all disambiguation pages on Wikipedia. If you wish to help\n, you\u00a0...", 
+            "htmlSnippet": "This page is within the scope of WikiProject Disambiguation, an attempt to <br>\nstructure and organize all disambiguation pages on Wikipedia. If you wish to help<br>\n, you&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3AGLR", 
+            "cacheId": "imez9K3Ll-MJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Last Legionary - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Last Legionary - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Last_Legionary", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Last_Legionary", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "168", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAwAUbTQp3UYNFaSciHcxQv47u7CWdOoBlyJrePt60QW6s-sTDfg33hBo", 
+                        "height": "280"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/6/6e/Young-legionary.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "With Glr as his companion, a skeptical Keill moves to meet with the Legionaries \nhe found evidence of. He quickly finds that they are in fact agents of a shadowy\u00a0...", 
+            "htmlSnippet": "With <b>Glr</b> as his companion, a skeptical Keill moves to meet with the Legionaries <br>\nhe found evidence of. He quickly finds that they are in fact agents of a shadowy&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Last_Legionary", 
+            "cacheId": "yxhNuDCKfPAJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - GLR", 
+                "safe": "off", 
+                "searchTerms": "GLR", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "583"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - GLR", 
+                "safe": "off", 
+                "searchTerms": "GLR", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "583"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.27", 
+        "formattedTotalResults": "583", 
+        "totalResults": "583", 
+        "searchTime": 0.267982
+    }
+}

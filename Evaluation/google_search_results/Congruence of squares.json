@@ -1,0 +1,194 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Congruence of squares - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Congruence of squares</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Congruence_of_squares", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Congruence_of_squares</b>", 
+            "snippet": "In number theory, a congruence of squares is a congruence commonly used in ... \nHowever, n may also be factored if we can satisfy the weaker congruence of\u00a0...", 
+            "htmlSnippet": "In number theory, a <b>congruence of squares</b> is a congruence commonly used in ... <br>\nHowever, n may also be factored if we can satisfy the weaker <b>congruence of</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Congruence_of_squares", 
+            "cacheId": "9RPNYj6KijEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Dixon's factorization method - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Dixon&#39;s factorization method - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Dixon's_factorization_method", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Dixon&#39;s_factorization_method", 
+            "snippet": "Dixon's method is based on finding a congruence of squares modulo the integer \nN which we intend to factor. Fermat's factorization algorithm finds such a\u00a0...", 
+            "htmlSnippet": "Dixon&#39;s method is based on finding a <b>congruence of squares</b> modulo the integer <br>\nN which we intend to factor. Fermat&#39;s factorization algorithm finds such a&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Dixon's_factorization_method", 
+            "cacheId": "Uh1BI6P57CYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Congruence of squares - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Congruence of squares</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3ACongruence_of_squares", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>Congruence_of_squares</b>", 
+            "snippet": "The paragraph that begins \"A case where a congruence of squares will not yield \na factor...\" is nonsensical. For one thing it refers to something which is an\u00a0...", 
+            "htmlSnippet": "The paragraph that begins &quot;A case where a <b>congruence of squares</b> will not yield <br>\na factor...&quot; is nonsensical. For one thing it refers to something which is an&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3ACongruence_of_squares", 
+            "cacheId": "M9m3n7GKiuAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Quadratic sieve - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Quadratic sieve - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Quadratic_sieve", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Quadratic_sieve", 
+            "snippet": "The algorithm attempts to set up a congruence of squares modulo n (the integer \nto be factorized), which often leads to a factorization of n. The algorithm works in\n\u00a0...", 
+            "htmlSnippet": "The algorithm attempts to set up a <b>congruence of squares</b> modulo n (the integer <br>\nto be factorized), which often leads to a factorization of n. The algorithm works in<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Quadratic_sieve", 
+            "cacheId": "6cnNa2-ExQoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Proofs of Fermat's theorem on sums of two squares - Wikipedia, the ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Proofs of Fermat&#39;s theorem on sums of two <b>squares</b> - Wikipedia, the <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../Proofs_of_Fermat's_theorem_on_sums_of_two_ squares", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Proofs_of_Fermat&#39;s_theorem_on_sums_of_two_ <b>squares</b>", 
+            "snippet": "The \"only if\" clause is easy: a perfect square is congruent to 0 or 1 modulo 4, \nhence a sum of two squares is congruent to 0, 1, or 2. An odd prime number is\u00a0...", 
+            "htmlSnippet": "The &quot;only if&quot; clause is easy: a perfect square is <b>congruent</b> to 0 or 1 modulo 4, <br>\nhence a sum of two <b>squares</b> is <b>congruent</b> to 0, 1, or 2. An odd prime number is&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Proofs_of_Fermat's_theorem_on_sums_of_two_squares", 
+            "cacheId": "3o5P1FQ_uHAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Congruum - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Congruum - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Congruum", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Congruum", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "248", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5w9ZeIS-_3U6SyayTxsFnUzr4m-0ZyDTqw7DoT0AMdlZ7LgfxzjtmiyRq", 
+                        "height": "203"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Congruum.svg/360px-Congruum.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "The congruum problem is the problem of finding squares in arithmetic ... \nconnected with congruent numbers: every congruum is a congruent number, and \nevery\u00a0...", 
+            "htmlSnippet": "The congruum problem is the problem of finding <b>squares</b> in arithmetic ... <br>\nconnected with <b>congruent</b> numbers: every congruum is a <b>congruent</b> number, and <br>\nevery&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Congruum", 
+            "cacheId": "uor_JbOctroJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Quadratic residue - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Quadratic residue - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Quadratic_residue", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Quadratic_residue", 
+            "snippet": "The congruence classes relatively prime to the modulus are a group under \nmultiplication, called the group of units of the ring Z/nZ, and the squares are a\u00a0...", 
+            "htmlSnippet": "The <b>congruence</b> classes relatively prime to the modulus are a group under <br>\nmultiplication, called the group of units of the ring Z/nZ, and the <b>squares</b> are a&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Quadratic_residue", 
+            "cacheId": "U8QfXaTI0C8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Congruence - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Congruence</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Congruence", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Congruence</b>", 
+            "snippet": "Congruence (symbol: \u2245) is the state achieved by coming together, the state of ... \nCongruence of squares, in number theory, a congruence commonly used in\u00a0...", 
+            "htmlSnippet": "Congruence (symbol: \u2245) is the state achieved by coming together, the state of ... <br>\n<b>Congruence of squares</b>, in number theory, a congruence commonly used in&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Congruence", 
+            "cacheId": "NFyNolf_HTkJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Parallelogram - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Parallelogram - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Parallelogram", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Parallelogram", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRCGS9vFqhz3ubd9HdOfPNaS3lk-2rb1z6_fwpkbToVoUkYs3hqpS1pLA", 
+                        "height": "120"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Parallelogram.svg/220px-Parallelogram.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "The congruence of opposite sides and opposite angles is a direct ... The sum of \nthe squares of the sides equals the sum of the squares of the diagonals. (This is\u00a0...", 
+            "htmlSnippet": "The <b>congruence</b> of opposite sides and opposite angles is a direct ... The sum of <br>\nthe <b>squares</b> of the sides equals the sum of the <b>squares</b> of the diagonals. (This is&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Parallelogram", 
+            "cacheId": "kGsVZ0xmjWMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Fermat's theorem on sums of two squares - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Fermat&#39;s theorem on sums of two <b>squares</b> - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../Fermat's_theorem_on_sums_of_two_squares", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Fermat&#39;s_theorem_on_sums_of_two_<b>squares</b>", 
+            "snippet": "For example, the primes 5, 13, 17, 29, 37 and 41 are all congruent to 1 modulo 4, \nand they can be expressed as sums of two squares in the following ways:.", 
+            "htmlSnippet": "For example, the primes 5, 13, 17, 29, 37 and 41 are all <b>congruent</b> to 1 modulo 4, <br>\nand they can be expressed as sums of two <b>squares</b> in the following ways:.", 
+            "link": "https://en.wikipedia.org/wiki/Fermat's_theorem_on_sums_of_two_squares", 
+            "cacheId": "oD2fnB5UD1IJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Congruence of squares", 
+                "safe": "off", 
+                "searchTerms": "Congruence of squares", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "422"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Congruence of squares", 
+                "safe": "off", 
+                "searchTerms": "Congruence of squares", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "422"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.28", 
+        "formattedTotalResults": "422", 
+        "totalResults": "422", 
+        "searchTime": 0.278042
+    }
+}

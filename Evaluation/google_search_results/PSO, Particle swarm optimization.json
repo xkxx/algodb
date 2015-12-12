@@ -1,0 +1,180 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Particle swarm optimization - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Particle swarm optimization</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Particle_swarm_optimization", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Particle</b>_<b>swarm</b>_<b>optimization</b>", 
+            "snippet": "[edit]. As the PSO equations given above work on real numbers, a commonly \nused method to solve\u00a0...", 
+            "htmlSnippet": "[edit]. As the <b>PSO</b> equations given above work on real numbers, a commonly <br>\nused method to solve&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Particle_swarm_optimization", 
+            "cacheId": "d5OPNqht6rAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Multi-swarm optimization - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Multi-<b>swarm optimization</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Multi-swarm_optimization", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Multi-<b>swarm</b>_<b>optimization</b>", 
+            "snippet": "Multi-swarm optimization is a variant of Particle swarm optimization (PSO) based \non the use of multiple sub-swarms instead of one (standard) swarm.", 
+            "htmlSnippet": "Multi-swarm optimization is a variant of <b>Particle swarm optimization</b> (<b>PSO</b>) based <br>\non the use of multiple sub-swarms instead of one (standard) swarm.", 
+            "link": "https://en.wikipedia.org/wiki/Multi-swarm_optimization", 
+            "cacheId": "6fnxnPw4H8MJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Swarm intelligence - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Swarm</b> intelligence - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Swarm_intelligence", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Swarm</b>_intelligence", 
+            "snippet": "[edit]. Particle swarm optimization (PSO) is a global optimization algorithm for \ndealing with problems in which a best\u00a0...", 
+            "htmlSnippet": "[edit]. <b>Particle swarm optimization</b> (<b>PSO</b>) is a global optimization algorithm for <br>\ndealing with problems in which a best&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Swarm_intelligence", 
+            "cacheId": "fM9mJL5kp7AJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "PSO - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>PSO</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/PSO", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>PSO</b>", 
+            "snippet": "PSO. From Wikipedia, the free encyclopedia. Jump to: navigation, search. PSO \nmay ... Particle swarm optimization, a swarm intelligence optimization technique\u00a0...", 
+            "htmlSnippet": "<b>PSO</b>. From Wikipedia, the free encyclopedia. Jump to: navigation, search. <b>PSO</b> <br>\nmay ... <b>Particle swarm optimization</b>, a swarm intelligence optimization technique&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/PSO", 
+            "cacheId": "H-bbP9_TG7QJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Particle swarm optimization - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Particle swarm optimization</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3AParticle_swarm_optimization", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>Particle</b>_<b>swarm</b>_<b>optimization</b>", 
+            "snippet": "The PSO page on wikipedia is very popular and the readers should have concise \n..... particle swarm optimization (PSO) is a method for finding ideal solutions to\u00a0...", 
+            "htmlSnippet": "The <b>PSO</b> page on wikipedia is very popular and the readers should have concise <br>\n..... <b>particle swarm optimization</b> (<b>PSO</b>) is a method for finding ideal solutions to&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3AParticle_swarm_optimization", 
+            "cacheId": "eBsaYYZp_scJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "James Kennedy (social psychologist) - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "James Kennedy (social psychologist) - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/James_Kennedy_(social_psychologist)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/James_Kennedy_(social_psychologist)", 
+            "snippet": "James Kennedy (born November 5, 1950) is an American social psychologist, \nbest known as an originator and researcher of particle swarm optimization.", 
+            "htmlSnippet": "James Kennedy (born November 5, 1950) is an American social psychologist, <br>\nbest known as an originator and researcher of <b>particle swarm optimization</b>.", 
+            "link": "https://en.wikipedia.org/wiki/James_Kennedy_(social_psychologist)", 
+            "cacheId": "FU-pJlmKQzMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Evolutionary multimodal optimization - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Evolutionary multimodal <b>optimization</b> - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Evolutionary_multimodal_optimization", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Evolutionary_multimodal_<b>optimization</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "277", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQf2VmP1aKxdi_fP0RlURXBThipfxQ41oE6SBLLZ3NbR15cQbJ2qZhK-7s", 
+                        "height": "182"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/GA-Multi-modal.ogv/350px-seek%3D1-GA-Multi-modal.ogv.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "... particle swarm optimization (PSO), and other methods. Attempts have been \nmade to solve multi-modal optimization in all these realms and most, if not all the\n\u00a0...", 
+            "htmlSnippet": "... <b>particle swarm optimization</b> (<b>PSO</b>), and other methods. Attempts have been <br>\nmade to solve multi-modal optimization in all these realms and most, if not all the<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Evolutionary_multimodal_optimization", 
+            "cacheId": "yXMAMNA6G8EJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Firefly algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Firefly algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Firefly_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Firefly_algorithm", 
+            "snippet": "corresponds to the standard Particle Swarm Optimization (PSO). In fact, if the \ninner loop (for j) is removed and the brightness I_j is replaced by the current \nglobal\u00a0...", 
+            "htmlSnippet": "corresponds to the standard <b>Particle Swarm Optimization</b> (<b>PSO</b>). In fact, if the <br>\ninner loop (for j) is removed and the brightness I_j is replaced by the current <br>\nglobal&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Firefly_algorithm", 
+            "cacheId": "dwBhR2vRP4UJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Pathological Brain Detection (PBD) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Pathological Brain Detection (PBD) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Pathological_Brain_Detection_(PBD)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Pathological_Brain_Detection_(PBD)", 
+            "snippet": "Das et al. proposed to use Ripplet transform. Zhang et al. proposed to use \nparticle swarm optimization (PSO). Kalbkhani et al. suggested to use GARCH \nmodel.", 
+            "htmlSnippet": "Das et al. proposed to use Ripplet transform. Zhang et al. proposed to use <br>\n<b>particle swarm optimization</b> (<b>PSO</b>). Kalbkhani et al. suggested to use GARCH <br>\nmodel.", 
+            "link": "https://en.wikipedia.org/wiki/Pathological_Brain_Detection_(PBD)", 
+            "cacheId": "FGCazTSbUaEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Crystal structure prediction - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Crystal structure prediction - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Crystal_structure_prediction", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Crystal_structure_prediction", 
+            "snippet": "CALYPSO - The Crystal structure AnaL sis by Particle Swarm Optimization, \nimplementing the particle swarm optimization (PSO) algorithm to identify/\ndetermine\u00a0...", 
+            "htmlSnippet": "CALYPSO - The Crystal structure AnaL sis by <b>Particle Swarm Optimization</b>, <br>\nimplementing the <b>particle swarm optimization</b> (<b>PSO</b>) algorithm to identify/<br>\ndetermine&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Crystal_structure_prediction", 
+            "cacheId": "FtDME3tIMSsJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - PSO, Particle swarm optimization", 
+                "safe": "off", 
+                "searchTerms": "PSO, Particle swarm optimization", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "70"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - PSO, Particle swarm optimization", 
+                "safe": "off", 
+                "searchTerms": "PSO, Particle swarm optimization", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "70"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.27", 
+        "formattedTotalResults": "70", 
+        "totalResults": "70", 
+        "searchTime": 0.267321
+    }
+}

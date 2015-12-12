@@ -1,0 +1,264 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Square root - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Square root</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Square_root", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Square</b>_<b>root</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "204", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTli9LW6fvsNMlJPodv47kZVLjngw1cyfl8VgR__8HdUumavmi9XNjabAS8", 
+                        "height": "204"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Nuvola_apps_edu_mathematics_blue-p.svg/256px-Nuvola_apps_edu_mathematics_blue-p.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "In mathematics, a square root of a number a is a number y such that y2 = a, in \nother words, a number y whose square (the result of multiplying the number by\u00a0...", 
+            "htmlSnippet": "In mathematics, a <b>square root</b> of a number a is a number y such that y<sup>2</sup> = a, in <br>\nother words, a number y whose square (the result of multiplying the number by&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Square_root", 
+            "cacheId": "pCFiKSe4AhkJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Square Root Day - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Square Root</b> Day - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Square_Root_Day", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Square</b>_<b>Root</b>_Day", 
+            "snippet": "Square Root Day is an unofficial holiday celebrated on days when both the day \nof the month and the month are the square root of the last two digits of the year.", 
+            "htmlSnippet": "<b>Square Root</b> Day is an unofficial holiday celebrated on days when both the day <br>\nof the month and the month are the <b>square root</b> of the last two digits of the year.", 
+            "link": "https://en.wikipedia.org/wiki/Square_Root_Day", 
+            "cacheId": "ZVyB4HQSeBAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Square root of a matrix - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Square root</b> of a matrix - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Square_root_of_a_matrix", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Square</b>_<b>root</b>_of_a_matrix", 
+            "snippet": "While the square root of a nonnegative integer is either again an integer or an \nirrational number, in contrast an integer matrix can have a square root whose\u00a0...", 
+            "htmlSnippet": "While the <b>square root</b> of a nonnegative integer is either again an integer or an <br>\nirrational number, in contrast an integer matrix can have a <b>square root</b> whose&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Square_root_of_a_matrix", 
+            "cacheId": "zBd-vlU8sSYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Square root of 2 - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Square root</b> of 2 - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Square_root_of_2", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Square</b>_<b>root</b>_of_2", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "160", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ9jEVY-8Hf7czT00kbRvnZG33RB_k8oDqiOykBr9vX75W56y3Zlovxl0w", 
+                        "height": "160"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Square_root_of_2_triangle.svg/200px-Square_root_of_2_triangle.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "Geometrically the square root of 2 is the length of a diagonal across a square \nwith sides of one unit of length; this follows from the Pythagorean theorem.", 
+            "htmlSnippet": "Geometrically the <b>square root</b> of 2 is the length of a diagonal across a square <br>\nwith sides of one unit of length; this follows from the Pythagorean theorem.", 
+            "link": "https://en.wikipedia.org/wiki/Square_root_of_2", 
+            "cacheId": "n3L2W5ugUnIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Square Roots - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Square Roots</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Square_Roots", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Square</b>_<b>Roots</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "160", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQud9POHc8DeZnfdakngn0uT6iQMHnrOskRHma4WPM9mj1PtcG0jCl2Y8Q", 
+                        "height": "120"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Folk%26RootsFestival.jpg/200px-Folk%26RootsFestival.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "Square Roots (previously called the Folk & Roots Festival) is a two- to three-day \nmusic festival that has been held each summer in the Lincoln Square\u00a0...", 
+            "htmlSnippet": "<b>Square Roots</b> (previously called the Folk &amp; Roots Festival) is a two- to three-day <br>\nmusic festival that has been held each summer in the Lincoln Square&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Square_Roots", 
+            "cacheId": "ermNjl0d8T8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Methods of computing square roots - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Methods of computing <b>square roots</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Methods_of_computing_square_roots", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Methods_of_computing_<b>square</b>_<b>roots</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "240", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSW45zKeX3xJruEaYt9egerPfApywO1Od8wTH3yy4KD33MDFuJu0NohvJde", 
+                        "height": "184"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Babylonian_method.svg/300px-Babylonian_method.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "In numerical analysis, a branch of mathematics, there are several square root \nalgorithms or methods of computing the principal square root of a nonnegative \nreal\u00a0...", 
+            "htmlSnippet": "In numerical analysis, a branch of mathematics, there are several <b>square root</b> <br>\nalgorithms or methods of computing the principal <b>square root</b> of a nonnegative <br>\nreal&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Methods_of_computing_square_roots", 
+            "cacheId": "htUuPf3eeYAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Integer square root - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Integer <b>square root</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Integer_square_root", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Integer_<b>square</b>_<b>root</b>", 
+            "snippet": "In number theory, the integer square root (isqrt) of a positive integer n is the \npositive integer m which is the greatest integer less than or equal to the square \nroot\u00a0...", 
+            "htmlSnippet": "In number theory, the integer <b>square root</b> (isqrt) of a positive integer n is the <br>\npositive integer m which is the greatest integer less than or equal to the <b>square</b> <br>\n<b>root</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Integer_square_root", 
+            "cacheId": "y1ZKT0fVs4wJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Fast inverse square root - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Fast inverse <b>square root</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Fast_inverse_square_root", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Fast_inverse_<b>square</b>_<b>root</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "240", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR1peiDZ8hUzzHKyzHQXecY6xq8Qx_TxgUr7XhyaTm65A4w4z0NNFmQyHU", 
+                        "height": "192"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/OpenArena-Rocket.jpg/300px-OpenArena-Rocket.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "Fast inverse square root (sometimes referred to as Fast InvSqrt() or by the \nhexadecimal constant 0x5f3759df) is a method of calculating x\u2212\u00bd, the reciprocal \n(or\u00a0...", 
+            "htmlSnippet": "Fast inverse <b>square root</b> (sometimes referred to as Fast InvSqrt() or by the <br>\nhexadecimal constant 0x5f3759df) is a method of calculating x<sup>\u2212\u00bd</sup>, the reciprocal <br>\n(or&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Fast_inverse_square_root", 
+            "cacheId": "yNWIjGBFDx8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Square root of 3 - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Square root</b> of 3 - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Square_root_of_3", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Square</b>_<b>root</b>_of_3", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "188", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSqEiX3pgp_kwe5YjOrQqg8lFz_okCTdyc_8At6uVyiKsif2mN-xBtzZw4", 
+                        "height": "138"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/math/5/0/f/50f6b566946d93da0318598c40c4e73e.png"
+                    }
+                ]
+            }, 
+            "snippet": "The square root of 3 is the positive real number that, when multiplied by itself, \ngives the number 3. It is more precisely called the principal square root of 3,\u00a0...", 
+            "htmlSnippet": "The <b>square root</b> of 3 is the positive real number that, when multiplied by itself, <br>\ngives the number 3. It is more precisely called the principal <b>square root</b> of 3,&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Square_root_of_3", 
+            "cacheId": "ydgcSNo-H7UJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Square root of 5 - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Square root</b> of 5 - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Square_root_of_5", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Square</b>_<b>root</b>_of_5", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "160", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeIqdJ933CPuJpF-ngS9tceceMGisVygc45IBuSVSoIKHK-XVFNC61Wg", 
+                        "height": "114"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/math/8/6/2/86263b83609d8795efdab9493138a18e.png"
+                    }
+                ]
+            }, 
+            "snippet": "The square root of 5 is the positive real number that, when multiplied by itself, \ngives the prime number 5. It is more precisely called the principal square root of 5\n,\u00a0...", 
+            "htmlSnippet": "The <b>square root</b> of 5 is the positive real number that, when multiplied by itself, <br>\ngives the prime number 5. It is more precisely called the principal <b>square root</b> of 5<br>\n,&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Square_root_of_5", 
+            "cacheId": "oamzk5rr0uYJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Square root", 
+                "safe": "off", 
+                "searchTerms": "Square root", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "58200"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Square root", 
+                "safe": "off", 
+                "searchTerms": "Square root", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "58200"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.27", 
+        "formattedTotalResults": "58,200", 
+        "totalResults": "58200", 
+        "searchTime": 0.267695
+    }
+}

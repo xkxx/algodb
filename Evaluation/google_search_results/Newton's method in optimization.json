@@ -1,0 +1,208 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Newton's method in optimization - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Newton&#39;s method in optimization</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Newton's_method_in_optimization", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Newton&#39;s</b>_<b>method_in_optimization</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT11KeXQtadm48dgMJyGoG2PMDOuUzIrBPAgiopCAKN_2F--R9e9xVf9ZmN", 
+                        "height": "202"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Newton_optimization_vs_grad_descent.svg/220px-Newton_optimization_vs_grad_descent.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "Method[edit]. In the one-dimensional problem, Newton's Method attempts to \nconstruct a sequence xn from an initial guess x0 that converges towards some \nvalue\u00a0...", 
+            "htmlSnippet": "Method[edit]. In the one-dimensional problem, <b>Newton&#39;s Method</b> attempts to <br>\nconstruct a sequence xn from an initial guess x0 that converges towards some <br>\nvalue&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Newton's_method_in_optimization", 
+            "cacheId": "03xu6eoA4pEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Quasi-Newton method - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Quasi-<b>Newton method</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Quasi-Newton_method", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Quasi-<b>Newton</b>_<b>method</b>", 
+            "snippet": "The \"full\" Newton's method requires the Jacobian in order to search for zeros, or \nthe ... In optimization, quasi-Newton methods (a special case of variable metric\u00a0...", 
+            "htmlSnippet": "The &quot;full&quot; <b>Newton&#39;s method</b> requires the Jacobian in order to search for zeros, or <br>\nthe ... In <b>optimization</b>, quasi-<b>Newton methods</b> (a special case of variable metric&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Quasi-Newton_method", 
+            "cacheId": "x_a_eCp_2CIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Gauss\u2013Newton algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Gauss\u2013<b>Newton</b> algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Gauss\u2013Newton_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Gauss\u2013<b>Newton</b>_algorithm", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "130", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSvZbBRZoDQgp_il6wWXu0INcqUpKT-BzQRDmbOxCuYadO35PHsJ7oM9g", 
+                        "height": "47"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/math/f/8/f/f8f5aab07fd35f832deed2a3597c92dd.png"
+                    }
+                ]
+            }, 
+            "snippet": "In what follows, the Gauss\u2013Newton algorithm will be ... Newton's method for \nfunction optimization via an\u00a0...", 
+            "htmlSnippet": "In what follows, the Gauss\u2013Newton algorithm will be ... <b>Newton&#39;s method</b> for <br>\nfunction <b>optimization</b> via an&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Gauss%E2%80%93Newton_algorithm", 
+            "cacheId": "wyn1zkqkj0cJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Line search - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Line search - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Line_search", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Line_search", 
+            "snippet": "The descent direction can be computed by various methods, such as gradient \ndescent, Newton's method and Quasi-Newton method. The step size can be\u00a0...", 
+            "htmlSnippet": "The descent direction can be computed by various methods, such as gradient <br>\ndescent, <b>Newton&#39;s method</b> and Quasi-<b>Newton method</b>. The step size can be&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Line_search", 
+            "cacheId": "qWCBBy2PWE0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Broyden\u2013Fletcher\u2013Goldfarb\u2013Shanno algorithm - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Broyden\u2013Fletcher\u2013Goldfarb\u2013Shanno algorithm - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../Broyden\u2013Fletcher\u2013Goldfarb\u2013Shanno_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Broyden\u2013Fletcher\u2013Goldfarb\u2013Shanno_algorithm", 
+            "snippet": "In numerical optimization, the Broyden\u2013Fletcher\u2013Goldfarb\u2013Shanno (BFGS) ... \nNewton's method and the BFGS methods are not guaranteed to converge unless\n\u00a0...", 
+            "htmlSnippet": "In numerical <b>optimization</b>, the Broyden\u2013Fletcher\u2013Goldfarb\u2013Shanno (BFGS) ... <br>\n<b>Newton&#39;s method</b> and the BFGS methods are not guaranteed to converge unless<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Broyden%E2%80%93Fletcher%E2%80%93Goldfarb%E2%80%93Shanno_algorithm", 
+            "cacheId": "bfHZl-umQm8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Newton's method - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Newton&#39;s method</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Newton's_method", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Newton&#39;s</b>_<b>method</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "135", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNvBYJgehw_LhyiM6iv60LFPF8B20CEE848stHTcPNfR_zzVXgyoZz9AM", 
+                        "height": "43"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/math/9/9/c/99ca3ee7752a4df7bf1c4bbb7c963595.png"
+                    }
+                ]
+            }, 
+            "snippet": "... to: navigation, search. This article is about Newton's method for finding roots. \nFor Newton's method for finding minima, see Newton's method in optimization.", 
+            "htmlSnippet": "... to: navigation, search. This article is about Newton&#39;s method for finding roots. <br>\nFor Newton&#39;s method for finding minima, see <b>Newton&#39;s method in optimization</b>.", 
+            "link": "https://en.wikipedia.org/wiki/Newton's_method", 
+            "cacheId": "c_wZutM0DqwJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Truncated Newton method - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Truncated <b>Newton method</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Truncated_Newton_method", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Truncated_<b>Newton</b>_<b>method</b>", 
+            "snippet": "Truncated Newton methods, also known as Hessian-free optimization, are a \nfamily of optimization algorithms designed for optimizing non-linear function with\n\u00a0...", 
+            "htmlSnippet": "Truncated <b>Newton methods</b>, also known as Hessian-free <b>optimization</b>, are a <br>\nfamily of <b>optimization</b> algorithms designed for optimizing non-linear function with<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Truncated_Newton_method", 
+            "cacheId": "d2hxqES6xnAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Davidon\u2013Fletcher\u2013Powell formula - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Davidon\u2013Fletcher\u2013Powell formula - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Davidon\u2013Fletcher\u2013Powell_formula", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Davidon\u2013Fletcher\u2013Powell_formula", 
+            "snippet": "It was the first quasi-Newton method to generalize the secant method to a ... \"\nVariable metric method for minimization\", SIAM Journal on Optimization 1: 1\u201317,\n\u00a0...", 
+            "htmlSnippet": "It was the first quasi-<b>Newton method</b> to generalize the secant method to a ... &quot;<br>\nVariable metric method for minimization&quot;, SIAM Journal on <b>Optimization</b> 1: 1\u201317,<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Davidon%E2%80%93Fletcher%E2%80%93Powell_formula", 
+            "cacheId": "vs86ImdC-6UJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Symmetric rank-one - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Symmetric rank-one - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Symmetric_rank-one", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Symmetric_rank-one", 
+            "snippet": "The Symmetric Rank 1 (SR1) method is a quasi-Newton method to update the ... \nSIAM Journal on Optimization 6(4); Conn, A. R.; Gould, N. I. M.; Toint, Ph. L.", 
+            "htmlSnippet": "The Symmetric Rank 1 (SR1) method is a quasi-<b>Newton method</b> to update the ... <br>\nSIAM Journal on <b>Optimization</b> 6(4); Conn, A. R.; Gould, N. I. M.; Toint, Ph. L.", 
+            "link": "https://en.wikipedia.org/wiki/Symmetric_rank-one", 
+            "cacheId": "luZj9C8qaUUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Newton's method in optimization - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Newton&#39;s method in optimization</b> - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "en.wikipedia.org/wiki?title=Talk:Newton's_method_in_optimization", 
+            "htmlFormattedUrl": "en.wikipedia.org/wiki?title=Talk:<b>Newton&#39;s</b>_<b>method_in_optimization</b>", 
+            "snippet": "1 Should be merged with Newton's method; 2 Needs more generalization; 3 Call \nfor review/correction); 4 Call for clarification; 5 Root or minimum?? 6 Error in the\u00a0...", 
+            "htmlSnippet": "1 Should be merged with <b>Newton&#39;s method</b>; 2 Needs more generalization; 3 Call <br>\nfor review/correction); 4 Call for clarification; 5 Root or minimum?? 6 Error in the&nbsp;...", 
+            "link": "http://en.wikipedia.org/wiki?title=Talk:Newton's_method_in_optimization", 
+            "cacheId": "151JXtW4UDUJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Newton's method in optimization", 
+                "safe": "off", 
+                "searchTerms": "Newton's method in optimization", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "901"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Newton's method in optimization", 
+                "safe": "off", 
+                "searchTerms": "Newton's method in optimization", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "901"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.24", 
+        "formattedTotalResults": "901", 
+        "totalResults": "901", 
+        "searchTime": 0.243318
+    }
+}

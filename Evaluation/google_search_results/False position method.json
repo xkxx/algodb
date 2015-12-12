@@ -1,0 +1,222 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "False position method - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>False position method</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/False_position_method", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>False</b>_<b>position</b>_<b>method</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "237", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRDp6hvqsCqvlCyQgiwm-T-nx8OUk9kt_9WN9js_3YroU0sSbe66TE5oVM", 
+                        "height": "213"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/False_position_method.svg/351px-False_position_method.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "The false position method or regula falsi method is a term for problem-solving \nmethods in arithmetic, algebra, and calculus. In simple terms, these methods \nbegin\u00a0...", 
+            "htmlSnippet": "The <b>false position method</b> or regula falsi method is a term for problem-solving <br>\nmethods in arithmetic, algebra, and calculus. In simple terms, these methods <br>\nbegin&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/False_position_method", 
+            "cacheId": "Z-lsrxzFc38J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:False position method - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>False position method</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3AFalse_position_method", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>False</b>_<b>position</b>_<b>method</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "240", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrljYcHebrNbzX1I8mS5GZ_yQ8sUe9K_7OpAbb_aVtYit-4QUsmNwUoi4", 
+                        "height": "189"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Regula_falsi.gif/300px-Regula_falsi.gif"
+                    }
+                ]
+            }, 
+            "snippet": "9 Bad method? 10 Indian mathematics; 11 Double False position method \noriginated in China, spread to Europe via the middle east and then returned to \nChina\u00a0...", 
+            "htmlSnippet": "9 Bad method? 10 Indian mathematics; 11 Double <b>False position method</b> <br>\noriginated in China, spread to Europe via the middle east and then returned to <br>\nChina&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3AFalse_position_method", 
+            "cacheId": "cN2bQLQX9pgJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Ridders' method - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Ridders&#39; <b>method</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Ridders'_method", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Ridders&#39;_<b>method</b>", 
+            "snippet": "In numerical analysis, Ridders' method is a root-finding algorithm based on the \nfalse position method and the use of an exponential function to successively\u00a0...", 
+            "htmlSnippet": "In numerical analysis, Ridders&#39; method is a root-finding algorithm based on the <br>\n<b>false position method</b> and the use of an exponential function to successively&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Ridders'_method", 
+            "cacheId": "fjWqpX4GLpQJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Secant method - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Secant <b>method</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Secant_method", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Secant_<b>method</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "237", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQPHrN2B_gJFXwCxJPV7SOlSh8OHgag4iaUJlFLu3647A3Xvz4gzUflISY", 
+                        "height": "213"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Secant_method.svg/300px-Secant_method.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "In numerical analysis, the secant method is a root-finding algorithm that uses a ... \nThe false position method (or regula falsi) uses the same formula as the secant\u00a0...", 
+            "htmlSnippet": "In numerical analysis, the secant method is a root-finding algorithm that uses a ... <br>\nThe <b>false position method</b> (or regula falsi) uses the same formula as the secant&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Secant_method", 
+            "cacheId": "AOiX0K78MU0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Root-finding algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Root-finding algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Root-finding_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Root-finding_algorithm", 
+            "snippet": "The false position method, also called the regula falsi method, is like the secant \nmethod. However, instead of retaining the last two points, it makes sure to keep\u00a0...", 
+            "htmlSnippet": "The <b>false position method</b>, also called the regula falsi method, is like the secant <br>\nmethod. However, instead of retaining the last two points, it makes sure to keep&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Root-finding_algorithm", 
+            "cacheId": "3HIDbfklPIQJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "File:Regula falsi.svg - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "File:Regula falsi.svg - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/File:Regula_falsi.svg", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/File:Regula_falsi.svg", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "237", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTCrgM8bvQXDSScOFl2vagnD6vzFxQPPEHvkr7tfOkINSlAl-9ezgdZLg", 
+                        "height": "213"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d6/Regula_falsi.svg/351px-Regula_falsi.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "Summary[edit]. Illustration of the false position method. Created by Jitse Niesen \nusing Xfig, adopted by cysiek10. Licensing[edit]. I, the copyright holder of this\u00a0...", 
+            "htmlSnippet": "Summary[edit]. Illustration of the <b>false position method</b>. Created by Jitse Niesen <br>\nusing Xfig, adopted by cysiek10. Licensing[edit]. I, the copyright holder of this&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/File:Regula_falsi.svg", 
+            "cacheId": "uMIvIygBk8kJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Egyptian algebra - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Egyptian algebra - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Egyptian_algebra", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Egyptian_algebra", 
+            "snippet": "Solving these Aha problems involves a technique called method of false position. \nThe technique is also called the method of false assumption. The scribe would\u00a0...", 
+            "htmlSnippet": "Solving these Aha problems involves a technique called <b>method</b> of <b>false position</b>. <br>\nThe technique is also called the <b>method</b> of false assumption. The scribe would&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Egyptian_algebra", 
+            "cacheId": "5jU5ZSM-dYQJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Ancient Egyptian mathematics - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:Ancient Egyptian mathematics - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3AEgyptian_mathematics", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3AEgyptian_mathematics", 
+            "snippet": "I'm not sure that the solution to problem 25 in the Rhind Papyrus uses the False \nposition method. Wouldn't it more correctly be described as \"linear extrapolation\u00a0...", 
+            "htmlSnippet": "I&#39;m not sure that the solution to problem 25 in the Rhind Papyrus uses the <b>False</b> <br>\n<b>position method</b>. Wouldn&#39;t it more correctly be described as &quot;linear extrapolation&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3AEgyptian_mathematics", 
+            "cacheId": "445vPppeKpAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Chinese mathematics - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:Chinese mathematics - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3AChinese_mathematics", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3AChinese_mathematics", 
+            "snippet": "3 Versus Western Math; 4 Differential and Integral Calculus? 5 Needham; 6 A \nHomecoming Stranger: Footsteps of the Double-False-Position Method\u00a0...", 
+            "htmlSnippet": "3 Versus Western Math; 4 Differential and Integral Calculus? 5 Needham; 6 A <br>\nHomecoming Stranger: Footsteps of the Double-<b>False</b>-<b>Position Method</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3AChinese_mathematics", 
+            "cacheId": "E2Z_t-1_oHEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Category:Root-finding algorithms - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Category:Root-finding algorithms - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Category:Root-finding_algorithms", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Category:Root-finding_algorithms", 
+            "snippet": "A root-finding algorithm is a numerical method or algorithm for finding a value x \nsuch ... F. False position method \u00b7 Fast inverse square root \u00b7 Fixed-point iteration\u00a0...", 
+            "htmlSnippet": "A root-finding algorithm is a numerical method or algorithm for finding a value x <br>\nsuch ... F. <b>False position method</b> &middot; Fast inverse square root &middot; Fixed-point iteration&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Category:Root-finding_algorithms", 
+            "cacheId": "-7ACIehe2lkJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - False position method", 
+                "safe": "off", 
+                "searchTerms": "False position method", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "31000"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - False position method", 
+                "safe": "off", 
+                "searchTerms": "False position method", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "31000"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.38", 
+        "formattedTotalResults": "31,000", 
+        "totalResults": "31000", 
+        "searchTime": 0.378131
+    }
+}

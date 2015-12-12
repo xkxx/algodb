@@ -1,0 +1,215 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Metropolis\u2013Hastings algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Metropolis</b>\u2013<b>Hastings</b> algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Metropolis\u2013Hastings_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Metropolis</b>\u2013<b>Hastings</b>_algorithm", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "360", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTIzymBnSmiG5_-3qOxZfVnOBxoh1Gecliar2MUGezm4Kr2u4ieyp1QNQ", 
+                        "height": "117"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Metropolis_hastings_algorithm.png/450px-Metropolis_hastings_algorithm.png"
+                    }
+                ]
+            }, 
+            "snippet": "In statistics and in statistical physics, the Metropolis\u2013Hastings algorithm is a \nMarkov chain Monte Carlo (MCMC) method for obtaining a sequence of random\n\u00a0...", 
+            "htmlSnippet": "In statistics and in statistical physics, the <b>Metropolis</b>\u2013<b>Hastings</b> algorithm is a <br>\nMarkov chain Monte Carlo (MCMC) method for obtaining a sequence of random<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Metropolis%E2%80%93Hastings_algorithm", 
+            "cacheId": "n2vq-tOtm4EJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Multiple-try Metropolis - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Multiple-try <b>Metropolis</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Multiple-try_Metropolis", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Multiple-try_<b>Metropolis</b>", 
+            "snippet": "[edit]. In Markov chain Monte Carlo, the Metropolis\u2013Hastings algorithm (MH) can \nbe used to sample\u00a0...", 
+            "htmlSnippet": "[edit]. In Markov chain Monte Carlo, the <b>Metropolis</b>\u2013<b>Hastings</b> algorithm (MH) can <br>\nbe used to sample&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Multiple-try_Metropolis", 
+            "cacheId": "tzKvq9xufl0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "W. K. Hastings - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "W. K. <b>Hastings</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/W._K._Hastings", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/W._K._<b>Hastings</b>", 
+            "snippet": "W. K. Hastings (born July 21, 1930 in Toronto, Ontario, Canada) is a statistician. \nHe is noted for his contribution to the The Metropolis-Hastings algorithm (or,\u00a0...", 
+            "htmlSnippet": "W. K. Hastings (born July 21, 1930 in Toronto, Ontario, Canada) is a statistician. <br>\nHe is noted for his contribution to the The <b>Metropolis</b>-<b>Hastings</b> algorithm (or,&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/W._K._Hastings", 
+            "cacheId": "hfXTFf099wsJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Metropolis\u2013Hastings algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Metropolis</b>\u2013<b>Hastings</b> algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3AMetropolis-Hastings_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>Metropolis</b>-<b>Hastings</b>_algorithm", 
+            "snippet": "(Redirected from Talk:Metropolis-Hastings algorithm) ... 5 Proposal density; 6 \nOverview; 7 Easter egg link; 8 Interacting Metropolis-Hastings methodology\u00a0...", 
+            "htmlSnippet": "(Redirected from Talk:<b>Metropolis</b>-<b>Hastings</b> algorithm) ... 5 Proposal density; 6 <br>\nOverview; 7 Easter egg link; 8 Interacting <b>Metropolis</b>-<b>Hastings</b> methodology&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3AMetropolis-Hastings_algorithm", 
+            "cacheId": "-rTYircH4oMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Simulated annealing - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Simulated annealing - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Simulated_annealing", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Simulated_annealing", 
+            "snippet": "The method is an adaptation of the Metropolis\u2013Hastings algorithm, a Monte Carlo \nmethod to generate sample states of a thermodynamic system, invented by\u00a0...", 
+            "htmlSnippet": "The method is an adaptation of the <b>Metropolis</b>\u2013<b>Hastings</b> algorithm, a Monte Carlo <br>\nmethod to generate sample states of a thermodynamic system, invented by&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Simulated_annealing", 
+            "cacheId": "WeeVQjQyM5QJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Nicholas Metropolis - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Nicholas <b>Metropolis</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Nicholas_Metropolis", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Nicholas_<b>Metropolis</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "150", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRtqGmMo0toUxwv3_-V1ZBVKux6dRDWSkgrIZGETR6_ZYDqODYSdzFX8MM", 
+                        "height": "230"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/5/56/Nicholas_Metropolis_cropped.PNG"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "bday": "1915-06-11", 
+                        "category": "Physicist, Mathematician", 
+                        "fn": "Nicholas Metropolis"
+                    }
+                ]
+            }, 
+            "snippet": "The algorithm for generating samples from the Boltzmann distribution was later \ngeneralized by W.K. Hastings to become the Metropolis-Hastings algorithm.", 
+            "htmlSnippet": "The algorithm for generating samples from the Boltzmann distribution was later <br>\ngeneralized by W.K. Hastings to become the <b>Metropolis</b>-<b>Hastings</b> algorithm.", 
+            "link": "https://en.wikipedia.org/wiki/Nicholas_Metropolis", 
+            "cacheId": "RDgnypQ72JYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Metropolis light transport - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Metropolis</b> light transport - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Metropolis_light_transport", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Metropolis</b>_light_transport", 
+            "snippet": "The Metropolis light transport (MLT) is an application of a variant of the Monte \nCarlo method called the Metropolis-Hastings algorithm to the rendering equation\n\u00a0...", 
+            "htmlSnippet": "The Metropolis light transport (MLT) is an application of a variant of the Monte <br>\nCarlo method called the <b>Metropolis</b>-<b>Hastings</b> algorithm to the rendering equation<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Metropolis_light_transport", 
+            "cacheId": "nzaOPWzzOtoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Parallel tempering - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Parallel tempering - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Parallel_tempering", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Parallel_tempering", 
+            "snippet": "Typically a Monte Carlo simulation using a Metropolis-Hastings update consists \nof a single stochastic process that evaluates the energy of the system and\u00a0...", 
+            "htmlSnippet": "Typically a Monte Carlo simulation using a <b>Metropolis</b>-<b>Hastings</b> update consists <br>\nof a single stochastic process that evaluates the energy of the system and&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Parallel_tempering", 
+            "cacheId": "O-jIz15YFQkJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Markov chain Monte Carlo - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Markov chain Monte Carlo - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Markov_chain_Monte_Carlo", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Markov_chain_Monte_Carlo", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb9jDg7UwbDm5t0wHJZxSjchd5F4f54IiB13c8E9CaVDHCfzQkItgXEWY", 
+                        "height": "176"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Metropolis_algorithm_convergence_example.png/220px-Metropolis_algorithm_convergence_example.png"
+                    }
+                ]
+            }, 
+            "snippet": "Convergence of the Metropolis-Hastings algorithm. MCMC attempts to \napproximate the blue distribution with the orange distribution. Random walk \nMonte Carlo\u00a0...", 
+            "htmlSnippet": "Convergence of the <b>Metropolis</b>-<b>Hastings</b> algorithm. MCMC attempts to <br>\napproximate the blue distribution with the orange distribution. Random walk <br>\nMonte Carlo&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Markov_chain_Monte_Carlo", 
+            "cacheId": "w0XsM7CwBHkJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Gibbs sampling - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Gibbs sampling - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Gibbs_sampling", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Gibbs_sampling", 
+            "snippet": "In its basic version, Gibbs sampling is a special case of the Metropolis\u2013Hastings \nalgorithm. However, in its extended versions (see below), it can be considered a\n\u00a0...", 
+            "htmlSnippet": "In its basic version, Gibbs sampling is a special case of the <b>Metropolis</b>\u2013<b>Hastings</b> <br>\nalgorithm. However, in its extended versions (see below), it can be considered a<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Gibbs_sampling", 
+            "cacheId": "oej7drPUYJIJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Metropolis-Hastings", 
+                "safe": "off", 
+                "searchTerms": "Metropolis-Hastings", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "483"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Metropolis-Hastings", 
+                "safe": "off", 
+                "searchTerms": "Metropolis-Hastings", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "483"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.27", 
+        "formattedTotalResults": "483", 
+        "totalResults": "483", 
+        "searchTime": 0.267826
+    }
+}

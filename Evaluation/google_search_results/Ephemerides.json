@@ -1,0 +1,228 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Ephemeris - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Ephemeris - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Ephemeris", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Ephemeris", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRaYMRU3KLuBLlaWPA4uXirFYKo4VKypORNUQIyPqu8nIzS4-XtO5IbEiY", 
+                        "height": "252"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Corpus_Christ_College_MS_283_(1).png/220px-Corpus_Christ_College_MS_283_(1).png"
+                    }
+                ]
+            }, 
+            "snippet": "In astronomy and celestial navigation, an ephemeris (plural: ephemerides; from \nLatin ephemeris, \"diary\", from Greek \u1f10\u03c6\u03b7\u03bc\u03b5\u03c1\u03af\u03c2, eph\u0113meris, \"diary, calendar\")\u00a0...", 
+            "htmlSnippet": "In astronomy and celestial navigation, an ephemeris (plural: <b>ephemerides</b>; from <br>\nLatin ephemeris, &quot;diary&quot;, from Greek \u1f10\u03c6\u03b7\u03bc\u03b5\u03c1\u03af\u03c2, eph\u0113meris, &quot;diary, calendar&quot;)&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Ephemeris", 
+            "cacheId": "97V7aSWWcoIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Ephemerides Theologicae Lovanienses - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Ephemerides</b> Theologicae Lovanienses - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Ephemerides_Theologicae_Lovanienses", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Ephemerides</b>_Theologicae_Lovanienses", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "120", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTOdG0w5IcQbH6J8Uos49y0TnWj9bzDwar3bFNOUPOr4oIbwWncAFu2Vw", 
+                        "height": "189"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/7/71/Ephemerides_Theologicae_Lovanienses.jpg/150px-Ephemerides_Theologicae_Lovanienses.jpg"
+                    }
+                ], 
+                "hproduct": [
+                    {
+                        "category": "Theology, Canon Law", 
+                        "fn": "Ephemerides Theologicae Lovanienses"
+                    }
+                ]
+            }, 
+            "snippet": "Ephemerides Theologicae Lovanienses (ETL), founded in 1924, is a quarterly \npublication by professors of Theology and Canon Law at the Katholieke\u00a0...", 
+            "htmlSnippet": "<b>Ephemerides</b> Theologicae Lovanienses (ETL), founded in 1924, is a quarterly <br>\npublication by professors of Theology and Canon Law at the Katholieke&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Ephemerides_Theologicae_Lovanienses", 
+            "cacheId": "rnSceB3-mBQJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Ephemerides Zagrabienses - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Ephemerides</b> Zagrabienses - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Ephemerides_Zagrabienses", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Ephemerides</b>_Zagrabienses", 
+            "snippet": "Ephemerides Zagrabienses was the first Croatian newspaper, established in \n1771 in Zagreb. Fifty issues of the four-page newspaper in Latin were published \nby\u00a0...", 
+            "htmlSnippet": "<b>Ephemerides</b> Zagrabienses was the first Croatian newspaper, established in <br>\n1771 in Zagreb. Fifty issues of the four-page newspaper in Latin were published <br>\nby&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Ephemerides_Zagrabienses", 
+            "cacheId": "ZlFxh-LZ6h8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Fundamental ephemeris - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Fundamental ephemeris - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Fundamental_ephemeris", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Fundamental_ephemeris", 
+            "snippet": "Current fundamental ephemerides are typically released with exact descriptions \nof all mathematical models, methods of computation, observational data, and\u00a0...", 
+            "htmlSnippet": "Current fundamental <b>ephemerides</b> are typically released with exact descriptions <br>\nof all mathematical models, methods of computation, observational data, and&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Fundamental_ephemeris", 
+            "cacheId": "hQVwiD1VOu8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Jet Propulsion Laboratory Development Ephemeris - Wikipedia, the ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Jet Propulsion Laboratory Development Ephemeris - Wikipedia, the <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../Jet_Propulsion_Laboratory_Development_ Ephemeris", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Jet_Propulsion_Laboratory_Development_ Ephemeris", 
+            "snippet": "The JPL ephemerides prior to DE405 were integrated on a Univac mainframe in \ndouble precision. For instance, DE102, which was created in 1977, took six\u00a0...", 
+            "htmlSnippet": "The JPL <b>ephemerides</b> prior to DE405 were integrated on a Univac mainframe in <br>\ndouble precision. For instance, DE102, which was created in 1977, took six&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Jet_Propulsion_Laboratory_Development_Ephemeris", 
+            "cacheId": "aC-9es-bBwkJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "File:Ephemerides Theologicae Lovanienses.jpg - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "File:<b>Ephemerides</b> Theologicae Lovanienses.jpg - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../File:Ephemerides_Theologicae_Lovanienses.jpg", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../File:<b>Ephemerides</b>_Theologicae_Lovanienses.jpg", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "168", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQIU4UGYTAkoLq98D0cs5qJ-4OU8XlkwF7GYkSoY6_bQaDGbSlWZG6lKQGM", 
+                        "height": "266"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/7/71/Ephemerides_Theologicae_Lovanienses.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "Non-free media information and use rationale for Ephemerides Theologicae \nLovanienses. Description. cover of Ephemerides Theologicae Lovanienses. \nSource.", 
+            "htmlSnippet": "Non-free media information and use rationale for <b>Ephemerides</b> Theologicae <br>\nLovanienses. Description. cover of <b>Ephemerides</b> Theologicae Lovanienses. <br>\nSource.", 
+            "link": "https://en.wikipedia.org/wiki/File:Ephemerides_Theologicae_Lovanienses.jpg", 
+            "cacheId": "jkGNPC8XopUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Elena V. Pitjeva - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Elena V. Pitjeva - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Elena_V._Pitjeva", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Elena_V._Pitjeva", 
+            "snippet": "Major research interests of Dr. Pitjeva include the construction of numerical \nephemerides of the planets, the determination of the planets' and asteroids' \nmasses,\u00a0...", 
+            "htmlSnippet": "Major research interests of Dr. Pitjeva include the construction of numerical <br>\n<b>ephemerides</b> of the planets, the determination of the planets&#39; and asteroids&#39; <br>\nmasses,&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Elena_V._Pitjeva", 
+            "cacheId": "2ROduR08PvUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Portal:Venezuela/Ephemerides - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Portal:Venezuela/<b>Ephemerides</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Portal:Venezuela/Ephemerides", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Portal:Venezuela/<b>Ephemerides</b>", 
+            "snippet": "Portal:Venezuela/Ephemerides. From Wikipedia, the free encyclopedia. < Portal:\nVenezuela. Jump to: navigation, search. MontreGousset001.jpg \u00b7 November 1\u00a0...", 
+            "htmlSnippet": "Portal:Venezuela/<b>Ephemerides</b>. From Wikipedia, the free encyclopedia. &lt; Portal:<br>\nVenezuela. Jump to: navigation, search. MontreGousset001.jpg &middot; November 1&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Portal:Venezuela/Ephemerides", 
+            "cacheId": "aDxqvT-1GQgJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Johannes Stadius - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Johannes Stadius - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Johannes_Stadius", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Johannes_Stadius", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "160", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLO1rZ8C-8EtHqw7RYqHSykEdD20wiNz-BopQsRKcAnd0nMT3OGY65qaQ", 
+                        "height": "212"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Joannes_Stadius.jpg/200px-Joannes_Stadius.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "An ephemeris (plural: ephemerides) (from the Greek word ephemeros, \"daily\") \nwas, traditionally, a table providing the positions (given in a Cartesian coordinate\n\u00a0...", 
+            "htmlSnippet": "An ephemeris (plural: <b>ephemerides</b>) (from the Greek word ephemeros, &quot;daily&quot;) <br>\nwas, traditionally, a table providing the positions (given in a Cartesian coordinate<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Johannes_Stadius", 
+            "cacheId": "cK8IkIKknbwJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Ephemerides Zagrabienses - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Ephemerides</b> Zagrabienses - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3AEphemerides_Zagrabienses", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>Ephemerides</b>_Zagrabienses", 
+            "snippet": "Ephemerides Zagrabienses is within the scope of WikiProject Croatia, a \ncollaborative effort to improve the quality and coverage of articles related to \nCroatia on\u00a0...", 
+            "htmlSnippet": "<b>Ephemerides</b> Zagrabienses is within the scope of WikiProject Croatia, a <br>\ncollaborative effort to improve the quality and coverage of articles related to <br>\nCroatia on&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3AEphemerides_Zagrabienses", 
+            "cacheId": "de9ITRHIst4J"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Ephemerides", 
+                "safe": "off", 
+                "searchTerms": "Ephemerides", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "830"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Ephemerides", 
+                "safe": "off", 
+                "searchTerms": "Ephemerides", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "830"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.24", 
+        "formattedTotalResults": "830", 
+        "totalResults": "830", 
+        "searchTime": 0.244675
+    }
+}

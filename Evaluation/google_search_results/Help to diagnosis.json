@@ -1,0 +1,236 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Computer-aided diagnosis - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Computer-aided <b>diagnosis</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Computer-aided_diagnosis", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Computer-aided_<b>diagnosis</b>", 
+            "snippet": "CAD systems help scan digital images, e.g. from computed tomography, for ... \npreventive medical check-ups in mammography (diagnosis of breast cancer), the\n\u00a0...", 
+            "htmlSnippet": "CAD systems <b>help</b> scan digital images, e.g. from computed tomography, for ... <br>\npreventive medical check-ups in mammography (<b>diagnosis</b> of breast cancer), the<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Computer-aided_diagnosis", 
+            "cacheId": "7c0JWzScaZ8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Diagnostic test - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Diagnostic</b> test - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Diagnostic_test", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Diagnostic</b>_test", 
+            "snippet": "Please help improve it or discuss these issues on the talk page. ... In medicine, a \ndiagnostic test is any kind of medical test performed to aid in the diagnosis or\u00a0...", 
+            "htmlSnippet": "Please <b>help</b> improve it or discuss these issues on the talk page. ... In medicine, a <br>\n<b>diagnostic</b> test is any kind of medical test performed to aid in the <b>diagnosis</b> or&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Diagnostic_test", 
+            "cacheId": "pP1KSiYuOlEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "HELLP syndrome - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "HELLP syndrome - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/HELLP_syndrome", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/HELLP_syndrome", 
+            "snippet": "1 Signs and symptoms; 2 Pathophysiology; 3 Diagnosis and classification; 4 \nTreatment ... HELLP syndrome can be difficult to diagnose due to the variability of\n\u00a0...", 
+            "htmlSnippet": "1 Signs and symptoms; 2 Pathophysiology; 3 <b>Diagnosis</b> and classification; 4 <br>\nTreatment ... HELLP syndrome can be difficult to <b>diagnose</b> due to the variability of<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/HELLP_syndrome", 
+            "cacheId": "iNQuMZ0ijAwJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Streptococcal pharyngitis - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Streptococcal pharyngitis - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Streptococcal_pharyngitis", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Streptococcal_pharyngitis", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "184", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSggGdlz1832l0TQi5jtgDjIhyYC1AMOfnW3PlztwyDn86DZ1Fy9YE33dtd", 
+                        "height": "217"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Pos_strep.JPG/230px-Pos_strep.JPG"
+                    }
+                ]
+            }, 
+            "snippet": "A number of scoring systems exist to help with diagnosis; however, their use is \ncontroversial due to insufficient accuracy. The modified Centor criteria is based\u00a0...", 
+            "htmlSnippet": "A number of scoring systems exist to <b>help</b> with <b>diagnosis</b>; however, their use is <br>\ncontroversial due to insufficient accuracy. The modified Centor criteria is based&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Streptococcal_pharyngitis", 
+            "cacheId": "j976u82eO9QJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Medical diagnosis - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Medical <b>diagnosis</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Medical_diagnosis", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Medical_<b>diagnosis</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR3DLPPXT1ubCadt2GzTiHFEtSrsOv8OKpMU5QhNrpByEsiUQEjbwg6G71q", 
+                        "height": "264"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Xraymachine.JPG/220px-Xraymachine.JPG"
+                    }
+                ]
+            }, 
+            "snippet": "Medical diagnosis (abbreviated DS or Dx) is the process of determining which \ndisease or condition explains a person's symptoms and signs. It is most often\u00a0...", 
+            "htmlSnippet": "Medical <b>diagnosis</b> (abbreviated DS or Dx) is the process of determining which <br>\ndisease or condition explains a person&#39;s symptoms and signs. It is most often&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Medical_diagnosis", 
+            "cacheId": "Nu4VbBk4J6IJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "FAST (stroke) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "FAST (stroke) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/FAST_(stroke)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/FAST_(stroke)", 
+            "snippet": "FAST is an acronym used as a mnemonic to help detect and enhance \nresponsiveness to stroke victim needs. ... This medical diagnostic article is a stub. \nYou can\u00a0...", 
+            "htmlSnippet": "FAST is an acronym used as a mnemonic to <b>help</b> detect and enhance <br>\nresponsiveness to stroke victim needs. ... This medical <b>diagnostic</b> article is a stub. <br>\nYou can&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/FAST_(stroke)", 
+            "cacheId": "kCs0fEze3wgJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Metabolic acidosis - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Metabolic acidosis - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Metabolic_acidosis", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Metabolic_acidosis", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "184", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSNvyfuT4O6wwajvvyJdhbK0Q2V8sut5GjofgbPjaqyhv0WYO2diLj3J8E", 
+                        "height": "106"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Davenport_Fig_12.jpg/230px-Davenport_Fig_12.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "1 Terminology; 2 Signs and symptoms; 3 Diagnosis; 4 Causes ... Many other \nmnemonics have been created to help with diagnosis and management. \nFrequently\u00a0...", 
+            "htmlSnippet": "1 Terminology; 2 Signs and symptoms; 3 <b>Diagnosis</b>; 4 Causes ... Many other <br>\nmnemonics have been created to <b>help</b> with <b>diagnosis</b> and management. <br>\nFrequently&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Metabolic_acidosis", 
+            "cacheId": "jAhM9cPhVcEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Adhesive capsulitis of shoulder - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Adhesive capsulitis of shoulder - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Adhesive_capsulitis_of_shoulder", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Adhesive_capsulitis_of_shoulder", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "184", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQvZPSc2mDIdxIlwxfmW0dAbhXRZtYNc8JqqYqe5JWXvlRrEgxg83uYeuo", 
+                        "height": "127"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Gray327.png/230px-Gray327.png"
+                    }
+                ]
+            }, 
+            "snippet": "Arthrography is usually regarded as the gold standard for imaging diagnosis. \nUltrasound and MRI may help in diagnosis by assessing thickening of the\u00a0...", 
+            "htmlSnippet": "Arthrography is usually regarded as the gold standard for imaging <b>diagnosis</b>. <br>\nUltrasound and MRI may <b>help</b> in <b>diagnosis</b> by assessing thickening of the&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Adhesive_capsulitis_of_shoulder", 
+            "cacheId": "ZpV6SoW-v2EJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Gout - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Gout - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Gout", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Gout", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "184", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQzlxjCvFcoC2NujU3pU2Dzfoqt6tSsBLWL3urUxfYAaN7b64tEHIuz7XZp", 
+                        "height": "136"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/The_gout_james_gillray.jpg/230px-The_gout_james_gillray.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "Clinical diagnosis may be confirmed by seeing the characteristic crystals in joint \nfluid. .... To help with diagnosis, a synovial fluid Gram stain and culture may be\u00a0...", 
+            "htmlSnippet": "Clinical <b>diagnosis</b> may be confirmed by seeing the characteristic crystals in joint <br>\nfluid. .... To <b>help</b> with <b>diagnosis</b>, a synovial fluid Gram stain and culture may be&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Gout", 
+            "cacheId": "aI2FKqsxfD0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Dysmenorrhea - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Dysmenorrhea - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Dysmenorrhea", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Dysmenorrhea", 
+            "snippet": "A pelvic exam in those who are sexually active and ultrasound may be useful to \nhelp in diagnosis. Conditions that should be ruled out include ectopic pregnancy\n\u00a0...", 
+            "htmlSnippet": "A pelvic exam in those who are sexually active and ultrasound may be useful to <br>\n<b>help</b> in <b>diagnosis</b>. Conditions that should be ruled out include ectopic pregnancy<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Dysmenorrhea", 
+            "cacheId": "LimyQ_cSqhgJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Help to diagnosis", 
+                "safe": "off", 
+                "searchTerms": "Help to diagnosis", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "247000"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Help to diagnosis", 
+                "safe": "off", 
+                "searchTerms": "Help to diagnosis", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "247000"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.32", 
+        "formattedTotalResults": "247,000", 
+        "totalResults": "247000", 
+        "searchTime": 0.317877
+    }
+}

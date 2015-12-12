@@ -1,0 +1,171 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Nelder\u2013Mead method - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Nelder</b>\u2013<b>Mead method</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Nelder\u2013Mead_method", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Nelder</b>\u2013<b>Mead</b>_<b>method</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "256", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBQlnlivG13fz4ZVgUSzGs6Z_Tr-Cvo2p_Ytz9XyxKJQ5zmFqU1biqRjQ", 
+                        "height": "192"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Nelder_Mead1.gif/320px-Nelder_Mead1.gif"
+                    }
+                ]
+            }, 
+            "snippet": "The Nelder\u2013Mead method or downhill simplex method or amoeba method is a \ncommonly applied numerical method used to find the minimum or maximum of an\n\u00a0...", 
+            "htmlSnippet": "The <b>Nelder</b>\u2013<b>Mead method</b> or <b>downhill simplex method</b> or amoeba <b>method</b> is a <br>\ncommonly applied numerical <b>method</b> used to find the minimum or maximum of an<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Nelder%E2%80%93Mead_method", 
+            "cacheId": "KPG9KMNtTaIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Downhill (disambiguation) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Downhill</b> (disambiguation) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Downhill_(disambiguation)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Downhill</b>_(disambiguation)", 
+            "snippet": "Look up downhill in Wiktionary, the free dictionary. ... in Northern Ireland; Nelder\u2013\nMead method (or \"downhill simplex method\"), a mathematical algorithm\u00a0...", 
+            "htmlSnippet": "Look up <b>downhill</b> in Wiktionary, the free dictionary. ... in Northern Ireland; <b>Nelder</b>\u2013<br>\n<b>Mead method</b> (or &quot;<b>downhill simplex method</b>&quot;), a mathematical <b>algorithm</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Downhill_(disambiguation)", 
+            "cacheId": "WKUrKlLk0HkJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Simplex algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Simplex algorithm</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3ASimplex_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>Simplex</b>_<b>algorithm</b>", 
+            "snippet": "?[edit]. May I suggest moving the \"Nelder-Mead simplex method\" to\u00a0...", 
+            "htmlSnippet": "?[edit]. May I suggest moving the &quot;<b>Nelder</b>-<b>Mead simplex method</b>&quot; to&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3ASimplex_algorithm", 
+            "cacheId": "e9A1tx06qW4J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "CMA-ES - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "CMA-ES - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/CMA-ES", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/CMA-ES", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "276", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTM5-VT5MJjcEHFsdZicj_I5n2OM6HnnbVyE2lEW-fhK47qLRA7KYfJdXc", 
+                        "height": "183"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Concept_of_directional_optimization_in_CMA-ES_algorithm.png/400px-Concept_of_directional_optimization_in_CMA-ES_algorithm.png"
+                    }
+                ]
+            }, 
+            "snippet": "The covariance matrix adaptation (CMA) is a method to update the ..... is the \nNelder\u2013Mead method, where the initial simplex must be chosen respectively. ... \nfor example by the downhill simplex method or surrogate-based methods (like \nkriging\u00a0...", 
+            "htmlSnippet": "The covariance matrix adaptation (CMA) is a <b>method</b> to update the ..... is the <br>\n<b>Nelder</b>\u2013<b>Mead method</b>, where the initial simplex must be chosen respectively. ... <br>\nfor example by the <b>downhill simplex method</b> or surrogate-based <b>methods</b> (like <br>\nkriging&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/CMA-ES", 
+            "cacheId": "Wq8ECTfCF1gJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "User:Salix alba/maths/maths redirect frequency - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "User:Salix alba/maths/maths redirect frequency - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/User:Salix.../maths_redirect_frequency", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/User:Salix.../maths_redirect_frequency", 
+            "snippet": "... nonlinear least squares fitting algorithm -> Levenberg-Marquardt algorithm - 4 \n..... Einstein's Puzzle - 1; Downhill simplex method -> Nelder-Mead method - 1\u00a0...", 
+            "htmlSnippet": "... nonlinear least squares fitting <b>algorithm</b> -&gt; Levenberg-Marquardt <b>algorithm</b> - 4 <br>\n..... Einstein&#39;s Puzzle - 1; <b>Downhill simplex method</b> -&gt; <b>Nelder</b>-<b>Mead method</b> - 1&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/User:Salix_alba/maths/maths_redirect_frequency", 
+            "cacheId": "NtB_MIzyueAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Graph algorithm", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Graph <b>algorithm</b>", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Graph_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Graph_<b>algorithm</b>", 
+            "snippet": "Hopcroft\u2013Karp algorithm: convert a bipartite graph to a maximum cardinality ..... \nNelder\u2013Mead method (downhill simplex method): A nonlinear optimization\u00a0...", 
+            "htmlSnippet": "Hopcroft\u2013Karp algorithm: convert a bipartite graph to a maximum cardinality ..... <br>\n<b>Nelder</b>\u2013<b>Mead method</b> (<b>downhill simplex method</b>): A nonlinear optimization&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Graph_algorithm", 
+            "cacheId": "5_17Y3LZhAoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Gauss\u2013Newton algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Gauss\u2013Newton <b>algorithm</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Gauss\u2013Newton_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Gauss\u2013Newton_<b>algorithm</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "130", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSvZbBRZoDQgp_il6wWXu0INcqUpKT-BzQRDmbOxCuYadO35PHsJ7oM9g", 
+                        "height": "47"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/math/f/8/f/f8f5aab07fd35f832deed2a3597c92dd.png"
+                    }
+                ]
+            }, 
+            "snippet": "It is a modification of Newton's method for finding a minimum of a function. Unlike \nNewton's method, the Gauss\u2013Newton algorithm can only be used to minimize a \n.... In other words, the increment vector is too long, but it points in \"downhill\", so \ngoing .... Line search \u00b7 Nelder\u2013Mead method \u00b7 Successive parabolic interpolation.", 
+            "htmlSnippet": "It is a modification of Newton&#39;s <b>method</b> for finding a minimum of a function. Unlike <br>\nNewton&#39;s <b>method</b>, the Gauss\u2013Newton <b>algorithm</b> can only be used to minimize a <br>\n.... In other words, the increment vector is too long, but it points in &quot;<b>downhill</b>&quot;, so <br>\ngoing .... Line search &middot; <b>Nelder</b>\u2013<b>Mead method</b> &middot; Successive parabolic interpolation.", 
+            "link": "https://en.wikipedia.org/wiki/Gauss%E2%80%93Newton_algorithm", 
+            "cacheId": "wyn1zkqkj0cJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Hill climbing - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Hill climbing - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Hill_climbing", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Hill_climbing", 
+            "snippet": "It is an iterative algorithm that starts with an arbitrary solution to a problem, ... by \nhill-climbing include the simplex algorithm for linear programming and binary .... \nHence, gradient descent or conjugate gradient method is generally preferred ... \nGolden section search \u00b7 Interpolation methods \u00b7 Line search \u00b7 Nelder\u2013Mead \nmethod\u00a0...", 
+            "htmlSnippet": "It is an iterative <b>algorithm</b> that starts with an arbitrary solution to a problem, ... by <br>\nhill-climbing include the <b>simplex algorithm</b> for linear programming and binary .... <br>\nHence, gradient descent or conjugate gradient <b>method</b> is generally preferred ... <br>\nGolden section search &middot; Interpolation <b>methods</b> &middot; Line search &middot; <b>Nelder</b>\u2013<b>Mead</b> <br>\n<b>method</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Hill_climbing", 
+            "cacheId": "MXn2d6dSV-EJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 8, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Nelder-Mead method (downhill simplex method)", 
+                "safe": "off", 
+                "searchTerms": "Nelder-Mead method (downhill simplex method)", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "8"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.35", 
+        "formattedTotalResults": "8", 
+        "totalResults": "8", 
+        "searchTime": 0.348196
+    }
+}

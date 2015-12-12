@@ -1,0 +1,208 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Solovay\u2013Strassen primality test - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Solovay</b>\u2013<b>Strassen primality test</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Solovay\u2013Strassen_primality_test", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Solovay</b>\u2013<b>Strassen</b>_<b>primality</b>_<b>test</b>", 
+            "snippet": "The Solovay\u2013Strassen primality test, developed by Robert M. Solovay and Volker \nStrassen, is a probabilistic test to determine if a number is composite or\u00a0...", 
+            "htmlSnippet": "The <b>Solovay</b>\u2013<b>Strassen primality test</b>, developed by Robert M. Solovay and Volker <br>\nStrassen, is a probabilistic test to determine if a number is composite or&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Solovay%E2%80%93Strassen_primality_test", 
+            "cacheId": "VsF5qzIY0HcJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Miller\u2013Rabin primality test - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Miller\u2013Rabin <b>primality test</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Miller\u2013Rabin_primality_test", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Miller\u2013Rabin_<b>primality</b>_<b>test</b>", 
+            "snippet": "The Miller\u2013Rabin primality test or Rabin\u2013Miller primality test is a primality test: ... \nJust like the Fermat and Solovay\u2013Strassen tests, the Miller\u2013Rabin test relies on\u00a0...", 
+            "htmlSnippet": "The Miller\u2013Rabin <b>primality test</b> or Rabin\u2013Miller <b>primality test</b> is a <b>primality test</b>: ... <br>\nJust like the Fermat and <b>Solovay</b>\u2013<b>Strassen</b> tests, the Miller\u2013Rabin test relies on&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Miller%E2%80%93Rabin_primality_test", 
+            "cacheId": "qVZNv2DzKMsJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Solovay\u2013Strassen primality test - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Solovay</b>\u2013<b>Strassen primality test</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/.../Talk%3ASolovay\u2013Strassen_primality_test", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Talk%3A<b>Solovay</b>\u2013<b>Strassen</b>_<b>primality</b>_<b>test</b>", 
+            "snippet": "This article is within the scope of WikiProject Mathematics, a collaborative effort to \nimprove the coverage of Mathematics on Wikipedia. If you would like to\u00a0...", 
+            "htmlSnippet": "This article is within the scope of WikiProject Mathematics, a collaborative effort to <br>\nimprove the coverage of Mathematics on Wikipedia. If you would like to&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3ASolovay%E2%80%93Strassen_primality_test", 
+            "cacheId": "CqsXEi2ZeawJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Primality test - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Primality test</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Primality_test", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Primality</b>_<b>test</b>", 
+            "snippet": "[edit]. The Miller\u2013Rabin primality test and Solovay\u2013Strassen primality test are \nmore\u00a0...", 
+            "htmlSnippet": "[edit]. The Miller\u2013Rabin primality test and <b>Solovay</b>\u2013<b>Strassen primality test</b> are <br>\nmore&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Primality_test", 
+            "cacheId": "emzcKnQsr5UJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Volker Strassen - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Volker <b>Strassen</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Volker_Strassen", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Volker_<b>Strassen</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS9tl8gLOe5oWs1ydCuSU_bGjFE1HDAcn2cDkRiKZ10wnj5_t88y6JFGaw", 
+                        "height": "264"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Strassen_Knuth_Prize_lecture.jpg/220px-Strassen_Knuth_Prize_lecture.jpg"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "bday": "1936-04-29", 
+                        "category": "Mathematics", 
+                        "fn": "Volker Strassen"
+                    }
+                ]
+            }, 
+            "snippet": "Volker Strassen giving the Knuth Prize lecture at SODA 2009 ... work with Robert \nM. Solovay on the Solovay\u2013Strassen primality test, the first method to show that\u00a0...", 
+            "htmlSnippet": "Volker Strassen giving the Knuth Prize lecture at SODA 2009 ... work with Robert <br>\nM. Solovay on the <b>Solovay</b>\u2013<b>Strassen primality test</b>, the first method to show that&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Volker_Strassen", 
+            "cacheId": "zDfnyYw4K2kJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Miller\u2013Rabin primality test - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:Miller\u2013Rabin <b>primality test</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3AMiller-Rabin_primality_test", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3AMiller-Rabin_<b>primality</b>_<b>test</b>", 
+            "snippet": "I added the word in bold: \"The Miller-Rabin test is strictly stronger than the \nSolovay-Strassen primality test in the sense the set of strong liars of the Miller-\nRabin\u00a0...", 
+            "htmlSnippet": "I added the word in bold: &quot;The Miller-Rabin test is strictly stronger than the <br>\n<b>Solovay</b>-<b>Strassen primality test</b> in the sense the set of strong liars of the Miller-<br>\nRabin&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3AMiller-Rabin_primality_test", 
+            "cacheId": "w27p2jdYxMMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Monte Carlo algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Monte Carlo algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Monte_Carlo_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Monte_Carlo_algorithm", 
+            "snippet": "For instance, the Solovay\u2013Strassen primality test is used to determine whether a \ngiven number is a prime number. It always answers true for prime number\u00a0...", 
+            "htmlSnippet": "For instance, the <b>Solovay</b>\u2013<b>Strassen primality test</b> is used to determine whether a <br>\ngiven number is a prime number. It always answers true for prime number&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Monte_Carlo_algorithm", 
+            "cacheId": "d5kI25rdXTgJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Category:Primality tests - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Category:<b>Primality</b> tests - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Category:Primality_tests", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Category:<b>Primality</b>_<b>test</b>s", 
+            "snippet": "The main article for this category is Primality tests. ... S. Sieve of Atkin \u00b7 Sieve of \nEratosthenes \u00b7 Sieve of Sundaram \u00b7 Solovay\u2013Strassen primality test\u00a0...", 
+            "htmlSnippet": "The main article for this category is Primality tests. ... S. Sieve of Atkin &middot; Sieve of <br>\nEratosthenes &middot; Sieve of Sundaram &middot; <b>Solovay</b>\u2013<b>Strassen primality test</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Category:Primality_tests", 
+            "cacheId": "t-7y36g-AecJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Robert M. Solovay - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Robert M. <b>Solovay</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Robert_M._Solovay", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Robert_M._<b>Solovay</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "160", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRwr0a8WAwcwQWAM3tKUtBR20A7RPgXG2WYAGQrqMUGE9CXb2LpyvgI27aK", 
+                        "height": "240"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Robert_Solovay.jpeg/200px-Robert_Solovay.jpeg"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "bday": "1938-12-15", 
+                        "category": "Mathematics", 
+                        "fn": "Robert M. Solovay"
+                    }
+                ]
+            }, 
+            "snippet": "Robert Martin Solovay (born December 15, 1938) is an American ... developing (\nwith Volker Strassen) the Solovay\u2013Strassen primality test, used to identify large\u00a0...", 
+            "htmlSnippet": "Robert Martin Solovay (born December 15, 1938) is an American ... developing (<br>\nwith Volker Strassen) the <b>Solovay</b>\u2013<b>Strassen primality test</b>, used to identify large&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Robert_M._Solovay", 
+            "cacheId": "wavbS6bHHHAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Jacobi symbol - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Jacobi symbol - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Jacobi_symbol", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Jacobi_symbol", 
+            "snippet": "6 Primality testing; 7 See also; 8 Notes; 9 References; 10 External links ..... This is \nthe basis for the probabilistic Solovay\u2013Strassen primality test and refinements\u00a0...", 
+            "htmlSnippet": "6 Primality testing; 7 See also; 8 Notes; 9 References; 10 External links ..... This is <br>\nthe basis for the probabilistic <b>Solovay</b>\u2013<b>Strassen primality test</b> and refinements&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Jacobi_symbol", 
+            "cacheId": "o4dtSml5i0gJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Solovay-Strassen primality test", 
+                "safe": "off", 
+                "searchTerms": "Solovay-Strassen primality test", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "121"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Solovay-Strassen primality test", 
+                "safe": "off", 
+                "searchTerms": "Solovay-Strassen primality test", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "121"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.27", 
+        "formattedTotalResults": "121", 
+        "totalResults": "121", 
+        "searchTime": 0.265413
+    }
+}

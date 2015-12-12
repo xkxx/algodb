@@ -1,0 +1,166 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Dixon's factorization method - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Dixon&#39;s factorization method</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Dixon's_factorization_method", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Dixon&#39;s</b>_<b>factorization</b>_<b>method</b>", 
+            "snippet": "In number theory, Dixon's factorization method (also Dixon's random squares \nmethod or Dixon's algorithm) is a general-purpose integer factorization algorithm;\n\u00a0...", 
+            "htmlSnippet": "In number theory, <b>Dixon&#39;s factorization method</b> (also Dixon&#39;s random squares <br>\nmethod or Dixon&#39;s algorithm) is a general-purpose integer factorization algorithm;<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Dixon's_factorization_method", 
+            "cacheId": "Uh1BI6P57CYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Dixon's factorization method - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Dixon&#39;s factorization method</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "en.wikipedia.org/wiki/Talk%3ADixon's_factorization_method", 
+            "htmlFormattedUrl": "en.wikipedia.org/wiki/Talk%3A<b>Dixon&#39;s</b>_<b>factorization</b>_<b>method</b>", 
+            "snippet": "Comment[edit]. I cannot see a real difference to the Quadratic Sieve, but thar \ndoes not really matter. Dixon's method is not a well-specified algorithm in that it\u00a0...", 
+            "htmlSnippet": "Comment[edit]. I cannot see a real difference to the Quadratic Sieve, but thar <br>\ndoes not really matter. <b>Dixon&#39;s method</b> is not a well-specified algorithm in that it&nbsp;...", 
+            "link": "http://en.wikipedia.org/wiki/Talk%3ADixon's_factorization_method", 
+            "cacheId": "kgcz2gc_w20J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Congruence of squares - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Congruence of squares - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Congruence_of_squares", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Congruence_of_squares", 
+            "snippet": "Given a positive integer n, Fermat's factorization method relies on finding ... built \nup from the products of non-squares (see Dixon's factorization method), first we\u00a0...", 
+            "htmlSnippet": "Given a positive integer n, Fermat&#39;s factorization method relies on finding ... built <br>\nup from the products of non-squares (see <b>Dixon&#39;s factorization method</b>), first we&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Congruence_of_squares", 
+            "cacheId": "9RPNYj6KijEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Quadratic sieve - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Quadratic sieve - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Quadratic_sieve", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Quadratic_sieve", 
+            "snippet": "The quadratic sieve algorithm (QS) is an integer factorization algorithm and, in \npractice, ... The quadratic sieve is a modification of Dixon's factorization method.", 
+            "htmlSnippet": "The quadratic sieve algorithm (QS) is an integer factorization algorithm and, in <br>\npractice, ... The quadratic sieve is a modification of <b>Dixon&#39;s factorization method</b>.", 
+            "link": "https://en.wikipedia.org/wiki/Quadratic_sieve", 
+            "cacheId": "6cnNa2-ExQoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Dixons - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Dixons</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Dixons", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Dixons</b>", 
+            "snippet": "Dixons Retail (formerly known as Dixons Stores Group and DSG International), \nthe ... Dixon's factorization method, an application of the square factoring method.", 
+            "htmlSnippet": "Dixons Retail (formerly known as Dixons Stores Group and DSG International), <br>\nthe ... <b>Dixon&#39;s factorization method</b>, an application of the square factoring method.", 
+            "link": "https://en.wikipedia.org/wiki/Dixons", 
+            "cacheId": "JogQzkFcpbEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Continued fraction factorization - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Continued fraction <b>factorization</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Continued_fraction_factorization", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Continued_fraction_<b>factorization</b>", 
+            "snippet": "In number theory, the continued fraction factorization method (CFRAC) is an \ninteger ... The continued fraction method is based on Dixon's factorization method\n.", 
+            "htmlSnippet": "In number theory, the continued fraction factorization method (CFRAC) is an <br>\ninteger ... The continued fraction method is based on <b>Dixon&#39;s factorization method</b><br>\n.", 
+            "link": "https://en.wikipedia.org/wiki/Continued_fraction_factorization", 
+            "cacheId": "3TI_pfR6D5gJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Dixon - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Dixon</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Dixon", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Dixon</b>", 
+            "snippet": "Dixon is an alternative to Dickson. ... Dixons Creek, Victoria, Australia ... Dixon's \nfactorization method \u00b7 Papapetrou-Dixon equations \u00b7 Gabe Dixon Band \u00b7 Dixons\u00a0...", 
+            "htmlSnippet": "Dixon is an alternative to Dickson. ... Dixons Creek, Victoria, Australia ... <b>Dixon&#39;s</b> <br>\n<b>factorization method</b> &middot; Papapetrou-Dixon equations &middot; Gabe Dixon Band &middot; Dixons&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Dixon", 
+            "cacheId": "5Ie3LDVm2OEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "User:Makya15/Books/Integer Factorization - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "User:Makya15/Books/Integer <b>Factorization</b> - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/User:Makya15/.../Integer_Factorization", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/User:Makya15/.../Integer_<b>Factorization</b>", 
+            "snippet": "User:Makya15/Books/Integer Factorization ... Modularity theorem; General \nPurpose Factorization: Dixon's factorization method \u00b7 Continued fraction \nfactorization\u00a0...", 
+            "htmlSnippet": "User:Makya15/Books/Integer Factorization ... Modularity theorem; General <br>\nPurpose Factorization: <b>Dixon&#39;s factorization method</b> &middot; Continued fraction <br>\nfactorization&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/User:Makya15/Books/Integer_Factorization", 
+            "cacheId": "V9GMaRiNJcwJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Category:Integer factorization algorithms - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Category:Integer <b>factorization</b> algorithms - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../Category:Integer_factorization_algorithms", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Category:Integer_<b>factorization</b>_algorithms", 
+            "snippet": "The main article for this category is Integer factorization algorithms. Pages in \ncategory \"Integer factorization algorithms\" ... D. Dixon's factorization method\u00a0...", 
+            "htmlSnippet": "The main article for this category is Integer factorization algorithms. Pages in <br>\ncategory &quot;Integer factorization algorithms&quot; ... D. <b>Dixon&#39;s factorization method</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Category:Integer_factorization_algorithms", 
+            "cacheId": "ocxT_kFtQ5AJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "User:Redgolpe/Number theory - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "User:Redgolpe/Number theory - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/User:Redgolpe/Number_theory", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/User:Redgolpe/Number_theory", 
+            "snippet": "3.2.1 Algebraic-group factorization algorithm ... Euler's factorization method \u00b7 \nDixon's factorization method \u00b7 Continued fraction factorization \u00b7 Quadratic sieve\u00a0...", 
+            "htmlSnippet": "3.2.1 Algebraic-group factorization algorithm ... Euler&#39;s factorization method &middot; <br>\n<b>Dixon&#39;s factorization method</b> &middot; Continued fraction factorization &middot; Quadratic sieve&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/User:Redgolpe/Number_theory", 
+            "cacheId": "RQdWgovSrXIJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Dixon's factorization method", 
+                "safe": "off", 
+                "searchTerms": "Dixon's factorization method", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "146"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Dixon's factorization method", 
+                "safe": "off", 
+                "searchTerms": "Dixon's factorization method", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "146"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.19", 
+        "formattedTotalResults": "146", 
+        "totalResults": "146", 
+        "searchTime": 0.187733
+    }
+}

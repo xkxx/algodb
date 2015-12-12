@@ -1,0 +1,208 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Gradient descent - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Gradient descent</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Gradient_descent", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Gradient</b>_<b>descent</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "217", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcREUf4MJd1p9FeAowsEcQbFHt3PbNM6CJunFoLLXTEonr8jhjQY1xF-4_M", 
+                        "height": "232"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Gradient_descent.svg/350px-Gradient_descent.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "Gradient descent is a first-order optimization algorithm. To find a local minimum \nof a function using gradient descent, one takes steps proportional to the negative\n\u00a0...", 
+            "htmlSnippet": "<b>Gradient descent</b> is a first-order optimization algorithm. To find a local minimum <br>\nof a function using <b>gradient descent</b>, one takes steps proportional to the negative<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Gradient_descent", 
+            "cacheId": "H6_GiOPyBRoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Stochastic gradient descent - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Stochastic <b>gradient descent</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Stochastic_gradient_descent", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Stochastic_<b>gradient</b>_<b>descent</b>", 
+            "snippet": "Stochastic gradient descent is a gradient descent optimization method for \nminimizing an objective function that is written as a sum of differentiable functions\n.", 
+            "htmlSnippet": "Stochastic <b>gradient descent</b> is a <b>gradient descent</b> optimization method for <br>\nminimizing an objective function that is written as a sum of differentiable functions<br>\n.", 
+            "link": "https://en.wikipedia.org/wiki/Stochastic_gradient_descent", 
+            "cacheId": "sgqbOX6ysbQJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Method of steepest descent - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Method of <b>steepest descent</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Method_of_steepest_descent", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Method_of_<b>steepest</b>_<b>descent</b>", 
+            "snippet": "In mathematics, the method of steepest descent or stationary phase method or \nsaddle-point method is an extension of Laplace's method for approximating an\u00a0...", 
+            "htmlSnippet": "In mathematics, the method of <b>steepest descent</b> or stationary phase method or <br>\nsaddle-point method is an extension of Laplace&#39;s method for approximating an&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Method_of_steepest_descent", 
+            "cacheId": "u1ypRyv4UUsJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Conjugate gradient method - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Conjugate <b>gradient</b> method - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Conjugate_gradient_method", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Conjugate_<b>gradient</b>_method", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdWEbprvFAg0IOuJuzAEBZ_mVnPI1oV6632m_T8GU_ydloPNyPUZrhPn4", 
+                        "height": "261"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Conjugate_gradient_illustration.svg/220px-Conjugate_gradient_illustration.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "[edit]. In both the original and the preconditioned conjugate\u00a0...", 
+            "htmlSnippet": "[edit]. In both the original and the preconditioned conjugate&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Conjugate_gradient_method", 
+            "cacheId": "kiX8RvFON9YJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Delta rule - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Delta rule - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Delta_rule", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Delta_rule", 
+            "snippet": "In machine learning, the delta rule is a gradient descent learning rule for \nupdating the weights of the inputs to artificial neurons in a single-layer neural \nnetwork.", 
+            "htmlSnippet": "In machine learning, the delta rule is a <b>gradient descent</b> learning rule for <br>\nupdating the weights of the inputs to artificial neurons in a single-layer neural <br>\nnetwork.", 
+            "link": "https://en.wikipedia.org/wiki/Delta_rule", 
+            "cacheId": "LjnltUBKML0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Gradient method - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Gradient</b> method - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Gradient_method", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Gradient</b>_method", 
+            "snippet": "with the search directions defined by the gradient of the function at the current \npoint. Examples of gradient method are the gradient descent and the conjugate\u00a0...", 
+            "htmlSnippet": "with the search directions defined by the gradient of the function at the current <br>\npoint. Examples of gradient method are the <b>gradient descent</b> and the conjugate&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Gradient_method", 
+            "cacheId": "ehcqEwrl2ekJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Coordinate descent - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Coordinate <b>descent</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Coordinate_descent", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Coordinate_<b>descent</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "259", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLRF7DD2XNgA4sSgt-AxVQBT7isvl3J0qc9LT2zhvXri6EcKjPSaw3oUM", 
+                        "height": "194"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/5/50/Coordinate_descent.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "Coordinate descent is a non-derivative optimization algorithm. ... It can be shown \nthat this sequence has similar convergence properties as steepest descent.", 
+            "htmlSnippet": "Coordinate descent is a non-derivative optimization algorithm. ... It can be shown <br>\nthat this sequence has similar convergence properties as <b>steepest descent</b>.", 
+            "link": "https://en.wikipedia.org/wiki/Coordinate_descent", 
+            "cacheId": "uv9inQcvb78J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Descent direction - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Descent</b> direction - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Descent_direction", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Descent</b>_direction", 
+            "snippet": "In optimization, a descent direction is a vector \\mathbf{p}\\in\\mathbb R^n ... Using \nthis definition, the negative of a non-zero gradient is always a descent direction,\u00a0...", 
+            "htmlSnippet": "In optimization, a <b>descent</b> direction is a vector \\mathbf{p}\\in\\mathbb R^n ... Using <br>\nthis definition, the negative of a non-zero <b>gradient</b> is always a <b>descent</b> direction,&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Descent_direction", 
+            "cacheId": "yOpUMW18f-gJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Nonlinear conjugate gradient method - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Nonlinear conjugate <b>gradient</b> method - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Nonlinear_conjugate_gradient_method", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Nonlinear_conjugate_<b>gradient</b>_method", 
+            "snippet": "variables to minimize, its gradient \\nabla_x f indicates the direction of maximum \nincrease. One simply starts in the opposite (steepest descent) direction:.", 
+            "htmlSnippet": "variables to minimize, its gradient \\nabla_x f indicates the direction of maximum <br>\nincrease. One simply starts in the opposite (<b>steepest descent</b>) direction:.", 
+            "link": "https://en.wikipedia.org/wiki/Nonlinear_conjugate_gradient_method", 
+            "cacheId": "zPaBjHOxaEAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Subgradient method - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Subgradient method - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Subgradient_method", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Sub<b>gradient</b>_method", 
+            "snippet": "When the objective function is differentiable, subgradient methods for \nunconstrained problems use the same search direction as the method of steepest \ndescent.", 
+            "htmlSnippet": "When the objective function is differentiable, subgradient methods for <br>\nunconstrained problems use the same search direction as the method of <b>steepest</b> <br>\n<b>descent</b>.", 
+            "link": "https://en.wikipedia.org/wiki/Subgradient_method", 
+            "cacheId": "XwEyV9Da02oJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Gradient descent", 
+                "safe": "off", 
+                "searchTerms": "Gradient descent", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "1500"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Gradient descent", 
+                "safe": "off", 
+                "searchTerms": "Gradient descent", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "1500"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.32", 
+        "formattedTotalResults": "1,500", 
+        "totalResults": "1500", 
+        "searchTime": 0.3166
+    }
+}

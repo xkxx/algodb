@@ -1,0 +1,153 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "CYK algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>CYK</b> algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/CYK_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>CYK</b>_algorithm", 
+            "snippet": "In computer science, the Cocke\u2013Younger\u2013Kasami algorithm (alternatively called \nCYK, or CKY) is a parsing algorithm for context-free grammars, named after its\u00a0...", 
+            "htmlSnippet": "In computer science, the <b>Cocke</b>\u2013<b>Younger</b>\u2013<b>Kasami</b> algorithm (alternatively called <br>\n<b>CYK</b>, or <b>CKY</b>) is a parsing algorithm for context-free grammars, named after its&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/CYK_algorithm", 
+            "cacheId": "cR9szOzQuloJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "CKY - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>CKY</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/CKY", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>CKY</b>", 
+            "snippet": "CKY (band), US band, formerly \"Camp Kill Yourself\" ... later CBW (AM) \u00b7 CYK \nalgorithm or Cocke\u2013Younger\u2013Kasami algorithm, usually CYK but sometimes \nCKY\u00a0...", 
+            "htmlSnippet": "<b>CKY</b> (band), US band, formerly &quot;Camp Kill Yourself&quot; ... later CBW (AM) &middot; <b>CYK</b> <br>\nalgorithm or <b>Cocke</b>\u2013<b>Younger</b>\u2013<b>Kasami</b> algorithm, usually <b>CYK</b> but sometimes <br>\n<b>CKY</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/CKY", 
+            "cacheId": "5pDk2IikRjYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Stochastic context-free grammar - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Stochastic context-free grammar - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Stochastic_context-free_grammar", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Stochastic_context-free_grammar", 
+            "snippet": "In RNA secondary structure prediction variants of the Cocke\u2013Younger\u2013Kasami (\nCYK) algorithm (CYK) algorithm provide more efficient alternatives to grammar\u00a0...", 
+            "htmlSnippet": "In RNA secondary structure prediction variants of the <b>Cocke</b>\u2013<b>Younger</b>\u2013<b>Kasami</b> (<br>\n<b>CYK</b>) algorithm (<b>CYK</b>) algorithm provide more efficient alternatives to grammar&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Stochastic_context-free_grammar", 
+            "cacheId": "GC2e7MgE40IJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Top-down parsing - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Top-down parsing - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Top-down_parsing", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Top-down_parsing", 
+            "snippet": "... is similar to the use of dynamic programming and state-sets in Earley's \nalgorithm (1970), and tables in the CYK algorithm of Cocke, Younger and Kasami\n.", 
+            "htmlSnippet": "... is similar to the use of dynamic programming and state-sets in Earley&#39;s <br>\nalgorithm (1970), and tables in the <b>CYK</b> algorithm of <b>Cocke</b>, <b>Younger</b> and <b>Kasami</b><br>\n.", 
+            "link": "https://en.wikipedia.org/wiki/Top-down_parsing", 
+            "cacheId": "s-dDfKZKMLIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Chart parser - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Chart parser - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Chart_parser", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Chart_parser", 
+            "snippet": "Another chart parsing algorithm is the Cocke-Younger-Kasami (CYK) algorithm. \nChart parsers can also be used for parsing computer languages. Earley parsers\u00a0...", 
+            "htmlSnippet": "Another chart parsing algorithm is the <b>Cocke</b>-<b>Younger</b>-<b>Kasami</b> (<b>CYK</b>) algorithm. <br>\nChart parsers can also be used for parsing computer languages. Earley parsers&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Chart_parser", 
+            "cacheId": "wj6XxUx66kQJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Timeline of algorithms - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Timeline of algorithms - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Timeline_of_algorithms", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Timeline_of_algorithms", 
+            "snippet": "... 1965 - Cocke\u2013Younger\u2013Kasami (CYK) algorithm independently developed by \nTadao Kasami; 1965 - Buchberger's algorithm for computing Gr\u00f6bner bases\u00a0...", 
+            "htmlSnippet": "... 1965 - <b>Cocke</b>\u2013<b>Younger</b>\u2013<b>Kasami</b> (<b>CYK</b>) algorithm independently developed by <br>\nTadao Kasami; 1965 - Buchberger&#39;s algorithm for computing Gr\u00f6bner bases&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Timeline_of_algorithms", 
+            "cacheId": "bX_hzRNkUiIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Tadao Kasami - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Tadao <b>Kasami</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Tadao_Kasami", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Tadao_<b>Kasami</b>", 
+            "snippet": "He was the earliest to publish the key ideas for the CYK algorithm, separately \ndiscovered by Daniel Younger (1967) and John Cocke (1970). Kasami was born \nin\u00a0...", 
+            "htmlSnippet": "He was the earliest to publish the key ideas for the <b>CYK</b> algorithm, separately <br>\ndiscovered by Daniel <b>Younger</b> (1967) and John <b>Cocke</b> (1970). <b>Kasami</b> was born <br>\nin&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Tadao_Kasami", 
+            "cacheId": "Z2fPJYVw13sJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Memoization - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Memoization - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Memoization", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Memoization", 
+            "snippet": "... and tables in the CYK algorithm of Cocke, Younger and Kasami, could be \ngenerated by introducing automatic memoization to a simple backtracking \nrecursive\u00a0...", 
+            "htmlSnippet": "... and tables in the <b>CYK</b> algorithm of <b>Cocke</b>, <b>Younger</b> and <b>Kasami</b>, could be <br>\ngenerated by introducing automatic memoization to a simple backtracking <br>\nrecursive&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Memoization", 
+            "cacheId": "vMUcxFcQwdAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Left corner parser - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:Left corner parser - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3ALeft_corner_parser", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3ALeft_corner_parser", 
+            "snippet": "AFAIK, left corner parsers are not chart parsers in the sense that they would keep \na chart of already-processed items like CKY-(Younger-Cocke-Kasami) or\u00a0...", 
+            "htmlSnippet": "AFAIK, left corner parsers are not chart parsers in the sense that they would keep <br>\na chart of already-processed items like <b>CKY</b>-(<b>Younger</b>-<b>Cocke</b>-<b>Kasami</b>) or&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3ALeft_corner_parser", 
+            "cacheId": "lxDxEaGzCjoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Dynamic programming - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Dynamic programming - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Dynamic_programming", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Dynamic_programming", 
+            "snippet": "The Cocke\u2013Younger\u2013Kasami (CYK) algorithm which determines whether and \nhow a given string can be generated by a given context-free grammar \u00b7 Knuth's\u00a0...", 
+            "htmlSnippet": "The <b>Cocke</b>\u2013<b>Younger</b>\u2013<b>Kasami</b> (<b>CYK</b>) algorithm which determines whether and <br>\nhow a given string can be generated by a given context-free grammar &middot; Knuth&#39;s&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Dynamic_programming", 
+            "cacheId": "uc1TG3pvZuwJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - CYK (Cocke-Younger-Kasami)", 
+                "safe": "off", 
+                "searchTerms": "CYK (Cocke-Younger-Kasami)", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "10"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.20", 
+        "formattedTotalResults": "10", 
+        "totalResults": "10", 
+        "searchTime": 0.199388
+    }
+}

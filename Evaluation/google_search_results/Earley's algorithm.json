@@ -1,0 +1,166 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Earley parser - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Earley</b> parser - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Earley_parser", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Earley</b>_parser", 
+            "snippet": "[edit]. In the following descriptions, \u03b1, \u03b2, and \u03b3 represent any string of terminals/\nnonterminals (including the empty string), X and Y\u00a0...", 
+            "htmlSnippet": "[edit]. In the following descriptions, \u03b1, \u03b2, and \u03b3 represent any string of terminals/<br>\nnonterminals (including the empty string), X and Y&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Earley_parser", 
+            "cacheId": "eIpT8xbLf_YJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Jay Earley - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Jay <b>Earley</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Jay_Earley", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Jay_<b>Earley</b>", 
+            "snippet": "Jay Earley /\u02c8\u025crli/ is an American computer scientist and psychologist. He \ninvented the ... An Efficient Context-Free Parsing Algorithm (PDF). Carnegie-\nMellon\u00a0...", 
+            "htmlSnippet": "Jay <b>Earley</b> /\u02c8\u025crli/ is an American computer scientist and psychologist. He <br>\ninvented the ... An Efficient Context-Free Parsing <b>Algorithm</b> (PDF). Carnegie-<br>\nMellon&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Jay_Earley", 
+            "cacheId": "hB4qgZ2Q4wgJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Earley parser - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Earley</b> parser - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3AEarley_parser", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>Earley</b>_parser", 
+            "snippet": "[edit]. In the algorithm pseudocode, the line for each state in chart[i] is perhaps \nmisleading.", 
+            "htmlSnippet": "[edit]. In the <b>algorithm</b> pseudocode, the line for each state in chart[i] is perhaps <br>\nmisleading.", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3AEarley_parser", 
+            "cacheId": "BS-QdGdUyLAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "CYK algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "CYK <b>algorithm</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/CYK_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/CYK_<b>algorithm</b>", 
+            "snippet": "In computer science, the Cocke\u2013Younger\u2013Kasami algorithm (alternatively called \nCYK, or CKY) is a parsing algorithm for context-free grammars, named after its \ninventors, John Cocke, Daniel .... GLR parser \u00b7 Earley parser \u00b7 Packrat parser\u00a0...", 
+            "htmlSnippet": "In computer science, the Cocke\u2013Younger\u2013Kasami <b>algorithm</b> (alternatively called <br>\nCYK, or CKY) is a parsing <b>algorithm</b> for context-free grammars, named after its <br>\ninventors, John Cocke, Daniel .... GLR parser &middot; <b>Earley</b> parser &middot; Packrat parser&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/CYK_algorithm", 
+            "cacheId": "cR9szOzQuloJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "GLR parser - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "GLR parser - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/GLR_parser", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/GLR_parser", 
+            "snippet": "Briefly, the GLR algorithm works in a manner similar to the LR parser ... the same \nworst-case time complexity as the CYK algorithm and Earley algorithm: O(n3).", 
+            "htmlSnippet": "Briefly, the GLR algorithm works in a manner similar to the LR parser ... the same <br>\nworst-case time complexity as the CYK algorithm and <b>Earley algorithm</b>: O(n<sup>3</sup>).", 
+            "link": "https://en.wikipedia.org/wiki/GLR_parser", 
+            "cacheId": "5ys1qOjhJLgJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Chart parser - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Chart parser - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Chart_parser", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Chart_parser", 
+            "snippet": "A common approach is to use a variant of the Viterbi algorithm. The Earley parser \nis a type of chart parser mainly used for parsing in computational linguistics,\u00a0...", 
+            "htmlSnippet": "A common approach is to use a variant of the Viterbi <b>algorithm</b>. The <b>Earley</b> parser <br>\nis a type of chart parser mainly used for parsing in computational linguistics,&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Chart_parser", 
+            "cacheId": "wj6XxUx66kQJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Top-down parsing - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Top-down parsing - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Top-down_parsing", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Top-down_parsing", 
+            "snippet": "His technique is similar to the use of dynamic programming and state-sets in \nEarley's algorithm (1970), and tables in the CYK algorithm of Cocke, Younger \nand\u00a0...", 
+            "htmlSnippet": "His technique is similar to the use of dynamic programming and state-sets in <br>\n<b>Earley&#39;s algorithm</b> (1970), and tables in the CYK algorithm of Cocke, Younger <br>\nand&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Top-down_parsing", 
+            "cacheId": "s-dDfKZKMLIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Memoization - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Memoization - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Memoization", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Memoization", 
+            "snippet": "The time/space \"cost\" of algorithms has a specific name in computing: .... similar \nto the use of dynamic programming and state-sets in Earley's algorithm (1970),\u00a0...", 
+            "htmlSnippet": "The time/space &quot;cost&quot; of algorithms has a specific name in computing: .... similar <br>\nto the use of dynamic programming and state-sets in <b>Earley&#39;s algorithm</b> (1970),&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Memoization", 
+            "cacheId": "vMUcxFcQwdAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Context-free language - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Context-free language - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Context-free_language", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Context-free_language", 
+            "snippet": "Parser algorithms for context-free languages include the CYK algorithm and \nEarley's Algorithm. A special subclass of context-free languages are the\u00a0...", 
+            "htmlSnippet": "Parser algorithms for context-free languages include the CYK algorithm and <br>\n<b>Earley&#39;s Algorithm</b>. A special subclass of context-free languages are the&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Context-free_language", 
+            "cacheId": "6qzu3XY6ID8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Earley (disambiguation) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Earley</b> (disambiguation) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Earley_(disambiguation)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Earley</b>_(disambiguation)", 
+            "snippet": "Earley (surname), a list of people with the surname Earley; Earley Lake, a lake in \nMinnesota; Earley parser, an algorithm; Earley and Company, a stained glass\u00a0...", 
+            "htmlSnippet": "<b>Earley</b> (surname), a list of people with the surname <b>Earley</b>; <b>Earley</b> Lake, a lake in <br>\nMinnesota; <b>Earley</b> parser, an <b>algorithm</b>; <b>Earley</b> and Company, a stained glass&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Earley_(disambiguation)", 
+            "cacheId": "YnwRhXXoZwYJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Earley's algorithm", 
+                "safe": "off", 
+                "searchTerms": "Earley's algorithm", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "79"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Earley's algorithm", 
+                "safe": "off", 
+                "searchTerms": "Earley's algorithm", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "79"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.19", 
+        "formattedTotalResults": "79", 
+        "totalResults": "79", 
+        "searchTime": 0.192741
+    }
+}

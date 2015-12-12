@@ -1,0 +1,194 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Local search (optimization) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Local search</b> (optimization) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Local_search_(optimization)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Local</b>_<b>search</b>_(optimization)", 
+            "snippet": "In computer science, local search is a metaheuristic method for solving \ncomputationally hard optimization problems. Local search can be used on \nproblems that\u00a0...", 
+            "htmlSnippet": "In computer science, <b>local search</b> is a metaheuristic method for solving <br>\ncomputationally hard optimization problems. <b>Local search</b> can be used on <br>\nproblems that&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Local_search_(optimization)", 
+            "cacheId": "mHwCwKyBX74J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Local search (Internet) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Local search</b> (Internet) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Local_search_(Internet)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Local</b>_<b>search</b>_(Internet)", 
+            "snippet": "Local search is the use of specialized Internet search engines that allow users to \nsubmit geographically constrained searches against a structured database of\u00a0...", 
+            "htmlSnippet": "<b>Local search</b> is the use of specialized Internet search engines that allow users to <br>\nsubmit geographically constrained searches against a structured database of&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Local_search_(Internet)", 
+            "cacheId": "_b656wWYMUsJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Iterated local search - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Iterated <b>local search</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Iterated_local_search", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Iterated_<b>local</b>_<b>search</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKba2zJwkkTy31OThD24ZkBlLx7ppKNMKB966iMegisKxt0CyiiO_pWtdS", 
+                        "height": "139"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Iterated_local_search.png/220px-Iterated_local_search.png"
+                    }
+                ]
+            }, 
+            "snippet": "Iterated Local Search (ILS) is a term in applied mathematics and computer \nscience defining a modification of local search or hill climbing methods for \nsolving\u00a0...", 
+            "htmlSnippet": "Iterated <b>Local Search</b> (ILS) is a term in applied mathematics and computer <br>\nscience defining a modification of <b>local search</b> or hill climbing methods for <br>\nsolving&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Iterated_local_search", 
+            "cacheId": "J4VoVldjKt0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Local search (constraint satisfaction) - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Local search</b> (constraint satisfaction) - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Local_search_(constraint_satisfaction)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Local</b>_<b>search</b>_(constraint_satisfaction)", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQQ8xofIvxs5lf0rdJTcoV5FoE2XBz3IUB6Aff9FLoFOhJWgrQ9Nar6Vw", 
+                        "height": "118"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Local-search-plateau.svg/220px-Local-search-plateau.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "In constraint satisfaction, local search is an incomplete method for finding a \nsolution to a problem. It is based on iteratively improving an assignment of the\u00a0...", 
+            "htmlSnippet": "In constraint satisfaction, <b>local search</b> is an incomplete method for finding a <br>\nsolution to a problem. It is based on iteratively improving an assignment of the&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Local_search_(constraint_satisfaction)", 
+            "cacheId": "2wljL0Gz95MJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Local search - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Local search</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Local_search", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Local</b>_<b>search</b>", 
+            "snippet": "Local search may refer to: Local search (constraint satisfaction), a method for \nproblem solving in constraint satisfaction; Local search (Internet), web searching\n\u00a0...", 
+            "htmlSnippet": "<b>Local search</b> may refer to: <b>Local search</b> (constraint satisfaction), a method for <br>\nproblem solving in constraint satisfaction; <b>Local search</b> (Internet), web searching<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Local_search", 
+            "cacheId": "UyftGkgBFJcJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Mobile local search - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Mobile <b>local search</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Mobile_local_search", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Mobile_<b>local</b>_<b>search</b>", 
+            "snippet": "Mobile Local Search is a technology that lets people search for local things using \nmobile equipment such as mobile phones, PDAs, and other mobile devices.", 
+            "htmlSnippet": "Mobile <b>Local Search</b> is a technology that lets people search for local things using <br>\nmobile equipment such as mobile phones, PDAs, and other mobile devices.", 
+            "link": "https://en.wikipedia.org/wiki/Mobile_local_search", 
+            "cacheId": "tS1J2jOcsYwJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Guided Local Search - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Guided <b>Local Search</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Guided_Local_Search", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Guided_<b>Local</b>_<b>Search</b>", 
+            "snippet": "Guided Local Search is a metaheuristic search method. A meta-heuristic method \nis a method that sits on top of a local search algorithm to change its behaviour.", 
+            "htmlSnippet": "Guided <b>Local Search</b> is a metaheuristic search method. A meta-heuristic method <br>\nis a method that sits on top of a <b>local search</b> algorithm to change its behaviour.", 
+            "link": "https://en.wikipedia.org/wiki/Guided_Local_Search", 
+            "cacheId": "8qvpwRoEWDoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Taganode Local Search Engine - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Taganode <b>Local Search</b> Engine - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Taganode_Local_Search_Engine", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Taganode_<b>Local</b>_<b>Search</b>_Engine", 
+            "snippet": "The Open Local Search Engine from Taganode is a search engine specifically \ntargeting mobile phones. It is based on local search algorithms to find new places\n\u00a0...", 
+            "htmlSnippet": "The Open <b>Local Search</b> Engine from Taganode is a search engine specifically <br>\ntargeting mobile phones. It is based on <b>local search</b> algorithms to find new places<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Taganode_Local_Search_Engine", 
+            "cacheId": "O5KyA82WZIkJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Local Search Group - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Local Search</b> Group - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Local_Search_Group", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Local</b>_<b>Search</b>_Group", 
+            "snippet": "Local Search Group is a digital marketing agency operating out of Houston, \nTexas, USA. The company specializes in integrated advertising, including search\n\u00a0...", 
+            "htmlSnippet": "<b>Local Search</b> Group is a digital marketing agency operating out of Houston, <br>\nTexas, USA. The company specializes in integrated advertising, including search<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Local_Search_Group", 
+            "cacheId": "CVrggJ5PuFIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Tabu search - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Tabu <b>search</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Tabu_search", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Tabu_<b>search</b>", 
+            "snippet": "Tabu search, created by Fred W. Glover in 1986 and formalized in 1989, is a \nmetaheuristic search method employing local search methods used for\u00a0...", 
+            "htmlSnippet": "Tabu search, created by Fred W. Glover in 1986 and formalized in 1989, is a <br>\nmetaheuristic search method employing <b>local search</b> methods used for&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Tabu_search", 
+            "cacheId": "LxfJwLBszcoJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Local search", 
+                "safe": "off", 
+                "searchTerms": "Local search", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "8160000"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Local search", 
+                "safe": "off", 
+                "searchTerms": "Local search", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "8160000"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.32", 
+        "formattedTotalResults": "8,160,000", 
+        "totalResults": "8160000", 
+        "searchTime": 0.319587
+    }
+}

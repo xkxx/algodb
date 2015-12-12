@@ -1,0 +1,237 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "CORDIC - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>CORDIC</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/CORDIC", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>CORDIC</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "112", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLMkEC9iIQKCmz3CizWEmLTlRyx6UB-SEKxHVXZ6nJzMmNzJInEhWdgQ", 
+                        "height": "109"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/0/05/Cercle_trigo.png"
+                    }
+                ]
+            }, 
+            "snippet": "CORDIC (for COordinate Rotation DIgital Computer), also known as the digit-by-\ndigit method and Volder's algorithm, is a simple and efficient algorithm to\u00a0...", 
+            "htmlSnippet": "<b>CORDIC</b> (for COordinate Rotation DIgital Computer), also known as the digit-by-<br>\ndigit method and Volder&#39;s algorithm, is a simple and efficient algorithm to&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/CORDIC", 
+            "cacheId": "GWe8w7Fw_RUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Regis Cordic - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Regis <b>Cordic</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Regis_Cordic", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Regis_<b>Cordic</b>", 
+            "snippet": "Regis John \"Rege\" Cordic (May 15, 1926\u2014April 16, 1999) was an American \nradio personality and actor. His career in entertainment divides roughly in half: \nfrom\u00a0...", 
+            "htmlSnippet": "Regis John &quot;Rege&quot; <b>Cordic</b> (May 15, 1926\u2014April 16, 1999) was an American <br>\nradio personality and actor. His career in entertainment divides roughly in half: <br>\nfrom&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Regis_Cordic", 
+            "cacheId": "UxssrHZSjHEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:CORDIC - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>CORDIC</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3ACORDIC", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>CORDIC</b>", 
+            "snippet": "Therefore, to get the true value of magnitude we must multiply by the reciprocal of \n1.647, which is 0.607. (Remember, the exact CORDIC Gain is a function of the\u00a0...", 
+            "htmlSnippet": "Therefore, to get the true value of magnitude we must multiply by the reciprocal of <br>\n1.647, which is 0.607. (Remember, the exact <b>CORDIC</b> Gain is a function of the&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3ACORDIC", 
+            "cacheId": "2CD7P_flzhYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "BKM algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "BKM algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/BKM_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/BKM_algorithm", 
+            "snippet": "BKM is similar to CORDIC, but uses a table of logarithms rather than a table of \narctangents. On each iteration, a choice of coefficient is made from a set of nine\u00a0...", 
+            "htmlSnippet": "BKM is similar to <b>CORDIC</b>, but uses a table of logarithms rather than a table of <br>\narctangents. On each iteration, a choice of coefficient is made from a set of nine&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/BKM_algorithm", 
+            "cacheId": "mvB8aZnYCQgJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "File talk:CORDIC-illustration.png - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "File talk:<b>CORDIC</b>-illustration.png - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/File_talk:CORDIC-illustration.png", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/File_talk:<b>CORDIC</b>-illustration.png", 
+            "snippet": "File talk:CORDIC-illustration.png ... 2010 (UTC). Retrieved from \"https://en.\nwikipedia.org/w/index.php?title=File_talk:CORDIC-illustration.png&oldid=\n363512086\"\u00a0...", 
+            "htmlSnippet": "File talk:<b>CORDIC</b>-illustration.png ... 2010 (UTC). Retrieved from &quot;https://en.<br>\nwikipedia.org/w/index.php?title=File_talk:<b>CORDIC</b>-illustration.png&amp;oldid=<br>\n363512086&quot;&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/File_talk:CORDIC-illustration.png", 
+            "cacheId": "pPRRnfQP_4EJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Karl Hardman - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Karl Hardman - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Karl_Hardman", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Karl_Hardman", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBN42QreuVAIJPw6K6tl9Mbng5x4PS_O7ZQGTHenyY7mifKCQf0ezdSe8", 
+                        "height": "141"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/CooperFamily.jpg/220px-CooperFamily.jpg"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "bday": "1927-03-22", 
+                        "fn": "Karl Hardman"
+                    }
+                ]
+            }, 
+            "snippet": "Even before his role in Night of the Living Dead, Hardman was an institution in \nPittsburgh for his longtime work on Pittsburgh's early morning, highly-rated \nCordic\u00a0...", 
+            "htmlSnippet": "Even before his role in Night of the Living Dead, Hardman was an institution in <br>\nPittsburgh for his longtime work on Pittsburgh&#39;s early morning, highly-rated <br>\n<b>Cordic</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Karl_Hardman", 
+            "cacheId": "xRk-NoVZUsYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Trigonometric tables - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:Trigonometric tables - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/.../Talk%3AGenerating_trigonometric_tables", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Talk%3AGenerating_trigonometric_tables", 
+            "snippet": "Calculating accurate approximations for trigonometric functions (CORDIC \nschemes, etcetera); Arbitrary-precision arithmetic methods (quadratically \nconvergent\u00a0...", 
+            "htmlSnippet": "Calculating accurate approximations for trigonometric functions (<b>CORDIC</b> <br>\nschemes, etcetera); Arbitrary-precision arithmetic methods (quadratically <br>\nconvergent&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3AGenerating_trigonometric_tables", 
+            "cacheId": "DdkTPkT1D0MJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Bob Trow - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Bob Trow - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Bob_Trow", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Bob_Trow", 
+            "snippet": "It was the performance of one of his vocal groups in the early 1950s that caught \nthe attention of radio host Rege Cordic, who offered to manage Trow's group.", 
+            "htmlSnippet": "It was the performance of one of his vocal groups in the early 1950s that caught <br>\nthe attention of radio host Rege <b>Cordic</b>, who offered to manage Trow&#39;s group.", 
+            "link": "https://en.wikipedia.org/wiki/Bob_Trow", 
+            "cacheId": "JHyd_FOlslIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Fort Duquesne Bridge - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Fort Duquesne Bridge - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Fort_Duquesne_Bridge", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Fort_Duquesne_Bridge", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ80LRMXHy4cYBYMrJbrf8-dqmDxPfFyd29cEEvTf7SeR6UVLNS4r3LeA", 
+                        "height": "117"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Pittsburgh_-_%22Bridge_to_Nowhere%22.jpg/220px-Pittsburgh_-_%22Bridge_to_Nowhere%22.jpg"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "bday": "1969-10-17", 
+                        "category": "Double-decked Bowstring Arch bridge", 
+                        "nickname": "Fort Duquesne Bridge", 
+                        "fn": "Fort Duquesne Bridge", 
+                        "label": "Pittsburgh, Pennsylvania"
+                    }
+                ]
+            }, 
+            "snippet": "Within a few weeks of this near tragedy, an iconic Pittsburgh radio personality, \nRege Cordic, distributed commemorative bumper stickers which read \"Official\u00a0...", 
+            "htmlSnippet": "Within a few weeks of this near tragedy, an iconic Pittsburgh radio personality, <br>\nRege <b>Cordic</b>, distributed commemorative bumper stickers which read &quot;Official&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Fort_Duquesne_Bridge", 
+            "cacheId": "N30ARDd2Sn0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "John Kordic - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "John Kordic - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/John_Kordic", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/John_Kordic", 
+            "pagemap": {
+                "person": [
+                    {
+                        "role": "Right wing"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "bday": "1965-03-22", 
+                        "role": "Right wing", 
+                        "fn": "John Kordic"
+                    }
+                ]
+            }, 
+            "snippet": "John Kordic. Born, (1965-03-22)March 22, 1965. Edmonton, AB, Can. Died, \nAugust 8, 1992(1992-08-08) (aged 27) Quebec City, QC, Can. Height, 6 ft 2 in (\n188\u00a0...", 
+            "htmlSnippet": "John Kordic. Born, (1965-03-22)March 22, 1965. Edmonton, AB, Can. Died, <br>\nAugust 8, 1992(1992-08-08) (aged 27) Quebec City, QC, Can. Height, 6 ft 2 in (<br>\n188&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/John_Kordic", 
+            "cacheId": "g3kG2PU9izAJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - CORDIC", 
+                "safe": "off", 
+                "searchTerms": "CORDIC", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "221"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - CORDIC", 
+                "safe": "off", 
+                "searchTerms": "CORDIC", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "221"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.24", 
+        "formattedTotalResults": "221", 
+        "totalResults": "221", 
+        "searchTime": 0.242046
+    }
+}

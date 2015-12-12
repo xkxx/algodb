@@ -1,0 +1,266 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Miser - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Miser</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Miser", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Miser</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQIplTL-dafROCA9E7LQrFnWMYhcxNH1nz-TaRi114j-RsB14jOpfuelpE", 
+                        "height": "211"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Piccinni_L'Avaro.jpg/220px-Piccinni_L'Avaro.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "A miser is a person who is reluctant to spend, sometimes to the point of forgoing \neven basic comforts and some necessities, in order to hoard money or other\u00a0...", 
+            "htmlSnippet": "A <b>miser</b> is a person who is reluctant to spend, sometimes to the point of forgoing <br>\neven basic comforts and some necessities, in order to hoard money or other&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Miser", 
+            "cacheId": "B-aL6G-BmmsJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Snow Miser - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Snow <b>Miser</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Snow_Miser", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Snow_<b>Miser</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "200", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbCmA3f5hZTPyevdN_2P3_IXAytFiaf_YBK3wt8ct5QEwS_idYRMX3SIxr", 
+                        "height": "133"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/Snowmiser74shawn.jpg/250px-Snowmiser74shawn.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "Snow Miser is a character from the Rankin/Bass-produced 1974 stop-motion \nanimated Christmas special The Year Without a Santa Claus. Snow Miser was\u00a0...", 
+            "htmlSnippet": "Snow <b>Miser</b> is a character from the Rankin/Bass-produced 1974 stop-motion <br>\nanimated Christmas special The Year Without a Santa Claus. Snow <b>Miser</b> was&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Snow_Miser", 
+            "cacheId": "TfDR04d-VnIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "A Miser Brothers' Christmas - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "A <b>Miser</b> Brothers&#39; Christmas - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/A_Miser_Brothers'_Christmas", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/A_<b>Miser</b>_Brothers&#39;_Christmas", 
+            "snippet": "A Miser Brothers' Christmas is a stop motion spin-off special based on some of \nthe characters from the 1974 Rankin-Bass special The Year Without a Santa\u00a0...", 
+            "htmlSnippet": "A <b>Miser</b> Brothers&#39; Christmas is a stop motion spin-off special based on some of <br>\nthe characters from the 1974 Rankin-Bass special The Year Without a Santa&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/A_Miser_Brothers'_Christmas", 
+            "cacheId": "DRx4U5wqVooJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Death and the Miser - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Death and the <b>Miser</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Death_and_the_Miser", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Death_and_the_<b>Miser</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSLGG_SELeQD0bjtFyO_NaXbnE0OiaNwW8ULfuCJjC0jTfkTm6KHIA2WJXQ", 
+                        "height": "174"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Jheronimus_Bosch_4_last_things_(death).jpg/220px-Jheronimus_Bosch_4_last_things_(death).jpg"
+                    }
+                ]
+            }, 
+            "snippet": "Death and the Miser is a Hieronymus Bosch painting. It is currently in the \nNational Gallery of Art in Washington, D.C. The painting is the inside of the right \npanel\u00a0...", 
+            "htmlSnippet": "Death and the <b>Miser</b> is a Hieronymus Bosch painting. It is currently in the <br>\nNational Gallery of Art in Washington, D.C. The painting is the inside of the right <br>\npanel&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Death_and_the_Miser", 
+            "cacheId": "t3V_EbiXehMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "The Miser - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "The <b>Miser</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/The_Miser", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/The_<b>Miser</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ-ZVcqwqhh4XrRxtPYyLujF-MukunKud2DT9nLMAq4gdNVZ4_VZcVlDupy", 
+                        "height": "240"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Harpagon_Pouget.jpg/220px-Harpagon_Pouget.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "The Miser (French: L'Avare; pronounced: [lava\u0281]) is a five-act comedy in prose by \nthe French playwright Moli\u00e8re. It was first performed on September 9, 1668,\u00a0...", 
+            "htmlSnippet": "The <b>Miser</b> (French: L&#39;Avare; pronounced: [lava\u0281]) is a five-act comedy in prose by <br>\nthe French playwright Moli\u00e8re. It was first performed on September 9, 1668,&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/The_Miser", 
+            "cacheId": "luSK-Uu1kWcJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Heat Miser - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Heat <b>Miser</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Heat_Miser", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Heat_<b>Miser</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "200", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrn6KNdnh83UkCmB0yAOdONz1dWZKbp0ddYbCG3QaQDf5au1N89Zah3Avu", 
+                        "height": "200"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/Heatmiser74year.png/250px-Heatmiser74year.png"
+                    }
+                ]
+            }, 
+            "snippet": "Heat Miser is a character from the Rankin/Bass 1974 children's television special \nThe Year Without a Santa Claus. He is an ogre or demon-like being who\u00a0...", 
+            "htmlSnippet": "Heat <b>Miser</b> is a character from the Rankin/Bass 1974 children&#39;s television special <br>\nThe Year Without a Santa Claus. He is an ogre or demon-like being who&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Heat_Miser", 
+            "cacheId": "WCiS80cJg4sJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Cognitive miser - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Cognitive <b>miser</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Cognitive_miser", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Cognitive_<b>miser</b>", 
+            "snippet": "Within social psychology, cognitive miser is an umbrella theory of social cognition \nthat brings together previous research on heuristics and attributional biases.", 
+            "htmlSnippet": "Within social psychology, cognitive <b>miser</b> is an umbrella theory of social cognition <br>\nthat brings together previous research on heuristics and attributional biases.", 
+            "link": "https://en.wikipedia.org/wiki/Cognitive_miser", 
+            "cacheId": "KzxoAMQeu7YJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Miser (disambiguation) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Miser</b> (disambiguation) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Miser_(disambiguation)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Miser</b>_(disambiguation)", 
+            "snippet": "A miser is a person who hoards money. ... based on Moli\u00e8re's play; Pete Miser, \nstage name of Peter Ho, an Asian-American hip-hop rapper and producer\u00a0...", 
+            "htmlSnippet": "A <b>miser</b> is a person who hoards money. ... based on Moli\u00e8re&#39;s play; Pete <b>Miser</b>, <br>\nstage name of Peter Ho, an Asian-American hip-hop rapper and producer&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Miser_(disambiguation)", 
+            "cacheId": "vKBGTLWmueIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Yossele the Holy Miser - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Yossele the Holy <b>Miser</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Yossele_the_Holy_Miser", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Yossele_the_Holy_<b>Miser</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "136", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR9T87IHshRoGbEHQ2TNP3wUuDRxYwSeXQoaWXCoiUiZAmCvdjHO30rtdk", 
+                        "height": "181"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Tombstone_of_Yossele_the_Holy_Miser.jpg/170px-Tombstone_of_Yossele_the_Holy_Miser.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "The tombstone of Yossele the Holy Miser, found in the back of the Remuh \nCemetery next to the grave of Rabbi Yom-Tov Lipmann Heller. The dozens of \nstones\u00a0...", 
+            "htmlSnippet": "The tombstone of Yossele the Holy <b>Miser</b>, found in the back of the Remuh <br>\nCemetery next to the grave of Rabbi Yom-Tov Lipmann Heller. The dozens of <br>\nstones&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Yossele_the_Holy_Miser", 
+            "cacheId": "iJFWRxGN91oJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Pete Miser - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Pete <b>Miser</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Pete_Miser", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Pete_<b>Miser</b>", 
+            "pagemap": {
+                "person": [
+                    {
+                        "role": "Producer, DJ, Creative Mastermind, Fresh Emcee (Rapper)"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "bday": "1971-02-03", 
+                        "role": "Producer, DJ, Creative Mastermind, Fresh Emcee (Rapper)", 
+                        "note": "Voice, drums, Turntables", 
+                        "nickname": "Peter Ho", 
+                        "fn": "Pete Miser"
+                    }
+                ]
+            }, 
+            "snippet": "Peter Aaron Ho (born February 3, 1971), known by the stage name Pete Miser, is \nan Asian-American Hip Hop rapper and producer living in New York City.", 
+            "htmlSnippet": "Peter Aaron Ho (born February 3, 1971), known by the stage name Pete <b>Miser</b>, is <br>\nan Asian-American Hip Hop rapper and producer living in New York City.", 
+            "link": "https://en.wikipedia.org/wiki/Pete_Miser", 
+            "cacheId": "4q4_TH3Nl_YJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - MISER", 
+                "safe": "off", 
+                "searchTerms": "MISER", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "4590"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - MISER", 
+                "safe": "off", 
+                "searchTerms": "MISER", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "4590"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.30", 
+        "formattedTotalResults": "4,590", 
+        "totalResults": "4590", 
+        "searchTime": 0.297731
+    }
+}

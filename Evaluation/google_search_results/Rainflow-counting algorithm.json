@@ -1,0 +1,208 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Rainflow-counting algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Rainflow</b>-<b>counting algorithm</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Rainflow-counting_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Rainflow</b>-<b>counting</b>_<b>algorithm</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTDAZjgtKzg-WG2ewHR5yDW3dw2HAZ_2t_6BeBgN0xKIvlFoPOb4qsbLm0", 
+                        "height": "95"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Rainflow_fig1.PNG/220px-Rainflow_fig1.PNG"
+                    }
+                ]
+            }, 
+            "snippet": "The rainflow-counting algorithm (also known as the \"rain-flow counting method\") \nis used in the analysis of fatigue data in order to reduce a spectrum of varying\u00a0...", 
+            "htmlSnippet": "The <b>rainflow</b>-<b>counting algorithm</b> (also known as the &quot;rain-flow counting method&quot;) <br>\nis used in the analysis of fatigue data in order to reduce a spectrum of varying&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Rainflow-counting_algorithm", 
+            "cacheId": "ibywzRmo-kMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Rainflow-counting algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Rainflow</b>-<b>counting algorithm</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3ARainflow-counting_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>Rainflow</b>-<b>counting</b>_<b>algorithm</b>", 
+            "snippet": "It is irrelevant to mention the Sandia National Laboratories LIFE2 code. It sounds \nas publicity. Mistake in Figure 4?[edit]. I'm by no means an expert in this field,\u00a0...", 
+            "htmlSnippet": "It is irrelevant to mention the Sandia National Laboratories LIFE2 code. It sounds <br>\nas publicity. Mistake in Figure 4?[edit]. I&#39;m by no means an expert in this field,&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3ARainflow-counting_algorithm", 
+            "cacheId": "CDt_1jB1Kx8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Tatsuo Endo - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Tatsuo Endo - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Tatsuo_Endo", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Tatsuo_Endo", 
+            "snippet": "Tatsuo Endo (\u9060\u85e4 \u9054\u96c4, End\u014d Tatsuo, 1925 \u2013 1989) was a Japanese engineer \nwho, in 1968 along with M. Matsuishi, developed the rainflow-counting algorithm\n\u00a0...", 
+            "htmlSnippet": "Tatsuo Endo (\u9060\u85e4 \u9054\u96c4, End\u014d Tatsuo, 1925 \u2013 1989) was a Japanese engineer <br>\nwho, in 1968 along with M. Matsuishi, developed the <b>rainflow</b>-<b>counting algorithm</b><br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Tatsuo_Endo", 
+            "cacheId": "OXwgjziJWOUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Vibration fatigue - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Vibration fatigue - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Vibration_fatigue", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Vibration_fatigue", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSyR0mPEyKCmowIgQbluyvyt8OJh-wUXsJvnkzwH8XvFUqOcBARyVw2Vvs", 
+                        "height": "141"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0b/First_mode_of_cantilever_animation.gif/220px-First_mode_of_cantilever_animation.gif"
+                    }
+                ]
+            }, 
+            "snippet": "The more classical approach of fatigue evaluation consists of cycle counting, \nusing the rainflow algorithm and summation by means of the Palmgren-Miner \nlinear\u00a0...", 
+            "htmlSnippet": "The more classical approach of fatigue evaluation consists of cycle <b>counting</b>, <br>\nusing the <b>rainflow algorithm</b> and summation by means of the Palmgren-Miner <br>\nlinear&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Vibration_fatigue", 
+            "cacheId": "PdlB-ob4dwoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Category:Fracture mechanics - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Category:Fracture mechanics - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Category:Fracture_mechanics", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Category:Fracture_mechanics", 
+            "snippet": "R. Rainflow-counting algorithm \u00b7 Rsl testing. S. SESAM (FEM) \u00b7 Shock (\nmechanics) \u00b7 Slow strain rate testing \u00b7 Split-Hopkinson pressure bar \u00b7 Strain \nenergy\u00a0...", 
+            "htmlSnippet": "R. <b>Rainflow</b>-<b>counting algorithm</b> &middot; Rsl testing. S. SESAM (FEM) &middot; Shock (<br>\nmechanics) &middot; Slow strain rate testing &middot; Split-Hopkinson pressure bar &middot; Strain <br>\nenergy&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Category:Fracture_mechanics", 
+            "cacheId": "uJTefqB4q8cJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Category:Elasticity (physics) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Category:Elasticity (physics) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Category:Elasticity_(physics)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Category:Elasticity_(physics)", 
+            "snippet": "R. Rainflow-counting algorithm \u00b7 Resilience (materials science). S. Saint-Venant's \ncompatibility condition \u00b7 Saint-Venant's Principle \u00b7 Saint-Venant's theorem\u00a0...", 
+            "htmlSnippet": "R. <b>Rainflow</b>-<b>counting algorithm</b> &middot; Resilience (materials science). S. Saint-Venant&#39;s <br>\ncompatibility condition &middot; Saint-Venant&#39;s Principle &middot; Saint-Venant&#39;s theorem&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Category:Elasticity_(physics)", 
+            "cacheId": "Pt2LjTlcQQAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Fatigue (material) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Fatigue (material) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Fatigue_(material)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Fatigue_(material)", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQD1vYb9y_GsldPD8sJOGRy8G4No2MAeEonNlP0nU2lb9aKung28rCgJGEC", 
+                        "height": "161"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Pedalarm_Bruch.jpg/220px-Pedalarm_Bruch.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "1968: Tatsuo Endo and M. Matsuishi devise the rainflow-counting algorithm and \n... Create a histogram of cyclic stress from the rainflow analysis to form a fatigue\u00a0...", 
+            "htmlSnippet": "1968: Tatsuo Endo and M. Matsuishi devise the <b>rainflow</b>-<b>counting algorithm</b> and <br>\n... Create a histogram of cyclic stress from the rainflow analysis to form a fatigue&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Fatigue_(material)", 
+            "cacheId": "EdydFIG2oJkJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "User:Netcse/Books/Algorithms - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "User:Netcse/Books/Algorithms - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/User:Netcse/Books/Algorithms", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/User:Netcse/Books/<b>Algorithm</b>s", 
+            "snippet": "List of Algorithm - 1[edit] .... Calculus of variations \u00b7 Ritz method \u00b7 N-body problem \n\u00b7 Barnes\u2013Hut simulation \u00b7 Fast multipole method \u00b7 Rainflow-counting algorithm\u00a0...", 
+            "htmlSnippet": "List of Algorithm - 1[edit] .... Calculus of variations &middot; Ritz method &middot; N-body problem <br>\n&middot; Barnes\u2013Hut simulation &middot; Fast multipole method &middot; <b>Rainflow</b>-<b>counting algorithm</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/User:Netcse/Books/Algorithms", 
+            "cacheId": "RnMwt4umlpoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "FlexPro - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "FlexPro - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/FlexPro", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/FlexPro", 
+            "snippet": "The underlying algorithm can be parameterized through a property sheet any \ntime. ... statistics, acoustics, FIR and IIR filtering as well as (Rainflow)-counting.", 
+            "htmlSnippet": "The underlying <b>algorithm</b> can be parameterized through a property sheet any <br>\ntime. ... statistics, acoustics, FIR and IIR filtering as well as (<b>Rainflow</b>)-<b>counting</b>.", 
+            "link": "https://en.wikipedia.org/wiki/FlexPro", 
+            "cacheId": "CB7Eh6WBSJ0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "List of algorithms - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "List of algorithms - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/List_of_algorithms", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/List_of_<b>algorithm</b>s", 
+            "snippet": "Hopcroft\u2013Karp algorithm: convert a bipartite graph to a maximum cardinality ..... \nRainflow-counting algorithm: Reduces a complex stress history to a count of\u00a0...", 
+            "htmlSnippet": "Hopcroft\u2013Karp algorithm: convert a bipartite graph to a maximum cardinality ..... <br>\n<b>Rainflow</b>-<b>counting algorithm</b>: Reduces a complex stress history to a count of&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/List_of_algorithms", 
+            "cacheId": "iXsrHv5PMNcJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Rainflow-counting algorithm", 
+                "safe": "off", 
+                "searchTerms": "Rainflow-counting algorithm", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "17"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Rainflow-counting algorithm", 
+                "safe": "off", 
+                "searchTerms": "Rainflow-counting algorithm", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "17"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.22", 
+        "formattedTotalResults": "17", 
+        "totalResults": "17", 
+        "searchTime": 0.219461
+    }
+}

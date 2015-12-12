@@ -1,0 +1,185 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Baum\u2013Welch algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Baum</b>\u2013<b>Welch</b> algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Baum\u2013Welch_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Baum</b>\u2013<b>Welch</b>_algorithm", 
+            "snippet": "In electrical engineering, computer science, statistical computing and \nbioinformatics, the Baum\u2013Welch algorithm is used to find the unknown \nparameters of a\u00a0...", 
+            "htmlSnippet": "In electrical engineering, computer science, statistical computing and <br>\nbioinformatics, the <b>Baum</b>\u2013<b>Welch</b> algorithm is used to find the unknown <br>\nparameters of a&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Baum%E2%80%93Welch_algorithm", 
+            "cacheId": "BrKMtKw3M2EJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Leonard E. Baum - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Leonard E. <b>Baum</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Leonard_E._Baum", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Leonard_E._<b>Baum</b>", 
+            "snippet": "Leonard Esau Baum is an American mathematician, known for the Baum\u2013Welch \nalgorithm. He graduated Phi Beta Kappa from Harvard University in 1953, and\u00a0...", 
+            "htmlSnippet": "Leonard Esau Baum is an American mathematician, known for the <b>Baum</b>\u2013<b>Welch</b> <br>\nalgorithm. He graduated Phi Beta Kappa from Harvard University in 1953, and&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Leonard_E._Baum", 
+            "cacheId": "DORwCLHjTdoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Baum\u2013Welch algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Baum</b>\u2013<b>Welch</b> algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki?title=Talk:Baum-Welch_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki?title=Talk:<b>Baum</b>-<b>Welch</b>_algorithm", 
+            "snippet": "(Redirected from Talk:Baum-Welch algorithm) ... There is a document written by \nWelch on IEEE Information Theory Society Newslectter, December 2003.", 
+            "htmlSnippet": "(Redirected from Talk:<b>Baum</b>-<b>Welch</b> algorithm) ... There is a document written by <br>\nWelch on IEEE Information Theory Society Newslectter, December 2003.", 
+            "link": "https://en.wikipedia.org/wiki?title=Talk:Baum-Welch_algorithm", 
+            "cacheId": "J_KGhSN9AY4J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Lloyd R. Welch - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Lloyd R. <b>Welch</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Lloyd_R._Welch", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Lloyd_R._<b>Welch</b>", 
+            "snippet": "Lloyd Richard Welch is a noted American information theorist, and co-inventor of \nthe Baum\u2013Welch algorithm and the Berlekamp\u2013Welch algorithm, also known\u00a0...", 
+            "htmlSnippet": "Lloyd Richard Welch is a noted American information theorist, and co-inventor of <br>\nthe <b>Baum</b>\u2013<b>Welch</b> algorithm and the Berlekamp\u2013Welch algorithm, also known&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Lloyd_R._Welch", 
+            "cacheId": "7hDVOZsUqXIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Hidden semi-Markov model - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Hidden semi-Markov model - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Hidden_semi-Markov_model", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Hidden_semi-Markov_model", 
+            "snippet": "Statistical inference for hidden semi-Markov models is more difficult than in \nhidden Markov models, since algorithms like the Baum-Welch algorithm are not\u00a0...", 
+            "htmlSnippet": "Statistical inference for hidden semi-Markov models is more difficult than in <br>\nhidden Markov models, since algorithms like the <b>Baum</b>-<b>Welch</b> algorithm are not&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Hidden_semi-Markov_model", 
+            "cacheId": "wiGlvFHBQ-cJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Markov model - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Markov model - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Markov_model", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Markov_model", 
+            "snippet": "... of observations, and the Baum\u2013Welch algorithm will estimate the starting \nprobabilities, the transition function, and the observation function of a hidden \nMarkov\u00a0...", 
+            "htmlSnippet": "... of observations, and the <b>Baum</b>\u2013<b>Welch</b> algorithm will estimate the starting <br>\nprobabilities, the transition function, and the observation function of a hidden <br>\nMarkov&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Markov_model", 
+            "cacheId": "KSdgfb2-rA4J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Eric Baum - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Eric <b>Baum</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Eric_Baum", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Eric_<b>Baum</b>", 
+            "snippet": "Eric B. Baum is an American computer scientist, artificial intelligence researcher \nand ... He is the son of Leonard Baum, co-creator of the Baum\u2013Welch algorithm.", 
+            "htmlSnippet": "Eric B. Baum is an American computer scientist, artificial intelligence researcher <br>\nand ... He is the son of Leonard Baum, co-creator of the <b>Baum</b>\u2013<b>Welch</b> algorithm.", 
+            "link": "https://en.wikipedia.org/wiki/Eric_Baum", 
+            "cacheId": "7VbJe8kJi3QJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Baum - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Baum</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Baum", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Baum</b>", 
+            "snippet": "Baum is a German surname meaning \"tree\" (not to be confused with the French ... \nEric Baum, American computer scientist and artificial intelligence researcher; \nEdgar ... eBaum's World \u00b7 Baum\u2013Welch algorithm \u00b7 Baum School of Art \u00b7 Baum \ntest\u00a0...", 
+            "htmlSnippet": "Baum is a German surname meaning &quot;tree&quot; (not to be confused with the French ... <br>\nEric Baum, American computer scientist and artificial intelligence researcher; <br>\nEdgar ... eBaum&#39;s World &middot; <b>Baum</b>\u2013<b>Welch</b> algorithm &middot; Baum School of Art &middot; Baum <br>\ntest&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Baum", 
+            "cacheId": "5cFoVu30NTgJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Forward\u2013backward algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Forward\u2013backward algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Forward\u2013backward_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Forward\u2013backward_algorithm", 
+            "snippet": "See also[edit]. Baum-Welch algorithm \u00b7 Viterbi algorithm \u00b7 BCJR algorithm. \nReferences[edit]. Jump up ^ J. Binder, K. Murphy and S. Russell. Space-Efficient\n\u00a0...", 
+            "htmlSnippet": "See also[edit]. <b>Baum</b>-<b>Welch</b> algorithm &middot; Viterbi algorithm &middot; BCJR algorithm. <br>\nReferences[edit]. Jump up ^ J. Binder, K. Murphy and S. Russell. Space-Efficient<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Forward%E2%80%93backward_algorithm", 
+            "cacheId": "do6MEMVTkBkJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "USC Viterbi School of Engineering - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "USC Viterbi School of Engineering - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/USC_Viterbi_School_of_Engineering", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/USC_Viterbi_School_of_Engineering", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "192", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtRztehpOg2cVYwzDayTRjevaNaJov2k47xUnm28EpJQavjKa4H6UugOM", 
+                        "height": "128"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/USC_Campaign_1783.jpg/240px-USC_Campaign_1783.jpg"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "fn": "USC Viterbi School of Engineering"
+                    }
+                ]
+            }, 
+            "snippet": "Irving Reed \u00b7 Baum-Welch algorithm - developed by Prof. Lloyd Welch in \ncollaboration with Leonard E. Baum \u00b7 CMOS image sensor - invented by Prof.", 
+            "htmlSnippet": "Irving Reed &middot; <b>Baum</b>-<b>Welch</b> algorithm - developed by Prof. Lloyd Welch in <br>\ncollaboration with Leonard E. Baum &middot; CMOS image sensor - invented by Prof.", 
+            "link": "https://en.wikipedia.org/wiki/USC_Viterbi_School_of_Engineering", 
+            "cacheId": "3za6Jt94d8EJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Baum-Welch", 
+                "safe": "off", 
+                "searchTerms": "Baum-Welch", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "220"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Baum-Welch", 
+                "safe": "off", 
+                "searchTerms": "Baum-Welch", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "220"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.25", 
+        "formattedTotalResults": "220", 
+        "totalResults": "220", 
+        "searchTime": 0.252778
+    }
+}

@@ -1,0 +1,250 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Discrete Fourier transform - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Discrete Fourier transform</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Discrete_Fourier_transform", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Discrete</b>_<b>Fourier</b>_<b>transform</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "282", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7eTBS1VqYusI0aBy7CM7BmORU6mb9QqNgYcmlCfZvKZTHD4hZnJjsIEs", 
+                        "height": "179"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Fourier_transform,_Fourier_series,_DTFT,_DFT.gif/400px-Fourier_transform,_Fourier_series,_DTFT,_DFT.gif"
+                    }
+                ]
+            }, 
+            "snippet": "Relationship between the (continuous) Fourier transform and the discrete Fourier \ntransform. Left column: A continuous function (top) and its Fourier transform\u00a0...", 
+            "htmlSnippet": "Relationship between the (continuous) Fourier transform and the <b>discrete Fourier</b> <br>\n<b>transform</b>. Left column: A continuous function (top) and its Fourier transform&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Discrete_Fourier_transform", 
+            "cacheId": "6dhBpq97clMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Discrete-time Fourier transform - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Discrete</b>-time <b>Fourier transform</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Discrete-time_Fourier_transform", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Discrete</b>-time_<b>Fourier</b>_<b>transform</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "282", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7eTBS1VqYusI0aBy7CM7BmORU6mb9QqNgYcmlCfZvKZTHD4hZnJjsIEs", 
+                        "height": "179"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Fourier_transform,_Fourier_series,_DTFT,_DFT.gif/400px-Fourier_transform,_Fourier_series,_DTFT,_DFT.gif"
+                    }
+                ]
+            }, 
+            "snippet": "In mathematics, the discrete-time Fourier transform (DTFT) is a form of Fourier \nanalysis that is applicable to the uniformly-spaced samples of a continuous\u00a0...", 
+            "htmlSnippet": "In mathematics, the <b>discrete</b>-time <b>Fourier transform</b> (DTFT) is a form of <b>Fourier</b> <br>\nanalysis that is applicable to the uniformly-spaced samples of a continuous&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Discrete-time_Fourier_transform", 
+            "cacheId": "OHeftesZNXAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Fast Fourier transform - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Fast <b>Fourier transform</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Fast_Fourier_transform", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Fast_<b>Fourier</b>_<b>transform</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "318", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSnIs5golPnUw9wxp2kPBmReVf9KttXn6Jd65w_RWvtnfXuWgZhlTsLZDc", 
+                        "height": "159"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Time_Signal_of_Five_Term_Cosine_Series.png/400px-Time_Signal_of_Five_Term_Cosine_Series.png"
+                    }
+                ]
+            }, 
+            "snippet": "A fast Fourier transform (FFT) algorithm computes the discrete Fourier transform (\nDFT) of a sequence, or its inverse. Fourier analysis converts a signal from its\u00a0...", 
+            "htmlSnippet": "A fast Fourier transform (FFT) algorithm computes the <b>discrete Fourier transform</b> (<br>\nDFT) of a sequence, or its inverse. Fourier analysis converts a signal from its&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Fast_Fourier_transform", 
+            "cacheId": "aDSMugX9X0AJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Discrete Fourier transform (general) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Discrete Fourier transform</b> (general) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Discrete_Fourier_transform_(general)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Discrete</b>_<b>Fourier</b>_<b>transform</b>_(general)", 
+            "snippet": "This article is about the discrete Fourier transform (DFT) over any ring, commonly \ncalled a number-theoretic transform (NTT) in the case of finite fields.", 
+            "htmlSnippet": "This article is about the <b>discrete Fourier transform</b> (<b>DFT</b>) over any ring, commonly <br>\ncalled a number-theoretic transform (NTT) in the case of finite fields.", 
+            "link": "https://en.wikipedia.org/wiki/Discrete_Fourier_transform_(general)", 
+            "cacheId": "BsFsWDR0qccJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Non-uniform discrete Fourier transform - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Non-uniform <b>discrete Fourier transform</b> - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../Non-uniform_discrete_Fourier_transform", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Non-uniform_<b>discrete</b>_<b>Fourier</b>_<b>transform</b>", 
+            "snippet": "In applied mathematics, the non-uniform discrete Fourier transform (NDFT) of a \nsignal is a type of Fourier transform, related to a discrete Fourier transform or\u00a0...", 
+            "htmlSnippet": "In applied mathematics, the non-uniform <b>discrete Fourier transform</b> (NDFT) of a <br>\nsignal is a type of Fourier transform, related to a <b>discrete Fourier transform</b> or&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Non-uniform_discrete_Fourier_transform", 
+            "cacheId": "H1A5T5gJYJoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Fourier transform - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Fourier transform</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Fourier_transform", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Fourier</b>_<b>transform</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "240", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRNsGIQwsqHlMLQc9GVovDLMKSOajRCa3E4ZibhssHuer0fjT8ekFUOMtU", 
+                        "height": "180"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Fourier_unit_pulse.svg/300px-Fourier_unit_pulse.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "14.1 Numerical integration of closed-form functions; 14.2 Numerical integration of \na series of ordered pairs; 14.3 Discrete Fourier Transforms and Fast Fourier\u00a0...", 
+            "htmlSnippet": "14.1 Numerical integration of closed-form functions; 14.2 Numerical integration of <br>\na series of ordered pairs; 14.3 <b>Discrete Fourier Transforms</b> and Fast Fourier&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Fourier_transform", 
+            "cacheId": "4F4OKo6OOBEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Discrete sine transform - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Discrete</b> sine <b>transform</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Discrete_sine_transform", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Discrete</b>_sine_<b>transform</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "184", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSQgarcUbqmi7FY2vMgVV7ZWVzm7RXTRF3HzAvmYK4Dimrz9-2gpsdqMtE", 
+                        "height": "273"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/DST-symmetries.svg/350px-DST-symmetries.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "In mathematics, the discrete sine transform (DST) is a Fourier-related transform \nsimilar to the discrete Fourier transform (DFT), but using a purely real matrix.", 
+            "htmlSnippet": "In mathematics, the discrete sine transform (DST) is a Fourier-related transform <br>\nsimilar to the <b>discrete Fourier transform</b> (DFT), but using a purely real matrix.", 
+            "link": "https://en.wikipedia.org/wiki/Discrete_sine_transform", 
+            "cacheId": "8j0pQjt0YLgJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "DFT - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>DFT</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/DFT", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/DFT", 
+            "snippet": "This disambiguation page lists articles associated with the title DFT. If an internal \nlink led you here, you may wish to change the link to point directly to the\u00a0...", 
+            "htmlSnippet": "This disambiguation page lists articles associated with the title <b>DFT</b>. If an internal <br>\nlink led you here, you may wish to change the link to point directly to the&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/DFT", 
+            "cacheId": "bAAiniXCQlUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "DFT matrix - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "DFT matrix - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/DFT_matrix", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/DFT_matrix", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "400", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRimRvkx29tRfjiTck4DauSbjLRsm0c8uFmxKt5fXb_myffMwJeoCpVIg", 
+                        "height": "125"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/math/9/c/c/9cce22a5a4d6ad84538dc40a90dd365f.png"
+                    }
+                ]
+            }, 
+            "snippet": "A DFT matrix is an expression of a discrete Fourier transform (DFT) as a \ntransformation matrix, which can be applied to a signal through matrix \nmultiplication.", 
+            "htmlSnippet": "A DFT matrix is an expression of a <b>discrete Fourier transform</b> (DFT) as a <br>\ntransformation matrix, which can be applied to a signal through matrix <br>\nmultiplication.", 
+            "link": "https://en.wikipedia.org/wiki/DFT_matrix", 
+            "cacheId": "HptcJcks7xoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Discrete Fourier series - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Discrete Fourier</b> series - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Discrete_Fourier_series", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Discrete</b>_<b>Fourier</b>_series", 
+            "snippet": "A Fourier series is a representation of a function in terms of a summation of an ... \nThat set is called a discrete Fourier transform (DFT), which is subsequently an\u00a0...", 
+            "htmlSnippet": "A Fourier series is a representation of a function in terms of a summation of an ... <br>\nThat set is called a <b>discrete Fourier transform</b> (DFT), which is subsequently an&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Discrete_Fourier_series", 
+            "cacheId": "9cIDMW_dxf4J"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Discrete Fourier transform", 
+                "safe": "off", 
+                "searchTerms": "Discrete Fourier transform", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "1960"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Discrete Fourier transform", 
+                "safe": "off", 
+                "searchTerms": "Discrete Fourier transform", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "1960"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.34", 
+        "formattedTotalResults": "1,960", 
+        "totalResults": "1960", 
+        "searchTime": 0.344277
+    }
+}

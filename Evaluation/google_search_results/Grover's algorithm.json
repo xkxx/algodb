@@ -1,0 +1,208 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Grover's algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Grover&#39;s algorithm</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Grover's_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Grover&#39;s</b>_<b>algorithm</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "220", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRkzqGR1TrY6UmA3koyG-58xM9dmJaP72yq59UB3i6E6pb55e_w30awi19i", 
+                        "height": "229"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Grovers_algorithm_geometry.png/310px-Grovers_algorithm_geometry.png"
+                    }
+                ]
+            }, 
+            "snippet": "Grover's algorithm is a quantum algorithm for searching an unsorted database \nwith N entries in O(N1/2) time and using O(log N) storage space (see big O\u00a0...", 
+            "htmlSnippet": "<b>Grover&#39;s algorithm</b> is a quantum algorithm for searching an unsorted database <br>\nwith N entries in O(N<sup>1/2</sup>) time and using O(log N) storage space (see big O&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Grover's_algorithm", 
+            "cacheId": "KQnYEZk8YuEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Quantum algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Quantum <b>algorithm</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Quantum_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Quantum_<b>algorithm</b>", 
+            "snippet": "[edit]. Main article: Grover's algorithm. Grover's algorithm searches an \nunstructured database (or an unordered list) with\u00a0...", 
+            "htmlSnippet": "[edit]. Main article: <b>Grover&#39;s algorithm</b>. <b>Grover&#39;s algorithm</b> searches an <br>\nunstructured database (or an unordered list) with&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Quantum_algorithm", 
+            "cacheId": "zQtqAxtDTe8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "BHT algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "BHT <b>algorithm</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/BHT_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/BHT_<b>algorithm</b>", 
+            "snippet": "The BHT algorithm is a quantum algorithm that solves the collision problem. ... It \nuses Grover's algorithm, which was discovered in the previous year.", 
+            "htmlSnippet": "The BHT algorithm is a quantum algorithm that solves the collision problem. ... It <br>\nuses <b>Grover&#39;s algorithm</b>, which was discovered in the previous year.", 
+            "link": "https://en.wikipedia.org/wiki/BHT_algorithm", 
+            "cacheId": "PzLzr9kpaGIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Grover's algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Grover&#39;s algorithm</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3AGrovers_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>Grovers</b>_<b>algorithm</b>", 
+            "snippet": "This article needs to flesh out the potential uses for Grover's algorithm. There are \nsome real challenges to scalability. Moveovergrover (talk) 00:45, 18 March\u00a0...", 
+            "htmlSnippet": "This article needs to flesh out the potential uses for <b>Grover&#39;s algorithm</b>. There are <br>\nsome real challenges to scalability. Moveovergrover (talk) 00:45, 18 March&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3AGrovers_algorithm", 
+            "cacheId": "uwnJ3R3x-AEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Amplitude amplification - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Amplitude amplification - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Amplitude_amplification", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Amplitude_amplification", 
+            "snippet": "Amplitude amplification is a technique in quantum computing which generalizes \nthe idea behind the Grover's search algorithm, and gives rise to a family of\u00a0...", 
+            "htmlSnippet": "Amplitude amplification is a technique in quantum computing which generalizes <br>\nthe idea behind the <b>Grover&#39;s</b> search <b>algorithm</b>, and gives rise to a family of&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Amplitude_amplification", 
+            "cacheId": "p9Tg_JhLd9UJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Grover - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Grover</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Grover", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Grover</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTYxmzRfkvLj8qG0qp1C7A5zAWWn9gWjWkCGF0bsWYGJB-FHn3MTuKlNUU", 
+                        "height": "156"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Grover.JPG/220px-Grover.JPG"
+                    }
+                ]
+            }, 
+            "snippet": "Grover, also known as Grover Monster, is a Muppet character on the popular \ntelevision show Sesame Street. Self-described as lovable, cute and furry, he is an\n\u00a0...", 
+            "htmlSnippet": "<b>Grover</b>, also known as <b>Grover</b> Monster, is a Muppet character on the popular <br>\ntelevision show Sesame Street. Self-described as lovable, cute and furry, he is an<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Grover", 
+            "cacheId": "-ZedNpfmkZ4J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Post-quantum cryptography - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Post-quantum cryptography - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Post-quantum_cryptography", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Post-quantum_cryptography", 
+            "snippet": "Post-quantum cryptography refers to cryptographic algorithms (usually public-key \n... While the quantum Grover's algorithm does speed up attacks against\u00a0...", 
+            "htmlSnippet": "Post-quantum cryptography refers to cryptographic algorithms (usually public-key <br>\n... While the quantum <b>Grover&#39;s algorithm</b> does speed up attacks against&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Post-quantum_cryptography", 
+            "cacheId": "Nxz31y7zMGIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Deutsch\u2013Jozsa algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Deutsch\u2013Jozsa <b>algorithm</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Deutsch\u2013Jozsa_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Deutsch\u2013Jozsa_<b>algorithm</b>", 
+            "snippet": "The Deutsch\u2013Jozsa algorithm is a quantum algorithm, proposed by David \nDeutsch ... and Grover's algorithm, two of the most revolutionary quantum \nalgorithms.", 
+            "htmlSnippet": "The Deutsch\u2013Jozsa algorithm is a quantum algorithm, proposed by David <br>\nDeutsch ... and <b>Grover&#39;s algorithm</b>, two of the most revolutionary quantum <br>\nalgorithms.", 
+            "link": "https://en.wikipedia.org/wiki/Deutsch%E2%80%93Jozsa_algorithm", 
+            "cacheId": "2CdYs8o5coUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Quantum computing - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Quantum computing - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Quantum_computing", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Quantum_computing", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ4nyV9AerT2CF9jxm3HpWbLjoFllywLNEH1_WtZrNFc-iHp7RjJccQJU", 
+                        "height": "200"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Bloch_Sphere.svg/220px-Bloch_Sphere.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "For more details on the sequences of operations used for various quantum \nalgorithms, see universal quantum computer, Shor's algorithm, Grover's algorithm\n,\u00a0...", 
+            "htmlSnippet": "For more details on the sequences of operations used for various quantum <br>\nalgorithms, see universal quantum computer, Shor&#39;s algorithm, <b>Grover&#39;s algorithm</b><br>\n,&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Quantum_computing", 
+            "cacheId": "C2wHYPrgKl4J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Key size - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Key size - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Key_size", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Key_size", 
+            "snippet": "An algorithm's key length is distinct from its original cryptographic security, which \n.... If a suitably sized quantum computer capable of running Grover's algorithm\u00a0...", 
+            "htmlSnippet": "An algorithm&#39;s key length is distinct from its original cryptographic security, which <br>\n.... If a suitably sized quantum computer capable of running <b>Grover&#39;s algorithm</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Key_size", 
+            "cacheId": "qvFDj7ibquMJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Grover's algorithm", 
+                "safe": "off", 
+                "searchTerms": "Grover's algorithm", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "367"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Grover's algorithm", 
+                "safe": "off", 
+                "searchTerms": "Grover's algorithm", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "367"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.24", 
+        "formattedTotalResults": "367", 
+        "totalResults": "367", 
+        "searchTime": 0.241596
+    }
+}

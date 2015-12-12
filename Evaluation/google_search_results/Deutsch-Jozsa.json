@@ -1,0 +1,223 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Deutsch\u2013Jozsa algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Deutsch</b>\u2013<b>Jozsa</b> algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Deutsch\u2013Jozsa_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Deutsch</b>\u2013<b>Jozsa</b>_algorithm", 
+            "snippet": "The Deutsch\u2013Jozsa algorithm is a quantum algorithm, proposed by David \nDeutsch and Richard Jozsa in 1992 with improvements by Richard Cleve, Artur \nEkert,\u00a0...", 
+            "htmlSnippet": "The <b>Deutsch</b>\u2013<b>Jozsa</b> algorithm is a quantum algorithm, proposed by David <br>\nDeutsch and Richard Jozsa in 1992 with improvements by Richard Cleve, Artur <br>\nEkert,&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Deutsch%E2%80%93Jozsa_algorithm", 
+            "cacheId": "2CdYs8o5coUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Richard Jozsa - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Richard <b>Jozsa</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Richard_Jozsa", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Richard_<b>Jozsa</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "120", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTDVgXArFHoiyU7X2rhUbug22Ll2VkglcJB4PVPVre_C1t08DFEkZOzJKE", 
+                        "height": "151"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Richard.Jozsa.jpg/150px-Richard.Jozsa.jpg"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "category": "Computer Science, Mathematics", 
+                        "fn": "Richard Jozsa"
+                    }
+                ]
+            }, 
+            "snippet": "His research area is quantum information science; a pioneer of this field, he is the \nco-author of the Deutsch-Jozsa quantum algorithm and one of the co-inventors\u00a0...", 
+            "htmlSnippet": "His research area is quantum information science; a pioneer of this field, he is the <br>\nco-author of the <b>Deutsch</b>-<b>Jozsa</b> quantum algorithm and one of the co-inventors&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Richard_Jozsa", 
+            "cacheId": "lKR5DsiLL58J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Deutsch\u2013Jozsa algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Deutsch</b>\u2013<b>Jozsa</b> algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3ADeutsch\u2013Jozsa_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>Deutsch</b>\u2013<b>Jozsa</b>_algorithm", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "128", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnF1nuPlSiwqJcHynz78Q4Ggm8Uy6JKLP010TftujM7QGLNSyK6pDScw", 
+                        "height": "46"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/math/5/f/6/5f631ef3b7b9e035bfec637e1c6f9f4e.png"
+                    }
+                ]
+            }, 
+            "snippet": "This is the talk page for discussing improvements to the Deutsch\u2013Jozsa algorithm \n... 5 Motivation needs a rewrite; 6 Proposed move: Deutsch\u2013Jozsa algorithm\u00a0...", 
+            "htmlSnippet": "This is the talk page for discussing improvements to the <b>Deutsch</b>\u2013<b>Jozsa</b> algorithm <br>\n... 5 Motivation needs a rewrite; 6 Proposed move: <b>Deutsch</b>\u2013<b>Jozsa</b> algorithm&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3ADeutsch%E2%80%93Jozsa_algorithm", 
+            "cacheId": "fltGyeTnHBcJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "David Deutsch - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "David <b>Deutsch</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/David_Deutsch", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/David_<b>Deutsch</b>", 
+            "pagemap": {
+                "hcard": [
+                    {
+                        "bday": "1953-05-18", 
+                        "category": "Theoretical physics Quantum information science", 
+                        "fn": "David Deutsch"
+                    }
+                ]
+            }, 
+            "snippet": "Deutsch-Jozsa algorithm ... David Deutsch laid the foundations of the quantum \ntheory of computation, and has subsequently made or participated in many of the\n\u00a0...", 
+            "htmlSnippet": "<b>Deutsch</b>-<b>Jozsa</b> algorithm ... David Deutsch laid the foundations of the quantum <br>\ntheory of computation, and has subsequently made or participated in many of the<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/David_Deutsch", 
+            "cacheId": "pdCzLHkcjCoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Quantum algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Quantum algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Quantum_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Quantum_algorithm", 
+            "snippet": "The Deutsch\u2013Jozsa algorithm solves a black-box problem which probably \nrequires exponentially many queries to the black box for any deterministic \nclassical\u00a0...", 
+            "htmlSnippet": "The <b>Deutsch</b>\u2013<b>Jozsa</b> algorithm solves a black-box problem which probably <br>\nrequires exponentially many queries to the black box for any deterministic <br>\nclassical&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Quantum_algorithm", 
+            "cacheId": "zQtqAxtDTe8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Simon's problem - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Simon&#39;s problem - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Simon's_problem", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Simon&#39;s_problem", 
+            "snippet": "This problem yields an oracle separation between BPP and BQP, unlike the \nseparation provided by the Deutsch-Jozsa algorithm, which separates P and \nEQP.", 
+            "htmlSnippet": "This problem yields an oracle separation between BPP and BQP, unlike the <br>\nseparation provided by the <b>Deutsch</b>-<b>Jozsa</b> algorithm, which separates P and <br>\nEQP.", 
+            "link": "https://en.wikipedia.org/wiki/Simon's_problem", 
+            "cacheId": "ausg1v0IY3wJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Grover's algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Grover&#39;s algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Grover's_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Grover&#39;s_algorithm", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "220", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRkzqGR1TrY6UmA3koyG-58xM9dmJaP72yq59UB3i6E6pb55e_w30awi19i", 
+                        "height": "229"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Grovers_algorithm_geometry.png/310px-Grovers_algorithm_geometry.png"
+                    }
+                ]
+            }, 
+            "snippet": "The probability of failure can be decreased by repeating the algorithm. (An \nexample of a deterministic quantum algorithm is the Deutsch-Jozsa algorithm, \nwhich\u00a0...", 
+            "htmlSnippet": "The probability of failure can be decreased by repeating the algorithm. (An <br>\nexample of a deterministic quantum algorithm is the <b>Deutsch</b>-<b>Jozsa</b> algorithm, <br>\nwhich&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Grover's_algorithm", 
+            "cacheId": "KQnYEZk8YuEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "User:Koji Nagata - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "User:Koji Nagata - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/User:Koji_Nagata", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/User:Koji_Nagata", 
+            "snippet": "Koji Nagata and Tadao Nakamura \"Can von Neumann's theory meet the Deutsch\n-Jozsa algorithm?\" International Journal of Theoretical Physics, Volume 49,\u00a0...", 
+            "htmlSnippet": "Koji Nagata and Tadao Nakamura &quot;Can von Neumann&#39;s theory meet the <b>Deutsch</b><br>\n-<b>Jozsa</b> algorithm?&quot; International Journal of Theoretical Physics, Volume 49,&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/User:Koji_Nagata", 
+            "cacheId": "GctGR8Qz5FgJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Template:Quantum information - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Template:Quantum information - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Template:Quantum_information", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Template:Quantum_information", 
+            "snippet": "Universal quantum simulator \u00b7 Deutsch\u2013Jozsa algorithm \u00b7 Grover's algorithm \u00b7 \nQuantum Fourier transform \u00b7 Shor's algorithm \u00b7 Simon's problem \u00b7 Quantum phase\n\u00a0...", 
+            "htmlSnippet": "Universal quantum simulator &middot; <b>Deutsch</b>\u2013<b>Jozsa</b> algorithm &middot; Grover&#39;s algorithm &middot; <br>\nQuantum Fourier transform &middot; Shor&#39;s algorithm &middot; Simon&#39;s problem &middot; Quantum phase<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Template:Quantum_information", 
+            "cacheId": "S35dGTwI8Q4J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Category:Quantum algorithms - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Category:Quantum algorithms - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Category:Quantum_algorithms", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Category:Quantum_algorithms", 
+            "snippet": "D. Deutsch\u2013Jozsa algorithm. G. Grover's algorithm. H. Hadamard transform \u00b7 \nHidden subgroup problem. Q. Quantum algorithm for linear systems of equations\n\u00a0...", 
+            "htmlSnippet": "D. <b>Deutsch</b>\u2013<b>Jozsa</b> algorithm. G. Grover&#39;s algorithm. H. Hadamard transform &middot; <br>\nHidden subgroup problem. Q. Quantum algorithm for linear systems of equations<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Category:Quantum_algorithms", 
+            "cacheId": "FwIM5iA79aMJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Deutsch-Jozsa", 
+                "safe": "off", 
+                "searchTerms": "Deutsch-Jozsa", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "161"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Deutsch-Jozsa", 
+                "safe": "off", 
+                "searchTerms": "Deutsch-Jozsa", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "161"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.26", 
+        "formattedTotalResults": "161", 
+        "totalResults": "161", 
+        "searchTime": 0.257039
+    }
+}

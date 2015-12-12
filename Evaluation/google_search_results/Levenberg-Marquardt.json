@@ -1,0 +1,236 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Levenberg\u2013Marquardt algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Levenberg</b>\u2013<b>Marquardt</b> algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Levenberg\u2013Marquardt_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Levenberg</b>\u2013<b>Marquardt</b>_algorithm", 
+            "snippet": "In mathematics and computing, the Levenberg\u2013Marquardt algorithm (LMA), also \nknown as the damped least-squares (DLS) method, is used to solve non-linear\u00a0...", 
+            "htmlSnippet": "In mathematics and computing, the <b>Levenberg</b>\u2013<b>Marquardt</b> algorithm (LMA), also <br>\nknown as the damped least-squares (DLS) method, is used to solve non-linear&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Levenberg%E2%80%93Marquardt_algorithm", 
+            "cacheId": "Gm6njkn_ygEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Kenneth Levenberg - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Kenneth <b>Levenberg</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Kenneth_Levenberg", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Kenneth_<b>Levenberg</b>", 
+            "snippet": "Kenneth Levenberg (August 6, 1919 \u2013 September 1973) was an American ... \nlater improved by Donald Marquardt, known as the Levenberg\u2013Marquardt\u00a0...", 
+            "htmlSnippet": "Kenneth Levenberg (August 6, 1919 \u2013 September 1973) was an American ... <br>\nlater improved by Donald Marquardt, known as the <b>Levenberg</b>\u2013<b>Marquardt</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Kenneth_Levenberg", 
+            "cacheId": "Dokpl0nUrPIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Donald Marquardt - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Donald <b>Marquardt</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Donald_Marquardt", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Donald_<b>Marquardt</b>", 
+            "snippet": "Donald W. Marquardt (March 13, 1929 \u2013 July 5, 1997) was an American \nstatistician, the rediscoverer of the Levenberg\u2013Marquardt nonlinear least squares \nfitting\u00a0...", 
+            "htmlSnippet": "Donald W. Marquardt (March 13, 1929 \u2013 July 5, 1997) was an American <br>\nstatistician, the rediscoverer of the <b>Levenberg</b>\u2013<b>Marquardt</b> nonlinear least squares <br>\nfitting&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Donald_Marquardt", 
+            "cacheId": "woWDTlmHSV0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Levenberg\u2013Marquardt algorithm - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Levenberg</b>\u2013<b>Marquardt</b> algorithm - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../Talk%3ALevenberg-Marquardt_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Talk%3A<b>Levenberg</b>-<b>Marquardt</b>_algorithm", 
+            "snippet": "(Redirected from Talk:Levenberg-Marquardt algorithm) ... Sam Roweis' document \non Levenberg Marquardt at <http://www.cs.toronto.edu/~roweis/notes/lm.pdf>.", 
+            "htmlSnippet": "(Redirected from Talk:<b>Levenberg</b>-<b>Marquardt</b> algorithm) ... Sam Roweis&#39; document <br>\non <b>Levenberg Marquardt</b> at &lt;http://www.cs.toronto.edu/~roweis/notes/lm.pdf&gt;.", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3ALevenberg-Marquardt_algorithm", 
+            "cacheId": "5rfILcMB5bQJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Non-linear least squares - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Non-linear least squares - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Non-linear_least_squares", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Non-linear_least_squares", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS8wlU0cIFFMRZkqLZa4LetRocOdDTauMcwQq9igWfZZG73ZjkHaSF5VQk", 
+                        "height": "116"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Linear_regression.svg/220px-Linear_regression.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "See Levenberg\u2013Marquardt algorithm for an example. Not all multiple minima \nhave equal values of the objective function. False minima, also known as local\u00a0...", 
+            "htmlSnippet": "See <b>Levenberg</b>\u2013<b>Marquardt</b> algorithm for an example. Not all multiple minima <br>\nhave equal values of the objective function. False minima, also known as local&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Non-linear_least_squares", 
+            "cacheId": "Uph24OucYmQJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Bundle adjustment - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Bundle adjustment - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Bundle_adjustment", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Bundle_adjustment", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWDpcOrE3xadmBnags_gLEq__-6Fy_GJhe0DZU6z3LPcV3ZnbCZ3QUCA0v", 
+                        "height": "176"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Bundle_adjustment_sparse_matrix.png/220px-Bundle_adjustment_sparse_matrix.png"
+                    }
+                ]
+            }, 
+            "snippet": "Of these, Levenberg\u2013Marquardt has proven to be one of the most successful due \nto its ease of implementation and its use of an effective damping strategy that\u00a0...", 
+            "htmlSnippet": "Of these, <b>Levenberg</b>\u2013<b>Marquardt</b> has proven to be one of the most successful due <br>\nto its ease of implementation and its use of an effective damping strategy that&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Bundle_adjustment", 
+            "cacheId": "6diLyPa4Iv8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Gauss\u2013Newton algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Gauss\u2013Newton algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Gauss\u2013Newton_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Gauss\u2013Newton_algorithm", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "130", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSvZbBRZoDQgp_il6wWXu0INcqUpKT-BzQRDmbOxCuYadO35PHsJ7oM9g", 
+                        "height": "47"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/math/f/8/f/f8f5aab07fd35f832deed2a3597c92dd.png"
+                    }
+                ]
+            }, 
+            "snippet": "is close to zero, an alternative method for handling divergence is the use of the \nLevenberg\u2013Marquardt algorithm, also known as the \"trust region method\".", 
+            "htmlSnippet": "is close to zero, an alternative method for handling divergence is the use of the <br>\n<b>Levenberg</b>\u2013<b>Marquardt</b> algorithm, also known as the &quot;trust region method&quot;.", 
+            "link": "https://en.wikipedia.org/wiki/Gauss%E2%80%93Newton_algorithm", 
+            "cacheId": "wyn1zkqkj0cJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Newton's method in optimization - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Newton&#39;s method in optimization - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Newton's_method_in_optimization", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Newton&#39;s_method_in_optimization", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT11KeXQtadm48dgMJyGoG2PMDOuUzIrBPAgiopCAKN_2F--R9e9xVf9ZmN", 
+                        "height": "202"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Newton_optimization_vs_grad_descent.svg/220px-Newton_optimization_vs_grad_descent.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "An approach exploited in the Levenberg\u2013Marquardt algorithm (which uses an \napproximate Hessian) is to add a scaled identity matrix to the Hessian, \\mu\u00a0...", 
+            "htmlSnippet": "An approach exploited in the <b>Levenberg</b>\u2013<b>Marquardt</b> algorithm (which uses an <br>\napproximate Hessian) is to add a scaled identity matrix to the Hessian, \\mu&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Newton's_method_in_optimization", 
+            "cacheId": "03xu6eoA4pEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Nelder\u2013Mead method - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Nelder\u2013Mead method - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Nelder\u2013Mead_method", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Nelder\u2013Mead_method", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "256", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBQlnlivG13fz4ZVgUSzGs6Z_Tr-Cvo2p_Ytz9XyxKJQ5zmFqU1biqRjQ", 
+                        "height": "192"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Nelder_Mead1.gif/320px-Nelder_Mead1.gif"
+                    }
+                ]
+            }, 
+            "snippet": "... Levenberg\u2013Marquardt algorithm; Broyden\u2013Fletcher\u2013Goldfarb\u2013Shanno or \nBFGS method \u00b7 Differential evolution \u00b7 Pattern search (optimization) \u00b7 CMA-ES\u00a0...", 
+            "htmlSnippet": "... <b>Levenberg</b>\u2013<b>Marquardt</b> algorithm; Broyden\u2013Fletcher\u2013Goldfarb\u2013Shanno or <br>\nBFGS method &middot; Differential evolution &middot; Pattern search (optimization) &middot; CMA-ES&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Nelder%E2%80%93Mead_method", 
+            "cacheId": "KPG9KMNtTaIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Trust region - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Trust region - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Trust_region", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Trust_region", 
+            "snippet": "Conceptually, in the Levenberg\u2013Marquardt algorithm, the objective function is \niteratively approximated by a quadratic surface, then using a linear solve, the\u00a0...", 
+            "htmlSnippet": "Conceptually, in the <b>Levenberg</b>\u2013<b>Marquardt</b> algorithm, the objective function is <br>\niteratively approximated by a quadratic surface, then using a linear solve, the&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Trust_region", 
+            "cacheId": "0Z05xOjtzfIJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Levenberg-Marquardt", 
+                "safe": "off", 
+                "searchTerms": "Levenberg-Marquardt", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "215"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Levenberg-Marquardt", 
+                "safe": "off", 
+                "searchTerms": "Levenberg-Marquardt", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "215"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.20", 
+        "formattedTotalResults": "215", 
+        "totalResults": "215", 
+        "searchTime": 0.20065
+    }
+}

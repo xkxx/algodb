@@ -1,0 +1,222 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Rounding - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Rounding</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Rounding", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Rounding</b>", 
+            "snippet": "[edit]. Most programming languages provide functions or special syntax to round \nfractional\u00a0...", 
+            "htmlSnippet": "[edit]. Most programming languages provide <b>functions</b> or special syntax to round <br>\nfractional&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Rounding", 
+            "cacheId": "DdRuyCSNQp4J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Nearest integer function - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Nearest integer <b>function</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Nearest_integer_function", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Nearest_integer_<b>function</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "240", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQQRuXlbgG0pkoGdeKvxjXJchYoOmItaflQ4WWhxgx2THiMoR4_ARdFKiNh", 
+                        "height": "192"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Nearest_integer.svg/300px-Nearest_integer.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "nint(x), or Round(x), is a function which returns the nearest integer to x. To avoid \nambiguity when operating on half-integers, a rounding rule must be chosen.", 
+            "htmlSnippet": "nint(x), or Round(x), is a <b>function</b> which returns the nearest integer to x. To avoid <br>\nambiguity when operating on half-integers, a <b>rounding</b> rule must be chosen.", 
+            "link": "https://en.wikipedia.org/wiki/Nearest_integer_function", 
+            "cacheId": "7SsOtQiT_kIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Floor and ceiling functions - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Floor and ceiling <b>functions</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Floor_and_ceiling_functions", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Floor_and_ceiling_<b>functions</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "160", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTaF_NNFWQwmaNloe8CeekVMl4IudOaXehmKHWW0Qpnm9sI1WYYZEO9DNbA", 
+                        "height": "160"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Floor_function.svg/200px-Floor_function.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "Rounding[edit]. For an arbitrary real number x , rounding x to the nearest integer \nwith tie breaking towards positive infinity is given by\u00a0...", 
+            "htmlSnippet": "<b>Rounding</b>[edit]. For an arbitrary real number x , <b>rounding</b> x to the nearest integer <br>\nwith tie breaking towards positive infinity is given by&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Floor_and_ceiling_functions", 
+            "cacheId": "ecfrMGQ9q7kJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Mathcad syntax - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Mathcad syntax - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Mathcad_syntax", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Mathcad_syntax", 
+            "snippet": "Several functions are available for rounding fractional numeric values to ... If n is \nomitted, returns z rounded to the nearest integer (n is assumed to be zero).", 
+            "htmlSnippet": "Several <b>functions</b> are available for <b>rounding</b> fractional numeric values to ... If n is <br>\nomitted, returns z <b>rounded</b> to the nearest integer (n is assumed to be zero).", 
+            "link": "https://en.wikipedia.org/wiki/Mathcad_syntax", 
+            "cacheId": "mpjfAN1rwsYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Significance arithmetic - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Significance arithmetic - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Significance_arithmetic", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Significance_arithmetic", 
+            "snippet": "1 Multiplication and division using significance arithmetic; 2 Addition and \nsubtraction using significance arithmetic; 3 Transcendental functions; 4 Rounding \nrules\u00a0...", 
+            "htmlSnippet": "1 Multiplication and division using significance arithmetic; 2 Addition and <br>\nsubtraction using significance arithmetic; 3 Transcendental <b>functions</b>; 4 <b>Rounding</b> <br>\nrules&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Significance_arithmetic", 
+            "cacheId": "6IoBPpR8jN8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Quantization (signal processing) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Quantization (signal processing) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Quantization_(signal_processing)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Quantization_(signal_processing)", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "385", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSSnZ3YGsMdm6KqKDrK86LsNhLY2fMQUmo5wQ6PPiCTtCOVbbGGkhjBs2w", 
+                        "height": "131"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Quantization_error.png/500px-Quantization_error.png"
+                    }
+                ]
+            }, 
+            "snippet": "Rounding and truncation are typical examples of quantization processes. ... \nSampling converts a voltage signal (function of time) into a discrete-time signal\u00a0...", 
+            "htmlSnippet": "<b>Rounding</b> and truncation are typical examples of quantization processes. ... <br>\nSampling converts a voltage signal (<b>function</b> of time) into a discrete-time signal&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Quantization_(signal_processing)", 
+            "cacheId": "sDfgWlpbwA0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Mitotic cell rounding - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Mitotic cell <b>rounding</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Mitotic_cell_rounding", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Mitotic_cell_<b>rounding</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "125", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTZ23jH4RNyzdWW7BtJ39WuYCd4Y3rQ2b0slObRzMmLJqVeTTRcITQzgKk", 
+                        "height": "400"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/CellShape_vs_M-phase.png/250px-CellShape_vs_M-phase.png"
+                    }
+                ]
+            }, 
+            "snippet": "Cell shape changes as a function of mitotic phase. Shown is an example of a \nHeLa cell cultured on a glass surface. For visualization of DNA and mitotic phase\n\u00a0...", 
+            "htmlSnippet": "Cell shape changes as a <b>function</b> of mitotic phase. Shown is an example of a <br>\nHeLa cell cultured on a glass surface. For visualization of DNA and mitotic phase<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Mitotic_cell_rounding", 
+            "cacheId": "0v7NLrhocDcJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Gal's accurate tables - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Gal&#39;s accurate tables - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Gal's_accurate_tables", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Gal&#39;s_accurate_tables", 
+            "snippet": "It is a fast and efficient method for generating values of functions like the ... found \nsuch that f(x) can be represented with less than \u00b11/2000 bit of rounding error.", 
+            "htmlSnippet": "It is a fast and efficient method for generating values of <b>functions</b> like the ... found <br>\nsuch that f(x) can be represented with less than \u00b11/2000 bit of <b>rounding</b> error.", 
+            "link": "https://en.wikipedia.org/wiki/Gal's_accurate_tables", 
+            "cacheId": "uR5lByabhvMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Rounding - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Rounding</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3ARounding", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>Rounding</b>", 
+            "snippet": "I don't know if it's a good idea to merge with floor function, but they are related. A \nsort of \"family tree\" of rounding functions: Floor; Ceiling; Half round. Half round\u00a0...", 
+            "htmlSnippet": "I don&#39;t know if it&#39;s a good idea to merge with floor function, but they are related. A <br>\nsort of &quot;family tree&quot; of <b>rounding functions</b>: Floor; Ceiling; Half round. Half round&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3ARounding", 
+            "cacheId": "26nksly95GAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Unit in the last place - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Unit in the last place - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Unit_in_the_last_place", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Unit_in_the_last_place", 
+            "snippet": "Reputable numeric libraries compute the basic transcendental functions to ... that \nthe active rounding attribute is round to nearest, ties to even, denoted RN.", 
+            "htmlSnippet": "Reputable numeric libraries compute the basic transcendental <b>functions</b> to ... that <br>\nthe active <b>rounding</b> attribute is round to nearest, ties to even, denoted RN.", 
+            "link": "https://en.wikipedia.org/wiki/Unit_in_the_last_place", 
+            "cacheId": "F-2uRoHlLaQJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Rounding functions", 
+                "safe": "off", 
+                "searchTerms": "Rounding functions", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "26200"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Rounding functions", 
+                "safe": "off", 
+                "searchTerms": "Rounding functions", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "26200"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.31", 
+        "formattedTotalResults": "26,200", 
+        "totalResults": "26200", 
+        "searchTime": 0.31408
+    }
+}

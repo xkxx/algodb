@@ -1,0 +1,209 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Goertzel algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Goertzel algorithm</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Goertzel_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Goertzel</b>_<b>algorithm</b>", 
+            "snippet": "The Goertzel algorithm is a Digital Signal Processing (DSP) technique that \nprovides a means for efficient evaluation of individual terms of the Discrete \nFourier\u00a0...", 
+            "htmlSnippet": "The <b>Goertzel algorithm</b> is a Digital Signal Processing (DSP) technique that <br>\nprovides a means for efficient evaluation of individual terms of the Discrete <br>\nFourier&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Goertzel_algorithm", 
+            "cacheId": "wf-68hDK7akJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Goertzel - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Goertzel</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Goertzel", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Goertzel</b>", 
+            "snippet": "This disambiguation page lists articles associated with the title Goertzel. ... \nGoertzel algorithm - an algorithm used in digital signal processing; Gerald \nGoertzel\u00a0...", 
+            "htmlSnippet": "This disambiguation page lists articles associated with the title Goertzel. ... <br>\n<b>Goertzel algorithm</b> - an algorithm used in digital signal processing; Gerald <br>\nGoertzel&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Goertzel", 
+            "cacheId": "XBdOt8WMbvkJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Gerald Goertzel - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Gerald <b>Goertzel</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Gerald_Goertzel", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Gerald_<b>Goertzel</b>", 
+            "pagemap": {
+                "hcard": [
+                    {
+                        "bday": "1919-08-18", 
+                        "category": "Theoretical Physics", 
+                        "fn": "Gerald Goertzel"
+                    }
+                ]
+            }, 
+            "snippet": "Gerald Goertzel (18 August 1919 \u2013 17 July 2002) was an American theoretical \nphysicist. He worked on ... He is best known for creating the Goertzel algorithm.", 
+            "htmlSnippet": "Gerald Goertzel (18 August 1919 \u2013 17 July 2002) was an American theoretical <br>\nphysicist. He worked on ... He is best known for creating the <b>Goertzel algorithm</b>.", 
+            "link": "https://en.wikipedia.org/wiki/Gerald_Goertzel", 
+            "cacheId": "dZQwKftGw4IJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Ben Goertzel - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Ben <b>Goertzel</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Ben_Goertzel", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Ben_<b>Goertzel</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRspW_ovjAZHkJpjMOiHvZFepwe_1IDXDHbPqNlMt5Ab2peDoRRldXRCFM", 
+                        "height": "117"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Dr_Ben_Goertzel.jpg/220px-Dr_Ben_Goertzel.jpg"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "bday": "1966-12-08", 
+                        "fn": "Ben Goertzel"
+                    }
+                ]
+            }, 
+            "snippet": "Dr. Ben Goertzel after giving a talk at the 2009 Humanity+ Summit in Irvine \nCalifornia .... Several algorithms operate on this network, the central one being a\n\u00a0...", 
+            "htmlSnippet": "Dr. Ben <b>Goertzel</b> after giving a talk at the 2009 Humanity+ Summit in Irvine <br>\nCalifornia .... Several <b>algorithms</b> operate on this network, the central one being a<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Ben_Goertzel", 
+            "cacheId": "1oY9eVN9xUcJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Category:FFT algorithms - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Category:FFT <b>algorithms</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Category:FFT_algorithms", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Category:FFT_<b>algorithms</b>", 
+            "snippet": "This category is for fast Fourier transform (FFT) algorithms, i.e. algorithms to \ncompute the discrete ... Pages in category \"FFT algorithms\" ... G. Goertzel \nalgorithm\u00a0...", 
+            "htmlSnippet": "This category is for fast Fourier transform (FFT) algorithms, i.e. algorithms to <br>\ncompute the discrete ... Pages in category &quot;FFT algorithms&quot; ... G. <b>Goertzel</b> <br>\n<b>algorithm</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Category:FFT_algorithms", 
+            "cacheId": "YqJujyMik-gJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Frequency-shift keying - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Frequency-shift keying - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Frequency-shift_keying", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Frequency-shift_keying", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "211", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTa7ndKwdVIDZspfLqaZD8yG3qAIZDHpUCVG1feyog1AE2qG1FZqgOBl1rW", 
+                        "height": "238"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Fsk.svg/300px-Fsk.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "... documented in detail. The demodulation of a binary FSK signal can be done \nusing the Goertzel algorithm very efficiently, even on low-power microcontrollers.", 
+            "htmlSnippet": "... documented in detail. The demodulation of a binary FSK signal can be done <br>\nusing the <b>Goertzel algorithm</b> very efficiently, even on low-power microcontrollers.", 
+            "link": "https://en.wikipedia.org/wiki/Frequency-shift_keying", 
+            "cacheId": "uaZVGorpeVkJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "User:Tejashs/Books/FFT algorithms - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "User:Tejashs/Books/FFT <b>algorithms</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/User:Tejashs/Books/FFT_algorithms", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/User:Tejashs/Books/FFT_<b>algorithms</b>", 
+            "snippet": "User:Tejashs/Books/FFT algorithms ... FFT algorithm \u00b7 FFTPACK \u00b7 FFTW \u00b7 Fast \nFourier transform \u00b7 Goertzel algorithm \u00b7 Irrational base discrete weighted \ntransform\u00a0...", 
+            "htmlSnippet": "User:Tejashs/Books/FFT algorithms ... FFT algorithm &middot; FFTPACK &middot; FFTW &middot; Fast <br>\nFourier transform &middot; <b>Goertzel algorithm</b> &middot; Irrational base discrete weighted <br>\ntransform&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/User:Tejashs/Books/FFT_algorithms", 
+            "cacheId": "N4Avhca61agJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Discrete Fourier Transform/Notation - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:Discrete Fourier Transform/Notation - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3ADiscrete_Fourier.../Notation", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3ADiscrete_Fourier.../Notation", 
+            "snippet": "Bandlimited; Bilinear transform; Bluestein's FFT algorithm; Bruun's FFT algorithm. \nC. Causal system ... Goertzel algorithm; Graphics file formats. H. Hanning\u00a0...", 
+            "htmlSnippet": "Bandlimited; Bilinear transform; Bluestein&#39;s FFT algorithm; Bruun&#39;s FFT algorithm. <br>\nC. Causal system ... <b>Goertzel algorithm</b>; Graphics file formats. H. Hanning&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3ADiscrete_Fourier_Transform/Notation", 
+            "cacheId": "r5qh1n0PZW0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "User:Rog\u00e9rio Brito/Books/Fast Fourier Transform - Wikipedia, the ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "User:Rog\u00e9rio Brito/Books/Fast Fourier Transform - Wikipedia, the <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/User...Brito/.../Fast_Fourier_Transform", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/User...Brito/.../Fast_Fourier_Transform", 
+            "snippet": "Introduction: Fast Fourier transform \u00b7 Discrete Fourier transform; Algorithms for the \n... algorithm \u00b7 Split-radix FFT algorithm \u00b7 Butterfly diagram \u00b7 Goertzel algorithm\u00a0...", 
+            "htmlSnippet": "Introduction: Fast Fourier transform &middot; Discrete Fourier transform; Algorithms for the <br>\n... algorithm &middot; Split-radix FFT algorithm &middot; Butterfly diagram &middot; <b>Goertzel algorithm</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/User:Rog%C3%A9rio_Brito/Books/Fast_Fourier_Transform", 
+            "cacheId": "jjF39AHcE58J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "User:ParaTechNoid - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "User:ParaTechNoid - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/User:ParaTechNoid", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/User:ParaTechNoid", 
+            "snippet": "Current Activity[edit]. Gearing up for rewrite of the Goertzel algorithm page. Look \nin personal sandbox for working draft. Future Events[edit]. Need to study the\u00a0...", 
+            "htmlSnippet": "Current Activity[edit]. Gearing up for rewrite of the <b>Goertzel algorithm</b> page. Look <br>\nin personal sandbox for working draft. Future Events[edit]. Need to study the&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/User:ParaTechNoid", 
+            "cacheId": "BvE8Qql-YfIJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Goertzel algorithm", 
+                "safe": "off", 
+                "searchTerms": "Goertzel algorithm", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "94"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Goertzel algorithm", 
+                "safe": "off", 
+                "searchTerms": "Goertzel algorithm", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "94"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.14", 
+        "formattedTotalResults": "94", 
+        "totalResults": "94", 
+        "searchTime": 0.142066
+    }
+}

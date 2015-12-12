@@ -1,0 +1,201 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Kahan summation algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Kahan summation</b> algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Kahan_summation_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Kahan</b>_<b>summation</b>_algorithm", 
+            "snippet": "In numerical analysis, the Kahan summation algorithm (also known as \ncompensated summation) significantly reduces the numerical error in the total \nobtained\u00a0...", 
+            "htmlSnippet": "In numerical analysis, the <b>Kahan summation</b> algorithm (also known as <br>\ncompensated summation) significantly reduces the numerical error in the total <br>\nobtained&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Kahan_summation_algorithm", 
+            "cacheId": "MvzhSKcZlPwJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Pairwise summation - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Pairwise <b>summation</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Pairwise_summation", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Pairwise_<b>summation</b>", 
+            "snippet": "Although there are other techniques such as Kahan summation that typically \nhave even smaller round-off errors, pairwise summation is nearly as good (\ndiffering\u00a0...", 
+            "htmlSnippet": "Although there are other techniques such as <b>Kahan summation</b> that typically <br>\nhave even smaller round-off errors, pairwise summation is nearly as good (<br>\ndiffering&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Pairwise_summation", 
+            "cacheId": "dKYsP1YgQZAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Kahan summation algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Kahan summation</b> algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3AKahan_summation_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>Kahan</b>_<b>summation</b>_algorithm", 
+            "snippet": "The algorithm as described is, in fact, Kahan summation as it is described in, \nhowever, this algorithm only works for either values of y[i] of similar magnitude or \nin\u00a0...", 
+            "htmlSnippet": "The algorithm as described is, in fact, <b>Kahan summation</b> as it is described in, <br>\nhowever, this algorithm only works for either values of y[i] of similar magnitude or <br>\nin&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3AKahan_summation_algorithm", 
+            "cacheId": "d1YeExaju0kJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "William Kahan - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "William <b>Kahan</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/William_Kahan", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/William_<b>Kahan</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQMkjm8DlAw9WCKBhR8tTSc-NpezxMTG8Zvb60qGVC_wFPyMKviyWZBZg", 
+                        "height": "124"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/William_Kahan.jpg/220px-William_Kahan.jpg"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "bday": "1933-06-05", 
+                        "category": "Mathematics Computer Science", 
+                        "fn": "William Morton Kahan"
+                    }
+                ]
+            }, 
+            "snippet": "He also developed the Kahan summation algorithm, an important algorithm for \nminimizing error introduced when adding a sequence of finite precision floating\u00a0...", 
+            "htmlSnippet": "He also developed the <b>Kahan summation</b> algorithm, an important algorithm for <br>\nminimizing error introduced when adding a sequence of finite precision floating&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/William_Kahan", 
+            "cacheId": "m9LKTmlO638J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Kahan (disambiguation) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Kahan</b> (disambiguation) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Kahan_(disambiguation)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Kahan</b>_(disambiguation)", 
+            "snippet": "Kahan (disambiguation) ... Kahan may refer to ... Canadian mathematician; \nKahan summation algorithm, a mathematical algorithm attributed to William \nKahan\u00a0...", 
+            "htmlSnippet": "Kahan (disambiguation) ... Kahan may refer to ... Canadian mathematician; <br>\n<b>Kahan summation</b> algorithm, a mathematical algorithm attributed to William <br>\nKahan&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Kahan_(disambiguation)", 
+            "cacheId": "nUP-vwayw9oJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Algorithms for calculating variance - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Algorithms for calculating variance - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Algorithms_for_calculating_variance", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Algorithms_for_calculating_variance", 
+            "snippet": "The compensated-summation version of the algorithm above reads: ..... See also[\nedit]. Algebraic formula for the variance \u00b7 Kahan summation algorithm\u00a0...", 
+            "htmlSnippet": "The compensated-summation version of the algorithm above reads: ..... See also[<br>\nedit]. Algebraic formula for the variance &middot; <b>Kahan summation</b> algorithm&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Algorithms_for_calculating_variance", 
+            "cacheId": "6YUNzWE6s-QJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Decimal floating point - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Decimal floating point - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Decimal_floating_point", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Decimal_floating_point", 
+            "snippet": "This wider range can dramatically slow the accumulation of rounding errors \nduring successive calculations; for example, the Kahan summation algorithm can \nbe\u00a0...", 
+            "htmlSnippet": "This wider range can dramatically slow the accumulation of rounding errors <br>\nduring successive calculations; for example, the <b>Kahan summation</b> algorithm can <br>\nbe&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Decimal_floating_point", 
+            "cacheId": "X43RyAqhFzIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Round-off error - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Round-off error - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Round-off_error", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Round-off_error", 
+            "snippet": "Precision (arithmetic) \u00b7 Truncation \u00b7 Rounding \u00b7 Loss of significance \u00b7 Floating \npoint \u00b7 Kahan summation algorithm \u00b7 Machine epsilon \u00b7 Wilkinson's polynomial\u00a0...", 
+            "htmlSnippet": "Precision (arithmetic) &middot; Truncation &middot; Rounding &middot; Loss of significance &middot; Floating <br>\npoint &middot; <b>Kahan summation</b> algorithm &middot; Machine epsilon &middot; Wilkinson&#39;s polynomial&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Round-off_error", 
+            "cacheId": "pAx0zwEv0EoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Summation - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Summation</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Sigma_notation", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Sigma_notation", 
+            "snippet": "This article is about the mathematics of finite summation. ... Using this sigma \nnotation the above summation is written as: \\sum_{i .... Checksum \u00b7 Einstein \nnotation \u00b7 Iterated binary operation \u00b7 Kahan summation algorithm \u00b7 Product (\nmathematics)\u00a0...", 
+            "htmlSnippet": "This article is about the mathematics of finite summation. ... Using this sigma <br>\nnotation the above summation is written as: \\sum_{i .... Checksum &middot; Einstein <br>\nnotation &middot; Iterated binary operation &middot; <b>Kahan summation</b> algorithm &middot; Product (<br>\nmathematics)&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Sigma_notation", 
+            "cacheId": "TNiGAN3hPLQJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Loss of significance - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Loss of significance - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Loss_of_significance", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Loss_of_significance", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB_5d-t0Kkv9uSSc3QXunzCX_wqR7tAGEfVDL7GziXWs80c8eNPdxjpUM", 
+                        "height": "146"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Catastrophic_cancellation.svg/220px-Catastrophic_cancellation.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "... this, consider the following quadratic equation, adapted from Kahan (2004): ... \nof significant digits in numerical computations \u00b7 Kahan summation algorithm\u00a0...", 
+            "htmlSnippet": "... this, consider the following quadratic equation, adapted from Kahan (2004): ... <br>\nof significant digits in numerical computations &middot; <b>Kahan summation</b> algorithm&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Loss_of_significance", 
+            "cacheId": "9HIwS6S7eSkJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Kahan summation", 
+                "safe": "off", 
+                "searchTerms": "Kahan summation", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "72"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Kahan summation", 
+                "safe": "off", 
+                "searchTerms": "Kahan summation", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "72"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.25", 
+        "formattedTotalResults": "72", 
+        "totalResults": "72", 
+        "searchTime": 0.245359
+    }
+}

@@ -1,0 +1,180 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Linear congruential generator - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Linear congruential generator</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Linear_congruential_generator", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Linear</b>_<b>congruential</b>_<b>generator</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "384", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwkLjqc0MTUR0glR8t3toGk-ZCOmFK5FUcqgqYMrRUdpZ_U8tyDdFpWGYw", 
+                        "height": "128"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Linear_congruential_generator_visualisation.svg/480px-Linear_congruential_generator_visualisation.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "Visualisation of generation of pseudo-random numbers in [0, 8] using a linear \ncongruential generator. The top two rows show a generator with m = 9, a = 2 and \nc\u00a0...", 
+            "htmlSnippet": "Visualisation of generation of pseudo-random numbers in [0, 8] using a <b>linear</b> <br>\n<b>congruential generator</b>. The top two rows show a generator with m = 9, a = 2 and <br>\nc&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Linear_congruential_generator", 
+            "cacheId": "YrHkZ-t298IJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Combined Linear Congruential Generator - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Combined <b>Linear Congruential Generator</b> - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../Combined_Linear_Congruential_Generator", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Combined_<b>Linear</b>_<b>Congruential</b>_<b>Generator</b>", 
+            "snippet": "A Combined Linear Congruential Generator (CLCG) is a pseudo-random number \ngenerator algorithm based on combining two or more linear congruential\u00a0...", 
+            "htmlSnippet": "A Combined <b>Linear Congruential Generator</b> (CLCG) is a pseudo-random number <br>\ngenerator algorithm based on combining two or more linear congruential&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Combined_Linear_Congruential_Generator", 
+            "cacheId": "o059dbFRf74J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Inversive congruential generator - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Inversive <b>congruential generator</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Inversive_congruential_generator", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Inversive_<b>congruential</b>_<b>generator</b>", 
+            "snippet": "The standard formula for an inversive congruential generator, modulo some .... \ngenerators with predictable period length, predictable linear complexity level,\u00a0...", 
+            "htmlSnippet": "The standard formula for an inversive <b>congruential generator</b>, modulo some .... <br>\n<b>generators</b> with predictable period length, predictable <b>linear</b> complexity level,&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Inversive_congruential_generator", 
+            "cacheId": "T2EFV0i4fUkJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Linear congruential generator - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Linear congruential generator</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3ALinear_congruential_generator", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>Linear</b>_<b>congruential</b>_<b>generator</b>", 
+            "snippet": "Talk:Linear congruential generator ... Yet the article contains only one actual \nexample of generator (A = 1664525, B = 1013904223, M = 2^32), which is\u00a0...", 
+            "htmlSnippet": "Talk:<b>Linear congruential generator</b> ... Yet the article contains only one actual <br>\nexample of generator (A = 1664525, B = 1013904223, M = 2^32), which is&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3ALinear_congruential_generator", 
+            "cacheId": "BakDSCSRy18J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Lehmer random number generator - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Lehmer random number <b>generator</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Lehmer_random_number_generator", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Lehmer_random_number_<b>generator</b>", 
+            "snippet": "The Lehmer random number generator (named after D. H. Lehmer), ... is a type of \nlinear congruential generator (LCG) that operates in multiplicative group of\u00a0...", 
+            "htmlSnippet": "The Lehmer random number generator (named after D. H. Lehmer), ... is a type of <br>\n<b>linear congruential generator</b> (LCG) that operates in multiplicative group of&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Lehmer_random_number_generator", 
+            "cacheId": "qrWUKsl1yO0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Full cycle - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Full cycle - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Full_cycle", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Full_cycle", 
+            "snippet": "... to possess a full cycle are known only for certain types of PRNGs, such as, but \nnot limited to, linear congruential generators and linear feedback shift registers.", 
+            "htmlSnippet": "... to possess a full cycle are known only for certain types of PRNGs, such as, but <br>\nnot limited to, <b>linear congruential generators</b> and linear feedback shift registers.", 
+            "link": "https://en.wikipedia.org/wiki/Full_cycle", 
+            "cacheId": "YboZ25hpTFUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Pseudorandom number generator - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Pseudorandom number <b>generator</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Pseudorandom_number_generator", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Pseudorandom_number_<b>generator</b>", 
+            "snippet": "... the standard class of algorithms used for PRNGs comprised linear congruential \ngenerators.", 
+            "htmlSnippet": "... the standard class of algorithms used for PRNGs comprised <b>linear congruential</b> <br>\n<b>generators</b>.", 
+            "link": "https://en.wikipedia.org/wiki/Pseudorandom_number_generator", 
+            "cacheId": "zZ2fPoYO4YgJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Lagged Fibonacci generator - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Lagged Fibonacci <b>generator</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Lagged_Fibonacci_generator", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Lagged_Fibonacci_<b>generator</b>", 
+            "snippet": "This class of random number generator is aimed at being an improvement on the \n'standard' linear congruential generator. These are based on a generalisation\u00a0...", 
+            "htmlSnippet": "This class of random number generator is aimed at being an improvement on the <br>\n&#39;standard&#39; <b>linear congruential generator</b>. These are based on a generalisation&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Lagged_Fibonacci_generator", 
+            "cacheId": "vU7vAWPDz74J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Generalized inversive congruential pseudorandom numbers ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Generalized inversive <b>congruential</b> pseudorandom numbers <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../Generalized_inversive_congruential_ pseudorandom_numbers", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Generalized_inversive_<b>congruential</b>_ pseudorandom_numbers", 
+            "snippet": "An approach to nonlinear congruential methods of generating uniform \npseudorandom numbers in the interval [0,1) is the Inversive congruential \ngenerator with\u00a0...", 
+            "htmlSnippet": "An approach to nonlinear <b>congruential</b> methods of generating uniform <br>\npseudorandom numbers in the interval [0,1) is the Inversive <b>congruential</b> <br>\n<b>generator</b> with&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Generalized_inversive_congruential_pseudorandom_numbers", 
+            "cacheId": "vYOXySA7TqAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "List of random number generators - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "List of random number <b>generators</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/List_of_random_number_generators", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/List_of_random_number_<b>generators</b>", 
+            "snippet": "1 Pseudorandom number generators (PRNGs); 2 Hardware (True) Random ... \nFibonacci generator \u00b7 Linear congruential generator - of historical importance\u00a0...", 
+            "htmlSnippet": "1 Pseudorandom number generators (PRNGs); 2 Hardware (True) Random ... <br>\nFibonacci generator &middot; <b>Linear congruential generator</b> - of historical importance&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/List_of_random_number_generators", 
+            "cacheId": "V7owEltcDG0J"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Linear congruential generator", 
+                "safe": "off", 
+                "searchTerms": "Linear congruential generator", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "101"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Linear congruential generator", 
+                "safe": "off", 
+                "searchTerms": "Linear congruential generator", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "101"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.22", 
+        "formattedTotalResults": "101", 
+        "totalResults": "101", 
+        "searchTime": 0.22321
+    }
+}

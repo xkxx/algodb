@@ -1,0 +1,222 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Pollard's rho algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Pollard&#39;s rho</b> algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Pollard's_rho_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Pollard&#39;s</b>_<b>rho</b>_algorithm", 
+            "snippet": "This article is about the integer factorization algorithm. For the discrete logarithm \nalgorithm, see Pollard's rho algorithm for logarithms. Pollard's rho algorithm is a\u00a0...", 
+            "htmlSnippet": "This article is about the integer factorization algorithm. For the discrete logarithm <br>\nalgorithm, see <b>Pollard&#39;s rho</b> algorithm for logarithms. <b>Pollard&#39;s rho</b> algorithm is a&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Pollard's_rho_algorithm", 
+            "cacheId": "uKg6CQmQp7IJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Pollard's rho algorithm for logarithms - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Pollard&#39;s rho</b> algorithm for logarithms - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Pollard's_rho_algorithm_for_logarithms", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Pollard&#39;s</b>_<b>rho</b>_algorithm_for_logarithms", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "140", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSaSbim2P33w77aID39-QCjxNIpXOiIO6VzgK6GRhI50K7mK2egYm5dFNM", 
+                        "height": "56"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/math/5/3/3/533af701acd39cb60d43185ff001a163.png"
+                    }
+                ]
+            }, 
+            "snippet": "Pollard's rho algorithm for logarithms is an algorithm introduced by John Pollard \nin 1978 for solving the discrete logarithm problem analogous to Pollard's rho\u00a0...", 
+            "htmlSnippet": "<b>Pollard&#39;s rho</b> algorithm for logarithms is an algorithm introduced by John Pollard <br>\nin 1978 for solving the discrete logarithm problem analogous to <b>Pollard&#39;s rho</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Pollard's_rho_algorithm_for_logarithms", 
+            "cacheId": "rW5BGP7FSQoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Pollard's p \u2212 1 algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Pollard&#39;s</b> p \u2212 1 algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Pollard's_p_\u2212_1_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Pollard&#39;s</b>_p_\u2212_1_algorithm", 
+            "snippet": "Pollard's p \u2212 1 algorithm is a number theoretic integer factorization algorithm, \ninvented by John Pollard in 1974. .... Pollard's rho; p \u2212 1; p + 1 \u00b7 Quadratic sieve (\nQS) \u00b7 General number field sieve (GNFS) \u00b7 Special number field sieve (SNFS)\u00a0...", 
+            "htmlSnippet": "Pollard&#39;s p \u2212 1 algorithm is a number theoretic integer factorization algorithm, <br>\ninvented by John Pollard in 1974. .... <b>Pollard&#39;s rho</b>; p \u2212 1; p + 1 &middot; Quadratic sieve (<br>\nQS) &middot; General number field sieve (GNFS) &middot; Special number field sieve (SNFS)&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Pollard's_p_%E2%88%92_1_algorithm", 
+            "cacheId": "zweeP4GmaIgJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Pollard's rho algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Pollard&#39;s rho</b> algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "en.wikipedia.org/wiki/Talk%3APollard's_rho_algorithm", 
+            "htmlFormattedUrl": "en.wikipedia.org/wiki/Talk%3A<b>Pollard&#39;s</b>_<b>rho</b>_algorithm", 
+            "snippet": "The algorithm under \"Richard Brent's Variant\" appears to have some problems. \nOne problem is that 'm' is used but doesn't seem to be initialized. Where does it\u00a0...", 
+            "htmlSnippet": "The algorithm under &quot;Richard Brent&#39;s Variant&quot; appears to have some problems. <br>\nOne problem is that &#39;m&#39; is used but doesn&#39;t seem to be initialized. Where does it&nbsp;...", 
+            "link": "http://en.wikipedia.org/wiki/Talk%3APollard's_rho_algorithm", 
+            "cacheId": "GBU1W1jpLeYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Pollard's kangaroo algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Pollard&#39;s</b> kangaroo algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Pollard's_kangaroo_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Pollard&#39;s</b>_kangaroo_algorithm", 
+            "snippet": "Although Pollard described the application of his algorithm to the discrete \nlogarithm problem in ... although in this case Pollard's rho algorithm is more \nefficient.", 
+            "htmlSnippet": "Although Pollard described the application of his algorithm to the discrete <br>\nlogarithm problem in ... although in this case <b>Pollard&#39;s rho</b> algorithm is more <br>\nefficient.", 
+            "link": "https://en.wikipedia.org/wiki/Pollard's_kangaroo_algorithm", 
+            "cacheId": "wv0K0Bur5n8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Pollard's rho algorithm for logarithms - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Pollard&#39;s rho</b> algorithm for logarithms - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "en.wikipedia.org/.../Talk%3APollard's_rho_algorithm_for_logarithms", 
+            "htmlFormattedUrl": "en.wikipedia.org/.../Talk%3A<b>Pollard&#39;s</b>_<b>rho</b>_algorithm_for_logarithms", 
+            "snippet": "I do not have the mathematical skills yet to write a good article containing \nPollards Rho-Algorithm, so I'd first just do the structural stuff. We could just start \nwith a\u00a0...", 
+            "htmlSnippet": "I do not have the mathematical skills yet to write a good article containing <br>\n<b>Pollards Rho</b>-Algorithm, so I&#39;d first just do the structural stuff. We could just start <br>\nwith a&nbsp;...", 
+            "link": "http://en.wikipedia.org/wiki/Talk%3APollard's_rho_algorithm_for_logarithms", 
+            "cacheId": "lo07o6Wo9WQJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Cycle detection - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Cycle detection - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Cycle_detection", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Cycle_detection", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "192", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSraBrRQPoLVmpJ_DGRL32QOm6htW2LrWgBIiTDb61g2aqA14g3ILfl2zs", 
+                        "height": "145"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Functional_graph.svg/240px-Functional_graph.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "In some applications, and in particular in Pollard's rho algorithm for integer \nfactorization, the algorithm has much more limited access to S and to \u0192. In \nPollard's\u00a0...", 
+            "htmlSnippet": "In some applications, and in particular in <b>Pollard&#39;s rho</b> algorithm for integer <br>\nfactorization, the algorithm has much more limited access to S and to \u0192. In <br>\nPollard&#39;s&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Cycle_detection", 
+            "cacheId": "XR6kDmkyTtkJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "MD5CRK - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "MD5CRK - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/MD5CRK", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/MD5CRK", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "256", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQLw4D4H-C-H7gsOwvbL7bfc1OT5ps3KW8_r2JT5DGi2V7x2zIYyvJIB1I", 
+                        "height": "197"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/MD5CRK-Pollard.svg/350px-MD5CRK-Pollard.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "Pollard's Rho collision search for a single path. A technique called Floyd's cycle-\nfinding algorithm was used to try to find a collision for MD5. The algorithm can\u00a0...", 
+            "htmlSnippet": "<b>Pollard&#39;s Rho</b> collision search for a single path. A technique called Floyd&#39;s cycle-<br>\nfinding algorithm was used to try to find a collision for MD5. The algorithm can&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/MD5CRK", 
+            "cacheId": "8BWsCvaWIY0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Rho (disambiguation) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Rho</b> (disambiguation) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Rho_(disambiguation)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Rho</b>_(disambiguation)", 
+            "snippet": "Rho (disambiguation) ... Rho (\u03a1 or \u03c1) is a letter of the Greek alphabet. ... Spectral \nradius in a spherical coordinate system; Pollard's rho algorithm \u00b7 Pollard's rho\u00a0...", 
+            "htmlSnippet": "Rho (disambiguation) ... Rho (\u03a1 or \u03c1) is a letter of the Greek alphabet. ... Spectral <br>\nradius in a spherical coordinate system; <b>Pollard&#39;s rho</b> algorithm &middot; <b>Pollard&#39;s rho</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Rho_(disambiguation)", 
+            "cacheId": "TRscjXmuD-YJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Pohlig\u2013Hellman algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Pohlig\u2013Hellman algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Pohlig\u2013Hellman_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Pohlig\u2013Hellman_algorithm", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "250", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSHRwLcEBergHf8F5_Z7EjUBfr6i4i2Ng73LMX7q-UXMNWrzqMz74fky70", 
+                        "height": "71"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/math/1/4/8/14809309fc08d6dda500c6d88ba8aabe.png"
+                    }
+                ]
+            }, 
+            "snippet": "Discrete logarithm \u00b7 Baby-step giant-step \u00b7 Pollard rho \u00b7 Pollard kangaroo; Pohlig\u2013\nHellman; Index calculus \u00b7 Function field sieve \u00b7 Greatest common divisor.", 
+            "htmlSnippet": "Discrete logarithm &middot; Baby-step giant-step &middot; <b>Pollard rho</b> &middot; Pollard kangaroo; Pohlig\u2013<br>\nHellman; Index calculus &middot; Function field sieve &middot; Greatest common divisor.", 
+            "link": "https://en.wikipedia.org/wiki/Pohlig%E2%80%93Hellman_algorithm", 
+            "cacheId": "niOscesjTowJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Pollard's rho", 
+                "safe": "off", 
+                "searchTerms": "Pollard's rho", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "217"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Pollard's rho", 
+                "safe": "off", 
+                "searchTerms": "Pollard's rho", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "217"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.21", 
+        "formattedTotalResults": "217", 
+        "totalResults": "217", 
+        "searchTime": 0.206462
+    }
+}

@@ -1,0 +1,180 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Broyden\u2013Fletcher\u2013Goldfarb\u2013Shanno algorithm - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Broyden</b>\u2013<b>Fletcher</b>\u2013<b>Goldfarb</b>\u2013<b>Shanno</b> algorithm - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../Broyden\u2013Fletcher\u2013Goldfarb\u2013Shanno_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../<b>Broyden</b>\u2013<b>Fletcher</b>\u2013<b>Goldfarb</b>\u2013<b>Shanno</b>_algorithm", 
+            "snippet": "In numerical optimization, the Broyden\u2013Fletcher\u2013Goldfarb\u2013Shanno (BFGS) \nalgorithm is an iterative method for solving unconstrained nonlinear optimization\n\u00a0...", 
+            "htmlSnippet": "In numerical optimization, the <b>Broyden</b>\u2013<b>Fletcher</b>\u2013<b>Goldfarb</b>\u2013<b>Shanno</b> (<b>BFGS</b>) <br>\nalgorithm is an iterative <b>method</b> for solving unconstrained nonlinear optimization<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Broyden%E2%80%93Fletcher%E2%80%93Goldfarb%E2%80%93Shanno_algorithm", 
+            "cacheId": "bfHZl-umQm8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Limited-memory BFGS - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Limited-memory <b>BFGS</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Limited-memory_BFGS", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Limited-memory_<b>BFGS</b>", 
+            "snippet": "Limited-memory BFGS (L-BFGS or LM-BFGS) is an optimization algorithm in the \n... methods that approximates the Broyden\u2013Fletcher\u2013Goldfarb\u2013Shanno (BFGS)\u00a0...", 
+            "htmlSnippet": "Limited-memory <b>BFGS</b> (L-<b>BFGS</b> or LM-<b>BFGS</b>) is an optimization algorithm in the <br>\n... <b>methods</b> that approximates the <b>Broyden</b>\u2013<b>Fletcher</b>\u2013<b>Goldfarb</b>\u2013<b>Shanno</b> (<b>BFGS</b>)&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Limited-memory_BFGS", 
+            "cacheId": "r07yhKQzDuMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Broyden\u2013Fletcher\u2013Goldfarb\u2013Shanno algorithm - Wikipedia, the ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Broyden</b>\u2013<b>Fletcher</b>\u2013<b>Goldfarb</b>\u2013<b>Shanno</b> algorithm - Wikipedia, the <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3ABFGS_method", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>BFGS</b>_<b>method</b>", 
+            "snippet": "?[edit]. according to Nocedal and Wright the updating B version of the algorithm \nis due to Davidon, Fletcher and Powell, the\u00a0...", 
+            "htmlSnippet": "?[edit]. according to Nocedal and Wright the updating B version of the algorithm <br>\nis due to Davidon, <b>Fletcher</b> and Powell, the&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3ABFGS_method", 
+            "cacheId": "YrvLDCzbMyEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Quasi-Newton method - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Quasi-Newton <b>method</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Quasi-Newton_method", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Quasi-Newton_<b>method</b>", 
+            "snippet": "... Fletcher, Goldfarb, and Shanno, in 1970), and its low-memory extension, L-\nBFGS. The Broyden's class is a linear combination of the DFP and BFGS \nmethods.", 
+            "htmlSnippet": "... <b>Fletcher</b>, <b>Goldfarb</b>, and <b>Shanno</b>, in 1970), and its low-memory extension, L-<br>\n<b>BFGS</b>. The <b>Broyden&#39;s</b> class is a linear combination of the DFP and <b>BFGS</b> <br>\n<b>methods</b>.", 
+            "link": "https://en.wikipedia.org/wiki/Quasi-Newton_method", 
+            "cacheId": "x_a_eCp_2CIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Davidon\u2013Fletcher\u2013Powell formula - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Davidon\u2013<b>Fletcher</b>\u2013Powell formula - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Davidon\u2013Fletcher\u2013Powell_formula", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Davidon\u2013<b>Fletcher</b>\u2013Powell_formula", 
+            "snippet": "The Davidon\u2013Fletcher\u2013Powell formula (or DFP; named after William C. Davidon, \n... Broyden\u2013Fletcher\u2013Goldfarb\u2013Shanno (BFGS) method \u00b7 L-BFGS method \u00b7 SR1\u00a0...", 
+            "htmlSnippet": "The Davidon\u2013Fletcher\u2013Powell formula (or DFP; named after William C. Davidon, <br>\n... <b>Broyden</b>\u2013<b>Fletcher</b>\u2013<b>Goldfarb</b>\u2013<b>Shanno</b> (<b>BFGS</b>) <b>method</b> &middot; L-<b>BFGS method</b> &middot; SR1&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Davidon%E2%80%93Fletcher%E2%80%93Powell_formula", 
+            "cacheId": "vs86ImdC-6UJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Symmetric rank-one - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Symmetric rank-one - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Symmetric_rank-one", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Symmetric_rank-one", 
+            "snippet": "The Symmetric Rank 1 (SR1) method is a quasi-Newton method to update the ... \nmethod in optimization \u00b7 Broyden-Fletcher-Goldfarb-Shanno (BFGS) method\u00a0...", 
+            "htmlSnippet": "The Symmetric Rank 1 (SR1) <b>method</b> is a quasi-Newton <b>method</b> to update the ... <br>\n<b>method</b> in optimization &middot; <b>Broyden</b>-<b>Fletcher</b>-<b>Goldfarb</b>-<b>Shanno</b> (<b>BFGS</b>) <b>method</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Symmetric_rank-one", 
+            "cacheId": "luZj9C8qaUUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Broyden's method - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Broyden&#39;s method</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Broyden's_method", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Broyden&#39;s</b>_<b>method</b>", 
+            "snippet": "In numerical analysis, Broyden's method is a quasi-Newton method for finding \nroots in k ... formula \u00b7 Broyden-Fletcher-Goldfarb-Shanno (BFGS) method\u00a0...", 
+            "htmlSnippet": "In numerical analysis, Broyden&#39;s <b>method</b> is a quasi-Newton <b>method</b> for finding <br>\nroots in k ... formula &middot; <b>Broyden</b>-<b>Fletcher</b>-<b>Goldfarb</b>-<b>Shanno</b> (<b>BFGS</b>) <b>method</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Broyden's_method", 
+            "cacheId": "GJCvus49YQ0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Nelder\u2013Mead method - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Nelder\u2013Mead <b>method</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Nelder\u2013Mead_method", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Nelder\u2013Mead_<b>method</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "256", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBQlnlivG13fz4ZVgUSzGs6Z_Tr-Cvo2p_Ytz9XyxKJQ5zmFqU1biqRjQ", 
+                        "height": "192"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Nelder_Mead1.gif/320px-Nelder_Mead1.gif"
+                    }
+                ]
+            }, 
+            "snippet": "The Nelder\u2013Mead method or downhill simplex method or amoeba method is a .... \nBroyden\u2013Fletcher\u2013Goldfarb\u2013Shanno or BFGS method \u00b7 Differential evolution\u00a0...", 
+            "htmlSnippet": "The Nelder\u2013Mead <b>method</b> or downhill simplex <b>method</b> or amoeba <b>method</b> is a .... <br>\n<b>Broyden</b>\u2013<b>Fletcher</b>\u2013<b>Goldfarb</b>\u2013<b>Shanno</b> or <b>BFGS method</b> &middot; Differential evolution&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Nelder%E2%80%93Mead_method", 
+            "cacheId": "KPG9KMNtTaIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Charles George Broyden - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Charles George <b>Broyden</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Charles_George_Broyden", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Charles_George_<b>Broyden</b>", 
+            "snippet": "Charles George Broyden (3 February 1933 \u2013 20 May 2011) was a mathematician \nwho ... discovered the Broyden\u2013Fletcher\u2013Goldfarb\u2013Shanno (BFGS) method.", 
+            "htmlSnippet": "Charles George Broyden (3 February 1933 \u2013 20 May 2011) was a mathematician <br>\nwho ... discovered the <b>Broyden</b>\u2013<b>Fletcher</b>\u2013<b>Goldfarb</b>\u2013<b>Shanno</b> (<b>BFGS</b>) <b>method</b>.", 
+            "link": "https://en.wikipedia.org/wiki/Charles_George_Broyden", 
+            "cacheId": "reaBDWJkjncJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Goldfarb - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Goldfarb</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Goldfarb", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Goldfarb</b>", 
+            "snippet": "Goldfarb is German for golden color and is the surname of: ... Broyden\u2013Fletcher\u2013\nGoldfarb\u2013Shanno method, a.k.a. BFGS method, a method for solving nonlinear\u00a0...", 
+            "htmlSnippet": "Goldfarb is German for golden color and is the surname of: ... <b>Broyden</b>\u2013<b>Fletcher</b>\u2013<br>\n<b>Goldfarb</b>\u2013<b>Shanno method</b>, a.k.a. <b>BFGS method</b>, a <b>method</b> for solving nonlinear&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Goldfarb", 
+            "cacheId": "ZYp3xrrYGG0J"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - BFGS (Broyden-Fletcher-Goldfarb-Shanno method)", 
+                "safe": "off", 
+                "searchTerms": "BFGS (Broyden-Fletcher-Goldfarb-Shanno method)", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "29"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - BFGS (Broyden-Fletcher-Goldfarb-Shanno method)", 
+                "safe": "off", 
+                "searchTerms": "BFGS (Broyden-Fletcher-Goldfarb-Shanno method)", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "29"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.29", 
+        "formattedTotalResults": "29", 
+        "totalResults": "29", 
+        "searchTime": 0.286372
+    }
+}
