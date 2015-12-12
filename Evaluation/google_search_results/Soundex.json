@@ -1,0 +1,166 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Soundex - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Soundex</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Soundex", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Soundex</b>", 
+            "snippet": "Soundex is a phonetic algorithm for indexing names by sound, as pronounced in \nEnglish. The goal is for homophones to be encoded to the same representation\u00a0...", 
+            "htmlSnippet": "<b>Soundex</b> is a phonetic algorithm for indexing names by sound, as pronounced in <br>\nEnglish. The goal is for homophones to be encoded to the same representation&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Soundex", 
+            "cacheId": "_8vvk-gNU0gJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Daitch\u2013Mokotoff Soundex - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Daitch\u2013Mokotoff <b>Soundex</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Daitch\u2013Mokotoff_Soundex", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Daitch\u2013Mokotoff_<b>Soundex</b>", 
+            "snippet": "Daitch\u2013Mokotoff Soundex (D\u2013M Soundex) is a phonetic algorithm invented in \n1985 by Jewish genealogists Gary Mokotoff and Randy Daitch. It is a refinement \nof\u00a0...", 
+            "htmlSnippet": "Daitch\u2013Mokotoff <b>Soundex</b> (D\u2013M <b>Soundex</b>) is a phonetic algorithm invented in <br>\n1985 by Jewish genealogists Gary Mokotoff and Randy Daitch. It is a refinement <br>\nof&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Daitch%E2%80%93Mokotoff_Soundex", 
+            "cacheId": "i12BB62JzWkJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "International Soundex Reunion Registry - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "International <b>Soundex</b> Reunion Registry - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../International_Soundex_Reunion_Registry", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../International_<b>Soundex</b>_Reunion_Registry", 
+            "snippet": "The International Soundex Reunion Registry, Inc. is a 501(c)3 non-profit, tax \nexempt, humanitarian organization founded in 1975 by Emma May Vilardi. ISRR \nis\u00a0...", 
+            "htmlSnippet": "The International <b>Soundex</b> Reunion Registry, Inc. is a 501(c)3 non-profit, tax <br>\nexempt, humanitarian organization founded in 1975 by Emma May Vilardi. ISRR <br>\nis&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/International_Soundex_Reunion_Registry", 
+            "cacheId": "E080sSJn09gJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Phonetic algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Phonetic algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Phonetic_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Phonetic_algorithm", 
+            "snippet": "Soundex, which was developed to encode surnames for use in censuses. \nSoundex codes are four-character strings composed of a single letter followed by\n\u00a0...", 
+            "htmlSnippet": "<b>Soundex</b>, which was developed to encode surnames for use in censuses. <br>\n<b>Soundex</b> codes are four-character strings composed of a single letter followed by<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Phonetic_algorithm", 
+            "cacheId": "TQA48lIjqk0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "The SoundEx - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "The <b>SoundEx</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/The_SoundEx", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/The_<b>SoundEx</b>", 
+            "snippet": "The SoundEx, also known as The Sound Explosion, were a self-styled 'Rock and \n... After the dissolution of Red Ink, The SoundEx (as they were now known)\u00a0...", 
+            "htmlSnippet": "The <b>SoundEx</b>, also known as The Sound Explosion, were a self-styled &#39;Rock and <br>\n... After the dissolution of Red Ink, The <b>SoundEx</b> (as they were now known)&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/The_SoundEx", 
+            "cacheId": "biD57nIbTeUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Soundex - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Soundex</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3ASoundex", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>Soundex</b>", 
+            "snippet": "Soundex may be used for indexing words, but it was specifically designed for \nnames ... Soundex was specifically designed to index names of Western \nEuropean\u00a0...", 
+            "htmlSnippet": "<b>Soundex</b> may be used for indexing words, but it was specifically designed for <br>\nnames ... <b>Soundex</b> was specifically designed to index names of Western <br>\nEuropean&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3ASoundex", 
+            "cacheId": "ug-rHjVVfoMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Metaphone - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Metaphone - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Metaphone", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Metaphone", 
+            "snippet": "It fundamentally improves on the Soundex algorithm by using information about \nvariations and inconsistencies in English spelling and pronunciation to produce\u00a0...", 
+            "htmlSnippet": "It fundamentally improves on the <b>Soundex</b> algorithm by using information about <br>\nvariations and inconsistencies in English spelling and pronunciation to produce&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Metaphone", 
+            "cacheId": "zINeu6sNYd8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "New York State Identification and Intelligence System - Wikipedia ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "New York State Identification and Intelligence System - Wikipedia <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../New_York_State_Identification_and_Intelligence_ System", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../New_York_State_Identification_and_Intelligence_ System", 
+            "snippet": "... (now a part of the New York State Division of Criminal Justice Services). It \nfeatures an accuracy increase of 2.7% over the traditional Soundex algorithm.", 
+            "htmlSnippet": "... (now a part of the New York State Division of Criminal Justice Services). It <br>\nfeatures an accuracy increase of 2.7% over the traditional <b>Soundex</b> algorithm.", 
+            "link": "https://en.wikipedia.org/wiki/New_York_State_Identification_and_Intelligence_System", 
+            "cacheId": "Wgwaa2sU_80J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Rhyme Genie - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Rhyme Genie - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Rhyme_Genie", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Rhyme_Genie", 
+            "snippet": "Rhyme Genie can find 26 traditional types of rhymes, 2 phonetic algorithms (\nMetaphone, Soundex) and 2 proprietary rhyme algorithms (Related Rhyme,\u00a0...", 
+            "htmlSnippet": "Rhyme Genie can find 26 traditional types of rhymes, 2 phonetic algorithms (<br>\nMetaphone, <b>Soundex</b>) and 2 proprietary rhyme algorithms (Related Rhyme,&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Rhyme_Genie", 
+            "cacheId": "m9pMEQTJDSgJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Wikipedia:Reference desk/Archives/Computing/2014 October 9 ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Wikipedia:Reference desk/Archives/Computing/2014 October 9 <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Wikipedia...desk/.../2014_October_9", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Wikipedia...desk/.../2014_October_9", 
+            "snippet": "I'm trying to implement the Soundex algorithm as a finite state transducer (yes, it's \na piece of homework, but hear me out). We haven't learned how to create\u00a0...", 
+            "htmlSnippet": "I&#39;m trying to implement the <b>Soundex</b> algorithm as a finite state transducer (yes, it&#39;s <br>\na piece of homework, but hear me out). We haven&#39;t learned how to create&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Wikipedia:Reference_desk/Archives/Computing/2014_October_9", 
+            "cacheId": "PXUlR2wBhsAJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Soundex", 
+                "safe": "off", 
+                "searchTerms": "Soundex", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "133"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Soundex", 
+                "safe": "off", 
+                "searchTerms": "Soundex", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "133"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.18", 
+        "formattedTotalResults": "133", 
+        "totalResults": "133", 
+        "searchTime": 0.178215
+    }
+}

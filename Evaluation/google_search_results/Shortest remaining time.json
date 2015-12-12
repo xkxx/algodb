@@ -1,0 +1,208 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Shortest remaining time - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Shortest remaining time</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Shortest_remaining_time", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Shortest</b>_<b>remaining</b>_<b>time</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "280", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWT6CuLPa8j2HNvLsgxnYa58FMOMi8LXNZqO5SQBy0MQq8xuNhrF7nAgs", 
+                        "height": "116"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Shortest_remaining_time.png/350px-Shortest_remaining_time.png"
+                    }
+                ]
+            }, 
+            "snippet": "Shortest remaining time, also known as shortest remaining time first (SRTF), is a \nscheduling method that is a preemptive version of shortest job next scheduling.", 
+            "htmlSnippet": "<b>Shortest remaining time</b>, also known as <b>shortest remaining time</b> first (SRTF), is a <br>\nscheduling method that is a preemptive version of shortest job next scheduling.", 
+            "link": "https://en.wikipedia.org/wiki/Shortest_remaining_time", 
+            "cacheId": "IojXY9a2SOgJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Shortest job next - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Shortest</b> job next - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Shortest_job_next", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Shortest</b>_job_next", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "280", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRkhIfMSZ7uEh6lMy849Hxoo505k_-1dEFgOPYQLPFbRgU-wQxLqmZnQik", 
+                        "height": "169"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Shortest_job_first.png/350px-Shortest_job_first.png"
+                    }
+                ]
+            }, 
+            "snippet": "Shortest job next (SJN), also known as Shortest Job First (SJF) or Shortest \nProcess Next (SPN), is a ... Shortest remaining time is a preemptive variant of \nSJN.", 
+            "htmlSnippet": "Shortest job next (SJN), also known as Shortest Job First (SJF) or Shortest <br>\nProcess Next (SPN), is a ... <b>Shortest remaining time</b> is a preemptive variant of <br>\nSJN.", 
+            "link": "https://en.wikipedia.org/wiki/Shortest_job_next", 
+            "cacheId": "Eh-dClRiPrgJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Scheduling (computing) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Scheduling (computing) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Scheduling_(computing)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Scheduling_(computing)", 
+            "snippet": "2.1 First in first out; 2.2 Earliest deadline first; 2.3 Shortest remaining time; 2.4 \nFixed ... An I/O-bound process is one that spends more of its time doing I/O than it\n\u00a0...", 
+            "htmlSnippet": "2.1 First in first out; 2.2 Earliest deadline first; 2.3 <b>Shortest remaining time</b>; 2.4 <br>\nFixed ... An I/O-bound process is one that spends more of its time doing I/O than it<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Scheduling_(computing)", 
+            "cacheId": "I6wQeqME3O8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Input queue - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Input queue - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Input_queue", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Input_queue", 
+            "snippet": "Operating systems use First-Come, First-Served queues, Shortest remaining time\n, Fixed priority pre-emptive scheduling, round-robin scheduling and multilevel\u00a0...", 
+            "htmlSnippet": "Operating systems use First-Come, First-Served queues, <b>Shortest remaining time</b><br>\n, Fixed priority pre-emptive scheduling, round-robin scheduling and multilevel&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Input_queue", 
+            "cacheId": "Z6qzHMFk0hIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Category:Processor scheduling algorithms - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Category:Processor scheduling algorithms - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../Category:Processor_scheduling_algorithms", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Category:Processor_scheduling_algorithms", 
+            "snippet": "S. Shortest job next \u00b7 Shortest remaining time \u00b7 Starvation (computer science) \u00b7 \nStatistical time division multiplexing \u00b7 Stride scheduling\u00a0...", 
+            "htmlSnippet": "S. Shortest job next &middot; <b>Shortest remaining time</b> &middot; Starvation (computer science) &middot; <br>\nStatistical time division multiplexing &middot; Stride scheduling&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Category:Processor_scheduling_algorithms", 
+            "cacheId": "d1AmdPiOKfEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "M/G/1 queue - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "M/G/1 queue - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/M/G/1_queue", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/M/G/1_queue", 
+            "snippet": "3 Busy period; 4 Waiting/response time; 5 Arrival theorem; 6 Multiple servers ... \noriginal size is served; shortest remaining processing time (SRPT) where the next\n\u00a0...", 
+            "htmlSnippet": "3 Busy period; 4 Waiting/response <b>time</b>; 5 Arrival theorem; 6 Multiple servers ... <br>\noriginal size is served; <b>shortest remaining</b> processing <b>time</b> (SRPT) where the next<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/M/G/1_queue", 
+            "cacheId": "c1BpprFZZLMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Bene\u0161 method - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Bene\u0161 method - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Bene\u0161_method", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Bene\u0161_method", 
+            "snippet": "The method introduces a quantity referred to as the \"virtual waiting time\" to define \nthe remaining workload in the queue at any time. This process is a step\u00a0...", 
+            "htmlSnippet": "The method introduces a quantity referred to as the &quot;virtual waiting <b>time</b>&quot; to define <br>\nthe <b>remaining</b> workload in the queue at any <b>time</b>. This process is a step&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Bene%C5%A1_method", 
+            "cacheId": "RzHVYMrE83kJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "User:Tzenes - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "User:Tzenes - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/User:Tzenes", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/User:Tzenes", 
+            "snippet": "I saw your edit on shortest remaining time that removed the section stating that \nSRT is rarely used outside of specialized environments, and I think it should stay.", 
+            "htmlSnippet": "I saw your edit on <b>shortest remaining time</b> that removed the section stating that <br>\nSRT is rarely used outside of specialized environments, and I think it should stay.", 
+            "link": "https://en.wikipedia.org/wiki/User:Tzenes", 
+            "cacheId": "BNESWJTe1xQJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Queueing theory - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Queueing theory - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Queueing_theory", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Queueing_theory", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSqOH-tASPjR89M1aWLynmI26RJhbzD-w5C3Ff8Vg2FKyxuKWKOaVNQqBc", 
+                        "height": "170"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/ServidorParalelo.jpg/220px-ServidorParalelo.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "John Kingman gave a formula for the mean waiting time in a G/G/1 queue: ... \nShortest remaining processing time: The next job to serve is the one with the\u00a0...", 
+            "htmlSnippet": "John Kingman gave a formula for the mean waiting <b>time</b> in a G/G/1 queue: ... <br>\n<b>Shortest remaining</b> processing <b>time</b>: The next job to serve is the one with the&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Queueing_theory", 
+            "cacheId": "aRkVYyqVk-sJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Template:Queueing theory - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Template:Queueing theory - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Template:Queueing_theory", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Template:Queueing_theory", 
+            "snippet": "FIFO \u00b7 LIFO \u00b7 Processor sharing \u00b7 Round-robin \u00b7 Shortest job first \u00b7 Shortest \nremaining time. Key concepts. Continuous-time Markov chain \u00b7 Kendall's notation\n\u00a0...", 
+            "htmlSnippet": "FIFO &middot; LIFO &middot; Processor sharing &middot; Round-robin &middot; Shortest job first &middot; <b>Shortest</b> <br>\n<b>remaining time</b>. Key concepts. Continuous-time Markov chain &middot; Kendall&#39;s notation<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Template:Queueing_theory", 
+            "cacheId": "742xyRjWLSwJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Shortest remaining time", 
+                "safe": "off", 
+                "searchTerms": "Shortest remaining time", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "5760"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Shortest remaining time", 
+                "safe": "off", 
+                "searchTerms": "Shortest remaining time", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "5760"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.33", 
+        "formattedTotalResults": "5,760", 
+        "totalResults": "5760", 
+        "searchTime": 0.334771
+    }
+}

@@ -1,0 +1,213 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Longest common subsequence problem - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Longest common subsequence problem</b> - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../Longest_common_subsequence_problem", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../<b>Longest</b>_<b>common</b>_<b>subsequence</b>_<b>problem</b>", 
+            "snippet": "The longest common subsequence (LCS) problem is the problem of finding the \nlongest subsequence common to all sequences in a set of sequences (often just\n\u00a0...", 
+            "htmlSnippet": "The <b>longest common subsequence</b> (LCS) <b>problem</b> is the <b>problem</b> of finding the <br>\nlongest subsequence common to all sequences in a set of sequences (often just<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Longest_common_subsequence_problem", 
+            "cacheId": "MlLnUJJMUrQJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Longest increasing subsequence - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Longest</b> increasing <b>subsequence</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Longest_increasing_subsequence", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Longest</b>_increasing_<b>subsequence</b>", 
+            "snippet": "[edit]. The longest increasing subsequence problem is closely related to the \nlongest common\u00a0...", 
+            "htmlSnippet": "[edit]. The <b>longest</b> increasing <b>subsequence problem</b> is closely related to the <br>\n<b>longest common</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Longest_increasing_subsequence", 
+            "cacheId": "wz1Eza2rqhsJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Longest common substring problem - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Longest common</b> substring <b>problem</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Longest_common_substring_problem", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Longest</b>_<b>common</b>_substring_<b>problem</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "252", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSXf1ouK0s38oJt9B_upO58WhpChE05BmFXhLVBLinRKoggjJcDNeiQi7k", 
+                        "height": "200"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Suffix_tree_ABAB_BABA_ABBA.svg/400px-Suffix_tree_ABAB_BABA_ABBA.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "Not to be confused with longest common subsequence problem. ... science, the \nlongest common substring problem is to find the longest string (or strings) that is\u00a0...", 
+            "htmlSnippet": "Not to be confused with <b>longest common subsequence problem</b>. ... science, the <br>\nlongest common substring problem is to find the longest string (or strings) that is&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Longest_common_substring_problem", 
+            "cacheId": "UWlJgw83nD0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Shortest common supersequence problem - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Shortest <b>common</b> supersequence <b>problem</b> - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../Shortest_common_supersequence_problem", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Shortest_<b>common</b>_super<b>sequence</b>_<b>problem</b>", 
+            "snippet": "In computer science, the shortest common supersequence problem is a problem \nclosely related to the longest common subsequence problem. Given two\u00a0...", 
+            "htmlSnippet": "In computer science, the shortest common supersequence problem is a problem <br>\nclosely related to the <b>longest common subsequence problem</b>. Given two&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Shortest_common_supersequence_problem", 
+            "cacheId": "jSQTRdlBifgJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Longest common subsequence problem - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Longest common subsequence problem</b> - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../Talk%3ALongest_common_subsequence_ problem", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Talk%3A<b>Longest</b>_<b>common</b>_<b>subsequence</b>_ <b>problem</b>", 
+            "snippet": "Does anybody know a tight bound on the maximal number of longest common \nsubsequences? (As in less than O(m^m) , m \\leq n ). If you take for example the\u00a0...", 
+            "htmlSnippet": "Does anybody know a tight bound on the maximal number of <b>longest common</b> <br>\n<b>subsequences</b>? (As in less than O(m^m) , m \\leq n ). If you take for example the&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3ALongest_common_subsequence_problem", 
+            "cacheId": "2PM_0irQJ3YJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Chv\u00e1tal\u2013Sankoff constants - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Chv\u00e1tal\u2013Sankoff constants - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Chv\u00e1tal\u2013Sankoff_constants", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Chv\u00e1tal\u2013Sankoff_constants", 
+            "snippet": "This problem and its generalizations to more complex forms of edit distance have \n... One motivation for studying the longest common subsequences of random\u00a0...", 
+            "htmlSnippet": "This <b>problem</b> and its generalizations to more complex forms of edit distance have <br>\n... One motivation for studying the <b>longest common subsequences</b> of random&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Chv%C3%A1tal%E2%80%93Sankoff_constants", 
+            "cacheId": "kKE_W8p_cjUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Hunt\u2013McIlroy algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Hunt\u2013McIlroy algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Hunt\u2013McIlroy_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Hunt\u2013McIlroy_algorithm", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTSYv1t9reqton4c-FIs5bJKim0qjpaicM1xWVez8ZPozxpa8tQ3lwzuA", 
+                        "height": "127"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Longest_Common_Subsequence_Recursion.png/220px-Longest_Common_Subsequence_Recursion.png"
+                    }
+                ]
+            }, 
+            "snippet": "In computer science, the Hunt\u2013McIlroy algorithm is a solution to the longest \ncommon subsequence problem. It was one of the first non-heuristic algorithms \nused\u00a0...", 
+            "htmlSnippet": "In computer science, the Hunt\u2013McIlroy algorithm is a solution to the <b>longest</b> <br>\n<b>common subsequence problem</b>. It was one of the first non-heuristic algorithms <br>\nused&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Hunt%E2%80%93McIlroy_algorithm", 
+            "cacheId": "bNY5ZHeEqUIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Dan Hirschberg - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Dan Hirschberg - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Dan_Hirschberg", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Dan_Hirschberg", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTXsLg03J7zGYU2vZd94l9OOCDt3ld--K8iRN8A9wUsLFKzMB68KZsBWdE", 
+                        "height": "264"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/DanHirschberg.jpg/220px-DanHirschberg.jpg"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "fn": "Daniel S. Hirschberg"
+                    }
+                ]
+            }, 
+            "snippet": "He is best known for his 1975 and 1977 work on the longest common \nsubsequence problem: Hirschberg's algorithm for this problem and for the related \nstring\u00a0...", 
+            "htmlSnippet": "He is best known for his 1975 and 1977 work on the <b>longest common</b> <br>\n<b>subsequence problem</b>: Hirschberg&#39;s algorithm for this problem and for the related <br>\nstring&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Dan_Hirschberg", 
+            "cacheId": "Z-US37jGPMkJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Longest alternating subsequence - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Longest</b> alternating <b>subsequence</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Longest_alternating_subsequence", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Longest</b>_alternating_<b>subsequence</b>", 
+            "snippet": "The longest alternating subsequence problem is solvable in time O(n) , where n \n... of independent random variables with common continuous distribution F\u00a0...", 
+            "htmlSnippet": "The <b>longest</b> alternating <b>subsequence problem</b> is solvable in time O(n) , where n <br>\n... of independent random variables with <b>common</b> continuous distribution F&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Longest_alternating_subsequence", 
+            "cacheId": "5cu6Ieid0MYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Subsequence - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Subsequence</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Subsequence", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Subsequence</b>", 
+            "snippet": "Given two sequences X and Y, a sequence G is said to be a common ... This \nwould not be the longest common subsequence, since G only has length 3, and \nthe ... Limit superior and limit inferior \u00b7 Longest increasing subsequence problem\n\u00a0...", 
+            "htmlSnippet": "Given two sequences X and Y, a sequence G is said to be a common ... This <br>\nwould not be the <b>longest common subsequence</b>, since G only has length 3, and <br>\nthe ... Limit superior and limit inferior &middot; Longest increasing subsequence <b>problem</b><br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Subsequence", 
+            "cacheId": "HZSTRHLzC1kJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Longest common subsequence problem", 
+                "safe": "off", 
+                "searchTerms": "Longest common subsequence problem", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "183"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Longest common subsequence problem", 
+                "safe": "off", 
+                "searchTerms": "Longest common subsequence problem", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "183"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.26", 
+        "formattedTotalResults": "183", 
+        "totalResults": "183", 
+        "searchTime": 0.257859
+    }
+}

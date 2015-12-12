@@ -1,0 +1,194 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Schreier\u2013Sims algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Schreier</b>\u2013<b>Sims</b> algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Schreier\u2013Sims_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Schreier</b>\u2013<b>Sims</b>_algorithm", 
+            "snippet": "The Schreier\u2013Sims algorithm is an algorithm in computational group theory \nnamed after mathematicians Otto Schreier and Charles Sims. Once performed, it\n\u00a0...", 
+            "htmlSnippet": "The <b>Schreier</b>\u2013<b>Sims</b> algorithm is an algorithm in computational group theory <br>\nnamed after mathematicians Otto Schreier and Charles Sims. Once performed, it<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Schreier%E2%80%93Sims_algorithm", 
+            "cacheId": "olZdliBuFVAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Schreier's lemma - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Schreier&#39;s</b> lemma - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Schreier's_lemma", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Schreier&#39;s</b>_lemma", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "252", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXhDQf_omUO73Pe0IhgtWSdhBZJCrY6Sq1jjeWN6T4q5ToPP0CkeL2Gw", 
+                        "height": "74"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/math/e/f/d/efd505a006429bd283c0684a50e48ada.png"
+                    }
+                ]
+            }, 
+            "snippet": "In mathematics, Schreier's lemma is a theorem in group theory used in the \nSchreier\u2013Sims algorithm and also for finding a presentation of a subgroup.", 
+            "htmlSnippet": "In mathematics, Schreier&#39;s lemma is a theorem in group theory used in the <br>\n<b>Schreier</b>\u2013<b>Sims</b> algorithm and also for finding a presentation of a subgroup.", 
+            "link": "https://en.wikipedia.org/wiki/Schreier's_lemma", 
+            "cacheId": "bA81fUWhBSEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Otto Schreier - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Otto <b>Schreier</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Otto_Schreier", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Otto_<b>Schreier</b>", 
+            "snippet": "Results and concepts named after Otto Schreier[edit] ... Artin\u2013Schreier theorem \u00b7 \nSchreier's subgroup lemma \u00b7 Schreier\u2013Sims algorithm \u00b7 Schreier coset graph\u00a0...", 
+            "htmlSnippet": "Results and concepts named after Otto Schreier[edit] ... Artin\u2013Schreier theorem &middot; <br>\nSchreier&#39;s subgroup lemma &middot; <b>Schreier</b>\u2013<b>Sims</b> algorithm &middot; Schreier coset graph&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Otto_Schreier", 
+            "cacheId": "nh1uoaf23BwJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Charles Sims (mathematician) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Charles <b>Sims</b> (mathematician) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Charles_Sims_(mathematician)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Charles_<b>Sims</b>_(mathematician)", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "144", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtJkYdQ-sFX0cfq08Z6ozp0i7iw6l-6nfIeY0-aWXjVgkmsf9I5q_Dji0", 
+                        "height": "108"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Charles_Sims.jpg/180px-Charles_Sims.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "Sims is one of the founders of computational group theory and is the eponym of \nthe Schreier\u2013Sims algorithm. He was a faculty member at the Department of\u00a0...", 
+            "htmlSnippet": "Sims is one of the founders of computational group theory and is the eponym of <br>\nthe <b>Schreier</b>\u2013<b>Sims</b> algorithm. He was a faculty member at the Department of&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Charles_Sims_(mathematician)", 
+            "cacheId": "C412PcN8gakJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Strong generating set - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Strong generating set - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Strong_generating_set", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Strong_generating_set", 
+            "snippet": "... be non-redundant if. G^{(i)} \\neq G^{(j)}. for i \\neq j . A base and strong \ngenerating set (BSGS) for a group can be computed using the Schreier\u2013Sims \nalgorithm.", 
+            "htmlSnippet": "... be non-redundant if. G^{(i)} \\neq G^{(j)}. for i \\neq j . A base and strong <br>\ngenerating set (BSGS) for a group can be computed using the <b>Schreier</b>\u2013<b>Sims</b> <br>\nalgorithm.", 
+            "link": "https://en.wikipedia.org/wiki/Strong_generating_set", 
+            "cacheId": "coJnPy87xUsJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Computational group theory - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Computational group theory - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Computational_group_theory", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Computational_group_theory", 
+            "snippet": "the Schreier\u2013Sims algorithm for finding the order of a permutation group; the \nTodd\u2013Coxeter algorithm and Knuth\u2013Bendix algorithm for coset enumeration; the\n\u00a0...", 
+            "htmlSnippet": "the <b>Schreier</b>\u2013<b>Sims</b> algorithm for finding the order of a permutation group; the <br>\nTodd\u2013Coxeter algorithm and Knuth\u2013Bendix algorithm for coset enumeration; the<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Computational_group_theory", 
+            "cacheId": "60zUTCn842YJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Category:Computational group theory - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Category:Computational group theory - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Category:Computational_group_theory", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Category:Computational_group_theory", 
+            "snippet": "N. Nielsen transformation. S. Schreier vector \u00b7 Schreier\u2013Sims algorithm \u00b7 Charles \nSims (mathematician) \u00b7 Strong generating set. T. Todd\u2013Coxeter algorithm.", 
+            "htmlSnippet": "N. Nielsen transformation. S. Schreier vector &middot; <b>Schreier</b>\u2013<b>Sims</b> algorithm &middot; Charles <br>\nSims (mathematician) &middot; Strong generating set. T. Todd\u2013Coxeter algorithm.", 
+            "link": "https://en.wikipedia.org/wiki/Category:Computational_group_theory", 
+            "cacheId": "_1mi882w1ZAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Base (group theory) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Base (group theory) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Base_(group_theory)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Base_(group_theory)", 
+            "snippet": "A base and a strong generating set (together often called a BSGS) for a group \ncan be obtained using the Schreier\u2013Sims algorithm. It is often beneficial to deal\u00a0...", 
+            "htmlSnippet": "A base and a strong generating set (together often called a BSGS) for a group <br>\ncan be obtained using the <b>Schreier</b>\u2013<b>Sims</b> algorithm. It is often beneficial to deal&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Base_(group_theory)", 
+            "cacheId": "2ncuuRlRmucJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Category:Permutation groups - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Category:Permutation groups - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Category:Permutation_groups", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Category:Permutation_groups", 
+            "snippet": "S. Schreier vector \u00b7 Schreier\u2013Sims algorithm \u00b7 Strong generating set \u00b7 Symmetric \ngroup \u00b7 System of imprimitivity. W. Wreath product. Z. Zassenhaus group.", 
+            "htmlSnippet": "S. Schreier vector &middot; <b>Schreier</b>\u2013<b>Sims</b> algorithm &middot; Strong generating set &middot; Symmetric <br>\ngroup &middot; System of imprimitivity. W. Wreath product. Z. Zassenhaus group.", 
+            "link": "https://en.wikipedia.org/wiki/Category:Permutation_groups", 
+            "cacheId": "gCeJQqMg1QoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Book:List of Algorithms - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Book:List of Algorithms - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Book:List_of_Algorithms", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Book:List_of_Algorithms", 
+            "snippet": "Computational mathematics \u00b7 Abstract algebra \u00b7 Chien search \u00b7 Schreier\u2013Sims \nalgorithm \u00b7 Strong generating set \u00b7 Permutation group \u00b7 Todd\u2013Coxeter algorithm\u00a0...", 
+            "htmlSnippet": "Computational mathematics &middot; Abstract algebra &middot; Chien search &middot; <b>Schreier</b>\u2013<b>Sims</b> <br>\nalgorithm &middot; Strong generating set &middot; Permutation group &middot; Todd\u2013Coxeter algorithm&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Book:List_of_Algorithms", 
+            "cacheId": "aEsv0l7z6nEJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Schreier-Sims", 
+                "safe": "off", 
+                "searchTerms": "Schreier-Sims", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "91"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Schreier-Sims", 
+                "safe": "off", 
+                "searchTerms": "Schreier-Sims", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "91"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.25", 
+        "formattedTotalResults": "91", 
+        "totalResults": "91", 
+        "searchTime": 0.246485
+    }
+}

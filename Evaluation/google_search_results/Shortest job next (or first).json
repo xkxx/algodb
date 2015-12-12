@@ -1,0 +1,222 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Shortest job next - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Shortest job next</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Shortest_job_next", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Shortest</b>_<b>job</b>_<b>next</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "280", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRkhIfMSZ7uEh6lMy849Hxoo505k_-1dEFgOPYQLPFbRgU-wQxLqmZnQik", 
+                        "height": "169"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Shortest_job_first.png/350px-Shortest_job_first.png"
+                    }
+                ]
+            }, 
+            "snippet": "[edit]. Weighted shortest job first (WSJF) is a modification of the concept used in \nagile development where the jobs get\u00a0...", 
+            "htmlSnippet": "[edit]. Weighted <b>shortest job first</b> (WSJF) is a modification of the concept used in <br>\nagile development where the <b>jobs</b> get&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Shortest_job_next", 
+            "cacheId": "Eh-dClRiPrgJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Shortest remaining time - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Shortest</b> remaining time - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Shortest_remaining_time", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Shortest</b>_remaining_time", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "280", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWT6CuLPa8j2HNvLsgxnYa58FMOMi8LXNZqO5SQBy0MQq8xuNhrF7nAgs", 
+                        "height": "116"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Shortest_remaining_time.png/350px-Shortest_remaining_time.png"
+                    }
+                ]
+            }, 
+            "snippet": "Shortest remaining time, also known as shortest remaining time first (SRTF), is a \nscheduling method that is a preemptive version of shortest job next scheduling.", 
+            "htmlSnippet": "Shortest remaining time, also known as shortest remaining time <b>first</b> (SRTF), is a <br>\nscheduling method that is a preemptive version of <b>shortest job next</b> scheduling.", 
+            "link": "https://en.wikipedia.org/wiki/Shortest_remaining_time", 
+            "cacheId": "IojXY9a2SOgJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Scheduling (computing) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Scheduling (computing) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Scheduling_(computing)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Scheduling_(computing)", 
+            "snippet": "2.1 First in first out; 2.2 Earliest deadline first; 2.3 Shortest remaining time ... The \nscheduler is an operating system module that selects the next jobs to be\u00a0...", 
+            "htmlSnippet": "2.1 <b>First</b> in <b>first</b> out; 2.2 Earliest deadline <b>first</b>; 2.3 <b>Shortest</b> remaining time ... The <br>\nscheduler is an operating system module that selects the <b>next jobs</b> to be&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Scheduling_(computing)", 
+            "cacheId": "I6wQeqME3O8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Highest response ratio next - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Highest response ratio <b>next</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Highest_response_ratio_next", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Highest_response_ratio_<b>next</b>", 
+            "snippet": "Highest Response Ratio Next (HRRN) scheduling is a non-preemptive discipline, \nsimilar to Shortest Job Next (SJN), in which the priority of each job is\u00a0...", 
+            "htmlSnippet": "Highest Response Ratio Next (HRRN) scheduling is a non-preemptive discipline, <br>\nsimilar to <b>Shortest Job Next</b> (SJN), in which the priority of each job is&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Highest_response_ratio_next", 
+            "cacheId": "-pPHi98OFKEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "SJF - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "SJF - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/SJF", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/SJF", 
+            "snippet": "Swedish Union of Journalists \u00b7 Sonic Jump Fever; Shortest job first, a scheduling \nalgorithm, also known by the name shortest job next \u00b7 St. Joseph's Fairfield,\u00a0...", 
+            "htmlSnippet": "Swedish Union of Journalists &middot; Sonic Jump Fever; Shortest job <b>first</b>, a scheduling <br>\nalgorithm, also known by the name <b>shortest job next</b> &middot; St. Joseph&#39;s Fairfield,&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/SJF", 
+            "cacheId": "dkvCCBve7O8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Shortest job next - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Shortest job next</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3AShortest_job_next", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>Shortest</b>_<b>job</b>_<b>next</b>", 
+            "snippet": "Talk:Shortest job next ... Which job does the cpu schedule using SJF if the job \nthat arrives first has the max execution time and that the others have lower burst\u00a0...", 
+            "htmlSnippet": "Talk:<b>Shortest job next</b> ... Which job does the cpu schedule using SJF if the job <br>\nthat arrives <b>first</b> has the max execution time and that the others have lower burst&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3AShortest_job_next", 
+            "cacheId": "e3r93KZp8cAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Queueing theory - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Queueing theory - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Queueing_theory", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Queueing_theory", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSqOH-tASPjR89M1aWLynmI26RJhbzD-w5C3Ff8Vg2FKyxuKWKOaVNQqBc", 
+                        "height": "170"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/ServidorParalelo.jpg/220px-ServidorParalelo.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "The M/M/1 queue is a simple model where a single server serves jobs that arrive \n... Shortest job first: The next job to be served is the one with the smallest size\u00a0...", 
+            "htmlSnippet": "The M/M/1 queue is a simple model where a single server serves <b>jobs</b> that arrive <br>\n... <b>Shortest job first</b>: The <b>next job</b> to be served is the one with the smallest size&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Queueing_theory", 
+            "cacheId": "aRkVYyqVk-sJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Johnson's rule - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Johnson&#39;s rule - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Johnson's_rule", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Johnson&#39;s_rule", 
+            "snippet": "Furthermore, the method finds the shortest makespan in the case of three work \ncenters if additional ... If that activity time is for the first work center, then schedule \nthe job first. ... The next smallest time after that is located in Job E (2.80 hours).", 
+            "htmlSnippet": "Furthermore, the method finds the <b>shortest</b> makespan in the case of three work <br>\ncenters if additional ... If that activity time is for the <b>first</b> work center, then schedule <br>\nthe <b>job first</b>. ... The <b>next</b> smallest time after that is located in <b>Job</b> E (2.80 hours).", 
+            "link": "https://en.wikipedia.org/wiki/Johnson's_rule", 
+            "cacheId": "7hnnQ7Cy4B0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "M/G/1 queue - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "M/G/1 queue - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/M/G/1_queue", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/M/G/1_queue", 
+            "snippet": "processor sharing where all jobs in the queue share the service capacity \nbetween ... preemptive shortest job first where at any moment in time the job with \nthe ... size is served; shortest remaining processing time (SRPT) where the next \njob to\u00a0...", 
+            "htmlSnippet": "processor sharing where all <b>jobs</b> in the queue share the service capacity <br>\nbetween ... preemptive <b>shortest job first</b> where at any moment in time the <b>job</b> with <br>\nthe ... size is served; <b>shortest</b> remaining processing time (SRPT) where the <b>next</b> <br>\n<b>job</b> to&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/M/G/1_queue", 
+            "cacheId": "c1BpprFZZLMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Round-robin scheduling - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Round-robin scheduling - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Round-robin_scheduling", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Round-robin_scheduling", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "280", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTo9VMmSSPw3GHPU2hJ9q8KM86v0YGDLwhk_CeC94C9gMZKLUb4qA7sWfo", 
+                        "height": "96"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Round-robin_schedule_quantum_3.png/350px-Round-robin_schedule_quantum_3.png"
+                    }
+                ]
+            }, 
+            "snippet": "The job is resumed next time a time slot is assigned to that process. ... time \nquantum, the scheduler selects the first process in the ready queue to execute. In \nthe\u00a0...", 
+            "htmlSnippet": "The <b>job</b> is resumed <b>next</b> time a time slot is assigned to that process. ... time <br>\nquantum, the scheduler selects the <b>first</b> process in the ready queue to execute. In <br>\nthe&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Round-robin_scheduling", 
+            "cacheId": "bcKinE2m2OkJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Shortest job next (or first)", 
+                "safe": "off", 
+                "searchTerms": "Shortest job next (or first)", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "7500"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Shortest job next (or first)", 
+                "safe": "off", 
+                "searchTerms": "Shortest job next (or first)", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "7500"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.39", 
+        "formattedTotalResults": "7,500", 
+        "totalResults": "7500", 
+        "searchTime": 0.390558
+    }
+}

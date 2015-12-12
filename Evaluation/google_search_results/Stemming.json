@@ -1,0 +1,192 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Stemming - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Stemming</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Stemming", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Stemming</b>", 
+            "snippet": "Stemming is the term used in linguistic morphology and information retrieval to \ndescribe the process for reducing inflected (or sometimes derived) words to their\n\u00a0...", 
+            "htmlSnippet": "<b>Stemming</b> is the term used in linguistic morphology and information retrieval to <br>\ndescribe the process for reducing inflected (or sometimes derived) words to their<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Stemming", 
+            "cacheId": "vr7tLn2ZOZUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Word stem - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Word stem - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Word_stem", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Word_stem", 
+            "snippet": "... Lexeme \u00b7 Morphological typology \u00b7 Morphology (linguistics) \u00b7 Principal parts \u00b7 \nRoot (linguistics) \u00b7 Stemming algorithms (computer science) \u00b7 Thematic vowel\u00a0...", 
+            "htmlSnippet": "... Lexeme &middot; Morphological typology &middot; Morphology (linguistics) &middot; Principal parts &middot; <br>\nRoot (linguistics) &middot; <b>Stemming</b> algorithms (computer science) &middot; Thematic vowel&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Word_stem", 
+            "cacheId": "7PZF9Ionl9cJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Stem (skiing) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Stem (skiing) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Stem_(skiing)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Stem_(skiing)", 
+            "snippet": "The technique involves stemming the uphill ski. Stemming is pushing the tail of \nthe ski outward\u2014skidding it across snow\u2014from a parallel position with the\u00a0...", 
+            "htmlSnippet": "The technique involves <b>stemming</b> the uphill ski. <b>Stemming</b> is pushing the tail of <br>\nthe ski outward\u2014skidding it across snow\u2014from a parallel position with the&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Stem_(skiing)", 
+            "cacheId": "UhiPmMdRWmYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Lemmatisation - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Lemmatisation - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Lemmatisation", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Lemmatisation", 
+            "snippet": "Lemmatisation is closely related to stemming. The difference is that a stemmer \noperates on a single word without knowledge of the context, and therefore cannot\n\u00a0...", 
+            "htmlSnippet": "Lemmatisation is closely related to <b>stemming</b>. The difference is that a stemmer <br>\noperates on a single word without knowledge of the context, and therefore cannot<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Lemmatisation", 
+            "cacheId": "oHkWgDhyZYIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Query expansion - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Query expansion - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Query_expansion", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Query_expansion", 
+            "snippet": "By stemming a user-entered term, more documents are matched,as the alternate \nword forms for a user entered term are matched as well, increasing the total\u00a0...", 
+            "htmlSnippet": "By <b>stemming</b> a user-entered term, more documents are matched,as the alternate <br>\nword forms for a user entered term are matched as well, increasing the total&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Query_expansion", 
+            "cacheId": "aNzXFDR2Lz0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Snowball (programming language) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Snowball (programming language) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Snowball_(programming_language)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Snowball_(programming_language)", 
+            "snippet": "Snowball is a small string processing programming language designed for \ncreating stemming algorithms for use in information retrieval. The Snowball \ncompiler\u00a0...", 
+            "htmlSnippet": "Snowball is a small string processing programming language designed for <br>\ncreating <b>stemming</b> algorithms for use in information retrieval. The Snowball <br>\ncompiler&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Snowball_(programming_language)", 
+            "cacheId": "98rfnsW5FigJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Stemming algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Stemming</b> algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3AStemming_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>Stemming</b>_algorithm", 
+            "snippet": "I feel this topic would best be addressed under the Stemming topic, which \ncurrently provides a redirect here. Instead, I would like to see this, and Stemmer,\n\u00a0...", 
+            "htmlSnippet": "I feel this topic would best be addressed under the <b>Stemming</b> topic, which <br>\ncurrently provides a redirect here. Instead, I would like to see this, and Stemmer,<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3AStemming_algorithm", 
+            "cacheId": "pgUvwz5PB2IJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Stemmer - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Stemmer - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Stemmer", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Stemmer", 
+            "snippet": "Stemmer, in stemming, the automated process which produces a base string in \nan attempt to represent related words; Walburga Stemmer (1892 \u2013 1928),\u00a0...", 
+            "htmlSnippet": "Stemmer, in <b>stemming</b>, the automated process which produces a base string in <br>\nan attempt to represent related words; Walburga Stemmer (1892 \u2013 1928),&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Stemmer", 
+            "cacheId": "89kLoO-rEkoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Stemming - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Stemming</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3AStemming", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>Stemming</b>", 
+            "snippet": "Lemmatization produces grammatically correct word forms, but stemming just \nremoves a series of suffixes/prefixes and/or endings. The result is not necessarily \na\u00a0...", 
+            "htmlSnippet": "Lemmatization produces grammatically correct word forms, but <b>stemming</b> just <br>\nremoves a series of suffixes/prefixes and/or endings. The result is not necessarily <br>\na&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3AStemming", 
+            "cacheId": "5mhKrwByaHEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Stephen Milne - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Stephen Milne - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Stephen_Milne", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Stephen_Milne", 
+            "pagemap": {
+                "person": [
+                    {
+                        "role": "Dandenong Stingrays (TAC Cup)"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQvq2zTD4iG4VG-QY2VqMgfIJoaPZIC8EZHIDn3E75NoqDQarrbFSguwzF6", 
+                        "height": "264"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/44._Stephen_Milne,_St_Kilda_FC_01.jpg/220px-44._Stephen_Milne,_St_Kilda_FC_01.jpg"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "bday": "1980-03-08", 
+                        "role": "Dandenong Stingrays (TAC Cup)", 
+                        "fn": "Stephen Milne"
+                    }
+                ]
+            }, 
+            "snippet": "44. Stephen Milne, St Kilda FC 01.jpg. Personal information. Nickname(s), Milney\n. Date of birth, (1980-03-08) 8 March 1980 (age 35). Original team(s)\u00a0...", 
+            "htmlSnippet": "44. Stephen Milne, St Kilda FC 01.jpg. Personal information. Nickname(s), Milney<br>\n. Date of birth, (1980-03-08) 8 March 1980 (age 35). Original team(s)&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Stephen_Milne", 
+            "cacheId": "netuhyHxSF0J"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Stemming", 
+                "safe": "off", 
+                "searchTerms": "Stemming", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "476000"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Stemming", 
+                "safe": "off", 
+                "searchTerms": "Stemming", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "476000"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.31", 
+        "formattedTotalResults": "476,000", 
+        "totalResults": "476000", 
+        "searchTime": 0.309918
+    }
+}

@@ -1,0 +1,208 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Shortest seek first - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Shortest seek first</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Shortest_seek_first", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Shortest</b>_<b>seek</b>_<b>first</b>", 
+            "snippet": "Shortest seek first (or shortest seek time first) is a secondary storage scheduling \nalgorithm to determine the motion of the disk's arm and head in servicing read\u00a0...", 
+            "htmlSnippet": "<b>Shortest seek first</b> (or shortest seek time first) is a secondary storage scheduling <br>\nalgorithm to determine the motion of the disk&#39;s arm and head in servicing read&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Shortest_seek_first", 
+            "cacheId": "jv4zM1QEBDYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Shortest seek first - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Shortest seek first</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3AShortest_seek_first", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>Shortest</b>_<b>seek</b>_<b>first</b>", 
+            "snippet": "Talk:Shortest seek first. From Wikipedia, the free encyclopedia. Jump to: \nnavigation, search. This should probably discuss \"shortest access time\" first. \nRetrieved\u00a0...", 
+            "htmlSnippet": "Talk:<b>Shortest seek first</b>. From Wikipedia, the free encyclopedia. Jump to: <br>\nnavigation, search. This should probably discuss &quot;shortest access time&quot; first. <br>\nRetrieved&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3AShortest_seek_first", 
+            "cacheId": "Zv8NgRiRw3sJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "I/O scheduling - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "I/O scheduling - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/I/O_scheduling", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/I/O_scheduling", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "189", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTA8QWV0wdtxb_8o0X6vcLrvOT01tnxx2E-pzuR81pBVOif4NKakFz1g3JN", 
+                        "height": "267"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/IO_stack_of_the_Linux_kernel.svg/440px-IO_stack_of_the_Linux_kernel.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "Random scheduling (RSS); First In, First Out (FIFO), also known as First Come ... \nShortest seek first, also known as Shortest Seek / Service Time First (SSTF)\u00a0...", 
+            "htmlSnippet": "Random scheduling (RSS); First In, First Out (FIFO), also known as First Come ... <br>\n<b>Shortest seek first</b>, also known as Shortest Seek / Service Time First (SSTF)&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/I/O_scheduling", 
+            "cacheId": "oKABiks2mBQJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Elevator algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Elevator algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Elevator_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Elevator_algorithm", 
+            "snippet": "The following is an example of how to calculate average disk seek times for both \n... However, the elevator algorithm is not always better than shortest seek first,\u00a0...", 
+            "htmlSnippet": "The following is an example of how to calculate average disk seek times for both <br>\n... However, the elevator algorithm is not always better than <b>shortest seek first</b>,&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Elevator_algorithm", 
+            "cacheId": "kIU1zYwhgFcJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "LOOK algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "LOOK algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/LOOK_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/LOOK_algorithm", 
+            "snippet": "LOOK behaves almost identically to Shortest seek time first (SSTF), but avoids \nthe starvation problem of SSTF. This is because LOOK is biased against the area\n\u00a0...", 
+            "htmlSnippet": "LOOK behaves almost identically to <b>Shortest seek</b> time <b>first</b> (SSTF), but avoids <br>\nthe starvation problem of SSTF. This is because LOOK is biased against the area<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/LOOK_algorithm", 
+            "cacheId": "KtBuDbax9g8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "User:Prcrfsy/Books/OS - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "User:Prcrfsy/Books/OS - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/User:Prcrfsy/Books/OS", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/User:Prcrfsy/Books/OS", 
+            "snippet": "... Allocation Table \u00b7 NTFS \u00b7 Shortest seek first \u00b7 Elevator algorithm \u00b7 I/O scheduling \n\u00b7 N-Step-SCAN \u00b7 FSCAN \u00b7 Direct memory access \u00b7 Polling (computer science)\u00a0...", 
+            "htmlSnippet": "... Allocation Table &middot; NTFS &middot; <b>Shortest seek first</b> &middot; Elevator algorithm &middot; I/O scheduling <br>\n&middot; N-Step-SCAN &middot; FSCAN &middot; Direct memory access &middot; Polling (computer science)&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/User:Prcrfsy/Books/OS", 
+            "cacheId": "et69oJ-ywb8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Category:Disk scheduling algorithms - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Category:Disk scheduling algorithms - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Category:Disk_scheduling_algorithms", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Category:Disk_scheduling_algorithms", 
+            "snippet": "Shortest seek first. Retrieved from \"https://en.wikipedia.org/w/index.php?title=\nCategory:Disk_scheduling_algorithms&oldid=378665059\". Categories: \nQueueing\u00a0...", 
+            "htmlSnippet": "<b>Shortest seek first</b>. Retrieved from &quot;https://en.wikipedia.org/w/index.php?title=<br>\nCategory:Disk_scheduling_algorithms&amp;oldid=378665059&quot;. Categories: <br>\nQueueing&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Category:Disk_scheduling_algorithms", 
+            "cacheId": "9RiaArerBxgJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "SSF - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>SSF</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/SSF", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/SSF", 
+            "snippet": "Shortest seek first, a secondary storage scheduling algorithm to determine the \nmotion of the disk's arm and head in servicing read and write requests\u00a0...", 
+            "htmlSnippet": "<b>Shortest seek first</b>, a secondary storage scheduling algorithm to determine the <br>\nmotion of the disk&#39;s arm and head in servicing read and write requests&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/SSF", 
+            "cacheId": "eZT5draXy2YJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Shortest remaining time - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Shortest</b> remaining time - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Shortest_remaining_time", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Shortest</b>_remaining_time", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "280", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWT6CuLPa8j2HNvLsgxnYa58FMOMi8LXNZqO5SQBy0MQq8xuNhrF7nAgs", 
+                        "height": "116"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Shortest_remaining_time.png/350px-Shortest_remaining_time.png"
+                    }
+                ]
+            }, 
+            "snippet": "Shortest remaining time, also known as shortest remaining time first (SRTF), is a \nscheduling method that is a preemptive version of shortest job next scheduling.", 
+            "htmlSnippet": "<b>Shortest</b> remaining time, also known as <b>shortest</b> remaining time <b>first</b> (SRTF), is a <br>\nscheduling method that is a preemptive version of <b>shortest</b> job next scheduling.", 
+            "link": "https://en.wikipedia.org/wiki/Shortest_remaining_time", 
+            "cacheId": "IojXY9a2SOgJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "List of Presidents of the United States by time in office - Wikipedia ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "List of Presidents of the United States by time in office - Wikipedia <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../List_of_Presidents_of_the_United_States_by_time _in_office", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../List_of_Presidents_of_the_United_States_by_time _in_office", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "112", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSKmMSwa4bPiLo4iXu4G2MhVMFlFzZQ-r4KTFLbWtlHe_iYU1iMyVZxEng", 
+                        "height": "132"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/FDR_in_1933.jpg/141px-FDR_in_1933.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "Shortest presidency 31 days. William ... Did not seek renomination for a second \nfull term. ... First term was one day shorter than a normal term due to leap days.", 
+            "htmlSnippet": "<b>Shortest</b> presidency 31 days. William ... Did not <b>seek</b> renomination for a second <br>\nfull term. ... <b>First</b> term was one day shorter than a normal term due to leap days.", 
+            "link": "https://en.wikipedia.org/wiki/List_of_Presidents_of_the_United_States_by_time_in_office", 
+            "cacheId": "Zc74WDgI0UMJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Shortest seek first", 
+                "safe": "off", 
+                "searchTerms": "Shortest seek first", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "42600"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Shortest seek first", 
+                "safe": "off", 
+                "searchTerms": "Shortest seek first", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "42600"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.30", 
+        "formattedTotalResults": "42,600", 
+        "totalResults": "42600", 
+        "searchTime": 0.300589
+    }
+}

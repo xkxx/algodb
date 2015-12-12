@@ -1,0 +1,166 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "New York State Identification and Intelligence System - Wikipedia ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>New York State Identification and Intelligence System</b> - Wikipedia <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../New_York_State_Identification_and_Intelligence_ System", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../New_York_State_Identification_and_Intelligence_ System", 
+            "snippet": "The New York State Identification and Intelligence System Phonetic Code, \ncommonly known as NYSIIS, is a phonetic algorithm devised in 1970 as part of \nthe\u00a0...", 
+            "htmlSnippet": "The <b>New York State Identification and Intelligence System</b> Phonetic Code, <br>\ncommonly known as <b>NYSIIS</b>, is a phonetic algorithm devised in 1970 as part of <br>\nthe&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/New_York_State_Identification_and_Intelligence_System", 
+            "cacheId": "Wgwaa2sU_80J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Soundex - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Soundex - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Soundex", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Soundex", 
+            "snippet": "The NYSIIS algorithm was introduced by the New York State Identification and \nIntelligence System in 1970 as an improvement to the Soundex algorithm. \nNYSIIS\u00a0...", 
+            "htmlSnippet": "The <b>NYSIIS</b> algorithm was introduced by the New York State Identification and <br>\nIntelligence System in 1970 as an improvement to the Soundex algorithm. <br>\n<b>NYSIIS</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Soundex", 
+            "cacheId": "_8vvk-gNU0gJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Phonetic algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Phonetic algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Phonetic_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Phonetic_algorithm", 
+            "snippet": "New York State Identification and Intelligence System (NYSIIS), which maps \nsimilar phonemes to the same letter. The result is a string that can be pronounced\n\u00a0...", 
+            "htmlSnippet": "New York State Identification and Intelligence System (<b>NYSIIS</b>), which maps <br>\nsimilar phonemes to the same letter. The result is a string that can be pronounced<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Phonetic_algorithm", 
+            "cacheId": "TQA48lIjqk0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Record linkage - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Record linkage - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Record_linkage", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Record_linkage", 
+            "snippet": "Running names through a phonetic algorithm such as Soundex, NYSIIS, or \nmetaphone, can help to resolve these types of problems (though it may still \nstumble\u00a0...", 
+            "htmlSnippet": "Running names through a phonetic algorithm such as Soundex, <b>NYSIIS</b>, or <br>\nmetaphone, can help to resolve these types of problems (though it may still <br>\nstumble&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Record_linkage", 
+            "cacheId": "46hxlGaVzzQJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Match rating approach - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Match rating approach - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Match_rating_approach", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Match_rating_approach", 
+            "snippet": "Match rating approach performs well with names containing the letter \"y\" unlike \nthe original flavour of the NYSIIS algorithm. For example, the surnames \"Smith\"\u00a0...", 
+            "htmlSnippet": "Match rating approach performs well with names containing the letter &quot;y&quot; unlike <br>\nthe original flavour of the <b>NYSIIS</b> algorithm. For example, the surnames &quot;Smith&quot;&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Match_rating_approach", 
+            "cacheId": "bgsadhRR9nAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "User:Saranary - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "User:Saranary - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/User:Saranary", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/User:Saranary", 
+            "snippet": "Hello! I go by Saranary, which is the NYSIIS encoding of my name, Sarah Marie. \nUnder the Soundex system, I'd go by S600M600.", 
+            "htmlSnippet": "Hello! I go by Saranary, which is the <b>NYSIIS</b> encoding of my name, Sarah Marie. <br>\nUnder the Soundex system, I&#39;d go by S600M600.", 
+            "link": "https://en.wikipedia.org/wiki/User:Saranary", 
+            "cacheId": "WtoKcVlkvHYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "User:Thegerf/Sandbox - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "User:Thegerf/Sandbox - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/User:Thegerf/Sandbox", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/User:Thegerf/Sandbox", 
+            "snippet": "Running names through a phonetic algorithm such as Soundex, NYSIIS, or \nmetaphone, can help to resolve these types of problems (though it may still \nstumble\u00a0...", 
+            "htmlSnippet": "Running names through a phonetic algorithm such as Soundex, <b>NYSIIS</b>, or <br>\nmetaphone, can help to resolve these types of problems (though it may still <br>\nstumble&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/User:Thegerf/Sandbox", 
+            "cacheId": "UjfuiSircZoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Wikipedia talk:Tools/Archive 1 - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Wikipedia talk:Tools/Archive 1 - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Wikipedia_talk:Tools/Archive_1", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Wikipedia_talk:Tools/Archive_1", 
+            "snippet": "The New York State Identification and Intelligence System (NYSIIS) code was \ndeveloped in 1970 or so to cope with just that problem, and produces a\u00a0...", 
+            "htmlSnippet": "The New York State Identification and Intelligence System (<b>NYSIIS</b>) code was <br>\ndeveloped in 1970 or so to cope with just that problem, and produces a&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Wikipedia_talk:Tools/Archive_1", 
+            "cacheId": "gJHTt5z59hsJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "List of terms relating to algorithms and data structures - Wikipedia ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "List of terms relating to algorithms and data structures - Wikipedia <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../List_of_terms_relating_to_algorithms_and_data_ structures", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../List_of_terms_relating_to_algorithms_and_data_ structures", 
+            "snippet": "... machine \u00b7 nonterminal node \u00b7 nor \u00b7 not \u00b7 Not So Naive \u00b7 NP \u00b7 NP-complete \u00b7 NP-\ncomplete language \u00b7 NP-hard \u00b7 n queens \u00b7 nullary function \u00b7 null tree \u00b7 NYSIIS\u00a0...", 
+            "htmlSnippet": "... machine &middot; nonterminal node &middot; nor &middot; not &middot; Not So Naive &middot; NP &middot; NP-complete &middot; NP-<br>\ncomplete language &middot; NP-hard &middot; n queens &middot; nullary function &middot; null tree &middot; <b>NYSIIS</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/List_of_terms_relating_to_algorithms_and_data_structures", 
+            "cacheId": "I9ZgFcoIPGUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "List of algorithms - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "List of algorithms - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Graph_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Graph_algorithm", 
+            "snippet": "... when pronounced in English; NYSIIS: phonetic algorithm, improves on \nSoundex \u00b7 Soundex: a phonetic algorithm for indexing names by sound, as \npronounced\u00a0...", 
+            "htmlSnippet": "... when pronounced in English; <b>NYSIIS</b>: phonetic algorithm, improves on <br>\nSoundex &middot; Soundex: a phonetic algorithm for indexing names by sound, as <br>\npronounced&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Graph_algorithm", 
+            "cacheId": "5_17Y3LZhAoJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - NYSIIS", 
+                "safe": "off", 
+                "searchTerms": "NYSIIS", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "15"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - NYSIIS", 
+                "safe": "off", 
+                "searchTerms": "NYSIIS", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "15"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.24", 
+        "formattedTotalResults": "15", 
+        "totalResults": "15", 
+        "searchTime": 0.23977
+    }
+}

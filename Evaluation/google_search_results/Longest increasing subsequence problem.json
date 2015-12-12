@@ -1,0 +1,208 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Longest increasing subsequence - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Longest increasing subsequence</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Longest_increasing_subsequence", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Longest</b>_<b>increasing</b>_<b>subsequence</b>", 
+            "snippet": "[edit]. The longest increasing subsequence problem is closely related to the \nlongest common\u00a0...", 
+            "htmlSnippet": "[edit]. The <b>longest increasing subsequence problem</b> is closely related to the <br>\nlongest common&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Longest_increasing_subsequence", 
+            "cacheId": "wz1Eza2rqhsJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Longest alternating subsequence - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Longest</b> alternating <b>subsequence</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Longest_alternating_subsequence", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Longest</b>_alternating_<b>subsequence</b>", 
+            "snippet": "The longest alternating subsequence problem is solvable in time O(n) , where n \n... Longest increasing subsequence \u00b7 Longest common subsequence problem\u00a0...", 
+            "htmlSnippet": "The longest alternating subsequence <b>problem</b> is solvable in time O(n) , where n <br>\n... <b>Longest increasing subsequence</b> &middot; Longest common subsequence <b>problem</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Longest_alternating_subsequence", 
+            "cacheId": "5cu6Ieid0MYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Erd\u0151s\u2013Szekeres theorem - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Erd\u0151s\u2013Szekeres theorem - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Erd\u0151s\u2013Szekeres_theorem", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Erd\u0151s\u2013Szekeres_theorem", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "192", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR2Z6e_kTES6j9WSWTChGnmtq-KkUYcIYSLhVHNvP8hwRqYKBTYbsc1DH4", 
+                        "height": "192"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Monotone-subseq-17-5.svg/240px-Monotone-subseq-17-5.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "1,2,3 has an increasing subsequence consisting of all three numbers; 1,3,2 has a \ndecreasing subsequence 3,2 .... Longest increasing subsequence problem\u00a0...", 
+            "htmlSnippet": "1,2,3 has an increasing subsequence consisting of all three numbers; 1,3,2 has a <br>\ndecreasing subsequence 3,2 .... <b>Longest increasing subsequence problem</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Erd%C5%91s%E2%80%93Szekeres_theorem", 
+            "cacheId": "zFABnxsJO4UJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Longest common subsequence problem - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Longest</b> common <b>subsequence problem</b> - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../Longest_common_subsequence_problem", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../<b>Longest</b>_common_<b>subsequence</b>_<b>problem</b>", 
+            "snippet": "Not to be confused with longest common substring problem. The longest \ncommon subsequence (LCS) problem is the problem of finding the longest ..... \nLongest increasing subsequence \u00b7 Longest alternating subsequence \u00b7 \nLevenshtein\u00a0...", 
+            "htmlSnippet": "Not to be confused with longest common substring <b>problem</b>. The longest <br>\ncommon subsequence (LCS) <b>problem</b> is the <b>problem</b> of finding the longest ..... <br>\n<b>Longest increasing subsequence</b> &middot; Longest alternating subsequence &middot; <br>\nLevenshtein&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Longest_common_subsequence_problem", 
+            "cacheId": "MlLnUJJMUrQJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Patience sorting - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Patience sorting - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Patience_sorting", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Patience_sorting", 
+            "snippet": "[hide]. 1 Overview. 1.1 Analysis. 2 Relations to other problems. 2.1 Algorithm for \nfinding a longest increasing subsequence. 3 History; 4 Use; 5 References\u00a0...", 
+            "htmlSnippet": "[hide]. 1 Overview. 1.1 Analysis. 2 Relations to other <b>problems</b>. 2.1 Algorithm for <br>\nfinding a <b>longest increasing subsequence</b>. 3 History; 4 Use; 5 References&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Patience_sorting", 
+            "cacheId": "lA5vTJwLC8cJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Longest increasing subsequence - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Longest increasing subsequence</b> - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../Talk%3ALongest_increasing_subsequence", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Talk%3A<b>Longest</b>_<b>increasing</b>_<b>subsequence</b>", 
+            "snippet": "The nontrivial problem is to find the largest non-decreasing sequence in an ... \nThe longest increasing subsequence of length 0 is encountered for the first time \nat\u00a0...", 
+            "htmlSnippet": "The nontrivial <b>problem</b> is to find the largest non-decreasing sequence in an ... <br>\nThe <b>longest increasing subsequence</b> of length 0 is encountered for the first time <br>\nat&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3ALongest_increasing_subsequence", 
+            "cacheId": "k9AGoiLuJ_IJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Category:Problems on strings - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Category:<b>Problems</b> on strings - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Category:Problems_on_strings", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Category:<b>Problems</b>_on_strings", 
+            "snippet": "Pages in category \"Problems on strings\" ... Longest common subsequence \nproblem \u00b7 Longest common substring problem \u00b7 Longest increasing subsequence\n\u00a0...", 
+            "htmlSnippet": "Pages in category &quot;<b>Problems</b> on strings&quot; ... Longest common subsequence <br>\n<b>problem</b> &middot; Longest common substring <b>problem</b> &middot; <b>Longest increasing subsequence</b><br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Category:Problems_on_strings", 
+            "cacheId": "jWUpamEYS5kJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Optimal substructure - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Optimal substructure - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Optimal_substructure", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Optimal_substructure", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "160", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRbrLDgIqahGJD_Fp_ORkC7e1zHX5zSKmTTRedWhTA7YJubqoq9sYfAExo", 
+                        "height": "85"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Shortest_path_optimal_substructure.svg/200px-Shortest_path_optimal_substructure.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "In computer science, a problem is said to have optimal substructure if an optimal \n... Longest common subsequence problem \u00b7 Longest increasing subsequence\u00a0...", 
+            "htmlSnippet": "In computer science, a <b>problem</b> is said to have optimal substructure if an optimal <br>\n... Longest common subsequence <b>problem</b> &middot; <b>Longest increasing subsequence</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Optimal_substructure", 
+            "cacheId": "Pm0syQDgP4AJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Subsequence - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Subsequence</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Subsequence", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Subsequence</b>", 
+            "snippet": "In mathematics, a subsequence is a sequence that can be derived from another \n... Limit superior and limit inferior \u00b7 Longest increasing subsequence problem\u00a0...", 
+            "htmlSnippet": "In mathematics, a subsequence is a sequence that can be derived from another <br>\n... Limit superior and limit inferior &middot; <b>Longest increasing subsequence problem</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Subsequence", 
+            "cacheId": "HZSTRHLzC1kJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Plancherel measure - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Plancherel measure - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Plancherel_measure", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Plancherel_measure", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "131", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk-j-uhjxuDhZXZphH5MDQwZAYhz_ofh1LLynyg1E1w49zbDkc4ELQ6O0", 
+                        "height": "43"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/math/7/4/7/747103744902c21f51324b1f59267537.png"
+                    }
+                ]
+            }, 
+            "snippet": "Plancherel measure appears naturally in combinatorial and probabilistic \nproblems, especially in the study of longest increasing subsequence of a random\n\u00a0...", 
+            "htmlSnippet": "Plancherel measure appears naturally in combinatorial and probabilistic <br>\n<b>problems</b>, especially in the study of <b>longest increasing subsequence</b> of a random<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Plancherel_measure", 
+            "cacheId": "NnFO58SCWbQJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Longest increasing subsequence problem", 
+                "safe": "off", 
+                "searchTerms": "Longest increasing subsequence problem", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "112"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Longest increasing subsequence problem", 
+                "safe": "off", 
+                "searchTerms": "Longest increasing subsequence problem", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "112"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.26", 
+        "formattedTotalResults": "112", 
+        "totalResults": "112", 
+        "searchTime": 0.262283
+    }
+}

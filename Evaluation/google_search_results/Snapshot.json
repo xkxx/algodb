@@ -1,0 +1,234 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Snapshot (photography) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Snapshot</b> (photography) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Snapshot_(photography)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Snapshot</b>_(photography)", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRetVlgJ1Qk454mdjD5p41lOUWcKXUfe3gFdfihdDksubNOxtibZ6S_49Q", 
+                        "height": "132"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Snapshot-baby-antics.jpg/220px-Snapshot-baby-antics.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "A snapshot is popularly defined as a photograph that is \"shot\" spontaneously and \nquickly, most often without artistic or journalistic intent. Snapshots are\u00a0...", 
+            "htmlSnippet": "A <b>snapshot</b> is popularly defined as a photograph that is &quot;shot&quot; spontaneously and <br>\nquickly, most often without artistic or journalistic intent. Snapshots are&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Snapshot_(photography)", 
+            "cacheId": "35sdUJQcBMIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Snapshot (computer storage) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Snapshot</b> (computer storage) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Snapshot_(computer_storage)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Snapshot</b>_(computer_storage)", 
+            "snippet": "In computer systems, a snapshot is the state of a system at a particular point in \ntime. The term was coined as an analogy to that in photography. It can refer to an\n\u00a0...", 
+            "htmlSnippet": "In computer systems, a <b>snapshot</b> is the state of a system at a particular point in <br>\ntime. The term was coined as an analogy to that in photography. It can refer to an<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Snapshot_(computer_storage)", 
+            "cacheId": "EYdRaDBhcWAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Snapshot - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Snapshot</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Snapshot", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Snapshot</b>", 
+            "snippet": "Snapshot or snap shot in the usual sense is an amateur photograph taken \nwithout preparation, see Snapshot (photography). It may also refer to:\u00a0...", 
+            "htmlSnippet": "<b>Snapshot</b> or snap shot in the usual sense is an amateur photograph taken <br>\nwithout preparation, see <b>Snapshot</b> (photography). It may also refer to:&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Snapshot", 
+            "cacheId": "sYKX8O08EhYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Snapshot isolation - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Snapshot</b> isolation - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Snapshot_isolation", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Snapshot</b>_isolation", 
+            "snippet": "In databases, and transaction processing (transaction management), snapshot \nisolation is a guarantee that all reads made in a transaction will see a consistent\n\u00a0...", 
+            "htmlSnippet": "In databases, and transaction processing (transaction management), <b>snapshot</b> <br>\nisolation is a guarantee that all reads made in a transaction will see a consistent<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Snapshot_isolation", 
+            "cacheId": "94de7PRdghMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Snapshot algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Snapshot</b> algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Snapshot_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Snapshot</b>_algorithm", 
+            "snippet": "The snapshot algorithm is an algorithm used in distributed systems for recording \na consistent global state of an asynchronous system. The algorithm discussed\u00a0...", 
+            "htmlSnippet": "The <b>snapshot</b> algorithm is an algorithm used in distributed systems for recording <br>\na consistent global state of an asynchronous system. The algorithm discussed&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Snapshot_algorithm", 
+            "cacheId": "kiUKI1pjBGwJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Snapshot aesthetic - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Snapshot</b> aesthetic - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Snapshot_aesthetic", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Snapshot</b>_aesthetic", 
+            "snippet": "The term snapshot aesthetic refers to a trend within fine art photography in the \nUSA from around 1963. The style typically features apparently banal everyday\u00a0...", 
+            "htmlSnippet": "The term <b>snapshot</b> aesthetic refers to a trend within fine art photography in the <br>\nUSA from around 1963. The style typically features apparently banal everyday&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Snapshot_aesthetic", 
+            "cacheId": "BI-EQtPt4MkJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Snapshot (song) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Snapshot</b> (song) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Snapshot_(song)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Snapshot</b>_(song)", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "160", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQy44Fr1Ru9MFENj7Jj7Lr8DC4yGUK9UdD44Kx-Y9xnrklgGLHPGz9rbd8", 
+                        "height": "160"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/6/69/Rupaulsnapshot.jpg"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "nickname": "RuPaul", 
+                        "fn": "RuPaul"
+                    }
+                ]
+            }, 
+            "snippet": "\"Snapshot\" is a song by RuPaul, released as the first single from his second \nalbum, ... Snapshot (Kupper's Funkin Dub) (8:53); Snapshot (Kupper's Radio Edit\n)\u00a0...", 
+            "htmlSnippet": "&quot;<b>Snapshot</b>&quot; is a song by RuPaul, released as the first single from his second <br>\nalbum, ... <b>Snapshot</b> (Kupper&#39;s Funkin Dub) (8:53); <b>Snapshot</b> (Kupper&#39;s Radio Edit<br>\n)&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Snapshot_(song)", 
+            "cacheId": "WMOIWSI1HtgJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Snapshot (Mission of Burma album) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Snapshot</b> (Mission of Burma album) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Snapshot_(Mission_of_Burma_album)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Snapshot</b>_(Mission_of_Burma_album)", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ2rZqx9FjKD9H3MxHo7Vd_g_muo-aY1Loh7T2b1qPdnhxXERHHbSK7hkju", 
+                        "height": "176"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/2/25/Mission_of_Burma_-_Snapshot_-_Cover.jpg/220px-Mission_of_Burma_-_Snapshot_-_Cover.jpg"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "fn": "Mission of Burma"
+                    }
+                ]
+            }, 
+            "snippet": "Snapshot is a live album by Boston-based band Mission of Burma. It was \nrecorded in front of a small audience at Boston's Q Division Studios for broadcast \non\u00a0...", 
+            "htmlSnippet": "<b>Snapshot</b> is a live album by Boston-based band Mission of Burma. It was <br>\nrecorded in front of a small audience at Boston&#39;s Q Division Studios for broadcast <br>\non&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Snapshot_(Mission_of_Burma_album)", 
+            "cacheId": "NPOiCkQrgTUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Snapshot (Sylvia song) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Snapshot</b> (Sylvia song) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Snapshot_(Sylvia_song)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Snapshot</b>_(Sylvia_song)", 
+            "pagemap": {
+                "hcard": [
+                    {
+                        "nickname": "Sylvia", 
+                        "fn": "Sylvia"
+                    }
+                ]
+            }, 
+            "snippet": "\"Snapshot\" is a song written by Kye Fleming and Dennis Morgan, and recorded \nby American country music artist Sylvia. It was released in May 1983 as the first\u00a0...", 
+            "htmlSnippet": "&quot;<b>Snapshot</b>&quot; is a song written by Kye Fleming and Dennis Morgan, and recorded <br>\nby American country music artist Sylvia. It was released in May 1983 as the first&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Snapshot_(Sylvia_song)", 
+            "cacheId": "Q5gCkf-VnicJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Family Snapshot - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Family <b>Snapshot</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Family_Snapshot", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Family_<b>Snapshot</b>", 
+            "pagemap": {
+                "hcard": [
+                    {
+                        "fn": "Peter Gabriel"
+                    }
+                ]
+            }, 
+            "snippet": "\"Family Snapshot\" is a song written and performed by English rock musician \nPeter Gabriel, appearing on his third eponymous album. The song was inspired \nby\u00a0...", 
+            "htmlSnippet": "&quot;Family <b>Snapshot</b>&quot; is a song written and performed by English rock musician <br>\nPeter Gabriel, appearing on his third eponymous album. The song was inspired <br>\nby&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Family_Snapshot", 
+            "cacheId": "VYTdiO9RO4AJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Snapshot", 
+                "safe": "off", 
+                "searchTerms": "Snapshot", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "418000"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Snapshot", 
+                "safe": "off", 
+                "searchTerms": "Snapshot", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "418000"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.30", 
+        "formattedTotalResults": "418,000", 
+        "totalResults": "418000", 
+        "searchTime": 0.297476
+    }
+}

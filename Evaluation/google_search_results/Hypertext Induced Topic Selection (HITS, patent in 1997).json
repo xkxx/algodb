@@ -1,0 +1,230 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "HITS algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>HITS</b> algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/HITS_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>HITS</b>_algorithm", 
+            "snippet": "Hyperlink-Induced Topic Search (HITS; also known as hubs and authorities) is a \nlink analysis algorithm that rates Web pages, developed by Jon Kleinberg.", 
+            "htmlSnippet": "<b>Hyperlink</b>-<b>Induced Topic</b> Search (<b>HITS</b>; also known as hubs and authorities) is a <br>\nlink analysis algorithm that rates Web pages, developed by Jon Kleinberg.", 
+            "link": "https://en.wikipedia.org/wiki/HITS_algorithm", 
+            "cacheId": "sBtmXeypEqQJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Pete Townshend - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Pete Townshend - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Pete_Townshend", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Pete_Townshend", 
+            "pagemap": {
+                "person": [
+                    {
+                        "role": "Musician singer-songwriter composer author"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSe7TmhFK0faG73-epBGJ-aRh-gnJGzUev0EaORsnrSwePw3wWeyjfRh--z", 
+                        "height": "240"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Pete_Townshend_(2012).jpg/220px-Pete_Townshend_(2012).jpg"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "url_text": "thewho.com", 
+                        "url": "thewho.com", 
+                        "note": "Vocals guitar", 
+                        "bday": "1945-05-19", 
+                        "role": "Musician singer-songwriter composer author", 
+                        "nickname": "Peter Dennis Blandford Townshend", 
+                        "fn": "Pete Townshend"
+                    }, 
+                    {
+                        "fn": "Pete Townshend"
+                    }, 
+                    {
+                        "fn": "The Who"
+                    }
+                ]
+            }, 
+            "snippet": "He has also written more than 100 songs that have appeared on his solo ..... In \n1997 Townshend signed a deal with Little, Brown and Company ... When these \nrecords became widely bootlegged, Townshend put together a selection of the \ntracks ... to be the result of noise-induced hearing loss from his extensive \nexposure to\u00a0...", 
+            "htmlSnippet": "He has also written more than 100 <b>songs</b> that have appeared on his solo ..... In <br>\n<b>1997</b> Townshend signed a deal with Little, Brown and Company ... When these <br>\nrecords became widely bootlegged, Townshend put together a <b>selection</b> of the <br>\ntracks ... to be the result of noise-<b>induced</b> hearing loss from his extensive <br>\nexposure to&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Pete_Townshend", 
+            "cacheId": "oW7vDiT6BSUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Wikipedia:Reference desk archive/Science/May 2006 - Wikipedia ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Wikipedia:Reference desk archive/Science/May 2006 - Wikipedia <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Wikipedia:Reference_desk.../May_2006", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Wikipedia:Reference_desk.../May_2006", 
+            "snippet": "I know nothing on this topic beyond fullerene purification. .... Very good question. \nit looks plausible, but (other than Wikipedia mirrors) gets virtually no google hits. \n..... Hi i have a used Toshiba television set from 1997 which has only Closed ...... I \nalways thought Oregon Trail had some aspects of natural selection involved in it\n\u00a0...", 
+            "htmlSnippet": "I know nothing on this <b>topic</b> beyond fullerene purification. .... Very good question. <br>\nit looks plausible, but (other than Wikipedia mirrors) gets virtually no google <b>hits</b>. <br>\n..... Hi i have a used Toshiba television set from <b>1997</b> which has only Closed ...... I <br>\nalways thought Oregon Trail had some aspects of natural <b>selection</b> involved in it<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Wikipedia:Reference_desk_archive/Science/May_2006"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "User:Ochado/PR - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "User:Ochado/PR - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/User:Ochado/PR", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/User:Ochado/PR", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "242", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5HYp552PWtcOaQRshjZKj1thVdF3jCw-Wkx_FpgHMC2TYw9q4_jJya6A", 
+                        "height": "208"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Academic_wikipedia_05-08.JPG/450px-Academic_wikipedia_05-08.JPG"
+                    }
+                ]
+            }, 
+            "snippet": "HITS (Hyperlink-Induced Topic Search) is a network analysis algorithm that has \n..... knowledge sharing media, including scholarly articles, patents, Wikipedia, \nand ...... Health {(London,} England: 1997) Volume 14 Pages 398--414, 2010, [\n275] ...... A group of 14 K-12 students was chosen by a four-stage selection \nmethod to\u00a0...", 
+            "htmlSnippet": "<b>HITS</b> (<b>Hyperlink</b>-<b>Induced Topic</b> Search) is a network analysis algorithm that has <br>\n..... knowledge sharing media, including scholarly articles, <b>patents</b>, Wikipedia, <br>\nand ...... Health {(London,} England: <b>1997</b>) Volume 14 Pages 398--414, 2010, [<br>\n275] ...... A group of 14 K-12 students was chosen by a four-stage <b>selection</b> <br>\nmethod to&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/User:Ochado/PR"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Portal:Oregon/Selected biography - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Portal:Oregon/Selected biography - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Portal:Oregon/Selected_biography", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Portal:Oregon/Selected_biography", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "92", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQynHyvn873zXt7jZHDBN5lH2PKGjdi7RMQSb8RPwONhoq9d-oAgcLOwQ", 
+                        "height": "69"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Elliott_Smith_Bumbershoot_2000.jpg/115px-Elliott_Smith_Bumbershoot_2000.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "As frontman of the Pixies, Black's songs (such as \"Where Is My Mind? ... In 1997, \nGroening got together with David X. Cohen and developed Futurama, .... as bit-\nmapped screens, groupware, hypertext and precursors to the graphical user \ninterface. In 1967, Engelbart applied for and later received a patent for the \nwooden\u00a0...", 
+            "htmlSnippet": "As frontman of the Pixies, Black&#39;s <b>songs</b> (such as &quot;Where Is My Mind? ... In <b>1997</b>, <br>\nGroening got together with David X. Cohen and developed Futurama, .... as bit-<br>\nmapped screens, groupware, <b>hypertext</b> and precursors to the graphical user <br>\ninterface. In 1967, Engelbart applied for and later received a <b>patent</b> for the <br>\nwooden&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Portal:Oregon/Selected_biography", 
+            "cacheId": "WhXFm2zw6qIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Optical fiber - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Optical fiber - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Optical_fiber", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Optical_fiber", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTF3MdGpAtJytXhQfc5AojGPngJpWYbTAlnq6BdgE-JwcVtYWf3qSwMTbQ", 
+                        "height": "266"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Fibreoptic.jpg/220px-Fibreoptic.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "The first fiber optic semi-flexible gastroscope was patented by Basil ..... When \nlight traveling in an optically dense medium hits a boundary at a steep .... The \ndesign of any optically transparent device requires the selection of ... of thermally \ninduced vibrations of the constituent atoms and molecules of the ...... Diverse \ntopics.", 
+            "htmlSnippet": "The first fiber optic semi-flexible gastroscope was <b>patented</b> by Basil ..... When <br>\nlight traveling in an optically dense medium <b>hits</b> a boundary at a steep .... The <br>\ndesign of any optically transparent device requires the <b>selection</b> of ... of thermally <br>\n<b>induced</b> vibrations of the constituent atoms and molecules of the ...... Diverse <br>\n<b>topics</b>.", 
+            "link": "https://en.wikipedia.org/wiki/Optical_fiber", 
+            "cacheId": "JqB9-WyzOhsJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "User:Moudy83/updated PR articles - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "User:Moudy83/updated PR articles - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/User:Moudy83/updated_PR_articles", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/User:Moudy83/updated_PR_articles", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "242", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5HYp552PWtcOaQRshjZKj1thVdF3jCw-Wkx_FpgHMC2TYw9q4_jJya6A", 
+                        "height": "208"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Academic_wikipedia_05-08.JPG/450px-Academic_wikipedia_05-08.JPG"
+                    }
+                ]
+            }, 
+            "snippet": "HITS (Hyperlink-Induced Topic Search) is a network analysis algorithm that has \nbeen .... These and other findings have important implications for the selection \nand ...... knowledge sharing media, including scholarly articles, patents, \nWikipedia, ...... from Frankfurt in 1997 published comprehensive monograph \nabout this great\u00a0...", 
+            "htmlSnippet": "<b>HITS</b> (<b>Hyperlink</b>-<b>Induced Topic</b> Search) is a network analysis algorithm that has <br>\nbeen .... These and other findings have important implications for the <b>selection</b> <br>\nand ...... knowledge sharing media, including scholarly articles, <b>patents</b>, <br>\nWikipedia, ...... from Frankfurt in <b>1997</b> published comprehensive monograph <br>\nabout this great&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/User:Moudy83/updated_PR_articles"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Cancer/Archive 3 - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:Cancer/Archive 3 - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3ACancer/Archive_3", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3ACancer/Archive_3", 
+            "snippet": "I agree with you that it hits notability criteria - I think we just differ on whether it \nshould be .... Vitamin D is a hot topic right now, and may very well turn out to have \n... way too many young folks with metastatic melanoma - but maybe that's \nselection bias. ..... features of the cells in the mycoplasma induced transformation \nprocess.", 
+            "htmlSnippet": "I agree with you that it <b>hits</b> notability criteria - I think we just differ on whether it <br>\nshould be .... Vitamin D is a hot <b>topic</b> right now, and may very well turn out to have <br>\n... way too many young folks with metastatic melanoma - but maybe that&#39;s <br>\n<b>selection</b> bias. ..... features of the cells in the mycoplasma <b>induced</b> transformation <br>\nprocess.", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3ACancer/Archive_3", 
+            "cacheId": "4O-QxyjZHV8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Wikipedia:Reference desk archive/July 2004 - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Wikipedia:Reference desk archive/July 2004 - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Wikipedia:Reference.../July_2004", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Wikipedia:Reference.../July_2004", 
+            "snippet": "I believe it's Mark having fun with the fact that luckygirl2 accidentally hit the 5 key \nwhile ..... I was hurt while working as a certified nurses aid in 1997 repeatedly, my \n.... lucrative for the pharmaceutical companies who no doubt protect their patent. \n..... At this point, I'm mainly interested in introductory books on the topic I can\u00a0...", 
+            "htmlSnippet": "I believe it&#39;s Mark having fun with the fact that luckygirl2 accidentally <b>hit</b> the 5 key <br>\nwhile ..... I was hurt while working as a certified nurses aid in <b>1997</b> repeatedly, my <br>\n.... lucrative for the pharmaceutical companies who no doubt protect their <b>patent</b>. <br>\n..... At this point, I&#39;m mainly interested in introductory books on the <b>topic</b> I can&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Wikipedia:Reference_desk_archive/July_2004", 
+            "cacheId": "ylAiPtW8zL8J"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 9, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Hypertext Induced Topic Selection (HITS, patent in 1997)", 
+                "safe": "off", 
+                "searchTerms": "Hypertext Induced Topic Selection (HITS, patent in 1997)", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "9"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.28", 
+        "formattedTotalResults": "9", 
+        "totalResults": "9", 
+        "searchTime": 0.276873
+    }
+}

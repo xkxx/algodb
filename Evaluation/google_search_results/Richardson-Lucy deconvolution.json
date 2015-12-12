@@ -1,0 +1,208 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Richardson\u2013Lucy deconvolution - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Richardson</b>\u2013<b>Lucy deconvolution</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Richardson\u2013Lucy_deconvolution", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Richardson</b>\u2013<b>Lucy</b>_<b>deconvolution</b>", 
+            "snippet": "The Richardson\u2013Lucy algorithm, also known as Lucy\u2013Richardson deconvolution, \nis an iterative procedure for recovering a latent image that has been blurred by\u00a0...", 
+            "htmlSnippet": "The <b>Richardson</b>\u2013<b>Lucy</b> algorithm, also known as Lucy\u2013Richardson <b>deconvolution</b>, <br>\nis an iterative procedure for recovering a latent image that has been blurred by&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Richardson%E2%80%93Lucy_deconvolution", 
+            "cacheId": "Mpr2CFpJKH8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Richardson\u2013Lucy deconvolution - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Richardson</b>\u2013<b>Lucy deconvolution</b> - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../Talk%3ARichardson-Lucy_deconvolution", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Talk%3A<b>Richardson</b>-<b>Lucy</b>_<b>deconvolution</b>", 
+            "snippet": "(Redirected from Talk:Richardson-Lucy deconvolution) ... function latent_est = \nRL_deconvolution(observed, kernel, max_iterations) % to utilise the conv2\u00a0...", 
+            "htmlSnippet": "(Redirected from Talk:<b>Richardson</b>-<b>Lucy deconvolution</b>) ... function latent_est = <br>\nRL_deconvolution(observed, kernel, max_iterations) % to utilise the conv2&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3ARichardson-Lucy_deconvolution", 
+            "cacheId": "gUv2SQhEU4sJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Deconvolution - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Deconvolution</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Deconvolution", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Deconvolution</b>", 
+            "snippet": "The concept of deconvolution is widely used in the techniques of signal .... The \nmost common iterative algorithm for the purpose is the Richardson\u2013Lucy\u00a0...", 
+            "htmlSnippet": "The concept of <b>deconvolution</b> is widely used in the techniques of signal .... The <br>\nmost common iterative algorithm for the purpose is the <b>Richardson</b>\u2013<b>Lucy</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Deconvolution", 
+            "cacheId": "08k774RtPFMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Lucy\u2013Hook coaddition method - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Lucy</b>\u2013Hook coaddition method - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Lucy\u2013Hook_coaddition_method", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Lucy</b>\u2013Hook_coaddition_method", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "221", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRghAccWPY8rpoeRutJr7ySiCP5giKEXUAka5463sZRijjxpIAnaNu89ucv", 
+                        "height": "228"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/6/65/Hook_coadd.gif"
+                    }
+                ]
+            }, 
+            "snippet": "The Lucy\u2013Hook coaddition method is an image processing technique for ... of the \nstandard Richardson\u2013Lucy deconvolution iterative restoration method.", 
+            "htmlSnippet": "The Lucy\u2013Hook coaddition method is an image processing technique for ... of the <br>\nstandard <b>Richardson</b>\u2013<b>Lucy deconvolution</b> iterative restoration method.", 
+            "link": "https://en.wikipedia.org/wiki/Lucy%E2%80%93Hook_coaddition_method", 
+            "cacheId": "IAHstbPrl9EJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Category:Estimation theory - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Category:Estimation theory - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Category:Estimation_theory", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Category:Estimation_theory", 
+            "snippet": "... Recursive Bayesian estimation \u00b7 Regularization perspectives on support vector \nmachines \u00b7 Restricted maximum likelihood \u00b7 Richardson\u2013Lucy deconvolution\u00a0...", 
+            "htmlSnippet": "... Recursive Bayesian estimation &middot; Regularization perspectives on support vector <br>\nmachines &middot; Restricted maximum likelihood &middot; <b>Richardson</b>\u2013<b>Lucy deconvolution</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Category:Estimation_theory", 
+            "cacheId": "x1y2lR628J8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Wikipedia:Version 1.0 Editorial Team/Statistics articles by quality log ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Wikipedia:Version 1.0 Editorial Team/Statistics articles by quality log <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/.../Statistics_articles_by_quality_log", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/.../Statistics_articles_by_quality_log", 
+            "snippet": "Richardson\u2013Lucy deconvolution (talk) reassessed. Quality rating changed from \nUnassessed-Class to Start-Class (rev \u00b7 t). Importance rating changed from\u00a0...", 
+            "htmlSnippet": "<b>Richardson</b>\u2013<b>Lucy deconvolution</b> (talk) reassessed. Quality rating changed from <br>\nUnassessed-Class to Start-Class (rev \u00b7 t). Importance rating changed from&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Wikipedia:Version_1.0_Editorial_Team/Statistics_articles_by_quality_log", 
+            "cacheId": "DmFFoPvH4V8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Category:Image processing - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Category:Image processing - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Category:Image_processing", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Category:Image_processing", 
+            "snippet": "R. Randomized Hough transform \u00b7 RapidMiner \u00b7 Resel \u00b7 Resolution enhancement \ntechnology \u00b7 Richardson\u2013Lucy deconvolution \u00b7 Rutt/Etra Video Synthesizer\u00a0...", 
+            "htmlSnippet": "R. Randomized Hough transform &middot; RapidMiner &middot; Resel &middot; Resolution enhancement <br>\ntechnology &middot; <b>Richardson</b>\u2013<b>Lucy deconvolution</b> &middot; Rutt/Etra Video Synthesizer&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Category:Image_processing", 
+            "cacheId": "x3dO299lU1wJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Wikipedia:WikiProject Mathematics/List of mathematics articles (R ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Wikipedia:WikiProject Mathematics/List of mathematics articles (R <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/.../List_of_mathematics_articles_(R)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/.../List_of_mathematics_articles_(R)", 
+            "snippet": "... Rusczyk -- Richard's paradox -- Richards equation -- Richardson Chair of \nApplied Mathematics -- Richardson extrapolation -- Richardson-Lucy \ndeconvolution\u00a0...", 
+            "htmlSnippet": "... Rusczyk -- Richard&#39;s paradox -- Richards equation -- Richardson Chair of <br>\nApplied Mathematics -- Richardson extrapolation -- <b>Richardson</b>-<b>Lucy</b> <br>\n<b>deconvolution</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Mathematics/List_of_mathematics_articles_(R)", 
+            "cacheId": "Da_xCrRw4s8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "List of statistics articles - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "List of statistics articles - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/List_of_statistics_articles", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/List_of_statistics_articles", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "91", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSsTdoIeUYGzLpa4sDN4pmX3wOezerbKN3Ao-hd5kfYf1ApyZIjKjNRgw", 
+                        "height": "62"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Fisher_iris_versicolor_sepalwidth.svg/100px-Fisher_iris_versicolor_sepalwidth.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "... Rind et al. controversy \u2013 interpretations of paper involving meta-analysis; Rice \ndistribution \u00b7 Richardson\u2013Lucy deconvolution \u00b7 Ridge regression redirects to\u00a0...", 
+            "htmlSnippet": "... Rind et al. controversy \u2013 interpretations of paper involving meta-analysis; Rice <br>\ndistribution &middot; <b>Richardson</b>\u2013<b>Lucy deconvolution</b> &middot; Ridge regression redirects to&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/List_of_statistics_articles", 
+            "cacheId": "rcSiJqsugcEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "User:Tompw/Books/Mathematics (R) - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "User:Tompw/Books/Mathematics (R) - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/User:Tompw/Books/Mathematics_(R)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/User:Tompw/Books/Mathematics_(R)", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "100", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTIZaOiYOyIQ5h4ncFs0Tc4R3RKgOxjDFnAVuIjxobWFBd5dBoHAKq1", 
+                        "height": "100"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Set_theory_icon.svg/125px-Set_theory_icon.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "... Richard's paradox \u00b7 Richardson Chair of Applied Mathematics \u00b7 Richardson \nextrapolation \u00b7 Richardson-Lucy deconvolution \u00b7 Richardson's theorem \u00b7 \nRichmond\u00a0...", 
+            "htmlSnippet": "... Richard&#39;s paradox &middot; Richardson Chair of Applied Mathematics &middot; Richardson <br>\nextrapolation &middot; <b>Richardson</b>-<b>Lucy deconvolution</b> &middot; Richardson&#39;s theorem &middot; <br>\nRichmond&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/User:Tompw/Books/Mathematics_(R)", 
+            "cacheId": "ifwcDC75u8YJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Richardson-Lucy deconvolution", 
+                "safe": "off", 
+                "searchTerms": "Richardson-Lucy deconvolution", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "16"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Richardson-Lucy deconvolution", 
+                "safe": "off", 
+                "searchTerms": "Richardson-Lucy deconvolution", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "16"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.24", 
+        "formattedTotalResults": "16", 
+        "totalResults": "16", 
+        "searchTime": 0.244226
+    }
+}

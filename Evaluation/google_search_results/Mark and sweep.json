@@ -1,0 +1,269 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Tracing garbage collection - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Tracing garbage collection - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Tracing_garbage_collection", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Tracing_garbage_collection", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "257", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT2TTa6xn6ImMGiYyyFnv4mBqiVjwznlF0zaay5mIFRm6GkOB-s4_Vn590", 
+                        "height": "196"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Animation_of_the_Naive_Mark_and_Sweep_Garbage_Collector_Algorithm.gif/330px-Animation_of_the_Naive_Mark_and_Sweep_Garbage_Collector_Algorithm.gif"
+                    }
+                ]
+            }, 
+            "snippet": "In the naive mark-and-sweep method, each object in memory has a flag (typically \na single bit) reserved for garbage collection use only. This flag is always\u00a0...", 
+            "htmlSnippet": "In the naive <b>mark-and-sweep</b> method, each object in memory has a flag (typically <br>\na single bit) reserved for garbage collection use only. This flag is always&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Tracing_garbage_collection", 
+            "cacheId": "K8eJy3RVsOcJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Garbage collection (computer science) - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Garbage collection (computer science) - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Garbage_collection_(computer_science)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Garbage_collection_(computer_science)", 
+            "snippet": "Garbage can build up in your applications and increase the high water mark of \nyour ... \"Very Concurrent Mark-&-Sweep Garbage Collection without Fine-Grain\u00a0...", 
+            "htmlSnippet": "Garbage can build up in your applications and increase the high water <b>mark</b> of <br>\nyour ... &quot;Very Concurrent <b>Mark</b>-&amp;-<b>Sweep</b> Garbage Collection without Fine-Grain&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Garbage_collection_(computer_science)", 
+            "cacheId": "6GM0rjrrUjsJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Concurrent mark sweep collector - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Concurrent <b>mark sweep</b> collector - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Concurrent_mark_sweep_collector", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Concurrent_<b>mark</b>_<b>sweep</b>_collector", 
+            "snippet": "The Concurrent mark sweep collector (concurrent mark-sweep collector, \nconcurrent collector or CMS) is a mark-sweep garbage collector in the Oracle \nHotSpot\u00a0...", 
+            "htmlSnippet": "The Concurrent <b>mark sweep</b> collector (concurrent <b>mark</b>-<b>sweep</b> collector, <br>\nconcurrent collector or CMS) is a <b>mark</b>-<b>sweep</b> garbage collector in the Oracle <br>\nHotSpot&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Concurrent_mark_sweep_collector", 
+            "cacheId": "nhC3EZ19LVwJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Mark-compact algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Mark</b>-compact algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Mark-compact_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Mark</b>-compact_algorithm", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "224", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQZF-BN6LbWqhDDp90L6Prpopbx_OesrO25x3YT5wzXImTjMVP0K_WbMT0", 
+                        "height": "224"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Table-based_heap_compaction_flattened.svg/280px-Table-based_heap_compaction_flattened.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "Mark-compact algorithms can be regarded as a combination of the mark-sweep \nalgorithm and Cheney's copying algorithm. First, reachable objects are marked,\u00a0...", 
+            "htmlSnippet": "Mark-compact algorithms can be regarded as a combination of the <b>mark</b>-<b>sweep</b> <br>\nalgorithm and Cheney&#39;s copying algorithm. First, reachable objects are marked,&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Mark-compact_algorithm", 
+            "cacheId": "Mwl3Z-9KUZ8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Sweep and prune - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Sweep</b> and prune - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Sweep_and_prune", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Sweep</b>_and_prune", 
+            "snippet": "In physical simulations, sweep and prune is a broad phase algorithm used during \ncollision detection to limit the number of pairs of solids that need to be checked\u00a0...", 
+            "htmlSnippet": "In physical simulations, <b>sweep</b> and prune is a broad phase algorithm used during <br>\ncollision detection to limit the number of pairs of solids that need to be checked&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Sweep_and_prune", 
+            "cacheId": "dZj-2ER_2KcJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Operation End Sweep - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Operation End <b>Sweep</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Operation_End_Sweep", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Operation_End_<b>Sweep</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "216", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ5WBhHcsyU-osZkcREz8SH3USx1HI7CVPXFjzeL3-VwrDETbn4AJm-YqU8", 
+                        "height": "233"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Mine_explosion_Operation_End_Sweep_9_March_1973.jpg/300px-Mine_explosion_Operation_End_Sweep_9_March_1973.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "It is believed to be the only explosion of a mine during End Sweep. The Mark 105 \nhydrofoil minesweeping sled the helicopter is towing is at right. Operational\u00a0...", 
+            "htmlSnippet": "It is believed to be the only explosion of a mine during End <b>Sweep</b>. The <b>Mark</b> 105 <br>\nhydrofoil minesweeping sled the helicopter is towing is at right. Operational&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Operation_End_Sweep", 
+            "cacheId": "Ao9RKlBisScJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "File:Roasted coffee beans.jpg - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "File:Roasted coffee beans.jpg - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/File:Roasted_coffee_beans.jpg", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/File:Roasted_coffee_beans.jpg", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "259", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSxmHXSHyyb7uxMcexiwSA-cf_qlthpY3Z8K9ZokeilAQE5gf6QcGjO95g", 
+                        "height": "194"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Roasted_coffee_beans.jpg/800px-Roasted_coffee_beans.jpg"
+                    }
+                ], 
+                "hproduct": [
+                    {
+                        "fn": "Roasted coffee beans.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "... legally possible; if so: MarkSweep grants anyone the right to use this work for \nany purpose, without any conditions, unless such conditions are required by law.", 
+            "htmlSnippet": "... legally possible; if so: <b>MarkSweep</b> grants anyone the right to use this work for <br>\nany purpose, without any conditions, unless such conditions are required by law.", 
+            "link": "https://en.wikipedia.org/wiki/File:Roasted_coffee_beans.jpg", 
+            "cacheId": "kiO03WJYjJsJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "North Sea Mine Barrage - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "North Sea Mine Barrage - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/North_Sea_Mine_Barrage", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/North_Sea_Mine_Barrage", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "203", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTG9YAJahKgJmjSV5sRJfaJV7vxuOnkZceSj4Lq2v3po4av5iaQY7qzY7A", 
+                        "height": "248"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/North_Sea_Mine_Barrage_map_1918.png/300px-North_Sea_Mine_Barrage_map_1918.png"
+                    }
+                ]
+            }, 
+            "snippet": "1 Concept; 2 Objectives; 3 Mark 6 Mines; 4 Laying the minefield; 5 Success of ..... \nfor the first routine sweep of the United States minesweepers on 29 April 1919.", 
+            "htmlSnippet": "1 Concept; 2 Objectives; 3 <b>Mark</b> 6 Mines; 4 Laying the minefield; 5 Success of ..... <br>\nfor the first routine <b>sweep</b> of the United States minesweepers on 29 April 1919.", 
+            "link": "https://en.wikipedia.org/wiki/North_Sea_Mine_Barrage", 
+            "cacheId": "2yOeb-0veh0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Naval mine - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Naval mine - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Naval_mine", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Naval_mine", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "240", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSHbqHFL8E03r4iZfFr0EgsPioxbD325cKm1yOp52ph0HtunFHPrg65Vww", 
+                        "height": "208"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Mina_morska_typu_M_1908-39.jpg/300px-Mina_morska_typu_M_1908-39.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "3.4.1 Bouquet mine; 3.4.2 Anti-sweep mine; 3.4.3 Oscillating mine; 3.4.4 ..... were \nmines that could be moored in 300m-deep water (Example: The U.S. Mark 6).", 
+            "htmlSnippet": "3.4.1 Bouquet mine; 3.4.2 Anti-<b>sweep</b> mine; 3.4.3 Oscillating mine; 3.4.4 ..... were <br>\nmines that could be moored in 300m-deep water (Example: The U.S. <b>Mark</b> 6).", 
+            "link": "https://en.wikipedia.org/wiki/Naval_mine", 
+            "cacheId": "HWenLWYdD2kJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "A Twist in the Tale (book) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "A Twist in the Tale (book) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/A_Twist_in_the_Tale_(book)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/A_Twist_in_the_Tale_(book)", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSi0C7o9vDh0HChem9hVctp-IC449mCpdi321AMeE1LRERBweXKPgzDtiBK", 
+                        "height": "277"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/ATwistInTheTale.jpg/220px-ATwistInTheTale.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "1.1 The Perfect Murder; 1.2 Clean Sweep Ignatius; 1.3 A la carte; 1.4 Not the real \n... Mark is given the job of a potato peeler when he encounters Chef Jacques\u00a0...", 
+            "htmlSnippet": "1.1 The Perfect Murder; 1.2 Clean <b>Sweep</b> Ignatius; 1.3 A la carte; 1.4 Not the real <br>\n... <b>Mark</b> is given the job of a potato peeler when he encounters Chef Jacques&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/A_Twist_in_the_Tale_(book)", 
+            "cacheId": "E0Vq_iPrP1AJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Mark and sweep", 
+                "safe": "off", 
+                "searchTerms": "Mark and sweep", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "8940"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Mark and sweep", 
+                "safe": "off", 
+                "searchTerms": "Mark and sweep", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "8940"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.29", 
+        "formattedTotalResults": "8,940", 
+        "totalResults": "8940", 
+        "searchTime": 0.291032
+    }
+}

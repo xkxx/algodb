@@ -1,0 +1,180 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Buddy memory allocation - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Buddy memory allocation</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Buddy_memory_allocation", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Buddy</b>_<b>memory</b>_<b>allocation</b>", 
+            "snippet": "The buddy memory allocation technique is a memory allocation algorithm that \ndivides memory into partitions to try to satisfy a memory request as suitably as\u00a0...", 
+            "htmlSnippet": "The <b>buddy memory allocation</b> technique is a memory allocation algorithm that <br>\ndivides memory into partitions to try to satisfy a memory request as suitably as&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Buddy_memory_allocation", 
+            "cacheId": "U5m3cOrVQF8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Buddy memory allocation - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Buddy memory allocation</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3ABuddy_memory_allocation", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>Buddy</b>_<b>memory</b>_<b>allocation</b>", 
+            "snippet": "\"Compared to the memory allocation techniques (such as paging) that modern \noperating systems such as Microsoft Windows and Linux use, the buddy memory\n\u00a0...", 
+            "htmlSnippet": "&quot;Compared to the <b>memory allocation</b> techniques (such as paging) that modern <br>\noperating systems such as Microsoft Windows and Linux use, the <b>buddy</b> memory<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3ABuddy_memory_allocation", 
+            "cacheId": "UE4dDtIVrKIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Memory management - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Memory</b> management - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Memory_management", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Memory</b>_management", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "290", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQA3VuyoZf8icuvjAv-HCupyyaSvO9gHQi6mVf1aMliZk3ce4cdlVr-Rok", 
+                        "height": "174"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/External_Fragmentation.svg/450px-External_Fragmentation.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "[edit]. For more details on this topic, see Buddy memory allocation. In this system, \nmemory is allocated into several pools of\u00a0...", 
+            "htmlSnippet": "[edit]. For more details on this topic, see <b>Buddy memory allocation</b>. In this system, <br>\nmemory is allocated into several pools of&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Memory_management", 
+            "cacheId": "753TzqKd7CIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Free list - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Free list - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Free_list", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Free_list", 
+            "snippet": "For the method of allocation of seats in party-list systems, see Open list#Free list. \nA free list is a data structure used in ... See also[edit]. Buddy memory allocation\u00a0...", 
+            "htmlSnippet": "For the method of allocation of seats in party-list systems, see Open list#Free list. <br>\nA free list is a data structure used in ... See also[edit]. <b>Buddy memory allocation</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Free_list", 
+            "cacheId": "_FqWxQKWThIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Dynamic memory allocation - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:Dynamic <b>memory allocation</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3ADynamic_memory_allocation", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3ADynamic_<b>memory</b>_<b>allocation</b>", 
+            "snippet": "Compared to the memory allocation techniques (such as paging) that modern \noperating systems such as Microsoft Windows and Linux use, the buddy memory\n\u00a0...", 
+            "htmlSnippet": "Compared to the <b>memory allocation</b> techniques (such as paging) that modern <br>\noperating systems such as Microsoft Windows and Linux use, the <b>buddy</b> memory<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3ADynamic_memory_allocation", 
+            "cacheId": "YSLhYZrrJXcJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Slab allocation - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Slab <b>allocation</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Slab_allocation", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Slab_<b>allocation</b>", 
+            "snippet": "Slab allocation is a memory management mechanism intended for the .... slab \nallocation provides a kind of front-end to the zoned buddy allocator for those\u00a0...", 
+            "htmlSnippet": "Slab <b>allocation</b> is a <b>memory</b> management mechanism intended for the .... slab <br>\n<b>allocation</b> provides a kind of front-end to the zoned <b>buddy allocator</b> for those&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Slab_allocation", 
+            "cacheId": "bz5epP3MswAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Category:Memory management algorithms - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Category:<b>Memory</b> management algorithms - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../Category:Memory_management_algorithms", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Category:<b>Memory</b>_management_algorithms", 
+            "snippet": "Algorithms used for memory management. ... Pages in category \"Memory \nmanagement algorithms\". The following 12 pages are in ... B. Buddy memory \nallocation\u00a0...", 
+            "htmlSnippet": "Algorithms used for memory management. ... Pages in category &quot;Memory <br>\nmanagement algorithms&quot;. The following 12 pages are in ... B. <b>Buddy memory</b> <br>\n<b>allocation</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Category:Memory_management_algorithms", 
+            "cacheId": "G1GLWaisA14J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Hoard memory allocator - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Hoard <b>memory allocator</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Hoard_memory_allocator", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Hoard_<b>memory</b>_<b>allocator</b>", 
+            "snippet": "The Hoard memory allocator, or Hoard, is a memory allocator for Linux, Solaris, \nMicrosoft Windows and other operating systems. Hoard is designed to be\u00a0...", 
+            "htmlSnippet": "The Hoard <b>memory allocator</b>, or Hoard, is a <b>memory allocator</b> for Linux, Solaris, <br>\nMicrosoft Windows and other operating systems. Hoard is designed to be&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Hoard_memory_allocator", 
+            "cacheId": "Iu_eHCCR0JIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Buddy system (disambiguation) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Buddy</b> system (disambiguation) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Buddy_system_(disambiguation)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Buddy</b>_system_(disambiguation)", 
+            "snippet": "The buddy system is a procedure in which two people operate together as a \nsingle ... Buddy memory system, a memory allocation algorithm; The Buddy \nSystem\u00a0...", 
+            "htmlSnippet": "The <b>buddy</b> system is a procedure in which two people operate together as a <br>\nsingle ... <b>Buddy</b> memory system, a <b>memory allocation</b> algorithm; The <b>Buddy</b> <br>\nSystem&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Buddy_system_(disambiguation)", 
+            "cacheId": "2yh70jHZO2MJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Slab allocation - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:Slab <b>allocation</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3ASlab_allocation", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3ASlab_<b>allocation</b>", 
+            "snippet": "All this stuff about bufctls, distinction between small and large slabs, and, first of \nall \"Both the slab allocation algorithm and buddy memory allocation occur in\u00a0...", 
+            "htmlSnippet": "All this stuff about bufctls, distinction between small and large slabs, and, first of <br>\nall &quot;Both the slab allocation algorithm and <b>buddy memory allocation</b> occur in&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3ASlab_allocation", 
+            "cacheId": "IFuboPzujsEJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Buddy memory allocation", 
+                "safe": "off", 
+                "searchTerms": "Buddy memory allocation", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "61"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Buddy memory allocation", 
+                "safe": "off", 
+                "searchTerms": "Buddy memory allocation", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "61"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.20", 
+        "formattedTotalResults": "61", 
+        "totalResults": "61", 
+        "searchTime": 0.199463
+    }
+}

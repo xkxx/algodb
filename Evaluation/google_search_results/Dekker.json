@@ -1,0 +1,343 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Sam Dekker - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Sam <b>Dekker</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Sam_Dekker", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Sam_<b>Dekker</b>", 
+            "pagemap": {
+                "person": [
+                    {
+                        "role": "Small forward / Power forward", 
+                        "location": "the United States"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRypdvCLwL8FWK6rJhCX_rkj70nGIjFrIY1QOgea6MKovIw6RucRVHf6__4", 
+                        "height": "264"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Sam_Dekker_2012.jpg/220px-Sam_Dekker_2012.jpg"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "bday": "1994-05-06", 
+                        "role": "Small forward / Power forward", 
+                        "fn": "Sam Dekker"
+                    }
+                ]
+            }, 
+            "snippet": "Samuel Thomas Dekker (born May 6, 1994) is an American professional \nbasketball player for the Houston Rockets of the National Basketball Association \n(NBA).", 
+            "htmlSnippet": "Samuel Thomas <b>Dekker</b> (born May 6, 1994) is an American professional <br>\nbasketball player for the Houston Rockets of the National Basketball Association <br>\n(NBA).", 
+            "link": "https://en.wikipedia.org/wiki/Sam_Dekker", 
+            "cacheId": "FGP63s2124sJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Dekker's algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Dekker&#39;s</b> algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Dekker's_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Dekker&#39;s</b>_algorithm", 
+            "snippet": "Dekker's algorithm is the first known correct solution to the mutual exclusion \nproblem in concurrent programming. The solution is attributed to Dutch\u00a0...", 
+            "htmlSnippet": "<b>Dekker&#39;s</b> algorithm is the first known correct solution to the mutual exclusion <br>\nproblem in concurrent programming. The solution is attributed to Dutch&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Dekker's_algorithm", 
+            "cacheId": "iUJuZL1WzKQJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Thomas Dekker (writer) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Thomas <b>Dekker</b> (writer) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Thomas_Dekker_(writer)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Thomas_<b>Dekker</b>_(writer)", 
+            "pagemap": {
+                "person": [
+                    {
+                        "role": "Writer"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQvDG-B6d-CLAPC5qwuEH3OZLmmxIv-9qnlq5wFdtAVk_iv2Mus-E0Xcg4", 
+                        "height": "257"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Dekker_his_dreame_(1620).jpg/220px-Dekker_his_dreame_(1620).jpg"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "role": "Writer", 
+                        "fn": "Thomas Dekker"
+                    }
+                ]
+            }, 
+            "snippet": "Life[edit]. Little is known of Dekker's early life or origins. From references in his \npamphlets, Dekker is believed to have been born in London around 1572, but\u00a0...", 
+            "htmlSnippet": "Life[edit]. Little is known of <b>Dekker&#39;s</b> early life or origins. From references in his <br>\npamphlets, <b>Dekker</b> is believed to have been born in London around 1572, but&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Thomas_Dekker_(writer)", 
+            "cacheId": "FTJQskKKm7IJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Ted Dekker - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Ted <b>Dekker</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Ted_Dekker", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Ted_<b>Dekker</b>", 
+            "pagemap": {
+                "person": [
+                    {
+                        "role": "Novelist"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "category": "Fantasy, Thriller, Psychological thriller, Horror, Mystery", 
+                        "url_text": "www.teddekker.com", 
+                        "url": "www.teddekker.com", 
+                        "bday": "1962-10-24", 
+                        "role": "Novelist", 
+                        "fn": "Ted Dekker"
+                    }
+                ]
+            }, 
+            "snippet": "Ted Dekker (born October 24, 1962) is an author of mystery, thriller, and fantasy \nnovels including Thr3e, Obsessed, and the Circle Series.", 
+            "htmlSnippet": "Ted <b>Dekker</b> (born October 24, 1962) is an author of mystery, thriller, and fantasy <br>\nnovels including Thr3e, Obsessed, and the Circle Series.", 
+            "link": "https://en.wikipedia.org/wiki/Ted_Dekker", 
+            "cacheId": "4tvBpqwb-j4J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Thomas Dekker (cyclist) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Thomas <b>Dekker</b> (cyclist) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Thomas_Dekker_(cyclist)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Thomas_<b>Dekker</b>_(cyclist)", 
+            "pagemap": {
+                "person": [
+                    {
+                        "role": "Rider"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0besdo9HiXKecHdOSyoZ-g6Iqx6XLzuopLF1Uon5ajps39E2JL4xkQz8", 
+                        "height": "233"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/20130902-DEKKERThomas.jpg/220px-20130902-DEKKERThomas.jpg"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "bday": "1984-09-06", 
+                        "role": "Rider", 
+                        "fn": "Thomas Dekker"
+                    }
+                ]
+            }, 
+            "snippet": "Thomas Dekker (born 6 September 1984) is a Dutch former professional road \nracing cyclist. His career highlights included winning Tirreno\u2013Adriatico in 2006\u00a0...", 
+            "htmlSnippet": "Thomas <b>Dekker</b> (born 6 September 1984) is a Dutch former professional road <br>\nracing cyclist. His career highlights included winning Tirreno\u2013Adriatico in 2006&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Thomas_Dekker_(cyclist)", 
+            "cacheId": "FokVM0xAuE4J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Desmond Dekker - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Desmond <b>Dekker</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Desmond_Dekker", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Desmond_<b>Dekker</b>", 
+            "pagemap": {
+                "person": [
+                    {
+                        "role": "Singer-songwriter, musician"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSN_xRQ-lpCXsse3RJYfUAxL4MW4lTIfdxu3IfHedsqy3Mf89UG4jMB5Mv5", 
+                        "height": "237"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Desmond_Dekker_in_2005.jpg/220px-Desmond_Dekker_in_2005.jpg"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "url_text": "desmonddekker.com", 
+                        "url": "desmonddekker.com", 
+                        "note": "Vocals", 
+                        "bday": "1941-07-16", 
+                        "role": "Singer-songwriter, musician", 
+                        "nickname": "Desmond Adolphus Dacres", 
+                        "fn": "Desmond Dekker"
+                    }, 
+                    {
+                        "fn": "Desmond Dekker"
+                    }
+                ]
+            }, 
+            "snippet": "Desmond Dekker (16 July 1941 \u2013 25 May 2006) was a Jamaican ska, rocksteady \nand reggae singer-songwriter and musician. Together with his backing group\u00a0...", 
+            "htmlSnippet": "Desmond <b>Dekker</b> (16 July 1941 \u2013 25 May 2006) was a Jamaican ska, rocksteady <br>\nand reggae singer-songwriter and musician. Together with his backing group&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Desmond_Dekker", 
+            "cacheId": "yO80Qiv7b7wJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Sander Dekker - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Sander <b>Dekker</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Sander_Dekker", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Sander_<b>Dekker</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "183", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRQK1-UMi2Try8CqhXjmVk9ZDKha0L-atoLGF1v1ncV9aJlf8i4rysr2VNm", 
+                        "height": "275"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Sander_Dekker_2012_(highres).jpg/250px-Sander_Dekker_2012_(highres).jpg"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "bday": "1975-02-09", 
+                        "nickname": "Sander Dekker", 
+                        "fn": "Sander Dekker", 
+                        "label": "The Hague, Netherlands"
+                    }
+                ]
+            }, 
+            "snippet": "Sander Dekker (born 9 February 1975 in The Hague) is a Dutch politician of the \nPeople's Party for Freedom and Democracy (Volkspartij voor Vrijheid en\u00a0...", 
+            "htmlSnippet": "Sander <b>Dekker</b> (born 9 February 1975 in The Hague) is a Dutch politician of the <br>\nPeople&#39;s Party for Freedom and Democracy (Volkspartij voor Vrijheid en&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Sander_Dekker", 
+            "cacheId": "AHQ2le8q01wJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Thomas Dekker (actor) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Thomas <b>Dekker</b> (actor) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Thomas_Dekker_(actor)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Thomas_<b>Dekker</b>_(actor)", 
+            "pagemap": {
+                "person": [
+                    {
+                        "role": "Actor, director, producer, singer, voice actor"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCksFCnGpNehGwoJDBVmcIOOqd7IEY31Aaf3vmvihic6DVpwhdXDUFeSw", 
+                        "height": "132"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Thomas_Dekker_2011.jpg/220px-Thomas_Dekker_2011.jpg"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "bday": "1987-12-28", 
+                        "role": "Actor, director, producer, singer, voice actor", 
+                        "nickname": "Thomas Alexander Dekker", 
+                        "fn": "Thomas Dekker"
+                    }
+                ]
+            }, 
+            "snippet": "Thomas Alexander Dekker (born December 28, 1987) is an American film, \ntelevision actor, musician and voice actor. He is also a singer and has written and\n\u00a0...", 
+            "htmlSnippet": "Thomas Alexander <b>Dekker</b> (born December 28, 1987) is an American film, <br>\ntelevision actor, musician and voice actor. He is also a singer and has written and<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Thomas_Dekker_(actor)", 
+            "cacheId": "7CiqrRN51QwJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Dekker - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Dekker</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Dekker", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Dekker</b>", 
+            "snippet": "Dekker is a surname. ... Eduard Douwes Dekker (1820\u20131887), Dutch writer; also \nknown as Multatuli; Ernest Douwes Dekker (1879\u20131950), Dutch politician and\u00a0...", 
+            "htmlSnippet": "<b>Dekker</b> is a surname. ... Eduard Douwes <b>Dekker</b> (1820\u20131887), Dutch writer; also <br>\nknown as Multatuli; Ernest Douwes <b>Dekker</b> (1879\u20131950), Dutch politician and&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Dekker", 
+            "cacheId": "doX8Rn60K1cJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Cees Dekker - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Cees <b>Dekker</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Cees_Dekker", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Cees_<b>Dekker</b>", 
+            "snippet": "Cornelis \"Cees\" Dekker (born April 7, 1959 in Haren, Groningen) is a Dutch \nscientist known for his research on carbon nanotubes, single-molecule \nbiophysics,\u00a0...", 
+            "htmlSnippet": "Cornelis &quot;Cees&quot; <b>Dekker</b> (born April 7, 1959 in Haren, Groningen) is a Dutch <br>\nscientist known for his research on carbon nanotubes, single-molecule <br>\nbiophysics,&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Cees_Dekker", 
+            "cacheId": "6ndCDQciGRwJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Dekker", 
+                "safe": "off", 
+                "searchTerms": "Dekker", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "44200"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Dekker", 
+                "safe": "off", 
+                "searchTerms": "Dekker", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "44200"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.32", 
+        "formattedTotalResults": "44,200", 
+        "totalResults": "44200", 
+        "searchTime": 0.319691
+    }
+}

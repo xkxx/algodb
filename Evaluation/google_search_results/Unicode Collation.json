@@ -1,0 +1,180 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Unicode collation algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Unicode collation</b> algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Unicode_collation_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Unicode</b>_<b>collation</b>_algorithm", 
+            "snippet": "The Unicode collation algorithm (UCA) is an algorithm defined in Unicode \nTechnical Report #10, which defines a customizable method to compare two \nstrings.", 
+            "htmlSnippet": "The <b>Unicode collation</b> algorithm (UCA) is an algorithm defined in Unicode <br>\nTechnical Report #10, which defines a customizable method to compare two <br>\nstrings.", 
+            "link": "https://en.wikipedia.org/wiki/Unicode_collation_algorithm", 
+            "cacheId": "l7WCD5kofPcJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Collation - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Collation</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Collation", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Collation</b>", 
+            "snippet": "A collation algorithm such as the Unicode collation algorithm defines an order \nthrough the process of comparing two given character strings and deciding which\n\u00a0...", 
+            "htmlSnippet": "A collation algorithm such as the <b>Unicode collation</b> algorithm defines an order <br>\nthrough the process of comparing two given character strings and deciding which<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Collation", 
+            "cacheId": "2sSBbuxtVkIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "ISO 14651 - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "ISO 14651 - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/ISO_14651", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/ISO_14651", 
+            "snippet": "The Common Tailorable Template (CTT) datafile of this ISO Standard is aligned \nwith the Default Unicode Collation Entity Table (DUCET) datafile of the Unicode\u00a0...", 
+            "htmlSnippet": "The Common Tailorable Template (CTT) datafile of this ISO Standard is aligned <br>\nwith the Default <b>Unicode Collation</b> Entity Table (DUCET) datafile of the Unicode&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/ISO_14651", 
+            "cacheId": "YS4Vtmw6JYkJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "User:\uc5d0\uba5c\ubb34\uc9c0\ub85c~enwiki/Unicode Collation Algorithm - Wikipedia ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "User:\uc5d0\uba5c\ubb34\uc9c0\ub85c~enwiki/<b>Unicode Collation</b> Algorithm - Wikipedia <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/User.../Unicode_Collation_Algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/User.../<b>Unicode</b>_<b>Collation</b>_Algorithm", 
+            "snippet": "User:\uc5d0\uba5c\ubb34\uc9c0\ub85c~enwiki/Unicode Collation Algorithm. From Wikipedia, the free \nencyclopedia. Jump to: navigation, search. From Unicode Homepage. &#x0000\u00a0...", 
+            "htmlSnippet": "User:\uc5d0\uba5c\ubb34\uc9c0\ub85c~enwiki/<b>Unicode Collation</b> Algorithm. From Wikipedia, the free <br>\nencyclopedia. Jump to: navigation, search. From Unicode Homepage. &amp;#x0000&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/User:%EC%97%90%EB%A9%9C%EB%AC%B4%EC%A7%80%EB%A1%9C~enwiki/Unicode_Collation_Algorithm", 
+            "cacheId": "cYhctrHoIxcJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Category:Unicode algorithms - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Category:<b>Unicode</b> algorithms - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Category:Unicode_algorithms", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Category:<b>Unicode</b>_algorithms", 
+            "snippet": "This category lists articles on algorithms developed by the Unicode Consortium \nfor ... Pages in category \"Unicode algorithms\" ... C. Unicode collation algorithm\u00a0...", 
+            "htmlSnippet": "This category lists articles on algorithms developed by the Unicode Consortium <br>\nfor ... Pages in category &quot;Unicode algorithms&quot; ... C. <b>Unicode collation</b> algorithm&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Category:Unicode_algorithms", 
+            "cacheId": "HF6qslhuT_oJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "European ordering rules - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "European ordering rules - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/European_ordering_rules", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/European_ordering_rules", 
+            "snippet": "Note also that all scripts encoded in ISO/IEC 10646 and Unicode are covered by \nISO/IEC 14651 (and its datafile CTT) as well as Unicode Collation Algorithm\u00a0...", 
+            "htmlSnippet": "Note also that all scripts encoded in ISO/IEC 10646 and Unicode are covered by <br>\nISO/IEC 14651 (and its datafile CTT) as well as <b>Unicode Collation</b> Algorithm&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/European_ordering_rules", 
+            "cacheId": "nXYj7eOcDxYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Category:Collation - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Category:<b>Collation</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Category:Collation", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Category:<b>Collation</b>", 
+            "snippet": "Jump to: navigation, search. The main article for this category is Collation. ... S. \u25bb \nString collation algorithms   (2 P) ... Unicode collation algorithm. Retrieved from\u00a0...", 
+            "htmlSnippet": "Jump to: navigation, search. The main article for this category is Collation. ... S. \u25bb <br>\nString collation algorithms   (2 P) ... <b>Unicode collation</b> algorithm. Retrieved from&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Category:Collation", 
+            "cacheId": "xz2q8BJLRX4J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Kana - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Kana - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Kana", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Kana", 
+            "snippet": "1 Hiragana and katakana. 1.1 Diacritics; 1.2 Digraphs. 2 Modern usage; 3 History\n; 4 Collation; 5 Kana in Unicode; 6 See also; 7 References; 8 External links\u00a0...", 
+            "htmlSnippet": "1 Hiragana and katakana. 1.1 Diacritics; 1.2 Digraphs. 2 Modern usage; 3 History<br>\n; 4 <b>Collation</b>; 5 Kana in <b>Unicode</b>; 6 See also; 7 References; 8 External links&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Kana", 
+            "cacheId": "4tXBlTxiaP0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Unicode - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Unicode</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Unicode", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Unicode</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "144", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrTqZAq_IRoIqStc04-6rMOnYXk0h-Wvnkq-UH6bkNEFuArsbk-1PDL3o", 
+                        "height": "144"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Unicode_logo.svg/180px-Unicode_logo.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "2.1 Unicode Transformation Format and Universal Coded Character Set ...... This \nordering problem complicates the Unicode collation process slightly, requiring\u00a0...", 
+            "htmlSnippet": "2.1 Unicode Transformation Format and Universal Coded Character Set ...... This <br>\nordering problem complicates the <b>Unicode collation</b> process slightly, requiring&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Unicode", 
+            "cacheId": "SyiAupl4GGoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Category:String collation algorithms - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Category:String <b>collation</b> algorithms - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Category:String_collation_algorithms", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Category:String_<b>collation</b>_algorithms", 
+            "snippet": "The main article for this category is String collation. Pages in category \"String \ncollation algorithms\". The following 2 ... Unicode collation algorithm. Retrieved \nfrom\u00a0...", 
+            "htmlSnippet": "The main article for this category is String collation. Pages in category &quot;String <br>\ncollation algorithms&quot;. The following 2 ... <b>Unicode collation</b> algorithm. Retrieved <br>\nfrom&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Category:String_collation_algorithms", 
+            "cacheId": "EBPoZl2WtKIJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Unicode Collation", 
+                "safe": "off", 
+                "searchTerms": "Unicode Collation", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "431"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Unicode Collation", 
+                "safe": "off", 
+                "searchTerms": "Unicode Collation", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "431"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.25", 
+        "formattedTotalResults": "431", 
+        "totalResults": "431", 
+        "searchTime": 0.246507
+    }
+}

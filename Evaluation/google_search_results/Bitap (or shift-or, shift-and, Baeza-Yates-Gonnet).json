@@ -1,0 +1,97 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Bitap algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Bitap</b> algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Bitap_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Bitap</b>_algorithm", 
+            "snippet": "The bitap algorithm (also known as the shift-or, shift-and or Baeza-Yates\u2013Gonnet \nalgorithm) is an approximate string matching algorithm. The algorithm tells\u00a0...", 
+            "htmlSnippet": "The <b>bitap</b> algorithm (also known as the <b>shift-or</b>, <b>shift-and</b> or <b>Baeza</b>-<b>Yates</b>\u2013<b>Gonnet</b> <br>\nalgorithm) is an approximate string matching algorithm. The algorithm tells&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Bitap_algorithm", 
+            "cacheId": "RqT58HGB5x4J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "String searching algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "String searching algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/String_searching_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/String_searching_algorithm", 
+            "snippet": "Bitap algorithm (shift-or, shift-and, Baeza\u2013Yates\u2013Gonnet), \u0398(m + k), O(mn) ... \nBaeza\u2013Yates keeps track of whether the previous j characters were a prefix of the\n\u00a0...", 
+            "htmlSnippet": "<b>Bitap</b> algorithm (<b>shift-or</b>, <b>shift-and</b>, <b>Baeza</b>\u2013<b>Yates</b>\u2013<b>Gonnet</b>), \u0398(m + k), O(mn) ... <br>\nBaeza\u2013Yates keeps track of whether the previous j characters were a prefix of the<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/String_searching_algorithm", 
+            "cacheId": "Mwandf8I27sJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Bitap algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Bitap</b> algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3ABitap_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>Bitap</b>_algorithm", 
+            "snippet": "I belive the original is shift then and. instead of and then shift. ... If the Baeza\u2013\nYates\u2013Gonnet algorithm is used extensively in exact matching applications, then\n\u00a0...", 
+            "htmlSnippet": "I belive the original is <b>shift</b> then and. instead of and then <b>shift</b>. ... If the <b>Baeza</b>\u2013<br>\n<b>Yates</b>\u2013<b>Gonnet</b> algorithm is used extensively in exact matching applications, then<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3ABitap_algorithm", 
+            "cacheId": "uxJ3DRaZzQQJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Ricardo Baeza-Yates - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Ricardo <b>Baeza</b>-<b>Yates</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Ricardo_Baeza-Yates", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Ricardo_<b>Baeza</b>-<b>Yates</b>", 
+            "snippet": "Ricardo A. Baeza-Yates (born March 21, 1961) is a Chilean computer scientist \nand ... Efficient Text Searching, supervised by Gaston Gonnet and granted in \n1989. ... His contributions include algorithms for string search such as the Shift Or \nAlgorithm and algorithms for Fuzzy string searching, inspiring also the Bitap \nalgorithm;\u00a0...", 
+            "htmlSnippet": "Ricardo A. <b>Baeza</b>-<b>Yates</b> (born March 21, 1961) is a Chilean computer scientist <br>\nand ... Efficient Text Searching, supervised by Gaston <b>Gonnet</b> and granted in <br>\n1989. ... His contributions include algorithms for string search such as the <b>Shift Or</b> <br>\nAlgorithm and algorithms for Fuzzy string searching, inspiring also the <b>Bitap</b> <br>\nalgorithm;&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Ricardo_Baeza-Yates", 
+            "cacheId": "OuOnHcwOGycJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Suffix array - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Suffix array - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Suffix_array", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Suffix_array", 
+            "snippet": "... space efficient alternative to suffix trees. They have independently been \ndiscovered by Gonnet, Baeza-Yates & Snider (1992) under the name PAT array.", 
+            "htmlSnippet": "... space efficient alternative to suffix trees. They have independently been <br>\ndiscovered by <b>Gonnet</b>, <b>Baeza</b>-<b>Yates</b> &amp; Snider (1992) under the name PAT array.", 
+            "link": "https://en.wikipedia.org/wiki/Suffix_array", 
+            "cacheId": "FpsXAIC1igAJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 5, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Bitap (or shift-or, shift-and, Baeza-Yates-Gonnet)", 
+                "safe": "off", 
+                "searchTerms": "Bitap (or shift-or, shift-and, Baeza-Yates-Gonnet)", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "5"
+            }
+        ]
+    }, 
+    "spelling": {
+        "correctedQuery": "Bitmap (or shift-or, shift-and, Baeza-Yates-Gonnet)", 
+        "htmlCorrectedQuery": "<b><i>Bitmap</i></b> (or shift-or, shift-and, Baeza-Yates-Gonnet)"
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.47", 
+        "formattedTotalResults": "5", 
+        "totalResults": "5", 
+        "searchTime": 0.469499
+    }
+}

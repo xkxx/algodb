@@ -1,0 +1,281 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Elevator - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Elevator</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Elevator", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Elevator</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRHz7Elm2350z6RV-6JxRLj8QPXzbnIMPcWscqp1DpOC6x9xVR1l90Zm3s", 
+                        "height": "132"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Borough_tube_station_lifts_01.jpg/220px-Borough_tube_station_lifts_01.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "A set of elevators in the lower level of Borough station on the London \nUnderground Northern line. The \"up\" and \"down\" arrows indicate each elevator's \nposition\u00a0...", 
+            "htmlSnippet": "A set of <b>elevators</b> in the lower level of Borough station on the London <br>\nUnderground Northern line. The &quot;up&quot; and &quot;down&quot; arrows indicate each <b>elevator&#39;s</b> <br>\nposition&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Elevator", 
+            "cacheId": "AY6ZDg43MoUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Elevator pitch - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Elevator</b> pitch - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Elevator_pitch", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Elevator</b>_pitch", 
+            "snippet": "An elevator pitch, elevator speech or elevator statement is a short summary used \nto quickly and simply define a process, product, service, organization, or event\u00a0...", 
+            "htmlSnippet": "An <b>elevator</b> pitch, <b>elevator</b> speech or <b>elevator</b> statement is a short summary used <br>\nto quickly and simply define a process, product, service, organization, or event&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Elevator_pitch", 
+            "cacheId": "HZKZZotcu5sJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Elevator (aeronautics) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Elevator</b> (aeronautics) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Elevator_(aeronautics)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Elevator</b>_(aeronautics)", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRUaOnzSflVmXf8FcWLhJe1ESraZtKXrK5fKJUZba8N3A6XcE_iaRsHNMk", 
+                        "height": "141"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Aileron_pitch.gif/220px-Aileron_pitch.gif"
+                    }
+                ]
+            }, 
+            "snippet": "Elevators are flight control surfaces, usually at the rear of an aircraft, which \ncontrol the aircraft's pitch, and therefore the angle of attack and the lift of the wing.", 
+            "htmlSnippet": "<b>Elevators</b> are flight control surfaces, usually at the rear of an aircraft, which <br>\ncontrol the aircraft&#39;s pitch, and therefore the angle of attack and the lift of the wing.", 
+            "link": "https://en.wikipedia.org/wiki/Elevator_(aeronautics)", 
+            "cacheId": "01MwMSMdTmUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Space elevator - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Space <b>elevator</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Space_elevator", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Space_<b>elevator</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "147", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhUBjW9G-gx_1afk38j_gx3xpPrWyoke13TcmGSyWAeo_nIQMDBj0_rlAN", 
+                        "height": "343"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Space_elevator_structural_diagram--corrected_for_scale%2BCM%2Betc.svg/280px-Space_elevator_structural_diagram--corrected_for_scale%2BCM%2Betc.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "A space elevator is conceived as a cable fixed to the equator and reaching into \nspace. A counterweight at the upper end keeps the center of mass well above\u00a0...", 
+            "htmlSnippet": "A space <b>elevator</b> is conceived as a cable fixed to the equator and reaching into <br>\nspace. A counterweight at the upper end keeps the center of mass well above&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Space_elevator", 
+            "cacheId": "yBoHdMcCJpUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Elevator operator - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Elevator</b> operator - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Elevator_operator", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Elevator</b>_operator", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRZvkx0nxeo8_Wl_G68dmNNxi53MWAfzpwdIZSEkLyKJxNd9FsMj6pUMDLR", 
+                        "height": "132"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Lift_Ladies.JPG/220px-Lift_Ladies.JPG"
+                    }
+                ]
+            }, 
+            "snippet": "An elevator operator (in British English, usually lift man, lift woman, or lift girl) is a \nperson specifically employed to operate a manually operated elevator. Manual\u00a0...", 
+            "htmlSnippet": "An <b>elevator</b> operator (in British English, usually lift man, lift woman, or lift girl) is a <br>\nperson specifically employed to operate a manually operated <b>elevator</b>. Manual&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Elevator_operator", 
+            "cacheId": "EstCExUwBswJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Elevator (band) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Elevator</b> (band) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Elevator_(band)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Elevator</b>_(band)", 
+            "pagemap": {
+                "hcard": [
+                    {
+                        "bday": "1994", 
+                        "nickname": "Elevator to Hell Elevator Through", 
+                        "fn": "Elevator"
+                    }, 
+                    {
+                        "fn": "Elevator"
+                    }
+                ]
+            }, 
+            "snippet": "Elevator is a band from Moncton, New Brunswick. Started in 1994 as Elevator To \nHell, a solo outlet for Eric's Trip lead man Rick White, the project eventually\u00a0...", 
+            "htmlSnippet": "<b>Elevator</b> is a band from Moncton, New Brunswick. Started in 1994 as <b>Elevator</b> To <br>\nHell, a solo outlet for Eric&#39;s Trip lead man Rick White, the project eventually&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Elevator_(band)", 
+            "cacheId": "-1EiUov0EZAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Elevator Action - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Elevator</b> Action - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Elevator_Action", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Elevator</b>_Action", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRzMCUYr8fUdHutOaqyQ5r2yWUgZF7JIV2wDWt2Q26unOCtc7Ne1Ljtt1XI", 
+                        "height": "246"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ee/Elevator_Action.png/220px-Elevator_Action.png"
+                    }
+                ], 
+                "hproduct": [
+                    {
+                        "fn": "Elevator Action"
+                    }
+                ]
+            }, 
+            "snippet": "Elevator Action was followed by the arcade game Elevator Action Returns in \n1994 (released as Elevator Action II in North America) and Elevator Action EX for\n\u00a0...", 
+            "htmlSnippet": "<b>Elevator</b> Action was followed by the arcade game <b>Elevator</b> Action Returns in <br>\n1994 (released as <b>Elevator</b> Action II in North America) and <b>Elevator</b> Action EX for<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Elevator_Action", 
+            "cacheId": "Mo1Py4x8Q8MJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Elevator surfing - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Elevator</b> surfing - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Elevator_surfing", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Elevator</b>_surfing", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR7CCwFX-Sk3948jkU7MeKNxJtzghG8GNsOJypFDca6N15XJ88Urp8YuUc", 
+                        "height": "132"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Elev_shaft.jpg/220px-Elev_shaft.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "Elevator surfing, also known as \"vator surfing\" or \"elevaroping\", is an activity \ninvolving riding on top of elevators. Rarely, the activity may also involve jumping\n\u00a0...", 
+            "htmlSnippet": "<b>Elevator</b> surfing, also known as &quot;vator surfing&quot; or &quot;elevaroping&quot;, is an activity <br>\ninvolving riding on top of <b>elevators</b>. Rarely, the activity may also involve jumping<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Elevator_surfing", 
+            "cacheId": "61vhU3h53gEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Elevator music - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Elevator</b> music - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Elevator_music", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Elevator</b>_music", 
+            "snippet": "Elevator music (also known as Muzak, piped music, weather music, or lift music) \nrefers to a type of popular music, often instrumental, that is commonly played\u00a0...", 
+            "htmlSnippet": "<b>Elevator</b> music (also known as Muzak, piped music, weather music, or lift music) <br>\nrefers to a type of popular music, often instrumental, that is commonly played&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Elevator_music", 
+            "cacheId": "V6sO5FTnZwsJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Shabbat elevator - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Shabbat <b>elevator</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Shabbat_elevator", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Shabbat_<b>elevator</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "160", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSYVC13qqhoqZixSNG6WF3ea1G07_Lg-R4FkVuqTgLPhZJJcT29M7yiyrU", 
+                        "height": "213"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Sabbath_on-off.jpg/200px-Sabbath_on-off.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "A Shabbat elevator is an elevator which works in a special mode, operating \nautomatically, a way to circumvent the Jewish law requiring observers to abstain\n\u00a0...", 
+            "htmlSnippet": "A Shabbat <b>elevator</b> is an <b>elevator</b> which works in a special mode, operating <br>\nautomatically, a way to circumvent the Jewish law requiring observers to abstain<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Shabbat_elevator", 
+            "cacheId": "DVm-8ktWVJwJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Elevator", 
+                "safe": "off", 
+                "searchTerms": "Elevator", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "988000"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Elevator", 
+                "safe": "off", 
+                "searchTerms": "Elevator", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "988000"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.37", 
+        "formattedTotalResults": "988,000", 
+        "totalResults": "988000", 
+        "searchTime": 0.373345
+    }
+}

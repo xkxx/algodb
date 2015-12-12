@@ -1,0 +1,180 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Fair-share scheduling - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Fair</b>-<b>share scheduling</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Fair-share_scheduling", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Fair</b>-<b>share</b>_<b>scheduling</b>", 
+            "snippet": "Fair-share scheduling is a scheduling algorithm for computer operating systems \nin which the CPU usage is equally distributed among system users or groups,\u00a0...", 
+            "htmlSnippet": "<b>Fair</b>-<b>share scheduling</b> is a scheduling algorithm for computer operating systems <br>\nin which the CPU usage is equally distributed among system users or groups,&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Fair-share_scheduling", 
+            "cacheId": "IvXjpu1PudoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Completely Fair Scheduler - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Completely <b>Fair Scheduler</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Completely_Fair_Scheduler", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Completely_<b>Fair</b>_<b>Scheduler</b>", 
+            "snippet": "The Completely Fair Scheduler (CFS) is a process scheduler which was ... the \natomic units by which an individual process' share of the CPU was allocated (\nthus\u00a0...", 
+            "htmlSnippet": "The Completely <b>Fair Scheduler</b> (CFS) is a process <b>scheduler</b> which was ... the <br>\natomic units by which an individual process&#39; <b>share</b> of the CPU was allocated (<br>\nthus&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Completely_Fair_Scheduler", 
+            "cacheId": "nwbXoBf31voJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Max-min fairness - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Max-min fairness - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Max-min_fairness", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Max-min_<b>fair</b>ness", 
+            "snippet": "Fair queuing is an example of a max-min fair packet scheduling algorithm for ... In \nequal sharing, some dataflows may not be able to utilize their \"fair share\" of the\u00a0...", 
+            "htmlSnippet": "<b>Fair</b> queuing is an example of a max-min <b>fair</b> packet <b>scheduling</b> algorithm for ... In <br>\nequal sharing, some dataflows may not be able to utilize their &quot;<b>fair share</b>&quot; of the&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Max-min_fairness", 
+            "cacheId": "noPnHK0yPToJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Lottery scheduling - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Lottery <b>scheduling</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Lottery_scheduling", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Lottery_<b>scheduling</b>", 
+            "snippet": "Lottery Scheduling is a probabilistic scheduling algorithm for processes in an ... \nscheduling algorithms, such as Shortest job next and Fair-share scheduling.", 
+            "htmlSnippet": "Lottery Scheduling is a probabilistic scheduling algorithm for processes in an ... <br>\nscheduling algorithms, such as Shortest job next and <b>Fair</b>-<b>share scheduling</b>.", 
+            "link": "https://en.wikipedia.org/wiki/Lottery_scheduling", 
+            "cacheId": "A7ToljWHp1IJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Fair queuing - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Fair</b> queuing - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Fair_queuing", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Fair</b>_queuing", 
+            "snippet": "Fair queuing is a family of scheduling algorithms used in some process and ... or \nmany data packets, cannot take more than its fair share of the link capacity.", 
+            "htmlSnippet": "<b>Fair</b> queuing is a family of <b>scheduling</b> algorithms used in some process and ... or <br>\nmany data packets, cannot take more than its <b>fair share</b> of the link capacity.", 
+            "link": "https://en.wikipedia.org/wiki/Fair_queuing", 
+            "cacheId": "WbyDQykGZGsJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Scheduling (computing) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Scheduling</b> (computing) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Scheduling_(computing)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Scheduling</b>_(computing)", 
+            "snippet": "The simplest best-effort scheduling algorithms are round-robin, fair queuing (a ..... \ntwo new scheduling classes, namely fixed priority class and fair share class.", 
+            "htmlSnippet": "The simplest best-effort <b>scheduling</b> algorithms are round-robin, <b>fair</b> queuing (a ..... <br>\ntwo new <b>scheduling</b> classes, namely fixed priority class and <b>fair share</b> class.", 
+            "link": "https://en.wikipedia.org/wiki/Scheduling_(computing)", 
+            "cacheId": "I6wQeqME3O8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Multilevel feedback queue - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Multilevel feedback queue - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Multilevel_feedback_queue", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Multilevel_feedback_queue", 
+            "snippet": "In computer science, a multilevel feedback queue is a scheduling algorithm. \nSolaris ... Scheduling (computing) \u00b7 Fair-share scheduling \u00b7 Round-robin \nscheduling\u00a0...", 
+            "htmlSnippet": "In computer science, a multilevel feedback queue is a scheduling algorithm. <br>\nSolaris ... Scheduling (computing) &middot; <b>Fair</b>-<b>share scheduling</b> &middot; Round-robin <br>\nscheduling&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Multilevel_feedback_queue", 
+            "cacheId": "jDFtHt06cMAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Comparison of cluster software - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Comparison of cluster software - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Comparison_of_cluster_software", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Comparison_of_cluster_software", 
+            "snippet": "This software can be grossly separated in 4 categories: Job scheduler, .... policy \ncontrolled (e.g. fair-share, deadline, resource dependent) or manual, Yes; can\u00a0...", 
+            "htmlSnippet": "This software can be grossly separated in 4 categories: Job <b>scheduler</b>, .... policy <br>\ncontrolled (e.g. <b>fair</b>-<b>share</b>, deadline, resource dependent) or manual, Yes; can&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Comparison_of_cluster_software", 
+            "cacheId": "XERk-J-fKe4J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Category:Processor scheduling algorithms - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Category:Processor <b>scheduling</b> algorithms - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../Category:Processor_scheduling_algorithms", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Category:Processor_<b>scheduling</b>_algorithms", 
+            "snippet": "Pages in category \"Processor scheduling algorithms\". The following ... F. Fair-\nshare scheduling \u00b7 Fixed-priority pre-emptive scheduling \u00b7 Foreground-\nbackground\u00a0...", 
+            "htmlSnippet": "Pages in category &quot;Processor scheduling algorithms&quot;. The following ... F. <b>Fair</b>-<br>\n<b>share scheduling</b> &middot; Fixed-priority pre-emptive scheduling &middot; Foreground-<br>\nbackground&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Category:Processor_scheduling_algorithms", 
+            "cacheId": "d1AmdPiOKfEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Multilevel queue - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Multilevel queue - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Multilevel_queue", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Multilevel_queue", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "246", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRU7I7c2jTi6JWcEK3Pp1EIboadP6t-J6fm2BDqySLSnIwSTcSD4_OKUKU", 
+                        "height": "205"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c4/Multilevel.jpg/1000px-Multilevel.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "Multi-level queue :196 scheduling algorithm is used in scenarios where the \nprocesses can be classified into groups ... Fair-share scheduling \u00b7 Lottery \nscheduling\u00a0...", 
+            "htmlSnippet": "Multi-level queue <sup>:196</sup> scheduling algorithm is used in scenarios where the <br>\nprocesses can be classified into groups ... <b>Fair</b>-<b>share scheduling</b> &middot; Lottery <br>\nscheduling&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Multilevel_queue", 
+            "cacheId": "ROmTEO4LPWcJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Fair-share scheduling", 
+                "safe": "off", 
+                "searchTerms": "Fair-share scheduling", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "1020"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Fair-share scheduling", 
+                "safe": "off", 
+                "searchTerms": "Fair-share scheduling", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "1020"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.28", 
+        "formattedTotalResults": "1,020", 
+        "totalResults": "1020", 
+        "searchTime": 0.277039
+    }
+}

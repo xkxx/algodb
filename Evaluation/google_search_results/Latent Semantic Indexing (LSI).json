@@ -1,0 +1,194 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Latent semantic indexing - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Latent semantic indexing</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Latent_semantic_indexing", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Latent</b>_<b>semantic</b>_<b>indexing</b>", 
+            "snippet": "[edit]. The computed Tk and Dk matrices define the term and document vector \nspaces, which with\u00a0...", 
+            "htmlSnippet": "[edit]. The computed Tk and Dk matrices define the term and document vector <br>\nspaces, which with&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Latent_semantic_indexing", 
+            "cacheId": "28-G1Z-MNK4J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Latent semantic analysis - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Latent semantic analysis</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Latent_semantic_analysis", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Latent</b>_<b>semantic</b>_<b>analysis</b>", 
+            "snippet": "Latent semantic analysis (LSA) is a technique in natural language processing, ... \nto information retrieval, it is sometimes called Latent Semantic Indexing (LSI).", 
+            "htmlSnippet": "Latent semantic analysis (LSA) is a technique in natural language processing, ... <br>\nto information retrieval, it is sometimes called <b>Latent Semantic Indexing</b> (<b>LSI</b>).", 
+            "link": "https://en.wikipedia.org/wiki/Latent_semantic_analysis", 
+            "cacheId": "piYH4FYe7uoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Probabilistic latent semantic analysis - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Probabilistic <b>latent semantic analysis</b> - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Probabilistic_latent_semantic_analysis", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Probabilistic_<b>latent</b>_<b>semantic</b>_<b>analysis</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "240", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTccLmjBrI8YJa9fNVee1Uw89ROtB04eByKIyjOdLOGMgQSo2NQMze2CA", 
+                        "height": "103"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Plsi_1.svg/300px-Plsi_1.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "Probabilistic latent semantic analysis (PLSA), also known as probabilistic latent \nsemantic indexing (PLSI, especially in information retrieval circles) is a statistical\n\u00a0...", 
+            "htmlSnippet": "Probabilistic <b>latent semantic analysis</b> (PLSA), also known as probabilistic <b>latent</b> <br>\n<b>semantic indexing</b> (PLSI, especially in information retrieval circles) is a statistical<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Probabilistic_latent_semantic_analysis", 
+            "cacheId": "VJjVlar-e4YJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Latent semantic indexing - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Latent semantic indexing</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3ALatent_semantic_indexing", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>Latent</b>_<b>semantic</b>_<b>indexing</b>", 
+            "snippet": "LSA and LSI are conceptually different in that LSA is primarily concerned with ... \nLatentDrK/lsi \u2192 Latent Semantic Indexing \u2014(Discuss)\u2014 Created new article for\u00a0...", 
+            "htmlSnippet": "LSA and <b>LSI</b> are conceptually different in that LSA is primarily concerned with ... <br>\nLatentDrK/<b>lsi</b> \u2192 <b>Latent Semantic Indexing</b> \u2014(Discuss)\u2014 Created new article for&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3ALatent_semantic_indexing", 
+            "cacheId": "q2SsF-gH6HIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "LSI - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>LSI</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/LSI", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>LSI</b>", 
+            "snippet": "Latent semantic indexing, a technique in natural language processing; LSI-11, an \nearly ... This disambiguation page lists articles associated with the title LSI.", 
+            "htmlSnippet": "<b>Latent semantic indexing</b>, a technique in natural language processing; <b>LSI</b>-11, an <br>\nearly ... This disambiguation page lists articles associated with the title <b>LSI</b>.", 
+            "link": "https://en.wikipedia.org/wiki/LSI", 
+            "cacheId": "5LWEnn03kokJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Semantic analysis (machine learning) - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Semantic analysis</b> (machine learning) - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Semantic_analysis_(machine_learning)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Semantic</b>_<b>analysis</b>_(machine_learning)", 
+            "snippet": "Latent semantic analysis (sometimes latent semantic indexing), is a class of \ntechniques where documents are represented as vectors in term space. A \nprominent\u00a0...", 
+            "htmlSnippet": "<b>Latent semantic analysis</b> (sometimes <b>latent semantic indexing</b>), is a class of <br>\ntechniques where documents are represented as vectors in term space. A <br>\nprominent&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Semantic_analysis_(machine_learning)", 
+            "cacheId": "BXWY2_UUWDMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Latent semantic mapping - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Latent semantic</b> mapping - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Latent_semantic_mapping", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Latent</b>_<b>semantic</b>_mapping", 
+            "snippet": "It is a generalization of latent semantic analysis. In information retrieval, LSA \nenables retrieval on the basis of conceptual content, instead of merely matching\u00a0...", 
+            "htmlSnippet": "It is a generalization of <b>latent semantic analysis</b>. In information retrieval, LSA <br>\nenables retrieval on the basis of conceptual content, instead of merely matching&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Latent_semantic_mapping", 
+            "cacheId": "h9u10wqSqq8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Concept search - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Concept search - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Concept_search", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Concept_search", 
+            "snippet": "Information retrieval systems that fall into the semantic category will attempt to ... \nused as the foundation for a technique called Latent Semantic Indexing (LSI)\u00a0...", 
+            "htmlSnippet": "Information retrieval systems that fall into the semantic category will attempt to ... <br>\nused as the foundation for a technique called <b>Latent Semantic Indexing</b> (<b>LSI</b>)&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Concept_search", 
+            "cacheId": "uXUtC1n1kKYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Topic model - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Topic model - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Topic_model", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Topic_model", 
+            "snippet": "Another one, called Probabilistic latent semantic indexing (PLSI), was created by \nThomas Hofmann in 1999. Latent Dirichlet allocation (LDA), perhaps the most\u00a0...", 
+            "htmlSnippet": "Another one, called Probabilistic <b>latent semantic indexing</b> (PLSI), was created by <br>\nThomas Hofmann in 1999. Latent Dirichlet allocation (LDA), perhaps the most&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Topic_model", 
+            "cacheId": "UVRF-uMLFTgJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Latent Dirichlet allocation - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Latent</b> Dirichlet allocation - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Latent</b>_Dirichlet_allocation", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "200", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTfvEuAMMK6vVX8CeodNBFoZ2JlQo5NSiWPlrNp1SHv5lDvtadt-o8-vQ", 
+                        "height": "104"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Latent_Dirichlet_allocation.svg/250px-Latent_Dirichlet_allocation.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "This is similar to probabilistic latent semantic analysis (pLSA), except that in LDA \nthe topic distribution is assumed to have a Dirichlet prior. In practice, this results\u00a0...", 
+            "htmlSnippet": "This is similar to probabilistic <b>latent semantic analysis</b> (pLSA), except that in LDA <br>\nthe topic distribution is assumed to have a Dirichlet prior. In practice, this results&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation", 
+            "cacheId": "Oll_R6g_aLoJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Latent Semantic Indexing (LSI)", 
+                "safe": "off", 
+                "searchTerms": "Latent Semantic Indexing (LSI)", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "32"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Latent Semantic Indexing (LSI)", 
+                "safe": "off", 
+                "searchTerms": "Latent Semantic Indexing (LSI)", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "32"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.37", 
+        "formattedTotalResults": "32", 
+        "totalResults": "32", 
+        "searchTime": 0.37382
+    }
+}

@@ -1,0 +1,209 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Luhn algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Luhn</b> algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Luhn_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Luhn</b>_algorithm", 
+            "snippet": "The Luhn algorithm or Luhn formula, also known as the \"modulus 10\" or \"mod 10\" \nalgorithm, is a simple checksum formula used to validate a variety of\u00a0...", 
+            "htmlSnippet": "The <b>Luhn</b> algorithm or <b>Luhn</b> formula, also known as the &quot;modulus 10&quot; or &quot;mod 10&quot; <br>\nalgorithm, is a simple checksum formula used to validate a variety of&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Luhn_algorithm", 
+            "cacheId": "wYBcCT1lU40J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Hans Peter Luhn - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Hans Peter <b>Luhn</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Hans_Peter_Luhn", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Hans_Peter_<b>Luhn</b>", 
+            "pagemap": {
+                "hcard": [
+                    {
+                        "bday": "1896-07-01", 
+                        "category": "Computer science", 
+                        "fn": "Hans Peter Luhn"
+                    }
+                ]
+            }, 
+            "snippet": "Hans Peter Luhn (July 1, 1896 \u2013 August 19, 1964) was a researcher in the field of \ncomputer science for IBM, and creator of the Luhn algorithm, KWIC (Key\u00a0...", 
+            "htmlSnippet": "Hans Peter <b>Luhn</b> (July 1, 1896 \u2013 August 19, 1964) was a researcher in the field of <br>\ncomputer science for IBM, and creator of the <b>Luhn</b> algorithm, KWIC (Key&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Hans_Peter_Luhn", 
+            "cacheId": "0fRqHB27VesJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Luhn mod N algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Luhn</b> mod N algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Luhn_mod_N_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Luhn</b>_mod_N_algorithm", 
+            "snippet": "The Luhn mod N algorithm is an extension to the Luhn algorithm (also known as \nmod 10 algorithm) that allows it to work with sequences of non-numeric\u00a0...", 
+            "htmlSnippet": "The <b>Luhn</b> mod N algorithm is an extension to the <b>Luhn</b> algorithm (also known as <br>\nmod 10 algorithm) that allows it to work with sequences of non-numeric&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Luhn_mod_N_algorithm", 
+            "cacheId": "p5monZBcLQAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Nolan Luhn - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Nolan <b>Luhn</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Nolan_Luhn", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Nolan_<b>Luhn</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "140", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTA64K_GTvKXoLnsU3MoGqv7VNmfpPhD5CCdkv_JVW9_nKWPjKxYSiEGjlM", 
+                        "height": "169"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Nolan_Luhn_1948_Bowman.jpg/175px-Nolan_Luhn_1948_Bowman.jpg"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "bday": "1921-07-27", 
+                        "fn": "Nolan Luhn"
+                    }
+                ]
+            }, 
+            "snippet": "Nolan Harry Luhn (July 27, 1921 \u2013 November 27, 2011) was a professional \nAmerican football player who played wide receiver for five seasons for the Green\n\u00a0...", 
+            "htmlSnippet": "Nolan Harry <b>Luhn</b> (July 27, 1921 \u2013 November 27, 2011) was a professional <br>\nAmerican football player who played wide receiver for five seasons for the Green<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Nolan_Luhn", 
+            "cacheId": "SZ0exktztCEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Luhn algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Luhn</b> algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3ALuhn_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>Luhn</b>_algorithm", 
+            "snippet": "But Luhn died in 1964, so wasn't creating much in the late 1960s. I suspect it's \njust a dangling modifier, and it should probably say that it was adopted in the late\n\u00a0...", 
+            "htmlSnippet": "But <b>Luhn</b> died in 1964, so wasn&#39;t creating much in the late 1960s. I suspect it&#39;s <br>\njust a dangling modifier, and it should probably say that it was adopted in the late<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3ALuhn_algorithm", 
+            "cacheId": "8yKpAAh0qNQJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "User:Melab-1/Source Codes/VBScript/Luhn algorithm - Wikipedia ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "User:Melab-1/Source Codes/VBScript/<b>Luhn</b> algorithm - Wikipedia <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/User:Melab-1/.../Luhn_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/User:Melab-1/.../<b>Luhn</b>_algorithm", 
+            "snippet": "Implementation of the Luhn algorithm. Source code taken from Luhn validation \ncode in VBScript (ASP). Function LuhnCheck(strNumber) ' Use a quick regular\u00a0...", 
+            "htmlSnippet": "Implementation of the <b>Luhn</b> algorithm. Source code taken from <b>Luhn</b> validation <br>\ncode in VBScript (ASP). Function LuhnCheck(strNumber) &#39; Use a quick regular&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/User:Melab-1/Source_Codes/VBScript/Luhn_algorithm", 
+            "cacheId": "mzJG50mAXxcJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "International Mobile Station Equipment Identity - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "International Mobile Station Equipment Identity - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../International_Mobile_Station_Equipment_Identity", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../International_Mobile_Station_Equipment_Identity", 
+            "snippet": "The remainder of the IMEI is manufacturer-defined, with a Luhn check digit at the \nend. For the IMEI format prior to 2003, the GSMA guideline was to have this\u00a0...", 
+            "htmlSnippet": "The remainder of the IMEI is manufacturer-defined, with a <b>Luhn</b> check digit at the <br>\nend. For the IMEI format prior to 2003, the GSMA guideline was to have this&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/International_Mobile_Station_Equipment_Identity", 
+            "cacheId": "jjbJJZk6LZkJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Sentence extraction - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Sentence extraction - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Sentence_extraction", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Sentence_extraction", 
+            "snippet": "Luhn proposed to assign more weight to sentences at the beginning of the \ndocument or a paragraph. Edmundson stressed the importance of title-words for\n\u00a0...", 
+            "htmlSnippet": "<b>Luhn</b> proposed to assign more weight to sentences at the beginning of the <br>\ndocument or a paragraph. Edmundson stressed the importance of title-words for<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Sentence_extraction", 
+            "cacheId": "o7pUX3_yx9sJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Hans Peter Luhn - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:Hans Peter <b>Luhn</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3AHans_Peter_Luhn", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3AHans_Peter_<b>Luhn</b>", 
+            "snippet": "This article is within the scope of WikiProject Biography, a collaborative effort to \ncreate, develop and organize Wikipedia's articles about people. All interested\u00a0...", 
+            "htmlSnippet": "This article is within the scope of WikiProject Biography, a collaborative effort to <br>\ncreate, develop and organize Wikipedia&#39;s articles about people. All interested&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3AHans_Peter_Luhn", 
+            "cacheId": "0UEyyIjJhj8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "User:Rajrajasthan - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "User:Rajrajasthan - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/User:Rajrajasthan", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/User:Rajrajasthan", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "140", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRrldRwiy3VhxmIIcRIA5uVbueSg1FYfznildz0IbOKQqRutfaWr3fSelY", 
+                        "height": "82"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Credit_card-first_4_digits.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "JCB (obsolete), 1800,2131, No, 15, Luhn algorithm, JCB. Laser (debit card), \n6304, 6706, 6771, 6709, Yes, 16-19, Luhn algorithm / unknown? Lasr.", 
+            "htmlSnippet": "JCB (obsolete), 1800,2131, No, 15, <b>Luhn</b> algorithm, JCB. Laser (debit card), <br>\n6304, 6706, 6771, 6709, Yes, 16-19, <b>Luhn</b> algorithm / unknown? Lasr.", 
+            "link": "https://en.wikipedia.org/wiki/User:Rajrajasthan", 
+            "cacheId": "mZTQUwxhO4EJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Luhn", 
+                "safe": "off", 
+                "searchTerms": "Luhn", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "395"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Luhn", 
+                "safe": "off", 
+                "searchTerms": "Luhn", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "395"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.26", 
+        "formattedTotalResults": "395", 
+        "totalResults": "395", 
+        "searchTime": 0.259072
+    }
+}

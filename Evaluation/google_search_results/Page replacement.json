@@ -1,0 +1,180 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Page replacement algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Page replacement</b> algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Page_replacement_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Page</b>_<b>replacement</b>_algorithm", 
+            "snippet": "In a computer operating system that uses paging for virtual memory management\n, page replacement algorithms decide which memory pages to page out (swap\u00a0...", 
+            "htmlSnippet": "In a computer operating system that uses paging for virtual memory management<br>\n, <b>page replacement</b> algorithms decide which memory pages to page out (swap&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Page_replacement_algorithm", 
+            "cacheId": "Zb0CkcwohY4J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "B\u00e9l\u00e1dy's anomaly - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "B\u00e9l\u00e1dy&#39;s anomaly - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/B\u00e9l\u00e1dy's_anomaly", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/B\u00e9l\u00e1dy&#39;s_anomaly", 
+            "snippet": "This phenomenon is commonly experienced when using the First in First Out (\nFIFO) page replacement algorithm. L\u00e1szl\u00f3 B\u00e9l\u00e1dy demonstrated this in 1969.", 
+            "htmlSnippet": "This phenomenon is commonly experienced when using the First in First Out (<br>\nFIFO) <b>page replacement</b> algorithm. L\u00e1szl\u00f3 B\u00e9l\u00e1dy demonstrated this in 1969.", 
+            "link": "https://en.wikipedia.org/wiki/B%C3%A9l%C3%A1dy's_anomaly", 
+            "cacheId": "ibIyEdlfewoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Paging - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Paging - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Paging", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Paging", 
+            "snippet": "The method the operating system uses to select the page frame to reuse \u2014 its \npage replacement algorithm \u2014 is important to efficiency. The operating system\u00a0...", 
+            "htmlSnippet": "The method the operating system uses to select the page frame to reuse \u2014 its <br>\n<b>page replacement</b> algorithm \u2014 is important to efficiency. The operating system&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Paging", 
+            "cacheId": "66GUOWMJ7YAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Adaptive replacement cache - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Adaptive <b>replacement</b> cache - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Adaptive_replacement_cache", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Adaptive_<b>replacement</b>_cache", 
+            "snippet": "Adaptive Replacement Cache (ARC) is a page replacement algorithm with better \nperformance than LRU (least recently used) developed at the IBM Almaden\u00a0...", 
+            "htmlSnippet": "Adaptive Replacement Cache (ARC) is a <b>page replacement</b> algorithm with better <br>\nperformance than LRU (least recently used) developed at the IBM Almaden&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Adaptive_replacement_cache", 
+            "cacheId": "ORhfIFEZvl0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Dirty bit - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Dirty bit - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Dirty_bit", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Dirty_bit", 
+            "snippet": "Dirty bits are used by the CPU cache and in the page replacement algorithms of \nan operating system. Dirty bits can also be used in Incremental computing by\u00a0...", 
+            "htmlSnippet": "Dirty bits are used by the CPU cache and in the <b>page replacement</b> algorithms of <br>\nan operating system. Dirty bits can also be used in Incremental computing by&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Dirty_bit", 
+            "cacheId": "AVT3YrU0stgJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Cache algorithms - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Cache algorithms - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Cache_algorithms", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Cache_algorithms", 
+            "snippet": "For detailed algorithms specific to paging, see Page replacement algorithm. For \ndetailed algorithms specific to the cache between a CPU and RAM, see CPU\u00a0...", 
+            "htmlSnippet": "For detailed algorithms specific to paging, see <b>Page replacement</b> algorithm. For <br>\ndetailed algorithms specific to the cache between a CPU and RAM, see CPU&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Cache_algorithms", 
+            "cacheId": "OtDsVG6sgRcJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Working set - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Working set - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Working_set", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Working_set", 
+            "snippet": "If too few pages of a process are kept in main memory, then the page fault ... The \nworking set isn't a page replacement algorithm, but page-replacement\u00a0...", 
+            "htmlSnippet": "If too few pages of a process are kept in main memory, then the page fault ... The <br>\nworking set isn&#39;t a <b>page replacement</b> algorithm, but <b>page</b>-<b>replacement</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Working_set", 
+            "cacheId": "mzjNjTzxpdAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Page replacement algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Page replacement</b> algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3APage_replacement_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>Page</b>_<b>replacement</b>_algorithm", 
+            "snippet": "6 clock replacement unclear; 7 Second Chance - mistake; 8 confusing; 9 Variants \non LRU contains .... Papers about the Multics Page Replacement Algorithm:.", 
+            "htmlSnippet": "6 clock replacement unclear; 7 Second Chance - mistake; 8 confusing; 9 Variants <br>\non LRU contains .... Papers about the Multics <b>Page Replacement</b> Algorithm:.", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3APage_replacement_algorithm", 
+            "cacheId": "cL6iShoHshwJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Least frequently used - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Least frequently used - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Least_frequently_used", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Least_frequently_used", 
+            "snippet": "See also[edit]. Paging \u00b7 Page Replacement Algorithm \u00b7 Not Frequently Used ... \nThis page was last modified on 14 April 2015, at 00:51. Text is available under \nthe\u00a0...", 
+            "htmlSnippet": "See also[edit]. Paging &middot; <b>Page Replacement</b> Algorithm &middot; Not Frequently Used ... <br>\nThis page was last modified on 14 April 2015, at 00:51. Text is available under <br>\nthe&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Least_frequently_used", 
+            "cacheId": "KajmZJUZtpkJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "LIRS caching algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "LIRS caching algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/LIRS_caching_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/LIRS_caching_algorithm", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "330", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRkeR5QjahO7DVFD6YpceX2yvaKVGdSLEqJ7eAmsmfdz8XEk9e7gdPiqidS", 
+                        "height": "152"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/LIRS_replacement_operations.png/660px-LIRS_replacement_operations.png"
+                    }
+                ]
+            }, 
+            "snippet": "LIRS (Low Inter-reference Recency Set) is a page replacement algorithm with an \nimproved performance over LRU (Least Recently Used) and many other newer\u00a0...", 
+            "htmlSnippet": "LIRS (Low Inter-reference Recency Set) is a <b>page replacement</b> algorithm with an <br>\nimproved performance over LRU (Least Recently Used) and many other newer&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/LIRS_caching_algorithm", 
+            "cacheId": "EElDgyTZLAAJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Page replacement", 
+                "safe": "off", 
+                "searchTerms": "Page replacement", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "150000"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Page replacement", 
+                "safe": "off", 
+                "searchTerms": "Page replacement", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "150000"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.29", 
+        "formattedTotalResults": "150,000", 
+        "totalResults": "150000", 
+        "searchTime": 0.293425
+    }
+}

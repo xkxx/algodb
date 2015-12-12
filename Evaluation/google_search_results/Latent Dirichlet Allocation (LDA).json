@@ -1,0 +1,208 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Latent Dirichlet allocation - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Latent Dirichlet allocation</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Latent</b>_<b>Dirichlet</b>_<b>allocation</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "200", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTfvEuAMMK6vVX8CeodNBFoZ2JlQo5NSiWPlrNp1SHv5lDvtadt-o8-vQ", 
+                        "height": "104"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Latent_Dirichlet_allocation.svg/250px-Latent_Dirichlet_allocation.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "[edit]. In LDA, each document may be viewed as a mixture of various topics. This \nis similar to probabilistic latent semantic analysis\u00a0...", 
+            "htmlSnippet": "[edit]. In <b>LDA</b>, each document may be viewed as a mixture of various topics. This <br>\nis similar to probabilistic <b>latent</b> semantic analysis&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation", 
+            "cacheId": "Oll_R6g_aLoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Topic model - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Topic model - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Topic_model", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Topic_model", 
+            "snippet": "Another one, called Probabilistic latent semantic indexing (PLSI), was created by \nThomas Hofmann in 1999. Latent Dirichlet allocation (LDA), perhaps the most\u00a0...", 
+            "htmlSnippet": "Another one, called Probabilistic latent semantic indexing (PLSI), was created by <br>\nThomas Hofmann in 1999. <b>Latent Dirichlet allocation</b> (<b>LDA</b>), perhaps the most&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Topic_model", 
+            "cacheId": "UVRF-uMLFTgJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Linear discriminant analysis - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Linear discriminant analysis - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Linear_discriminant_analysis", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Linear_discriminant_analysis", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "160", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSPNfiSu7vUwieNe2O_hDKM-ofAiUFy7RVXALfWSuxqLZYH5dAGznJ-pts", 
+                        "height": "194"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/R._A._Fischer.jpg/200px-R._A._Fischer.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "Not to be confused with latent Dirichlet allocation. Ronald Fisher. Linear \ndiscriminant analysis (LDA) is a generalization of Fisher's linear discriminant, a \nmethod\u00a0...", 
+            "htmlSnippet": "Not to be confused with <b>latent Dirichlet allocation</b>. Ronald Fisher. Linear <br>\ndiscriminant analysis (<b>LDA</b>) is a generalization of Fisher&#39;s linear discriminant, a <br>\nmethod&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Linear_discriminant_analysis", 
+            "cacheId": "U-VSPX1F0ysJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Pachinko allocation - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Pachinko <b>allocation</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Pachinko_allocation", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Pachinko_<b>allocation</b>", 
+            "snippet": "The algorithm improves upon earlier topic models such as latent Dirichlet \nallocation (LDA) by modeling correlations between topics in addition to the word\n\u00a0...", 
+            "htmlSnippet": "The algorithm improves upon earlier topic models such as <b>latent Dirichlet</b> <br>\n<b>allocation</b> (<b>LDA</b>) by modeling correlations between topics in addition to the word<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Pachinko_allocation", 
+            "cacheId": "wm3HMTyGRIoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Dynamic topic model - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Dynamic topic model - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Dynamic_topic_model", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Dynamic_topic_model", 
+            "snippet": "This family of models was proposed by David Blei and John Lafferty and is an \nextension to Latent Dirichlet Allocation (LDA) that can handle sequential\u00a0...", 
+            "htmlSnippet": "This family of models was proposed by David Blei and John Lafferty and is an <br>\nextension to <b>Latent Dirichlet Allocation</b> (<b>LDA</b>) that can handle sequential&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Dynamic_topic_model", 
+            "cacheId": "c7axZiHI3QMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Dirichlet-multinomial distribution - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Dirichlet</b>-multinomial distribution - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Dirichlet-multinomial_distribution", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Dirichlet</b>-multinomial_distribution", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "206", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ08gfGWGdMX8RQdB0GwZpFTGxACbC2ypRXIzZG4oC3i8TsQUxmxEKrgpW9", 
+                        "height": "244"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/math/2/c/8/2c802df072c9ab07a1e8280918eff4a9.png"
+                    }
+                ]
+            }, 
+            "snippet": "... latent Dirichlet allocation (LDA) topic model. ... (the latent variable topic \nidentities); and we have\u00a0...", 
+            "htmlSnippet": "... <b>latent Dirichlet allocation</b> (<b>LDA</b>) topic model. ... (the latent variable topic <br>\nidentities); and we have&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Dirichlet-multinomial_distribution", 
+            "cacheId": "KorJKgVJSA0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "LDA - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>LDA</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/LDA", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>LDA</b>", 
+            "snippet": "LDA. From Wikipedia, the free encyclopedia. Jump to: navigation, search ... Laser \nDoppler anemometry \u00b7 Latent Dirichlet allocation, a type of topic model \u00b7 Linear\u00a0...", 
+            "htmlSnippet": "<b>LDA</b>. From Wikipedia, the free encyclopedia. Jump to: navigation, search ... Laser <br>\nDoppler anemometry &middot; <b>Latent Dirichlet allocation</b>, a type of topic model &middot; Linear&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/LDA", 
+            "cacheId": "_XSQVDOpZNAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Gensim - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Gensim - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Gensim", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Gensim", 
+            "snippet": "... in Cython), hierarchical Dirichlet processes (HDP), latent semantic analysis (\nLSA) and latent Dirichlet allocation (LDA), including distributed parallel versions.", 
+            "htmlSnippet": "... in Cython), hierarchical Dirichlet processes (HDP), latent semantic analysis (<br>\nLSA) and <b>latent Dirichlet allocation</b> (<b>LDA</b>), including distributed parallel versions.", 
+            "link": "https://en.wikipedia.org/wiki/Gensim", 
+            "cacheId": "lsUfZXWhGuoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Hierarchical Dirichlet process - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Hierarchical <b>Dirichlet</b> process - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Hierarchical_Dirichlet_process", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Hierarchical_<b>Dirichlet</b>_process", 
+            "snippet": "In statistics and machine learning, the hierarchical Dirichlet process (HDP) is a ... \na natural nonparametric generalization of Latent Dirichlet allocation, where the\u00a0...", 
+            "htmlSnippet": "In statistics and machine learning, the hierarchical Dirichlet process (HDP) is a ... <br>\na natural nonparametric generalization of <b>Latent Dirichlet allocation</b>, where the&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Hierarchical_Dirichlet_process", 
+            "cacheId": "XH33J3L4McsJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Mixture model - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:Mixture model - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3AMixture_model", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3AMixture_model", 
+            "snippet": "... 2 suggests that instead of mixture modeling you could use Latent Dirichlet \nAllocation. (LDA) But isn't LDA just a Bayesian mixture model with a dirichlet prior\n?", 
+            "htmlSnippet": "... 2 suggests that instead of mixture modeling you could use <b>Latent Dirichlet</b> <br>\n<b>Allocation</b>. (<b>LDA</b>) But isn&#39;t LDA just a Bayesian mixture model with a dirichlet prior<br>\n?", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3AMixture_model", 
+            "cacheId": "Lx5rmvQ5PnwJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Latent Dirichlet Allocation (LDA)", 
+                "safe": "off", 
+                "searchTerms": "Latent Dirichlet Allocation (LDA)", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "55"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Latent Dirichlet Allocation (LDA)", 
+                "safe": "off", 
+                "searchTerms": "Latent Dirichlet Allocation (LDA)", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "55"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.26", 
+        "formattedTotalResults": "55", 
+        "totalResults": "55", 
+        "searchTime": 0.258085
+    }
+}

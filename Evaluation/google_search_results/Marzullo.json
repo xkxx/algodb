@@ -1,0 +1,224 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Marzullo's algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Marzullo&#39;s</b> algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Marzullo's_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Marzullo&#39;s</b>_algorithm", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "317", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB77Dj97Zc9VuYQ0nClRPsZLsUEY1aBN4LoDitWpJoI7BMZf3JKS1uL7mc", 
+                        "height": "159"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Marzullo_example-1.jpg/600px-Marzullo_example-1.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "Marzullo's algorithm, invented by Keith Marzullo for his Ph.D. dissertation in 1984\n, is an agreement algorithm used to select sources for estimating accurate time\u00a0...", 
+            "htmlSnippet": "<b>Marzullo&#39;s</b> algorithm, invented by Keith <b>Marzullo</b> for his Ph.D. dissertation in 1984<br>\n, is an agreement algorithm used to select sources for estimating accurate time&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Marzullo's_algorithm", 
+            "cacheId": "bRLgHtmhhAEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Keith Marzullo - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Keith <b>Marzullo</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Keith_Marzullo", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Keith_<b>Marzullo</b>", 
+            "pagemap": {
+                "hcard": [
+                    {
+                        "fn": "Keith Marzullo"
+                    }
+                ]
+            }, 
+            "snippet": "Keith Marzullo. Doctoral students, Lorenzo Alvisi, Karan Bhatia, Navin Budhiraja, \nMatthew Clegg, Meng-Jang Lin, Laura Sabel, Amitabh Shah, Alex Siegel,\u00a0...", 
+            "htmlSnippet": "Keith <b>Marzullo</b>. Doctoral students, Lorenzo Alvisi, Karan Bhatia, Navin Budhiraja, <br>\nMatthew Clegg, Meng-Jang Lin, Laura Sabel, Amitabh Shah, Alex Siegel,&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Keith_Marzullo", 
+            "cacheId": "Fn9AoBACw2UJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Gigi Marzullo - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Gigi <b>Marzullo</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Gigi_Marzullo", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Gigi_<b>Marzullo</b>", 
+            "pagemap": {
+                "hcard": [
+                    {
+                        "bday": "1953-07-25", 
+                        "fn": "Gigi Marzullo"
+                    }
+                ]
+            }, 
+            "snippet": "Luigi Marzullo (born 25 July 1953), better known as Gigi Marzullo, is an Italian \njournalist and television presenter. Born in Avellino, Marzullo started his career \nas\u00a0...", 
+            "htmlSnippet": "Luigi <b>Marzullo</b> (born 25 July 1953), better known as Gigi <b>Marzullo</b>, is an Italian <br>\njournalist and television presenter. Born in Avellino, <b>Marzullo</b> started his career <br>\nas&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Gigi_Marzullo", 
+            "cacheId": "e53ymFX3_ccJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Marzullo - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Marzullo</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Marzullo", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Marzullo</b>", 
+            "snippet": "This page or section lists people with the surname Marzullo. If an internal link \nintending to refer to a specific person led you to this page, you may wish to \nchange\u00a0...", 
+            "htmlSnippet": "This page or section lists people with the surname <b>Marzullo</b>. If an internal link <br>\nintending to refer to a specific person led you to this page, you may wish to <br>\nchange&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Marzullo", 
+            "cacheId": "fvgdAjtw93gJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Katie Marzullo - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Katie <b>Marzullo</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Katie_Marzullo", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Katie_<b>Marzullo</b>", 
+            "snippet": "Marzullo was born in Berkeley, California. She graduated from San Clemente \nHigh School in San Clemente, California, and then, she enrolled into California\u00a0...", 
+            "htmlSnippet": "<b>Marzullo</b> was born in Berkeley, California. She graduated from San Clemente <br>\nHigh School in San Clemente, California, and then, she enrolled into California&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Katie_Marzullo", 
+            "cacheId": "Ll4BcSY2OhIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "JP Marzullo - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "JP <b>Marzullo</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/JP_Marzullo", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/JP_<b>Marzullo</b>", 
+            "snippet": "JP Marzullo (born 20th century) is an American politician. He has served at the \nVice Chair of the New Hampshire Republican Party since January 2013. On \"Tax\n\u00a0...", 
+            "htmlSnippet": "JP <b>Marzullo</b> (born 20th century) is an American politician. He has served at the <br>\nVice Chair of the New Hampshire Republican Party since January 2013. On &quot;Tax<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/JP_Marzullo", 
+            "cacheId": "bBejwQwfgyEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Gianluca Marzullo - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Gianluca <b>Marzullo</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Gianluca_Marzullo", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Gianluca_<b>Marzullo</b>", 
+            "pagemap": {
+                "person": [
+                    {
+                        "org": "Lokomotive Leipzig", 
+                        "role": "Striker"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "bday": "1991-01-04", 
+                        "role": "Striker", 
+                        "fn": "Gianluca Marzullo"
+                    }
+                ]
+            }, 
+            "snippet": "Gianluca Marzullo (born January 4, 1991) is an Italian-German footballer \ncurrently plays for Lokomotive Leipzig. External links[edit]. Gianluca Marzullo at\u00a0...", 
+            "htmlSnippet": "Gianluca <b>Marzullo</b> (born January 4, 1991) is an Italian-German footballer <br>\ncurrently plays for Lokomotive Leipzig. External links[edit]. Gianluca <b>Marzullo</b> at&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Gianluca_Marzullo", 
+            "cacheId": "QSUvdV21HKoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Frank Marzullo - Wikipedia, the free encyclopedia - Cincinnati", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Frank <b>Marzullo</b> - Wikipedia, the free encyclopedia - Cincinnati", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Frank_Marzullo", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Frank_<b>Marzullo</b>", 
+            "snippet": "Frank Marzullo is an AMS seal meteorologist for WXIX-TV, the Fox network \naffiliate in Cincinnati, Ohio. He presently appears every weekday on the Fox 19\u00a0...", 
+            "htmlSnippet": "Frank <b>Marzullo</b> is an AMS seal meteorologist for WXIX-TV, the Fox network <br>\naffiliate in Cincinnati, Ohio. He presently appears every weekday on the Fox 19&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Frank_Marzullo", 
+            "cacheId": "n3ztw5q9vQoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "File:Marzullo example-2.jpg - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "File:<b>Marzullo</b> example-2.jpg - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/File:Marzullo_example-2.jpg", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/File:<b>Marzullo</b>_example-2.jpg", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "317", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgGyrz9ds-UrJRbPzBBW3QmaPGEkK8cmMJn2QXHowY43tsOJIH2f0tocg", 
+                        "height": "159"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Marzullo_example-2.jpg/800px-Marzullo_example-2.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "This image was uploaded in the JPEG format even though it consists of non-\nphotographic data. The information it contains could be stored more efficiently or\n\u00a0...", 
+            "htmlSnippet": "This image was uploaded in the JPEG format even though it consists of non-<br>\nphotographic data. The information it contains could be stored more efficiently or<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/File:Marzullo_example-2.jpg", 
+            "cacheId": "d2JzS7VGa7oJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Marzullo's algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Marzullo&#39;s</b> algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3AMarzullo's_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>Marzullo&#39;s</b>_algorithm", 
+            "snippet": "True or false: RickK knows how to get this article's link off of the Recent Changes \nheader. 66.245.70.19 22:51, 3 Jul 2004 (UTC). I added some more information\u00a0...", 
+            "htmlSnippet": "True or false: RickK knows how to get this article&#39;s link off of the Recent Changes <br>\nheader. 66.245.70.19 22:51, 3 Jul 2004 (UTC). I added some more information&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3AMarzullo's_algorithm", 
+            "cacheId": "_glNwMFo7PkJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Marzullo", 
+                "safe": "off", 
+                "searchTerms": "Marzullo", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "128"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Marzullo", 
+                "safe": "off", 
+                "searchTerms": "Marzullo", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "128"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.27", 
+        "formattedTotalResults": "128", 
+        "totalResults": "128", 
+        "searchTime": 0.271028
+    }
+}

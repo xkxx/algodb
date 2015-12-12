@@ -1,0 +1,301 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Shazam (service) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Shazam</b> (service) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Shazam_(service)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Shazam</b>_(service)", 
+            "pagemap": {
+                "hcard": [
+                    {
+                        "url": "www.shazam.com", 
+                        "bday": "1999", 
+                        "url_text": "www.shazam.com", 
+                        "fn": "Shazam Entertainment Ltd."
+                    }
+                ]
+            }, 
+            "snippet": "Shazam is an app for Macs, PCs, and smartphones, best known for its music \nidentification capabilities that has expanded to integrations with cinema, \nadvertising\u00a0...", 
+            "htmlSnippet": "<b>Shazam</b> is an app for Macs, PCs, and smartphones, best known for its music <br>\nidentification capabilities that has expanded to integrations with cinema, <br>\nadvertising&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Shazam_(service)", 
+            "cacheId": "vFhoNnpF0eIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Shazam! (TV series) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Shazam</b>! (TV series) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Shazam!_(TV_series)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Shazam</b>!_(TV_series)", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "192", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRtzcpIqi4cxxFNgRt3ufVqGCBmiq-jNSgxv6skz9RYHvU8l4uuELHBMCd3", 
+                        "height": "142"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/Shazam!_(TV_series).jpg/240px-Shazam!_(TV_series).jpg"
+                    }
+                ]
+            }, 
+            "snippet": "Shazam! is a half-hour live-action television program produced by Filmation (the \nstudio's first such program), based upon DC Comics' superhero comic book\u00a0...", 
+            "htmlSnippet": "<b>Shazam</b>! is a half-hour live-action television program produced by Filmation (the <br>\nstudio&#39;s first such program), based upon DC Comics&#39; superhero comic book&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Shazam!_(TV_series)", 
+            "cacheId": "EQ_C8bh8W2gJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Captain Marvel (DC Comics) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Captain Marvel (DC Comics) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Captain_Marvel_(DC_Comics)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Captain_Marvel_(DC_Comics)", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "182", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7LuKzJiaOWSD_vu-bQEMdA5_02BiHiCHhBSW1oQUIDwOkBfmB_PMwEFU3", 
+                        "height": "277"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/Captainmarvel.JPG/250px-Captainmarvel.JPG"
+                    }
+                ]
+            }, 
+            "snippet": "Captain Marvel, also known as Shazam, is a fictional superhero appearing in \nAmerican comic books published by DC Comics. The character was created in\u00a0...", 
+            "htmlSnippet": "Captain Marvel, also known as <b>Shazam</b>, is a fictional superhero appearing in <br>\nAmerican comic books published by DC Comics. The character was created in&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Captain_Marvel_(DC_Comics)", 
+            "cacheId": "jK0P0IKJehkJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Shazam - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Shazam</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Shazam", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Shazam</b>", 
+            "snippet": "Shazam may refer to: In the Captain Marvel comic book franchise[edit]. Shazam, \nformerly Captain Marvel, a Fawcett Comics and, later, DC Comics superhero\u00a0...", 
+            "htmlSnippet": "<b>Shazam</b> may refer to: In the Captain Marvel comic book franchise[edit]. <b>Shazam</b>, <br>\nformerly Captain Marvel, a Fawcett Comics and, later, DC Comics superhero&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Shazam", 
+            "cacheId": "DHLj-mky8egJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Shazam (wizard) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Shazam</b> (wizard) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Shazam_(wizard)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Shazam</b>_(wizard)", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "200", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQyitj255Xe6W3eKqLrhdtlVvk9BKIW5s7eA8vHztL2lAI2fuSvcyHgADmt", 
+                        "height": "200"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3e/Shazam_(Alex_Ross).jpg/250px-Shazam_(Alex_Ross).jpg"
+                    }
+                ]
+            }, 
+            "snippet": "Shazam is a comic book character created by Bill Parker and C. C. Beck for \nFawcett Comics. He is an ancient wizard (Whiz Comics #2 gives his age as 3,000\n\u00a0...", 
+            "htmlSnippet": "<b>Shazam</b> is a comic book character created by Bill Parker and C. C. Beck for <br>\nFawcett Comics. He is an ancient wizard (Whiz Comics #2 gives his age as 3,000<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Shazam_(wizard)", 
+            "cacheId": "W4V-Kit7p_wJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "The Power of Shazam! - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "The Power of <b>Shazam</b>! - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/The_Power_of_Shazam!", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/The_Power_of_<b>Shazam</b>!", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "182", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTztoFe6LSwRom_BzUfcuM934x2Y5FcRYh8i1EoPMde1DhVivH-nutKLZ4", 
+                        "height": "276"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b5/Power-of-shazam-cover.jpg/250px-Power-of-shazam-cover.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "The Power of Shazam! is a 1994 hardcover graphic novel, written and painted by \nJerry Ordway for DC Comics. The 96-page story, depicting the revamped\u00a0...", 
+            "htmlSnippet": "The Power of <b>Shazam</b>! is a 1994 hardcover graphic novel, written and painted by <br>\nJerry Ordway for DC Comics. The 96-page story, depicting the revamped&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/The_Power_of_Shazam!", 
+            "cacheId": "p60AxcstsoMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Billy Batson and the Magic of Shazam! - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Billy Batson and the Magic of <b>Shazam</b>! - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../Billy_Batson_and_the_Magic_of_Shazam!", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Billy_Batson_and_the_Magic_of_<b>Shazam</b>!", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "181", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQGc2mqfs8kxNzB-OaOCUhf14tWdl7I0r9n7o9IqfEpBPi1t-z59wVEvgI", 
+                        "height": "278"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/8/83/Billy-batson-magic-of-shazam-no1-2008.jpg/250px-Billy-batson-magic-of-shazam-no1-2008.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "Billy Batson and the Magic of Shazam! was an all-ages comic book series \npublished by DC Comics as a part of its Johnny DC imprint. The series debuted \nin\u00a0...", 
+            "htmlSnippet": "Billy Batson and the Magic of <b>Shazam</b>! was an all-ages comic book series <br>\npublished by DC Comics as a part of its Johnny DC imprint. The series debuted <br>\nin&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Billy_Batson_and_the_Magic_of_Shazam!", 
+            "cacheId": "Eh4kOckfxaAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "SHAZAM (software) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>SHAZAM</b> (software) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/SHAZAM_(software)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>SHAZAM</b>_(software)", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "192", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF-w7f8u8qnkDo_h8CRvJcJ2-eItKJkRt8AMaFrk1HDnckcl-Ukr-qiw", 
+                        "height": "56"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/0/0e/SHAZAM_Software_Logo.png"
+                    }
+                ]
+            }, 
+            "snippet": "SHAZAM is a comprehensive econometrics and statistics package for estimating, \ntesting, simulating and forecasting many types of econometrics and statistical\u00a0...", 
+            "htmlSnippet": "<b>SHAZAM</b> is a comprehensive econometrics and statistics package for estimating, <br>\ntesting, simulating and forecasting many types of econometrics and statistical&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/SHAZAM_(software)", 
+            "cacheId": "jy_C4MNBjXkJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Foxy Shazam - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Foxy <b>Shazam</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Foxy_Shazam", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Foxy_<b>Shazam</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "190", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRWF6vzwNtaLYwADqgjEb0RNcebHUn1P5wREHf5Df972P66NOZCJGWGIE4", 
+                        "height": "266"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Foxy_Shazam_standing_in_hallway.jpg/250px-Foxy_Shazam_standing_in_hallway.jpg"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "fn": "Foxy Shazam"
+                    }, 
+                    {
+                        "fn": "Foxy Shazam"
+                    }
+                ]
+            }, 
+            "snippet": "Foxy Shazam is an American rock band from Cincinnati, Ohio, formed in 2004. \nThe band is composed of lead vocalist Eric Nally, guitarist Loren Turner, pianist\u00a0...", 
+            "htmlSnippet": "Foxy <b>Shazam</b> is an American rock band from Cincinnati, Ohio, formed in 2004. <br>\nThe band is composed of lead vocalist Eric Nally, guitarist Loren Turner, pianist&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Foxy_Shazam", 
+            "cacheId": "IttDH-yPk78J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Shazam (album) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Shazam</b> (album) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Shazam_(album)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Shazam</b>_(album)", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ9bzQXQSw-rwVfcoY19gYh6zOsmY_oVR8A6gyqyIyL8MS5gCZ8LOk0Fv1K", 
+                        "height": "178"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/Shazam-move.jpg/220px-Shazam-move.jpg"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "fn": "The Move"
+                    }
+                ]
+            }, 
+            "snippet": "Shazam is the second album by The Move, released in the UK in February 1970. \nThe LP marked a bridge between the band's quirky late '60s pop singles and\u00a0...", 
+            "htmlSnippet": "<b>Shazam</b> is the second album by The Move, released in the UK in February 1970. <br>\nThe LP marked a bridge between the band&#39;s quirky late &#39;60s pop singles and&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Shazam_(album)", 
+            "cacheId": "5OAwFV7FA_UJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Shazam", 
+                "safe": "off", 
+                "searchTerms": "Shazam", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "5190"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Shazam", 
+                "safe": "off", 
+                "searchTerms": "Shazam", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "5190"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.37", 
+        "formattedTotalResults": "5,190", 
+        "totalResults": "5190", 
+        "searchTime": 0.371132
+    }
+}

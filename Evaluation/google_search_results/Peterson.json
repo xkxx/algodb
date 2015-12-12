@@ -1,0 +1,376 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Adrian Peterson - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Adrian <b>Peterson</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Adrian_Peterson", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Adrian_<b>Peterson</b>", 
+            "pagemap": {
+                "person": [
+                    {
+                        "org": "Minnesota Vikings"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRSJi61wRfEe1LyAK-prcpkEBosJ3mj5gp4t8-mT8xrbXwE-FLs-pUMQarU", 
+                        "height": "265"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Adrian_Peterson_2010.jpg/220px-Adrian_Peterson_2010.jpg"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "bday": "1985-03-21", 
+                        "fn": "Adrian Peterson"
+                    }
+                ]
+            }, 
+            "snippet": "Adrian Lewis Peterson (born March 21, 1985) is an American football running \nback for the Minnesota Vikings of the National Football League (NFL). He was\u00a0...", 
+            "htmlSnippet": "Adrian Lewis <b>Peterson</b> (born March 21, 1985) is an American football running <br>\nback for the Minnesota Vikings of the National Football League (NFL). He was&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Adrian_Peterson", 
+            "cacheId": "Cn_J8kleM2MJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Oscar Peterson - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Oscar <b>Peterson</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Oscar_Peterson", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Oscar_<b>Peterson</b>", 
+            "pagemap": {
+                "person": [
+                    {
+                        "role": "Musician, composer"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "width": "148", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSIYKCaolAMaNCyvXRl-oUo-UEMClXef1OMjkoupVWJenG71Ef_flHOFJc", 
+                        "height": "160"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Oscar_Peterson_-_1950.JPG/186px-Oscar_Peterson_-_1950.JPG"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "url_text": "www.oscarpeterson.com", 
+                        "url": "www.oscarpeterson.com", 
+                        "note": "Piano, clavichord, electric piano, synthesizer, organ, vocals", 
+                        "bday": "1925-08-15", 
+                        "role": "Musician, composer", 
+                        "nickname": "Oscar Emmanuel Peterson", 
+                        "fn": "Oscar Peterson"
+                    }
+                ]
+            }, 
+            "snippet": "Oscar Emmanuel Peterson, CC, CQ, OOnt (August 15, 1925 \u2013 December 23, \n2007) was a Canadian jazz pianist and composer. He was called the \"Maharaja \nof\u00a0...", 
+            "htmlSnippet": "Oscar Emmanuel <b>Peterson</b>, CC, CQ, OOnt (August 15, 1925 \u2013 December 23, <br>\n2007) was a Canadian jazz pianist and composer. He was called the &quot;Maharaja <br>\nof&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Oscar_Peterson", 
+            "cacheId": "yUTeLimsEAYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Peter George Peterson - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Peter George <b>Peterson</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Peter_George_Peterson", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Peter_George_<b>Peterson</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRyKZFSomOoalx-LhmWY8v9oou73IX6YfX2fBmTYoTaGaldXY4kiTPtGIQ", 
+                        "height": "208"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/PeterGeorgePeterson.jpg/220px-PeterGeorgePeterson.jpg"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "bday": "1926-06-05", 
+                        "fn": "Peter George Peterson"
+                    }
+                ]
+            }, 
+            "snippet": "Peter George \"Pete\" Peterson (born June 5, 1926) is an American businessman, \ninvestment banker, fiscal conservative, philanthropist, and author, who served\u00a0...", 
+            "htmlSnippet": "Peter George &quot;Pete&quot; <b>Peterson</b> (born June 5, 1926) is an American businessman, <br>\ninvestment banker, fiscal conservative, philanthropist, and author, who served&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Peter_George_Peterson", 
+            "cacheId": "Uwm4F7ybb0IJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Roger Tory Peterson - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Roger Tory <b>Peterson</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Roger_Tory_Peterson", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Roger_Tory_<b>Peterson</b>", 
+            "pagemap": {
+                "person": [
+                    {
+                        "role": "author, ornithologist, naturalist"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQC-uHTNvoBbpepNUWeW5LrGnBTS7B-2B0Tw685UMSgl7Khmu-BCoryKK_c", 
+                        "height": "195"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/3/3c/Roger_Tory_Peterson.jpg"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "bday": "1908-08-28", 
+                        "category": "American", 
+                        "role": "author, ornithologist, naturalist", 
+                        "fn": "Roger Tory Peterson"
+                    }
+                ]
+            }, 
+            "snippet": "Roger Tory Peterson (August 28, 1908 \u2013 July 28, 1996) was an American \nnaturalist, ornithologist, artist, and educator, and held to be one of the founding\u00a0...", 
+            "htmlSnippet": "Roger Tory <b>Peterson</b> (August 28, 1908 \u2013 July 28, 1996) was an American <br>\nnaturalist, ornithologist, artist, and educator, and held to be one of the founding&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Roger_Tory_Peterson", 
+            "cacheId": "dkPF4s2X0PIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Peterson Institute for International Economics - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Peterson</b> Institute for International Economics - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../Peterson_Institute_for_International_Economics", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../<b>Peterson</b>_Institute_for_International_Economics", 
+            "pagemap": {
+                "hcard": [
+                    {
+                        "url": "www.piie.com", 
+                        "url_text": "www.piie.com", 
+                        "fn": "Peterson Institute for International Economics", 
+                        "label": "1750 Massachusetts Ave. NW"
+                    }
+                ]
+            }, 
+            "snippet": "The Peterson Institute for International Economics (PIIE; Peterson Institute), until \n2006 the Institute for International Economics (IIE), is a private and non-profit\u00a0...", 
+            "htmlSnippet": "The <b>Peterson</b> Institute for International Economics (PIIE; <b>Peterson</b> Institute), until <br>\n2006 the Institute for International Economics (IIE), is a private and non-profit&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Peterson_Institute_for_International_Economics", 
+            "cacheId": "KoN_AHoHmj4J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Tom Peterson - Wikipedia, the free encyclopedia - Portland", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Tom <b>Peterson</b> - Wikipedia, the free encyclopedia - Portland", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Tom_Peterson", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Tom_<b>Peterson</b>", 
+            "pagemap": {
+                "person": [
+                    {
+                        "role": "Retailer"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "role": "Retailer", 
+                        "fn": "Tom Peterson"
+                    }
+                ]
+            }, 
+            "snippet": "Tom Peterson (born 1930) is an American retailer, pitchman and television \npersonality from Portland, Oregon. Peterson opened his first store in 1964, which\n\u00a0...", 
+            "htmlSnippet": "Tom <b>Peterson</b> (born 1930) is an American retailer, pitchman and television <br>\npersonality from Portland, Oregon. <b>Peterson</b> opened his first store in 1964, which<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Tom_Peterson", 
+            "cacheId": "JJLV9YmvZJoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Scott Peterson - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Scott <b>Peterson</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Scott_Peterson", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Scott_<b>Peterson</b>", 
+            "pagemap": {
+                "person": [
+                    {
+                        "role": "Sales"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSTMSFZ9ar485TzOTFCSBpnywPgqsZCdmAx58GLPezCwbPtOGqcUCukfros", 
+                        "height": "206"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Scott_Lee_Peterson_mugshot_2011.jpg/220px-Scott_Lee_Peterson_mugshot_2011.jpg"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "bday": "1972-10-24", 
+                        "role": "Sales", 
+                        "category": "Incarcerated in San Quentin State Prison", 
+                        "nickname": "Scott Lee Peterson", 
+                        "fn": "Scott Peterson"
+                    }
+                ]
+            }, 
+            "snippet": "Scott Lee Peterson (born October 24, 1972) is an American prisoner currently on \ndeath row in California convicted of murdering his wife, Laci Peterson, and their\u00a0...", 
+            "htmlSnippet": "Scott Lee <b>Peterson</b> (born October 24, 1972) is an American prisoner currently on <br>\ndeath row in California convicted of murdering his wife, Laci <b>Peterson</b>, and their&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Scott_Peterson", 
+            "cacheId": "yKN0rBYCWWIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Drew Peterson - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Drew <b>Peterson</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Drew_Peterson", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Drew_<b>Peterson</b>", 
+            "pagemap": {
+                "person": [
+                    {
+                        "role": "Former Police Officer"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "bday": "1954-01-05", 
+                        "role": "Former Police Officer", 
+                        "category": "Incarcerated in Menard Correctional Center", 
+                        "nickname": "Drew Walter Peterson", 
+                        "fn": "Drew Peterson"
+                    }
+                ]
+            }, 
+            "snippet": "Drew Walter Peterson (born January 5, 1954) is a retired Bolingbrook, Illinois, \npolice sergeant and convicted felon who first received national publicity in the\u00a0...", 
+            "htmlSnippet": "Drew Walter <b>Peterson</b> (born January 5, 1954) is a retired Bolingbrook, Illinois, <br>\npolice sergeant and convicted felon who first received national publicity in the&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Drew_Peterson", 
+            "cacheId": "3NLe6f6FW3EJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Eugene H. Peterson - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Eugene H. <b>Peterson</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Eugene_H._Peterson", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Eugene_H._<b>Peterson</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1l8cfUJQIzdG_SLlBfirF-vJuS4ad2aPxC05oSJcC4pZVsHa5mtAOIA", 
+                        "height": "116"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Eugene_Peterson.jpg/220px-Eugene_Peterson.jpg"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "bday": "1932-11-06", 
+                        "fn": "Eugene H. Peterson"
+                    }
+                ]
+            }, 
+            "snippet": "Eugene H. Peterson (born November 6, 1932) is an American-born clergyman, \nscholar, author, and poet. He has written over thirty books, including Gold\u00a0...", 
+            "htmlSnippet": "Eugene H. <b>Peterson</b> (born November 6, 1932) is an American-born clergyman, <br>\nscholar, author, and poet. He has written over thirty books, including Gold&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Eugene_H._Peterson", 
+            "cacheId": "SADuYGClENoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Oscar V. Peterson - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Oscar V. <b>Peterson</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Oscar_V._Peterson", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Oscar_V._<b>Peterson</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "154", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSBmvmaL-cHtTuJ9d9jS93fTl3T_aVv1cvGsRqjfg2cAAy_gBpV_L7KuxA", 
+                        "height": "228"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/7/74/OscarPeterson.jpeg"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "bday": "1899-08-27", 
+                        "fn": "Oscar Verner Peterson", 
+                        "label": "Buried at sea"
+                    }
+                ]
+            }, 
+            "snippet": "Oscar Verner Peterson (August 27, 1899 \u2013 May 13, 1942) was a Chief Petty \nOfficer in the United States Navy who received the Medal of Honor posthumously \nin\u00a0...", 
+            "htmlSnippet": "Oscar Verner <b>Peterson</b> (August 27, 1899 \u2013 May 13, 1942) was a Chief Petty <br>\nOfficer in the United States Navy who received the Medal of Honor posthumously <br>\nin&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Oscar_V._Peterson", 
+            "cacheId": "iEuLmpXeAEYJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Peterson", 
+                "safe": "off", 
+                "searchTerms": "Peterson", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "2220000"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Peterson", 
+                "safe": "off", 
+                "searchTerms": "Peterson", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "2220000"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.38", 
+        "formattedTotalResults": "2,220,000", 
+        "totalResults": "2220000", 
+        "searchTime": 0.379055
+    }
+}

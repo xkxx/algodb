@@ -1,0 +1,194 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Vector clock - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Vector clock</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Vector_clock", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Vector</b>_<b>clock</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "299", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTxXVq8ySPcS07XfYwwcVFlQp7Hb_c2HskhbWAPsW1vJY5KzdfjeYH4F8g", 
+                        "height": "169"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Vector_Clock.svg/500px-Vector_Clock.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "Vector clocks is an algorithm for generating a partial ordering of events in a \ndistributed system and detecting causality violations. Just as in Lamport \ntimestamps,\u00a0...", 
+            "htmlSnippet": "<b>Vector clocks</b> is an algorithm for generating a partial ordering of events in a <br>\ndistributed system and detecting causality violations. Just as in Lamport <br>\ntimestamps,&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Vector_clock", 
+            "cacheId": "n7fpON_9Rg0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Version vector - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Version <b>vector</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Version_vector", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Version_<b>vector</b>", 
+            "snippet": "Version vectors maintain state identical to that in a vector clock, but the update \nrules differ slightly; in this example, replicas can either experience local updates\n\u00a0...", 
+            "htmlSnippet": "Version vectors maintain state identical to that in a <b>vector clock</b>, but the update <br>\nrules differ slightly; in this example, replicas can either experience local updates<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Version_vector", 
+            "cacheId": "QPRSTkkMP_8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Logical clock - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Logical <b>clock</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Logical_clock", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Logical_<b>clock</b>", 
+            "snippet": "In logical clock systems each process has two data structures: logical local time ... \nVector clocks, that allow for partial ordering of events in a distributed system.", 
+            "htmlSnippet": "In logical clock systems each process has two data structures: logical local time ... <br>\n<b>Vector clocks</b>, that allow for partial ordering of events in a distributed system.", 
+            "link": "https://en.wikipedia.org/wiki/Logical_clock", 
+            "cacheId": "I4FdSYzGV9gJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Lamport timestamps - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Lamport timestamps - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Lamport_timestamps", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Lamport_timestamps", 
+            "snippet": "A Lamport logical clock is an incrementing software counter maintained in each \nprocess. It follows ... can be obtained by other techniques such as vector clocks.", 
+            "htmlSnippet": "A Lamport logical clock is an incrementing software counter maintained in each <br>\nprocess. It follows ... can be obtained by other techniques such as <b>vector clocks</b>.", 
+            "link": "https://en.wikipedia.org/wiki/Lamport_timestamps", 
+            "cacheId": "90N1uinr12sJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Matrix clock - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Matrix <b>clock</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Matrix_clock", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Matrix_<b>clock</b>", 
+            "snippet": "A matrix clock is a mechanism for capturing chronological and causal \nrelationships in a ... Matrix clocks are a generalization of the notion of vector \nclocks.", 
+            "htmlSnippet": "A matrix clock is a mechanism for capturing chronological and causal <br>\nrelationships in a ... Matrix clocks are a generalization of the notion of <b>vector</b> <br>\n<b>clocks</b>.", 
+            "link": "https://en.wikipedia.org/wiki/Matrix_clock", 
+            "cacheId": "nFNQdX54-ToJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Clock synchronization - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Clock</b> synchronization - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Clock_synchronization", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Clock</b>_synchronization", 
+            "snippet": "Clock synchronization is a problem from computer science and engineering \nwhich ... Lamport timestamps and Vector clocks are concepts of the logical clocks \nin\u00a0...", 
+            "htmlSnippet": "Clock synchronization is a problem from computer science and engineering <br>\nwhich ... Lamport timestamps and <b>Vector clocks</b> are concepts of the logical clocks <br>\nin&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Clock_synchronization", 
+            "cacheId": "-pI_vyCrpcMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Happened-before - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Happened-before - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Happened-before", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Happened-before", 
+            "snippet": "... the happened-before relation unless they use a logical clock, like a Lamport \nclock or a vector clock. This allows one to design algorithms for mutual exclusion,\n\u00a0...", 
+            "htmlSnippet": "... the happened-before relation unless they use a logical clock, like a Lamport <br>\nclock or a <b>vector clock</b>. This allows one to design algorithms for mutual exclusion,<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Happened-before", 
+            "cacheId": "jXH8ITNxJc0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Eventual consistency - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Eventual consistency - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Eventual_consistency", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Eventual_consistency", 
+            "snippet": "Timestamps and vector clocks are often used to detect concurrency between \nupdates. Reconciliation of concurrent writes must occur sometime before the next\n\u00a0...", 
+            "htmlSnippet": "Timestamps and <b>vector clocks</b> are often used to detect concurrency between <br>\nupdates. Reconciliation of concurrent writes must occur sometime before the next<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Eventual_consistency", 
+            "cacheId": "aJoZa-AOxW8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Friedemann Mattern - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Friedemann Mattern - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Friedemann_Mattern", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Friedemann_Mattern", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu0nTyPzaFdQkKuWj_POEQEAQoJ0-_BZxckb0b_j1gHQboKPv8l68cLQ", 
+                        "height": "117"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Friedemann_Mattern.jpg/220px-Friedemann_Mattern.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "Together with Colin Fidge, he developed the vector clock algorithm, which allows \nto generate a partial ordering of events in a distributed system and to detect\u00a0...", 
+            "htmlSnippet": "Together with Colin Fidge, he developed the <b>vector clock</b> algorithm, which allows <br>\nto generate a partial ordering of events in a distributed system and to detect&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Friedemann_Mattern", 
+            "cacheId": "0RgsRJYOgiYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Dynamo (storage system) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Dynamo (storage system) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Dynamo_(storage_system)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Dynamo_(storage_system)", 
+            "snippet": "highly available writes, Vector Clock or Dotted-Version-Vector Sets, reconciliation \nduring reads, Version size is decoupled from update rates. handling temporary\u00a0...", 
+            "htmlSnippet": "highly available writes, <b>Vector Clock</b> or Dotted-Version-Vector Sets, reconciliation <br>\nduring reads, Version size is decoupled from update rates. handling temporary&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Dynamo_(storage_system)", 
+            "cacheId": "kxZxeklHAdMJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Vector clocks", 
+                "safe": "off", 
+                "searchTerms": "Vector clocks", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "34900"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Vector clocks", 
+                "safe": "off", 
+                "searchTerms": "Vector clocks", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "34900"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.30", 
+        "formattedTotalResults": "34,900", 
+        "totalResults": "34900", 
+        "searchTime": 0.300605
+    }
+}

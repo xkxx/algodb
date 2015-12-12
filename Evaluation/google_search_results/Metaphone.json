@@ -1,0 +1,238 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Metaphone - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Metaphone</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Metaphone", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Metaphone</b>", 
+            "snippet": "Metaphone is a phonetic algorithm, published by Lawrence Philips in 1990, for \nindexing words by their English pronunciation. It fundamentally improves on the\u00a0...", 
+            "htmlSnippet": "<b>Metaphone</b> is a phonetic algorithm, published by Lawrence Philips in 1990, for <br>\nindexing words by their English pronunciation. It fundamentally improves on the&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Metaphone", 
+            "cacheId": "zINeu6sNYd8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Phonetic algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Phonetic algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Phonetic_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Phonetic_algorithm", 
+            "snippet": "Metaphone, Double Metaphone, and Metaphone 3 which are suitable for use \nwith most English words, not just names. Metaphone algorithms are the basis for\n\u00a0...", 
+            "htmlSnippet": "<b>Metaphone</b>, Double <b>Metaphone</b>, and <b>Metaphone</b> 3 which are suitable for use <br>\nwith most English words, not just names. <b>Metaphone</b> algorithms are the basis for<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Phonetic_algorithm", 
+            "cacheId": "TQA48lIjqk0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Soundex - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Soundex - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Soundex", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Soundex", 
+            "snippet": "As a response to deficiencies in the Soundex algorithm, Lawrence Philips \ndeveloped the Metaphone algorithm in 1990 for the same purpose. Philips \ndeveloped\u00a0...", 
+            "htmlSnippet": "As a response to deficiencies in the Soundex algorithm, Lawrence Philips <br>\ndeveloped the <b>Metaphone</b> algorithm in 1990 for the same purpose. Philips <br>\ndeveloped&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Soundex", 
+            "cacheId": "_8vvk-gNU0gJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Sorcery (Jack DeJohnette album) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Sorcery (Jack DeJohnette album) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Sorcery_(Jack_DeJohnette_album)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Sorcery_(Jack_DeJohnette_album)", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "160", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTZYPe0V7llqkahTaflUAOGsQ7lHL8QUpu6IC8XstZH-HHlROkozr78c88", 
+                        "height": "160"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/a/ac/Sorcery_(Jack_DeJohnette_album).jpg"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "fn": "Jack DeJohnette"
+                    }
+                ]
+            }, 
+            "snippet": "... C-melody saxophone \u00b7 Bennie Maupin: bass clarinet \u00b7 John Abercrombie, Mick \nGoodrick: guitars \u00b7 Dave Holland: bass \u00b7 Michael Fellerman: metaphone,\u00a0...", 
+            "htmlSnippet": "... C-melody saxophone &middot; Bennie Maupin: bass clarinet &middot; John Abercrombie, Mick <br>\nGoodrick: guitars &middot; Dave Holland: bass &middot; Michael Fellerman: <b>metaphone</b>,&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Sorcery_(Jack_DeJohnette_album)", 
+            "cacheId": "cn3DnRLTwsUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Caverphone - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Caverphone - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Caverphone", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Caverphone", 
+            "snippet": "See also[edit]. Soundex \u00b7 New York State Identification and Intelligence System \u00b7 \nMatch rating approach \u00b7 Metaphone. References[edit]. Jump up ^ Milette, Greg;\u00a0...", 
+            "htmlSnippet": "See also[edit]. Soundex &middot; New York State Identification and Intelligence System &middot; <br>\nMatch rating approach &middot; <b>Metaphone</b>. References[edit]. Jump up ^ Milette, Greg;&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Caverphone", 
+            "cacheId": "sWRTTsfcLk0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Rhyme Genie - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Rhyme Genie - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Rhyme_Genie", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Rhyme_Genie", 
+            "snippet": "Rhyme Genie can find 26 traditional types of rhymes, 2 phonetic algorithms (\nMetaphone, Soundex) and 2 proprietary rhyme algorithms (Related Rhyme,\u00a0...", 
+            "htmlSnippet": "Rhyme Genie can find 26 traditional types of rhymes, 2 phonetic algorithms (<br>\n<b>Metaphone</b>, Soundex) and 2 proprietary rhyme algorithms (Related Rhyme,&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Rhyme_Genie", 
+            "cacheId": "m9pMEQTJDSgJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "ht-//Dig - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "ht-//Dig - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Ht-//Dig", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Ht-//Dig", 
+            "snippet": "... building an index and searching it. ht://Dig indexes pages in full, then \nprocesses the pages into a searchable form later using soundex and metaphone. \nht://Dig\u00a0...", 
+            "htmlSnippet": "... building an index and searching it. ht://Dig indexes pages in full, then <br>\nprocesses the pages into a searchable form later using soundex and <b>metaphone</b>. <br>\nht://Dig&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Ht-//Dig", 
+            "cacheId": "yiNGFZoNhKoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Approximate string matching - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Approximate string matching - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Approximate_string_matching", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Approximate_string_matching", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "240", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTmVCIT7ff7y2UU9TJ-WPc3liSxY92V0E5jM6SWmtQCvYNHaCi0KcnMSg", 
+                        "height": "96"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Did_you_mean_andr%C3%A9_emotions.png/300px-Did_you_mean_andr%C3%A9_emotions.png"
+                    }
+                ]
+            }, 
+            "snippet": "... matching with addition of regular extension ability; Regular expressions for non\n-fuzzy (exact) matching; Metaphone \u00b7 Soundex \u00b7 Agrep \u00b7 Plagiarism detection\u00a0...", 
+            "htmlSnippet": "... matching with addition of regular extension ability; Regular expressions for non<br>\n-fuzzy (exact) matching; <b>Metaphone</b> &middot; Soundex &middot; Agrep &middot; Plagiarism detection&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Approximate_string_matching", 
+            "cacheId": "Om7bhMNPyEAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Wikipedia:WikiProject Red Link Recovery/RLRL - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Wikipedia:WikiProject Red Link Recovery/RLRL - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Red.../RLRL", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Red.../RLRL", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "378", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ5p08lQAuz03mrY-1zSqS2a2yETNpvVn3RjFxIAdqoI7OcKwPIPeKgpGer", 
+                        "height": "133"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/RLRL_AUTOFIX_example.gif/500px-RLRL_AUTOFIX_example.gif"
+                    }
+                ]
+            }, 
+            "snippet": "Specialised number handler in double metaphone; All the tricks used in the \nMediawiki Lucene-search, as discussed here. Word-order swapping; Ignoring \nstop-\u00a0...", 
+            "htmlSnippet": "Specialised number handler in double <b>metaphone</b>; All the tricks used in the <br>\nMediawiki Lucene-search, as discussed here. Word-order swapping; Ignoring <br>\nstop-&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Red_Link_Recovery/RLRL", 
+            "cacheId": "2RWrmrZ8XucJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Metaswitch - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Metaswitch - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Metaswitch", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Metaswitch", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQsWYvI81NK0HQK8cj3YtFnnCrzBqMQRQ-FBj2uldvibC4YDGoF6oKsuw", 
+                        "height": "97"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Metaswitch_office,_Enfield,_UK.jpg/220px-Metaswitch_office,_Enfield,_UK.jpg"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "url": "www.metaswitch.com", 
+                        "category": "Private[1]", 
+                        "url_text": "www.metaswitch.com", 
+                        "fn": "Metaswitch Networks"
+                    }, 
+                    {
+                        "fn": "Metaswitch head office"
+                    }
+                ]
+            }, 
+            "snippet": "Corporate history[edit]. Metaswitch (formerly Data Connection Ltd) was founded \nin 1981 by seven former IBM employees led by Ian Ferguson, who remains on\u00a0...", 
+            "htmlSnippet": "Corporate history[edit]. Metaswitch (formerly Data Connection Ltd) was founded <br>\nin 1981 by seven former IBM employees led by Ian Ferguson, who remains on&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Metaswitch", 
+            "cacheId": "4r76hxWkuIoJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Metaphone", 
+                "safe": "off", 
+                "searchTerms": "Metaphone", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "66"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Metaphone", 
+                "safe": "off", 
+                "searchTerms": "Metaphone", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "66"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.13", 
+        "formattedTotalResults": "66", 
+        "totalResults": "66", 
+        "searchTime": 0.133059
+    }
+}
