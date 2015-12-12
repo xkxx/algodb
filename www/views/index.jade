@@ -51,7 +51,8 @@ block content
                   span= ' ('
                   span.langs
                     for l in h.implementationLanguages
-                      span.lang= l
+                      span.lang
+                        a.lang-button= l
                   span= ')'
                 ul.implementations
                   for i in h.implementations

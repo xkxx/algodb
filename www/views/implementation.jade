@@ -1,6 +1,6 @@
 //- In this scope, i = the implementation data
 - var impl = i._source;
-li.implementation(class=i._id)
+li.implementation(class=[i._id,(impl.language).replace(' ', '-')])
   .language
     span.title= "Language: "
     span.lang= impl.language

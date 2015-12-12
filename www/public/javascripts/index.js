@@ -41,4 +41,10 @@ $(function() {
     }
     $(this).toggleClass('expanded-all');
   });
+
+  $('.lang-button').click(function() {
+    var lang = ($(this).text()).replace(' ', '-');
+    var $langImpl = $(this).closest('.see-more').find('.implementation' + '.' + lang);
+    $('body').scrollTop($langImpl.offset().top);
+  });
 });

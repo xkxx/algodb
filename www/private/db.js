@@ -92,7 +92,11 @@ module.exports = {
             var impls = implQueryData.filter(function(impls) {
               return impls.id === algorithm._id;
             })[0];
-            algorithm.implementations = impls.hits;
+            algorithm.implementations = impls.hits.sort(function (a, b) {
+              var aLang = a._source.language;
+              var bLang = b._source.language;
+              return (aLang > bLang) ? 1 : ((bLang > aLang) ? -1 : 0);
+            });
 
             // Convert npm markdown to html
             for (var j = 0; j < algorithm.implementations.length; ++j) {

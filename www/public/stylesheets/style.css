@@ -183,6 +183,9 @@ li {
 .implementations.title .langs .lang:last-child:after {
   content: '';
 }
+.implementations.title .lang-button {
+  cursor: pointer;
+}
 
 .implementation .source .name {
   text-transform: capitalize;
