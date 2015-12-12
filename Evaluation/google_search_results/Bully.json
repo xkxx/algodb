@@ -1,0 +1,274 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Bullying - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Bullying</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Bullying", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Bullying</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT_RSaJjY0XjFx9BEUm6X5KcInP11ZU97qm2kp3tKt3VbZrTZXe3jHP5co", 
+                        "height": "132"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Bullying_on_Instituto_Regional_Federico_Err%C3%A1zuriz_(IRFE)_in_March_5,_2007.jpg/220px-Bullying_on_Instituto_Regional_Federico_Err%C3%A1zuriz_(IRFE)_in_March_5,_2007.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "Bullying is the use of force, threat, or coercion to abuse, intimidate, or \naggressively dominate others. The behavior is often repeated and habitual. One \nessential\u00a0...", 
+            "htmlSnippet": "<b>Bullying</b> is the use of force, threat, or coercion to abuse, intimidate, or <br>\naggressively dominate others. The behavior is often repeated and habitual. One <br>\nessential&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Bullying", 
+            "cacheId": "RBptte4e7pgJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Bully (video game) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Bully</b> (video game) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Bully_(video_game)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Bully</b>_(video_game)", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "197", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMbvDozTKybWwziNw-B9pWPh26RRka-rSWiqgsCkGP0L0b95BGKAciRyLC", 
+                        "height": "255"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/6/63/Bully_frontcover.jpg/250px-Bully_frontcover.jpg"
+                    }
+                ], 
+                "hproduct": [
+                    {
+                        "fn": "Bully"
+                    }
+                ]
+            }, 
+            "snippet": "Bully, released in PAL regions as Canis Canem Edit, is an open world, action-\nadventure video game developed by Rockstar Vancouver and published by\u00a0...", 
+            "htmlSnippet": "<b>Bully</b>, released in PAL regions as Canis Canem Edit, is an open world, action-<br>\nadventure video game developed by Rockstar Vancouver and published by&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Bully_(video_game)", 
+            "cacheId": "SiMJwE7kQuIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Bully (2011 film) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Bully</b> (2011 film) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Bully_(2011_film)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Bully</b>_(2011_film)", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQH7dr-mHKaUOefr102S8SzBPTT_qXfO9DOpjfaQTc9oV4r8fYWctHy5MA", 
+                        "height": "260"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/0/07/Bully_poster.jpg/220px-Bully_poster.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "Bully (originally titled The Bully Project) is a 2011 documentary film about \nbullying in U.S. schools. Directed by Lee Hirsch, the film follows the lives of five\u00a0...", 
+            "htmlSnippet": "<b>Bully</b> (originally titled The <b>Bully</b> Project) is a 2011 documentary film about <br>\n<b>bullying</b> in U.S. schools. Directed by Lee Hirsch, the film follows the lives of five&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Bully_(2011_film)", 
+            "cacheId": "FpZzKMmliCkJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Bully (2001 film) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Bully</b> (2001 film) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Bully_(2001_film)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Bully</b>_(2001_film)", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTRujzYGrTBbSb95Z42UZlK9Kqskwyx_-A6BJAJywTyGhvQQpbgQwWefAWU", 
+                        "height": "256"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/4/49/Bullyposter.jpg/220px-Bullyposter.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "Bully is a 2001 American film directed by Larry Clark, and starring Brad Renfro, \nBijou Phillips, Rachel Miner, Michael Pitt, Leo Fitzpatrick, Kelli Garner, and Nick\u00a0...", 
+            "htmlSnippet": "<b>Bully</b> is a 2001 American film directed by Larry Clark, and starring Brad Renfro, <br>\nBijou Phillips, Rachel Miner, Michael Pitt, Leo Fitzpatrick, Kelli Garner, and Nick&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Bully_(2001_film)", 
+            "cacheId": "JvRUG_OaUrcJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Workplace bullying - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Workplace <b>bullying</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Workplace_bullying", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Workplace_<b>bullying</b>", 
+            "snippet": "Workplace bullying occurs when an employee experiences a persistent pattern of \nmistreatment from others in the workplace that causes harm. It can include\u00a0...", 
+            "htmlSnippet": "Workplace <b>bullying</b> occurs when an employee experiences a persistent pattern of <br>\nmistreatment from others in the workplace that causes harm. It can include&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Workplace_bullying", 
+            "cacheId": "RGh45iDq32UJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Bully (song) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Bully</b> (song) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Bully_(song)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Bully</b>_(song)", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTuKXr_N48PTjCc1DpTjxL20zueTCD0NdDMRitmAncxU2OztVeIfAD6tsdP", 
+                        "height": "176"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Shinedown_-_Bully.jpg/220px-Shinedown_-_Bully.jpg"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "fn": "Shinedown"
+                    }
+                ]
+            }, 
+            "snippet": "He also mentioned that his father had instructed him on how to defend himself \nagainst bullies. \"When I was ten years old, my dad took me to the garage and put\n\u00a0...", 
+            "htmlSnippet": "He also mentioned that his father had instructed him on how to defend himself <br>\nagainst <b>bullies</b>. &quot;When I was ten years old, my dad took me to the garage and put<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Bully_(song)", 
+            "cacheId": "AINwO8tz10AJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Bully (disambiguation) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Bully</b> (disambiguation) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Bully_(disambiguation)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Bully</b>_(disambiguation)", 
+            "snippet": "A bully is someone responsible for bullying, a form of aggressive behavior \nmanifested by the use of force or coercion to affect others. Bully, The Bully, or \nBullies\u00a0...", 
+            "htmlSnippet": "A <b>bully</b> is someone responsible for <b>bullying</b>, a form of aggressive behavior <br>\nmanifested by the use of force or coercion to affect others. <b>Bully</b>, The <b>Bully</b>, or <br>\n<b>Bullies</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Bully_(disambiguation)", 
+            "cacheId": "UMS5b9lpbb8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "School bullying - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "School <b>bullying</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/School_bullying", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/School_<b>bullying</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT_RSaJjY0XjFx9BEUm6X5KcInP11ZU97qm2kp3tKt3VbZrTZXe3jHP5co", 
+                        "height": "132"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Bullying_on_Instituto_Regional_Federico_Err%C3%A1zuriz_(IRFE)_in_March_5,_2007.jpg/220px-Bullying_on_Instituto_Regional_Federico_Err%C3%A1zuriz_(IRFE)_in_March_5,_2007.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "School bullying is a type of bullying that occurs in an educational setting. Bullying \ncan be physical, sexual, verbal or emotional in nature. School bullying may be\u00a0...", 
+            "htmlSnippet": "School <b>bullying</b> is a type of <b>bullying</b> that occurs in an educational setting. <b>Bullying</b> <br>\ncan be physical, sexual, verbal or emotional in nature. School <b>bullying</b> may be&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/School_bullying", 
+            "cacheId": "Z5RsT5B2VgkJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Bully pulpit - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Bully</b> pulpit - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Bully_pulpit", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Bully</b>_pulpit", 
+            "snippet": "This term was coined by President Theodore Roosevelt, who referred to the \nWhite House as a \"bully pulpit\", by which he meant a terrific platform from which \nto\u00a0...", 
+            "htmlSnippet": "This term was coined by President Theodore Roosevelt, who referred to the <br>\nWhite House as a &quot;<b>bully</b> pulpit&quot;, by which he meant a terrific platform from which <br>\nto&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Bully_pulpit", 
+            "cacheId": "1MXR7Wjt1kkJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Bullies - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Bullies</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Bullies", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Bullies</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE7Hc4WYANM8kJ8jxxRGLXM-7oeW_8zpCDdpNhCbQYSBGSisci_l9vGzlf", 
+                        "height": "270"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/Bulliesposter1986.jpg/220px-Bulliesposter1986.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "Bullies is a 1986 Canadian action-drama film about a feud between two families \nin a small town in a similar vein to the story of Romeo and Juliet. The film was\u00a0...", 
+            "htmlSnippet": "<b>Bullies</b> is a 1986 Canadian action-drama film about a feud between two families <br>\nin a small town in a similar vein to the story of Romeo and Juliet. The film was&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Bullies", 
+            "cacheId": "W2j2_lCvih0J"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Bully", 
+                "safe": "off", 
+                "searchTerms": "Bully", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "1150000"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Bully", 
+                "safe": "off", 
+                "searchTerms": "Bully", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "1150000"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.32", 
+        "formattedTotalResults": "1,150,000", 
+        "totalResults": "1150000", 
+        "searchTime": 0.316001
+    }
+}

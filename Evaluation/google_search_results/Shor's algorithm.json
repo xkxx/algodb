@@ -1,3 +1,237 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c7e633c803772e2b81f56d1242d540a0a587fedbfc95bb6e73135d8912ea44a6
-size 14640
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Shor's algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Shor&#39;s algorithm</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Shor's_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Shor&#39;s</b>_<b>algorithm</b>", 
+            "snippet": "Shor's algorithm, named after mathematician Peter Shor, is a quantum algorithm (\nan algorithm that runs on a quantum computer) for integer factorization\u00a0...", 
+            "htmlSnippet": "<b>Shor&#39;s algorithm</b>, named after mathematician Peter Shor, is a quantum algorithm (<br>\nan algorithm that runs on a quantum computer) for integer factorization&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Shor's_algorithm", 
+            "cacheId": "BsU5fU5uslcJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Peter Shor - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Peter <b>Shor</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Peter_Shor", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Peter_<b>Shor</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRXzHwWDLfYx-0TR5nCOqxgXVfkCvYfwEvo-aIknd1JZd3KtacbaRQpJ9SV", 
+                        "height": "264"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Peter_Shor.jpg/220px-Peter_Shor.jpg"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "bday": "1959-08-14", 
+                        "category": "Computer scientist", 
+                        "fn": "Peter Shor"
+                    }
+                ]
+            }, 
+            "snippet": "It was there he developed Shor's algorithm, for which he was awarded the Rolf \nNevanlinna Prize at the 23rd International Congress of Mathematicians in 1998\u00a0...", 
+            "htmlSnippet": "It was there he developed <b>Shor&#39;s algorithm</b>, for which he was awarded the Rolf <br>\nNevanlinna Prize at the 23rd International Congress of Mathematicians in 1998&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Peter_Shor", 
+            "cacheId": "Abvddk3VE3MJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Shor - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Shor</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Shor", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Shor</b>", 
+            "snippet": "Shor may refer to: ... Shor's algorithm, quantum algorithm for factoring a number \nN in O((log N)3) time ... This page or section lists people with the surname Shor.", 
+            "htmlSnippet": "Shor may refer to: ... <b>Shor&#39;s algorithm</b>, quantum algorithm for factoring a number <br>\nN in O((log N)3) time ... This page or section lists people with the surname Shor.", 
+            "link": "https://en.wikipedia.org/wiki/Shor", 
+            "cacheId": "nMJHNQYCS-IJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Quantum algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Quantum <b>algorithm</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Quantum_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Quantum_<b>algorithm</b>", 
+            "snippet": "[edit]. Main article: Shor's Algorithm. Shor's algorithm solves the discrete \nlogarithm problem and the integer factorization\u00a0...", 
+            "htmlSnippet": "[edit]. Main article: <b>Shor&#39;s Algorithm</b>. <b>Shor&#39;s algorithm</b> solves the discrete <br>\nlogarithm problem and the integer factorization&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Quantum_algorithm", 
+            "cacheId": "zQtqAxtDTe8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Shor's algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Shor&#39;s algorithm</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3AShor's_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>Shor&#39;s</b>_<b>algorithm</b>", 
+            "snippet": "Throughout the article, it is stated many times that Shor's Algorithm uses the \nQuantum Fourier Transform (QFT). In fact, it uses the inverse of the QFT (the \nsame\u00a0...", 
+            "htmlSnippet": "Throughout the article, it is stated many times that <b>Shor&#39;s Algorithm</b> uses the <br>\nQuantum Fourier Transform (QFT). In fact, it uses the inverse of the QFT (the <br>\nsame&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3AShor's_algorithm", 
+            "cacheId": "swHEedcVyOUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Quantum phase estimation algorithm - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Quantum phase estimation <b>algorithm</b> - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Quantum_phase_estimation_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Quantum_phase_estimation_<b>algorithm</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "320", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR2Q4bxnnODPb84U6EdjYfGd6as6JM5VX_G41uwvO9dhjkAVfUlVKUiD7k", 
+                        "height": "139"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Quantum_phase_estimation.svg/400px-Quantum_phase_estimation.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "In quantum computing, the quantum phase estimation algorithm is a ... Quantum \ncircuit representation of the phase estimation algorithm ... Shor's algorithm\u00a0...", 
+            "htmlSnippet": "In quantum computing, the quantum phase estimation algorithm is a ... Quantum <br>\ncircuit representation of the phase estimation algorithm ... <b>Shor&#39;s algorithm</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Quantum_phase_estimation_algorithm", 
+            "cacheId": "WjxOT8ZN1k0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Grover's algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Grover&#39;s <b>algorithm</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Grover's_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Grover&#39;s_<b>algorithm</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "220", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRkzqGR1TrY6UmA3koyG-58xM9dmJaP72yq59UB3i6E6pb55e_w30awi19i", 
+                        "height": "229"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Grovers_algorithm_geometry.png/310px-Grovers_algorithm_geometry.png"
+                    }
+                ]
+            }, 
+            "snippet": "Grover's algorithm is a quantum algorithm for searching an unsorted database \nwith N entries in O(N1/2) time and ..... Amplitude amplification \u00b7 Shor's algorithm\u00a0...", 
+            "htmlSnippet": "Grover&#39;s algorithm is a quantum algorithm for searching an unsorted database <br>\nwith N entries in O(N<sup>1/2</sup>) time and ..... Amplitude amplification &middot; <b>Shor&#39;s algorithm</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Grover's_algorithm", 
+            "cacheId": "KQnYEZk8YuEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Hidden subgroup problem - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Hidden subgroup problem - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Hidden_subgroup_problem", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Hidden_subgroup_problem", 
+            "snippet": "This makes it especially important in the theory of quantum computing because \nShor's quantum algorithm for factoring is essentially equivalent to the hidden\u00a0...", 
+            "htmlSnippet": "This makes it especially important in the theory of quantum computing because <br>\n<b>Shor&#39;s</b> quantum <b>algorithm</b> for factoring is essentially equivalent to the hidden&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Hidden_subgroup_problem", 
+            "cacheId": "lzjSpWONsNsJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Integer factorization - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Integer factorization - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Integer_factorization", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Integer_factorization", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "152", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR-jrOqy11WWDB3GeTGqcqlyEX9qcXvDtCQyfsBol6dgbwON8GFA52FHc4", 
+                        "height": "84"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/PrimeDecompositionExample.svg/190px-PrimeDecompositionExample.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "Shor's algorithm takes only O(b3) time and O(b) space on b-bit number inputs. In \n2001, the first seven-qubit quantum computer became the first to run Shor's\u00a0...", 
+            "htmlSnippet": "<b>Shor&#39;s algorithm</b> takes only O(b<sup>3</sup>) time and O(b) space on b-bit number inputs. In <br>\n2001, the first seven-qubit quantum computer became the first to run Shor&#39;s&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Integer_factorization", 
+            "cacheId": "W1TDbj2M4HcJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Naum Z. Shor - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Naum Z. <b>Shor</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Naum_Z._Shor", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Naum_Z._<b>Shor</b>", 
+            "pagemap": {
+                "hcard": [
+                    {
+                        "bday": "1937-01-01", 
+                        "fn": "Naum Zuselevich Shor"
+                    }
+                ]
+            }, 
+            "snippet": "[edit]. Shor's r-algorithm is for unconstrained minimization of (possibly) non-\nsmooth functions, which has been somewhat popular\u00a0...", 
+            "htmlSnippet": "[edit]. <b>Shor&#39;s</b> r-<b>algorithm</b> is for unconstrained minimization of (possibly) non-<br>\nsmooth functions, which has been somewhat popular&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Naum_Z._Shor", 
+            "cacheId": "wPprUjL18cwJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Shor's algorithm", 
+                "safe": "off", 
+                "searchTerms": "Shor's algorithm", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "477"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Shor's algorithm", 
+                "safe": "off", 
+                "searchTerms": "Shor's algorithm", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "477"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.18", 
+        "formattedTotalResults": "477", 
+        "totalResults": "477", 
+        "searchTime": 0.177112
+    }
+}

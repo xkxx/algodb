@@ -1,0 +1,222 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "PageRank - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>PageRank</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/PageRank", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>PageRank</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "250", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTs1b-ufXmgFCf8c07wRUTPYvlcCk8nYXfyfZ25xgo6arHjkrJjwkGxXCP9", 
+                        "height": "201"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/PageRanks-Example.svg/400px-PageRanks-Example.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "Mathematical PageRanks for a simple network, expressed as percentages. (\nGoogle uses a logarithmic scale.) Page C has a higher PageRank than Page E,\u00a0...", 
+            "htmlSnippet": "Mathematical PageRanks for a simple network, expressed as percentages. (<br>\nGoogle uses a logarithmic scale.) Page C has a higher <b>PageRank</b> than Page E,&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/PageRank", 
+            "cacheId": "sMxUlfSyoa0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Topic-Sensitive PageRank - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Topic-Sensitive <b>PageRank</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Topic-Sensitive_PageRank", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Topic-Sensitive_<b>PageRank</b>", 
+            "snippet": "Topic-Sensitive PageRank (commonly referred to as TSPR) is a context-sensitive \nranking algorithm for web search developed by Taher Haveliwala while at\u00a0...", 
+            "htmlSnippet": "Topic-Sensitive <b>PageRank</b> (commonly referred to as TSPR) is a context-sensitive <br>\nranking algorithm for web search developed by Taher Haveliwala while at&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Topic-Sensitive_PageRank", 
+            "cacheId": "gtWQHVmkiIYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "File:PageRank-hi-res-2.png - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "File:<b>PageRank</b>-hi-res-2.png - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/File:PageRank-hi-res-2.png", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/File:<b>PageRank</b>-hi-res-2.png", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "265", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq57RqMvHofExoBcuc0EX9bjR09NLmTDC3aa8svl97_ZvTxzgefN5Yj-I", 
+                        "height": "190"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/PageRank-hi-res-2.png/800px-PageRank-hi-res-2.png"
+                    }
+                ]
+            }, 
+            "snippet": "Summary[edit]. It's a modification of Image:PageRank-hi-res.png - see Talk:\nPageRank \u00b7 PageRank-hi-res.png. Licensing[edit]. CC some rights reserved.svg", 
+            "htmlSnippet": "Summary[edit]. It&#39;s a modification of Image:<b>PageRank</b>-hi-res.png - see Talk:<br>\n<b>PageRank</b> &middot; <b>PageRank</b>-hi-res.png. Licensing[edit]. CC some rights reserved.svg", 
+            "link": "https://en.wikipedia.org/wiki/File:PageRank-hi-res-2.png", 
+            "cacheId": "0UJuElMEz0AJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Google matrix - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Google matrix - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Google_matrix", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Google_matrix", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "192", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ2DhCOdvSCgT4S55YgJ-SlHk7dM3A57Zelnz9SoI8VvHC_6dxM1oJIxZmf", 
+                        "height": "192"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Googlematrixwikipedia2009.jpg/240px-Googlematrixwikipedia2009.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "A Google matrix is a particular stochastic matrix that is used by Google's \nPageRank algorithm. The matrix represents a graph with edges representing \nlinks\u00a0...", 
+            "htmlSnippet": "A Google matrix is a particular stochastic matrix that is used by Google&#39;s <br>\n<b>PageRank</b> algorithm. The matrix represents a graph with edges representing <br>\nlinks&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Google_matrix", 
+            "cacheId": "zC7dj3qm_scJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "CheiRank - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "CheiRank - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/CheiRank", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/CheiRank", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "224", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS217c5p0OyyeQ1IybeckJG2O605lTtqrlJgTqQ_BtcCS1lM87XgwBOKH_x", 
+                        "height": "154"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/CheiPageRank.png/280px-CheiPageRank.png"
+                    }
+                ]
+            }, 
+            "snippet": "It is similar to the PageRank vector, which ranks the network nodes in average \nproportionally to a number of incoming links being the maximal eigenvector of the\n\u00a0...", 
+            "htmlSnippet": "It is similar to the <b>PageRank</b> vector, which ranks the network nodes in average <br>\nproportionally to a number of incoming links being the maximal eigenvector of the<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/CheiRank", 
+            "cacheId": "sMvEVn0TCrwJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "nofollow - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "nofollow - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Nofollow", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Nofollow", 
+            "snippet": "Google announced in early 2005 that hyperlinks with rel=\"nofollow\" would not \ninfluence the link target's PageRank. In addition, the Yahoo and Bing search\u00a0...", 
+            "htmlSnippet": "Google announced in early 2005 that hyperlinks with rel=&quot;nofollow&quot; would not <br>\ninfluence the link target&#39;s <b>PageRank</b>. In addition, the Yahoo and Bing search&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Nofollow", 
+            "cacheId": "Mq8iUpf23fwJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:PageRank/Archive index - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>PageRank</b>/Archive index - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3APageRank%2FArchive_index", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>PageRank</b>%2FArchive_index", 
+            "snippet": "Report generated based on a request from Talk:PageRank. It matches the \nfollowing masks: Talk:PageRank/Archive <#> It was generated at 20:13, 28 \nDecember\u00a0...", 
+            "htmlSnippet": "Report generated based on a request from Talk:<b>PageRank</b>. It matches the <br>\nfollowing masks: Talk:<b>PageRank</b>/Archive &lt;#&gt; It was generated at 20:13, 28 <br>\nDecember&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3APageRank%2FArchive_index", 
+            "cacheId": "HNX9a0Mu-gEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:PageRank/Archive 1 - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>PageRank</b>/Archive 1 - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3APageRank%2FArchive_1", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>PageRank</b>%2FArchive_1", 
+            "snippet": "If the \"PageRank\" as it's showed in the google toolbad is 5/10, is there a way to \nfiture out how many of the currenctly 8,058,044,651 pages that link to that page?", 
+            "htmlSnippet": "If the &quot;<b>PageRank</b>&quot; as it&#39;s showed in the google toolbad is 5/10, is there a way to <br>\nfiture out how many of the currenctly 8,058,044,651 pages that link to that page?", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3APageRank%2FArchive_1", 
+            "cacheId": "njHB4ho3ilgJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "PageRank algorithm in biochemistry - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>PageRank</b> algorithm in biochemistry - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/PageRank_algorithm_in_biochemistry", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>PageRank</b>_algorithm_in_biochemistry", 
+            "snippet": "The PageRank algorithm has several applications in biochemistry. (\"PageRank\" \nis an algorithm used in Google Search for ranking websites in their results, but it\u00a0...", 
+            "htmlSnippet": "The <b>PageRank</b> algorithm has several applications in biochemistry. (&quot;<b>PageRank</b>&quot; <br>\nis an algorithm used in Google Search for ranking websites in their results, but it&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/PageRank_algorithm_in_biochemistry", 
+            "cacheId": "_grSIKWNmVYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "File talk:PageRank-hi-res.png - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "File talk:<b>PageRank</b>-hi-res.png - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/File_talk:PageRank-hi-res.png", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/File_talk:<b>PageRank</b>-hi-res.png", 
+            "snippet": "What in the world is this supposed to show, other than that PageRank involves \ninter-page links and ranks some things higher than others? 86.144.24.8 (talk)\u00a0...", 
+            "htmlSnippet": "What in the world is this supposed to show, other than that <b>PageRank</b> involves <br>\ninter-page links and ranks some things higher than others? 86.144.24.8 (talk)&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/File_talk:PageRank-hi-res.png", 
+            "cacheId": "eoBUWjVM9kgJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - PageRank", 
+                "safe": "off", 
+                "searchTerms": "PageRank", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "2640"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - PageRank", 
+                "safe": "off", 
+                "searchTerms": "PageRank", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "2640"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.28", 
+        "formattedTotalResults": "2,640", 
+        "totalResults": "2640", 
+        "searchTime": 0.281994
+    }
+}

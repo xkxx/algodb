@@ -1,0 +1,194 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "LALR parser - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>LALR</b> parser - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/LALR_parser", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>LALR</b>_parser", 
+            "snippet": "The LALR(1) parser is less powerful than the LR(1) parser, and ... of the parser \nbecause not knowing the lookahead symbols can\u00a0...", 
+            "htmlSnippet": "The <b>LALR</b>(1) parser is less powerful than the <b>LR</b>(1) parser, and ... of the parser <br>\nbecause not knowing the <b>lookahead</b> symbols can&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/LALR_parser", 
+            "cacheId": "pNOH1AXREkYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "LR parser - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>LR</b> parser - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/LR_parser", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>LR</b>_parser", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "276", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDMUNAznZHtoffzdTu4yi6ZBZ8_U84d4JgLkBbTRgBAAZw8YQ3P5PTuWJe", 
+                        "height": "183"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/d/db/Bottom-Up_Parser.svg/377px-Bottom-Up_Parser.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "[edit]. The states and transitions give all the needed information for the parse \ntable's shift actions and goto actions.", 
+            "htmlSnippet": "[edit]. The states and transitions give all the needed information for the parse <br>\ntable&#39;s shift actions and goto actions.", 
+            "link": "https://en.wikipedia.org/wiki/LR_parser", 
+            "cacheId": "xGNwf8QewG4J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Simple LR parser - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Simple <b>LR</b> parser - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Simple_LR_parser", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Simple_<b>LR</b>_parser", 
+            "snippet": "In computer science, a Simple LR or SLR parser is a type of LR parser with small \n... SLR and the more-general methods LALR parser and Canonical LR parser\u00a0...", 
+            "htmlSnippet": "In computer science, a Simple <b>LR</b> or SLR parser is a type of <b>LR</b> parser with small <br>\n... SLR and the more-general methods <b>LALR</b> parser and <b>Canonical LR</b> parser&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Simple_LR_parser", 
+            "cacheId": "bYo-TAiC9dQJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Canonical LR parser - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Canonical LR</b> parser - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Canonical_LR_parser", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Canonical</b>_<b>LR</b>_parser", 
+            "snippet": "In computer science, a canonical LR parser or LR(1) parser is an LR(k) parser ... \nLR(1) parser\" whose space requirements are close to LALR parsers, is being\u00a0...", 
+            "htmlSnippet": "In computer science, a <b>canonical LR</b> parser or <b>LR</b>(1) parser is an <b>LR</b>(k) parser ... <br>\n<b>LR</b>(1) parser&quot; whose space requirements are close to <b>LALR</b> parsers, is being&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Canonical_LR_parser", 
+            "cacheId": "icXDU8cV7rcJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "LALR parser generator - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>LALR</b> parser generator - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/LALR_parser_generator", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>LALR</b>_parser_generator", 
+            "snippet": "LR(1) grammars are more powerful than LALR(1), however, canonical LR(1) \nparsers can be extremely large in size and are considered not practical. Minimal\n\u00a0...", 
+            "htmlSnippet": "<b>LR</b>(1) grammars are more powerful than <b>LALR</b>(1), however, <b>canonical LR</b>(1) <br>\nparsers can be extremely large in size and are considered not practical. Minimal<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/LALR_parser_generator", 
+            "cacheId": "J4oFn3MCy0YJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "User:DBSand/LR parser/Rewrite - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "User:DBSand/<b>LR</b> parser/Rewrite - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/User:DBSand/LR_parser/Rewrite", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/User:DBSand/<b>LR</b>_parser/Rewrite", 
+            "snippet": "[edit]. The states and transitions give all the needed information for the parse \ntable's shift actions and goto actions.", 
+            "htmlSnippet": "[edit]. The states and transitions give all the needed information for the parse <br>\ntable&#39;s shift actions and goto actions.", 
+            "link": "https://en.wikipedia.org/wiki/User:DBSand/LR_parser/Rewrite", 
+            "cacheId": "RKAnS0vBhdgJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:LALR parser - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>LALR</b> parser - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3ALALR_parser", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>LALR</b>_parser", 
+            "snippet": "LALR stands for Lookahead LR and is a method for producing LR parsers. LR \nstands for Left-to-right scan, Rightmost derivation. 2nd ed Dragon does not use\u00a0...", 
+            "htmlSnippet": "<b>LALR</b> stands for <b>Lookahead LR</b> and is a method for producing <b>LR</b> parsers. <b>LR</b> <br>\nstands for Left-to-right scan, Rightmost derivation. 2nd ed Dragon does not use&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3ALALR_parser", 
+            "cacheId": "g_Aj8kkwf5YJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "SLR grammar - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "SLR grammar - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/SLR_grammar", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/SLR_grammar", 
+            "snippet": "SLR parsers use a Follow(A) calculation to pick the lookahead symbols to expect \n... LALR parsers use a different calculation which sometimes gives smaller, \ntighter ... A grammar is said to be SLR(1) if the following simple LR parser \nalgorithm\u00a0...", 
+            "htmlSnippet": "SLR parsers use a Follow(A) calculation to pick the <b>lookahead</b> symbols to expect <br>\n... <b>LALR</b> parsers use a different calculation which sometimes gives smaller, <br>\ntighter ... A grammar is said to be SLR(1) if the following simple <b>LR</b> parser <br>\nalgorithm&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/SLR_grammar", 
+            "cacheId": "7JESvRcXkDcJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Shift-reduce parser - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Shift-reduce parser - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Shift-reduce_parser", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Shift-reduce_parser", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "212", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRVRw33TVY02Cfd_NbFnfTDpeabC7YkkMnVEQBJ-HwTrMHxv40zMuMhkJn5", 
+                        "height": "200"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/Shift-Reduce_Parse_Steps_Numbered.svg/265px-Shift-Reduce_Parse_Steps_Numbered.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "The precedence parsers used before the invention of LR parsing are also .... The \nLook-Ahead LR and Simple LR parsers implement simplified variants of it that \nhave ... Whether LR, LALR or SLR, the basic state machine is the same; only the\n\u00a0...", 
+            "htmlSnippet": "The precedence parsers used before the invention of <b>LR</b> parsing are also .... The <br>\n<b>Look</b>-<b>Ahead LR</b> and Simple <b>LR</b> parsers implement simplified variants of it that <br>\nhave ... Whether <b>LR</b>, <b>LALR</b> or SLR, the basic state machine is the same; only the<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Shift-reduce_parser", 
+            "cacheId": "IRtbni16JGcJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Parsing - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Parsing - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Parsing", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Parsing", 
+            "snippet": "5 Lookahead; 6 See also; 7 References; 8 Further reading; 9 External links ..... \nLookahead is especially relevant to LL, LR, and LALR parsers, where it is often\u00a0...", 
+            "htmlSnippet": "5 <b>Lookahead</b>; 6 See also; 7 References; 8 Further reading; 9 External links ..... <br>\n<b>Lookahead</b> is especially relevant to LL, <b>LR</b>, and <b>LALR</b> parsers, where it is often&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Parsing", 
+            "cacheId": "GmgkHgiADe8J"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - LALR (Look-ahead LR)", 
+                "safe": "off", 
+                "searchTerms": "LALR (Look-ahead LR)", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "41"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - LALR (Look-ahead LR)", 
+                "safe": "off", 
+                "searchTerms": "LALR (Look-ahead LR)", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "41"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.28", 
+        "formattedTotalResults": "41", 
+        "totalResults": "41", 
+        "searchTime": 0.278825
+    }
+}

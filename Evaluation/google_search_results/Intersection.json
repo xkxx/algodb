@@ -1,0 +1,264 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Intersection (set theory) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Intersection</b> (set theory) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Intersection_(set_theory)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Intersection</b>_(set_theory)", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQy-z-f-n9dW7ObPjcgge5TT0nmay34WUFuxR0jCVhcu1KCQ0nRZl2Bkkw", 
+                        "height": "128"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Venn0001.svg/220px-Venn0001.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "In mathematics, the intersection A \u2229 B of two sets A and B is the set that contains \nall elements of A that also belong to B (or equivalently, all elements of B that\u00a0...", 
+            "htmlSnippet": "In mathematics, the <b>intersection</b> A \u2229 B of two sets A and B is the set that contains <br>\nall elements of A that also belong to B (or equivalently, all elements of B that&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Intersection_(set_theory)", 
+            "cacheId": "vonk9-rWp9EJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Intersection (road) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Intersection</b> (road) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Intersection_(road)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Intersection</b>_(road)", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS3-2k-DqQ-RYKURnaP_8UPz4fsgnxRnNjq4hrhqFYuu4A8LeiqRFdAF2x-", 
+                        "height": "132"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Crossroad_in_winter_2.jpg/220px-Crossroad_in_winter_2.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "An intersection is the junction at grade (that is to say, on the same level) of two or \nmore roads either meeting or crossing. An intersection may be three-way (a T\u00a0...", 
+            "htmlSnippet": "An <b>intersection</b> is the junction at grade (that is to say, on the same level) of two or <br>\nmore roads either meeting or crossing. An <b>intersection</b> may be three-way (a T&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Intersection_(road)", 
+            "cacheId": "6U1ykXzvBBUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Intersection - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Intersection</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Intersection", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Intersection</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT_qvaoxF_D0uX6DoDDkVRve1k_ZKanDtI6SPqBCRT-sZ8nLlxgljoZmg", 
+                        "height": "120"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Circle-line_intersection.svg/220px-Circle-line_intersection.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "In mathematics, the intersection of two or more objects is another, usually \"\nsmaller\" object. All objects are presumed to lie in a certain common space except \nin\u00a0...", 
+            "htmlSnippet": "In mathematics, the <b>intersection</b> of two or more objects is another, usually &quot;<br>\nsmaller&quot; object. All objects are presumed to lie in a certain common space except <br>\nin&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Intersection", 
+            "cacheId": "BYvytawiE44J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Intersection (disambiguation) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Intersection</b> (disambiguation) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Intersection_(disambiguation)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Intersection</b>_(disambiguation)", 
+            "snippet": "Intersection or intersect may refer to: Intersection in mathematics, including: \nIntersection (set theory), the set of elements common to some collection of sets\u00a0...", 
+            "htmlSnippet": "<b>Intersection</b> or intersect may refer to: <b>Intersection</b> in mathematics, including: <br>\n<b>Intersection</b> (set theory), the set of elements common to some collection of sets&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Intersection_(disambiguation)", 
+            "cacheId": "zI3uXncs9c4J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Intersection theory - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Intersection</b> theory - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Intersection_theory", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Intersection</b>_theory", 
+            "snippet": "In mathematics, intersection theory is a branch of algebraic geometry, where \nsubvarieties are intersected on an algebraic variety, and of algebraic topology,\u00a0...", 
+            "htmlSnippet": "In mathematics, <b>intersection</b> theory is a branch of algebraic geometry, where <br>\nsubvarieties are intersected on an algebraic variety, and of algebraic topology,&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Intersection_theory", 
+            "cacheId": "JnYg5bvyMvMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Intersection (1994 film) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Intersection</b> (1994 film) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Intersection_(1994_film)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Intersection</b>_(1994_film)", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQcxb2YMe-GJ87GieEel7UnW5d0uvY4ZaZAj8LsHXBFfOpMHz0M4jXgMX8", 
+                        "height": "263"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/Intersection.jpg/220px-Intersection.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "Vincent Eastman and his wife, Sally, run an architectural firm together. He is the \narchitect and creative director while she is in charge of the business end.", 
+            "htmlSnippet": "Vincent Eastman and his wife, Sally, run an architectural firm together. He is the <br>\narchitect and creative director while she is in charge of the business end.", 
+            "link": "https://en.wikipedia.org/wiki/Intersection_(1994_film)", 
+            "cacheId": "n_9bDXwQHz8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Line\u2013line intersection - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Line\u2013line <b>intersection</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Line\u2013line_intersection", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Line\u2013line_<b>intersection</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "305", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdf1QeffuGMHKhC8ja_uqn_nU4YHhWtMnZX3iT15AO-odxyU46J2QPRZQ", 
+                        "height": "165"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Line-Line_Intersection.png/400px-Line-Line_Intersection.png"
+                    }
+                ]
+            }, 
+            "snippet": "In Euclidean geometry, the intersection of a line and a line can be the empty set, \na point, or a line. Distinguishing these cases and finding the intersection point\u00a0...", 
+            "htmlSnippet": "In Euclidean geometry, the <b>intersection</b> of a line and a line can be the empty set, <br>\na point, or a line. Distinguishing these cases and finding the <b>intersection</b> point&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Line%E2%80%93line_intersection", 
+            "cacheId": "A8zgGDQfs-gJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Intersection graph - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Intersection</b> graph - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Intersection_graph", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Intersection</b>_graph", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSddRvJhmORIx9lfzjvCGaHhBYLpnm5YW8hAwzTFRvsJary1LjrhD7Qgto", 
+                        "height": "132"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Intersection_graph.gif/220px-Intersection_graph.gif"
+                    }
+                ]
+            }, 
+            "snippet": "In the mathematical area of graph theory, an intersection graph is a graph that \nrepresents the pattern of intersections of a family of sets. Any graph can be\u00a0...", 
+            "htmlSnippet": "In the mathematical area of graph theory, an <b>intersection</b> graph is a graph that <br>\nrepresents the pattern of intersections of a family of sets. Any graph can be&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Intersection_graph", 
+            "cacheId": "TUu97r-zJwYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Continuous-flow intersection - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Continuous-flow <b>intersection</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Continuous-flow_intersection", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Continuous-flow_<b>intersection</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "208", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJjFIN7ocozegX1N--xxC9C0j1rx9bkXHlHYR_jJbbT4K40S1beQdtkWR_", 
+                        "height": "130"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Intersection_continuous_flow.jpg/260px-Intersection_continuous_flow.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "A continuous flow intersection (CFI), also called a crossover displaced left-turn (\nXDL or DLT), is an alternative design for an at-grade road junction. Vehicles\u00a0...", 
+            "htmlSnippet": "A continuous flow <b>intersection</b> (CFI), also called a crossover displaced left-turn (<br>\nXDL or DLT), is an alternative design for an at-grade road junction. Vehicles&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Continuous-flow_intersection", 
+            "cacheId": "wwYstdkG5aAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Finite intersection property - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Finite <b>intersection</b> property - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Finite_intersection_property", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Finite_<b>intersection</b>_property", 
+            "snippet": "In general topology, a branch of mathematics, a collection A of subsets of a set X \nis said to have the finite intersection property (FIP) if the intersection over any\u00a0...", 
+            "htmlSnippet": "In general topology, a branch of mathematics, a collection A of subsets of a set X <br>\nis said to have the finite <b>intersection</b> property (FIP) if the <b>intersection</b> over any&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Finite_intersection_property", 
+            "cacheId": "Q4duiJaICysJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Intersection", 
+                "safe": "off", 
+                "searchTerms": "Intersection", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "2780000"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Intersection", 
+                "safe": "off", 
+                "searchTerms": "Intersection", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "2780000"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.34", 
+        "formattedTotalResults": "2,780,000", 
+        "totalResults": "2780000", 
+        "searchTime": 0.341251
+    }
+}

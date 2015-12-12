@@ -1,0 +1,180 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Fermat primality test - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Fermat primality test</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Fermat_primality_test", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Fermat</b>_<b>primality</b>_<b>test</b>", 
+            "snippet": "... the free encyclopedia. Jump to: navigation, search. The Fermat primality test is \na probabilistic test to determine whether a number is a probable prime.", 
+            "htmlSnippet": "... the free encyclopedia. Jump to: navigation, search. The <b>Fermat primality test</b> is <br>\na probabilistic test to determine whether a number is a probable prime.", 
+            "link": "https://en.wikipedia.org/wiki/Fermat_primality_test", 
+            "cacheId": "ehB0Ni3YFosJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Primality test - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Primality test</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Primality_test", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Primality</b>_<b>test</b>", 
+            "snippet": "[edit]. The simplest probabilistic primality test is the Fermat primality test (actually \na compositeness test). It works as follows:.", 
+            "htmlSnippet": "[edit]. The simplest probabilistic primality test is the <b>Fermat primality test</b> (actually <br>\na compositeness test). It works as follows:.", 
+            "link": "https://en.wikipedia.org/wiki/Primality_test", 
+            "cacheId": "emzcKnQsr5UJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Miller\u2013Rabin primality test - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Miller\u2013Rabin <b>primality test</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Miller\u2013Rabin_primality_test", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Miller\u2013Rabin_<b>primality</b>_<b>test</b>", 
+            "snippet": "The Miller\u2013Rabin primality test or Rabin\u2013Miller primality test is a primality test: ... \nJust like the Fermat and Solovay\u2013Strassen tests, the Miller\u2013Rabin test relies on\u00a0...", 
+            "htmlSnippet": "The Miller\u2013Rabin <b>primality test</b> or Rabin\u2013Miller <b>primality test</b> is a <b>primality test</b>: ... <br>\nJust like the <b>Fermat</b> and Solovay\u2013Strassen tests, the Miller\u2013Rabin test relies on&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Miller%E2%80%93Rabin_primality_test", 
+            "cacheId": "qVZNv2DzKMsJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Fermat primality test - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Fermat primality test</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3AFermat_primality_test", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>Fermat</b>_<b>primality</b>_<b>test</b>", 
+            "snippet": "And it does indeed use the Fermat pseudo primality test to find the primes used \nfor RSA keys. GPG is another implementation that is compatible with PGP.", 
+            "htmlSnippet": "And it does indeed use the <b>Fermat</b> pseudo <b>primality test</b> to find the primes used <br>\nfor RSA keys. GPG is another implementation that is compatible with PGP.", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3AFermat_primality_test", 
+            "cacheId": "U5znWw5L85IJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Baillie\u2013PSW primality test - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Baillie\u2013PSW <b>primality test</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Baillie\u2013PSW_primality_test", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Baillie\u2013PSW_<b>primality</b>_<b>test</b>", 
+            "snippet": "[edit]. The following computer algebra systems and software packages use\u00a0...", 
+            "htmlSnippet": "[edit]. The following computer algebra systems and software packages use&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Baillie%E2%80%93PSW_primality_test", 
+            "cacheId": "wIywjeb-E7cJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Solovay\u2013Strassen primality test - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Solovay\u2013Strassen <b>primality test</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Solovay\u2013Strassen_primality_test", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Solovay\u2013Strassen_<b>primality</b>_<b>test</b>", 
+            "snippet": "are (Euler) witnesses: this contrasts with the Fermat primality test, for which the \nproportion of witnesses may be much smaller. Therefore, there are no (odd)\u00a0...", 
+            "htmlSnippet": "are (Euler) witnesses: this contrasts with the <b>Fermat primality test</b>, for which the <br>\nproportion of witnesses may be much smaller. Therefore, there are no (odd)&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Solovay%E2%80%93Strassen_primality_test", 
+            "cacheId": "VsF5qzIY0HcJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Fermat pseudoprime - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Fermat</b> pseudoprime - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Fermat_pseudoprime", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Fermat</b>_pseudoprime", 
+            "snippet": "In other words, a composite integer is a Fermat pseudoprime to base a if it \nsuccessfully passes the Fermat primality test for the base a. It follows that if x is a\n\u00a0...", 
+            "htmlSnippet": "In other words, a composite integer is a Fermat pseudoprime to base a if it <br>\nsuccessfully passes the <b>Fermat primality test</b> for the base a. It follows that if x is a<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Fermat_pseudoprime", 
+            "cacheId": "293pm345wpUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Primality certificate - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Primality</b> certificate - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Primality_certificate", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Primality</b>_certificate", 
+            "snippet": "Standard probabilistic primality tests such as the Baillie-PSW primality test, the \nFermat primality test, and the Miller-Rabin primality test also produce\u00a0...", 
+            "htmlSnippet": "Standard probabilistic primality tests such as the Baillie-PSW primality test, the <br>\n<b>Fermat primality test</b>, and the Miller-Rabin primality test also produce&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Primality_certificate", 
+            "cacheId": "LaG6Uz2gFd8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Fermat's little theorem - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Fermat&#39;s</b> little theorem - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Fermat's_little_theorem", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Fermat&#39;s</b>_little_theorem", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR6d-BVWnhdTIYI_9JwR85QmrghncO-WGDXIGDJ4J2DhkT-3SeIMq3Hukg", 
+                        "height": "235"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Pierre_de_Fermat.jpg/220px-Pierre_de_Fermat.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "Fermat's little theorem is the basis for the Fermat primality test and is one of the \nfundamental results of elementary number theory. The theorem is named after\u00a0...", 
+            "htmlSnippet": "Fermat&#39;s little theorem is the basis for the <b>Fermat primality test</b> and is one of the <br>\nfundamental results of elementary number theory. The theorem is named after&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Fermat's_little_theorem", 
+            "cacheId": "S2uTQmZvO2oJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Carmichael number - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Carmichael number - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Carmichael_number", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Carmichael_number", 
+            "snippet": "Fermat's little theorem states that if p is a prime number, then for any integer b, \nthe ... Since Carmichael numbers exist, this primality test cannot be relied upon to\n\u00a0...", 
+            "htmlSnippet": "<b>Fermat&#39;s</b> little theorem states that if p is a prime number, then for any integer b, <br>\nthe ... Since Carmichael numbers exist, this <b>primality test</b> cannot be relied upon to<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Carmichael_number", 
+            "cacheId": "60Q7wZU9ar0J"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Fermat primality test", 
+                "safe": "off", 
+                "searchTerms": "Fermat primality test", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "272"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Fermat primality test", 
+                "safe": "off", 
+                "searchTerms": "Fermat primality test", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "272"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.22", 
+        "formattedTotalResults": "272", 
+        "totalResults": "272", 
+        "searchTime": 0.221825
+    }
+}

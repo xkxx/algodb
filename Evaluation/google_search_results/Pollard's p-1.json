@@ -1,0 +1,194 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Pollard's p \u2212 1 algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Pollard&#39;s p</b> \u2212 <b>1</b> algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Pollard's_p_\u2212_1_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Pollard&#39;s</b>_<b>p</b>_\u2212_<b>1</b>_algorithm", 
+            "snippet": "Pollard's p \u2212 1 algorithm is a number theoretic integer factorization algorithm, \ninvented by John Pollard in 1974. It is a special-purpose algorithm, meaning that \nit\u00a0...", 
+            "htmlSnippet": "<b>Pollard&#39;s p</b> \u2212 <b>1</b> algorithm is a number theoretic integer factorization algorithm, <br>\ninvented by John <b>Pollard</b> in 1974. It is a special-purpose algorithm, meaning that <br>\nit&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Pollard's_p_%E2%88%92_1_algorithm", 
+            "cacheId": "zweeP4GmaIgJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Williams' p + 1 algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Williams&#39; <b>p</b> + <b>1</b> algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Williams'_p_%2B_1_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Williams&#39;_<b>p</b>_%2B_<b>1</b>_algorithm", 
+            "snippet": "In computational number theory, Williams' p + 1 algorithm is an integer \nfactorization ... this algorithm degenerates into a slow version of Pollard's p \u2212 1 \nalgorithm.", 
+            "htmlSnippet": "In computational number theory, Williams&#39; <b>p</b> + <b>1</b> algorithm is an integer <br>\nfactorization ... this algorithm degenerates into a slow version of <b>Pollard&#39;s p</b> \u2212 <b>1</b> <br>\nalgorithm.", 
+            "link": "https://en.wikipedia.org/wiki/Williams'_p_%2B_1_algorithm", 
+            "cacheId": "HHoHpGCcy8AJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Pollard's rho algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Pollard&#39;s</b> rho algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Pollard's_rho_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Pollard&#39;s</b>_rho_algorithm", 
+            "snippet": "The constant 1.177 comes from the more general result that if P is the probability \nthat t random numbers in the range [1, n] contain a repetition\u00a0...", 
+            "htmlSnippet": "The constant 1.177 comes from the more general result that if <b>P</b> is the probability <br>\nthat t random numbers in the range [<b>1</b>, n] contain a repetition&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Pollard's_rho_algorithm", 
+            "cacheId": "uKg6CQmQp7IJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Pollard's p \u2212 1 algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Pollard&#39;s p</b> \u2212 <b>1</b> algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "en.wikipedia.org/wiki/Talk%3APollard's_p_\u2212_1_algorithm", 
+            "htmlFormattedUrl": "en.wikipedia.org/wiki/Talk%3A<b>Pollard&#39;s</b>_<b>p</b>_\u2212_<b>1</b>_algorithm", 
+            "snippet": "a^(p-1) = 1 mod (p) for a in U*(Z/nZ) is meaningless and is not the correct \nstatement of fermat's little theorem. I don't think you really understand the \nmeaning of\u00a0...", 
+            "htmlSnippet": "a^(<b>p</b>-<b>1</b>) = <b>1</b> mod (<b>p</b>) for a in U*(Z/nZ) is meaningless and is not the correct <br>\nstatement of fermat&#39;s little theorem. I don&#39;t think you really understand the <br>\nmeaning of&nbsp;...", 
+            "link": "http://en.wikipedia.org/wiki/Talk%3APollard's_p_%E2%88%92_1_algorithm", 
+            "cacheId": "jYqzZHYqDuAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Pollard's rho algorithm for logarithms - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Pollard&#39;s</b> rho algorithm for logarithms - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Pollard's_rho_algorithm_for_logarithms", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Pollard&#39;s</b>_rho_algorithm_for_logarithms", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "140", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSaSbim2P33w77aID39-QCjxNIpXOiIO6VzgK6GRhI50K7mK2egYm5dFNM", 
+                        "height": "56"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/math/5/3/3/533af701acd39cb60d43185ff001a163.png"
+                    }
+                ]
+            }, 
+            "snippet": "be a cyclic group of order p ... xi \u2190 f(xi-1), ai \u2190 g(xi-1,ai-1), bi \u2190 h(xi-1,bi-1); x2i \n\u2190 f(f(x2i-2)), a2i \u2190 g(f(x2i-2),g(x2i-2,a2i-2)), b2i \u2190 h(f(x2i-2)\u00a0...", 
+            "htmlSnippet": "be a cyclic group of order <b>p</b> ... xi \u2190 f(xi-<b>1</b>), ai \u2190 g(xi-<b>1</b>,ai-<b>1</b>), bi \u2190 h(xi-<b>1</b>,bi-<b>1</b>); x2i <br>\n\u2190 f(f(x2i-2)), a2i \u2190 g(f(x2i-2),g(x2i-2,a2i-2)), b2i \u2190 h(f(x2i-2)&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Pollard's_rho_algorithm_for_logarithms", 
+            "cacheId": "rW5BGP7FSQoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Strong prime - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Strong prime - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Strong_prime", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Strong_prime", 
+            "snippet": "using Pollard's p \u2212 1 algorithm computationally infeasible. For this reason, strong \nprimes are required by the ANSI X9.31 standard for use in generating RSA\u00a0...", 
+            "htmlSnippet": "using <b>Pollard&#39;s p</b> \u2212 <b>1</b> algorithm computationally infeasible. For this reason, strong <br>\nprimes are required by the ANSI X9.31 standard for use in generating RSA&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Strong_prime", 
+            "cacheId": "T08q1x42G38J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "P1 - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>P1</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/P1", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>P1</b>", 
+            "snippet": "For the Wikipedia P1 criterion for speedy deletion, see Wikipedia:Criteria for ... P1\n, P01 or P-1 may refer to: ... Pollard's p \u2212 1 algorithm for integer factorization\u00a0...", 
+            "htmlSnippet": "For the Wikipedia <b>P1</b> criterion for speedy deletion, see Wikipedia:Criteria for ... <b>P1</b><br>\n, P01 or <b>P</b>-<b>1</b> may refer to: ... <b>Pollard&#39;s p</b> \u2212 <b>1</b> algorithm for integer factorization&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/P1", 
+            "cacheId": "iX_9VljKQwAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Pollard's kangaroo algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Pollard&#39;s</b> kangaroo algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Pollard's_kangaroo_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Pollard&#39;s</b>_kangaroo_algorithm", 
+            "snippet": "Although Pollard described the application of his algorithm to the discrete \nlogarithm ... units modulo a prime p, it is in fact a generic discrete logarithm \nalgorithm\u2014it will work ... 1 The algorithm; 2 Complexity; 3 Naming; 4 See also; 5 \nReferences\u00a0...", 
+            "htmlSnippet": "Although <b>Pollard</b> described the application of his algorithm to the discrete <br>\nlogarithm ... units modulo a prime <b>p</b>, it is in fact a generic discrete logarithm <br>\nalgorithm\u2014it will work ... <b>1</b> The algorithm; 2 Complexity; 3 Naming; 4 See also; 5 <br>\nReferences&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Pollard's_kangaroo_algorithm", 
+            "cacheId": "wv0K0Bur5n8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Camp Hunter - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Camp Hunter - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Camp_Hunter", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Camp_Hunter", 
+            "snippet": "1\u20132; Kyrias, letter to Pollard, April 1, 1993, p. 3; Kyrias, interview with Pollard, \nBaxter Springs, Kans., May 27, 1993; Pollard, memorandum to Daniel C. \nFitzgerald\u00a0...", 
+            "htmlSnippet": "<b>1</b>\u20132; Kyrias, letter to <b>Pollard</b>, April <b>1</b>, 1993, <b>p</b>. 3; Kyrias, interview with <b>Pollard</b>, <br>\nBaxter Springs, Kans., May 27, 1993; <b>Pollard</b>, memorandum to Daniel C. <br>\nFitzgerald&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Camp_Hunter", 
+            "cacheId": "dh_F3P8pw1gJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Pohlig\u2013Hellman algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Pohlig\u2013Hellman algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Pohlig\u2013Hellman_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Pohlig\u2013Hellman_algorithm", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "250", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSHRwLcEBergHf8F5_Z7EjUBfr6i4i2Ng73LMX7q-UXMNWrzqMz74fky70", 
+                        "height": "71"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/math/1/4/8/14809309fc08d6dda500c6d88ba8aabe.png"
+                    }
+                ]
+            }, 
+            "snippet": "Suppose for illustration that p1 divides this order but p12 does not. Then we need \nto determine x mod p1, that is, we need to know the ending coefficient b1 in the\u00a0...", 
+            "htmlSnippet": "Suppose for illustration that <b>p1</b> divides this order but <b>p1</b><sup>2</sup> does not. Then we need <br>\nto determine x mod <b>p1</b>, that is, we need to know the ending coefficient b<b>1</b> in the&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Pohlig%E2%80%93Hellman_algorithm", 
+            "cacheId": "niOscesjTowJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Pollard's p-1", 
+                "safe": "off", 
+                "searchTerms": "Pollard's p-1", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "7610"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Pollard's p-1", 
+                "safe": "off", 
+                "searchTerms": "Pollard's p-1", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "7610"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.31", 
+        "formattedTotalResults": "7,610", 
+        "totalResults": "7610", 
+        "searchTime": 0.308974
+    }
+}

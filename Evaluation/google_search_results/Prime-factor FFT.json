@@ -1,0 +1,194 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Prime-factor FFT algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Prime</b>-<b>factor FFT</b> algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Prime-factor_FFT_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Prime</b>-<b>factor</b>_<b>FFT</b>_algorithm", 
+            "snippet": "The prime-factor algorithm (PFA), also called the Good\u2013Thomas algorithm (1958/\n1963), is a fast Fourier transform (FFT) algorithm that re-expresses the discrete\u00a0...", 
+            "htmlSnippet": "The <b>prime</b>-<b>factor</b> algorithm (PFA), also called the Good\u2013Thomas algorithm (1958/<br>\n1963), is a fast Fourier transform (<b>FFT</b>) algorithm that re-expresses the discrete&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Prime-factor_FFT_algorithm", 
+            "cacheId": "BgFzCiW4iJ0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Rader's FFT algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Rader&#39;s <b>FFT</b> algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Rader's_FFT_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Rader&#39;s_<b>FFT</b>_algorithm", 
+            "snippet": "The algorithm can be modified to gain a factor of two savings for the case of DFTs \n... However, for composite sizes such as prime powers, the Cooley\u2013Tukey FFT\u00a0...", 
+            "htmlSnippet": "The algorithm can be modified to gain a <b>factor</b> of two savings for the case of DFTs <br>\n... However, for composite sizes such as <b>prime</b> powers, the Cooley\u2013Tukey <b>FFT</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Rader's_FFT_algorithm", 
+            "cacheId": "EY8naR0y7uQJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Prime-factor FFT algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Prime</b>-<b>factor FFT</b> algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3APrime-factor_FFT_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>Prime</b>-<b>factor</b>_<b>FFT</b>_algorithm", 
+            "snippet": "can we use the expression (2^n - 2)mod n, for extracting prime numbers, what \nare probable issues when this type of expression is used? thank you for your time\n.", 
+            "htmlSnippet": "can we use the expression (2^n - 2)mod n, for extracting <b>prime</b> numbers, what <br>\nare probable issues when this type of expression is used? thank you for your time<br>\n.", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3APrime-factor_FFT_algorithm", 
+            "cacheId": "FGV-N95sY88J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Cooley\u2013Tukey FFT algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Cooley\u2013Tukey <b>FFT</b> algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Cooley\u2013Tukey_FFT_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Cooley\u2013Tukey_<b>FFT</b>_algorithm", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "276", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRACW82Brp083dpd9mo6DFNHHnHWGAY-_vh2ZI42t4iTVk2rAVWpQcMySk", 
+                        "height": "183"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Cooley-tukey-general.png/500px-Cooley-tukey-general.png"
+                    }
+                ]
+            }, 
+            "snippet": "Their paper cited as inspiration for work by I. J. Good on what is now called the \nprime-factor FFT algorithm (PFA); although Good's algorithm was initially thought\n\u00a0...", 
+            "htmlSnippet": "Their paper cited as inspiration for work by I. J. Good on what is now called the <br>\n<b>prime</b>-<b>factor FFT</b> algorithm (PFA); although Good&#39;s algorithm was initially thought<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Cooley%E2%80%93Tukey_FFT_algorithm", 
+            "cacheId": "ZRsUCXfOwEYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Fast Fourier transform - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Fast Fourier transform - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Fast_Fourier_transform", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Fast_Fourier_transform", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "318", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSnIs5golPnUw9wxp2kPBmReVf9KttXn6Jd65w_RWvtnfXuWgZhlTsLZDc", 
+                        "height": "159"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Time_Signal_of_Five_Term_Cosine_Series.png/400px-Time_Signal_of_Five_Term_Cosine_Series.png"
+                    }
+                ]
+            }, 
+            "snippet": "The best-known FFT algorithms depend upon the factorization of N, but there are \nFFTs with O(N log N) complexity for all N, even for prime N. Many FFT\u00a0...", 
+            "htmlSnippet": "The best-known <b>FFT</b> algorithms depend upon the <b>factorization</b> of N, but there are <br>\nFFTs with O(N log N) complexity for all N, even for <b>prime</b> N. Many <b>FFT</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Fast_Fourier_transform", 
+            "cacheId": "aDSMugX9X0AJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Smooth number - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Smooth number - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Smooth_number", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Smooth_number", 
+            "snippet": "If the largest prime factor of a number is p then the number is B -smooth for any B \n... Fourier transform (FFT) algorithms such as the Cooley\u2013Tukey FFT algorithm\u00a0...", 
+            "htmlSnippet": "If the largest <b>prime factor</b> of a number is p then the number is B -smooth for any B <br>\n... Fourier transform (<b>FFT</b>) algorithms such as the Cooley\u2013Tukey <b>FFT</b> algorithm&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Smooth_number", 
+            "cacheId": "mp_0NKWvmxIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Twiddle factor - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Twiddle <b>factor</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Twiddle_factor", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Twiddle_<b>factor</b>", 
+            "snippet": "The Prime-factor FFT algorithm is one unusual case in which an FFT can be \nperformed without twiddle factors, albeit only for restricted factorizations of the\u00a0...", 
+            "htmlSnippet": "The <b>Prime</b>-<b>factor FFT</b> algorithm is one unusual case in which an FFT can be <br>\nperformed without twiddle factors, albeit only for restricted factorizations of the&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Twiddle_factor", 
+            "cacheId": "djcMG7wkc7QJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Category:FFT algorithms - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Category:<b>FFT</b> algorithms - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Category:FFT_algorithms", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Category:<b>FFT</b>_algorithms", 
+            "snippet": "This category is for fast Fourier transform (FFT) algorithms, i.e. algorithms to \ncompute the ... Pages in category \"FFT algorithms\" ... P. Prime-factor FFT \nalgorithm\u00a0...", 
+            "htmlSnippet": "This category is for fast Fourier transform (FFT) algorithms, i.e. algorithms to <br>\ncompute the ... Pages in category &quot;FFT algorithms&quot; ... P. <b>Prime</b>-<b>factor FFT</b> <br>\nalgorithm&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Category:FFT_algorithms", 
+            "cacheId": "YqJujyMik-gJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "FFTW - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "FFTW - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/FFTW", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>FFT</b>W", 
+            "snippet": "It works best on arrays of sizes with small prime factors, with powers of two being \n... Cooley\u2013Tukey variants, Rader's algorithm, and prime-factor FFT algorithms.", 
+            "htmlSnippet": "It works best on arrays of sizes with small prime factors, with powers of two being <br>\n... Cooley\u2013Tukey variants, Rader&#39;s algorithm, and <b>prime</b>-<b>factor FFT</b> algorithms.", 
+            "link": "https://en.wikipedia.org/wiki/FFTW", 
+            "cacheId": "9IzqCxrf3BEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Discrete Hartley transform - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Discrete Hartley transform - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Discrete_Hartley_transform", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Discrete_Hartley_transform", 
+            "snippet": "As with the DFT, the overall scale factor in front of the transform and the sign of ... \nNearly every FFT algorithm, from Cooley-Tukey to Prime-Factor to Winograd\u00a0...", 
+            "htmlSnippet": "As with the DFT, the overall scale factor in front of the transform and the sign of ... <br>\nNearly every <b>FFT</b> algorithm, from Cooley-Tukey to <b>Prime</b>-<b>Factor</b> to Winograd&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Discrete_Hartley_transform", 
+            "cacheId": "TUS6xd5LsY8J"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Prime-factor FFT", 
+                "safe": "off", 
+                "searchTerms": "Prime-factor FFT", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "157"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Prime-factor FFT", 
+                "safe": "off", 
+                "searchTerms": "Prime-factor FFT", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "157"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.25", 
+        "formattedTotalResults": "157", 
+        "totalResults": "157", 
+        "searchTime": 0.252986
+    }
+}

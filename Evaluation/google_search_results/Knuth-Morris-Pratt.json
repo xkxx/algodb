@@ -1,0 +1,212 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Knuth\u2013Morris\u2013Pratt algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Knuth</b>\u2013<b>Morris</b>\u2013<b>Pratt</b> algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Knuth\u2013Morris\u2013Pratt_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Knuth</b>\u2013<b>Morris</b>\u2013<b>Pratt</b>_algorithm", 
+            "snippet": "In computer science, the Knuth\u2013Morris\u2013Pratt string searching algorithm (or KMP \nalgorithm) searches for occurrences of a \"word\" W within a main \"text string\" S\u00a0...", 
+            "htmlSnippet": "In computer science, the <b>Knuth</b>\u2013<b>Morris</b>\u2013<b>Pratt</b> string searching algorithm (or <b>KMP</b> <br>\nalgorithm) searches for occurrences of a &quot;word&quot; W within a main &quot;text string&quot; S&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Knuth%E2%80%93Morris%E2%80%93Pratt_algorithm", 
+            "cacheId": "EjmYYT4en9IJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "String searching algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "String searching algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/String_searching_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/String_searching_algorithm", 
+            "snippet": "Knuth\u2013Morris\u2013Pratt computes a DFA that recognizes inputs with the string to \nsearch for as a suffix, Boyer\u2013Moore starts searching from the end of the needle, \nso it\u00a0...", 
+            "htmlSnippet": "<b>Knuth</b>\u2013<b>Morris</b>\u2013<b>Pratt</b> computes a DFA that recognizes inputs with the string to <br>\nsearch for as a suffix, Boyer\u2013Moore starts searching from the end of the needle, <br>\nso it&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/String_searching_algorithm", 
+            "cacheId": "Mwandf8I27sJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Vaughan Pratt - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Vaughan <b>Pratt</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Vaughan_Pratt", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Vaughan_<b>Pratt</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRyyoTZSleYC1ihzInP2w8H2qEz03CN_Pd9Wtn6OydLLVMgFy4D2EqhH4_L", 
+                        "height": "227"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/VaughanPratt.JPG/220px-VaughanPratt.JPG"
+                    }
+                ]
+            }, 
+            "snippet": "Vaughan Ronald Pratt (born 1944), a Professor Emeritus at Stanford University, \n... In 1974, working in collaboration with Knuth and Morris, Pratt completed and\u00a0...", 
+            "htmlSnippet": "Vaughan Ronald <b>Pratt</b> (born 1944), a Professor Emeritus at Stanford University, <br>\n... In 1974, working in collaboration with <b>Knuth</b> and <b>Morris</b>, <b>Pratt</b> completed and&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Vaughan_Pratt", 
+            "cacheId": "aOA53VqQiYgJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Knuth\u2013Morris\u2013Pratt algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Knuth</b>\u2013<b>Morris</b>\u2013<b>Pratt</b> algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3AKnuth\u2013Morris\u2013Pratt_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>Knuth</b>\u2013<b>Morris</b>\u2013<b>Pratt</b>_algorithm", 
+            "snippet": "The second verbal description, which I wrote in vague emulation of Knuth's style \nfor describing algorithms, was written to the C code after I decided that it was\u00a0...", 
+            "htmlSnippet": "The second verbal description, which I wrote in vague emulation of <b>Knuth&#39;s</b> style <br>\nfor describing algorithms, was written to the C code after I decided that it was&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3AKnuth%E2%80%93Morris%E2%80%93Pratt_algorithm", 
+            "cacheId": "-3oBwsOWCIsJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Lexicographically minimal string rotation - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Lexicographically minimal string rotation - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../Lexicographically_minimal_string_rotation", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Lexicographically_minimal_string_rotation", 
+            "snippet": "An efficient algorithm was proposed by Booth (1980). The algorithm uses a \nmodified preprocessing function from the Knuth-Morris-Pratt string search \nalgorithm.", 
+            "htmlSnippet": "An efficient algorithm was proposed by Booth (1980). The algorithm uses a <br>\nmodified preprocessing function from the <b>Knuth</b>-<b>Morris</b>-<b>Pratt</b> string search <br>\nalgorithm.", 
+            "link": "https://en.wikipedia.org/wiki/Lexicographically_minimal_string_rotation", 
+            "cacheId": "cDkVDtpMh7IJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Donald Knuth - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Donald <b>Knuth</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Donald_Knuth", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Donald_<b>Knuth</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "153", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQsk5_F3os6RKY-mfI9zfu2ZYkuGDfk-ANGMSf3fPNDpSI5vO0bziw5lM0", 
+                        "height": "181"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/KnuthAtOpenContentAlliance.jpg/192px-KnuthAtOpenContentAlliance.jpg"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "category": "Mathematics Computer science", 
+                        "url_text": "cs.stanford.edu/~uno", 
+                        "url": "cs.stanford.edu/~uno", 
+                        "bday": "1938-01-10", 
+                        "nickname": "\u9ad8\u5fb7\u7eb3[1][2][3]", 
+                        "fn": "Donald Knuth"
+                    }
+                ]
+            }, 
+            "snippet": "Knuth\u2013Morris\u2013Pratt algorithm \u00b7 Knuth\u2013Bendix completion ... The Art of Computer \nProgramming. Knuth has been called the \"father of the analysis of algorithms\".", 
+            "htmlSnippet": "<b>Knuth</b>\u2013<b>Morris</b>\u2013<b>Pratt</b> algorithm &middot; Knuth\u2013Bendix completion ... The Art of Computer <br>\nProgramming. Knuth has been called the &quot;father of the analysis of algorithms&quot;.", 
+            "link": "https://en.wikipedia.org/wiki/Donald_Knuth", 
+            "cacheId": "l2dVh_IlHs0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "James H. Morris - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "James H. <b>Morris</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/James_H._Morris", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/James_H._<b>Morris</b>", 
+            "pagemap": {
+                "hcard": [
+                    {
+                        "category": "Computer Science, Human-Computer Interaction", 
+                        "fn": "James H. Morris"
+                    }
+                ]
+            }, 
+            "snippet": "James Hiram Morris (born 1941) is a Professor of Computer Science. He was ... \nHe was a co-discoverer of the Knuth\u2013Morris\u2013Pratt algorithm for string-search.", 
+            "htmlSnippet": "James Hiram Morris (born 1941) is a Professor of Computer Science. He was ... <br>\nHe was a co-discoverer of the <b>Knuth</b>\u2013<b>Morris</b>\u2013<b>Pratt</b> algorithm for string-search.", 
+            "link": "https://en.wikipedia.org/wiki/James_H._Morris", 
+            "cacheId": "RfJP-w7-x94J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Rabin\u2013Karp algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Rabin\u2013Karp algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Rabin\u2013Karp_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Rabin\u2013Karp_algorithm", 
+            "snippet": "The Knuth\u2013Morris\u2013Pratt algorithm reduces this to O(n) time using precomputation \nto examine each text character only once; the Boyer\u2013Moore algorithm skips\u00a0...", 
+            "htmlSnippet": "The <b>Knuth</b>\u2013<b>Morris</b>\u2013<b>Pratt</b> algorithm reduces this to O(n) time using precomputation <br>\nto examine each text character only once; the Boyer\u2013Moore algorithm skips&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Rabin%E2%80%93Karp_algorithm", 
+            "cacheId": "NDuY4vmUi4UJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "KMP - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>KMP</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/KMP", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/KMP", 
+            "snippet": "KMP may refer to: In Transport: Kundli\u2013Manesar\u2013Palwal Expressway, a toll \nexpressway in the Indian State of Haryana. In Political Party: Kongunadu \nMunnetra\u00a0...", 
+            "htmlSnippet": "<b>KMP</b> may refer to: In Transport: Kundli\u2013Manesar\u2013Palwal Expressway, a toll <br>\nexpressway in the Indian State of Haryana. In Political Party: Kongunadu <br>\nMunnetra&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/KMP", 
+            "cacheId": "yDLaBQJ6bLwJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Man or boy test - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Man or boy test - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Man_or_boy_test", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Man_or_boy_test", 
+            "snippet": "The man or boy test was proposed by computer scientist Donald Knuth as a .... \nKnuth\u2013Morris\u2013Pratt algorithm \u00b7 Knuth shuffle \u00b7 Robinson\u2013Schensted\u2013Knuth\u00a0...", 
+            "htmlSnippet": "The man or boy test was proposed by computer scientist Donald Knuth as a .... <br>\n<b>Knuth</b>\u2013<b>Morris</b>\u2013<b>Pratt</b> algorithm &middot; Knuth shuffle &middot; Robinson\u2013Schensted\u2013Knuth&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Man_or_boy_test", 
+            "cacheId": "6ljEqXMhnwkJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Knuth-Morris-Pratt", 
+                "safe": "off", 
+                "searchTerms": "Knuth-Morris-Pratt", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "142"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Knuth-Morris-Pratt", 
+                "safe": "off", 
+                "searchTerms": "Knuth-Morris-Pratt", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "142"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.25", 
+        "formattedTotalResults": "142", 
+        "totalResults": "142", 
+        "searchTime": 0.253285
+    }
+}

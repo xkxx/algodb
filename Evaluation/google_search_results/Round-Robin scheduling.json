@@ -1,0 +1,194 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Round-robin scheduling - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Round</b>-<b>robin scheduling</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Round-robin_scheduling", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Round</b>-<b>robin</b>_<b>scheduling</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "280", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTo9VMmSSPw3GHPU2hJ9q8KM86v0YGDLwhk_CeC94C9gMZKLUb4qA7sWfo", 
+                        "height": "96"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Round-robin_schedule_quantum_3.png/350px-Round-robin_schedule_quantum_3.png"
+                    }
+                ]
+            }, 
+            "snippet": "Round-robin (RR) is one of the algorithms employed by process and network \nschedulers in computing. As the term is generally used, time slices are assigned \nto\u00a0...", 
+            "htmlSnippet": "<b>Round</b>-<b>robin</b> (RR) is one of the algorithms employed by process and network <br>\nschedulers in computing. As the term is generally used, time slices are assigned <br>\nto&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Round-robin_scheduling", 
+            "cacheId": "bcKinE2m2OkJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Round-robin tournament - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Round</b>-<b>robin</b> tournament - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Round-robin_tournament", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Round</b>-<b>robin</b>_tournament", 
+            "snippet": "[edit]. If n is the number of competitors, a pure round robin tournament requires \\\nbegin{matrix} \\frac{n}{2} \\end{ games. If n\u00a0...", 
+            "htmlSnippet": "[edit]. If n is the number of competitors, a pure <b>round robin</b> tournament requires \\<br>\nbegin{matrix} \\frac{n}{2} \\end{ games. If n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Round-robin_tournament", 
+            "cacheId": "YJgHVlo_gyQJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Round-robin scheduling", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Round</b>-<b>robin scheduling</b>", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/File:RoundRobin.jpg", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/File:<b>RoundRobin</b>.jpg", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "182", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRCuhxV3KfO3BFE4sTpUmfVqyFFtOx6Peze42i-JXKT9J-IT4eciYwK2-w", 
+                        "height": "277"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/5/50/RoundRobin.jpg/395px-RoundRobin.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "Description. Round Robin process scheduling explained. Source. Using \npowerpoint and paint to explain round robin process scheduling. Previously \npublished:\u00a0...", 
+            "htmlSnippet": "Description. <b>Round Robin</b> process <b>scheduling</b> explained. Source. Using <br>\npowerpoint and paint to explain <b>round robin</b> process <b>scheduling</b>. Previously <br>\npublished:&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/File:RoundRobin.jpg", 
+            "cacheId": "M8ND94X8O5EJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Deficit round robin - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Deficit <b>round robin</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Deficit_round_robin", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Deficit_<b>round</b>_<b>robin</b>", 
+            "snippet": "Deficit Round Robin (DRR), also Deficit Weighted Round Robin (DWRR), is a \nscheduling algorithm for the network scheduler. DRR is, like weighted fair \nqueuing\u00a0...", 
+            "htmlSnippet": "Deficit <b>Round Robin</b> (DRR), also Deficit Weighted <b>Round Robin</b> (DWRR), is a <br>\n<b>scheduling</b> algorithm for the network <b>scheduler</b>. DRR is, like weighted fair <br>\nqueuing&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Deficit_round_robin", 
+            "cacheId": "sXDZTkV7sgEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Weighted round robin - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Weighted <b>round robin</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Weighted_round_robin", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Weighted_<b>round</b>_<b>robin</b>", 
+            "snippet": "Weighted round robin (WRR) is a network scheduling discipline. Each packet \nflow or connection has its own packet queue in a network interface controller.", 
+            "htmlSnippet": "Weighted <b>round robin</b> (WRR) is a network <b>scheduling</b> discipline. Each packet <br>\nflow or connection has its own packet queue in a network interface controller.", 
+            "link": "https://en.wikipedia.org/wiki/Weighted_round_robin", 
+            "cacheId": "8C8Jo_4xylAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Scheduling (computing) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Scheduling</b> (computing) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Scheduling_(computing)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Scheduling</b>_(computing)", 
+            "snippet": "[edit]. Main article: Round-robin scheduling. The scheduler assigns a fixed time \nunit per process, and cycles\u00a0...", 
+            "htmlSnippet": "[edit]. Main article: <b>Round</b>-<b>robin scheduling</b>. The scheduler assigns a fixed time <br>\nunit per process, and cycles&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Scheduling_(computing)", 
+            "cacheId": "I6wQeqME3O8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Round-robin - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Round</b>-<b>robin</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Round-robin", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Round</b>-<b>robin</b>", 
+            "snippet": "Look up round robin or round-robin in Wiktionary, the free dictionary. ... organized \nin a mesh topology; Round-robin scheduling, an algorithm used in computer\u00a0...", 
+            "htmlSnippet": "Look up round robin or round-robin in Wiktionary, the free dictionary. ... organized <br>\nin a mesh topology; <b>Round</b>-<b>robin scheduling</b>, an algorithm used in computer&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Round-robin", 
+            "cacheId": "CzcFxJePixAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Round-robin scheduling - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Round</b>-<b>robin scheduling</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3ARound-robin_scheduling", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>Round</b>-<b>robin</b>_<b>scheduling</b>", 
+            "snippet": "\"Round-robin scheduling results in max-min fairness if the data packets are \nequally sized, since the data flow that has waited longest time is given \nscheduling\u00a0...", 
+            "htmlSnippet": "&quot;<b>Round</b>-<b>robin scheduling</b> results in max-min fairness if the data packets are <br>\nequally sized, since the data flow that has waited longest time is given <br>\nscheduling&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3ARound-robin_scheduling", 
+            "cacheId": "QzdA5QIbLd4J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Fair queuing - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Fair queuing - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Fair_queuing", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Fair_queuing", 
+            "snippet": "The term \"fair queuing\" was coined by John Nagle in 1985 while proposing round\n-robin scheduling in the gateway between a local area network and the internet\u00a0...", 
+            "htmlSnippet": "The term &quot;fair queuing&quot; was coined by John Nagle in 1985 while proposing <b>round</b><br>\n-<b>robin scheduling</b> in the gateway between a local area network and the internet&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Fair_queuing", 
+            "cacheId": "WbyDQykGZGsJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Fair-share scheduling - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Fair-share <b>scheduling</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Fair-share_scheduling", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Fair-share_<b>scheduling</b>", 
+            "snippet": "One common method of logically implementing the fair-share scheduling strategy \nis to recursively apply the round-robin scheduling strategy at each level of\u00a0...", 
+            "htmlSnippet": "One common method of logically implementing the fair-share scheduling strategy <br>\nis to recursively apply the <b>round</b>-<b>robin scheduling</b> strategy at each level of&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Fair-share_scheduling", 
+            "cacheId": "IvXjpu1PudoJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Round-Robin scheduling", 
+                "safe": "off", 
+                "searchTerms": "Round-Robin scheduling", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "1090"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Round-Robin scheduling", 
+                "safe": "off", 
+                "searchTerms": "Round-Robin scheduling", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "1090"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.31", 
+        "formattedTotalResults": "1,090", 
+        "totalResults": "1090", 
+        "searchTime": 0.306662
+    }
+}

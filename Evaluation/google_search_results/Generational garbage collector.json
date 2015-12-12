@@ -1,0 +1,208 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Garbage collection (computer science) - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Garbage collection</b> (computer science) - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Garbage_collection_(computer_science)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Garbage</b>_<b>collection</b>_(computer_science)", 
+            "snippet": "Generational[edit]. Generational garbage collection schemes are based on the \nempirical observation that most objects die young.", 
+            "htmlSnippet": "Generational[edit]. <b>Generational garbage collection</b> schemes are based on the <br>\nempirical observation that most objects die young.", 
+            "link": "https://en.wikipedia.org/wiki/Garbage_collection_(computer_science)", 
+            "cacheId": "6GM0rjrrUjsJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Tracing garbage collection - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Tracing <b>garbage collection</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Tracing_garbage_collection", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Tracing_<b>garbage</b>_<b>collection</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "257", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT2TTa6xn6ImMGiYyyFnv4mBqiVjwznlF0zaay5mIFRm6GkOB-s4_Vn590", 
+                        "height": "196"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Animation_of_the_Naive_Mark_and_Sweep_Garbage_Collector_Algorithm.gif/330px-Animation_of_the_Naive_Mark_and_Sweep_Garbage_Collector_Algorithm.gif"
+                    }
+                ]
+            }, 
+            "snippet": ")[edit]. It has been empirically observed that in many programs, the most recently \ncreated objects are also\u00a0...", 
+            "htmlSnippet": ")[edit]. It has been empirically observed that in many programs, the most recently <br>\ncreated objects are also&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Tracing_garbage_collection", 
+            "cacheId": "K8eJy3RVsOcJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Boehm garbage collector - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Boehm <b>garbage collector</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Boehm_garbage_collector", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Boehm_<b>garbage</b>_<b>collector</b>", 
+            "snippet": "In computer science, the Boehm\u2013Demers\u2013Weiser garbage collector, often simply \n... It provides incremental and generational collection under operating systems\u00a0...", 
+            "htmlSnippet": "In computer science, the Boehm\u2013Demers\u2013Weiser <b>garbage collector</b>, often simply <br>\n... It provides incremental and <b>generational</b> collection under operating systems&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Boehm_garbage_collector", 
+            "cacheId": "qGDgxG7ePKEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Actor model middle history - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Actor model middle history - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Actor_model_middle_history", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Actor_model_middle_history", 
+            "snippet": "1 Proving properties of Actor systems; 2 Garbage Collection; 3 Actor ... See \nincremental garbage collection. ... collection. See generational garbage \ncollection.", 
+            "htmlSnippet": "1 Proving properties of Actor systems; 2 Garbage Collection; 3 Actor ... See <br>\nincremental garbage collection. ... collection. See <b>generational garbage</b> <br>\n<b>collection</b>.", 
+            "link": "https://en.wikipedia.org/wiki/Actor_model_middle_history", 
+            "cacheId": "siYLoyzzlWkJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Reference counting - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Reference counting - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Reference_counting", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Reference_counting", 
+            "snippet": "Weighted reference counts are a good solution for garbage collecting a .... This \nalgorithm achieves throughput comparable with the fastest generational copying\n\u00a0...", 
+            "htmlSnippet": "Weighted reference counts are a good solution for <b>garbage collecting</b> a .... This <br>\nalgorithm achieves throughput comparable with the fastest <b>generational</b> copying<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Reference_counting", 
+            "cacheId": "cBcC2T2xaBsJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "V8 (JavaScript engine) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "V8 (JavaScript engine) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/V8_(JavaScript_engine)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/V8_(JavaScript_engine)", 
+            "snippet": "Details[edit]. The garbage collector of V8 is a generational incremental collector. \nThe V8 assembler is based on the Strongtalk assembler. On 7 December 2010,\u00a0...", 
+            "htmlSnippet": "Details[edit]. The <b>garbage collector</b> of V8 is a <b>generational</b> incremental collector. <br>\nThe V8 assembler is based on the Strongtalk assembler. On 7 December 2010,&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/V8_(JavaScript_engine)", 
+            "cacheId": "HnnuIgHgs34J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "MonoTouch", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "MonoTouch", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/MonoTouch", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/MonoTouch", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "80", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJTg0LjyzCQjQFemu3Z15KS0s5J0H7mpE_JuzkxXR_hsLRiflR8UAP", 
+                        "height": "95"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Mono_project_logo.svg/100px-Mono_project_logo.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "NET 4.0 profile, C# 4.0 support, new generational garbage collector, includes \nParallel Extensions, WCF Routing, CodeContracts, ASP.NET 4.0, drops the 1.0\u00a0...", 
+            "htmlSnippet": "NET 4.0 profile, C# 4.0 support, new <b>generational garbage collector</b>, includes <br>\nParallel Extensions, WCF Routing, CodeContracts, ASP.NET 4.0, drops the 1.0&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/MonoTouch", 
+            "cacheId": "j7GPh5xpdkAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "CMU Common Lisp - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "CMU Common Lisp - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/CMU_Common_Lisp", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/CMU_Common_Lisp", 
+            "snippet": "This new garbage collector accepts any value of any type in the registers, ... \nGenerational garbage collection and multiprocessing capability on the x86 ports.", 
+            "htmlSnippet": "This new garbage collector accepts any value of any type in the registers, ... <br>\n<b>Generational garbage collection</b> and multiprocessing capability on the x86 ports.", 
+            "link": "https://en.wikipedia.org/wiki/CMU_Common_Lisp", 
+            "cacheId": "FDKaxPERHrMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Objective-C - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Objective-C - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Objective-C", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Objective-C", 
+            "snippet": "4.2.1 Garbage collection; 4.2.2 Properties; 4.2.3 Non-fragile instance ...... \nObjective-C 2.0 provided an optional conservative, generational garbage \ncollector.", 
+            "htmlSnippet": "4.2.1 Garbage collection; 4.2.2 Properties; 4.2.3 Non-fragile instance ...... <br>\nObjective-C 2.0 provided an optional conservative, <b>generational garbage</b> <br>\n<b>collector</b>.", 
+            "link": "https://en.wikipedia.org/wiki/Objective-C", 
+            "cacheId": "HroBXZSe4ioJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "CHICKEN (Scheme implementation) - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "CHICKEN (Scheme implementation) - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/CHICKEN_(Scheme_implementation)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/CHICKEN_(Scheme_implementation)", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "120", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQx4MEPVegz5Gd7PA3IbI0mGfuAiCHxX4SwINBjoW26cpZSKvK9vZsMxw", 
+                        "height": "143"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Chicken_Scheme_logo_and_wordmark.svg/150px-Chicken_Scheme_logo_and_wordmark.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "In full, the Scheme heap consists of the C stack as the nursery together with the \ntwo heaps required by the generational garbage collector. This approach gives\u00a0...", 
+            "htmlSnippet": "In full, the Scheme heap consists of the C stack as the nursery together with the <br>\ntwo heaps required by the <b>generational garbage collector</b>. This approach gives&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/CHICKEN_(Scheme_implementation)", 
+            "cacheId": "h3qLkohlCQ8J"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Generational garbage collector", 
+                "safe": "off", 
+                "searchTerms": "Generational garbage collector", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "61"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Generational garbage collector", 
+                "safe": "off", 
+                "searchTerms": "Generational garbage collector", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "61"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.27", 
+        "formattedTotalResults": "61", 
+        "totalResults": "61", 
+        "searchTime": 0.267196
+    }
+}

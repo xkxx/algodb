@@ -1,0 +1,180 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Cyclic redundancy check - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Cyclic redundancy check</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Cyclic_redundancy_check", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Cyclic</b>_<b>redundancy</b>_<b>check</b>", 
+            "snippet": "A cyclic redundancy check (CRC) is an error-detecting code commonly used in \ndigital networks and storage devices to detect accidental changes to raw data.", 
+            "htmlSnippet": "A <b>cyclic redundancy check</b> (<b>CRC</b>) is an error-detecting code commonly used in <br>\ndigital networks and storage devices to detect accidental changes to raw data.", 
+            "link": "https://en.wikipedia.org/wiki/Cyclic_redundancy_check", 
+            "cacheId": "5jLThXmIzRcJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Computation of cyclic redundancy checks - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Computation of <b>cyclic redundancy</b> checks - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../Computation_of_cyclic_redundancy_checks", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Computation_of_<b>cyclic</b>_<b>redundancy</b>_<b>check</b>s", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "304", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRwKIYYm4KdEyKlUtAbnLS-IR8eLodGlRvjPzo9O4ENeaaNeCBp49yjtdk", 
+                        "height": "160"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/0/02/CRC8-gen.gif"
+                    }
+                ]
+            }, 
+            "snippet": "[edit]. In practice, most standards specify presetting the register to all-ones and \ninverting the CRC before transmission. This has no\u00a0...", 
+            "htmlSnippet": "[edit]. In practice, most standards specify presetting the register to all-ones and <br>\ninverting the <b>CRC</b> before transmission. This has no&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Computation_of_cyclic_redundancy_checks", 
+            "cacheId": "N9lHChDsT2kJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Error detection and correction - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Error detection and correction - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Error_detection_and_correction", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Error_detection_and_correction", 
+            "snippet": "5.1 Repetition codes; 5.2 Parity bits; 5.3 Checksums; 5.4 Cyclic redundancy .... A \ncyclic redundancy check (CRC) is a non-secure hash function designed to\u00a0...", 
+            "htmlSnippet": "5.1 Repetition codes; 5.2 Parity bits; 5.3 Checksums; 5.4 Cyclic redundancy .... A <br>\n<b>cyclic redundancy check</b> (CRC) is a non-secure hash function designed to&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Error_detection_and_correction", 
+            "cacheId": "jQ7p6K00JEIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Mathematics of cyclic redundancy checks - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Mathematics of <b>cyclic redundancy</b> checks - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../Mathematics_of_cyclic_redundancy_checks", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Mathematics_of_<b>cyclic</b>_<b>redundancy</b>_<b>check</b>s", 
+            "snippet": "The cyclic redundancy check (CRC) is based on division in the ring of \npolynomials over the finite field GF(2) (the integers modulo 2), that is, the set of\u00a0...", 
+            "htmlSnippet": "The <b>cyclic redundancy check</b> (CRC) is based on division in the ring of <br>\npolynomials over the finite field GF(2) (the integers modulo 2), that is, the set of&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Mathematics_of_cyclic_redundancy_checks", 
+            "cacheId": "kMTSnVEu4IMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "W. Wesley Peterson - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "W. Wesley Peterson - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/W._Wesley_Peterson", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/W._Wesley_Peterson", 
+            "snippet": "He was best known for discovering the Cyclic Redundancy Check (CRC), for \nwhich research he was awarded the Japan Prize in 1999. Peterson was born on\n\u00a0...", 
+            "htmlSnippet": "He was best known for discovering the <b>Cyclic Redundancy Check</b> (CRC), for <br>\nwhich research he was awarded the Japan Prize in 1999. Peterson was born on<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/W._Wesley_Peterson", 
+            "cacheId": "hi0sarL51KMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Cyclic redundancy check - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Cyclic redundancy check</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki?title=Talk:Cyclic_redundancy_check", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki?title=Talk:<b>Cyclic</b>_<b>redundancy</b>_<b>check</b>", 
+            "snippet": "\"A Table-Lookup Algorithm for Software Computation of Cyclic Redundancy \nCheck (CRC)\". Digital Equipment Corporation memorandum. A quick look at \nGoogle\u00a0...", 
+            "htmlSnippet": "&quot;A Table-Lookup Algorithm for Software Computation of <b>Cyclic Redundancy</b> <br>\n<b>Check</b> (CRC)&quot;. Digital Equipment Corporation memorandum. A quick look at <br>\nGoogle&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki?title=Talk:Cyclic_redundancy_check", 
+            "cacheId": "-FmR1Uh5etIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Polynomial representations of cyclic redundancy checks - Wikipedia ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Polynomial representations of <b>cyclic redundancy</b> checks - Wikipedia <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../Polynomial_representations_of_cyclic_ redundancy_checks", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Polynomial_representations_of_<b>cyclic</b>_ <b>redundancy</b>_<b>check</b>s", 
+            "snippet": "These are polynomial representations of cyclic redundancy checks CRCs. .... \"\nCyclic redundancy check computation: an implementation using the\u00a0...", 
+            "htmlSnippet": "These are polynomial representations of cyclic redundancy checks CRCs. .... &quot;<br>\n<b>Cyclic redundancy check</b> computation: an implementation using the&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Polynomial_representations_of_cyclic_redundancy_checks", 
+            "cacheId": "VR3VMNvFUAEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Longitudinal redundancy check - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Longitudinal <b>redundancy check</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Longitudinal_redundancy_check", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Longitudinal_<b>redundancy</b>_<b>check</b>", 
+            "snippet": "In telecommunication, a longitudinal redundancy check (LRC) or horizontal ... An \n8-bit LRC such as this is equivalent to a cyclic redundancy check using the\u00a0...", 
+            "htmlSnippet": "In telecommunication, a longitudinal redundancy check (LRC) or horizontal ... An <br>\n8-bit LRC such as this is equivalent to a <b>cyclic redundancy check</b> using the&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Longitudinal_redundancy_check", 
+            "cacheId": "IlXLblypYhEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Frame check sequence - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Frame <b>check</b> sequence - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Frame_check_sequence", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Frame_<b>check</b>_sequence", 
+            "snippet": "A frame check sequence (FCS) refers to the extra error-detecting code added ... \nThe sending host computes a cyclic redundancy check on the entire frame and\u00a0...", 
+            "htmlSnippet": "A frame check sequence (FCS) refers to the extra error-detecting code added ... <br>\nThe sending host computes a <b>cyclic redundancy check</b> on the entire frame and&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Frame_check_sequence", 
+            "cacheId": "2NqXNEzg6IUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Category:Cyclic redundancy checks - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Category:<b>Cyclic redundancy</b> checks - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Category:Cyclic_redundancy_checks", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Category:<b>Cyclic</b>_<b>redundancy</b>_<b>check</b>s", 
+            "snippet": "... redundancy checks. From Wikipedia, the free encyclopedia. Jump to: \nnavigation, search. The main article for this category is Cyclic redundancy check.", 
+            "htmlSnippet": "... redundancy checks. From Wikipedia, the free encyclopedia. Jump to: <br>\nnavigation, search. The main article for this category is <b>Cyclic redundancy check</b>.", 
+            "link": "https://en.wikipedia.org/wiki/Category:Cyclic_redundancy_checks", 
+            "cacheId": "M-9BTtfEy84J"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Cyclic redundancy check", 
+                "safe": "off", 
+                "searchTerms": "Cyclic redundancy check", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "395"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Cyclic redundancy check", 
+                "safe": "off", 
+                "searchTerms": "Cyclic redundancy check", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "395"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.25", 
+        "formattedTotalResults": "395", 
+        "totalResults": "395", 
+        "searchTime": 0.251778
+    }
+}

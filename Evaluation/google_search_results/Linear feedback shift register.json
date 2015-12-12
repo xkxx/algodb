@@ -1,0 +1,222 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Linear feedback shift register - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Linear feedback shift register</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Linear_feedback_shift_register", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Linear</b>_<b>feedback</b>_<b>shift</b>_<b>register</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "290", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw6cunKvCluMpFECmp-Xoy8ekFSD4CcKyOxj0gMUo3VK_Sv1np3k3qy6Pg", 
+                        "height": "174"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/7/7f/LFSR-F4.GIF"
+                    }
+                ]
+            }, 
+            "snippet": "In computing, a linear-feedback shift register (LFSR) is a shift register whose \ninput bit is a linear function of its previous state. The most commonly used linear\u00a0...", 
+            "htmlSnippet": "In computing, a <b>linear</b>-<b>feedback shift register</b> (<b>LFSR</b>) is a shift register whose <br>\ninput bit is a linear function of its previous state. The most commonly used linear&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Linear_feedback_shift_register", 
+            "cacheId": "AcSe9aQxoegJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Nonlinear feedback shift register - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Nonlinear <b>feedback shift register</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Nonlinear_feedback_shift_register", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Non<b>linear</b>_<b>feedback</b>_<b>shift</b>_<b>register</b>", 
+            "snippet": "A NLFSR (Non-Linear Feedback Shift Register) is a common component in \nmodern stream ciphers, especially in RFID and smartcard applications. NLFSRs \nare\u00a0...", 
+            "htmlSnippet": "A NLFSR (Non-<b>Linear Feedback Shift Register</b>) is a common component in <br>\nmodern stream ciphers, especially in RFID and smartcard applications. NLFSRs <br>\nare&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Nonlinear_feedback_shift_register", 
+            "cacheId": "UzkLMx9qd-UJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Maximum length sequence - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Maximum length sequence - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Maximum_length_sequence", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Maximum_length_sequence", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "175", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmC03oTAvDHANJD4NxcZDB990wwhUewvP7iqCRBAPwURwz-gkqNJdQMA", 
+                        "height": "86"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/math/d/0/c/d0cb8e5f3e9b34abe43144a740912839.png"
+                    }
+                ]
+            }, 
+            "snippet": "They are bit sequences generated using maximal linear feedback shift registers \nand ... An MLS-generating system with a shift register of length 4 is shown in Fig.", 
+            "htmlSnippet": "They are bit sequences generated using maximal <b>linear feedback shift</b> registers <br>\nand ... An MLS-generating system with a <b>shift register</b> of length 4 is shown in Fig.", 
+            "link": "https://en.wikipedia.org/wiki/Maximum_length_sequence", 
+            "cacheId": "fgUYpAWlFOUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Analog feedback shift register - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Analog <b>feedback shift register</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Analog_feedback_shift_register", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Analog_<b>feedback</b>_<b>shift</b>_<b>register</b>", 
+            "snippet": "An analog feedback shift register (AFSR) is a generalization of the (binary, digital\n) linear feedback shift register (LFSR). While binary LFSRs require less power\u00a0...", 
+            "htmlSnippet": "An analog feedback shift register (AFSR) is a generalization of the (binary, digital<br>\n) <b>linear feedback shift register</b> (<b>LFSR</b>). While binary LFSRs require less power&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Analog_feedback_shift_register", 
+            "cacheId": "jOI7gQZ6mNEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Linear feedback shift register - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Linear feedback shift register</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3ALinear_feedback_shift_register", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>Linear</b>_<b>feedback</b>_<b>shift</b>_<b>register</b>", 
+            "snippet": "I recently cleaned up the C source code for the Galois LFSR. However, I am \nconsidering removing everything but the actual implementation of the LFSR (2-3\n\u00a0...", 
+            "htmlSnippet": "I recently cleaned up the C source code for the Galois <b>LFSR</b>. However, I am <br>\nconsidering removing everything but the actual implementation of the <b>LFSR</b> (2-3<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3ALinear_feedback_shift_register", 
+            "cacheId": "HglLjdB_J6sJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Stream cipher - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Stream cipher - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Stream_cipher", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Stream_cipher", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "224", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkyCWfNH1qeGqJ4SwHOuEjZNA81w1PA3hgw3HawUBTuUCLIN_8k7MPfBWD", 
+                        "height": "144"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/A5-1_GSM_cipher.svg/280px-A5-1_GSM_cipher.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "The operation of the keystream generator in A5/1, an LFSR-based stream cipher \nused to encrypt mobile ... 3 Linear feedback shift register-based stream ciphers.", 
+            "htmlSnippet": "The operation of the keystream generator in A5/1, an <b>LFSR</b>-based stream cipher <br>\nused to encrypt mobile ... 3 <b>Linear feedback shift register</b>-based stream ciphers.", 
+            "link": "https://en.wikipedia.org/wiki/Stream_cipher", 
+            "cacheId": "ZCYJuECwVaEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Feedback with Carry Shift Registers - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Feedback</b> with Carry <b>Shift</b> Registers - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Feedback_with_Carry_Shift_Registers", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Feedback</b>_with_Carry_<b>Shift</b>_<b>Register</b>s", 
+            "snippet": "In sequence design, a Feedback with Carry Shift Register (or FCSR) is the \narithmetic or with carry analog of a Linear feedback shift register (LFSR). If N >1\u00a0...", 
+            "htmlSnippet": "In sequence design, a Feedback with Carry Shift Register (or FCSR) is the <br>\narithmetic or with carry analog of a <b>Linear feedback shift register</b> (<b>LFSR</b>). If N &gt;1&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Feedback_with_Carry_Shift_Registers", 
+            "cacheId": "uAtlrbAMxk8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Berlekamp\u2013Massey algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Berlekamp\u2013Massey algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Berlekamp\u2013Massey_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Berlekamp\u2013Massey_algorithm", 
+            "snippet": "The Berlekamp\u2013Massey algorithm is an algorithm that will find the shortest linear \nfeedback shift register (LFSR) for a given binary output sequence.", 
+            "htmlSnippet": "The Berlekamp\u2013Massey algorithm is an algorithm that will find the shortest <b>linear</b> <br>\n<b>feedback shift register</b> (<b>LFSR</b>) for a given binary output sequence.", 
+            "link": "https://en.wikipedia.org/wiki/Berlekamp%E2%80%93Massey_algorithm", 
+            "cacheId": "x12eOSOCfasJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Self-shrinking generator - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Self-shrinking generator - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Self-shrinking_generator", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Self-shrinking_generator", 
+            "snippet": "Below table lists, for each iteration of the LFSR, its intermediate output before self\n-shrinking, as well as the final generator output. The tap positions defined by\u00a0...", 
+            "htmlSnippet": "Below table lists, for each iteration of the <b>LFSR</b>, its intermediate output before self<br>\n-shrinking, as well as the final generator output. The tap positions defined by&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Self-shrinking_generator", 
+            "cacheId": "sXjVU7OqNOAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Shift register - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Shift register</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Shift_register", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Shift</b>_<b>register</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "330", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSs7xrb0O0Hx1RMeVYhIvhAU4bXw87J-A9AiWSeJR8RWbjYarIdiRlxWg", 
+                        "height": "112"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/a/a1/4-Bit_SIPO_Shift_Register.png"
+                    }
+                ]
+            }, 
+            "snippet": "In digital circuits, a shift register is a cascade of flip flops, sharing the same clock, \nin which ... Shift registers can have both parallel and serial inputs and outputs. .... \nDelay line memory \u00b7 Linear feedback shift register (LFSR); Ring counter \u00b7 Serial\u00a0...", 
+            "htmlSnippet": "In digital circuits, a shift register is a cascade of flip flops, sharing the same clock, <br>\nin which ... Shift registers can have both parallel and serial inputs and outputs. .... <br>\nDelay line memory &middot; <b>Linear feedback shift register</b> (<b>LFSR</b>); Ring counter &middot; Serial&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Shift_register", 
+            "cacheId": "MWJi7KbxWTEJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Linear feedback shift register", 
+                "safe": "off", 
+                "searchTerms": "Linear feedback shift register", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "331"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Linear feedback shift register", 
+                "safe": "off", 
+                "searchTerms": "Linear feedback shift register", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "331"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.24", 
+        "formattedTotalResults": "331", 
+        "totalResults": "331", 
+        "searchTime": 0.24373
+    }
+}

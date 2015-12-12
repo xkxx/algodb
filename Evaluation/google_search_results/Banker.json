@@ -1,0 +1,291 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "The Banker - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "The <b>Banker</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/The_Banker", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/The_<b>Banker</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRjJnBmgGxB06_QSDmv6K_niwoKLqsgrpZJf6JNg4uNxuu4HcpFNAlTGLg", 
+                        "height": "248"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bd/The_Banker_cover_January_2011.JPG/220px-The_Banker_cover_January_2011.JPG"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "fn": "The Banker", 
+                        "label": "1 Southwark Bridge London SE1 9HL England"
+                    }
+                ]
+            }, 
+            "snippet": "The Banker is an English-language monthly international financial affairs \npublication owned by The Financial Times Ltd. and edited in London. The \nmagazine\u00a0...", 
+            "htmlSnippet": "The <b>Banker</b> is an English-language monthly international financial affairs <br>\npublication owned by The Financial Times Ltd. and edited in London. The <br>\nmagazine&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/The_Banker", 
+            "cacheId": "fkQyYuf3Kr8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Bank - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Bank - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Bank", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Bank", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "100", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQhyFcEKFWmHwJlLpxHyJhsNTI-FfyyF5MGzIGt24aXr4DCVyjUeluXRA", 
+                        "height": "62"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/CDS_volume_outstanding.png/120px-CDS_volume_outstanding.png"
+                    }
+                ]
+            }, 
+            "snippet": "For other uses, see Bank (disambiguation) and Banker (disambiguation). .... \ncontains a statutory definition of the term banker: banker includes a body of \npersons,\u00a0...", 
+            "htmlSnippet": "For other uses, see Bank (disambiguation) and <b>Banker</b> (disambiguation). .... <br>\ncontains a statutory definition of the term <b>banker</b>: <b>banker</b> includes a body of <br>\npersons,&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Bank", 
+            "cacheId": "ug-7h_MJEbEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Ashok Banker - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Ashok <b>Banker</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Ashok_Banker", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Ashok_<b>Banker</b>", 
+            "pagemap": {
+                "person": [
+                    {
+                        "role": "Author"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSSWPIDVPVfbDxPqU1w0qXloqKmo08e8_Vvqs4vAGAizC1tPN9R9pRgxQ", 
+                        "height": "116"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Ashok_Banker_(3rd_from_L).jpg/220px-Ashok_Banker_(3rd_from_L).jpg"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "category": "Indian", 
+                        "url_text": "akbebooks.com", 
+                        "url": "akbebooks.com", 
+                        "bday": "1964-02-07", 
+                        "role": "Author", 
+                        "fn": "Ashok K. Banker"
+                    }
+                ]
+            }, 
+            "snippet": "Ashok Kumar Banker (born 7 February 1964 in Mumbai, India) is an author and \nscreenwriter. His writing spans crime thrillers, essays, literary criticism, fiction\u00a0...", 
+            "htmlSnippet": "Ashok Kumar <b>Banker</b> (born 7 February 1964 in Mumbai, India) is an author and <br>\nscreenwriter. His writing spans crime thrillers, essays, literary criticism, fiction&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Ashok_Banker", 
+            "cacheId": "af9CC6_bbFAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "American Banker - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "American <b>Banker</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/American_Banker", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/American_<b>Banker</b>", 
+            "pagemap": {
+                "hcard": [
+                    {
+                        "url": "www.americanbanker.com", 
+                        "url_text": "www.americanbanker.com", 
+                        "fn": "American Banker", 
+                        "label": "New York, NY"
+                    }
+                ]
+            }, 
+            "snippet": "American Banker is a daily trade newspaper and website covering the financial \nservices industry. Founded in 1836 and based in New York, American Banker\u00a0...", 
+            "htmlSnippet": "American <b>Banker</b> is a daily trade newspaper and website covering the financial <br>\nservices industry. Founded in 1836 and based in New York, American <b>Banker</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/American_Banker", 
+            "cacheId": "dg8sR1FPnr4J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "The Banker (The Office) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "The <b>Banker</b> (The Office) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/The_Banker_(The_Office)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/The_<b>Banker</b>_(The_Office)", 
+            "snippet": "\"The Banker\" is the 14th episode of the sixth season of the U.S. comedy series \nThe Office and the show's 114th episode overall. It was written by Jason Kessler\n\u00a0...", 
+            "htmlSnippet": "&quot;The <b>Banker</b>&quot; is the 14th episode of the sixth season of the U.S. comedy series <br>\nThe Office and the show&#39;s 114th episode overall. It was written by Jason Kessler<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/The_Banker_(The_Office)", 
+            "cacheId": "c6QpahTnjSYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Banker (disambiguation) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Banker</b> (disambiguation) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Banker_(disambiguation)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Banker</b>_(disambiguation)", 
+            "snippet": "Banker may refer to: a person who provides ... Banker (ancient) a person \nproviding financial services in ancient Greece and Rome. Bank engine or helper\n\u00a0...", 
+            "htmlSnippet": "<b>Banker</b> may refer to: a person who provides ... <b>Banker</b> (ancient) a person <br>\nproviding financial services in ancient Greece and Rome. Bank engine or helper<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Banker_(disambiguation)", 
+            "cacheId": "WvomR57b6HoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Banker horse - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Banker</b> horse - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Banker_horse", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Banker</b>_horse", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTQcyv8ZTp8Dl3oASn56d_5qZFCaeRbKFjRYsF0rf1G3IO9EnwT0hJTq1A", 
+                        "height": "88"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/SpanishMustangsOfCorolla.jpg/220px-SpanishMustangsOfCorolla.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "The Banker horse is a breed of feral horse (Equus ferus caballus) living on the \nislands of North Carolina's Outer Banks. It is small, hardy, and has a docile\u00a0...", 
+            "htmlSnippet": "The <b>Banker</b> horse is a breed of feral horse (Equus ferus caballus) living on the <br>\nislands of North Carolina&#39;s Outer Banks. It is small, hardy, and has a docile&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Banker_horse", 
+            "cacheId": "QMjrOB5fgLkJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Banker to the Poor - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Banker</b> to the Poor - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Banker_to_the_Poor", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Banker</b>_to_the_Poor", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "128", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRTr6v-mrLW5cFYEBtgU1-qBNX0-Yz2KCCQuvqiFNzzqorfiCCa5Grnr4s", 
+                        "height": "181"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/f/f4/BankertoPoor.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "Banker to the Poor: Micro-Lending and the Battle Against World Poverty is an \nautobiography of 2006 Nobel Peace Prize Winner and Grameen Bank founder\u00a0...", 
+            "htmlSnippet": "<b>Banker</b> to the Poor: Micro-Lending and the Battle Against World Poverty is an <br>\nautobiography of 2006 Nobel Peace Prize Winner and Grameen Bank founder&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Banker_to_the_Poor", 
+            "cacheId": "IHjPByW57XYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "The Blind Banker - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "The Blind <b>Banker</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/The_Blind_Banker", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/The_Blind_<b>Banker</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "200", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTiAHXru93YPQmcUsWfkcR1oHxNtnhRRP2NwXVrff8c3oZi9YhPw_nVrw", 
+                        "height": "124"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/The_Blind_Banker.png/250px-The_Blind_Banker.png"
+                    }
+                ]
+            }, 
+            "snippet": "\"The Blind Banker\" is the second episode of the television series Sherlock, first \nbroadcast on BBC One and BBC HD on 1 August 2010. It was written by Stephen\n\u00a0...", 
+            "htmlSnippet": "&quot;The Blind <b>Banker</b>&quot; is the second episode of the television series Sherlock, first <br>\nbroadcast on BBC One and BBC HD on 1 August 2010. It was written by Stephen<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/The_Blind_Banker", 
+            "cacheId": "cu9c9uDzGSYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Mr. Banker - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Mr. <b>Banker</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Mr._Banker", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Mr._<b>Banker</b>", 
+            "pagemap": {
+                "hcard": [
+                    {
+                        "fn": "Lynyrd Skynyrd"
+                    }, 
+                    {
+                        "fn": "Lynyrd Skynyrd singles"
+                    }
+                ]
+            }, 
+            "snippet": "\"Mr. Banker\" is a song by southern rock band Lynyrd Skynyrd. The song was \nrecorded \"in early 1973\" at Studio One, Doraville, Georgia, and was first released\n\u00a0...", 
+            "htmlSnippet": "&quot;Mr. <b>Banker</b>&quot; is a song by southern rock band Lynyrd Skynyrd. The song was <br>\nrecorded &quot;in early 1973&quot; at Studio One, Doraville, Georgia, and was first released<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Mr._Banker", 
+            "cacheId": "uHjWdmv7FEwJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Banker", 
+                "safe": "off", 
+                "searchTerms": "Banker", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "1380000"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Banker", 
+                "safe": "off", 
+                "searchTerms": "Banker", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "1380000"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.30", 
+        "formattedTotalResults": "1,380,000", 
+        "totalResults": "1380000", 
+        "searchTime": 0.296815
+    }
+}

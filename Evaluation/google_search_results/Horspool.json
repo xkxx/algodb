@@ -1,0 +1,181 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Boyer\u2013Moore\u2013Horspool algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Boyer\u2013Moore\u2013<b>Horspool</b> algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Boyer\u2013Moore\u2013Horspool_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Boyer\u2013Moore\u2013<b>Horspool</b>_algorithm", 
+            "snippet": "In computer science, the Boyer\u2013Moore\u2013Horspool algorithm or Horspool's \nalgorithm is an algorithm for finding substrings in strings. It was published by \nNigel\u00a0...", 
+            "htmlSnippet": "In computer science, the Boyer\u2013Moore\u2013<b>Horspool</b> algorithm or <b>Horspool&#39;s</b> <br>\nalgorithm is an algorithm for finding substrings in strings. It was published by <br>\nNigel&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Boyer%E2%80%93Moore%E2%80%93Horspool_algorithm", 
+            "cacheId": "vKJK5xR-B8cJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Nigel Horspool - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Nigel <b>Horspool</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Nigel_Horspool", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Nigel_<b>Horspool</b>", 
+            "snippet": "R. Nigel Horspool is a professor of computer science at the University of Victoria. \nHe invented the Boyer\u2013Moore\u2013Horspool algorithm, a fast string search\u00a0...", 
+            "htmlSnippet": "R. Nigel <b>Horspool</b> is a professor of computer science at the University of Victoria. <br>\nHe invented the Boyer\u2013Moore\u2013<b>Horspool</b> algorithm, a fast string search&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Nigel_Horspool", 
+            "cacheId": "3wqxk7WDsiMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "David Horspool - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "David <b>Horspool</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/David_Horspool", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/David_<b>Horspool</b>", 
+            "snippet": "David Horspool (born 1971) is a historian and sport editor of the Times Literary \nSupplement. Writing[edit]. A scholar at Eton and Christ Church, Oxford, he writes\n\u00a0...", 
+            "htmlSnippet": "David <b>Horspool</b> (born 1971) is a historian and sport editor of the Times Literary <br>\nSupplement. Writing[edit]. A scholar at Eton and Christ Church, Oxford, he writes<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/David_Horspool", 
+            "cacheId": "xdNqZ2ENRrUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Horspool - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Horspool</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Horspool", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Horspool</b>", 
+            "snippet": "This page or section lists people with the surname Horspool. If an internal link \nintending to refer to a specific person led you to this page, you may wish to \nchange\u00a0...", 
+            "htmlSnippet": "This page or section lists people with the surname <b>Horspool</b>. If an internal link <br>\nintending to refer to a specific person led you to this page, you may wish to <br>\nchange&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Horspool", 
+            "cacheId": "WJsQcv5xS7AJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Thomas Horspool - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Thomas <b>Horspool</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Thomas_Horspool", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Thomas_<b>Horspool</b>", 
+            "snippet": "Thomas Horspool (born about 1830) was a British runner who set several world \nrecords in the mile soon after relatively precise running tracks and accurate\u00a0...", 
+            "htmlSnippet": "Thomas <b>Horspool</b> (born about 1830) was a British runner who set several world <br>\nrecords in the mile soon after relatively precise running tracks and accurate&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Thomas_Horspool", 
+            "cacheId": "-Iuo87C0MW4J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Raita Algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Raita Algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Raita_Algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Raita_Algorithm", 
+            "snippet": "... suggested that this article be merged into Boyer\u2013Moore\u2013Horspool algorithm. ... \nsub-string in a given string is different from Boyer-Moore-Horspool algorithm.", 
+            "htmlSnippet": "... suggested that this article be merged into Boyer\u2013Moore\u2013<b>Horspool</b> algorithm. ... <br>\nsub-string in a given string is different from Boyer-Moore-<b>Horspool</b> algorithm.", 
+            "link": "https://en.wikipedia.org/wiki/Raita_Algorithm", 
+            "cacheId": "zA2LDSZGHYsJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Thomas Horspool - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:Thomas <b>Horspool</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3AThomas_Horspool", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3AThomas_<b>Horspool</b>", 
+            "snippet": "This template is within the scope of WikiProject Athletics, a collaborative effort to \nimprove the coverage of the sport of athletics on Wikipedia. If you would like to\u00a0...", 
+            "htmlSnippet": "This template is within the scope of WikiProject Athletics, a collaborative effort to <br>\nimprove the coverage of the sport of athletics on Wikipedia. If you would like to&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3AThomas_Horspool", 
+            "cacheId": "fgvOIiMSSpwJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Boyer\u2013Moore string search algorithm - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Boyer\u2013Moore string search algorithm - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Boyer\u2013Moore_string_search_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Boyer\u2013Moore_string_search_algorithm", 
+            "snippet": "The Boyer\u2013Moore\u2013Horspool algorithm is a simplification of the Boyer\u2013Moore \nalgorithm using only the bad character rule. The Apostolico\u2013Giancarlo algorithm\n\u00a0...", 
+            "htmlSnippet": "The Boyer\u2013Moore\u2013<b>Horspool</b> algorithm is a simplification of the Boyer\u2013Moore <br>\nalgorithm using only the bad character rule. The Apostolico\u2013Giancarlo algorithm<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Boyer%E2%80%93Moore_string_search_algorithm", 
+            "cacheId": "u-_rEDhaRi4J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Boyer\u2013Moore string search algorithm - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:Boyer\u2013Moore string search algorithm - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../Talk%3ABoyer\u2013Moore_string_search_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Talk%3ABoyer\u2013Moore_string_search_algorithm", 
+            "snippet": "The version without the second table is the Boyer-Moore-Horspool algorithm. The \nreal Boyer-Moore algorithm requires both tables. --Bisqwit 11:01, 22 May 2006\u00a0...", 
+            "htmlSnippet": "The version without the second table is the Boyer-Moore-<b>Horspool</b> algorithm. The <br>\nreal Boyer-Moore algorithm requires both tables. --Bisqwit 11:01, 22 May 2006&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3ABoyer%E2%80%93Moore_string_search_algorithm", 
+            "cacheId": "Xz5Dzrd-vvEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Denewulf - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Denewulf - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Denewulf", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Denewulf", 
+            "pagemap": {
+                "person": [
+                    {
+                        "org": "Catholic", 
+                        "role": "Bishop of Winchester"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "note": "Term ended 908", 
+                        "role": "Bishop of Winchester", 
+                        "fn": "Denewulf"
+                    }
+                ]
+            }, 
+            "snippet": "Jump up ^ Horspool, David (2006). King Alfred: Burnt Cakes And Other Legends. \nHarvard University Press. pp. 85\u201386. ISBN 067402320X. Retrieved June 12\u00a0...", 
+            "htmlSnippet": "Jump up ^ <b>Horspool</b>, David (2006). King Alfred: Burnt Cakes And Other Legends. <br>\nHarvard University Press. pp. 85\u201386. ISBN 067402320X. Retrieved June 12&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Denewulf", 
+            "cacheId": "jOPQJwQfS3IJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Horspool", 
+                "safe": "off", 
+                "searchTerms": "Horspool", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "194"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Horspool", 
+                "safe": "off", 
+                "searchTerms": "Horspool", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "194"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.25", 
+        "formattedTotalResults": "194", 
+        "totalResults": "194", 
+        "searchTime": 0.247222
+    }
+}

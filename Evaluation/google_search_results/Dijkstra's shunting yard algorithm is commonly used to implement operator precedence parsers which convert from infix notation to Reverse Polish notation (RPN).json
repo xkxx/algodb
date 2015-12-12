@@ -1,0 +1,95 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Operator-precedence parser - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Operator</b>-<b>precedence parser</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Operator-precedence_parser", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Operator</b>-<b>precedence</b>_<b>parser</b>", 
+            "snippet": "For example, most calculators use operator precedence parsers to convert from \nthe ... that is optimized for evaluation such as Reverse Polish notation (RPN). \nEdsger Dijkstra's shunting yard algorithm is commonly used to implement \noperator ... An infix-notation expression grammar in EBNF format will usually look \nlike this:.", 
+            "htmlSnippet": "For example, most calculators use <b>operator precedence parsers</b> to <b>convert</b> from <br>\nthe ... that is optimized for evaluation such as <b>Reverse Polish notation</b> (<b>RPN</b>). <br>\nEdsger <b>Dijkstra</b>&#39;s <b>shunting yard algorithm</b> is <b>commonly used</b> to <b>implement</b> <br>\noperator ... An <b>infix</b>-<b>notation</b> expression grammar in EBNF format will usually look <br>\nlike this:.", 
+            "link": "https://en.wikipedia.org/wiki/Operator-precedence_parser", 
+            "cacheId": "aT5q2XO5IVQJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Shunting-yard algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Shunting</b>-<b>yard algorithm</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Shunting-yard_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Shunting</b>-<b>yard</b>_<b>algorithm</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "211", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS8r_6XdBk9SxE4CHv4e3u0U5yL7DQNDORt9Qnnlf4gjD_m8TL7y5QyLMc", 
+                        "height": "239"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Shunting_yard.svg/400px-Shunting_yard.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "It can be used to produce output in Reverse Polish notation (RPN) or as an ... \nDijkstra first described the Shunting Yard Algorithm in the Mathematisch ... Infix \nexpressions are the form of mathematical notation most people are used ... The \nshunting-yard algorithm has been later generalized into operator-precedence \nparsing.", 
+            "htmlSnippet": "It can be <b>used</b> to produce output in <b>Reverse Polish notation</b> (<b>RPN</b>) or as an ... <br>\n<b>Dijkstra</b> first described the <b>Shunting Yard Algorithm</b> in the Mathematisch ... <b>Infix</b> <br>\nexpressions are the form of mathematical <b>notation</b> most people are <b>used</b> ... The <br>\n<b>shunting</b>-<b>yard algorithm</b> has been later generalized into <b>operator</b>-<b>precedence</b> <br>\n<b>parsing</b>.", 
+            "link": "https://en.wikipedia.org/wiki/Shunting-yard_algorithm", 
+            "cacheId": "cS8MjzgkuKEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Reverse Polish notation - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Reverse Polish notation</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Reverse_Polish_notation", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Reverse</b>_<b>Polish</b>_<b>notation</b>", 
+            "snippet": "Reverse Polish notation (RPN) is a mathematical notation in which every ... In \ncomputer science, postfix notation is often used in stack-based and .... Edsger \nDijkstra invented the shunting-yard algorithm to convert infix expressions to \npostfix (RPN), ... Most operator-precedence parsers can be modified to produce \npostfix\u00a0...", 
+            "htmlSnippet": "<b>Reverse Polish notation</b> (<b>RPN</b>) is a mathematical <b>notation</b> in which every ... In <br>\ncomputer science, postfix <b>notation</b> is <b>often used</b> in stack-based and .... Edsger <br>\n<b>Dijkstra</b> invented the <b>shunting</b>-<b>yard algorithm</b> to <b>convert infix</b> expressions to <br>\npostfix (<b>RPN</b>), ... Most <b>operator</b>-<b>precedence parsers</b> can be modified to produce <br>\npostfix&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Reverse_Polish_notation", 
+            "cacheId": "NKLWQvu0agQJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Reverse Polish notation - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Reverse Polish notation</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3AReverse_Polish_notation", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>Reverse</b>_<b>Polish</b>_<b>notation</b>", 
+            "snippet": "1 Old comments; 2 Shunting Yard; 3 New or additional Example; 4 Split shunting \nyard to ... The description of the infix to RPN conversion algorithm and related \nexample should say. .... 1) while there is an operator, o2, at the top of the stack, \nand either ... postfix notation, but it would be 3 / 6 in true reverse Polish notation?", 
+            "htmlSnippet": "1 Old comments; 2 <b>Shunting Yard</b>; 3 New or additional Example; 4 Split <b>shunting</b> <br>\n<b>yard</b> to ... The description of the <b>infix</b> to <b>RPN conversion algorithm</b> and related <br>\nexample should say. .... 1) while there is an <b>operator</b>, o2, at the top of the stack, <br>\nand either ... postfix <b>notation</b>, but it would be 3 / 6 in true <b>reverse Polish notation</b>?", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3AReverse_Polish_notation", 
+            "cacheId": "3UiN8FN0SQoJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 4, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Dijkstra's shunting yard algorithm is commonly used to implement operator precedence parsers which convert from infix notation to Reverse Polish notation (RPN)", 
+                "safe": "off", 
+                "searchTerms": "Dijkstra's shunting yard algorithm is commonly used to implement operator precedence parsers which convert from infix notation to Reverse Polish notation (RPN)", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "4"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.85", 
+        "formattedTotalResults": "4", 
+        "totalResults": "4", 
+        "searchTime": 0.849458
+    }
+}

@@ -1,0 +1,180 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "List scheduling - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>List scheduling</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/List_scheduling", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>List</b>_<b>scheduling</b>", 
+            "snippet": "The basic idea of list scheduling is to make an ordered list of processes by \nassigning them some priorities, and then repeatedly execute the following two \nsteps\u00a0...", 
+            "htmlSnippet": "The basic idea of <b>list scheduling</b> is to make an ordered list of processes by <br>\nassigning them some priorities, and then repeatedly execute the following two <br>\nsteps&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/List_scheduling", 
+            "cacheId": "3lmD5HiR-C8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Instruction scheduling - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Instruction <b>scheduling</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Instruction_scheduling", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Instruction_<b>scheduling</b>", 
+            "snippet": "In computer science, instruction scheduling is a compiler optimization used to ... \nto find a topological sort is frequently used and is known as list scheduling.", 
+            "htmlSnippet": "In computer science, instruction scheduling is a compiler optimization used to ... <br>\nto find a topological sort is frequently used and is known as <b>list scheduling</b>.", 
+            "link": "https://en.wikipedia.org/wiki/Instruction_scheduling", 
+            "cacheId": "BEjOY89pS9kJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "List of job scheduler software - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>List</b> of job <b>scheduler</b> software - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/List_of_job_scheduler_software", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>List</b>_of_job_<b>scheduler</b>_software", 
+            "snippet": "This is a list of notable job scheduling software. Job scheduling applications are \ndesigned to carry out repetitive tasks as defined in a schedule based upon\u00a0...", 
+            "htmlSnippet": "This is a <b>list</b> of notable job <b>scheduling</b> software. Job <b>scheduling</b> applications are <br>\ndesigned to carry out repetitive tasks as defined in a schedule based upon&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/List_of_job_scheduler_software", 
+            "cacheId": "H2lzz4PWkiIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Heterogeneous Earliest Finish Time - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Heterogeneous Earliest Finish Time - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Heterogeneous_Earliest_Finish_Time", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Heterogeneous_Earliest_Finish_Time", 
+            "snippet": "It descends from list scheduling algorithms. ... investigation into the rank function \nof the heterogeneous earliest finish time scheduling algorithm\" (PDF). Euro-Par\u00a0...", 
+            "htmlSnippet": "It descends from <b>list scheduling</b> algorithms. ... investigation into the rank function <br>\nof the heterogeneous earliest finish time scheduling algorithm&quot; (PDF). Euro-Par&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Heterogeneous_Earliest_Finish_Time", 
+            "cacheId": "TzGF27GxocwJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Category:Scheduling algorithms - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Category:<b>Scheduling</b> algorithms - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Category:Scheduling_algorithms", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Category:<b>Scheduling</b>_algorithms", 
+            "snippet": "Pages in category \"Scheduling algorithms\". The following 28 pages are in this \ncategory, out of 28 total. This list may not reflect recent changes (learn more).", 
+            "htmlSnippet": "Pages in category &quot;<b>Scheduling</b> algorithms&quot;. The following 28 pages are in this <br>\ncategory, out of 28 total. This <b>list</b> may not reflect recent changes (learn more).", 
+            "link": "https://en.wikipedia.org/wiki/Category:Scheduling_algorithms", 
+            "cacheId": "qe9Vugst7mYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Job shop scheduling - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Job shop <b>scheduling</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Job_shop_scheduling", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Job_shop_<b>scheduling</b>", 
+            "snippet": "Job shop scheduling (or job-shop problem) is an optimization problem in .... \nGraham had already provided the List scheduling algorithm in 1966, which is (2\u00a0...", 
+            "htmlSnippet": "Job shop scheduling (or job-shop problem) is an optimization problem in .... <br>\nGraham had already provided the <b>List scheduling</b> algorithm in 1966, which is (2&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Job_shop_scheduling", 
+            "cacheId": "usTM6Eh8Hy4J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "List of algorithms - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>List</b> of algorithms - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/List_of_algorithms", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>List</b>_of_algorithms", 
+            "snippet": "Scheduling[edit]. Further information: Scheduling (computing) \u00b7 Earliest deadline \nfirst scheduling \u00b7 Fair-share scheduling \u00b7 Least slack\u00a0...", 
+            "htmlSnippet": "<b>Scheduling</b>[edit]. Further information: <b>Scheduling</b> (computing) &middot; Earliest deadline <br>\nfirst <b>scheduling</b> &middot; Fair-share <b>scheduling</b> &middot; Least slack&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/List_of_algorithms", 
+            "cacheId": "iXsrHv5PMNcJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "List of NP-complete problems - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>List</b> of NP-complete problems - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/List_of_NP-complete_problems", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>List</b>_of_NP-complete_problems", 
+            "snippet": "This is a list of some of the more commonly known problems that are NP-\ncomplete .... Some problems related to Job-shop scheduling \u00b7 Monochromatic \ntriangle\u00a0...", 
+            "htmlSnippet": "This is a <b>list</b> of some of the more commonly known problems that are NP-<br>\ncomplete .... Some problems related to Job-shop <b>scheduling</b> &middot; Monochromatic <br>\ntriangle&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/List_of_NP-complete_problems", 
+            "cacheId": "rNH3uuJMWVAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Scheduling (computing) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Scheduling</b> (computing) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Scheduling_(computing)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Scheduling</b>_(computing)", 
+            "snippet": "This article includes a list of references, but its sources remain unclear ... In \ncomputing, scheduling is the method by which work specified by some means is\n\u00a0...", 
+            "htmlSnippet": "This article includes a <b>list</b> of references, but its sources remain unclear ... In <br>\ncomputing, <b>scheduling</b> is the method by which work specified by some means is<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Scheduling_(computing)", 
+            "cacheId": "I6wQeqME3O8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Critical path method - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Critical path method - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Critical_path_method", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Critical_path_method", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST-SzjS446wo_3i6i9ajSbPccSJ7B4bnH2iiVomnAlQIDNJLRTlXhnpg", 
+                        "height": "107"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Pert_chart_colored.svg/220px-Pert_chart_colored.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "The critical path method (CPM) is an algorithm for scheduling a set of project ... A \nlist of all activities required to complete the project (typically categorized within\u00a0...", 
+            "htmlSnippet": "The critical path method (CPM) is an algorithm for <b>scheduling</b> a set of project ... A <br>\n<b>list</b> of all activities required to complete the project (typically categorized within&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Critical_path_method", 
+            "cacheId": "syLZPxpxOycJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - List scheduling", 
+                "safe": "off", 
+                "searchTerms": "List scheduling", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "14000"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - List scheduling", 
+                "safe": "off", 
+                "searchTerms": "List scheduling", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "14000"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.33", 
+        "formattedTotalResults": "14,000", 
+        "totalResults": "14000", 
+        "searchTime": 0.327622
+    }
+}

@@ -1,0 +1,221 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Logical block addressing - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Logical block addressing - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Logical_block_addressing", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Logical_block_addressing", 
+            "snippet": "3 CHS conversion ... While the drive controller still addresses data blocks by their \nCHS address, this information is generally not used by the SCSI device driver,\u00a0...", 
+            "htmlSnippet": "3 <b>CHS conversion</b> ... While the drive controller still addresses data blocks by their <br>\nCHS address, this information is generally not used by the SCSI device driver,&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Logical_block_addressing", 
+            "cacheId": "jzefNEoLWbMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Cylinder-head-sector - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Cylinder-head-sector - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Cylinder-head-sector", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Cylinder-head-sector", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "216", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO918_fkz6C5A5a9_Dw3znVYTAvX3235pLd0GzVRjqzzLO9gQlkNak5XLq", 
+                        "height": "233"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Cylinder_Head_Sector.svg/360px-Cylinder_Head_Sector.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "Cylinder-head-sector, also known as CHS, is an early method for giving \naddresses to each physical .... Main article: Logical Block Addressing \u00a7 CHS \nconversion.", 
+            "htmlSnippet": "Cylinder-head-sector, also known as CHS, is an early method for giving <br>\naddresses to each physical .... Main article: Logical Block Addressing \u00a7 <b>CHS</b> <br>\n<b>conversion</b>.", 
+            "link": "https://en.wikipedia.org/wiki/Cylinder-head-sector", 
+            "cacheId": "zWbeLAUas1IJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Conversion - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Conversion</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Conversion_(linguistics)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Conversion</b>_(linguistics)", 
+            "snippet": "Look up conversion or convert in Wiktionary, the free dictionary. ... CHS \nconversion, mapping cylinder/head/sector tuples to linear base address; Data\u00a0...", 
+            "htmlSnippet": "Look up conversion or convert in Wiktionary, the free dictionary. ... <b>CHS</b> <br>\n<b>conversion</b>, mapping cylinder/head/sector tuples to linear base address; Data&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Conversion_(linguistics)", 
+            "cacheId": "_SR4tKr2zaUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Template:ISO 3166 name GB-CHS - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Template:ISO 3166 name GB-<b>CHS</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Template:ISO_3166_name_GB-CHS", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Template:ISO_3166_name_GB-<b>CHS</b>", 
+            "snippet": "In particular, {{ISO 3166 name GB-CHS}} returns Cheshire, United Kingdom. ... \nWe wish to convert between various identifiers that may loosely be defined as\u00a0...", 
+            "htmlSnippet": "In particular, {{ISO 3166 name GB-<b>CHS</b>}} returns Cheshire, United Kingdom. ... <br>\nWe wish to <b>convert</b> between various identifiers that may loosely be defined as&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Template:ISO_3166_name_GB-CHS", 
+            "cacheId": "tqZza1UV1NoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Ranish Partition Manager - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Ranish Partition Manager - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Ranish_Partition_Manager", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Ranish_Partition_Manager", 
+            "snippet": "If a partition table does not follow a consistent CHS alignment (or maybe even if it \ndoes), ... Using this technique it is possible to convert logical drives to primary\u00a0...", 
+            "htmlSnippet": "If a partition table does not follow a consistent <b>CHS</b> alignment (or maybe even if it <br>\ndoes), ... Using this technique it is possible to <b>convert</b> logical drives to primary&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Ranish_Partition_Manager", 
+            "cacheId": "xWnuc-5Hf3AJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Chalcone synthase - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Chalcone synthase - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Chalcone_synthase", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Chalcone_synthase", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTT-ibXn7zKvYmstvh02bO2e8CU1x2EhipIwUeVcxAKD_2EP7X4MGcwz4DP", 
+                        "height": "132"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Chalcone_Synthase_X_Ray_Image.png/220px-Chalcone_Synthase_X_Ray_Image.png"
+                    }
+                ]
+            }, 
+            "snippet": "Chalcone synthase or naringenin-chalcone synthase (CHS) is an enzyme ... The \nenzyme catalyzes the conversion of 4-coumaroyl-CoA and malonyl-CoA to\u00a0...", 
+            "htmlSnippet": "Chalcone synthase or naringenin-chalcone synthase (<b>CHS</b>) is an enzyme ... The <br>\nenzyme catalyzes the <b>conversion</b> of 4-coumaroyl-CoA and malonyl-CoA to&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Chalcone_synthase", 
+            "cacheId": "xbBuiUDfSS0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Charles Spurgeon - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Charles Spurgeon - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Charles_Spurgeon", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Charles_Spurgeon", 
+            "pagemap": {
+                "person": [
+                    {
+                        "role": "Pastor, author"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "width": "140", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRZviXwAuvIUV5Q2SXpsMsxLoOfFGUzJzF7bba6L6YERScAyT7l5hiP2NhP", 
+                        "height": "172"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Charles_Haddon_Spurgeon_by_Alexander_Melville.jpg/175px-Charles_Haddon_Spurgeon_by_Alexander_Melville.jpg"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "bday": "1834-06-19", 
+                        "category": "British", 
+                        "role": "Pastor, author", 
+                        "fn": "Charles Haddon Spurgeon"
+                    }
+                ]
+            }, 
+            "snippet": "Born in Kelvedon, Essex, Spurgeon's conversion from Anglicanism came on 6 \nJanuary 1850, at age 15. On his way to a scheduled appointment, a snow storm\u00a0...", 
+            "htmlSnippet": "Born in Kelvedon, Essex, Spurgeon&#39;s <b>conversion</b> from Anglicanism came on 6 <br>\nJanuary 1850, at age 15. On his way to a scheduled appointment, a snow storm&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Charles_Spurgeon", 
+            "cacheId": "W411vmN0Uq8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Gauss (unit) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Gauss (unit) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Gauss_(unit)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Gauss_(unit)", 
+            "snippet": "The conversion factor is 108, since flux is the integral of field over an area, area \nhaving the units of the square of distance, thus 104 (magnetic field conversion\u00a0...", 
+            "htmlSnippet": "The <b>conversion</b> factor is 10<sup>8</sup>, since flux is the integral of field over an area, area <br>\nhaving the units of the square of distance, thus 10<sup>4</sup> (magnetic field <b>conversion</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Gauss_(unit)", 
+            "cacheId": "FzleUBReZtMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "VHD (file format) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "VHD (file format) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/VHD_(file_format)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/VHD_(file_format)", 
+            "snippet": "... Image management and patching; Disk conversion (physical to virtual, and \nvice ... For fewer than 65535\u00d716\u00d763 sectors (about 31 GiB) the CHS-value in the\n\u00a0...", 
+            "htmlSnippet": "... Image management and patching; Disk <b>conversion</b> (physical to virtual, and <br>\nvice ... For fewer than 65535\u00d716\u00d763 sectors (about 31 GiB) the <b>CHS</b>-value in the<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/VHD_(file_format)", 
+            "cacheId": "IAxO8SngE0YJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Conversion (law) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Conversion</b> (law) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Conversion_(law)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Conversion</b>_(law)", 
+            "snippet": "Traditionally, a conversion occurs when some chattel is lost, then found by \nanother who ... Conversion, as a purely civil wrong, is distinguishable from both \ntheft and unjust enrichment. Theft is ...... 23. pl.5 1479; Jump up ^ Fifoot, C.H.S. (\n1949).", 
+            "htmlSnippet": "Traditionally, a <b>conversion</b> occurs when some chattel is lost, then found by <br>\nanother who ... <b>Conversion</b>, as a purely civil wrong, is distinguishable from both <br>\ntheft and unjust enrichment. Theft is ...... 23. pl.5 1479; Jump up ^ Fifoot, <b>C.H.S.</b> (<br>\n1949).", 
+            "link": "https://en.wikipedia.org/wiki/Conversion_(law)", 
+            "cacheId": "VTUPMIi1QlEJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - CHS conversion", 
+                "safe": "off", 
+                "searchTerms": "CHS conversion", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "446"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - CHS conversion", 
+                "safe": "off", 
+                "searchTerms": "CHS conversion", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "446"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.26", 
+        "formattedTotalResults": "446", 
+        "totalResults": "446", 
+        "searchTime": 0.256405
+    }
+}

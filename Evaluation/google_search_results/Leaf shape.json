@@ -1,0 +1,288 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Leaf shape - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Leaf shape</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Leaf_shape", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Leaf</b>_<b>shape</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTu4G3lI3hTsM91myLWdGENkpQmNHkDvBAhkeIZwFFmDJhFNllPOMDY1amk", 
+                        "height": "161"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Leaf_morphology.svg/220px-Leaf_morphology.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "In botany, leaf shape is a description of the form of the part of a plant known as \nthe leaf. It is characterised with the following terms (with botanical Latin in italics\u00a0...", 
+            "htmlSnippet": "In botany, <b>leaf shape</b> is a description of the form of the part of a plant known as <br>\nthe leaf. It is characterised with the following terms (with botanical Latin in italics&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Leaf_shape", 
+            "cacheId": "aw8ZfSKIS7EJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "File:Leaf morphology.svg - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "File:<b>Leaf</b> morphology.svg - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/File:Leaf_morphology.svg", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/File:<b>Leaf</b>_morphology.svg", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "235", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ7uamuNQf4Pa37LWBI7gOw0AConRJ8Gjh-jr-xt4w00y9lVJ4AJ8thEeAx", 
+                        "height": "215"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Leaf_morphology.svg/654px-Leaf_morphology.svg.png"
+                    }
+                ], 
+                "hproduct": [
+                    {
+                        "fn": "Leaf morphology.svg"
+                    }
+                ]
+            }, 
+            "snippet": "The original can be viewed here: Leaf morphology no title.png. ... of plant \nmorphology \u00b7 Identification of trees of the northeastern United States \u00b7 Leaf \u00b7 Leaf \nshape\u00a0...", 
+            "htmlSnippet": "The original can be viewed here: Leaf morphology no title.png. ... of plant <br>\nmorphology &middot; Identification of trees of the northeastern United States &middot; Leaf &middot; <b>Leaf</b> <br>\n<b>shape</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/File:Leaf_morphology.svg", 
+            "cacheId": "_ricLNQJTzIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Leaf shape - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Leaf shape</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3ALeaf_shape", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>Leaf</b>_<b>shape</b>", 
+            "snippet": "Both compound leaf types and leaf arrangement on stems need pictures perhaps \nmore than the other leaf shape examples do. 128.101.70.96 16:49, 20 October\u00a0...", 
+            "htmlSnippet": "Both compound leaf types and leaf arrangement on stems need pictures perhaps <br>\nmore than the other <b>leaf shape</b> examples do. 128.101.70.96 16:49, 20 October&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3ALeaf_shape", 
+            "cacheId": "kbsNp3n36KQJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Xiphos - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Xiphos - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Xiphos", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Xiphos", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "156", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx96TxN2D9Hyk-3-njTCq2PkR2fwO0eMjX1MtK0hB03WZ2KHeXmloSktk1", 
+                        "height": "143"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/9/94/Schwerter2.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "The xiphos' leaf-shaped design lent itself to both cutting and thrusting. The \ndesign has most likely been in existence since the appearance of the first swords.", 
+            "htmlSnippet": "The xiphos&#39; <b>leaf</b>-<b>shaped</b> design lent itself to both cutting and thrusting. The <br>\ndesign has most likely been in existence since the appearance of the first swords.", 
+            "link": "https://en.wikipedia.org/wiki/Xiphos", 
+            "cacheId": "e1j1n6xTOAsJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Ovate - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Ovate - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Ovate", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Ovate", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "153", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQdAPIS-UYLIoH03lKQz3s-iW5jLM4B7U5J-OpFn9oJD_GT5qkWLbnO4go", 
+                        "height": "76"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/6/67/Leaf_morphology_ovale.png"
+                    }
+                ]
+            }, 
+            "snippet": "Oval, egg-shaped, with a tapering point, such as in the shape of leaves or other \nbotanical features such as the stamen filaments.", 
+            "htmlSnippet": "Oval, egg-<b>shaped</b>, with a tapering point, such as in the <b>shape</b> of <b>leaves</b> or other <br>\nbotanical features such as the stamen filaments.", 
+            "link": "https://en.wikipedia.org/wiki/Ovate", 
+            "cacheId": "YLGi3yMWptUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Leaf - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Leaf</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Leaf", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Leaf</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "136", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSooenimzbgEHtnfZgrSji0EkpL1mMQbM9xzFvpHwzW5xmzjfXM59XAiA8", 
+                        "height": "204"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Leavessnipedale.jpg/170px-Leavessnipedale.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "Shape[edit]. Main article: Leaf shape.", 
+            "htmlSnippet": "Shape[edit]. Main article: <b>Leaf shape</b>.", 
+            "link": "https://en.wikipedia.org/wiki/Leaf", 
+            "cacheId": "0MZGBqXunzoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Identification of trees of the northeastern United States - Wikipedia ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Identification of trees of the northeastern United States - Wikipedia <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../Identification_of_trees_of_the_northeastern_ United_States", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Identification_of_trees_of_the_northeastern_ United_States", 
+            "snippet": "The leaflets of a compound leaf can be distinguished from simple leaves by the ... \nHeart-shaped: Eastern Redbud; Leaves of three forms; oval, two-lobed,\u00a0...", 
+            "htmlSnippet": "The leaflets of a compound <b>leaf</b> can be distinguished from simple <b>leaves</b> by the ... <br>\nHeart-<b>shaped</b>: Eastern Redbud; <b>Leaves</b> of three forms; oval, two-lobed,&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Identification_of_trees_of_the_northeastern_United_States", 
+            "cacheId": "4P5CY7W4k2IJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "B\u00fcnting Clover Leaf Map - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "B\u00fcnting Clover <b>Leaf</b> Map - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/B\u00fcnting_Clover_Leaf_Map", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/B\u00fcnting_Clover_<b>Leaf</b>_Map", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP8VGPzpcCkVCk6sjp8ucfas1Ce0v17ezHgUlCFNC0OwwcW6SJpkTeCy0", 
+                        "height": "138"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/1581_Bunting_clover_leaf_map.jpg/220px-1581_Bunting_clover_leaf_map.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "The B\u00fcnting Clover Leaf Map, also known as The World in a Cloverleaf, (German \n... The top-right leaf-shape coloured in green represents Asia, the top-left one\u00a0...", 
+            "htmlSnippet": "The B\u00fcnting Clover Leaf Map, also known as The World in a Cloverleaf, (German <br>\n... The top-right <b>leaf</b>-<b>shape</b> coloured in green represents Asia, the top-left one&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/B%C3%BCnting_Clover_Leaf_Map", 
+            "cacheId": "6mXEy1dWLAYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Ficus religiosa - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Ficus religiosa - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Ficus_religiosa", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Ficus_religiosa", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ-a2583B7olBae8fFi9PqnrK-djtdNc90oguZZ0_NNoF8T37uTF6PVfvKS", 
+                        "height": "144"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Ficus_religiosa_Bo.jpg/220px-Ficus_religiosa_Bo.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "The leaves are cordate in shape with a distinctive extended drip tip; they are 10\u2013\n17 cm long and 8\u201312 cm broad, with a 6\u201310 cm petiole. The fruits are small figs\u00a0...", 
+            "htmlSnippet": "The <b>leaves</b> are cordate in <b>shape</b> with a distinctive extended drip tip; they are 10\u2013<br>\n17 cm long and 8\u201312 cm broad, with a 6\u201310 cm petiole. The fruits are small figs&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Ficus_religiosa", 
+            "cacheId": "qAoDqB3ZO3sJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "File:Leaf morphology no title.png - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "File:<b>Leaf</b> morphology no title.png - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/File:Leaf_morphology_no_title.png", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/File:<b>Leaf</b>_morphology_no_title.png", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "235", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTLdcj-6bJbemIF0mAEvjec4GdNSMx9CXZHIOKedOrvN6wsfd-E4A-W5OQ", 
+                        "height": "215"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Leaf_morphology_no_title.png/656px-Leaf_morphology_no_title.png"
+                    }
+                ], 
+                "hproduct": [
+                    {
+                        "fn": "Leaf morphology no title.png"
+                    }
+                ]
+            }, 
+            "snippet": "It is helpful to think of leaves as having a shape and an arrangement. The chart \nhere mingles the two features. Alternate, rosette, peltate, bipinnate, trifoliate,\u00a0...", 
+            "htmlSnippet": "It is helpful to think of <b>leaves</b> as having a <b>shape</b> and an arrangement. The chart <br>\nhere mingles the two features. Alternate, rosette, peltate, bipinnate, trifoliate,&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/File:Leaf_morphology_no_title.png", 
+            "cacheId": "E-pZzsnvwgcJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Leaf shape", 
+                "safe": "off", 
+                "searchTerms": "Leaf shape", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "439000"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Leaf shape", 
+                "safe": "off", 
+                "searchTerms": "Leaf shape", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "439000"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.31", 
+        "formattedTotalResults": "439,000", 
+        "totalResults": "439000", 
+        "searchTime": 0.310023
+    }
+}

@@ -1,0 +1,180 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Reference counting - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Reference counting</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Reference_counting", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Reference</b>_<b>counting</b>", 
+            "snippet": "In computer science, reference counting is a technique of storing the number of \nreferences, pointers, or handles to a resource such as an object, block of\u00a0...", 
+            "htmlSnippet": "In computer science, <b>reference counting</b> is a technique of storing the number of <br>\nreferences, pointers, or handles to a resource such as an object, block of&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Reference_counting", 
+            "cacheId": "cBcC2T2xaBsJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Automatic Reference Counting - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Automatic <b>Reference Counting</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Automatic_Reference_Counting", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Automatic_<b>Reference</b>_<b>Counting</b>", 
+            "snippet": "In Objective-C and Swift programming, Automatic Reference Counting (ARC) is a \nmemory management enhancement where the burden of keeping track of an\u00a0...", 
+            "htmlSnippet": "In Objective-C and Swift programming, Automatic <b>Reference Counting</b> (ARC) is a <br>\nmemory management enhancement where the burden of keeping track of an&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Automatic_Reference_Counting", 
+            "cacheId": "pKee67iUjm0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Smart pointer - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Smart pointer - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Smart_pointer", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Smart_pointer", 
+            "snippet": "Some work with reference counting, others by assigning ownership of the object \nto a single pointer. If a language supports automatic garbage collection (for\u00a0...", 
+            "htmlSnippet": "Some work with <b>reference counting</b>, others by assigning ownership of the object <br>\nto a single pointer. If a language supports automatic garbage collection (for&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Smart_pointer", 
+            "cacheId": "Ns6D-Huf888J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Weak reference - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Weak <b>reference</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Weak_reference", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Weak_<b>reference</b>", 
+            "snippet": "Weak references have a number of common use cases. When using reference \ncounting garbage collection, weak references can break reference cycles,\u00a0...", 
+            "htmlSnippet": "Weak references have a number of common use cases. When using <b>reference</b> <br>\n<b>counting</b> garbage collection, weak references can break reference cycles,&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Weak_reference", 
+            "cacheId": "pMuUykoLyv8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Reference counting - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Reference counting</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3AReference_counting", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>Reference</b>_<b>counting</b>", 
+            "snippet": "1 Since when has reference counting been called \"garbage collection\"? 2 \nReasons why reference counting is not garbage collection; 3 Perl use Reference\n\u00a0...", 
+            "htmlSnippet": "1 Since when has <b>reference counting</b> been called &quot;garbage collection&quot;? 2 <br>\nReasons why <b>reference counting</b> is not garbage collection; 3 Perl use Reference<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3AReference_counting", 
+            "cacheId": "L3qv3ql83pwJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Garbage collection (computer science) - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Garbage collection (computer science) - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Garbage_collection_(computer_science)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Garbage_collection_(computer_science)", 
+            "snippet": "Reference counting is a form of garbage collection whereby each object has a \ncount of the number ... Garbage is identified by having a reference count of zero.", 
+            "htmlSnippet": "<b>Reference counting</b> is a form of garbage collection whereby each object has a <br>\ncount of the number ... Garbage is identified by having a <b>reference count</b> of zero.", 
+            "link": "https://en.wikipedia.org/wiki/Garbage_collection_(computer_science)", 
+            "cacheId": "6GM0rjrrUjsJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Tracing garbage collection - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Tracing garbage collection - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Tracing_garbage_collection", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Tracing_garbage_collection", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "257", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT2TTa6xn6ImMGiYyyFnv4mBqiVjwznlF0zaay5mIFRm6GkOB-s4_Vn590", 
+                        "height": "196"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Animation_of_the_Naive_Mark_and_Sweep_Garbage_Collector_Algorithm.gif/330px-Animation_of_the_Naive_Mark_and_Sweep_Garbage_Collector_Algorithm.gif"
+                    }
+                ]
+            }, 
+            "snippet": "... so that \"garbage collection\" often refers to tracing garbage collection, rather \nthan other methods such as reference counting \u2013 and there are a large number of\n\u00a0...", 
+            "htmlSnippet": "... so that &quot;garbage collection&quot; often refers to tracing garbage collection, rather <br>\nthan other methods such as <b>reference counting</b> \u2013 and there are a large number of<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Tracing_garbage_collection", 
+            "cacheId": "K8eJy3RVsOcJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Resource Acquisition Is Initialization - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Resource Acquisition Is Initialization - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Resource_Acquisition_Is_Initialization", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Resource_Acquisition_Is_Initialization", 
+            "snippet": "... 4 GCC \"cleanup\" extension for C; 5 Limitations; 6 Reference counting; 7 Notes \n.... object lifetime by reference counting, which makes it possible to use RAII.", 
+            "htmlSnippet": "... 4 GCC &quot;cleanup&quot; extension for C; 5 Limitations; 6 <b>Reference counting</b>; 7 Notes <br>\n.... object lifetime by <b>reference counting</b>, which makes it possible to use RAII.", 
+            "link": "https://en.wikipedia.org/wiki/Resource_Acquisition_Is_Initialization", 
+            "cacheId": "a_JYQDI81fcJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "George E. Collins - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "George E. Collins - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/George_E._Collins", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/George_E._Collins", 
+            "snippet": "He is the inventor of garbage collection by reference counting and of the method \nof quantifier elimination by cylindrical algebraic decomposition.", 
+            "htmlSnippet": "He is the inventor of garbage collection by <b>reference counting</b> and of the method <br>\nof quantifier elimination by cylindrical algebraic decomposition.", 
+            "link": "https://en.wikipedia.org/wiki/George_E._Collins", 
+            "cacheId": "QvpOT4LiKQEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "IUnknown - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "IUnknown - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/IUnknown", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/IUnknown", 
+            "snippet": "IUnknown exposes two essential features of all COM objects: object lifetime \nmanagement through reference counting, and access to various predefined\u00a0...", 
+            "htmlSnippet": "IUnknown exposes two essential features of all COM objects: object lifetime <br>\nmanagement through <b>reference counting</b>, and access to various predefined&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/IUnknown", 
+            "cacheId": "-wjHRIYhm5cJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Reference counting", 
+                "safe": "off", 
+                "searchTerms": "Reference counting", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "5220000"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Reference counting", 
+                "safe": "off", 
+                "searchTerms": "Reference counting", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "5220000"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.34", 
+        "formattedTotalResults": "5,220,000", 
+        "totalResults": "5220000", 
+        "searchTime": 0.336559
+    }
+}

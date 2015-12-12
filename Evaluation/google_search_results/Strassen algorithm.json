@@ -1,0 +1,229 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Strassen algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Strassen algorithm</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Strassen_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Strassen</b>_<b>algorithm</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "391", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRL-ygTd10uqka7RVmuQlfhNOvL3w4mMb5HFncVZakOyOTqjRr0YontJLLA", 
+                        "height": "129"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Strassen_algorithm.svg/800px-Strassen_algorithm.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "In linear algebra, the Strassen algorithm, named after Volker Strassen, is an \nalgorithm used for matrix multiplication. It is faster than the standard matrix\u00a0...", 
+            "htmlSnippet": "In linear algebra, the <b>Strassen algorithm</b>, named after Volker Strassen, is an <br>\nalgorithm used for matrix multiplication. It is faster than the standard matrix&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Strassen_algorithm", 
+            "cacheId": "c0VMy10vBuwJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Sch\u00f6nhage\u2013Strassen algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Sch\u00f6nhage\u2013<b>Strassen algorithm</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Sch\u00f6nhage\u2013Strassen_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Sch\u00f6nhage\u2013<b>Strassen</b>_<b>algorithm</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "241", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQTM5ailoOD5ppzjGmjOteEkMAOqjNTSxmsstDT9X4KzwUf_gtrRUY7JGjN", 
+                        "height": "210"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Integer_multiplication_by_FFT.svg/350px-Integer_multiplication_by_FFT.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "The Sch\u00f6nhage\u2013Strassen algorithm is based on the Fast Fourier transform (FFT) \nmethod of integer multiplication. This figure demonstrates multiplying 1234\u00a0...", 
+            "htmlSnippet": "The Sch\u00f6nhage\u2013<b>Strassen algorithm</b> is based on the Fast Fourier transform (FFT) <br>\nmethod of integer multiplication. This figure demonstrates multiplying 1234&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Sch%C3%B6nhage%E2%80%93Strassen_algorithm", 
+            "cacheId": "ULiDfQCxd38J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Volker Strassen - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Volker <b>Strassen</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Volker_Strassen", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Volker_<b>Strassen</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS9tl8gLOe5oWs1ydCuSU_bGjFE1HDAcn2cDkRiKZ10wnj5_t88y6JFGaw", 
+                        "height": "264"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Strassen_Knuth_Prize_lecture.jpg/220px-Strassen_Knuth_Prize_lecture.jpg"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "bday": "1936-04-29", 
+                        "category": "Mathematics", 
+                        "fn": "Volker Strassen"
+                    }
+                ]
+            }, 
+            "snippet": "Volker Strassen (born April 29, 1936) is a German mathematician, ... with a paper \non Gaussian elimination, introducing Strassen's algorithm, the first algorithm\u00a0...", 
+            "htmlSnippet": "Volker Strassen (born April 29, 1936) is a German mathematician, ... with a paper <br>\non Gaussian elimination, introducing <b>Strassen&#39;s algorithm</b>, the first algorithm&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Volker_Strassen", 
+            "cacheId": "zDfnyYw4K2kJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Solovay\u2013Strassen primality test - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Solovay\u2013<b>Strassen</b> primality test - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Solovay\u2013Strassen_primality_test", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Solovay\u2013<b>Strassen</b>_primality_test", 
+            "snippet": "[edit]. The algorithm can be written in pseudocode as follows: Inputs: n, a value to \ntest for primality; k, a parameter\u00a0...", 
+            "htmlSnippet": "[edit]. The <b>algorithm</b> can be written in pseudocode as follows: Inputs: n, a value to <br>\ntest for primality; k, a parameter&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Solovay%E2%80%93Strassen_primality_test", 
+            "cacheId": "VsF5qzIY0HcJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Strassen algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Strassen algorithm</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3AStrassen_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>Strassen</b>_<b>algorithm</b>", 
+            "snippet": "Hence the number of additions in a Strassen-type matrix multiplication algorithm \nonly affects the constant factor, but the number of multiplications affect the\u00a0...", 
+            "htmlSnippet": "Hence the number of additions in a <b>Strassen</b>-type matrix multiplication <b>algorithm</b> <br>\nonly affects the constant factor, but the number of multiplications affect the&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3AStrassen_algorithm", 
+            "cacheId": "EhbpP3BMM1gJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Coppersmith\u2013Winograd algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Coppersmith\u2013Winograd <b>algorithm</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Coppersmith\u2013Winograd_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Coppersmith\u2013Winograd_<b>algorithm</b>", 
+            "snippet": "time algorithm and the O(n^{2.807355}) time Strassen algorithm. Algorithms with \nbetter asymptotic running time than the Strassen algorithm are rarely used in\u00a0...", 
+            "htmlSnippet": "time algorithm and the O(n^{2.807355}) time <b>Strassen algorithm</b>. Algorithms with <br>\nbetter asymptotic running time than the <b>Strassen algorithm</b> are rarely used in&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Coppersmith%E2%80%93Winograd_algorithm", 
+            "cacheId": "OyzqcAlPqEwJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Sch\u00f6nhage\u2013Strassen algorithm - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:Sch\u00f6nhage\u2013<b>Strassen algorithm</b> - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../Talk%3ASch\u00f6nhage\u2013Strassen_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Talk%3ASch\u00f6nhage\u2013<b>Strassen</b>_<b>algorithm</b>", 
+            "snippet": "Of course, for any fixed Toom-Cook scheme, Sch\u00f6nhage-Strassen is \nasymptotically faster. But even an algorithm that dynamically chooses increasing\n\u00a0...", 
+            "htmlSnippet": "Of course, for any fixed Toom-Cook scheme, Sch\u00f6nhage-<b>Strassen</b> is <br>\nasymptotically faster. But even an <b>algorithm</b> that dynamically chooses increasing<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3ASch%C3%B6nhage%E2%80%93Strassen_algorithm", 
+            "cacheId": "7rOOG0NARKsJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "F\u00fcrer's algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "F\u00fcrer&#39;s <b>algorithm</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/F\u00fcrer's_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/F\u00fcrer&#39;s_<b>algorithm</b>", 
+            "snippet": "The predecessor to the F\u00fcrer algorithm, the Sch\u00f6nhage\u2013Strassen algorithm, \nused fast Fourier transforms to compute integer products in time O(n \\log n \\log \\\nlog\u00a0...", 
+            "htmlSnippet": "The predecessor to the F\u00fcrer algorithm, the Sch\u00f6nhage\u2013<b>Strassen algorithm</b>, <br>\nused fast Fourier transforms to compute integer products in time O(n \\log n \\log \\<br>\nlog&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/F%C3%BCrer's_algorithm", 
+            "cacheId": "_V3RKNMeZlIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Karatsuba algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Karatsuba <b>algorithm</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Karatsuba_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Karatsuba_<b>algorithm</b>", 
+            "snippet": "The Toom\u2013Cook algorithm is a faster generalization of Karatsuba's method, and \nthe Sch\u00f6nhage\u2013Strassen algorithm is even faster, for sufficiently large n.", 
+            "htmlSnippet": "The Toom\u2013Cook algorithm is a faster generalization of Karatsuba&#39;s method, and <br>\nthe Sch\u00f6nhage\u2013<b>Strassen algorithm</b> is even faster, for sufficiently large n.", 
+            "link": "https://en.wikipedia.org/wiki/Karatsuba_algorithm", 
+            "cacheId": "1lsSGEoHzLMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Matrix multiplication - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Matrix multiplication - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Matrix_multiplication", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Matrix_multiplication", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "240", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRODaVpUs_nUXNshq4WmcFhYcNOxMtS_1j_aNXii4LpYJ0_2OXdXobJRncq", 
+                        "height": "186"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Matrix_multiplication_row_column_correspondance.svg/300px-Matrix_multiplication_row_column_correspondance.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "7 Algorithms for efficient matrix multiplication ..... Strassen's algorithm is more \ncomplex, and the numerical stability is reduced compared to the na\u00efve algorithm.", 
+            "htmlSnippet": "7 Algorithms for efficient matrix multiplication ..... <b>Strassen&#39;s algorithm</b> is more <br>\ncomplex, and the numerical stability is reduced compared to the na\u00efve algorithm.", 
+            "link": "https://en.wikipedia.org/wiki/Matrix_multiplication", 
+            "cacheId": "kYLWyiVwPjUJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Strassen algorithm", 
+                "safe": "off", 
+                "searchTerms": "Strassen algorithm", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "272"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Strassen algorithm", 
+                "safe": "off", 
+                "searchTerms": "Strassen algorithm", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "272"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.17", 
+        "formattedTotalResults": "272", 
+        "totalResults": "272", 
+        "searchTime": 0.166023
+    }
+}

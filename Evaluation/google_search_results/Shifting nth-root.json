@@ -1,0 +1,222 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Shifting nth root algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Shifting nth root</b> algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Shifting_nth_root_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Shifting</b>_<b>nth</b>_<b>root</b>_algorithm", 
+            "snippet": "The shifting nth root algorithm is an algorithm for extracting the nth root of a \npositive real number which proceeds iteratively by shifting in n digits of the \nradicand,\u00a0...", 
+            "htmlSnippet": "The <b>shifting nth root</b> algorithm is an algorithm for extracting the nth root of a <br>\npositive real number which proceeds iteratively by shifting in n digits of the <br>\nradicand,&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Shifting_nth_root_algorithm", 
+            "cacheId": "FlNWgx3b6gAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Shifting nth root algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Shifting nth root</b> algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3AShifting_nth_root_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>Shifting</b>_<b>nth</b>_<b>root</b>_algorithm", 
+            "snippet": "Yet it is even mentioned in some dictionaries... could it be that the pencil and \npaper time complexity is different, compared to a binary search? 82.139.85.33\u00a0...", 
+            "htmlSnippet": "Yet it is even mentioned in some dictionaries... could it be that the pencil and <br>\npaper time complexity is different, compared to a binary search? 82.139.85.33&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3AShifting_nth_root_algorithm", 
+            "cacheId": "Pp_6Cr3IgKAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "nth root - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>nth root</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Nth_root", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Nth</b>_<b>root</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "248", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS30QQ-XPAfiy-CQXd8bQy0Eg1xYpl50GA5nLdw8IOfylRp26GBckPfv00", 
+                        "height": "204"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Roots_chart.svg/350px-Roots_chart.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "where n is the degree of the root. A root of degree 2 is called a square root and a \nroot of degree 3, a cube root. Roots of higher degree are referred by using\u00a0...", 
+            "htmlSnippet": "where n is the degree of the root. A root of degree 2 is called a square root and a <br>\nroot of degree 3, a <b>cube root</b>. Roots of higher degree are referred by using&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Nth_root", 
+            "cacheId": "r6WTheWFApcJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Cube root - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Cube root</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Cube_root", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Cube</b>_<b>root</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "230", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQxfy97spvgh8GApyyNdUaWenDggQK17m6k_oXebAC6uy2UCT86kiwrLVI", 
+                        "height": "122"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Cube_root.svg/288px-Cube_root.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "In mathematics, a cube root of a number x is a number a such that a3 = x. All real \nnumbers (except zero) have exactly one real cube root and a pair of complex\u00a0...", 
+            "htmlSnippet": "In mathematics, a <b>cube root</b> of a number x is a number a such that a<sup>3</sup> = x. All real <br>\nnumbers (except zero) have exactly one real <b>cube root</b> and a pair of complex&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Cube_root", 
+            "cacheId": "kZWB9HyASJ4J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Category:Root-finding algorithms - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Category:<b>Root</b>-finding algorithms - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Category:Root-finding_algorithms", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Category:<b>Root</b>-finding_algorithms", 
+            "snippet": "Root-finding algorithms are studied in numerical analysis. ... Secant method \u00b7 \nShifting nth root algorithm \u00b7 Sidi's generalized secant method \u00b7 Solving quadratic\n\u00a0...", 
+            "htmlSnippet": "Root-finding algorithms are studied in numerical analysis. ... Secant method &middot; <br>\n<b>Shifting nth root</b> algorithm &middot; Sidi&#39;s generalized secant method &middot; Solving quadratic<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Category:Root-finding_algorithms", 
+            "cacheId": "-7ACIehe2lkJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Methods of computing square roots - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Methods of computing square <b>roots</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Methods_of_computing_square_roots", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Methods_of_computing_square_<b>roots</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "240", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSW45zKeX3xJruEaYt9egerPfApywO1Od8wTH3yy4KD33MDFuJu0NohvJde", 
+                        "height": "184"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Babylonian_method.svg/300px-Babylonian_method.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "Many square root algorithms require an initial seed value. If the initial seed .... of \nthis algorithm. The shifting nth root algorithm is a generalization of this method.", 
+            "htmlSnippet": "Many square root algorithms require an initial seed value. If the initial seed .... of <br>\nthis algorithm. The <b>shifting nth root</b> algorithm is a generalization of this method.", 
+            "link": "https://en.wikipedia.org/wiki/Methods_of_computing_square_roots", 
+            "cacheId": "htUuPf3eeYAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Twelfth root of two - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Twelfth <b>root</b> of two - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Twelfth_root_of_two", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Twelfth_<b>root</b>_of_two", 
+            "snippet": "The twelfth root of two or 12\u221a2 is an algebraic irrational number. ... increasing or \ndecreasing the playback speed of a recording by 6% will shift the pitch up or\u00a0...", 
+            "htmlSnippet": "The twelfth <b>root</b> of two or <sup>12</sup>\u221a2 is an algebraic irrational number. ... increasing or <br>\ndecreasing the playback speed of a recording by 6% will <b>shift</b> the pitch up or&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Twelfth_root_of_two", 
+            "cacheId": "pij_DlVxG-0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Householder's method - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:Householder&#39;s method - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "en.wikipedia.org/wiki/Talk%3AHouseholder's_method", 
+            "htmlFormattedUrl": "en.wikipedia.org/wiki/Talk%3AHouseholder&#39;s_method", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "240", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRSValx1XJLA_nFJtdJyOXjK1DQhxNNq7efVmvp8Q3LYC3kL-5dTiwFFg", 
+                        "height": "110"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "http://upload.wikimedia.org/math/0/1/b/01b7375234f01b9e78b77d1660f3c3c8.png"
+                    }
+                ]
+            }, 
+            "snippet": "1) Simple zero was directly explained as a root where the derivative is nonzero. \n..... This page is just Newton's method and Shifting nth root algorithm for finding\u00a0...", 
+            "htmlSnippet": "1) Simple zero was directly explained as a root where the derivative is nonzero. <br>\n..... This page is just Newton&#39;s method and <b>Shifting nth root</b> algorithm for finding&nbsp;...", 
+            "link": "http://en.wikipedia.org/wiki/Talk%3AHouseholder's_method", 
+            "cacheId": "ZPqlcrK5SQMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Category:Computer arithmetic algorithms - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Category:Computer arithmetic algorithms - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../Category:Computer_arithmetic_algorithms", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Category:Computer_arithmetic_algorithms", 
+            "snippet": "S. Sch\u00f6nhage\u2013Strassen algorithm \u00b7 Shifting nth root algorithm \u00b7 Spigot algorithm \u00b7 \nSpouge's approximation. T. Toom\u2013Cook multiplication. Retrieved from\u00a0...", 
+            "htmlSnippet": "S. Sch\u00f6nhage\u2013Strassen algorithm &middot; <b>Shifting nth root</b> algorithm &middot; Spigot algorithm &middot; <br>\nSpouge&#39;s approximation. T. Toom\u2013Cook multiplication. Retrieved from&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Category:Computer_arithmetic_algorithms", 
+            "cacheId": "z9G05lWfMBcJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Laplace transform - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Laplace transform - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Laplace_transform", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Laplace_transform", 
+            "snippet": "f is assumed to be n-times differentiable, with nth derivative of exponential type. \nFollows by ... for all t \u2265 0. This is the result of the time shifting property and the \ngeometric series. .... nth root, \\sqrt[n]{t} \\cdot u(t), { 1 \\over s^{\\frac{1}{n}+, Re(s) > 0\n\u00a0...", 
+            "htmlSnippet": "f is assumed to be n-times differentiable, with nth derivative of exponential type. <br>\nFollows by ... for all t \u2265 0. This is the result of the time <b>shifting</b> property and the <br>\ngeometric series. .... <b>nth root</b>, \\sqrt[n]{t} \\cdot u(t), { 1 \\over s^{\\frac{1}{n}+, Re(s) &gt; 0<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Laplace_transform", 
+            "cacheId": "V91ljtrrhRUJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Shifting nth-root", 
+                "safe": "off", 
+                "searchTerms": "Shifting nth-root", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "1590"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Shifting nth-root", 
+                "safe": "off", 
+                "searchTerms": "Shifting nth-root", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "1590"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.28", 
+        "formattedTotalResults": "1,590", 
+        "totalResults": "1590", 
+        "searchTime": 0.277348
+    }
+}

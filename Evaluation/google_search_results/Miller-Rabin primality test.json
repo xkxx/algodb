@@ -1,0 +1,206 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Miller\u2013Rabin primality test - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Miller</b>\u2013<b>Rabin primality test</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Miller\u2013Rabin_primality_test", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Miller</b>\u2013<b>Rabin</b>_<b>primality</b>_<b>test</b>", 
+            "snippet": "The Miller\u2013Rabin primality test or Rabin\u2013Miller primality test is a primality test: an \nalgorithm which determines whether a given number is prime, similar to the\u00a0...", 
+            "htmlSnippet": "The <b>Miller</b>\u2013<b>Rabin primality test</b> or Rabin\u2013Miller primality test is a primality test: an <br>\nalgorithm which determines whether a given number is prime, similar to the&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Miller%E2%80%93Rabin_primality_test", 
+            "cacheId": "qVZNv2DzKMsJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Primality test - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Primality test</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Primality_test", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Primality</b>_<b>test</b>", 
+            "snippet": "[edit]. The Miller\u2013Rabin primality test and Solovay\u2013Strassen primality test are\u00a0...", 
+            "htmlSnippet": "[edit]. The <b>Miller</b>\u2013<b>Rabin primality test</b> and Solovay\u2013Strassen primality test are&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Primality_test", 
+            "cacheId": "emzcKnQsr5UJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Miller\u2013Rabin primality test - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Miller</b>\u2013<b>Rabin primality test</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3AMiller-Rabin_primality_test", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>Miller</b>-<b>Rabin</b>_<b>primality</b>_<b>test</b>", 
+            "snippet": "(Redirected from Talk:Miller-Rabin primality test). Jump to: navigation .... while \nthe Miller-Rabin test only calls for the cases with r\\leq s-1 . I'd further propose the\n\u00a0...", 
+            "htmlSnippet": "(Redirected from Talk:<b>Miller</b>-<b>Rabin primality test</b>). Jump to: navigation .... while <br>\nthe Miller-Rabin test only calls for the cases with r\\leq s-1 . I&#39;d further propose the<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3AMiller-Rabin_primality_test", 
+            "cacheId": "w27p2jdYxMMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Strong pseudoprime - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Strong pseudoprime - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Strong_pseudoprime", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Strong_pseudoprime", 
+            "snippet": "In number theory, a probable prime is a number that passes a primality test. ... is \nless than 1/4, forming the basis of the widely used Miller-Rabin primality test.", 
+            "htmlSnippet": "In number theory, a probable prime is a number that passes a primality test. ... is <br>\nless than 1/4, forming the basis of the widely used <b>Miller</b>-<b>Rabin primality test</b>.", 
+            "link": "https://en.wikipedia.org/wiki/Strong_pseudoprime", 
+            "cacheId": "4blk3NQwWLsJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Fermat primality test - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Fermat <b>primality test</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Fermat_primality_test", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Fermat_<b>primality</b>_<b>test</b>", 
+            "snippet": "The Fermat primality test is a probabilistic test to determine whether a number ... \na base-210 Fermat test after trial division and before running Miller-Rabin tests.", 
+            "htmlSnippet": "The Fermat <b>primality test</b> is a probabilistic test to determine whether a number ... <br>\na base-210 Fermat test after trial division and before running <b>Miller</b>-<b>Rabin</b> tests.", 
+            "link": "https://en.wikipedia.org/wiki/Fermat_primality_test", 
+            "cacheId": "ehB0Ni3YFosJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Solovay\u2013Strassen primality test - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Solovay\u2013Strassen <b>primality test</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Solovay\u2013Strassen_primality_test", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Solovay\u2013Strassen_<b>primality</b>_<b>test</b>", 
+            "snippet": "It has been largely superseded by the Baillie-PSW primality test and the Miller\u2013\nRabin primality test, but has great historical importance in showing the practical\u00a0...", 
+            "htmlSnippet": "It has been largely superseded by the Baillie-PSW primality test and the <b>Miller</b>\u2013<br>\n<b>Rabin primality test</b>, but has great historical importance in showing the practical&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Solovay%E2%80%93Strassen_primality_test", 
+            "cacheId": "VsF5qzIY0HcJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Baillie\u2013PSW primality test - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Baillie\u2013PSW <b>primality test</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Baillie\u2013PSW_primality_test", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Baillie\u2013PSW_<b>primality</b>_<b>test</b>", 
+            "snippet": "The Baillie-PSW test is a combination of a strong Fermat probable prime test to \nbase 2 ... The second step is a single application of the Miller-Rabin primality test.", 
+            "htmlSnippet": "The Baillie-PSW test is a combination of a strong Fermat probable prime test to <br>\nbase 2 ... The second step is a single application of the <b>Miller</b>-<b>Rabin primality test</b>.", 
+            "link": "https://en.wikipedia.org/wiki/Baillie%E2%80%93PSW_primality_test", 
+            "cacheId": "wIywjeb-E7cJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Michael O. Rabin - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Michael O. <b>Rabin</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Michael_O._Rabin", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Michael_O._<b>Rabin</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRcsWWjY4w_4us8AX27jXbF-7LP562JUB5xgl1h3i7vjaWaF2ReNYsiMrM", 
+                        "height": "117"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Michael_O._Rabin.jpg/220px-Michael_O._Rabin.jpg"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "bday": "1931-09-01", 
+                        "category": "Computer Science", 
+                        "fn": "Michael Oser Rabin"
+                    }
+                ]
+            }, 
+            "snippet": "Michael Oser Rabin (Hebrew: \u05de\u05b4\u05d9\u05db\u05b8\u05d0\u05b5\u05dc \u05e2\u05d5\u05d6\u05e8 \u05e8\u05b7\u05d1\u05b4\u05bc\u05d9\u05df  , born September 1, 1931), is \nan ... While there, Rabin invented the Miller-Rabin primality test, a randomized\u00a0...", 
+            "htmlSnippet": "Michael Oser Rabin (Hebrew: \u05de\u05b4\u05d9\u05db\u05b8\u05d0\u05b5\u05dc \u05e2\u05d5\u05d6\u05e8 \u05e8\u05b7\u05d1\u05b4\u05bc\u05d9\u05df  , born September 1, 1931), is <br>\nan ... While there, Rabin invented the <b>Miller</b>-<b>Rabin primality test</b>, a randomized&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Michael_O._Rabin", 
+            "cacheId": "wWCKUz2Ddy8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Lucas pseudoprime - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Lucas pseudoprime - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Lucas_pseudoprime", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Lucas_pseudoprime", 
+            "snippet": "5 Comparison with the Miller-Rabin primality test; 6 Fibonacci pseudoprimes; 7 \nPell ... As is the case with any other probabilistic primality test, if we perform\u00a0...", 
+            "htmlSnippet": "5 Comparison with the <b>Miller</b>-<b>Rabin primality test</b>; 6 Fibonacci pseudoprimes; 7 <br>\nPell ... As is the case with any other probabilistic primality test, if we perform&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Lucas_pseudoprime", 
+            "cacheId": "2fakqjpAExgJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Gary Miller (computer scientist) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Gary <b>Miller</b> (computer scientist) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Gary_Miller_(computer_scientist)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Gary_<b>Miller</b>_(computer_scientist)", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "160", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTPV5T7b4R1lhqFUpPsSBSRowPrrW0YSoCA7v6OlJXZMlfywFEnRnURHR8", 
+                        "height": "200"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Strassen_Knuth_Prize_presentation.jpg/200px-Strassen_Knuth_Prize_presentation.jpg"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "fn": "Gary Miller"
+                    }
+                ]
+            }, 
+            "snippet": "In 2003 he won the ACM Paris Kanellakis Award (with three others) for the Miller\n\u2013Rabin primality test. He was made an ACM Fellow in 2002 and won the Knuth\u00a0...", 
+            "htmlSnippet": "In 2003 he won the ACM Paris Kanellakis Award (with three others) for the <b>Miller</b><br>\n\u2013<b>Rabin primality test</b>. He was made an ACM Fellow in 2002 and won the Knuth&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Gary_Miller_(computer_scientist)", 
+            "cacheId": "sc1Cx7cR4vkJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Miller-Rabin primality test", 
+                "safe": "off", 
+                "searchTerms": "Miller-Rabin primality test", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "176"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Miller-Rabin primality test", 
+                "safe": "off", 
+                "searchTerms": "Miller-Rabin primality test", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "176"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.26", 
+        "formattedTotalResults": "176", 
+        "totalResults": "176", 
+        "searchTime": 0.264478
+    }
+}

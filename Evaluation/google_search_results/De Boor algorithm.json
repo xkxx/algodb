@@ -1,0 +1,228 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "De Boor's algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>De Boor&#39;s algorithm</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/De_Boor's_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>De</b>_<b>Boor&#39;s</b>_<b>algorithm</b>", 
+            "snippet": "In the mathematical subfield of numerical analysis the de Boor's algorithm is a \nfast and numerically stable algorithm for evaluating spline curves in B-spline form\n.", 
+            "htmlSnippet": "In the mathematical subfield of numerical analysis the <b>de Boor&#39;s algorithm</b> is a <br>\nfast and numerically stable algorithm for evaluating spline curves in B-spline form<br>\n.", 
+            "link": "https://en.wikipedia.org/wiki/De_Boor's_algorithm", 
+            "cacheId": "s6VlnBFmgjYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Carl R. de Boor - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Carl R. <b>de Boor</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Carl_R._de_Boor", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Carl_R._<b>de</b>_<b>Boor</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "160", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdjcdNXDU557WqpMJH_S9Jw9gTAvR1mduXnIt5hxF--v3HgKqZetPn60c", 
+                        "height": "154"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/De_Boor_Carl_2004.jpg/200px-De_Boor_Carl_2004.jpg"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "category": "Mathematics (Numerical analysis)", 
+                        "fn": "Carl-Wilhelm Reinhold de Boor"
+                    }
+                ]
+            }, 
+            "snippet": "In particular, he formulated a relatively fast and numerically stable algorithm for ... \nCarl de Boor retired from the University of Wisconsin\u2013Madison in 2003 and\u00a0...", 
+            "htmlSnippet": "In particular, he formulated a relatively fast and numerically stable <b>algorithm</b> for ... <br>\nCarl <b>de Boor</b> retired from the University of Wisconsin\u2013Madison in 2003 and&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Carl_R._de_Boor", 
+            "cacheId": "yMKHvqv0mr8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "De Casteljau's algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>De</b> Casteljau&#39;s <b>algorithm</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/De_Casteljau's_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>De</b>_Casteljau&#39;s_<b>algorithm</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "139", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSYUuoy4JuLOaeA02ST8l58RNK6cHvFXq7Sj9EKEjp-4bIe2kobWI-FxbA", 
+                        "height": "42"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/math/6/e/2/6e2d2eb63f9ba9dfe2e45b86092cf020.png"
+                    }
+                ]
+            }, 
+            "snippet": "In the mathematical field of numerical analysis, De Casteljau's algorithm is a ... \nDe Casteljau's algorithm can also be used to split a single B\u00e9zier curve into two \n.... B\u00e9zier curves \u00b7 De Boor's algorithm \u00b7 Horner scheme to evaluate polynomials \nin\u00a0...", 
+            "htmlSnippet": "In the mathematical field of numerical analysis, De Casteljau&#39;s algorithm is a ... <br>\nDe Casteljau&#39;s algorithm can also be used to split a single B\u00e9zier curve into two <br>\n.... B\u00e9zier curves &middot; <b>De Boor&#39;s algorithm</b> &middot; Horner scheme to evaluate polynomials <br>\nin&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/De_Casteljau's_algorithm", 
+            "cacheId": "40XQ3HsAEUYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "De Boor - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>De Boor</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/De_Boor", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>De</b>_<b>Boor</b>", 
+            "snippet": "Carl R. de Boor (born 1937), German-American mathematician and professor ... \nDe Boor's algorithm, a fast and numerically stable algorithm for evaluating spline\n\u00a0...", 
+            "htmlSnippet": "Carl R. de Boor (born 1937), German-American mathematician and professor ... <br>\n<b>De Boor&#39;s algorithm</b>, a fast and numerically stable algorithm for evaluating spline<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/De_Boor", 
+            "cacheId": "5U_Sy67pyn4J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "B-spline - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "B-spline - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/B-spline", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/B-spline", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "250", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQuLb-eQNKPs083tGRDz1zWa4FVdcMCO08w-IY6huDtn88D2YkZwuybbHY", 
+                        "height": "202"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/B-spline_curve.svg/400px-B-spline_curve.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "This relation leads directly to the FORTRAN-coded algorithm BSPLV which ... \nFaster variants of the de Boor algorithm have been proposed but they suffer from\n\u00a0...", 
+            "htmlSnippet": "This relation leads directly to the FORTRAN-coded algorithm BSPLV which ... <br>\nFaster variants of the <b>de Boor algorithm</b> have been proposed but they suffer from<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/B-spline", 
+            "cacheId": "rE9pEnELrKAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:B-spline - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:B-spline - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3AB-spline", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3AB-spline", 
+            "snippet": "Since knots may repeat, denominators appear in de Boor-Cox formula, i.e. ..... \nBasisFuns(i,u,p,U): \"\"\" Compute the nonvanishing basis functions Algorithm A2.2\n\u00a0...", 
+            "htmlSnippet": "Since knots may repeat, denominators appear in <b>de Boor</b>-Cox formula, i.e. ..... <br>\nBasisFuns(i,u,p,U): &quot;&quot;&quot; Compute the nonvanishing basis functions <b>Algorithm</b> A2.2<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3AB-spline", 
+            "cacheId": "6BcC3yz6sHsJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Remez algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Remez <b>algorithm</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Remez_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Remez_<b>algorithm</b>", 
+            "snippet": "The Remez algorithm or Remez exchange algorithm, published by Evgeny ... \nTheodore A. Kilgore, Carl de Boor, and Allan Pinkus proved that there exists a\u00a0...", 
+            "htmlSnippet": "The Remez <b>algorithm</b> or Remez exchange <b>algorithm</b>, published by Evgeny ... <br>\nTheodore A. Kilgore, Carl <b>de Boor</b>, and Allan Pinkus proved that there exists a&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Remez_algorithm", 
+            "cacheId": "5CDdf-mazHMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Smoothing spline - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Smoothing spline - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Smoothing_spline", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Smoothing_spline", 
+            "snippet": "1 Definition; 2 Derivation of the smoothing spline; 3 De Boor's approach .... If we \nplan to use this algorithm for random points in a multidimensional space we\u00a0...", 
+            "htmlSnippet": "1 Definition; 2 Derivation of the smoothing spline; 3 <b>De Boor&#39;s</b> approach .... If we <br>\nplan to use this <b>algorithm</b> for random points in a multidimensional space we&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Smoothing_spline", 
+            "cacheId": "xNtgOysusIkJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Paul de Casteljau - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Paul <b>de</b> Casteljau - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Paul_de_Casteljau", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Paul_<b>de</b>_Casteljau", 
+            "snippet": "De Casteljau's algorithm is widely used, with some modifications, as it is the most \n... for polynomials \"de Casteljau algorithm\" although it is Carl de Boor's more\u00a0...", 
+            "htmlSnippet": "De Casteljau&#39;s <b>algorithm</b> is widely used, with some modifications, as it is the most <br>\n... for polynomials &quot;de Casteljau <b>algorithm</b>&quot; although it is Carl <b>de Boor&#39;s</b> more&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Paul_de_Casteljau", 
+            "cacheId": "p1emsXvVrh8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Horner's method - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Horner&#39;s method - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Horner's_method", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Horner&#39;s_method", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "132", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFZNb5qAzXZmAkS1nxO9k0Q8YKNFEntoUfnN6-U8qP-VB_qAs7aF8WHQ", 
+                        "height": "92"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/math/1/e/b/1ebe85eb90c3aae646da9c1c28b6c80d.png"
+                    }
+                ]
+            }, 
+            "snippet": "Main article: multiplication algorithm \u00a7 Shift and add ..... It is questionable to what \nextent it was De Morgan's advocacy of Horner's priority in discovery ... Clenshaw \nalgorithm to evaluate polynomials in Chebyshev form \u00b7 De Boor's algorithm to\u00a0...", 
+            "htmlSnippet": "Main article: multiplication algorithm \u00a7 Shift and add ..... It is questionable to what <br>\nextent it was De Morgan&#39;s advocacy of Horner&#39;s priority in discovery ... Clenshaw <br>\nalgorithm to evaluate polynomials in Chebyshev form &middot; <b>De Boor&#39;s algorithm</b> to&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Horner's_method", 
+            "cacheId": "O6pRX_JYtnwJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - De Boor algorithm", 
+                "safe": "off", 
+                "searchTerms": "De Boor algorithm", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "96"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - De Boor algorithm", 
+                "safe": "off", 
+                "searchTerms": "De Boor algorithm", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "96"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.21", 
+        "formattedTotalResults": "96", 
+        "totalResults": "96", 
+        "searchTime": 0.211763
+    }
+}

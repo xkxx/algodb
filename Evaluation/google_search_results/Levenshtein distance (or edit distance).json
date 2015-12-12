@@ -1,0 +1,207 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Levenshtein distance - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Levenshtein distance</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Levenshtein_distance", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Levenshtein</b>_<b>distance</b>", 
+            "snippet": "[edit]. Main article: Edit distance. There are other popular measures of edit \ndistance, which are\u00a0...", 
+            "htmlSnippet": "[edit]. Main article: <b>Edit distance</b>. There are other popular measures of <b>edit</b> <br>\n<b>distance</b>, which are&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Levenshtein_distance", 
+            "cacheId": "AKVmfvoXuxIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Edit distance - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Edit distance</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Edit_distance", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Edit</b>_<b>distance</b>", 
+            "snippet": "Several definitions of edit distance exist, using different sets of string operations. \nOne of the most common variants is called Levenshtein distance, named after\u00a0...", 
+            "htmlSnippet": "Several definitions of <b>edit distance</b> exist, using different sets of string operations. <br>\nOne of the most common variants is called <b>Levenshtein distance</b>, named after&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Edit_distance", 
+            "cacheId": "xnfjHTUt9pkJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Damerau\u2013Levenshtein distance - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Damerau\u2013<b>Levenshtein distance</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Damerau\u2013Levenshtein_distance", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Damerau\u2013<b>Levenshtein</b>_<b>distance</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "407", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNB5FWZRH1Qd8MZtvgGHnPy-2erOcdWTh0f2KHjXMKrhTjtQjB3TMpq6g", 
+                        "height": "124"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/math/4/e/9/4e9f6fb468fd977d50b773ccbafb5ff9.png"
+                    }
+                ]
+            }, 
+            "snippet": "Damerau's paper considered only misspellings that could be corrected with at \nmost one edit operation. The Damerau\u2013Levenshtein distance differs from the\u00a0...", 
+            "htmlSnippet": "Damerau&#39;s paper considered only misspellings that could be corrected with at <br>\nmost one <b>edit</b> operation. The Damerau\u2013<b>Levenshtein distance</b> differs from the&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Damerau%E2%80%93Levenshtein_distance", 
+            "cacheId": "-B_TK1y_ug0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Wagner\u2013Fischer algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Wagner\u2013Fischer algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Wagner\u2013Fischer_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Wagner\u2013Fischer_algorithm", 
+            "snippet": "A notable omission from the Navarro list is the 1965 paper by Levenshtein: ... The \nWagner\u2013Fischer algorithm computes edit distance based on the observation\u00a0...", 
+            "htmlSnippet": "A notable omission from the Navarro list is the 1965 paper by <b>Levenshtein</b>: ... The <br>\nWagner\u2013Fischer algorithm computes <b>edit distance</b> based on the observation&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Wagner%E2%80%93Fischer_algorithm", 
+            "cacheId": "_FX6p3dOXAcJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Levenshtein automaton - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Levenshtein</b> automaton - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Levenshtein_automaton", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Levenshtein</b>_automaton", 
+            "snippet": "In computer science, a Levenshtein automaton for a string w and a number n is a \n... that can recognize the set of all strings whose Levenshtein distance from w is \nat ... finite state transducers implementing edit distance one, then compose these\n\u00a0...", 
+            "htmlSnippet": "In computer science, a Levenshtein automaton for a string w and a number n is a <br>\n... that can recognize the set of all strings whose <b>Levenshtein distance</b> from w is <br>\nat ... finite state transducers implementing <b>edit distance</b> one, then compose these<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Levenshtein_automaton", 
+            "cacheId": "zBrC7kE2wJIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "String metric - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "String metric - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/String_metric", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/String_metric", 
+            "snippet": "The most widely known string metric is a rudimentary one called the Levenshtein \nDistance (also known as Edit Distance). It operates between two input strings,\u00a0...", 
+            "htmlSnippet": "The most widely known string metric is a rudimentary one called the <b>Levenshtein</b> <br>\n<b>Distance</b> (also known as <b>Edit Distance</b>). It operates between two input strings,&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/String_metric", 
+            "cacheId": "X2SqktKpCpYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Hamming distance - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Hamming <b>distance</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Hamming_distance", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Hamming_<b>distance</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "112", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQYXCvVrcFUgten38b0Bk7fK_d_LRSsZDDZF0cyI7b27fFx_ru3a7m1", 
+                        "height": "88"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Hamming_distance_3_bit_binary.svg/140px-Hamming_distance_3_bit_binary.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "In information theory, the Hamming distance between two strings of equal ... the \nminimum number of substitutions required to change one string into the other, .... \na more sophisticated metric like the Levenshtein distance is more appropriate.", 
+            "htmlSnippet": "In information theory, the Hamming <b>distance</b> between two strings of equal ... the <br>\nminimum number of substitutions required to <b>change</b> one string into the other, .... <br>\na more sophisticated metric like the <b>Levenshtein distance</b> is more appropriate.", 
+            "link": "https://en.wikipedia.org/wiki/Hamming_distance", 
+            "cacheId": "zMeNKY4YR5oJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Levenstein - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Levenstein - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Levenstein", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Levenstein", 
+            "snippet": "Levenshtein distance, a metric for comparing two strings or words ... this page, \nyou may wish to change that link by adding the person's given name(s) to the link\n.", 
+            "htmlSnippet": "<b>Levenshtein distance</b>, a metric for comparing two strings or words ... this page, <br>\nyou may wish to <b>change</b> that link by adding the person&#39;s given name(s) to the link<br>\n.", 
+            "link": "https://en.wikipedia.org/wiki/Levenstein", 
+            "cacheId": "C8gWDhXVDaUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Vladimir Levenshtein - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Vladimir <b>Levenshtein</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Vladimir_Levenshtein", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Vladimir_<b>Levenshtein</b>", 
+            "pagemap": {
+                "hcard": [
+                    {
+                        "bday": "1935-05-20", 
+                        "category": "Mathematics", 
+                        "fn": "Vladimir Levenshtein"
+                    }
+                ]
+            }, 
+            "snippet": "Among other contributions, he is known for the Levenshtein distance and a \nLevenshtein algorithm, which he developed in 1965. ... of error-correcting codes \nand information theory, including the Levenshtein distance\u201d. ... Publications[edit].", 
+            "htmlSnippet": "Among other contributions, he is known for the <b>Levenshtein distance</b> and a <br>\nLevenshtein algorithm, which he developed in 1965. ... of error-correcting codes <br>\nand information theory, including the <b>Levenshtein distance</b>\u201d. ... Publications[<b>edit</b>].", 
+            "link": "https://en.wikipedia.org/wiki/Vladimir_Levenshtein", 
+            "cacheId": "BMyXPtoNn5MJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Jaro\u2013Winkler distance - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Jaro\u2013Winkler <b>distance</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Jaro\u2013Winkler_distance", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Jaro\u2013Winkler_<b>distance</b>", 
+            "snippet": "It is a variant of the Jaro distance metric (Jaro, 1989, 1995), a type of string edit \ndistance, and was developed in the area of record linkage (duplicate detection)\u00a0...", 
+            "htmlSnippet": "It is a variant of the Jaro <b>distance</b> metric (Jaro, 1989, 1995), a type of string <b>edit</b> <br>\n<b>distance</b>, and was developed in the area of record linkage (duplicate detection)&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Jaro%E2%80%93Winkler_distance", 
+            "cacheId": "fsj3Vb5Y_RoJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Levenshtein distance (or edit distance)", 
+                "safe": "off", 
+                "searchTerms": "Levenshtein distance (or edit distance)", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "291"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Levenshtein distance (or edit distance)", 
+                "safe": "off", 
+                "searchTerms": "Levenshtein distance (or edit distance)", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "291"
+            }
+        ]
+    }, 
+    "spelling": {
+        "correctedQuery": "Levenshtein distance (vs edit distance)", 
+        "htmlCorrectedQuery": "Levenshtein distance (<b><i>vs</i></b> edit distance)"
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.27", 
+        "formattedTotalResults": "291", 
+        "totalResults": "291", 
+        "searchTime": 0.27137
+    }
+}

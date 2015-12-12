@@ -1,0 +1,180 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Boyer\u2013Moore string search algorithm - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Boyer</b>\u2013<b>Moore string search</b> algorithm - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Boyer\u2013Moore_string_search_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Boyer</b>\u2013<b>Moore</b>_<b>string</b>_<b>search</b>_algorithm", 
+            "snippet": "In computer science, the Boyer\u2013Moore string search algorithm is an efficient \nstring searching algorithm that is the standard benchmark for practical string \nsearch\u00a0...", 
+            "htmlSnippet": "In computer science, the <b>Boyer</b>\u2013<b>Moore string search</b> algorithm is an efficient <br>\nstring searching algorithm that is the standard benchmark for practical string <br>\nsearch&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Boyer%E2%80%93Moore_string_search_algorithm", 
+            "cacheId": "u-_rEDhaRi4J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Boyer\u2013Moore\u2013Horspool algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Boyer</b>\u2013<b>Moore</b>\u2013Horspool algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Boyer\u2013Moore\u2013Horspool_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Boyer</b>\u2013<b>Moore</b>\u2013Horspool_algorithm", 
+            "snippet": "It is a simplification of the Boyer\u2013Moore string search algorithm which is related to \nthe Knuth\u2013Morris\u2013Pratt algorithm. The algorithm trades space for time in order\u00a0...", 
+            "htmlSnippet": "It is a simplification of the <b>Boyer</b>\u2013<b>Moore string search</b> algorithm which is related to <br>\nthe Knuth\u2013Morris\u2013Pratt algorithm. The algorithm trades space for time in order&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Boyer%E2%80%93Moore%E2%80%93Horspool_algorithm", 
+            "cacheId": "vKJK5xR-B8cJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Boyer\u2013Moore - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Boyer</b>\u2013<b>Moore</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Boyer\u2013Moore", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Boyer</b>\u2013<b>Moore</b>", 
+            "snippet": "Boyer\u2013Moore string search algorithm \u00b7 Boyer\u2013Moore theorem prover ... This \ndisambiguation page lists articles associated with the title Boyer\u2013Moore.", 
+            "htmlSnippet": "<b>Boyer</b>\u2013<b>Moore string search</b> algorithm &middot; Boyer\u2013Moore theorem prover ... This <br>\ndisambiguation page lists articles associated with the title Boyer\u2013Moore.", 
+            "link": "https://en.wikipedia.org/wiki/Boyer%E2%80%93Moore", 
+            "cacheId": "6fNDmdk3Mw4J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "String searching algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>String searching</b> algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/String_searching_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>String</b>_<b>searching</b>_algorithm", 
+            "snippet": "In computer science, string searching algorithms, sometimes called string ... The \nBoyer\u2013Moore string search algorithm has been the standard benchmark for the\u00a0...", 
+            "htmlSnippet": "In computer science, string searching algorithms, sometimes called string ... The <br>\n<b>Boyer</b>\u2013<b>Moore string search</b> algorithm has been the standard benchmark for the&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/String_searching_algorithm", 
+            "cacheId": "Mwandf8I27sJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Rabin\u2013Karp algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Rabin\u2013Karp algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Rabin\u2013Karp_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Rabin\u2013Karp_algorithm", 
+            "snippet": "In contrast, the Aho\u2013Corasick string matching algorithm has asymptotic ... once; \nthe Boyer\u2013Moore algorithm skips forward not by 1 character, but by as many as\u00a0...", 
+            "htmlSnippet": "In contrast, the Aho\u2013Corasick <b>string matching</b> algorithm has asymptotic ... once; <br>\nthe <b>Boyer</b>\u2013<b>Moore</b> algorithm skips forward not by 1 character, but by as many as&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Rabin%E2%80%93Karp_algorithm", 
+            "cacheId": "NDuY4vmUi4UJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Apostolico\u2013Giancarlo algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Apostolico\u2013Giancarlo algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Apostolico\u2013Giancarlo_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Apostolico\u2013Giancarlo_algorithm", 
+            "snippet": "In computer science, the Apostolico\u2013Giancarlo algorithm is a variant of the Boyer\n\u2013Moore string search algorithm, the basic application of which is searching for\u00a0...", 
+            "htmlSnippet": "In computer science, the Apostolico\u2013Giancarlo algorithm is a variant of the <b>Boyer</b><br>\n\u2013<b>Moore string search</b> algorithm, the basic application of which is searching for&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Apostolico%E2%80%93Giancarlo_algorithm", 
+            "cacheId": "61CsZIRKX3cJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "J Strother Moore - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "J Strother <b>Moore</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/J_Strother_Moore", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/J_Strother_<b>Moore</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQFG5ND8FnMqG6F0l4cf9pFBdDi1VNWwA_tCdfozLAUE2DaCA43JtiW7xk", 
+                        "height": "119"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/J_Strother_Moore_FLoC_2006.jpg/220px-J_Strother_Moore_FLoC_2006.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "J Strother Moore (his first name is the alphabetic character \"J\" \u2013 not an ... of the \nworkings of the Boyer\u2013Moore string search algorithm is given in Moore's website.", 
+            "htmlSnippet": "J Strother Moore (his first name is the alphabetic character &quot;J&quot; \u2013 not an ... of the <br>\nworkings of the <b>Boyer</b>\u2013<b>Moore string search</b> algorithm is given in Moore&#39;s website.", 
+            "link": "https://en.wikipedia.org/wiki/J_Strother_Moore", 
+            "cacheId": "ZDeXJNf_NEgJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Boyer\u2013Moore string search algorithm - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Boyer</b>\u2013<b>Moore string search</b> algorithm - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../Talk%3ABoyer\u2013Moore_string_search_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Talk%3A<b>Boyer</b>\u2013<b>Moore</b>_<b>string</b>_<b>search</b>_algorithm", 
+            "snippet": "GO80 is A new proof of the linearity of the Boyer-Moore string searching \nalgorithm, SIAM Journal of Computing 9 (1980) p672-682. And when I expanded \nthe\u00a0...", 
+            "htmlSnippet": "GO80 is A new proof of the linearity of the <b>Boyer</b>-<b>Moore string searching</b> <br>\nalgorithm, SIAM Journal of Computing 9 (1980) p672-682. And when I expanded <br>\nthe&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3ABoyer%E2%80%93Moore_string_search_algorithm", 
+            "cacheId": "Xz5Dzrd-vvEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Raita Algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Raita Algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Raita_Algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Raita_Algorithm", 
+            "snippet": "In computer science, the Raita algorithm is a string searching algorithm which \nimproves the performance of Boyer-Moore-Horspool algorithm. This algorithm\u00a0...", 
+            "htmlSnippet": "In computer science, the Raita algorithm is a <b>string searching</b> algorithm which <br>\nimproves the performance of <b>Boyer</b>-<b>Moore</b>-Horspool algorithm. This algorithm&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Raita_Algorithm", 
+            "cacheId": "zA2LDSZGHYsJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Commentz-Walter algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Commentz-Walter algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Commentz-Walter_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Commentz-Walter_algorithm", 
+            "snippet": "It combines ideas from Aho\u2013Corasick with the fast matching of the Boyer\u2013Moore \nstring search algorithm. For a text of length n and maximum pattern length of m,\u00a0...", 
+            "htmlSnippet": "It combines ideas from Aho\u2013Corasick with the fast matching of the <b>Boyer</b>\u2013<b>Moore</b> <br>\n<b>string search</b> algorithm. For a text of length n and maximum pattern length of m,&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Commentz-Walter_algorithm", 
+            "cacheId": "LbFzPr_ejcMJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Boyer-Moore string search", 
+                "safe": "off", 
+                "searchTerms": "Boyer-Moore string search", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "296"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Boyer-Moore string search", 
+                "safe": "off", 
+                "searchTerms": "Boyer-Moore string search", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "296"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.26", 
+        "formattedTotalResults": "296", 
+        "totalResults": "296", 
+        "searchTime": 0.263709
+    }
+}

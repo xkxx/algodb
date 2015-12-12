@@ -1,0 +1,292 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Celestial navigation - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Celestial</b> navigation - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Celestial_navigation", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Celestial</b>_navigation", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "215", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTrl0giTIBfdveCOprSHaBwqjseusuXv9iIg7ayXowoUiqNalskHmg3Y48u", 
+                        "height": "234"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Marine_sextant.svg/300px-Marine_sextant.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "The sun is most commonly used, but navigators can also use the moon, a planet \nor ... celestial bodies and the visible horizon to locate one's position on the globe, \non ... (Two other common methods for determining one's position using celestial\u00a0...", 
+            "htmlSnippet": "The sun is most commonly used, but navigators can also use the <b>moon</b>, a planet <br>\nor ... <b>celestial bodies</b> and the visible horizon to locate one&#39;s <b>position</b> on the globe, <br>\non ... (Two <b>other</b> common methods for determining one&#39;s <b>position</b> using celestial&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Celestial_navigation", 
+            "cacheId": "iX_8J1TRSyEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Astrology - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Astrology - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Astrology", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Astrology", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "216", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiwX2lV-iw3K0XHSaKJuE7mDToeIsFgBquYRJ9jlW2-A3TJ3hMkmkLEO4", 
+                        "height": "216"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Venice_ast_sm.jpg/270px-Venice_ast_sm.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "Not to be confused with Astronomy, the scientific study of celestial objects. .... \ntheir life based on the positions of the sun, moon, and other celestial objects at \nthe\u00a0...", 
+            "htmlSnippet": "Not to be confused with Astronomy, the scientific study of <b>celestial objects</b>. .... <br>\ntheir life based on the <b>positions</b> of the sun, <b>moon</b>, and <b>other celestial objects</b> at <br>\nthe&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Astrology", 
+            "cacheId": "rEWjgAssJe0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Astronomy - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Astronomy - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Astronomy", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Astronomy", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcStCFQ9OnCJMvHSEPXoybLQM6b2lyt6i9M6ooqCXtf6Uemv6VPTRgo6qjc", 
+                        "height": "188"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/LH_95.jpg/220px-LH_95.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "Astronomy, a natural science, is the study of celestial objects (such as stars, ... \nThe two fields complement each other, with theoretical astronomy seeking to ..... \nof the positions of the Sun, Moon, planets and stars has been essential in \ncelestial\u00a0...", 
+            "htmlSnippet": "Astronomy, a natural science, is the study of <b>celestial objects</b> (such as stars, ... <br>\nThe two fields complement each <b>other</b>, with theoretical astronomy seeking to ..... <br>\nof the <b>positions</b> of the Sun, <b>Moon</b>, planets and stars has been essential in <br>\ncelestial&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Astronomy", 
+            "cacheId": "_fbS8IZvIc0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Celestial coordinate system - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Celestial</b> coordinate system - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Celestial_coordinate_system", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Celestial</b>_coordinate_system", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "200", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRN6_SQ8-XEHDy1IUFAhTo_X8sgDg6JUCZN22bjdewNvOPH3svWdXPhUh6g", 
+                        "height": "203"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Ecliptic_equator_galactic_anim.gif/250px-Ecliptic_equator_galactic_anim.gif"
+                    }
+                ]
+            }, 
+            "snippet": "The horizontal, or altitude-azimuth, system is based on the position of the \nobserver ... Celestial objects are found by adjusting the telescope's or other \ninstrument's ... still useful for computing the apparent motions of the Sun, Moon, \nand planets.", 
+            "htmlSnippet": "The horizontal, or altitude-azimuth, system is based on the <b>position</b> of the <br>\nobserver ... <b>Celestial objects</b> are found by adjusting the telescope&#39;s or <b>other</b> <br>\ninstrument&#39;s ... still useful for computing the apparent motions of the Sun, <b>Moon</b>, <br>\nand planets.", 
+            "link": "https://en.wikipedia.org/wiki/Celestial_coordinate_system", 
+            "cacheId": "-8wfIzfJxcsJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Natal chart - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Natal chart - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Natal_chart", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Natal_chart", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "200", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7k2LtKTDSXJASjV_He1Q71Xh669ipigR7evucqDb2xOFaT3TGtE2ciqO6", 
+                        "height": "181"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Astrological_Chart_-_New_Millennium.JPG/250px-Astrological_Chart_-_New_Millennium.JPG"
+                    }
+                ]
+            }, 
+            "snippet": "The chart shows the positions of the sun, moon, planets, and potentially other \ncelestial objects, all referred to as the native's \"planets,\" within the frames of\u00a0...", 
+            "htmlSnippet": "The chart shows the <b>positions</b> of the sun, <b>moon</b>, planets, and potentially <b>other</b> <br>\n<b>celestial objects</b>, all referred to as the native&#39;s &quot;planets,&quot; within the frames of&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Natal_chart", 
+            "cacheId": "cG1n-sEddaQJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Parallax - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Parallax - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Parallax", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Parallax", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "240", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSYtoZICheY5lEv6YcW9FaaRbGsg5OEsEkjVgsI3quXF3J4y6FDouHp1mo", 
+                        "height": "172"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Parallax_Example.svg/300px-Parallax_Example.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "Parallax is a displacement or difference in the apparent position of an object \nviewed along ... to celestial objects, serving as a basis for other distance \nmeasurements in .... The lunar (horizontal) parallax can alternatively be defined \nas the angle\u00a0...", 
+            "htmlSnippet": "Parallax is a displacement or difference in the apparent <b>position</b> of an object <br>\nviewed along ... to <b>celestial objects</b>, serving as a basis for <b>other</b> distance <br>\nmeasurements in .... The <b>lunar</b> (horizontal) parallax can alternatively be defined <br>\nas the angle&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Parallax", 
+            "cacheId": "pczmjNYH9h8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Celestial mechanics - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Celestial</b> mechanics - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Celestial_mechanics", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Celestial</b>_mechanics", 
+            "snippet": "For other uses of \"Celestial\", see Celestial (disambiguation). ... there was little \nconnection between exact, quantitative prediction of planetary positions, ... idea \nthat the motion of objects in the heavens, such as planets, the Sun, and the Moon\n,\u00a0...", 
+            "htmlSnippet": "For <b>other</b> uses of &quot;<b>Celestial</b>&quot;, see <b>Celestial</b> (disambiguation). ... there was little <br>\nconnection between exact, quantitative prediction of planetary <b>positions</b>, ... idea <br>\nthat the motion of <b>objects</b> in the heavens, such as planets, the Sun, and the <b>Moon</b><br>\n,&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Celestial_mechanics", 
+            "cacheId": "5B7R9TtIqf0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Ecliptic - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Ecliptic - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Ecliptic", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Ecliptic", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "232", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRi4HTl1CGaa6bePTVDcaVSYnLj4WaoOaeN76sbEi8VSDaFy1Rn0rbySII", 
+                        "height": "123"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Ecliptic_with_earth_and_sun_animation.gif/290px-Ecliptic_with_earth_and_sun_animation.gif"
+                    }
+                ]
+            }, 
+            "snippet": "The ecliptic is the apparent path of the Sun on the celestial sphere, and is the \nbasis for ... by the other planets of the Solar System, the Earth-Moon barycenter \nwobbles ... This small difference in the Sun's position against the stars causes \nany ... The gravitational perturbations of the other bodies of the Solar System \ncause a\u00a0...", 
+            "htmlSnippet": "The ecliptic is the apparent path of the Sun on the <b>celestial</b> sphere, and is the <br>\nbasis for ... by the <b>other</b> planets of the Solar System, the Earth-<b>Moon</b> barycenter <br>\nwobbles ... This small difference in the Sun&#39;s <b>position</b> against the stars causes <br>\nany ... The gravitational perturbations of the <b>other bodies</b> of the Solar System <br>\ncause a&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Ecliptic", 
+            "cacheId": "XPosNL5WWpMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Celestial sphere - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Celestial</b> sphere - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Celestial_sphere", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Celestial</b>_sphere", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "160", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRslpTNxX-Vf8NtHGpfv6Bc8QZzZ1RjCwN7YsiqqfyXqxjHC7rdUBxpSwc", 
+                        "height": "160"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Earth_within_celestial_sphere.gif/200px-Earth_within_celestial_sphere.gif"
+                    }
+                ]
+            }, 
+            "snippet": "For other uses, see Celestial (disambiguation). ... Because astronomical objects \nare at such remote distances, casual observation of the sky ... the Moon) will \nseem to change position against the distant celestial sphere if the observer \nmoves far\u00a0...", 
+            "htmlSnippet": "For <b>other</b> uses, see Celestial (disambiguation). ... Because <b>astronomical objects</b> <br>\nare at such remote distances, casual observation of the sky ... the <b>Moon</b>) will <br>\nseem to change <b>position</b> against the distant celestial sphere if the observer <br>\nmoves far&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Celestial_sphere", 
+            "cacheId": "3k7EgAEJyBMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Night sky - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Night sky - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Night_sky", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Night_sky", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS0khAeRlg6Y6nn-sdNUhaLcQEfXtwlVyWDn_eZqL3UFm98RKlYf4Ch1puh", 
+                        "height": "150"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Moonfromoakland04052006.jpg/220px-Moonfromoakland04052006.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "The visibility of celestial objects in the night sky is affected by light pollution. ... 2.2 \nPlanets; 2.3 The Moon; 2.4 Comets; 2.5 Clouds; 2.6 Other objects. 3 See also\u00a0...", 
+            "htmlSnippet": "The visibility of <b>celestial objects</b> in the night sky is affected by light pollution. ... 2.2 <br>\nPlanets; 2.3 The <b>Moon</b>; 2.4 Comets; 2.5 Clouds; 2.6 <b>Other</b> objects. 3 See also&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Night_sky", 
+            "cacheId": "dnJ4f_ofDTQJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Positions of Moon or other celestial objects", 
+                "safe": "off", 
+                "searchTerms": "Positions of Moon or other celestial objects", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "71900"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Positions of Moon or other celestial objects", 
+                "safe": "off", 
+                "searchTerms": "Positions of Moon or other celestial objects", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "71900"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.34", 
+        "formattedTotalResults": "71,900", 
+        "totalResults": "71900", 
+        "searchTime": 0.335327
+    }
+}

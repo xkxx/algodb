@@ -1,0 +1,260 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Inside, Outside (Herman Wouk novel) - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Inside</b>, <b>Outside</b> (Herman Wouk novel) - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../Inside,_Outside_(Herman_Wouk_novel)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../<b>Inside</b>,_<b>Outside</b>_(Herman_Wouk_novel)", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT6rsBIlcwM3qFsNgb2FtmYYzsQVKSdqei0UROX6IGF6TUfOModSSQ2vA0k", 
+                        "height": "263"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b6/InsideOutside.jpg/220px-InsideOutside.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "Inside, Outside is a 1985 Herman Wouk novel telling the story of four generations \nof a Russian Jewish family and its travails in Russia and America. The book is\u00a0...", 
+            "htmlSnippet": "<b>Inside</b>, <b>Outside</b> is a 1985 Herman Wouk novel telling the story of four generations <br>\nof a Russian Jewish family and its travails in Russia and America. The book is&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Inside,_Outside_(Herman_Wouk_novel)", 
+            "cacheId": "GxnMlxqt0fkJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Outside Inside (The Tubes album) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Outside Inside</b> (The Tubes album) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Outside_Inside_(The_Tubes_album)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Outside</b>_<b>Inside</b>_(The_Tubes_album)", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "160", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSmhKqPVhbnxOVotjWFUfk7z37U6pd-xIiEFTp9CncD3-YMPZDCKM_F3Yk", 
+                        "height": "160"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/c/c8/The_Tubes_Outside_Inside.jpg"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "fn": "The Tubes"
+                    }
+                ]
+            }, 
+            "snippet": "Outside Inside is a 1983 release on Capitol Records by The Tubes. The album \nwas produced by David Foster. The Tubes had their biggest radio hit with the\u00a0...", 
+            "htmlSnippet": "<b>Outside Inside</b> is a 1983 release on Capitol Records by The Tubes. The album <br>\nwas produced by David Foster. The Tubes had their biggest radio hit with the&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Outside_Inside_(The_Tubes_album)", 
+            "cacheId": "mY4Zh4CTd8gJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Inside\u2013outside algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Inside</b>\u2013<b>outside</b> algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Inside\u2013outside_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Inside</b>\u2013<b>outside</b>_algorithm", 
+            "snippet": "In computer science, the inside\u2013outside algorithm is a way of re-estimating \nproduction probabilities in a probabilistic context-free grammar. It was introduced\n\u00a0...", 
+            "htmlSnippet": "In computer science, the <b>inside</b>\u2013<b>outside</b> algorithm is a way of re-estimating <br>\nproduction probabilities in a probabilistic context-free grammar. It was introduced<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Inside%E2%80%93outside_algorithm", 
+            "cacheId": "i54aAWzppssJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Inside Outside (novel) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Inside Outside</b> (novel) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Inside_Outside_(novel)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Inside</b>_<b>Outside</b>_(novel)", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "174", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQBSzhors2DzAxSO7dASESxn1WrYhSI3T1xzKnK53-Y3ZsxoRH0TOS9-4yO", 
+                        "height": "290"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/1/16/InsideOutsideFarmer.jpg/220px-InsideOutsideFarmer.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "Inside Outside is an American fantasy novel written by Philip Jos\u00e9 Farmer. \nOriginally released in 1964, the novel explores the question of what happens \nbefore\u00a0...", 
+            "htmlSnippet": "<b>Inside Outside</b> is an American fantasy novel written by Philip Jos\u00e9 Farmer. <br>\nOriginally released in 1964, the novel explores the question of what happens <br>\nbefore&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Inside_Outside_(novel)", 
+            "cacheId": "HB32BNzh-MQJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Inside Outside Beginning - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Inside Outside</b> Beginning - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Inside_Outside_Beginning", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Inside</b>_<b>Outside</b>_Beginning", 
+            "snippet": "The IOB format (short for Inside, Outside, Beginning) is a common tagging format \nfor tagging tokens in a chunking task in computational linguistics (ex.", 
+            "htmlSnippet": "The IOB format (short for <b>Inside</b>, <b>Outside</b>, Beginning) is a common tagging format <br>\nfor tagging tokens in a chunking task in computational linguistics (ex.", 
+            "link": "https://en.wikipedia.org/wiki/Inside_Outside_Beginning", 
+            "cacheId": "2Ac08yz6bisJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Outside Inside (The String Cheese Incident album) - Wikipedia, the ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Outside Inside</b> (The String Cheese Incident album) - Wikipedia, the <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../Outside_Inside_(The_String_Cheese_Incident_ album)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../<b>Outside</b>_<b>Inside</b>_(The_String_Cheese_Incident_ album)", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSjVfjuYNSh9eK9d7S8wG1i5lEtmCJd7xhkU4J27x0Ur6Aa2TUl7-rwevLf", 
+                        "height": "176"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/8/83/Scicdoutsideinside.jpg/220px-Scicdoutsideinside.jpg"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "fn": "The String Cheese Incident"
+                    }
+                ]
+            }, 
+            "snippet": "Outside Inside is the fifth release and third studio album of Colorado-based Jam \nband, The String Cheese Incident. Released in 2001, this album marked a shift\u00a0...", 
+            "htmlSnippet": "<b>Outside Inside</b> is the fifth release and third studio album of Colorado-based Jam <br>\nband, The String Cheese Incident. Released in 2001, this album marked a shift&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Outside_Inside_(The_String_Cheese_Incident_album)", 
+            "cacheId": "B5YYN1q9fMgJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Inside/outside - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Inside</b>/<b>outside</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Inside/outside", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Inside</b>/<b>outside</b>", 
+            "snippet": "The inside/outside model of political reform is the organizing method/philosophy \nbeing used by the Progressive Democrats of America in its efforts to change the\u00a0...", 
+            "htmlSnippet": "The <b>inside</b>/<b>outside</b> model of political reform is the organizing method/philosophy <br>\nbeing used by the Progressive Democrats of America in its efforts to change the&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Inside/outside", 
+            "cacheId": "c_HWSwcD_4sJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Inside Outside (Petra Blaisse) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Inside Outside</b> (Petra Blaisse) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Inside_Outside_(Petra_Blaisse)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Inside</b>_<b>Outside</b>_(Petra_Blaisse)", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy58kp3rCJkdkasVbUhgGUAeWTCKKmqUwRRLtMYWBrfaei3CJP-nGKvNo", 
+                        "height": "132"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Casa-da-musica(interior).1024.jpg/220px-Casa-da-musica(interior).1024.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "Inside Outside was founded by Dutch designer Petra Blaisse in 1991. The firm \ncombine expertise in various fields including landscape architecture, textile\u00a0...", 
+            "htmlSnippet": "<b>Inside Outside</b> was founded by Dutch designer Petra Blaisse in 1991. The firm <br>\ncombine expertise in various fields including landscape architecture, textile&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Inside_Outside_(Petra_Blaisse)", 
+            "cacheId": "jAz2U0e0qDQJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Valerie Inside Outside - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Valerie <b>Inside Outside</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Valerie_Inside_Outside", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Valerie_<b>Inside</b>_<b>Outside</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR0Jfd0fkOYOTJp6ANaQxbMWv_Ogeyrur9QaT9BF-AJ77czMF51JWWQKY0", 
+                        "height": "239"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/Valerie_Inside_Outside.jpg/220px-Valerie_Inside_Outside.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "Release dates. 1972. Language, Italian. Valerie Inside Outside (Italian: Valeria \ndentro e fuori) is a 1972 Italian drama film written and directed by Brunello Rondi.", 
+            "htmlSnippet": "Release dates. 1972. Language, Italian. Valerie <b>Inside Outside</b> (Italian: Valeria <br>\ndentro e fuori) is a 1972 Italian drama film written and directed by Brunello Rondi.", 
+            "link": "https://en.wikipedia.org/wiki/Valerie_Inside_Outside", 
+            "cacheId": "sFEiyouxyIgJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Inside Outside - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Inside Outside</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Inside_Outside", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Inside</b>_<b>Outside</b>", 
+            "snippet": "Inside Outside may refer to: ... Inside-outside test, a test used in computer \ngraphics to determine if a point is inside or outside of a polygon; Inside Outside (\nPetra\u00a0...", 
+            "htmlSnippet": "<b>Inside Outside</b> may refer to: ... <b>Inside</b>-<b>outside</b> test, a test used in computer <br>\ngraphics to determine if a point is inside or outside of a polygon; <b>Inside Outside</b> (<br>\nPetra&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Inside_Outside", 
+            "cacheId": "ixNjYwzOInMJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Inside-outside", 
+                "safe": "off", 
+                "searchTerms": "Inside-outside", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "140000"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Inside-outside", 
+                "safe": "off", 
+                "searchTerms": "Inside-outside", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "140000"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.32", 
+        "formattedTotalResults": "140,000", 
+        "totalResults": "140000", 
+        "searchTime": 0.3159
+    }
+}

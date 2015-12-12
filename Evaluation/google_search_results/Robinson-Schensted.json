@@ -1,0 +1,208 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Robinson\u2013Schensted correspondence - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Robinson</b>\u2013<b>Schensted</b> correspondence - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Robinson\u2013Schensted_correspondence", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Robinson</b>\u2013<b>Schensted</b>_correspondence", 
+            "snippet": "In mathematics, the Robinson\u2013Schensted correspondence is a bijective \ncorrespondence between permutations and pairs of standard Young tableaux of \nthe\u00a0...", 
+            "htmlSnippet": "In mathematics, the <b>Robinson</b>\u2013<b>Schensted</b> correspondence is a bijective <br>\ncorrespondence between permutations and pairs of standard Young tableaux of <br>\nthe&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Robinson%E2%80%93Schensted_correspondence", 
+            "cacheId": "0VfYj4GWJQgJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Robinson\u2013Schensted\u2013Knuth correspondence - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Robinson</b>\u2013<b>Schensted</b>\u2013Knuth correspondence - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../Robinson\u2013Schensted\u2013Knuth_correspondence", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../<b>Robinson</b>\u2013<b>Schensted</b>\u2013Knuth_correspondence", 
+            "snippet": "In mathematics, the Robinson\u2013Schensted\u2013Knuth correspondence, also referred \nto as the RSK correspondence or RSK algorithm, is a combinatorial bijection\u00a0...", 
+            "htmlSnippet": "In mathematics, the <b>Robinson</b>\u2013<b>Schensted</b>\u2013Knuth correspondence, also referred <br>\nto as the RSK correspondence or RSK algorithm, is a combinatorial bijection&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Robinson%E2%80%93Schensted%E2%80%93Knuth_correspondence", 
+            "cacheId": "rViBNbHmdAwJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Robinson\u2013Schensted\u2013Knuth correspondence - Wikipedia, the ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Robinson</b>\u2013<b>Schensted</b>\u2013Knuth correspondence - Wikipedia, the <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../Talk%3ARobinson\u2013Schensted\u2013Knuth_ correspondence", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Talk%3A<b>Robinson</b>\u2013<b>Schensted</b>\u2013Knuth_ correspondence", 
+            "snippet": "This article is within the scope of WikiProject Mathematics, a collaborative effort to \nimprove the coverage of Mathematics on Wikipedia. If you would like to\u00a0...", 
+            "htmlSnippet": "This article is within the scope of WikiProject Mathematics, a collaborative effort to <br>\nimprove the coverage of Mathematics on Wikipedia. If you would like to&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3ARobinson%E2%80%93Schensted%E2%80%93Knuth_correspondence", 
+            "cacheId": "gz4_nT4k7vkJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Craige Schensted - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Craige <b>Schensted</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Craige_Schensted", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Craige_<b>Schensted</b>", 
+            "snippet": "Craige Eugene Schensted is a physicist who first formulated the insertion \nalgorithm (Schensted 1961) that defines the Robinson\u2013Schensted \ncorrespondence;\u00a0...", 
+            "htmlSnippet": "Craige Eugene Schensted is a physicist who first formulated the insertion <br>\nalgorithm (Schensted 1961) that defines the <b>Robinson</b>\u2013<b>Schensted</b> <br>\ncorrespondence;&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Craige_Schensted", 
+            "cacheId": "QtiJrGdpfGsJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "User:Kdpandit - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "User:Kdpandit - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/User:Kdpandit", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/User:Kdpandit", 
+            "snippet": "In mathematics, the Robinson-Schensted-Knuth correspondence, also referred to \nas the RSK correspondence or RSK algorithm, is a combinatorial bijection\u00a0...", 
+            "htmlSnippet": "In mathematics, the <b>Robinson</b>-<b>Schensted</b>-Knuth correspondence, also referred to <br>\nas the RSK correspondence or RSK algorithm, is a combinatorial bijection&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/User:Kdpandit", 
+            "cacheId": "u3ZJGsXRVi4J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Gilbert de Beauregard Robinson - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Gilbert de Beauregard <b>Robinson</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Gilbert_de_Beauregard_Robinson", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Gilbert_de_Beauregard_<b>Robinson</b>", 
+            "snippet": "In 1938 he formulated, in a paper studying the Littlewood\u2013Richardson rule, a \ncorrespondence that would later become known as the Robinson-Schensted\u00a0...", 
+            "htmlSnippet": "In 1938 he formulated, in a paper studying the Littlewood\u2013Richardson rule, a <br>\ncorrespondence that would later become known as the <b>Robinson</b>-<b>Schensted</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Gilbert_de_Beauregard_Robinson", 
+            "cacheId": "c3Bg2ooHXJQJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Plancherel measure - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Plancherel measure - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Plancherel_measure", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Plancherel_measure", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "131", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk-j-uhjxuDhZXZphH5MDQwZAYhz_ofh1LLynyg1E1w49zbDkc4ELQ6O0", 
+                        "height": "43"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/math/7/4/7/747103744902c21f51324b1f59267537.png"
+                    }
+                ]
+            }, 
+            "snippet": "Furthermore, from the fact that the Robinson\u2013Schensted correspondence is \nbijective it follows that the distribution of \\lambda is exactly the Plancherel \nmeasure\u00a0...", 
+            "htmlSnippet": "Furthermore, from the fact that the <b>Robinson</b>\u2013<b>Schensted</b> correspondence is <br>\nbijective it follows that the distribution of \\lambda is exactly the Plancherel <br>\nmeasure&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Plancherel_measure", 
+            "cacheId": "NnFO58SCWbQJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Viennot's geometric construction - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Viennot&#39;s geometric construction - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Viennot's_geometric_construction", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Viennot&#39;s_geometric_construction", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "225", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdU57LWIPbtufL9QpzaQPLQ4urng9LsYbm6wEYAszijJZgUND1uWWMJmY", 
+                        "height": "225"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/d/d1/ViennotAnimation.gif"
+                    }
+                ]
+            }, 
+            "snippet": "In mathematics, Viennot's geometric construction (named after Xavier G\u00e9rard \nViennot) gives a diagrammatic interpretation of the Robinson\u2013Schensted\u00a0...", 
+            "htmlSnippet": "In mathematics, Viennot&#39;s geometric construction (named after Xavier G\u00e9rard <br>\nViennot) gives a diagrammatic interpretation of the <b>Robinson</b>\u2013<b>Schensted</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Viennot's_geometric_construction", 
+            "cacheId": "0O8LlmxoejcJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Picture (mathematics) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Picture (mathematics) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Picture_(mathematics)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Picture_(mathematics)", 
+            "snippet": "... satisfying certain properties, introduced by Zelevinsky (1981) in a \ngeneralization of the Robinson\u2013Schensted correspondence and the Littlewood\u2013\nRichardson\u00a0...", 
+            "htmlSnippet": "... satisfying certain properties, introduced by Zelevinsky (1981) in a <br>\ngeneralization of the <b>Robinson</b>\u2013<b>Schensted</b> correspondence and the Littlewood\u2013<br>\nRichardson&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Picture_(mathematics)", 
+            "cacheId": "m1YOw4vB0h4J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Littlewood\u2013Richardson rule - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Littlewood\u2013Richardson rule - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Littlewood\u2013Richardson_rule", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Littlewood\u2013Richardson_rule", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRybTFT76bEY5vZoEQvzMKxhUY0EEEWvvmQkdwcGRcN0U8G-i2U2PyRpA", 
+                        "height": "107"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/3/37/LR_tableau_of_shape_(4,3,2)-(2,1)_word_112123.svg/220px-LR_tableau_of_shape_(4,3,2)-(2,1)_word_112123.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "Robinson (1938) claimed to complete their proof, but his argument had gaps, ... \nand Knuth (1970) in their work on the Robinson\u2013Schensted correspondence.", 
+            "htmlSnippet": "Robinson (1938) claimed to complete their proof, but his argument had gaps, ... <br>\nand Knuth (1970) in their work on the <b>Robinson</b>\u2013<b>Schensted</b> correspondence.", 
+            "link": "https://en.wikipedia.org/wiki/Littlewood%E2%80%93Richardson_rule", 
+            "cacheId": "prN9QHk8E1gJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Robinson-Schensted", 
+                "safe": "off", 
+                "searchTerms": "Robinson-Schensted", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "80"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Robinson-Schensted", 
+                "safe": "off", 
+                "searchTerms": "Robinson-Schensted", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "80"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.25", 
+        "formattedTotalResults": "80", 
+        "totalResults": "80", 
+        "searchTime": 0.251546
+    }
+}

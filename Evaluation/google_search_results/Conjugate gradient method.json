@@ -1,0 +1,222 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Conjugate gradient method - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Conjugate gradient method</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Conjugate_gradient_method", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Conjugate</b>_<b>gradient</b>_<b>method</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdWEbprvFAg0IOuJuzAEBZ_mVnPI1oV6632m_T8GU_ydloPNyPUZrhPn4", 
+                        "height": "261"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Conjugate_gradient_illustration.svg/220px-Conjugate_gradient_illustration.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "In mathematics, the conjugate gradient method is an algorithm for the numerical \nsolution of particular systems of linear equations, namely those whose matrix is\u00a0...", 
+            "htmlSnippet": "In mathematics, the <b>conjugate gradient method</b> is an algorithm for the numerical <br>\nsolution of particular systems of linear equations, namely those whose matrix is&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Conjugate_gradient_method", 
+            "cacheId": "kiX8RvFON9YJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Nonlinear conjugate gradient method - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Nonlinear <b>conjugate gradient method</b> - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Nonlinear_conjugate_gradient_method", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Nonlinear_<b>conjugate</b>_<b>gradient</b>_<b>method</b>", 
+            "snippet": "In numerical optimization, the nonlinear conjugate gradient method generalizes \nthe conjugate gradient method to nonlinear optimization. For a quadratic\u00a0...", 
+            "htmlSnippet": "In numerical optimization, the nonlinear <b>conjugate gradient method</b> generalizes <br>\nthe <b>conjugate gradient method</b> to nonlinear optimization. For a quadratic&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Nonlinear_conjugate_gradient_method", 
+            "cacheId": "zPaBjHOxaEAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Derivation of the conjugate gradient method - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Derivation of the <b>conjugate gradient method</b> - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../Derivation_of_the_conjugate_gradient_method", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Derivation_of_the_<b>conjugate</b>_<b>gradient</b>_<b>method</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "124", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQGaV7z363rPEajH1Low9TZvzjrE-iAEHdjVKYnErBfauYGvTAbzkADSA", 
+                        "height": "84"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/math/d/5/8/d58adbf810047c58b3e4529178048a51.png"
+                    }
+                ]
+            }, 
+            "snippet": "The conjugate gradient method can be seen as a special case of the conjugate \ndirection method applied to minimization of the quadratic function.", 
+            "htmlSnippet": "The <b>conjugate gradient method</b> can be seen as a special case of the conjugate <br>\ndirection method applied to minimization of the quadratic function.", 
+            "link": "https://en.wikipedia.org/wiki/Derivation_of_the_conjugate_gradient_method", 
+            "cacheId": "Ma_t6iRVkToJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Biconjugate gradient method - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Biconjugate <b>gradient method</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Biconjugate_gradient_method", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Bi<b>conjugate</b>_<b>gradient</b>_<b>method</b>", 
+            "snippet": "Unlike the conjugate gradient method, this algorithm does not require the ... but \ninstead one needs to perform multiplications by the conjugate transpose A *.", 
+            "htmlSnippet": "Unlike the <b>conjugate gradient method</b>, this algorithm does not require the ... but <br>\ninstead one needs to perform multiplications by the conjugate transpose A <sup>*</sup>.", 
+            "link": "https://en.wikipedia.org/wiki/Biconjugate_gradient_method", 
+            "cacheId": "ddX4Yulk-rEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Biconjugate gradient stabilized method - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Biconjugate <b>gradient</b> stabilized <b>method</b> - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../Biconjugate_gradient_stabilized_method", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Bi<b>conjugate</b>_<b>gradient</b>_stabilized_<b>method</b>", 
+            "snippet": "It is a variant of the biconjugate gradient method (BiCG) and has faster and ... as \nwell as other variants such as the conjugate gradient squared method (CGS).", 
+            "htmlSnippet": "It is a variant of the biconjugate <b>gradient method</b> (BiCG) and has faster and ... as <br>\nwell as other variants such as the <b>conjugate gradient</b> squared <b>method</b> (CGS).", 
+            "link": "https://en.wikipedia.org/wiki/Biconjugate_gradient_stabilized_method", 
+            "cacheId": "oSTZ0eEvKNUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Conjugate residual method - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Conjugate</b> residual <b>method</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Conjugate_residual_method", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Conjugate</b>_residual_<b>method</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "190", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT2NiO6Re0qYt5uwVu880u-QGeX-_IURBvFYDkRWB6CWrgQ29gPDl9PD3I", 
+                        "height": "266"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/math/7/3/7/737f6117b463ea96420dad06a9b4a29d.png"
+                    }
+                ]
+            }, 
+            "snippet": "It's a Krylov subspace method very similar to the much more popular conjugate \ngradient method, with similar construction and convergence properties.", 
+            "htmlSnippet": "It&#39;s a Krylov subspace method very similar to the much more popular <b>conjugate</b> <br>\n<b>gradient method</b>, with similar construction and convergence properties.", 
+            "link": "https://en.wikipedia.org/wiki/Conjugate_residual_method", 
+            "cacheId": "XTtAwHS8M6gJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Category:Gradient methods - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Category:<b>Gradient methods</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Category:Gradient_methods", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Category:<b>Gradient</b>_<b>methods</b>", 
+            "snippet": "Pages in category \"Gradient methods\". The following 13 pages ... A. Adaptive \nprojected subgradient method ... D. Derivation of the conjugate gradient method\u00a0...", 
+            "htmlSnippet": "Pages in category &quot;Gradient methods&quot;. The following 13 pages ... A. Adaptive <br>\nprojected subgradient method ... D. Derivation of the <b>conjugate gradient method</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Category:Gradient_methods", 
+            "cacheId": "rnPPR-6VSxsJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Gradient descent - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Gradient</b> descent - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Gradient_descent", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Gradient</b>_descent", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "217", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcREUf4MJd1p9FeAowsEcQbFHt3PbNM6CJunFoLLXTEonr8jhjQY1xF-4_M", 
+                        "height": "232"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Gradient_descent.svg/350px-Gradient_descent.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "Gradient descent is also known as steepest descent, or the method of .... gradient \ndescent is rarely used, with the conjugate gradient method being one of the\u00a0...", 
+            "htmlSnippet": "Gradient descent is also known as steepest descent, or the method of .... gradient <br>\ndescent is rarely used, with the <b>conjugate gradient method</b> being one of the&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Gradient_descent", 
+            "cacheId": "H6_GiOPyBRoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "LOBPCG - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "LOBPCG - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/LOBPCG", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/LOBPCG", 
+            "snippet": "Locally Optimal Block Preconditioned Conjugate Gradient (LOBPCG) is a matrix-\nfree method for finding the largest (or smallest) eigenvalues and the\u00a0...", 
+            "htmlSnippet": "Locally Optimal Block Preconditioned <b>Conjugate Gradient</b> (LOBPCG) is a matrix-<br>\nfree <b>method</b> for finding the largest (or smallest) eigenvalues and the&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/LOBPCG", 
+            "cacheId": "9UYITXdzF6kJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Gradient method - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Gradient method</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Gradient_method", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Gradient</b>_<b>method</b>", 
+            "snippet": "with the search directions defined by the gradient of the function at the current \npoint. Examples of gradient method are the gradient descent and the conjugate\u00a0...", 
+            "htmlSnippet": "with the search directions defined by the <b>gradient</b> of the function at the current <br>\npoint. Examples of <b>gradient method</b> are the <b>gradient</b> descent and the <b>conjugate</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Gradient_method", 
+            "cacheId": "ehcqEwrl2ekJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Conjugate gradient method", 
+                "safe": "off", 
+                "searchTerms": "Conjugate gradient method", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "700"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Conjugate gradient method", 
+                "safe": "off", 
+                "searchTerms": "Conjugate gradient method", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "700"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.27", 
+        "formattedTotalResults": "700", 
+        "totalResults": "700", 
+        "searchTime": 0.270843
+    }
+}

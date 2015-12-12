@@ -1,0 +1,240 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Borwein's algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Borwein&#39;s algorithm</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Borwein's_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Borwein&#39;s</b>_<b>algorithm</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "281", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQAaw8XPoadXFC1cQqnNzH6RfKzPtAv_970Rvm8ueLKnh1Lt0qe-NDzOJ-S", 
+                        "height": "179"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/math/a/1/9/a19691207c40e61e218128d91469ecd3.png"
+                    }
+                ]
+            }, 
+            "snippet": "In mathematics, Borwein's algorithm is an algorithm devised by Jonathan and \nPeter Borwein to calculate the value of 1/\u03c0. They devised several other \nalgorithms.", 
+            "htmlSnippet": "In mathematics, <b>Borwein&#39;s algorithm</b> is an algorithm devised by Jonathan and <br>\nPeter Borwein to calculate the value of 1/\u03c0. They devised several other <br>\nalgorithms.", 
+            "link": "https://en.wikipedia.org/wiki/Borwein's_algorithm", 
+            "cacheId": "Qz0XOgZZJPUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Bailey\u2013Borwein\u2013Plouffe formula - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Bailey\u2013<b>Borwein</b>\u2013Plouffe formula - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Bailey\u2013Borwein\u2013Plouffe_formula", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Bailey\u2013<b>Borwein</b>\u2013Plouffe_formula", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "128", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTDFYSgBoaTfdSYUXp1V-y-aQb2mk_03aFJydRdo4q88KGXI5Iz76hFgqs", 
+                        "height": "45"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/math/7/5/c/75c6b64a7bfaed0d79f6c3f43aa84a64.png"
+                    }
+                ]
+            }, 
+            "snippet": "The Bailey\u2013Borwein\u2013Plouffe formula (BBP formula) is a spigot algorithm for \ncomputing the nth binary digit of pi (symbol: \u03c0) using base 16 math. The formula \ncan\u00a0...", 
+            "htmlSnippet": "The Bailey\u2013<b>Borwein</b>\u2013Plouffe formula (BBP formula) is a spigot <b>algorithm</b> for <br>\ncomputing the nth binary digit of pi (symbol: \u03c0) using base 16 math. The formula <br>\ncan&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Bailey%E2%80%93Borwein%E2%80%93Plouffe_formula", 
+            "cacheId": "uHs9crYEBA0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Borwein's algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Borwein&#39;s algorithm</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "en.wikipedia.org/wiki/Talk%3ABorwein's_algorithm", 
+            "htmlFormattedUrl": "en.wikipedia.org/wiki/Talk%3A<b>Borwein&#39;s</b>_<b>algorithm</b>", 
+            "snippet": "A quick google books search suggests that \"Borwein's algorithm\" is an \nestablished name for the algorithm. \u2014 Carl (CBM \u00b7 talk) 00:01, 29 September \n2008 (UTC).", 
+            "htmlSnippet": "A quick google books search suggests that &quot;<b>Borwein&#39;s algorithm</b>&quot; is an <br>\nestablished name for the algorithm. \u2014 Carl (CBM \u00b7 talk) 00:01, 29 September <br>\n2008 (UTC).", 
+            "link": "http://en.wikipedia.org/wiki/Talk%3ABorwein's_algorithm", 
+            "cacheId": "hNu6ocVSHM8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Jonathan Borwein - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Jonathan <b>Borwein</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Jonathan_Borwein", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Jonathan_<b>Borwein</b>", 
+            "snippet": "Jonathan Michael Borwein (born 20 May 1951, St. Andrews, Scotland) is a \nScottish ... Borwein integral \u00b7 Borwein's algorithm \u00b7 Peter Borwein, his brother and \nco-\u00a0...", 
+            "htmlSnippet": "Jonathan Michael Borwein (born 20 May 1951, St. Andrews, Scotland) is a <br>\nScottish ... Borwein integral &middot; <b>Borwein&#39;s algorithm</b> &middot; Peter Borwein, his brother and <br>\nco-&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Jonathan_Borwein", 
+            "cacheId": "HpT7qpuanXMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Peter Borwein - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Peter <b>Borwein</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Peter_Borwein", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Peter_<b>Borwein</b>", 
+            "snippet": "Peter Benjamin Borwein (born St. Andrews, Scotland, May 10, 1953) is a ... of the \npaper which presented the Bailey-Borwein-Plouffe algorithm (discovered by\u00a0...", 
+            "htmlSnippet": "Peter Benjamin <b>Borwein</b> (born St. Andrews, Scotland, May 10, 1953) is a ... of the <br>\npaper which presented the Bailey-<b>Borwein</b>-Plouffe <b>algorithm</b> (discovered by&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Peter_Borwein", 
+            "cacheId": "lAD-6KI6alEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Gauss\u2013Legendre algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Gauss\u2013Legendre <b>algorithm</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Gauss\u2013Legendre_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Gauss\u2013Legendre_<b>algorithm</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "186", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRJgi_vuF34f0NJCv7lMvJCZDBs9xOxOyPINwau-548R5ncLZEqI_ark00", 
+                        "height": "104"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/math/a/e/1/ae126f8e671dfc83c339f8f596f4c11c.png"
+                    }
+                ]
+            }, 
+            "snippet": "It was used to compute the first 206,158,430,000 decimal digits of \u03c0 on \nSeptember 18 to 20, 1999, and the results were checked with Borwein's \nalgorithm.", 
+            "htmlSnippet": "It was used to compute the first 206,158,430,000 decimal digits of \u03c0 on <br>\nSeptember 18 to 20, 1999, and the results were checked with <b>Borwein&#39;s</b> <br>\n<b>algorithm</b>.", 
+            "link": "https://en.wikipedia.org/wiki/Gauss%E2%80%93Legendre_algorithm", 
+            "cacheId": "z_pJk9Yh76wJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Category:Pi algorithms - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Category:Pi <b>algorithms</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Category:Pi_algorithms", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Category:Pi_<b>algorithms</b>", 
+            "snippet": "Pages in category \"Pi algorithms\". The following 13 pages are in this category, \nout ... B. Bailey\u2013Borwein\u2013Plouffe formula \u00b7 Bellard's formula \u00b7 Borwein's algorithm\n\u00a0...", 
+            "htmlSnippet": "Pages in category &quot;Pi algorithms&quot;. The following 13 pages are in this category, <br>\nout ... B. Bailey\u2013Borwein\u2013Plouffe formula &middot; Bellard&#39;s formula &middot; <b>Borwein&#39;s algorithm</b><br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Category:Pi_algorithms", 
+            "cacheId": "2KNR02Ribd0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Approximations of \u03c0 - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Approximations of \u03c0 - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Approximations_of_\u03c0", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Approximations_of_\u03c0", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "304", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSCzy6AYDa8c0hfq9XeCP2BBdUotLkGLndR5hNJJWbxBTUBnONLmV3uONs", 
+                        "height": "156"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Record_pi_approximations.svg/380px-Record_pi_approximations.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "His series are now the basis for the fastest algorithms currently used to calculate \n\u03c0. ..... formulae like the Gauss\u2013Legendre algorithm and Borwein's algorithm.", 
+            "htmlSnippet": "His series are now the basis for the fastest algorithms currently used to calculate <br>\n\u03c0. ..... formulae like the Gauss\u2013Legendre algorithm and <b>Borwein&#39;s algorithm</b>.", 
+            "link": "https://en.wikipedia.org/wiki/Approximations_of_%CF%80", 
+            "cacheId": "izdk8nSxVPwJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Book:List of Algorithms - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Book:List of <b>Algorithms</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Book:List_of_Algorithms", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Book:List_of_<b>Algorithms</b>", 
+            "snippet": "Book:List of Algorithms ... Verlet integration \u00b7 Special functions \u00b7 Approximations \nof \u03c0 \u00b7 Borwein's algorithm \u00b7 Gauss\u2013Legendre algorithm \u00b7 Bailey\u2013Borwein\u2013Plouffe\n\u00a0...", 
+            "htmlSnippet": "Book:List of Algorithms ... Verlet integration &middot; Special functions &middot; Approximations <br>\nof \u03c0 &middot; <b>Borwein&#39;s algorithm</b> &middot; Gauss\u2013Legendre algorithm &middot; Bailey\u2013Borwein\u2013Plouffe<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Book:List_of_Algorithms", 
+            "cacheId": "aEsv0l7z6nEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "User:Mujicarodriguez/Books/PI - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "User:Mujicarodriguez/Books/PI - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/User:Mujicarodriguez/Books/PI", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/User:Mujicarodriguez/Books/PI", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "100", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTHd31vVPi257IGWQ_dNZxnf1SmN1Gap3_s9yAvFCJL7Q83enQR021d", 
+                        "height": "80"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Pi-CM.svg/125px-Pi-CM.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "PI Algorithms formulas ... Pi algorithms: Bailey\u2013Borwein\u2013Plouffe formula \u00b7 \nBellard's formula \u00b7 Borwein's algorithm \u00b7 Chudnovsky algorithm \u00b7 FEE method \u00b7 \nList of\u00a0...", 
+            "htmlSnippet": "PI Algorithms formulas ... Pi algorithms: Bailey\u2013Borwein\u2013Plouffe formula &middot; <br>\nBellard&#39;s formula &middot; <b>Borwein&#39;s algorithm</b> &middot; Chudnovsky algorithm &middot; FEE method &middot; <br>\nList of&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/User:Mujicarodriguez/Books/PI", 
+            "cacheId": "PD3n9tUhNTsJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Borwein's algorithm", 
+                "safe": "off", 
+                "searchTerms": "Borwein's algorithm", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "214"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Borwein's algorithm", 
+                "safe": "off", 
+                "searchTerms": "Borwein's algorithm", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "214"
+            }
+        ]
+    }, 
+    "spelling": {
+        "correctedQuery": "Borwein algorithm", 
+        "htmlCorrectedQuery": "<b><i>Borwein</i></b> algorithm"
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.19", 
+        "formattedTotalResults": "214", 
+        "totalResults": "214", 
+        "searchTime": 0.191421
+    }
+}

@@ -1,0 +1,194 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Lenstra elliptic curve factorization - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Lenstra elliptic curve factorization</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Lenstra_elliptic_curve_factorization", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Lenstra</b>_<b>elliptic</b>_<b>curve</b>_<b>factorization</b>", 
+            "snippet": "The Lenstra elliptic curve factorization or the elliptic curve factorization method (\nECM) is a fast, sub-exponential running time algorithm for integer factorization\u00a0...", 
+            "htmlSnippet": "The <b>Lenstra elliptic curve factorization</b> or the <b>elliptic curve factorization method</b> (<br>\n<b>ECM</b>) is a fast, sub-exponential running time algorithm for integer <b>factorization</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Lenstra_elliptic_curve_factorization", 
+            "cacheId": "uhincpRvfXcJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Lenstra elliptic curve factorization - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Lenstra elliptic curve factorization</b> - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../Talk%3ALenstra_elliptic_curve_factorization", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Talk%3A<b>Lenstra</b>_<b>elliptic</b>_<b>curve</b>_<b>factorization</b>", 
+            "snippet": "Talk:Lenstra elliptic curve factorization ... Most people who know this stuff would \ncharacterise ECM as \"probabilistic\" and the seive methods MPQS ... The Pollard \np-1 method and the EC Factoring method may in practice be implemented in a\u00a0...", 
+            "htmlSnippet": "Talk:<b>Lenstra elliptic curve factorization</b> ... Most people who know this stuff would <br>\ncharacterise <b>ECM</b> as &quot;probabilistic&quot; and the seive methods MPQS ... The Pollard <br>\np-1 <b>method</b> and the EC <b>Factoring method</b> may in practice be implemented in a&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3ALenstra_elliptic_curve_factorization", 
+            "cacheId": "QSDXjuN0Kq4J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Quadratic sieve - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Quadratic sieve - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Quadratic_sieve", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Quadratic_sieve", 
+            "snippet": "The quadratic sieve algorithm (QS) is an integer factorization algorithm and, .... \nAnother method that has some acceptance is the elliptic curve method (ECM). .... \nNow, Lenstra elliptic curve factorization has the same asymptotic running time as\n\u00a0...", 
+            "htmlSnippet": "The quadratic sieve algorithm (QS) is an integer <b>factorization</b> algorithm and, .... <br>\nAnother <b>method</b> that has some acceptance is the <b>elliptic curve method</b> (<b>ECM</b>). .... <br>\nNow, <b>Lenstra elliptic curve factorization</b> has the same asymptotic running time as<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Quadratic_sieve", 
+            "cacheId": "6cnNa2-ExQoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Elliptic curve primality - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Elliptic curve</b> primality - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Elliptic_curve_primality", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Elliptic</b>_<b>curve</b>_primality", 
+            "snippet": "In mathematics elliptic curve primality testing techniques are among the quickest \n... of using elliptic curves in factorization had been developed by H. W. Lenstra in \n1985, ... curve primality test (ECPP); 6 The test; 7 Complex multiplication method \n..... Continued fraction (CFRAC) \u00b7 Dixon's \u00b7 Lenstra elliptic curve (ECM) \u00b7 Euler's\u00a0...", 
+            "htmlSnippet": "In mathematics <b>elliptic curve</b> primality testing techniques are among the quickest <br>\n... of using <b>elliptic curves</b> in <b>factorization</b> had been developed by H. W. <b>Lenstra</b> in <br>\n1985, ... curve primality test (ECPP); 6 The test; 7 Complex multiplication <b>method</b> <br>\n..... Continued fraction (CFRAC) &middot; Dixon&#39;s &middot; <b>Lenstra elliptic curve</b> (<b>ECM</b>) &middot; Euler&#39;s&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Elliptic_curve_primality", 
+            "cacheId": "vlLgkGJWgsYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Integer factorization - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Integer <b>factorization</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Integer_factorization", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Integer_<b>factorization</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "152", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR-jrOqy11WWDB3GeTGqcqlyEX9qcXvDtCQyfsBol6dgbwON8GFA52FHc4", 
+                        "height": "84"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/PrimeDecompositionExample.svg/190px-PrimeDecompositionExample.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "In number theory, integer factorization is the decomposition of a composite \nnumber ... 5.1 Schnorr-Seysen-Lenstra Algorithm; 5.2 Expected running time .... \nSome examples of those algorithms are the elliptic curve method and the \nquadratic sieve. .... Continued fraction (CFRAC) \u00b7 Dixon's \u00b7 Lenstra elliptic curve (\nECM) \u00b7 Euler's\u00a0...", 
+            "htmlSnippet": "In number theory, integer <b>factorization</b> is the decomposition of a composite <br>\nnumber ... 5.1 Schnorr-Seysen-<b>Lenstra</b> Algorithm; 5.2 Expected running time .... <br>\nSome examples of those algorithms are the <b>elliptic curve method</b> and the <br>\nquadratic sieve. .... Continued fraction (CFRAC) &middot; Dixon&#39;s &middot; <b>Lenstra elliptic curve</b> (<br>\n<b>ECM</b>) &middot; Euler&#39;s&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Integer_factorization", 
+            "cacheId": "W1TDbj2M4HcJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Continued fraction factorization - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Continued fraction <b>factorization</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Continued_fraction_factorization", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Continued_fraction_<b>factorization</b>", 
+            "snippet": "In number theory, the continued fraction factorization method (CFRAC) is an ... \nContinued fraction (CFRAC); Dixon's \u00b7 Lenstra elliptic curve (ECM) \u00b7 Euler's\u00a0...", 
+            "htmlSnippet": "In number theory, the continued fraction <b>factorization method</b> (CFRAC) is an ... <br>\nContinued fraction (CFRAC); Dixon&#39;s &middot; <b>Lenstra elliptic curve</b> (<b>ECM</b>) &middot; Euler&#39;s&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Continued_fraction_factorization", 
+            "cacheId": "3TI_pfR6D5gJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Pollard's p \u2212 1 algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Pollard&#39;s p \u2212 1 algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Pollard's_p_\u2212_1_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Pollard&#39;s_p_\u2212_1_algorithm", 
+            "snippet": "Pollard's p \u2212 1 algorithm is a number theoretic integer factorization algorithm, ... In \npractice, the elliptic curve method is faster than the Pollard p \u2212 1 method once ... \nThe GMP-ECM package includes an efficient implementation of the p \u2212 1 method. \n... Continued fraction (CFRAC) \u00b7 Dixon's \u00b7 Lenstra elliptic curve (ECM) \u00b7 Euler's\u00a0...", 
+            "htmlSnippet": "Pollard&#39;s p \u2212 1 algorithm is a number theoretic integer <b>factorization</b> algorithm, ... In <br>\npractice, the <b>elliptic curve method</b> is faster than the Pollard p \u2212 1 <b>method</b> once ... <br>\nThe GMP-<b>ECM</b> package includes an efficient implementation of the p \u2212 1 <b>method</b>. <br>\n... Continued fraction (CFRAC) &middot; Dixon&#39;s &middot; <b>Lenstra elliptic curve</b> (<b>ECM</b>) &middot; Euler&#39;s&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Pollard's_p_%E2%88%92_1_algorithm", 
+            "cacheId": "zweeP4GmaIgJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Sch\u00f6nhage\u2013Strassen algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Sch\u00f6nhage\u2013Strassen algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Sch\u00f6nhage\u2013Strassen_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Sch\u00f6nhage\u2013Strassen_algorithm", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "241", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQTM5ailoOD5ppzjGmjOteEkMAOqjNTSxmsstDT9X4KzwUf_gtrRUY7JGjN", 
+                        "height": "210"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Integer_multiplication_by_FFT.svg/350px-Integer_multiplication_by_FFT.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "... is based on the Fast Fourier transform (FFT) method of integer multiplication. ... \nthis is used in practice by GMP-ECM for Lenstra elliptic curve factorization.", 
+            "htmlSnippet": "... is based on the Fast Fourier transform (FFT) <b>method</b> of integer multiplication. ... <br>\nthis is used in practice by GMP-<b>ECM</b> for <b>Lenstra elliptic curve factorization</b>.", 
+            "link": "https://en.wikipedia.org/wiki/Sch%C3%B6nhage%E2%80%93Strassen_algorithm", 
+            "cacheId": "ULiDfQCxd38J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Pollard's rho algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Pollard&#39;s rho algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Pollard's_rho_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Pollard&#39;s_rho_algorithm", 
+            "snippet": "Pollard's rho algorithm is a special-purpose integer factorization algorithm. ... \nFloyd's cycle-finding algorithm with the related Brent's cycle finding method.", 
+            "htmlSnippet": "Pollard&#39;s rho algorithm is a special-purpose integer <b>factorization</b> algorithm. ... <br>\nFloyd&#39;s cycle-finding algorithm with the related Brent&#39;s cycle finding <b>method</b>.", 
+            "link": "https://en.wikipedia.org/wiki/Pollard's_rho_algorithm", 
+            "cacheId": "uKg6CQmQp7IJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Shanks' square forms factorization - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Shanks&#39; square forms <b>factorization</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Shanks'_square_forms_factorization", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Shanks&#39;_square_forms_<b>factorization</b>", 
+            "snippet": "Shanks's square forms factorization is a method for integer factorization devised \nby Daniel Shanks as an improvement on Fermat's factorization method. .... \nContinued fraction (CFRAC) \u00b7 Dixon's \u00b7 Lenstra elliptic curve (ECM) \u00b7 Euler's \u00b7 \nPollard's\u00a0...", 
+            "htmlSnippet": "Shanks&#39;s square forms <b>factorization</b> is a <b>method</b> for integer <b>factorization</b> devised <br>\nby Daniel Shanks as an improvement on Fermat&#39;s <b>factorization method</b>. .... <br>\nContinued fraction (CFRAC) &middot; Dixon&#39;s &middot; <b>Lenstra elliptic curve</b> (<b>ECM</b>) &middot; Euler&#39;s &middot; <br>\nPollard&#39;s&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Shanks'_square_forms_factorization", 
+            "cacheId": "QJVQIsy6eAEJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Lenstra elliptic curve factorization or elliptic curve factorization method (ECM)", 
+                "safe": "off", 
+                "searchTerms": "Lenstra elliptic curve factorization or elliptic curve factorization method (ECM)", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "89"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Lenstra elliptic curve factorization or elliptic curve factorization method (ECM)", 
+                "safe": "off", 
+                "searchTerms": "Lenstra elliptic curve factorization or elliptic curve factorization method (ECM)", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "89"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.81", 
+        "formattedTotalResults": "89", 
+        "totalResults": "89", 
+        "searchTime": 0.814627
+    }
+}

@@ -1,0 +1,180 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Boehm garbage collector - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Boehm garbage collector</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Boehm_garbage_collector", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Boehm</b>_<b>garbage</b>_<b>collector</b>", 
+            "snippet": "In computer science, the Boehm\u2013Demers\u2013Weiser garbage collector, often simply \nknown as Boehm GC, is a conservative garbage collector for C and C++.", 
+            "htmlSnippet": "In computer science, the <b>Boehm</b>\u2013Demers\u2013Weiser <b>garbage collector</b>, often simply <br>\nknown as <b>Boehm</b> GC, is a conservative <b>garbage collector</b> for C and C++.", 
+            "link": "https://en.wikipedia.org/wiki/Boehm_garbage_collector", 
+            "cacheId": "qGDgxG7ePKEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Boehm garbage collector - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Boehm garbage collector</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3ABoehm_garbage_collector", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>Boehm</b>_<b>garbage</b>_<b>collector</b>", 
+            "snippet": "This is the talk page for discussing improvements to the Boehm garbage collector \narticle. This is not a forum for general discussion of the article's subject.", 
+            "htmlSnippet": "This is the talk page for discussing improvements to the <b>Boehm garbage collector</b> <br>\narticle. This is not a forum for general discussion of the article&#39;s subject.", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3ABoehm_garbage_collector", 
+            "cacheId": "_kh0ywGr8BYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Garbage collection (computer science) - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Garbage</b> collection (computer science) - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Garbage_collection_(computer_science)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Garbage</b>_collection_(computer_science)", 
+            "snippet": "The garbage collector, or just collector, attempts to reclaim garbage, ..... a library, \nas with the Boehm garbage collector for C (for \"nearly all programs\") and C++.", 
+            "htmlSnippet": "The garbage collector, or just collector, attempts to reclaim garbage, ..... a library, <br>\nas with the <b>Boehm garbage collector</b> for C (for &quot;nearly all programs&quot;) and C++.", 
+            "link": "https://en.wikipedia.org/wiki/Garbage_collection_(computer_science)", 
+            "cacheId": "6GM0rjrrUjsJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Mark-compact algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Mark-compact algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Mark-compact_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Mark-compact_algorithm", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "224", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQZF-BN6LbWqhDDp90L6Prpopbx_OesrO25x3YT5wzXImTjMVP0K_WbMT0", 
+                        "height": "224"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Table-based_heap_compaction_flattened.svg/280px-Table-based_heap_compaction_flattened.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "In computer science, a mark-compact algorithm is a type of garbage collection .... \nBoehm garbage collector \u00b7 Finalizer \u00b7 Garbage; Mark-compact algorithm\u00a0...", 
+            "htmlSnippet": "In computer science, a mark-compact algorithm is a type of garbage collection .... <br>\n<b>Boehm garbage collector</b> &middot; Finalizer &middot; Garbage; Mark-compact algorithm&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Mark-compact_algorithm", 
+            "cacheId": "Mwl3Z-9KUZ8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Unreachable memory - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Unreachable memory - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Unreachable_memory", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Unreachable_memory", 
+            "snippet": "In dynamic memory allocation implementations that employ a garbage collector, \nobjects are reclaimed after they become unreachable. The garbage collector is\u00a0...", 
+            "htmlSnippet": "In dynamic memory allocation implementations that employ a <b>garbage collector</b>, <br>\nobjects are reclaimed after they become unreachable. The <b>garbage collector</b> is&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Unreachable_memory", 
+            "cacheId": "tZJgTb0Iee4J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Racket features - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Racket features - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Racket_features", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Racket_features", 
+            "snippet": "Originally, the conservative Boehm garbage collector was used. However, \nconservative collection is impractical for long-running processes such as a web\u00a0...", 
+            "htmlSnippet": "Originally, the conservative <b>Boehm garbage collector</b> was used. However, <br>\nconservative collection is impractical for long-running processes such as a web&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Racket_features", 
+            "cacheId": "8UmCHfJocKIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Jupiter JVM - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Jupiter JVM - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Jupiter_JVM", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Jupiter_JVM", 
+            "snippet": "It uses Boehm garbage collector and GNU Classpath. ... \"stop-the-world\" garbage \ncollectors, where program threads are halted during garbage collection.", 
+            "htmlSnippet": "It uses <b>Boehm garbage collector</b> and GNU Classpath. ... &quot;stop-the-world&quot; garbage <br>\ncollectors, where program threads are halted during garbage collection.", 
+            "link": "https://en.wikipedia.org/wiki/Jupiter_JVM", 
+            "cacheId": "lCXO29XF7QwJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Boehm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Boehm</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Boehm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Boehm</b>", 
+            "snippet": "Boehm (in American English, usually pronounced \"Bame\") is a German surname, \ntransliterated from ... Boehm Syndrome \u00b7 Boehm garbage collector \u00b7 Jim Beam.", 
+            "htmlSnippet": "Boehm (in American English, usually pronounced &quot;Bame&quot;) is a German surname, <br>\ntransliterated from ... Boehm Syndrome &middot; <b>Boehm garbage collector</b> &middot; Jim Beam.", 
+            "link": "https://en.wikipedia.org/wiki/Boehm", 
+            "cacheId": "CcAdmIq1OVAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Reference counting - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Reference counting - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Reference_counting", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Reference_counting", 
+            "snippet": "Reference counting alone cannot move objects to improve cache performance, \nso high performance collectors implement a tracing garbage collector as well.", 
+            "htmlSnippet": "Reference counting alone cannot move objects to improve cache performance, <br>\nso high performance collectors implement a tracing <b>garbage collector</b> as well.", 
+            "link": "https://en.wikipedia.org/wiki/Reference_counting", 
+            "cacheId": "cBcC2T2xaBsJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "WoW64 - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "WoW64 - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/WoW64", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/WoW64", 
+            "snippet": "One of the more widely used but affected GC engines is the Boehm GC. It is also \nused as the default garbage collector of the equally popular Mono. While Mono\u00a0...", 
+            "htmlSnippet": "One of the more widely used but affected GC engines is the <b>Boehm</b> GC. It is also <br>\nused as the default <b>garbage collector</b> of the equally popular Mono. While Mono&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/WoW64", 
+            "cacheId": "pIDdaJDFEsYJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Boehm garbage collector", 
+                "safe": "off", 
+                "searchTerms": "Boehm garbage collector", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "110"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Boehm garbage collector", 
+                "safe": "off", 
+                "searchTerms": "Boehm garbage collector", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "110"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.24", 
+        "formattedTotalResults": "110", 
+        "totalResults": "110", 
+        "searchTime": 0.237891
+    }
+}

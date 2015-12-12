@@ -1,0 +1,300 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Fortuna - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Fortuna</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Fortuna", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Fortuna</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRCedphtsCjyCuU7r2yaqLztSzNccnkHbjNboLXIKh3z01nWFGDugufseKy", 
+                        "height": "259"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/CarminaBurana_wheel.jpg/220px-CarminaBurana_wheel.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "Fortuna (Latin: Fort\u016bna, equivalent to the Greek goddess Tyche) was the \ngoddess of fortune and personification of luck in Roman religion. She might bring \ngood\u00a0...", 
+            "htmlSnippet": "<b>Fortuna</b> (Latin: <b>Fort\u016bna</b>, equivalent to the Greek goddess Tyche) was the <br>\ngoddess of fortune and personification of luck in Roman religion. She might bring <br>\ngood&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Fortuna", 
+            "cacheId": "dXBjcUD50YAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Fortuna, California - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Fortuna</b>, California - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Fortuna,_California", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Fortuna</b>,_California", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "200", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS1ugoX91e2Kq7eodO848jRfKNRq4QPJO7Rte-f7Bc7CAahymd58MpJ4w", 
+                        "height": "124"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Fortuna,_California,_Main_St.,_1940s.jpg/250px-Fortuna,_California,_Main_St.,_1940s.jpg"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "url": "friendlyfortuna.com", 
+                        "category": "City", 
+                        "url_text": "friendlyfortuna.com", 
+                        "nickname": "The Friendly City[1]", 
+                        "fn": "Fortuna"
+                    }
+                ]
+            }, 
+            "snippet": "Fortuna (formerly, Slide, Springville) (Wiyot: Vutsuwitk Da'l, \"ashes stay\") is a city \nthe northeast shore of the Eel River (approximately 9 miles (14 km) from where\u00a0...", 
+            "htmlSnippet": "<b>Fortuna</b> (formerly, Slide, Springville) (Wiyot: Vutsuwitk Da&#39;l, &quot;ashes stay&quot;) is a city <br>\nthe northeast shore of the Eel River (approximately 9 miles (14 km) from where&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Fortuna,_California", 
+            "cacheId": "RA0L5OFozaIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Fortuna (PRNG) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Fortuna</b> (PRNG) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Fortuna_(PRNG)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Fortuna</b>_(PRNG)", 
+            "snippet": "Fortuna is a cryptographically secure pseudorandom number generator (PRNG) \ndevised by Bruce Schneier and Niels Ferguson and published in 2003.", 
+            "htmlSnippet": "<b>Fortuna</b> is a cryptographically secure pseudorandom number generator (PRNG) <br>\ndevised by Bruce Schneier and Niels Ferguson and published in 2003.", 
+            "link": "https://en.wikipedia.org/wiki/Fortuna_(PRNG)", 
+            "cacheId": "cuvDbxGeoH0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "O Fortuna - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "O <b>Fortuna</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/O_Fortuna", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/O_<b>Fortuna</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "185", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6VMCxRrkRV5o6vCXDMCFWsegD0PibMQlSjnvg7VSphnTseVhXM4IiS82o", 
+                        "height": "273"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/CarminaBurana_wheel.jpg/290px-CarminaBurana_wheel.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "\"O Fortuna\" is a medieval Latin Goliardic poem written early in the 13th century, \npart of the collection known as the Carmina Burana. It is a complaint about\u00a0...", 
+            "htmlSnippet": "&quot;O <b>Fortuna</b>&quot; is a medieval Latin Goliardic poem written early in the 13th century, <br>\npart of the collection known as the Carmina Burana. It is a complaint about&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/O_Fortuna", 
+            "cacheId": "eCsjhiKRGXsJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Fortuna, North Dakota - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Fortuna</b>, North Dakota - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Fortuna,_North_Dakota", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Fortuna</b>,_North_Dakota", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "200", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcScxMX8S78m4uUeRKPFUJWHNVN2tMuORP4Nz8mN5NSPJdYsoZLKL-eai0YW", 
+                        "height": "154"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/ND_Divide_County_Fortuna.svg/250px-ND_Divide_County_Fortuna.svg.png"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "category": "City", 
+                        "fn": "Fortuna, North Dakota"
+                    }
+                ]
+            }, 
+            "snippet": "Fortuna was founded in 1913 along a Soo Line Railroad branch line running \nbetween Flaxton, North Dakota and Whitetail, Montana. The name comes from \nthe\u00a0...", 
+            "htmlSnippet": "<b>Fortuna</b> was founded in 1913 along a Soo Line Railroad branch line running <br>\nbetween Flaxton, North Dakota and Whitetail, Montana. The name comes from <br>\nthe&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Fortuna,_North_Dakota", 
+            "cacheId": "qgUOTd1P9QAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "La Fortuna, Costa Rica - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "La <b>Fortuna</b>, Costa Rica - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/La_Fortuna,_Costa_Rica", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/La_<b>Fortuna</b>,_Costa_Rica", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrwFC3Y__5KUqSLmIPqA8CZy5y18es4GYJ0EBSTzhy01lCEQhDNqarAA", 
+                        "height": "112"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Costa_rica_arenal_fortuna_2001_12.jpg/220px-Costa_rica_arenal_fortuna_2001_12.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "La Fortuna is the name of a district and a small city located in San Carlos, in the \nprovince of Alajuela, Costa Rica. \"La Fortuna\" is Spanish for \"The Fortune\", and\u00a0...", 
+            "htmlSnippet": "La <b>Fortuna</b> is the name of a district and a small city located in San Carlos, in the <br>\nprovince of Alajuela, Costa Rica. &quot;La <b>Fortuna</b>&quot; is Spanish for &quot;The Fortune&quot;, and&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/La_Fortuna,_Costa_Rica", 
+            "cacheId": "jSFpa2Q5RykJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Fortuna (Brazilian singer) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Fortuna</b> (Brazilian singer) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Fortuna_(Brazilian_singer)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Fortuna</b>_(Brazilian_singer)", 
+            "snippet": "1958), is a Brazilian singer and composer of Jewish origin. She has been \nstudying the Sephardic repertoire since 1992. Fortuna has recorded seven CDs \nand\u00a0...", 
+            "htmlSnippet": "1958), is a Brazilian singer and composer of Jewish origin. She has been <br>\nstudying the Sephardic repertoire since 1992. <b>Fortuna</b> has recorded seven CDs <br>\nand&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Fortuna_(Brazilian_singer)", 
+            "cacheId": "0p8hpMIcQP0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Fortuna (disambiguation) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Fortuna</b> (disambiguation) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Fortuna_(disambiguation)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Fortuna</b>_(disambiguation)", 
+            "snippet": "... or fortuna#Latin in Wiktionary, the free dictionary. Fortuna (Latin for \"fortune\") \ncan mean: Fortuna, the Roman goddess of luck (similar to the Greek Tyche)\u00a0...", 
+            "htmlSnippet": "... or <b>fortuna</b>#Latin in Wiktionary, the free dictionary. <b>Fortuna</b> (Latin for &quot;fortune&quot;) <br>\ncan mean: <b>Fortuna</b>, the Roman goddess of luck (similar to the Greek Tyche)&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Fortuna_(disambiguation)", 
+            "cacheId": "YHfmkC7p6wIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Fortuna Sittard - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Fortuna</b> Sittard - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Fortuna_Sittard", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Fortuna</b>_Sittard", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "120", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRricdpIFwpRrbeFK0u7bR-h4AYqvw2_IpV84VCfb783AKX9V-tGLcyPc0", 
+                        "height": "146"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/Fortuna_Sittard_logo.svg/150px-Fortuna_Sittard_logo.svg.png"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "bday": "1968-07-01", 
+                        "nickname": "Fortuna, Fortunezen", 
+                        "fn": "Fortuna Sittard", 
+                        "label": "Offermans Joosten Stadion, Sittard"
+                    }, 
+                    {
+                        "fn": "Ferhat Kaya"
+                    }, 
+                    {
+                        "fn": "Dennis Dengering"
+                    }, 
+                    {
+                        "fn": "Ferry de Regt"
+                    }, 
+                    {
+                        "fn": "Roel Janssen"
+                    }, 
+                    {
+                        "fn": "Joeri Schroyen"
+                    }, 
+                    {
+                        "fn": "Jordy ter Borgh"
+                    }, 
+                    {
+                        "fn": "Jordie Briels"
+                    }, 
+                    {
+                        "fn": "Raymond Fafiani"
+                    }, 
+                    {
+                        "fn": "Tim Janssen"
+                    }
+                ]
+            }, 
+            "snippet": "Fortuna Sittard is a football club in Sittard, The Netherlands. The club currently \nplays its football in the 12,500 capacity Offermans Joosten Stadion and features \nin\u00a0...", 
+            "htmlSnippet": "<b>Fortuna</b> Sittard is a football club in Sittard, The Netherlands. The club currently <br>\nplays its football in the 12,500 capacity Offermans Joosten Stadion and features <br>\nin&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Fortuna_Sittard", 
+            "cacheId": "L6cqUsG4SSIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Carl Orff's O Fortuna in popular culture - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Carl Orff&#39;s O <b>Fortuna</b> in popular culture - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../Carl_Orff's_O_Fortuna_in_popular_culture", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Carl_Orff&#39;s_O_<b>Fortuna</b>_in_popular_culture", 
+            "snippet": "In 1935\u201336, the 13th-century poem \"O Fortuna\" was set to music by the German \ncomposer Carl Orff for his twenty-four-movement cantata Carmina Burana.", 
+            "htmlSnippet": "In 1935\u201336, the 13th-century poem &quot;O <b>Fortuna</b>&quot; was set to music by the German <br>\ncomposer Carl Orff for his twenty-four-movement cantata Carmina Burana.", 
+            "link": "https://en.wikipedia.org/wiki/Carl_Orff's_O_Fortuna_in_popular_culture", 
+            "cacheId": "LeDx0uOia04J"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Fortuna", 
+                "safe": "off", 
+                "searchTerms": "Fortuna", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "183000"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Fortuna", 
+                "safe": "off", 
+                "searchTerms": "Fortuna", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "183000"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.29", 
+        "formattedTotalResults": "183,000", 
+        "totalResults": "183000", 
+        "searchTime": 0.294603
+    }
+}

@@ -1,0 +1,211 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Lamport timestamps - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Lamport</b> timestamps - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Lamport_timestamps", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Lamport</b>_timestamps", 
+            "snippet": "The algorithm of Lamport timestamps is a simple algorithm used to determine the \norder of events in a distributed computer system. As different nodes or\u00a0...", 
+            "htmlSnippet": "The algorithm of <b>Lamport</b> timestamps is a simple algorithm used to determine the <br>\n<b>order</b> of events in a distributed computer system. As different nodes or&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Lamport_timestamps", 
+            "cacheId": "90N1uinr12sJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Happened-before - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Happened-before - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Happened-before", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Happened-before", 
+            "snippet": "This involves ordering events based on the potential causal relationship of ... of \nthe happened-before relation unless they use a logical clock, like a Lamport\u00a0...", 
+            "htmlSnippet": "This involves <b>ordering</b> events based on the potential causal relationship of ... of <br>\nthe happened-before relation unless they use a logical clock, like a <b>Lamport</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Happened-before", 
+            "cacheId": "jXH8ITNxJc0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Vector clock - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Vector clock - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Vector_clock", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Vector_clock", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "299", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTxXVq8ySPcS07XfYwwcVFlQp7Hb_c2HskhbWAPsW1vJY5KzdfjeYH4F8g", 
+                        "height": "169"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Vector_Clock.svg/500px-Vector_Clock.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "Vector clocks is an algorithm for generating a partial ordering of events in a \ndistributed system and detecting causality violations. Just as in Lamport \ntimestamps,\u00a0...", 
+            "htmlSnippet": "Vector clocks is an algorithm for generating a partial <b>ordering</b> of events in a <br>\ndistributed system and detecting causality violations. Just as in <b>Lamport</b> <br>\ntimestamps,&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Vector_clock", 
+            "cacheId": "n7fpON_9Rg0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Logical clock - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Logical clock - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Logical_clock", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Logical_clock", 
+            "snippet": "The first implementation, the Lamport timestamps, was proposed by Leslie ... \nVector clocks, that allow for partial ordering of events in a distributed system.", 
+            "htmlSnippet": "The first implementation, the <b>Lamport</b> timestamps, was proposed by Leslie ... <br>\nVector clocks, that allow for partial <b>ordering</b> of events in a distributed system.", 
+            "link": "https://en.wikipedia.org/wiki/Logical_clock", 
+            "cacheId": "I4FdSYzGV9gJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Allan A. Lamport - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Allan A. <b>Lamport</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Allan_A._Lamport", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Allan_A._<b>Lamport</b>", 
+            "pagemap": {
+                "hcard": [
+                    {
+                        "bday": "1903-04-03", 
+                        "fn": "Allan Austin Lamport"
+                    }
+                ]
+            }, 
+            "snippet": "Allan Austin Lamport, CM (April 4, 1903 \u2013 November 18, 1999) was Mayor of ... \nThe confrontation resulted in Lamport ordering police to remove the hippies from\n\u00a0...", 
+            "htmlSnippet": "Allan Austin Lamport, CM (April 4, 1903 \u2013 November 18, 1999) was Mayor of ... <br>\nThe confrontation resulted in <b>Lamport ordering</b> police to remove the hippies from<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Allan_A._Lamport", 
+            "cacheId": "M_ZKDveq7m8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Leslie Lamport - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Leslie <b>Lamport</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Leslie_Lamport", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Leslie_<b>Lamport</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ13oXAogH4292yOe8hnPdlPAJF1YFzCWJLBgBrpLwaFjg8NevIj0EHtKcv", 
+                        "height": "224"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Leslie_Lamport.jpg/220px-Leslie_Lamport.jpg"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "url": "www.lamport.org", 
+                        "bday": "1941-02-07", 
+                        "category": "Computer science", 
+                        "url_text": "www.lamport.org", 
+                        "fn": "Leslie Lamport"
+                    }
+                ]
+            }, 
+            "snippet": "Leslie Lamport was the winner of the 2013 Turing Award for imposing clear, ... \u201c\nTime, Clocks, and the Ordering of Events in a Distributed System\u201d, which\u00a0...", 
+            "htmlSnippet": "Leslie <b>Lamport</b> was the winner of the 2013 Turing Award for imposing clear, ... \u201c<br>\nTime, Clocks, and the <b>Ordering</b> of Events in a Distributed System\u201d, which&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Leslie_Lamport", 
+            "cacheId": "9hXg7nQjwsMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Lamport - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Lamport</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Lamport", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Lamport</b>", 
+            "snippet": "Lamport. From Wikipedia, the free encyclopedia. Jump to: navigation, search ... \nLamport (surname) \u00b7 Lamport ordering \u00b7 Lamport Stadium, an arena in Toronto,\u00a0...", 
+            "htmlSnippet": "Lamport. From Wikipedia, the free encyclopedia. Jump to: navigation, search ... <br>\nLamport (surname) &middot; <b>Lamport ordering</b> &middot; Lamport Stadium, an arena in Toronto,&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Lamport", 
+            "cacheId": "Hhf6TLODxC0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Sequential consistency - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Sequential consistency - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Sequential_consistency", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Sequential_consistency", 
+            "snippet": "in the same order, although the order may be different from the order as defined \nby ... Strict consistency would demand that operations are seen in order in which \nthey ... Jump up ^ Leslie Lamport, \"How to Make a Multiprocessor Computer That\n\u00a0...", 
+            "htmlSnippet": "in the same <b>order</b>, although the <b>order</b> may be different from the <b>order</b> as defined <br>\nby ... Strict consistency would demand that operations are seen in <b>order</b> in which <br>\nthey ... Jump up ^ Leslie <b>Lamport</b>, &quot;How to Make a Multiprocessor Computer That<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Sequential_consistency", 
+            "cacheId": "5NvYydYng08J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "State machine replication - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "State machine replication - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/State_machine_replication", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/State_machine_replication", 
+            "snippet": "2.1 Ordering Inputs; 2.2 Sending Outputs; 2.3 System Failure; 2.4 Auditing and \n..... a version of Lamport's original state machine approach, but with optimizations\n\u00a0...", 
+            "htmlSnippet": "2.1 <b>Ordering</b> Inputs; 2.2 Sending Outputs; 2.3 System Failure; 2.4 Auditing and <br>\n..... a version of <b>Lamport&#39;s</b> original state machine approach, but with optimizations<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/State_machine_replication", 
+            "cacheId": "ZXvxAY5pGAkJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Paxos (computer science) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Paxos (computer science) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Paxos_(computer_science)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Paxos_(computer_science)", 
+            "snippet": "The principled approach proposed by Lamport et al. ensures all cases are ... In \norder to simplify the presentation of Paxos, the following assumptions and\u00a0...", 
+            "htmlSnippet": "The principled approach proposed by <b>Lamport</b> et al. ensures all cases are ... In <br>\n<b>order</b> to simplify the presentation of Paxos, the following assumptions and&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Paxos_(computer_science)", 
+            "cacheId": "zXcryn67tFcJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Lamport ordering", 
+                "safe": "off", 
+                "searchTerms": "Lamport ordering", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "64"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Lamport ordering", 
+                "safe": "off", 
+                "searchTerms": "Lamport ordering", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "64"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.17", 
+        "formattedTotalResults": "64", 
+        "totalResults": "64", 
+        "searchTime": 0.173532
+    }
+}

@@ -1,0 +1,194 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Hamming weight - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Hamming weight</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Hamming_weight", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Hamming</b>_<b>weight</b>", 
+            "snippet": "The Hamming weight of a string is the number of symbols that are different from \nthe zero-symbol of the alphabet used. It is thus equivalent to the Hamming\u00a0...", 
+            "htmlSnippet": "The <b>Hamming weight</b> of a string is the number of symbols that are different from <br>\nthe zero-symbol of the alphabet used. It is thus equivalent to the Hamming&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Hamming_weight", 
+            "cacheId": "wWmhhWkyf3UJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Minimum weight - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Minimum <b>weight</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Minimum_weight", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Minimum_<b>weight</b>", 
+            "snippet": "In error-correcting coding, the minimum Hamming weight, commonly referred to \nas the minimum weight wmin of a code is the weight of the lowest-weight code\u00a0...", 
+            "htmlSnippet": "In error-correcting coding, the minimum <b>Hamming weight</b>, commonly referred to <br>\nas the minimum weight wmin of a code is the weight of the lowest-weight code&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Minimum_weight", 
+            "cacheId": "RtGRJuxm93AJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Hamming distance - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Hamming</b> distance - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Hamming_distance", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Hamming</b>_distance", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "112", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQYXCvVrcFUgten38b0Bk7fK_d_LRSsZDDZF0cyI7b27fFx_ru3a7m1", 
+                        "height": "88"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Hamming_distance_3_bit_binary.svg/140px-Hamming_distance_3_bit_binary.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "In information theory, the Hamming distance between two strings of equal length \nis the ... Hamming weight analysis of bits is used in several disciplines including\u00a0...", 
+            "htmlSnippet": "In information theory, the Hamming distance between two strings of equal length <br>\nis the ... <b>Hamming weight</b> analysis of bits is used in several disciplines including&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Hamming_distance", 
+            "cacheId": "zMeNKY4YR5oJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Hamming code - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Hamming</b> code - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Hamming_code", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Hamming</b>_code", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "128", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPG-MMEiJxatYgF-eeTAOJvTdsw95c3ukG9cIaZvS7FKkrVHypJyAmBYw", 
+                        "height": "119"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Hamming(7,4).svg/160px-Hamming(7,4).svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "In telecommunication, Hamming codes are a family of linear error-correcting \ncodes that generalize the Hamming(7,4)-code, and were invented by Richard\u00a0...", 
+            "htmlSnippet": "In telecommunication, <b>Hamming</b> codes are a family of linear error-correcting <br>\ncodes that generalize the <b>Hamming</b>(7,4)-code, and were invented by Richard&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Hamming_code", 
+            "cacheId": "Ya8675fblR8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Hamming weight - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Hamming weight</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3AHamming_weight", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>Hamming</b>_<b>weight</b>", 
+            "snippet": "Horrible!! Please, symplify! it is for readers, not only for \"copy/paste\" testing \nprogrammers. I disagree. The definition and background are clear and concise.", 
+            "htmlSnippet": "Horrible!! Please, symplify! it is for readers, not only for &quot;copy/paste&quot; testing <br>\nprogrammers. I disagree. The definition and background are clear and concise.", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3AHamming_weight", 
+            "cacheId": "bNLg35w1nJ0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Constant-weight code - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Constant-<b>weight</b> code - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Constant-weight_code", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Constant-<b>weight</b>_code", 
+            "snippet": "In coding theory, a constant-weight code, also called an m of n code, is an error \ndetection and correction code where all codewords share the same Hamming\u00a0...", 
+            "htmlSnippet": "In coding theory, a constant-<b>weight</b> code, also called an m of n code, is an error <br>\ndetection and correction code where all codewords share the same <b>Hamming</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Constant-weight_code", 
+            "cacheId": "A_CxwyWNnigJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Enumerator polynomial - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Enumerator polynomial - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Enumerator_polynomial", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Enumerator_polynomial", 
+            "snippet": "In coding theory, the weight enumerator polynomial of a binary linear code \nspecifies the number of words of each possible Hamming weight. Let C \\subset\u00a0...", 
+            "htmlSnippet": "In coding theory, the weight enumerator polynomial of a binary linear code <br>\nspecifies the number of words of each possible <b>Hamming weight</b>. Let C \\subset&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Enumerator_polynomial", 
+            "cacheId": "1weDyKjlUooJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "AN codes - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "AN codes - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/AN_codes", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/AN_codes", 
+            "snippet": "These codes differ from most other codes in that they use arithmetic weight to \nmaximize the arithmetic distance between codewords as opposed to the \nhamming\u00a0...", 
+            "htmlSnippet": "These codes differ from most other codes in that they use arithmetic <b>weight</b> to <br>\nmaximize the arithmetic distance between codewords as opposed to the <br>\n<b>hamming</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/AN_codes", 
+            "cacheId": "_258bhsDO04J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Even code - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Even code - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Even_code", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Even_code", 
+            "snippet": "A binary code is called an even code if the Hamming weight of each of its \ncodewords is even. An even code should have a generator polynomial that \ninclude\u00a0...", 
+            "htmlSnippet": "A binary code is called an even code if the <b>Hamming weight</b> of each of its <br>\ncodewords is even. An even code should have a generator polynomial that <br>\ninclude&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Even_code", 
+            "cacheId": "dXZGkzOIUVsJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Bar product - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Bar product - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Bar_product", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Bar_product", 
+            "snippet": "Hamming weight[edit]. The Hamming weight w of the bar product is the lesser of (\na) twice the weight of C1, and (b) the weight of C2: w(C_1\\mid C_2) = \\min\u00a0...", 
+            "htmlSnippet": "<b>Hamming weight</b>[edit]. The <b>Hamming weight</b> w of the bar product is the lesser of (<br>\na) twice the weight of C1, and (b) the weight of C2: w(C_1\\mid C_2) = \\min&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Bar_product", 
+            "cacheId": "6oLhsayyCkcJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Hamming weight", 
+                "safe": "off", 
+                "searchTerms": "Hamming weight", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "326"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Hamming weight", 
+                "safe": "off", 
+                "searchTerms": "Hamming weight", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "326"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.24", 
+        "formattedTotalResults": "326", 
+        "totalResults": "326", 
+        "searchTime": 0.243105
+    }
+}

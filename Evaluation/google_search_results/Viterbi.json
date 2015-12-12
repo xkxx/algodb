@@ -1,0 +1,240 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Viterbi algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Viterbi</b> algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Viterbi_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Viterbi</b>_algorithm", 
+            "snippet": "The Viterbi algorithm is a dynamic programming algorithm for finding the most \nlikely sequence of hidden states \u2013 called the Viterbi path \u2013 that results in a\u00a0...", 
+            "htmlSnippet": "The <b>Viterbi</b> algorithm is a dynamic programming algorithm for finding the most <br>\nlikely sequence of hidden states \u2013 called the <b>Viterbi</b> path \u2013 that results in a&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Viterbi_algorithm", 
+            "cacheId": "ltHEQuSbFLwJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Andrew Viterbi - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Andrew <b>Viterbi</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Andrew_Viterbi", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Andrew_<b>Viterbi</b>", 
+            "pagemap": {
+                "person": [
+                    {
+                        "org": "Professor: UC Los Angeles UC San Diego Founder/Co-founder: Linkabit Corporation Qualcomm Inc. The Viterbi Group"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpSwjCwdZYTxsHuU7mBTQ4MPXcKER98Q-ujLsFuPuUoLsmVRo9Mme4j0U", 
+                        "height": "132"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/USC-Viterbi_School_of_Engineering.jpg/220px-USC-Viterbi_School_of_Engineering.jpg"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "bday": "1935-03-09", 
+                        "category": "Italian, American", 
+                        "note": "Significant projects Viterbi algorithm", 
+                        "fn": "Andrew J. Viterbi[1]"
+                    }
+                ]
+            }, 
+            "snippet": "Andrew James Viterbi (born Andrea Giacomo Viterbi; March 9, 1935) is an \nAmerican electrical engineer and businessman who co-founded Qualcomm Inc. \nand\u00a0...", 
+            "htmlSnippet": "Andrew James <b>Viterbi</b> (born Andrea Giacomo <b>Viterbi</b>; March 9, 1935) is an <br>\nAmerican electrical engineer and businessman who co-founded Qualcomm Inc. <br>\nand&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Andrew_Viterbi", 
+            "cacheId": "TuLslHtZCYQJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Viterbi decoder - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Viterbi</b> decoder - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Viterbi_decoder", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Viterbi</b>_decoder", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "280", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGNsLk3zC_QMj8frq-D0RB-nhuklSKL28P7WL4w2ja4Nklt5fbzVwKVBau", 
+                        "height": "180"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e8/Viterbi_decoder_hardware_implementation_BMU.png/350px-Viterbi_decoder_hardware_implementation_BMU.png"
+                    }
+                ]
+            }, 
+            "snippet": "A Viterbi decoder uses the Viterbi algorithm for decoding a bitstream that has \nbeen encoded using convolutional code or trellis code. There are other \nalgorithms\u00a0...", 
+            "htmlSnippet": "A <b>Viterbi</b> decoder uses the <b>Viterbi</b> algorithm for decoding a bitstream that has <br>\nbeen encoded using convolutional code or trellis code. There are other <br>\nalgorithms&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Viterbi_decoder", 
+            "cacheId": "3PRyZ2RuQM8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "USC Viterbi School of Engineering - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "USC <b>Viterbi</b> School of Engineering - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/USC_Viterbi_School_of_Engineering", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/USC_<b>Viterbi</b>_School_of_Engineering", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "192", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtRztehpOg2cVYwzDayTRjevaNaJov2k47xUnm28EpJQavjKa4H6UugOM", 
+                        "height": "128"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/USC_Campaign_1783.jpg/240px-USC_Campaign_1783.jpg"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "fn": "USC Viterbi School of Engineering"
+                    }
+                ]
+            }, 
+            "snippet": "The Viterbi School of Engineering (formerly the USC School of Engineering) is \nlocated at the University of Southern California in the United States.", 
+            "htmlSnippet": "The <b>Viterbi</b> School of Engineering (formerly the USC School of Engineering) is <br>\nlocated at the University of Southern California in the United States.", 
+            "link": "https://en.wikipedia.org/wiki/USC_Viterbi_School_of_Engineering", 
+            "cacheId": "3za6Jt94d8EJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Iterative Viterbi decoding - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Iterative <b>Viterbi</b> decoding - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Iterative_Viterbi_decoding", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Iterative_<b>Viterbi</b>_decoding", 
+            "snippet": "Iterative Viterbi decoding is an algorithm that spots the subsequence S of an \nobservation O = {o1, ..., on} having the highest average probability (i.e., \nprobability\u00a0...", 
+            "htmlSnippet": "Iterative <b>Viterbi</b> decoding is an algorithm that spots the subsequence S of an <br>\nobservation O = {o1, ..., on} having the highest average probability (i.e., <br>\nprobability&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Iterative_Viterbi_decoding", 
+            "cacheId": "EiGxHa3hIkwJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Viterbi - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Viterbi</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Viterbi", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Viterbi</b>", 
+            "snippet": "Jump to: navigation, search. Viterbi can mean: Viterbi algorithm, an algorithm in \nsignal processing; Viterbi decoder, a device implementing the Viterbi algorithm\u00a0...", 
+            "htmlSnippet": "Jump to: navigation, search. <b>Viterbi</b> can mean: <b>Viterbi</b> algorithm, an algorithm in <br>\nsignal processing; <b>Viterbi</b> decoder, a device implementing the <b>Viterbi</b> algorithm&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Viterbi", 
+            "cacheId": "VY-HwKPtyWYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Soft output Viterbi algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Soft output <b>Viterbi</b> algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Soft_output_Viterbi_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Soft_output_<b>Viterbi</b>_algorithm", 
+            "snippet": "The soft output Viterbi algorithm (SOVA) is a variant of the classical Viterbi \nalgorithm. SOVA differs from the classical Viterbi algorithm in that it uses a \nmodified\u00a0...", 
+            "htmlSnippet": "The soft output <b>Viterbi</b> algorithm (SOVA) is a variant of the classical <b>Viterbi</b> <br>\nalgorithm. SOVA differs from the classical <b>Viterbi</b> algorithm in that it uses a <br>\nmodified&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Soft_output_Viterbi_algorithm", 
+            "cacheId": "AXidR0iv5LEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Viterbi error rate - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Viterbi</b> error rate - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Viterbi_error_rate", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Viterbi</b>_error_rate", 
+            "snippet": "In digital transmission, the Viterbi error rate, also known as the Viterbi bit error \nrate (VBER), is a measurement of error in the transmission of digital Information\u00a0...", 
+            "htmlSnippet": "In digital transmission, the <b>Viterbi</b> error rate, also known as the <b>Viterbi</b> bit error <br>\nrate (VBER), is a measurement of error in the transmission of digital Information&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Viterbi_error_rate", 
+            "cacheId": "qPl2_HXIOw0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Convolutional code - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Convolutional code - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Convolutional_code", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Convolutional_code", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "228", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOvKh7p-rQ0MFMLnTXanNwh9YD6laChLIUphPt2ch1MhyebUPSdby55pYf", 
+                        "height": "221"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/2/21/Convolutional_encoder_non-recursive.png"
+                    }
+                ]
+            }, 
+            "snippet": "In 1967 Andrew Viterbi determined that convolutional codes could be maximum-\nlikelihood decoded with reasonable complexity using time invariant trellis based\n\u00a0...", 
+            "htmlSnippet": "In 1967 Andrew <b>Viterbi</b> determined that convolutional codes could be maximum-<br>\nlikelihood decoded with reasonable complexity using time invariant trellis based<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Convolutional_code", 
+            "cacheId": "laJPYdM4LYsJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Category:USC Viterbi School of Engineering alumni - Wikipedia, the ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Category:USC <b>Viterbi</b> School of Engineering alumni - Wikipedia, the <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../Category:USC_Viterbi_School_of_Engineering_ alumni", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Category:USC_<b>Viterbi</b>_School_of_Engineering_ alumni", 
+            "snippet": "Pages in category \"USC Viterbi School of Engineering alumni\". The following 41 \npages are in this category, out of 41 total. This list may not reflect recent\u00a0...", 
+            "htmlSnippet": "Pages in category &quot;USC <b>Viterbi</b> School of Engineering alumni&quot;. The following 41 <br>\npages are in this category, out of 41 total. This list may not reflect recent&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Category:USC_Viterbi_School_of_Engineering_alumni", 
+            "cacheId": "yYFTrsn7yg8J"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Viterbi", 
+                "safe": "off", 
+                "searchTerms": "Viterbi", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "992"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Viterbi", 
+                "safe": "off", 
+                "searchTerms": "Viterbi", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "992"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.30", 
+        "formattedTotalResults": "992", 
+        "totalResults": "992", 
+        "searchTime": 0.296553
+    }
+}

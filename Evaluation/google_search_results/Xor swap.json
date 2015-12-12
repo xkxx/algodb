@@ -1,0 +1,222 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "XOR swap algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>XOR swap</b> algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/XOR_swap_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>XOR</b>_<b>swap</b>_algorithm", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "318", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQteloaON1M9SqNWmeuJdMA3gn6ODYFVUSb2hCiQBmkxyCE3iwFq91RyKo", 
+                        "height": "159"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/XOR_Swap.svg/440px-XOR_Swap.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "In computer programming, the XOR swap is an algorithm that uses the XOR \nbitwise operation to swap values of distinct variables having the same data type\u00a0...", 
+            "htmlSnippet": "In computer programming, the <b>XOR swap</b> is an algorithm that uses the XOR <br>\nbitwise operation to swap values of distinct variables having the same data type&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/XOR_swap_algorithm", 
+            "cacheId": "gFJ-tc4u418J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Swap (computer science) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Swap</b> (computer science) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Swap_(computer_science)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Swap</b>_(computer_science)", 
+            "snippet": "[edit]. Main article: XOR swap algorithm. XOR swap uses the XOR operation to \nswap two numeric variables. It is generally touted to\u00a0...", 
+            "htmlSnippet": "[edit]. Main article: <b>XOR swap</b> algorithm. <b>XOR swap</b> uses the XOR operation to <br>\nswap two numeric variables. It is generally touted to&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Swap_(computer_science)", 
+            "cacheId": "Ix8iq8-pUTQJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "XOR linked list - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>XOR</b> linked list - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/XOR_linked_list", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>XOR</b>_linked_list", 
+            "snippet": "An XOR linked list is a data structure used in computer programming. It takes ... \nThe key is the first operation, and the properties of XOR: .... XOR swap algorithm\n\u00a0...", 
+            "htmlSnippet": "An XOR linked list is a data structure used in computer programming. It takes ... <br>\nThe key is the first operation, and the properties of XOR: .... <b>XOR swap</b> algorithm<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/XOR_linked_list", 
+            "cacheId": "1nL8ri-nVYYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Exclusive or - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Exclusive or - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Exclusive_or", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Exclusive_or", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIguxigbKqrEZuG0bgQ5UKWbwl9rGxzvYSI8oCekjosuTwheB3FkwqipQ", 
+                        "height": "128"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Venn0110.svg/220px-Venn0110.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "It is symbolized by the prefix operator J and by the infix operators XOR (/\u02cc\u025bks ..... \nto swap two numeric variables in computers, using the XOR swap algorithm;\u00a0...", 
+            "htmlSnippet": "It is symbolized by the prefix operator J and by the infix operators XOR (/\u02cc\u025bks ..... <br>\nto swap two numeric variables in computers, using the <b>XOR swap</b> algorithm;&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Exclusive_or", 
+            "cacheId": "bqMAtZMf3bsJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Bubble sort - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:Bubble sort - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3ABubble_sort", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3ABubble_sort", 
+            "snippet": "1 sort; 2 XOR swapping; 3 C++ Implementation; 4 Wikicode used. 5 Bubble Sort \nis also rather slower than Insertion Sort, on average; 6 Best Case Analysis?", 
+            "htmlSnippet": "1 sort; 2 <b>XOR swapping</b>; 3 C++ Implementation; 4 Wikicode used. 5 Bubble Sort <br>\nis also rather slower than Insertion Sort, on average; 6 Best Case Analysis?", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3ABubble_sort", 
+            "cacheId": "jmlo56D4SXAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Aliasing (computing) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Aliasing (computing) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Aliasing_(computing)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Aliasing_(computing)", 
+            "snippet": "See the C example of the xor swap algorithm that is a function; it assumes the two \npointers passed to it are distinct, but if they are in fact equal (or aliases of each\u00a0...", 
+            "htmlSnippet": "See the C example of the <b>xor swap</b> algorithm that is a function; it assumes the two <br>\npointers passed to it are distinct, but if they are in fact equal (or aliases of each&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Aliasing_(computing)", 
+            "cacheId": "Xtr1i0CroqUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Exclusive or - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:Exclusive or - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3AExclusive_or", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3AExclusive_or", 
+            "snippet": "1 Properties of XOR Operation (in the Computer Science section); 2 Proof \nunhelpful; 3 XOR Swap; 4 Distributivity over Exclusive Or; 5 3-ary XOR\u00a0...", 
+            "htmlSnippet": "1 Properties of XOR Operation (in the Computer Science section); 2 Proof <br>\nunhelpful; 3 <b>XOR Swap</b>; 4 Distributivity over Exclusive Or; 5 3-ary XOR&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3AExclusive_or", 
+            "cacheId": "zIrD_lwhJV4J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Fredkin gate - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Fredkin gate - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Fredkin_gate", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Fredkin_gate", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "167", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxup_yo0ni85q1ioxXdLNwZel0bYBvd38lmoKifmyuHbm5SwZEk7owJ8hN", 
+                        "height": "153"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/math/c/7/3/c73c6c3b6724c6a0e50d2b8f0620a3ce.png"
+                    }
+                ]
+            }, 
+            "snippet": "1 Definition; 2 Logic function with XOR and AND gates; 3 Completeness ... The \nbasic Fredkin gate is a controlled swap gate that maps three inputs (C, I1, I2) onto\n\u00a0...", 
+            "htmlSnippet": "1 Definition; 2 Logic function with <b>XOR</b> and AND gates; 3 Completeness ... The <br>\nbasic Fredkin gate is a controlled <b>swap</b> gate that maps three inputs (C, I1, I2) onto<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Fredkin_gate", 
+            "cacheId": "AqRaeMip2xwJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Loss\u2013DiVincenzo quantum computer - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Loss\u2013DiVincenzo quantum computer - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Loss\u2013DiVincenzo_quantum_computer", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Loss\u2013DiVincenzo_quantum_computer", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "200", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSt1afqFcPGnwy9uhF4dzmNbbJ-GMcq2PffRgxn_r_Ki_P-8zPzQlmIQBjw", 
+                        "height": "138"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/DoubleQuantumDot.jpg/250px-DoubleQuantumDot.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "The Swap operation is achieved by applying a pulsed inter-dot gate voltage, so \nthe exchange ... The XOR gate may be achieved by combining \\sqrt{\\text{swap}}\u00a0...", 
+            "htmlSnippet": "The <b>Swap</b> operation is achieved by applying a pulsed inter-dot gate voltage, so <br>\nthe exchange ... The <b>XOR</b> gate may be achieved by combining \\sqrt{\\text{<b>swap</b>}}&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Loss%E2%80%93DiVincenzo_quantum_computer", 
+            "cacheId": "wCMj4oRNcBsJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Double bubble sort - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:Double bubble sort - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3ADouble_bubble_sort", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3ADouble_bubble_sort", 
+            "snippet": "As an aside, given today's optimizing compilers, xor swapping is less efficient \nthan using a temp variable. Flatline 16:19, 2005 Apr 9 (UTC). Firstly that \nprocessor\u00a0...", 
+            "htmlSnippet": "As an aside, given today&#39;s optimizing compilers, <b>xor swapping</b> is less efficient <br>\nthan using a temp variable. Flatline 16:19, 2005 Apr 9 (UTC). Firstly that <br>\nprocessor&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3ADouble_bubble_sort", 
+            "cacheId": "D-41l0GFnK8J"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Xor swap", 
+                "safe": "off", 
+                "searchTerms": "Xor swap", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "214"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Xor swap", 
+                "safe": "off", 
+                "searchTerms": "Xor swap", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "214"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.25", 
+        "formattedTotalResults": "214", 
+        "totalResults": "214", 
+        "searchTime": 0.252512
+    }
+}

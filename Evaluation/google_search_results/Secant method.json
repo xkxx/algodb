@@ -1,0 +1,194 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Secant method - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Secant method</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Secant_method", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Secant</b>_<b>method</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "237", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQPHrN2B_gJFXwCxJPV7SOlSh8OHgag4iaUJlFLu3647A3Xvz4gzUflISY", 
+                        "height": "213"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Secant_method.svg/300px-Secant_method.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "In numerical analysis, the secant method is a root-finding algorithm that uses a \nsuccession of roots of secant lines to better approximate a root of a function f.", 
+            "htmlSnippet": "In numerical analysis, the <b>secant method</b> is a root-finding algorithm that uses a <br>\nsuccession of roots of secant lines to better approximate a root of a function f.", 
+            "link": "https://en.wikipedia.org/wiki/Secant_method", 
+            "cacheId": "AOiX0K78MU0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Sidi's generalized secant method - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Sidi&#39;s generalized <b>secant method</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Sidi's_generalized_secant_method", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Sidi&#39;s_generalized_<b>secant</b>_<b>method</b>", 
+            "snippet": "The method was published by Avram Sidi. The method is a generalization of the \nsecant method. Like the secant method, it is an iterative method which requires\u00a0...", 
+            "htmlSnippet": "The method was published by Avram Sidi. The method is a generalization of the <br>\n<b>secant method</b>. Like the <b>secant method</b>, it is an iterative method which requires&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Sidi's_generalized_secant_method", 
+            "cacheId": "VPpIRLTJhygJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Secant method - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Secant method</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3ASecant_method", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>Secant</b>_<b>method</b>", 
+            "snippet": "1 Convergence Rate for Repeated Roots? 2 Incorrect image? 3 secant method \niteration requires single function evaluation? 4 Citation for order of convergence\n\u00a0...", 
+            "htmlSnippet": "1 Convergence Rate for Repeated Roots? 2 Incorrect image? 3 <b>secant method</b> <br>\niteration requires single function evaluation? 4 Citation for order of convergence<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3ASecant_method", 
+            "cacheId": "AkG--7gIfwAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Broyden's method - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Broyden&#39;s <b>method</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Broyden's_method", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Broyden&#39;s_<b>method</b>", 
+            "snippet": "In the secant method, we replace the first derivative f\u2032 at xn with the finite ... \niteratively based on the secant equation in the finite difference approximation:.", 
+            "htmlSnippet": "In the <b>secant method</b>, we replace the first derivative f\u2032 at xn with the finite ... <br>\niteratively based on the secant equation in the finite difference approximation:.", 
+            "link": "https://en.wikipedia.org/wiki/Broyden's_method", 
+            "cacheId": "GJCvus49YQ0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Root-finding algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Root-finding algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Root-finding_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Root-finding_algorithm", 
+            "snippet": "The false position method can be faster than the bisection method and will never \ndiverge like the secant method, but fails to converge under some naive\u00a0...", 
+            "htmlSnippet": "The false position method can be faster than the bisection method and will never <br>\ndiverge like the <b>secant method</b>, but fails to converge under some naive&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Root-finding_algorithm", 
+            "cacheId": "3HIDbfklPIQJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Quasi-Newton method - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Quasi-Newton <b>method</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Quasi-Newton_method", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Quasi-Newton_<b>method</b>", 
+            "snippet": "The \"full\" Newton's method requires the Jacobian in order to search for zeros, ... \nQuasi-Newton methods are a generalization of the secant method to find the root\n\u00a0...", 
+            "htmlSnippet": "The &quot;full&quot; Newton&#39;s method requires the Jacobian in order to search for zeros, ... <br>\nQuasi-Newton methods are a generalization of the <b>secant method</b> to find the root<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Quasi-Newton_method", 
+            "cacheId": "x_a_eCp_2CIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Brent's method - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Brent&#39;s <b>method</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Brent's_method", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Brent&#39;s_<b>method</b>", 
+            "snippet": "In numerical analysis, Brent's method is a complicated but popular root-finding \nalgorithm combining the bisection method, the secant method and inverse\u00a0...", 
+            "htmlSnippet": "In numerical analysis, Brent&#39;s method is a complicated but popular root-finding <br>\nalgorithm combining the bisection method, the <b>secant method</b> and inverse&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Brent's_method", 
+            "cacheId": "GOVx9l0Xc1IJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "False position method - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "False position <b>method</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/False_position_method", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/False_position_<b>method</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "237", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRDp6hvqsCqvlCyQgiwm-T-nx8OUk9kt_9WN9js_3YroU0sSbe66TE5oVM", 
+                        "height": "213"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/False_position_method.svg/351px-False_position_method.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "[edit]. Given ak and bk, we construct the line through the points (ak, f(ak)) and (bk, \nf(bk)), as demonstrated in the\u00a0...", 
+            "htmlSnippet": "[edit]. Given ak and bk, we construct the line through the points (ak, f(ak)) and (bk, <br>\nf(bk)), as demonstrated in the&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/False_position_method", 
+            "cacheId": "Z-lsrxzFc38J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Muller's method - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Muller&#39;s <b>method</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Muller's_method", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Muller&#39;s_<b>method</b>", 
+            "snippet": "Muller's method is based on the secant method, which constructs at every \niteration a line through two points on the graph of f. Instead, Muller's method uses\n\u00a0...", 
+            "htmlSnippet": "Muller&#39;s method is based on the <b>secant method</b>, which constructs at every <br>\niteration a line through two points on the graph of f. Instead, Muller&#39;s method uses<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Muller's_method", 
+            "cacheId": "8_G5j5idMbwJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Inverse quadratic interpolation - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Inverse quadratic interpolation - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Inverse_quadratic_interpolation", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Inverse_quadratic_interpolation", 
+            "snippet": "1 The method; 2 Explanation of the method; 3 Behaviour; 4 Comparison with \nother ... interpolation instead of quadratic interpolation gives the secant method.", 
+            "htmlSnippet": "1 The method; 2 Explanation of the method; 3 Behaviour; 4 Comparison with <br>\nother ... interpolation instead of quadratic interpolation gives the <b>secant method</b>.", 
+            "link": "https://en.wikipedia.org/wiki/Inverse_quadratic_interpolation", 
+            "cacheId": "4jZeemEcxuEJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Secant method", 
+                "safe": "off", 
+                "searchTerms": "Secant method", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "727"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Secant method", 
+                "safe": "off", 
+                "searchTerms": "Secant method", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "727"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.29", 
+        "formattedTotalResults": "727", 
+        "totalResults": "727", 
+        "searchTime": 0.287457
+    }
+}

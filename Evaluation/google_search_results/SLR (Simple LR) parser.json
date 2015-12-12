@@ -1,0 +1,180 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Simple LR parser - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Simple LR parser</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Simple_LR_parser", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Simple</b>_<b>LR</b>_<b>parser</b>", 
+            "snippet": "In computer science, a Simple LR or SLR parser is a type of LR parser with small \nparse tables and a relatively simple parser generator algorithm. As with other\u00a0...", 
+            "htmlSnippet": "In computer science, a <b>Simple</b> LR or <b>SLR</b> parser is a type of <b>LR parser</b> with small <br>\nparse tables and a relatively <b>simple</b> parser generator algorithm. As with other&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Simple_LR_parser", 
+            "cacheId": "bYo-TAiC9dQJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "SLR grammar - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>SLR</b> grammar - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/SLR_grammar", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>SLR</b>_grammar", 
+            "snippet": "[edit]. A grammar is said to be SLR(1) if the following simple LR parser algorithm \nresults in no ambiguity. If state s contains any\u00a0...", 
+            "htmlSnippet": "[edit]. A grammar is said to be <b>SLR</b>(1) if the following <b>simple LR parser</b> algorithm <br>\nresults in no ambiguity. If state s contains any&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/SLR_grammar", 
+            "cacheId": "7JESvRcXkDcJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "LR parser - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>LR parser</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/LR_parser", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>LR</b>_<b>parser</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "276", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDMUNAznZHtoffzdTu4yi6ZBZ8_U84d4JgLkBbTRgBAAZw8YQ3P5PTuWJe", 
+                        "height": "183"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/d/db/Bottom-Up_Parser.svg/377px-Bottom-Up_Parser.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "The LALR parsers and the SLR parsers are common variants of LR parsers. ..... \nare generated, the resulting parser is called either a SLR (simple LR) parser,\u00a0...", 
+            "htmlSnippet": "The LALR parsers and the SLR parsers are common variants of LR parsers. ..... <br>\nare generated, the resulting parser is called either a <b>SLR</b> (<b>simple LR) parser</b>,&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/LR_parser", 
+            "cacheId": "xGNwf8QewG4J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "User:DBSand/LR parser/Rewrite - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "User:DBSand/<b>LR parser</b>/Rewrite - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/User:DBSand/LR_parser/Rewrite", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/User:DBSand/<b>LR</b>_<b>parser</b>/Rewrite", 
+            "snippet": "4.3.2.1 A note about LR(0) versus SLR and LALR parsing ..... and parsing table \nare generated, the resulting parser is called either a SLR (simple LR) parser,\u00a0...", 
+            "htmlSnippet": "4.3.2.1 A note about LR(0) versus SLR and LALR parsing ..... and parsing table <br>\nare generated, the resulting parser is called either a <b>SLR</b> (<b>simple LR) parser</b>,&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/User:DBSand/LR_parser/Rewrite", 
+            "cacheId": "RKAnS0vBhdgJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "LALR parser - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>LALR parser</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/LALR_parser", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>LALR</b>_<b>parser</b>", 
+            "snippet": "This makes the LALR parser a memory-efficient alternative to the LR(1) ... of the \nLR parser, namely the Look-Ahead LR (LALR) and the Simple LR parser that had \n... If the LL(1) grammar has no empty derivations it is SLR(1) and if all symbols\u00a0...", 
+            "htmlSnippet": "This makes the <b>LALR parser</b> a memory-efficient alternative to the LR(1) ... of the <br>\n<b>LR parser</b>, namely the Look-Ahead LR (LALR) and the <b>Simple LR parser</b> that had <br>\n... If the LL(1) grammar has no empty derivations it is <b>SLR</b>(1) and if all symbols&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/LALR_parser", 
+            "cacheId": "pNOH1AXREkYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "SLR - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>SLR</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/SLR", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>SLR</b>", 
+            "snippet": "See also: Digital single-lens reflex camera (digital SLR or DSLR) ... in statistics; \nSimple LR parser (Simple Left-to-right Rightmost-derivation parser); Sri Lanka\u00a0...", 
+            "htmlSnippet": "See also: Digital single-lens reflex camera (digital <b>SLR</b> or <b>DSLR</b>) ... in statistics; <br>\n<b>Simple LR parser</b> (<b>Simple</b> Left-to-right Rightmost-derivation parser); Sri Lanka&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/SLR", 
+            "cacheId": "UElv86ktSHMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Simple LR parser - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Simple LR parser</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "en.wikipedia.org/wiki/Talk%3ASimple_LR_parser", 
+            "htmlFormattedUrl": "en.wikipedia.org/wiki/Talk%3A<b>Simple</b>_<b>LR</b>_<b>parser</b>", 
+            "snippet": "The parser uses a stack as work history memory, and 2 tables as methodology. \nThe SLR is a bottom up parser, that can recognize unambiguous grammars that\u00a0...", 
+            "htmlSnippet": "The <b>parser</b> uses a stack as work history memory, and 2 tables as methodology. <br>\nThe <b>SLR</b> is a bottom up <b>parser</b>, that can recognize unambiguous grammars that&nbsp;...", 
+            "link": "http://en.wikipedia.org/wiki/Talk%3ASimple_LR_parser", 
+            "cacheId": "izaNKHxwqfwJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Canonical LR parser - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Canonical <b>LR parser</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Canonical_LR_parser", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Canonical_<b>LR</b>_<b>parser</b>", 
+            "snippet": "In computer science, a canonical LR parser or LR(1) parser is an LR(k) parser for \n... DeRemer suggested two simplified versions of the LR parser called LALR and \nSLR. ... Simple parsing tables, like those used by the LR(0) parser represent\u00a0...", 
+            "htmlSnippet": "In computer science, a canonical <b>LR parser</b> or LR(1) parser is an LR(k) parser for <br>\n... DeRemer suggested two simplified versions of the <b>LR parser</b> called LALR and <br>\n<b>SLR</b>. ... <b>Simple</b> parsing tables, like those used by the LR(0) parser represent&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Canonical_LR_parser", 
+            "cacheId": "icXDU8cV7rcJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "LALR parser generator - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>LALR parser</b> generator - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/LALR_parser_generator", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>LALR</b>_<b>parser</b>_generator", 
+            "snippet": "There are other types of parser generators, such as SLR, LR, GLR and LL parser \ngenerators. What differentiates one from another is the type of BNF grammar\u00a0...", 
+            "htmlSnippet": "There are other types of <b>parser</b> generators, such as <b>SLR</b>, <b>LR</b>, GLR and LL <b>parser</b> <br>\ngenerators. What differentiates one from another is the type of BNF grammar&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/LALR_parser_generator", 
+            "cacheId": "J4oFn3MCy0YJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:LR parser - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>LR parser</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3ALR_parser", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3ALR_<b>parser</b>", 
+            "snippet": "Looks like the \"note on SLR and LALR\" overlaps a bit with the section on conflicts\n. ..... A simple or pure LR parser cannot handle the context sensitive problems\u00a0...", 
+            "htmlSnippet": "Looks like the &quot;note on <b>SLR</b> and LALR&quot; overlaps a bit with the section on conflicts<br>\n. ..... A <b>simple</b> or pure <b>LR parser</b> cannot handle the context sensitive problems&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3ALR_parser", 
+            "cacheId": "PIeY3Q1Z67kJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - SLR (Simple LR) parser", 
+                "safe": "off", 
+                "searchTerms": "SLR (Simple LR) parser", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "42"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - SLR (Simple LR) parser", 
+                "safe": "off", 
+                "searchTerms": "SLR (Simple LR) parser", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "42"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.19", 
+        "formattedTotalResults": "42", 
+        "totalResults": "42", 
+        "searchTime": 0.185635
+    }
+}

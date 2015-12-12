@@ -1,0 +1,180 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Index calculus algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Index calculus algorithm</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Index_calculus_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Index</b>_<b>calculus</b>_<b>algorithm</b>", 
+            "snippet": "In computational number theory, the index calculus algorithm is a probabilistic \nalgorithm for computing discrete logarithms. Dedicated to the discrete logarithm \nin\u00a0...", 
+            "htmlSnippet": "In computational number theory, the <b>index calculus algorithm</b> is a probabilistic <br>\nalgorithm for computing discrete logarithms. Dedicated to the discrete logarithm <br>\nin&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Index_calculus_algorithm", 
+            "cacheId": "e5Unmk2NMM4J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Index calculus algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Index calculus algorithm</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3AIndex_calculus_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>Index</b>_<b>calculus</b>_<b>algorithm</b>", 
+            "snippet": "What a great algorithm, and well described! It seems like the discrete logarithm of \nany number which is near a product of powers (in Z not Zq) of guessable\u00a0...", 
+            "htmlSnippet": "What a great <b>algorithm</b>, and well described! It seems like the discrete logarithm of <br>\nany number which is near a product of powers (in Z not Zq) of guessable&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3AIndex_calculus_algorithm", 
+            "cacheId": "w1KJt9Xc-CcJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Discrete logarithm records - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Discrete logarithm records - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Discrete_logarithm_records", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Discrete_logarithm_records", 
+            "snippet": "This computation was performed using the same index calculus algorithm as in \nthe ... This used the same algorithm for small characteristic fields as the previous\n\u00a0...", 
+            "htmlSnippet": "This computation was performed using the same <b>index calculus algorithm</b> as in <br>\nthe ... This used the same algorithm for small characteristic fields as the previous<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Discrete_logarithm_records", 
+            "cacheId": "MkrsnaQpiuQJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Hyperelliptic curve cryptography - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Hyperelliptic curve cryptography - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Hyperelliptic_curve_cryptography", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Hyperelliptic_curve_cryptography", 
+            "snippet": "The index calculus algorithm is another algorithm that can be used to solve DLP \nunder some circumstances. For Jacobians of (hyper)elliptic curves there exists\u00a0...", 
+            "htmlSnippet": "The <b>index calculus algorithm</b> is another algorithm that can be used to solve DLP <br>\nunder some circumstances. For Jacobians of (hyper)elliptic curves there exists&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Hyperelliptic_curve_cryptography", 
+            "cacheId": "SJhuSqQ_H2IJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Indicial calculus - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:Indicial <b>calculus</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3AIndicial_calculus", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3AIndicial_<b>calculus</b>", 
+            "snippet": "Algorithms based on index calculus are frequently mentioned in cryptography, an \nexample being this PARI/GP code. Wikipedia itself already redirects index\u00a0...", 
+            "htmlSnippet": "<b>Algorithms</b> based on <b>index calculus</b> are frequently mentioned in cryptography, an <br>\nexample being this PARI/GP code. Wikipedia itself already redirects <b>index</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3AIndicial_calculus", 
+            "cacheId": "JfOU3BH8DPsJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Discrete logarithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Discrete logarithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Discrete_logarithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Discrete_logarithm", 
+            "snippet": "Several important algorithms in public-key cryptography base their security on \nthe ... Baby-step giant-step \u00b7 Function field sieve \u00b7 Index calculus algorithm\u00a0...", 
+            "htmlSnippet": "Several important algorithms in public-key cryptography base their security on <br>\nthe ... Baby-step giant-step &middot; Function field sieve &middot; <b>Index calculus algorithm</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Discrete_logarithm", 
+            "cacheId": "7imu4Vf2ay0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Pollard's kangaroo algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Pollard&#39;s kangaroo <b>algorithm</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Pollard's_kangaroo_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Pollard&#39;s_kangaroo_<b>algorithm</b>", 
+            "snippet": "The algorithm was introduced in 1978 by the number theorist J. M. Pollard, in the \nsame ... time discrete logarithm algorithm, see the index calculus algorithm.", 
+            "htmlSnippet": "The algorithm was introduced in 1978 by the number theorist J. M. Pollard, in the <br>\nsame ... time discrete logarithm algorithm, see the <b>index calculus algorithm</b>.", 
+            "link": "https://en.wikipedia.org/wiki/Pollard's_kangaroo_algorithm", 
+            "cacheId": "wv0K0Bur5n8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Book:List of Algorithms - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Book:List of <b>Algorithms</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Book:List_of_Algorithms", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Book:List_of_<b>Algorithms</b>", 
+            "snippet": "Book:List of Algorithms ... Discrete logarithm \u00b7 Baby-step giant-step \u00b7 Index \ncalculus algorithm \u00b7 Pollard's rho algorithm for logarithms \u00b7 Pohlig\u2013Hellman \nalgorithm\u00a0...", 
+            "htmlSnippet": "Book:List of Algorithms ... Discrete logarithm &middot; Baby-step giant-step &middot; <b>Index</b> <br>\n<b>calculus algorithm</b> &middot; Pollard&#39;s rho algorithm for logarithms &middot; Pohlig\u2013Hellman <br>\nalgorithm&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Book:List_of_Algorithms", 
+            "cacheId": "aEsv0l7z6nEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Factor base - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Factor base - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Factor_base", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Factor_base", 
+            "snippet": "The difference between these algorithms is essentially the methods used to \ngenerate (x, y) candidates. Factor bases are also used in the Index calculus\u00a0...", 
+            "htmlSnippet": "The difference between these <b>algorithms</b> is essentially the methods used to <br>\ngenerate (x, y) candidates. Factor bases are also used in the <b>Index calculus</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Factor_base", 
+            "cacheId": "URM4rDp324UJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Pollard's rho algorithm for logarithms - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Pollard&#39;s rho <b>algorithm</b> for logarithms - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Pollard's_rho_algorithm_for_logarithms", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Pollard&#39;s_rho_<b>algorithm</b>_for_logarithms", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "140", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSaSbim2P33w77aID39-QCjxNIpXOiIO6VzgK6GRhI50K7mK2egYm5dFNM", 
+                        "height": "56"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/math/5/3/3/533af701acd39cb60d43185ff001a163.png"
+                    }
+                ]
+            }, 
+            "snippet": "Pollard's rho algorithm for logarithms is an algorithm introduced by John Pollard \nin 1978 for solving the .... \"Monte Carlo methods for index computation (mod p)\".", 
+            "htmlSnippet": "Pollard&#39;s rho <b>algorithm</b> for logarithms is an <b>algorithm</b> introduced by John Pollard <br>\nin 1978 for solving the .... &quot;Monte Carlo methods for <b>index</b> computation (mod p)&quot;.", 
+            "link": "https://en.wikipedia.org/wiki/Pollard's_rho_algorithm_for_logarithms", 
+            "cacheId": "rW5BGP7FSQoJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Index calculus algorithm", 
+                "safe": "off", 
+                "searchTerms": "Index calculus algorithm", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "20200"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Index calculus algorithm", 
+                "safe": "off", 
+                "searchTerms": "Index calculus algorithm", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "20200"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.32", 
+        "formattedTotalResults": "20,200", 
+        "totalResults": "20200", 
+        "searchTime": 0.324534
+    }
+}

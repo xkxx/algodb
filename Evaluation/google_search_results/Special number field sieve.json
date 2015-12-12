@@ -1,0 +1,180 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Special number field sieve - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Special number field sieve</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Special_number_field_sieve", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Special</b>_<b>number</b>_<b>field</b>_<b>sieve</b>", 
+            "snippet": "In number theory, a branch of mathematics, the special number field sieve (SNFS\n) is a special-purpose integer factorization algorithm. The general number field\u00a0...", 
+            "htmlSnippet": "In number theory, a branch of mathematics, the <b>special number field sieve</b> (<b>SNFS</b><br>\n) is a special-purpose integer factorization algorithm. The general number field&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Special_number_field_sieve", 
+            "cacheId": "f30W8JCYQ8cJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "General number field sieve - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "General <b>number field sieve</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/General_number_field_sieve", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/General_<b>number</b>_<b>field</b>_<b>sieve</b>", 
+            "snippet": "It is a generalization of the special number field sieve: while the latter can only \nfactor numbers of a certain special form, the general number field sieve can factor\n\u00a0...", 
+            "htmlSnippet": "It is a generalization of the <b>special number field sieve</b>: while the latter can only <br>\nfactor numbers of a certain special form, the general number field sieve can factor<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/General_number_field_sieve", 
+            "cacheId": "8_ExMaLDKOsJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Special number field sieve - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Special number field sieve</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3ASpecial_number_field_sieve", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>Special</b>_<b>number</b>_<b>field</b>_<b>sieve</b>", 
+            "snippet": "There's rational sieve, special number field sieve, and general number field sieve\n, each a bit more complicated than the previous one. I don't think any of them\u00a0...", 
+            "htmlSnippet": "There&#39;s rational sieve, <b>special number field sieve</b>, and general number field sieve<br>\n, each a bit more complicated than the previous one. I don&#39;t think any of them&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3ASpecial_number_field_sieve", 
+            "cacheId": "DYUqC_raFYIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:General number field sieve - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:General <b>number field sieve</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3AGeneral_number_field_sieve", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3AGeneral_<b>number</b>_<b>field</b>_<b>sieve</b>", 
+            "snippet": "[edit]. Article should mention parallel approaches based on Bernstein's proposals \nfor NFS circuits. I might try to add something\u00a0...", 
+            "htmlSnippet": "[edit]. Article should mention parallel approaches based on Bernstein&#39;s proposals <br>\nfor NFS circuits. I might try to add something&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3AGeneral_number_field_sieve", 
+            "cacheId": "OYMtnv_KR5wJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Rational sieve - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Rational <b>sieve</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Rational_sieve", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Rational_<b>sieve</b>", 
+            "snippet": "In mathematics, the rational sieve is a general algorithm for factoring integers into \nprime factors. It is essentially a special case of the general number field sieve,\u00a0...", 
+            "htmlSnippet": "In mathematics, the rational sieve is a general algorithm for factoring integers into <br>\nprime factors. It is essentially a <b>special</b> case of the general <b>number field sieve</b>,&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Rational_sieve", 
+            "cacheId": "347ESQWjOukJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Function field sieve - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Function <b>field sieve</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Function_field_sieve", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Function_<b>field</b>_<b>sieve</b>", 
+            "snippet": "In mathematics, the function field sieve was introduced in 1994 by Leonard \nAdleman as an ... Italics indicate that algorithm is for numbers of special forms\u00a0...", 
+            "htmlSnippet": "In mathematics, the function <b>field sieve</b> was introduced in 1994 by Leonard <br>\nAdleman as an ... Italics indicate that algorithm is for <b>numbers</b> of <b>special</b> forms&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Function_field_sieve", 
+            "cacheId": "g90n6fVmcLwJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Quadratic sieve - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Quadratic <b>sieve</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Quadratic_sieve", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Quadratic_<b>sieve</b>", 
+            "snippet": "The quadratic sieve algorithm (QS) is an integer factorization algorithm and, in \npractice, the second fastest method known (after the general number field sieve). \n... the size of the integer to be factored, and not on special structure or properties.", 
+            "htmlSnippet": "The quadratic sieve algorithm (QS) is an integer factorization algorithm and, in <br>\npractice, the second fastest method known (after the general <b>number field sieve</b>). <br>\n... the size of the integer to be factored, and not on <b>special</b> structure or properties.", 
+            "link": "https://en.wikipedia.org/wiki/Quadratic_sieve", 
+            "cacheId": "6cnNa2-ExQoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Discrete logarithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Discrete logarithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Discrete_logarithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Discrete_logarithm", 
+            "snippet": "When the numbers involved are large, it is more efficient to reduce modulo p \nmultiple .... the first three steps of the number field sieve algorithm only depend \non the group G, not on ... Italics indicate that algorithm is for numbers of special \nforms\u00a0...", 
+            "htmlSnippet": "When the numbers involved are large, it is more efficient to reduce modulo p <br>\nmultiple .... the first three steps of the <b>number field sieve</b> algorithm only depend <br>\non the group G, not on ... Italics indicate that algorithm is for numbers of <b>special</b> <br>\nforms&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Discrete_logarithm", 
+            "cacheId": "7imu4Vf2ay0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Integer factorization - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Integer factorization - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Integer_factorization", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Integer_factorization", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "152", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR-jrOqy11WWDB3GeTGqcqlyEX9qcXvDtCQyfsBol6dgbwON8GFA52FHc4", 
+                        "height": "84"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/PrimeDecompositionExample.svg/190px-PrimeDecompositionExample.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "In number theory, integer factorization is the decomposition of a composite ... 3.1 \nSpecial-purpose; 3.2 General-purpose; 3.3 Other notable algorithms ... time is for \nthe general number field sieve (GNFS) algorithm, which, for a b-bit number n, is:.", 
+            "htmlSnippet": "In number theory, integer factorization is the decomposition of a composite ... 3.1 <br>\n<b>Special</b>-purpose; 3.2 General-purpose; 3.3 Other notable algorithms ... time is for <br>\nthe general <b>number field sieve</b> (GNFS) algorithm, which, for a b-bit number n, is:.", 
+            "link": "https://en.wikipedia.org/wiki/Integer_factorization", 
+            "cacheId": "W1TDbj2M4HcJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Template:Number-theoretic algorithms - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Template:<b>Number</b>-theoretic algorithms - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Template:Number-theoretic_algorithms", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Template:<b>Number</b>-theoretic_algorithms", 
+            "snippet": "... Quadratic sieve (QS) \u00b7 General number field sieve (GNFS) \u00b7 Special number \nfield sieve (SNFS) ... Italics indicate that algorithm is for numbers of special forms\n\u00a0...", 
+            "htmlSnippet": "... Quadratic sieve (QS) &middot; General number field sieve (GNFS) &middot; <b>Special number</b> <br>\n<b>field sieve</b> (SNFS) ... Italics indicate that algorithm is for numbers of special forms<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Template:Number-theoretic_algorithms", 
+            "cacheId": "uK8y13wRf40J"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Special number field sieve", 
+                "safe": "off", 
+                "searchTerms": "Special number field sieve", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "928"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Special number field sieve", 
+                "safe": "off", 
+                "searchTerms": "Special number field sieve", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "928"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.26", 
+        "formattedTotalResults": "928", 
+        "totalResults": "928", 
+        "searchTime": 0.26199
+    }
+}

@@ -1,0 +1,214 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Paxos (computer science) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Paxos</b> (computer science) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Paxos_(computer_science)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Paxos</b>_(computer_science)", 
+            "snippet": "Paxos is a family of protocols for solving consensus in a network of unreliable \nprocessors. Consensus is the process of agreeing on one result among a group \nof\u00a0...", 
+            "htmlSnippet": "<b>Paxos</b> is a family of protocols for solving consensus in a network of unreliable <br>\nprocessors. Consensus is the process of agreeing on one result among a group <br>\nof&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Paxos_(computer_science)", 
+            "cacheId": "zXcryn67tFcJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Paxi - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Paxi - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Paxi", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Paxi", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "216", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTDvwbocfmXkrrkSrVqWa8vV9SbPYw2A9WMRUQJ27QPZ-BWn41KWDN66HM", 
+                        "height": "60"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Gaios_panoramic.jpg/270px-Gaios_panoramic.jpg"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "nickname": "\u03a0\u03b1\u03be\u03bf\u03af", 
+                        "fn": "Paxoi"
+                    }
+                ]
+            }, 
+            "snippet": "Paxi or Paxoi is the smallest group of Ionian Islands (the Heptanese). In Greek it \nis a plural form. The largest islands are Paxos and nearby Antipaxos. Antipaxos\u00a0...", 
+            "htmlSnippet": "Paxi or Paxoi is the smallest group of Ionian Islands (the Heptanese). In Greek it <br>\nis a plural form. The largest islands are <b>Paxos</b> and nearby Antipaxos. Antipaxos&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Paxi", 
+            "cacheId": "C0KpSWUpMw8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Paxos (disambiguation) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Paxos</b> (disambiguation) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Paxos_(disambiguation)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Paxos</b>_(disambiguation)", 
+            "snippet": "Jump to: navigation, search. Paxos may refer to: Paxos (computer science), an \nalgorithm for fault tolerant distributed systems; Paxoi, a Greek island\u00a0...", 
+            "htmlSnippet": "Jump to: navigation, search. <b>Paxos</b> may refer to: <b>Paxos</b> (computer science), an <br>\nalgorithm for fault tolerant distributed systems; Paxoi, a Greek island&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Paxos_(disambiguation)", 
+            "cacheId": "jajB1N67vaoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Battle of Paxos - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Battle of <b>Paxos</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Battle_of_Paxos", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Battle_of_<b>Paxos</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGyTCja3eyBRxq3BO9yFJIWXA3Pj_VHiHx5eX38YJJAFS0eoOW5JzbMI8", 
+                        "height": "196"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Corfu_topographic_map-en.svg/220px-Corfu_topographic_map-en.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "The Battle of Paxos was a naval battle between the Kingdom of Illyria, with their \nAcarnanian allies, against the allies of Corcyra (modern Corfu), the Achaean\u00a0...", 
+            "htmlSnippet": "The Battle of <b>Paxos</b> was a naval battle between the Kingdom of Illyria, with their <br>\nAcarnanian allies, against the allies of Corcyra (modern Corfu), the Achaean&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Battle_of_Paxos", 
+            "cacheId": "LqlPLu_-g9sJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Antipaxos - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Antipaxos - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Antipaxos", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Anti<b>paxos</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT6vodXVHeu3wM_lU2FwuHwDVYh8J4VUOs9TJhCbE0sUOtTBoF-vMoDhMMc", 
+                        "height": "132"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Antipaxos_vrika_beach_overview_bgiu.jpg/220px-Antipaxos_vrika_beach_overview_bgiu.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "Antipaxos is a small island (5 km\u00b2) in Greece, about 3 kilometres (2 miles) to the \nsouth of Paxos. It is administratively part of the municipality of Paxoi in Corfu\u00a0...", 
+            "htmlSnippet": "Antipaxos is a small island (5 km\u00b2) in Greece, about 3 kilometres (2 miles) to the <br>\nsouth of <b>Paxos</b>. It is administratively part of the municipality of Paxoi in Corfu&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Antipaxos", 
+            "cacheId": "T7vRXoJmnboJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Raft (computer science) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Raft (computer science) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Raft_(computer_science)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Raft_(computer_science)", 
+            "snippet": "Raft is a consensus algorithm designed as an alternative to Paxos. It was meant \nto be more understandable than Paxos by means of separation of logic, but it is\u00a0...", 
+            "htmlSnippet": "Raft is a consensus algorithm designed as an alternative to <b>Paxos</b>. It was meant <br>\nto be more understandable than <b>Paxos</b> by means of separation of logic, but it is&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Raft_(computer_science)", 
+            "cacheId": "F8a3MU6ipzEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "State machine replication - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "State machine replication - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/State_machine_replication", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/State_machine_replication", 
+            "snippet": "Paxos is a protocol for solving consensus, and may be used as the protocol for ... \nWith Paxos, multiple replicas may believe they are leaders at the same time.", 
+            "htmlSnippet": "<b>Paxos</b> is a protocol for solving consensus, and may be used as the protocol for ... <br>\nWith <b>Paxos</b>, multiple replicas may believe they are leaders at the same time.", 
+            "link": "https://en.wikipedia.org/wiki/State_machine_replication", 
+            "cacheId": "ZXvxAY5pGAkJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Virtual synchrony - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Virtual synchrony - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Virtual_synchrony", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Virtual_synchrony", 
+            "snippet": "To give another example, by delivering messages optimistically, virtual \nsynchrony systems can outperform the Paxos that is normally required for \nimplementation\u00a0...", 
+            "htmlSnippet": "To give another example, by delivering messages optimistically, virtual <br>\nsynchrony systems can outperform the <b>Paxos</b> that is normally required for <br>\nimplementation&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Virtual_synchrony", 
+            "cacheId": "lK2M3iCr0KkJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Christodoulos Aronis - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Christodoulos Aronis - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Christodoulos_Aronis", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Christodoulos_Aronis", 
+            "snippet": "Life[edit]. Christodoulos Aronis was born in 1884 in the village of Dendiatika, on \nthe island of Paxos, Greece (see Paxi). He graduated from the Athens School of\u00a0...", 
+            "htmlSnippet": "Life[edit]. Christodoulos Aronis was born in 1884 in the village of Dendiatika, on <br>\nthe island of <b>Paxos</b>, Greece (see Paxi). He graduated from the Athens School of&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Christodoulos_Aronis", 
+            "cacheId": "8I-CiROjSKsJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Consensus (computer science) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Consensus (computer science) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Consensus_(computer_science)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Consensus_(computer_science)", 
+            "snippet": "The database is implemented on top of a fault-tolerant log layer which is based \non the Paxos consensus algorithm. In this scheme, Chubby clients communicate\n\u00a0...", 
+            "htmlSnippet": "The database is implemented on top of a fault-tolerant log layer which is based <br>\non the <b>Paxos</b> consensus algorithm. In this scheme, Chubby clients communicate<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Consensus_(computer_science)", 
+            "cacheId": "M1-ZOE6rzoEJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Paxos", 
+                "safe": "off", 
+                "searchTerms": "Paxos", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "253"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Paxos", 
+                "safe": "off", 
+                "searchTerms": "Paxos", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "253"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.28", 
+        "formattedTotalResults": "253", 
+        "totalResults": "253", 
+        "searchTime": 0.284545
+    }
+}

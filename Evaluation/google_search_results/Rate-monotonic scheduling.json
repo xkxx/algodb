@@ -1,0 +1,180 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Rate-monotonic scheduling - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Rate</b>-<b>monotonic scheduling</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Rate-monotonic_scheduling", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Rate</b>-<b>monotonic</b>_<b>scheduling</b>", 
+            "snippet": "In computer science, rate-monotonic scheduling (RMS) is a scheduling algorithm \nused in real-time operating systems (RTOS) with a static-priority scheduling\u00a0...", 
+            "htmlSnippet": "In computer science, <b>rate</b>-<b>monotonic scheduling</b> (RMS) is a scheduling algorithm <br>\nused in real-time operating systems (RTOS) with a static-priority scheduling&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Rate-monotonic_scheduling", 
+            "cacheId": "v-uJAok3MpoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Rate-monotonic scheduling - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Rate</b>-<b>monotonic scheduling</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3ARate-monotonic_scheduling", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>Rate</b>-<b>monotonic</b>_<b>scheduling</b>", 
+            "snippet": "... talk page for discussing improvements to the Rate-monotonic scheduling \narticle. ... inversion; 9 Taxonomy: Rate-monotonic is a priority assignment \nalgorithm\u00a0...", 
+            "htmlSnippet": "... talk page for discussing improvements to the <b>Rate</b>-<b>monotonic scheduling</b> <br>\narticle. ... inversion; 9 Taxonomy: Rate-monotonic is a priority assignment <br>\nalgorithm&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3ARate-monotonic_scheduling", 
+            "cacheId": "gsMWDfO4ig4J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Earliest deadline first scheduling - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Earliest deadline first <b>scheduling</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Earliest_deadline_first_scheduling", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Earliest_deadline_first_<b>scheduling</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "122", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRbhTQad_bRAkLHoejQbEOKndk3D8vhldrxANo64xsHxU9N_wSMPe16", 
+                        "height": "44"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/math/f/c/7/fc761931e2e32fcd20b06ead16d0a6c1.png"
+                    }
+                ]
+            }, 
+            "snippet": "Earliest deadline first (EDF) or least time to go is a dynamic scheduling algorithm \nused in ... Compared to fixed priority scheduling techniques like rate-monotonic\u00a0...", 
+            "htmlSnippet": "Earliest deadline first (EDF) or least time to go is a dynamic <b>scheduling</b> algorithm <br>\nused in ... Compared to fixed priority <b>scheduling</b> techniques like <b>rate</b>-<b>monotonic</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Earliest_deadline_first_scheduling", 
+            "cacheId": "6W0vQQZhdNIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Deadline-monotonic scheduling - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Deadline-<b>monotonic scheduling</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Deadline-monotonic_scheduling", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Deadline-<b>monotonic</b>_<b>scheduling</b>", 
+            "snippet": "Deadline-monotonic priority assignment is a priority assignment policy used with \nfixed priority pre-emptive scheduling. With deadline-monotonic priority\u00a0...", 
+            "htmlSnippet": "Deadline-<b>monotonic</b> priority assignment is a priority assignment policy used with <br>\nfixed priority pre-emptive <b>scheduling</b>. With deadline-<b>monotonic</b> priority&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Deadline-monotonic_scheduling", 
+            "cacheId": "4q46EFKXR0wJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Least slack time scheduling - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Least slack time <b>scheduling</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Least_slack_time_scheduling", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Least_slack_time_<b>scheduling</b>", 
+            "snippet": "Least slack time (LST) scheduling is a scheduling algorithm. ... However, like \nearliest deadline first, and unlike rate monotonic scheduling, this algorithm can \nbe\u00a0...", 
+            "htmlSnippet": "Least slack time (LST) scheduling is a scheduling algorithm. ... However, like <br>\nearliest deadline first, and unlike <b>rate monotonic scheduling</b>, this algorithm can <br>\nbe&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Least_slack_time_scheduling", 
+            "cacheId": "WYhG1fS3LzAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Category:Processor scheduling algorithms - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Category:Processor <b>scheduling</b> algorithms - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../Category:Processor_scheduling_algorithms", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Category:Processor_<b>scheduling</b>_algorithms", 
+            "snippet": "Pages in category \"Processor scheduling algorithms\" ... E. Earliest deadline first \nscheduling ... R. Rate-monotonic scheduling \u00b7 Round-robin scheduling\u00a0...", 
+            "htmlSnippet": "Pages in category &quot;Processor scheduling algorithms&quot; ... E. Earliest deadline first <br>\nscheduling ... R. <b>Rate</b>-<b>monotonic scheduling</b> &middot; Round-robin scheduling&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Category:Processor_scheduling_algorithms", 
+            "cacheId": "d1AmdPiOKfEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Real-time operating system - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Real-time operating system - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Real-time_operating_system", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Real-time_operating_system", 
+            "snippet": "An RTOS has an advanced algorithm for scheduling. ... Rate-monotonic \nscheduling \u00b7 Round-robin scheduling \u00b7 Fixed priority pre-emptive scheduling, an\u00a0...", 
+            "htmlSnippet": "An RTOS has an advanced algorithm for scheduling. ... <b>Rate</b>-<b>monotonic</b> <br>\n<b>scheduling</b> &middot; Round-robin scheduling &middot; Fixed priority pre-emptive scheduling, an&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Real-time_operating_system", 
+            "cacheId": "jxYiyqVSP40J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "RMA - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "RMA - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/RMA", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/RMA", 
+            "snippet": "... Application, a service offered by SWIFT; Rate-Monotonic Analysis, the \nqualitative method used to prepare a system for Rate-monotonic scheduling\u00a0...", 
+            "htmlSnippet": "... Application, a service offered by SWIFT; Rate-Monotonic Analysis, the <br>\nqualitative method used to prepare a system for <b>Rate</b>-<b>monotonic scheduling</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/RMA", 
+            "cacheId": "ZY75WhDZrlcJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Micro-Controller Operating Systems - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Micro-Controller Operating Systems - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Micro-Controller_Operating_Systems", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Micro-Controller_Operating_Systems", 
+            "snippet": "Tasks with the highest rate of execution are given the highest priority using rate-\nmonotonic scheduling. This scheduling algorithm is used in real-time operating\u00a0...", 
+            "htmlSnippet": "Tasks with the highest rate of execution are given the highest priority using <b>rate</b>-<br>\n<b>monotonic scheduling</b>. This scheduling algorithm is used in real-time operating&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Micro-Controller_Operating_Systems", 
+            "cacheId": "zZ3eCxAqZ30J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Least slack time scheduling - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:Least slack time <b>scheduling</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3ALeast_slack_time_scheduling", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3ALeast_slack_time_<b>scheduling</b>", 
+            "snippet": "\"and unlike rate monotonic scheduling, this algorithm can be used for processor \nutilization up to 100%.\" That's not true. RMS can utilize the system up to 100%\u00a0...", 
+            "htmlSnippet": "&quot;and unlike <b>rate monotonic scheduling</b>, this algorithm can be used for processor <br>\nutilization up to 100%.&quot; That&#39;s not true. RMS can utilize the system up to 100%&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3ALeast_slack_time_scheduling", 
+            "cacheId": "f3kAw44gbMYJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Rate-monotonic scheduling", 
+                "safe": "off", 
+                "searchTerms": "Rate-monotonic scheduling", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "54"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Rate-monotonic scheduling", 
+                "safe": "off", 
+                "searchTerms": "Rate-monotonic scheduling", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "54"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.25", 
+        "formattedTotalResults": "54", 
+        "totalResults": "54", 
+        "searchTime": 0.250383
+    }
+}

@@ -1,0 +1,203 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Lamport's bakery algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Lamport&#39;s bakery algorithm</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Lamport's_bakery_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Lamport&#39;s</b>_<b>bakery</b>_<b>algorithm</b>", 
+            "snippet": "Lamport's bakery algorithm is a computer algorithm devised by computer scientist \nLeslie Lamport, which is intended to improve the safety in the usage of shared\u00a0...", 
+            "htmlSnippet": "<b>Lamport&#39;s bakery algorithm</b> is a computer algorithm devised by computer scientist <br>\nLeslie Lamport, which is intended to improve the safety in the usage of shared&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Lamport's_bakery_algorithm", 
+            "cacheId": "ah-UBvfwdgUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Lamport's distributed mutual exclusion algorithm - Wikipedia, the ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Lamport&#39;s</b> distributed mutual exclusion <b>algorithm</b> - Wikipedia, the <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../Lamport's_distributed_mutual_exclusion_ algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../<b>Lamport&#39;s</b>_distributed_mutual_exclusion_ <b>algorithm</b>", 
+            "snippet": "Lamport's distributed mutual exclusion algorithm. From Wikipedia ... It has been \nsuggested that this article be merged into Lamport's bakery algorithm. (Discuss)\u00a0...", 
+            "htmlSnippet": "Lamport&#39;s distributed mutual exclusion algorithm. From Wikipedia ... It has been <br>\nsuggested that this article be merged into <b>Lamport&#39;s bakery algorithm</b>. (Discuss)&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Lamport's_distributed_mutual_exclusion_algorithm", 
+            "cacheId": "gcN7soextO0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Lamport's bakery algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Lamport&#39;s bakery algorithm</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "en.wikipedia.org/wiki/Talk%3ALamport's_bakery_algorithm", 
+            "htmlFormattedUrl": "en.wikipedia.org/wiki/Talk%3A<b>Lamport&#39;s</b>_<b>bakery</b>_<b>algorithm</b>", 
+            "snippet": "It's, of course, of no theoretical import ... but might it seem a bit more natural to \ncomputer scientists to index the array from [0..N-1]? This follows more closely \nhow\u00a0...", 
+            "htmlSnippet": "It&#39;s, of course, of no theoretical import ... but might it seem a bit more natural to <br>\ncomputer scientists to index the array from [0..N-1]? This follows more closely <br>\nhow&nbsp;...", 
+            "link": "http://en.wikipedia.org/wiki/Talk%3ALamport's_bakery_algorithm", 
+            "cacheId": "QpdRQxSg33oJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Leslie Lamport - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Leslie Lamport - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Leslie_Lamport", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Leslie_Lamport", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ13oXAogH4292yOe8hnPdlPAJF1YFzCWJLBgBrpLwaFjg8NevIj0EHtKcv", 
+                        "height": "224"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Leslie_Lamport.jpg/220px-Leslie_Lamport.jpg"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "url": "www.lamport.org", 
+                        "bday": "1941-02-07", 
+                        "category": "Computer science", 
+                        "url_text": "www.lamport.org", 
+                        "fn": "Leslie Lamport"
+                    }
+                ]
+            }, 
+            "snippet": "... Lamport's bakery algorithm \u00b7 Byzantine fault tolerance \u00b7 Paxos algorithm \u00b7 \nLamport ... Lamport's research contributions have laid the foundations of the \ntheory of\u00a0...", 
+            "htmlSnippet": "... <b>Lamport&#39;s bakery algorithm</b> &middot; Byzantine fault tolerance &middot; Paxos algorithm &middot; <br>\nLamport ... Lamport&#39;s research contributions have laid the foundations of the <br>\ntheory of&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Leslie_Lamport", 
+            "cacheId": "9hXg7nQjwsMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Lamport - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Lamport - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Lamport", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Lamport", 
+            "snippet": "... an arena in Toronto, Canada; Lamport's Distributed Mutual Exclusion \nAlgorithm ... cryptographic technique; Lamport timestamps, synchronisation \nalgorithm\u00a0...", 
+            "htmlSnippet": "... an arena in Toronto, Canada; <b>Lamport&#39;s</b> Distributed Mutual Exclusion <br>\n<b>Algorithm</b> ... cryptographic technique; Lamport timestamps, synchronisation <br>\n<b>algorithm</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Lamport", 
+            "cacheId": "Hhf6TLODxC0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Szyma\u0144ski's algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Szyma\u0144ski&#39;s <b>algorithm</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Szyma\u0144ski's_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Szyma\u0144ski&#39;s_<b>algorithm</b>", 
+            "snippet": "The algorithm is modeled on a waiting room with an entry and exit doorway. ... \"A \nsimple solution to Lamport's concurrent programming problem with linear wait\".", 
+            "htmlSnippet": "The <b>algorithm</b> is modeled on a waiting room with an entry and exit doorway. ... &quot;A <br>\nsimple solution to <b>Lamport&#39;s</b> concurrent programming problem with linear wait&quot;.", 
+            "link": "https://en.wikipedia.org/wiki/Szyma%C5%84ski's_algorithm", 
+            "cacheId": "NHYGD_L22p8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Ricart\u2013Agrawala algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Ricart\u2013Agrawala <b>algorithm</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Ricart\u2013Agrawala_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Ricart\u2013Agrawala_<b>algorithm</b>", 
+            "snippet": "The Ricart-Agrawala Algorithm is an algorithm for mutual exclusion on a \ndistributed system. This algorithm is an extension and optimization of Lamport's \nDistributed Mutual ... Lamport's Bakery Algorithm \u00b7 Lamport's Distributed Mutual \nExclusion\u00a0...", 
+            "htmlSnippet": "The Ricart-Agrawala Algorithm is an algorithm for mutual exclusion on a <br>\ndistributed system. This algorithm is an extension and optimization of Lamport&#39;s <br>\nDistributed Mutual ... <b>Lamport&#39;s Bakery Algorithm</b> &middot; Lamport&#39;s Distributed Mutual <br>\nExclusion&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Ricart%E2%80%93Agrawala_algorithm", 
+            "cacheId": "CkflMMUkBzsJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Raymond's algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Raymond&#39;s <b>algorithm</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Raymond's_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Raymond&#39;s_<b>algorithm</b>", 
+            "snippet": "Raymond's Algorithm is a lock based algorithm for mutual exclusion on a \ndistributed ... Bakery Algorithm \u00b7 Lamport's Distributed Mutual Exclusion Algorithm\n\u00a0...", 
+            "htmlSnippet": "Raymond&#39;s <b>Algorithm</b> is a lock based <b>algorithm</b> for mutual exclusion on a <br>\ndistributed ... <b>Bakery Algorithm</b> &middot; <b>Lamport&#39;s</b> Distributed Mutual Exclusion <b>Algorithm</b><br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Raymond's_algorithm", 
+            "cacheId": "veTVPmPQ5kMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Ticket lock - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Ticket lock - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Ticket_lock", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Ticket_lock", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV7BLumGZDGSP-K_8D86Fuf3QnXMoJSvdd98nZVRg0hYhwgfCfbZ6Jsvc", 
+                        "height": "121"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Take_a_ticket.jpg/220px-Take_a_ticket.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "Lamport's bakery algorithm also uses atomic operations (loads and stores) to \nensure that the ticket numbers are unique, but requires O(n) space and time,\u00a0...", 
+            "htmlSnippet": "<b>Lamport&#39;s bakery algorithm</b> also uses atomic operations (loads and stores) to <br>\nensure that the ticket numbers are unique, but requires O(n) space and time,&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Ticket_lock", 
+            "cacheId": "sHYumvjBxycJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Eisenberg & McGuire algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Eisenberg &amp; McGuire <b>algorithm</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Eisenberg_%26_McGuire_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Eisenberg_%26_McGuire_<b>algorithm</b>", 
+            "snippet": "[hide]. 1 Algorithm; 2 References; 3 External links; 4 See also .... Dekker's \nalgorithm \u00b7 Peterson's algorithm \u00b7 Lamport's bakery algorithm \u00b7 Szymanski's \nalgorithm\u00a0...", 
+            "htmlSnippet": "[hide]. 1 Algorithm; 2 References; 3 External links; 4 See also .... Dekker&#39;s <br>\nalgorithm &middot; Peterson&#39;s algorithm &middot; <b>Lamport&#39;s bakery algorithm</b> &middot; Szymanski&#39;s <br>\nalgorithm&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Eisenberg_%26_McGuire_algorithm", 
+            "cacheId": "n_vh0llu97EJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Lamport's Bakery algorithm", 
+                "safe": "off", 
+                "searchTerms": "Lamport's Bakery algorithm", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "26"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Lamport's Bakery algorithm", 
+                "safe": "off", 
+                "searchTerms": "Lamport's Bakery algorithm", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "26"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.25", 
+        "formattedTotalResults": "26", 
+        "totalResults": "26", 
+        "searchTime": 0.247237
+    }
+}

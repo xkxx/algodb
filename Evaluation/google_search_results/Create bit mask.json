@@ -1,0 +1,194 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Mask (computing) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Mask</b> (computing) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Mask_(computing)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Mask</b>_(computing)", 
+            "snippet": "Using a mask, multiple bits in a byte, nibble, word (etc.) .... In C++ an alternative \nwould be to create a class to encapsulate the set of arguments that glClear could\n\u00a0...", 
+            "htmlSnippet": "Using a <b>mask</b>, multiple <b>bits</b> in a byte, nibble, word (etc.) .... In C++ an alternative <br>\nwould be to <b>create</b> a class to encapsulate the set of arguments that glClear could<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Mask_(computing)", 
+            "cacheId": "VLZF-4ybb3EJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Bit field - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Bit</b> field - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Bit_field", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Bit</b>_field", 
+            "snippet": "In C and C++ bit fields can be created using unsigned int, signed int, or _Bool (in \nC99). You can set, test, and change the bits in the field using a mask, bitwise\u00a0...", 
+            "htmlSnippet": "In C and C++ <b>bit</b> fields can be created using unsigned int, signed int, or _Bool (in <br>\nC99). You can set, test, and change the <b>bits</b> in the field using a <b>mask</b>, bitwise&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Bit_field", 
+            "cacheId": "pL05z5sngXMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "umask - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "umask - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Umask", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/U<b>mask</b>", 
+            "snippet": "The bits in the mask may be changed by invoking the umask command. ..... (p is a \nbit in the requested file permission mode of a process that is creating a file; q is\u00a0...", 
+            "htmlSnippet": "The <b>bits</b> in the <b>mask</b> may be changed by invoking the umask command. ..... (p is a <br>\n<b>bit</b> in the requested file permission mode of a process that is <b>creating</b> a file; q is&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Umask", 
+            "cacheId": "chIpMU_LzAoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Mask (disambiguation) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Mask</b> (disambiguation) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Mask_(disambiguation)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Mask</b>_(disambiguation)", 
+            "snippet": "Affinity mask, a bit mask indicating what processor a thread or process ... used to \nextract information from another bit pattern; Photomask, used to create the\u00a0...", 
+            "htmlSnippet": "Affinity <b>mask</b>, a <b>bit mask</b> indicating what processor a thread or process ... used to <br>\nextract information from another <b>bit</b> pattern; <b>Photomask</b>, used to <b>create</b> the&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Mask_(disambiguation)", 
+            "cacheId": "BiCoYf0bX4EJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Subnetwork - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Subnetwork - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Subnetwork", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Subnetwork", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "240", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQWnLiaobuybEiJSJr9ImjFx3nZUIYBOPYYAeinb4-9DPPfJNLy1Nl20Ro", 
+                        "height": "69"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Subnetting_operation.svg/300px-Subnetting_operation.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "Creating a subnet by dividing the host identifier. A subnetwork, or .... An IPv4 \nnetwork mask consists of 32 bits, a sequence of ones (1) followed by a block of \n0s.", 
+            "htmlSnippet": "<b>Creating</b> a subnet by dividing the host identifier. A subnetwork, or .... An IPv4 <br>\nnetwork <b>mask</b> consists of 32 <b>bits</b>, a sequence of ones (1) followed by a block of <br>\n0s.", 
+            "link": "https://en.wikipedia.org/wiki/Subnetwork", 
+            "cacheId": "16mWYjxXW8gJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Bit blit - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Bit</b> blit - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Bit_blit", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Bit</b>_blit", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "153", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTWc-7DzsI5XKsaAiTlZJ84HECPSqfguGxJeipZvvbSK4XEL5dQR77mEBd-", 
+                        "height": "153"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/f/f9/XBlit_back.png"
+                    }
+                ]
+            }, 
+            "snippet": "The operation involves at least two bitmaps, one source and destination, possibly \na third that is often called the \"mask\" and sometimes a fourth used to create a\u00a0...", 
+            "htmlSnippet": "The operation involves at least two bitmaps, one source and destination, possibly <br>\na third that is often called the &quot;<b>mask</b>&quot; and sometimes a fourth used to <b>create</b> a&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Bit_blit", 
+            "cacheId": "C3DWY5kTnfEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Bit manipulation - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Bit</b> manipulation - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Bit_manipulation", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Bit</b>_manipulation", 
+            "snippet": "Bit manipulation is the act of algorithmically manipulating bits or other pieces of ... \n1 Terminology; 2 Bitwise operation; 3 Masks; 4 Example of bit manipulation\u00a0...", 
+            "htmlSnippet": "<b>Bit</b> manipulation is the act of algorithmically manipulating <b>bits</b> or other pieces of ... <br>\n1 Terminology; 2 Bitwise operation; 3 <b>Masks</b>; 4 Example of <b>bit</b> manipulation&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Bit_manipulation", 
+            "cacheId": "ojGcBXmU2LwJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Bit array - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Bit</b> array - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Bit_array", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Bit</b>_array", 
+            "snippet": "A bit array (also known as bitmap, bitset, bit string, or bit vector) is an array data ... \nTo obtain the bit mask needed for these operations, we can use a bit shift\u00a0...", 
+            "htmlSnippet": "A <b>bit</b> array (also known as bitmap, bitset, <b>bit</b> string, or <b>bit</b> vector) is an array data ... <br>\nTo obtain the <b>bit mask</b> needed for these operations, we can use a <b>bit</b> shift&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Bit_array", 
+            "cacheId": "t6bUvMq4D9kJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Affinity mask - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Affinity <b>mask</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Affinity_mask", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Affinity_<b>mask</b>", 
+            "snippet": "An affinity mask is a bit mask indicating what processor(s) a thread or process \nshould be run on by the scheduler of an operating system. Setting the affinity \nmask\u00a0...", 
+            "htmlSnippet": "An affinity <b>mask</b> is a <b>bit mask</b> indicating what processor(s) a thread or process <br>\nshould be run on by the scheduler of an operating system. Setting the affinity <br>\n<b>mask</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Affinity_mask", 
+            "cacheId": "U85Z1uqKFXAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Mask ROM - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Mask</b> ROM - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Mask_ROM", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Mask</b>_ROM", 
+            "snippet": "The main advantage of mask ROM is its cost. Per bit, mask ROM is more compact \nthan any other kind of semiconductor memory. Since the cost of an integrated\u00a0...", 
+            "htmlSnippet": "The main advantage of <b>mask</b> ROM is its cost. Per <b>bit</b>, <b>mask</b> ROM is more compact <br>\nthan any other kind of semiconductor memory. Since the cost of an integrated&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Mask_ROM", 
+            "cacheId": "aR0EB9qgEUUJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Create bit mask", 
+                "safe": "off", 
+                "searchTerms": "Create bit mask", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "303000"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Create bit mask", 
+                "safe": "off", 
+                "searchTerms": "Create bit mask", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "303000"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.32", 
+        "formattedTotalResults": "303,000", 
+        "totalResults": "303000", 
+        "searchTime": 0.324351
+    }
+}

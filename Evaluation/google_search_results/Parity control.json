@@ -1,0 +1,236 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Error detection and correction - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Error detection and correction - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Error_detection_and_correction", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Error_detection_and_correction", 
+            "snippet": "5.1 Repetition codes; 5.2 Parity bits; 5.3 Checksums; 5.4 Cyclic redundancy ... \nThis is an error control technique whereby an error detection scheme is \ncombined\u00a0...", 
+            "htmlSnippet": "5.1 Repetition codes; 5.2 <b>Parity</b> bits; 5.3 Checksums; 5.4 Cyclic redundancy ... <br>\nThis is an error <b>control</b> technique whereby an error detection scheme is <br>\ncombined&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Error_detection_and_correction", 
+            "cacheId": "jQ7p6K00JEIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Parity bit - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Parity</b> bit - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Parity_bit", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Parity</b>_bit", 
+            "snippet": "A parity bit, or check bit is a bit added to the end of a string of binary code that \nindicates whether the number of bits in the string with the value one is even or \nodd.", 
+            "htmlSnippet": "A <b>parity</b> bit, or check bit is a bit added to the end of a string of binary code that <br>\nindicates whether the number of bits in the string with the value one is even or <br>\nodd.", 
+            "link": "https://en.wikipedia.org/wiki/Parity_bit", 
+            "cacheId": "6Wih6FKph0QJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Serial port - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Serial port - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Serial_port", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Serial_port", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQY2pQ12TWH_bX-8lLy6zaxwiiW5Yv2ozwquaxZHdtuDO_pnGWEoXXEAF9", 
+                        "height": "132"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Serial_port.jpg/220px-Serial_port.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "Server computers may use a serial port as a control console for diagnostics. ... \n3.2 Data bits; 3.3 Parity; 3.4 Stop bits; 3.5 Conventional notation; 3.6 Flow control.", 
+            "htmlSnippet": "Server computers may use a serial port as a <b>control</b> console for diagnostics. ... <br>\n3.2 Data bits; 3.3 <b>Parity</b>; 3.4 Stop bits; 3.5 Conventional notation; 3.6 Flow <b>control</b>.", 
+            "link": "https://en.wikipedia.org/wiki/Serial_port", 
+            "cacheId": "aaX73DBl7igJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "RAM parity - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "RAM <b>parity</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/RAM_parity", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/RAM_<b>parity</b>", 
+            "snippet": "RAM parity checking is the storing of a redundant parity bit representing the parity \n(odd or even) of a small amount of computer data (typically one byte) stored in\u00a0...", 
+            "htmlSnippet": "RAM <b>parity</b> checking is the storing of a redundant <b>parity</b> bit representing the <b>parity</b> <br>\n(odd or even) of a small amount of computer data (typically one byte) stored in&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/RAM_parity", 
+            "cacheId": "98yGKRoancIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Doctrine of parity - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Doctrine of <b>parity</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Doctrine_of_parity", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Doctrine_of_<b>parity</b>", 
+            "snippet": "The doctrine of parity was used to justify agricultural price controls in the United \nStates beginning in the 1920s. It was the belief that farming should be as\u00a0...", 
+            "htmlSnippet": "The doctrine of <b>parity</b> was used to justify agricultural price <b>controls</b> in the United <br>\nStates beginning in the 1920s. It was the belief that farming should be as&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Doctrine_of_parity", 
+            "cacheId": "jDjMvxe6VCUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Air supremacy - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Air supremacy - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Air_supremacy", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Air_supremacy", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSjLNRVjz2dOFugpdzYWoOnhpMmPLnYJrrfwj3ZTLVG_acCxqooVv2qdg", 
+                        "height": "117"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Lockheed_Martin_F-22A_Raptor_JSOH.jpg/220px-Lockheed_Martin_F-22A_Raptor_JSOH.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "Air supremacy is a position in war where a side holds complete control of air \nwarfare ... Air parity is the lowest level of control, where a side only holds control \nof\u00a0...", 
+            "htmlSnippet": "Air supremacy is a position in war where a side holds complete <b>control</b> of air <br>\nwarfare ... Air <b>parity</b> is the lowest level of <b>control</b>, where a side only holds <b>control</b> <br>\nof&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Air_supremacy", 
+            "cacheId": "r2x5tmzsBeIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Natural fertility - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Natural fertility - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Natural_fertility", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Natural_fertility", 
+            "snippet": "Actual natural fertility is based on cohort parity: the fraction of women in a cohort \nwho ... The natural fertility method of birth control is a concept developed by the\u00a0...", 
+            "htmlSnippet": "Actual natural fertility is based on cohort <b>parity</b>: the fraction of women in a cohort <br>\nwho ... The natural fertility method of birth <b>control</b> is a concept developed by the&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Natural_fertility", 
+            "cacheId": "jAGu5-6OxrEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Checksum - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Checksum - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Checksum", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Checksum", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "225", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf_A-DOIazGoUXeNm0kmwkRo2T4KZQ2IPG8gi8QVN8nZFHIThdGuUvHEw", 
+                        "height": "224"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Checksum.svg/330px-Checksum.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "Check digits and parity bits are special cases of checksums, appropriate for small \nblocks of data (such as Social Security numbers, bank account numbers,\u00a0...", 
+            "htmlSnippet": "Check digits and <b>parity</b> bits are special cases of checksums, appropriate for small <br>\nblocks of data (such as Social Security numbers, bank account numbers,&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Checksum", 
+            "cacheId": "zYYX0MKSvOoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Interest rate parity - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Interest rate <b>parity</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Interest_rate_parity", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Interest_rate_<b>parity</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "300", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQZPa-m9eZWrZsI0F3SBVZyRLcrOyONvJscj-D3j1N3RKawKe8uog6-D4Yg", 
+                        "height": "146"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Uncovered-interest-rate-parity.svg/375px-Uncovered-interest-rate-parity.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "Given foreign exchange market equilibrium, the interest rate parity condition .... is \nfound to hold when there is open capital mobility and limited capital controls,\u00a0...", 
+            "htmlSnippet": "Given foreign exchange market equilibrium, the interest rate <b>parity</b> condition .... is <br>\nfound to hold when there is open capital mobility and limited capital <b>controls</b>,&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Interest_rate_parity", 
+            "cacheId": "0xMuDPsdzuYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Parity-check matrix - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Parity</b>-check matrix - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Parity-check_matrix", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Parity</b>-check_matrix", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "145", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTEVduJBsQo40cFdRERU-xSYD7SDusEyK0XRhsZjlCEE2cXJcxoKIgx3A", 
+                        "height": "41"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/math/b/d/b/bdb32ccf276c53747e5f44050eba256a.png"
+                    }
+                ]
+            }, 
+            "snippet": "In coding theory, a parity-check matrix of a linear block code C is a matrix which \ndescribes the linear relations that the components of a codeword must satisfy.", 
+            "htmlSnippet": "In coding theory, a <b>parity</b>-check matrix of a linear block code C is a matrix which <br>\ndescribes the linear relations that the components of a codeword must satisfy.", 
+            "link": "https://en.wikipedia.org/wiki/Parity-check_matrix", 
+            "cacheId": "P6O3B8ZUcNQJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Parity control", 
+                "safe": "off", 
+                "searchTerms": "Parity control", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "137000"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Parity control", 
+                "safe": "off", 
+                "searchTerms": "Parity control", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "137000"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.30", 
+        "formattedTotalResults": "137,000", 
+        "totalResults": "137000", 
+        "searchTime": 0.29635
+    }
+}

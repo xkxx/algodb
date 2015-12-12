@@ -1,0 +1,180 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Stochastic tunneling - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Stochastic tunneling</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Stochastic_tunneling", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Stochastic</b>_<b>tunneling</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "261", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRXgrTC7Ncj3G18YkuuK-n5qpI95jTfOIYGGTcXJK8V8qZesVvp4jbMgNPz", 
+                        "height": "193"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Stun.jpg/400px-Stun.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "In numerical analysis, stochastic tunneling (STUN) is an approach to global \noptimization based on the Monte Carlo method-sampling of the function to be\u00a0...", 
+            "htmlSnippet": "In numerical analysis, <b>stochastic tunneling</b> (STUN) is an approach to global <br>\noptimization based on the Monte Carlo method-sampling of the function to be&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Stochastic_tunneling", 
+            "cacheId": "joNKPgi0tSkJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Stochastic tunneling - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Stochastic tunneling</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3AStochastic_tunneling", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>Stochastic</b>_<b>tunneling</b>", 
+            "snippet": "Talk:Stochastic tunneling ... to the Monte-Carlo-(MC)-technique - therefore we are \ntalking about a stochastic algorithm, like genetic algorithms for example.", 
+            "htmlSnippet": "Talk:<b>Stochastic tunneling</b> ... to the Monte-Carlo-(MC)-technique - therefore we are <br>\ntalking about a stochastic algorithm, like genetic algorithms for example.", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3AStochastic_tunneling", 
+            "cacheId": "WnBvMaWR5lEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Stochastic optimization - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Stochastic</b> optimization - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Stochastic_optimization", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Stochastic</b>_optimization", 
+            "snippet": "Some stochastic optimization methods use random iterates to solve .... \"\nStochastic tunneling approach for global optimization of complex potential \nenergy\u00a0...", 
+            "htmlSnippet": "Some stochastic optimization methods use random iterates to solve .... &quot;<br>\n<b>Stochastic tunneling</b> approach for global optimization of complex potential <br>\nenergy&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Stochastic_optimization", 
+            "cacheId": "X04I8NAhFR4J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Global optimization - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Global optimization - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Global_optimization", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Global_optimization", 
+            "snippet": "Stochastic tunneling (STUN) is an approach to global optimization based on the \nMonte Carlo method-sampling of the function to be objective minimized in which\n\u00a0...", 
+            "htmlSnippet": "<b>Stochastic tunneling</b> (STUN) is an approach to global optimization based on the <br>\nMonte Carlo method-sampling of the function to be objective minimized in which<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Global_optimization", 
+            "cacheId": "EUCnc8OEyjMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Category:Stochastic optimization - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Category:<b>Stochastic</b> optimization - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Category:Stochastic_optimization", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Category:<b>Stochastic</b>_optimization", 
+            "snippet": "The main article for this category is Stochastic optimization. ... approximation \u00b7 \nStochastic gradient descent \u00b7 Stochastic programming \u00b7 Stochastic tunneling.", 
+            "htmlSnippet": "The main article for this category is Stochastic optimization. ... approximation &middot; <br>\nStochastic gradient descent &middot; Stochastic programming &middot; <b>Stochastic tunneling</b>.", 
+            "link": "https://en.wikipedia.org/wiki/Category:Stochastic_optimization", 
+            "cacheId": "d8vtaGQERxsJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "User:Jasonb05 - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "User:Jasonb05 - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/User:Jasonb05", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/User:Jasonb05", 
+            "snippet": "3.1 Stochastic; 3.2 Evolutionary; 3.3 Physical; 3.4 Probabilistic; 3.5 Swarm ... \nannealing \u00b7 Adaptive simulated annealing \u00b7 Stochastic tunneling \u00b7 Parallel \ntempering\u00a0...", 
+            "htmlSnippet": "3.1 Stochastic; 3.2 Evolutionary; 3.3 Physical; 3.4 Probabilistic; 3.5 Swarm ... <br>\nannealing &middot; Adaptive simulated annealing &middot; <b>Stochastic tunneling</b> &middot; Parallel <br>\ntempering&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/User:Jasonb05", 
+            "cacheId": "KxZi0go14O4J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Simulated annealing - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Simulated annealing - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Simulated_annealing", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Simulated_annealing", 
+            "snippet": "Stochastic tunneling attempts to overcome the increasing difficulty simulated \nannealing runs have in escaping from local minima as the temperature \ndecreases,\u00a0...", 
+            "htmlSnippet": "<b>Stochastic tunneling</b> attempts to overcome the increasing difficulty simulated <br>\nannealing runs have in escaping from local minima as the temperature <br>\ndecreases,&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Simulated_annealing", 
+            "cacheId": "WeeVQjQyM5QJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Book:Optimization - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Book:Optimization - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Book:Optimization", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Book:Optimization", 
+            "snippet": "... Global optimization \u00b7 Simulated annealing \u00b7 Monte Carlo method \u00b7 Stochastic \ntunneling \u00b7 Reactive search optimization; METAHEURISTICS: Genetic algorithm\u00a0...", 
+            "htmlSnippet": "... Global optimization &middot; Simulated annealing &middot; Monte Carlo method &middot; <b>Stochastic</b> <br>\n<b>tunneling</b> &middot; Reactive search optimization; METAHEURISTICS: Genetic algorithm&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Book:Optimization", 
+            "cacheId": "lEC5YJFSDdIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "User:Ajay Malkoti/Books/Optimization methods - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "User:Ajay Malkoti/Books/Optimization methods - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/User:Ajay.../Optimization_methods", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/User:Ajay.../Optimization_methods", 
+            "snippet": "Simulated annealing \u00b7 Quantum annealing \u00b7 Stochastic tunneling \u00b7 Tabu search \u00b7 \nReactive search optimization \u00b7 Stochastic gradient descent \u00b7 Genetic algorithm\u00a0...", 
+            "htmlSnippet": "Simulated annealing &middot; Quantum annealing &middot; <b>Stochastic tunneling</b> &middot; Tabu search &middot; <br>\nReactive search optimization &middot; Stochastic gradient descent &middot; Genetic algorithm&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/User:Ajay_Malkoti/Books/Optimization_methods", 
+            "cacheId": "xaNBpsnNK6cJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "User:Amatdiou/Books/terative methods - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "User:Amatdiou/Books/terative methods - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/User:Amatdiou/.../terative_methods", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/User:Amatdiou/.../terative_methods", 
+            "snippet": "... Simulated annealing \u00b7 Simultaneous perturbation stochastic approximation ... \nStochastic gradient descent \u00b7 Stochastic programming \u00b7 Stochastic tunneling.", 
+            "htmlSnippet": "... Simulated annealing &middot; Simultaneous perturbation stochastic approximation ... <br>\nStochastic gradient descent &middot; Stochastic programming &middot; <b>Stochastic tunneling</b>.", 
+            "link": "https://en.wikipedia.org/wiki/User:Amatdiou/Books/terative_methods", 
+            "cacheId": "BudFMV53LOcJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Stochastic tunneling", 
+                "safe": "off", 
+                "searchTerms": "Stochastic tunneling", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "159"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Stochastic tunneling", 
+                "safe": "off", 
+                "searchTerms": "Stochastic tunneling", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "159"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.25", 
+        "formattedTotalResults": "159", 
+        "totalResults": "159", 
+        "searchTime": 0.250974
+    }
+}

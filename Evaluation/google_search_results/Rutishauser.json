@@ -1,0 +1,233 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Heinz Rutishauser - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Heinz <b>Rutishauser</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Heinz_Rutishauser", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Heinz_<b>Rutishauser</b>", 
+            "snippet": "Life[edit]. Heinz Rutishauser's father died when he was 13 years old and his \nmother died three years later, so together with his younger brother and sister he\u00a0...", 
+            "htmlSnippet": "Life[edit]. Heinz <b>Rutishauser&#39;s</b> father died when he was 13 years old and his <br>\nmother died three years later, so together with his younger brother and sister he&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Heinz_Rutishauser", 
+            "cacheId": "S6uusisEsVMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "ALGOL 58 - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "ALGOL 58 - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/ALGOL_58", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/ALGOL_58", 
+            "snippet": "ZMMD was an abbreviation for Z\u00fcrich (where Rutishauser worked), M\u00fcnchen (\nworkplace of Bauer and Samelson), Mainz (location of the Z22 computer),\u00a0...", 
+            "htmlSnippet": "ZMMD was an abbreviation for Z\u00fcrich (where <b>Rutishauser</b> worked), M\u00fcnchen (<br>\nworkplace of Bauer and Samelson), Mainz (location of the Z22 computer),&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/ALGOL_58", 
+            "cacheId": "Vd2uSjy_AWEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Chelsea Grin - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Chelsea Grin - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Chelsea_Grin", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Chelsea_Grin", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "240", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRxxTX7mUTWv0pV_ZGdTqiIf5P1YLI7XlpiZS42fvX5Im_HB2w0jYaXEaVD", 
+                        "height": "160"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Chelseagrin-1.jpg/300px-Chelseagrin-1.jpg"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "url": "www.chelseagrinmetal.com", 
+                        "url_text": "www.chelseagrinmetal.com", 
+                        "nickname": "Ahaziah (2007\u20132008)", 
+                        "fn": "Chelsea Grin"
+                    }, 
+                    {
+                        "fn": "Chelsea Grin"
+                    }
+                ]
+            }, 
+            "snippet": "Jake Harmond Dan Jones David Flinn Pablo Viveros Stephen Rutishauser. Past \nmembers, Austin Marticorena Chris Kilbourn Andrew Carlston Michael Stafford", 
+            "htmlSnippet": "Jake Harmond Dan Jones David Flinn Pablo Viveros Stephen <b>Rutishauser</b>. Past <br>\nmembers, Austin Marticorena Chris Kilbourn Andrew Carlston Michael Stafford", 
+            "link": "https://en.wikipedia.org/wiki/Chelsea_Grin", 
+            "cacheId": "xBmks4z6rxEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:ALGOL 58 - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:ALGOL 58 - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3AALGOL_58", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3AALGOL_58", 
+            "snippet": "Rutishauser), M\u00fcnchen (ie. Bauer, Samelson), Mainz (ie. Z22), Darmstadt (ie. \nBottenbruch). What is the ZMMD-group? What does the second sentence mean?", 
+            "htmlSnippet": "<b>Rutishauser</b>), M\u00fcnchen (ie. Bauer, Samelson), Mainz (ie. Z22), Darmstadt (ie. <br>\nBottenbruch). What is the ZMMD-group? What does the second sentence mean?", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3AALGOL_58", 
+            "cacheId": "rzoTEQyxt8kJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Ambros Speiser - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Ambros Speiser - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Ambros_Speiser", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Ambros_Speiser", 
+            "snippet": "In 1949, Eduard Stiefel sent Heinz Rutishauser and Speiser to study in Harvard \nunder Howard H. Aiken and in Princeton under John von Neumann; Rutishauser\n\u00a0...", 
+            "htmlSnippet": "In 1949, Eduard Stiefel sent Heinz <b>Rutishauser</b> and Speiser to study in Harvard <br>\nunder Howard H. Aiken and in Princeton under John von Neumann; <b>Rutishauser</b><br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Ambros_Speiser", 
+            "cacheId": "QuSO9odLZ1cJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Rolf Sattler - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Rolf Sattler - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Rolf_Sattler", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Rolf_Sattler", 
+            "snippet": "Rutishauser and Isler regard him as one of the major contemporary proponents \nof continuum morphology (or Fuzzy Arberian Morphology: FAM). Furthermore, he\n\u00a0...", 
+            "htmlSnippet": "<b>Rutishauser</b> and Isler regard him as one of the major contemporary proponents <br>\nof continuum morphology (or Fuzzy Arberian Morphology: FAM). Furthermore, he<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Rolf_Sattler", 
+            "cacheId": "rbBQe9nPvEoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "List of mayors of Frauenfeld - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "List of mayors of Frauenfeld - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/List_of_mayors_of_Frauenfeld", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/List_of_mayors_of_Frauenfeld", 
+            "pagemap": {
+                "person": [
+                    {
+                        "org": "FDP/PRD"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS5MzuKLY2u_pWPyDq6fMgDFrzAJio7zkfllGrQG4IuYC6301HCd1eKko", 
+                        "height": "207"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Frauenfeld-coat_of_arms.png/220px-Frauenfeld-coat_of_arms.png"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "fn": "Julius Ruoff"
+                    }, 
+                    {
+                        "fn": "Karl Halter"
+                    }, 
+                    {
+                        "fn": "Otto Hermann"
+                    }, 
+                    {
+                        "fn": "Albert Bauer"
+                    }, 
+                    {
+                        "fn": "Max Rutishauser"
+                    }, 
+                    {
+                        "fn": "Hans Bachofner"
+                    }, 
+                    {
+                        "fn": "Carlo Parolari"
+                    }
+                ]
+            }, 
+            "snippet": "1970\u20131977, Max Rutishauser, (-2012). 1977\u20132005, Hans Bachofner, (born 1939)\n, FDP/PRD. 2005\u2013present, Carlo Parolari, (born 1962), FDP/PRD\u00a0...", 
+            "htmlSnippet": "1970\u20131977, Max <b>Rutishauser</b>, (-2012). 1977\u20132005, Hans Bachofner, (born 1939)<br>\n, FDP/PRD. 2005\u2013present, Carlo Parolari, (born 1962), FDP/PRD&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/List_of_mayors_of_Frauenfeld", 
+            "cacheId": "yER5NkpNWP4J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "ALGOL - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "ALGOL - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/ALGOL", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/ALGOL", 
+            "snippet": "ZMMD-implementation, 1958, Friedrich L. Bauer, Heinz Rutishauser, Klaus \nSamelson, Hermann Bottenbruch, Germany, implementation of ALGOL 58 \u00b7 Z22", 
+            "htmlSnippet": "ZMMD-implementation, 1958, Friedrich L. Bauer, Heinz <b>Rutishauser</b>, Klaus <br>\nSamelson, Hermann Bottenbruch, Germany, implementation of ALGOL 58 &middot; Z22", 
+            "link": "https://en.wikipedia.org/wiki/ALGOL", 
+            "cacheId": "R6WIX2758uMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Klaus Samelson - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Klaus Samelson - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Klaus_Samelson", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Klaus_Samelson", 
+            "snippet": "... John McCarthy, Alan J. Perlis, Heinz Rutishauser, Klaus Samelson, Bernard \nVauquois, Joseph Henry Wegstein, Adriaan van Wijngaarden, Michael Woodger,\n\u00a0...", 
+            "htmlSnippet": "... John McCarthy, Alan J. Perlis, Heinz <b>Rutishauser</b>, Klaus Samelson, Bernard <br>\nVauquois, Joseph Henry Wegstein, Adriaan van Wijngaarden, Michael Woodger,<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Klaus_Samelson", 
+            "cacheId": "IQQXBkZryhAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "IGHG1 - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "IGHG1 - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/IGHG1", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/IGHG1", 
+            "snippet": "Rutishauser U, Cunningham BA, Bennett C, et al. (1971). \"The covalent structure \nof a human gamma G-immunoglobulin. 8. Amino acid sequence of heavy-chain\u00a0...", 
+            "htmlSnippet": "<b>Rutishauser</b> U, Cunningham BA, Bennett C, et al. (1971). &quot;The covalent structure <br>\nof a human gamma G-immunoglobulin. 8. Amino acid sequence of heavy-chain&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/IGHG1", 
+            "cacheId": "bSfZJ3qzQEAJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Rutishauser", 
+                "safe": "off", 
+                "searchTerms": "Rutishauser", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "148"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Rutishauser", 
+                "safe": "off", 
+                "searchTerms": "Rutishauser", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "148"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.23", 
+        "formattedTotalResults": "148", 
+        "totalResults": "148", 
+        "searchTime": 0.226584
+    }
+}

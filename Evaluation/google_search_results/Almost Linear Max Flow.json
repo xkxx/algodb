@@ -1,0 +1,278 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Maximum flow problem - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Maximum flow</b> problem - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Maximum_flow_problem", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Maximum</b>_<b>flow</b>_problem", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "264", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzoz9IscCyRpXlIWMSDWM2nUrUwYjUj2FWaeDJpzgnzx9VE5yqlwqQFLA", 
+                        "height": "144"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Max_flow.svg/330px-Max_flow.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "In optimization theory, maximum flow problems involve finding a feasible flow ..... \n\"An Almost-Linear-Time Algorithm for Approximate Max Flow in Undirected\u00a0...", 
+            "htmlSnippet": "In optimization theory, <b>maximum flow</b> problems involve finding a feasible flow ..... <br>\n&quot;An <b>Almost</b>-<b>Linear</b>-Time Algorithm for Approximate <b>Max Flow</b> in Undirected&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Maximum_flow_problem", 
+            "cacheId": "QtKStUKWoQoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Machtey Award - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Machtey Award - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Machtey_Award", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Machtey_Award", 
+            "snippet": "Yin Tat Lee (MIT), \"Path-Finding Methods for Linear Programming : Solving ... (\nUniversity of California, Berkeley), \"Nearly Maximum Flows in Nearly Linear Time\n\".", 
+            "htmlSnippet": "Yin Tat Lee (MIT), &quot;Path-Finding Methods for Linear Programming : Solving ... (<br>\nUniversity of California, Berkeley), &quot;Nearly <b>Maximum Flows</b> in <b>Nearly Linear</b> Time<br>\n&quot;.", 
+            "link": "https://en.wikipedia.org/wiki/Machtey_Award", 
+            "cacheId": "weZudXE7AYUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Lift coefficient - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Lift coefficient - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Lift_coefficient", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Lift_coefficient", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "240", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSfcD6qeTuOTfLs4hJXw2XaXqC0m9MwX7FQa-IHibjke1IMwTXHLmwMml5i", 
+                        "height": "196"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Lift_curve.svg/300px-Lift_curve.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "CL is a function of the angle of the body to the flow, its Reynold number and ... \nThey show an almost linear increase in lift coefficient with increasing angle of ... \nAt higher angles a maximum point is reached, after which the lift coefficient \nreduces.", 
+            "htmlSnippet": "CL is a function of the angle of the body to the <b>flow</b>, its Reynold number and ... <br>\nThey show an <b>almost linear</b> increase in lift coefficient with increasing angle of ... <br>\nAt higher angles a <b>maximum</b> point is reached, after which the lift coefficient <br>\nreduces.", 
+            "link": "https://en.wikipedia.org/wiki/Lift_coefficient", 
+            "cacheId": "KWib_LwgwtcJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Widest path problem - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Widest path problem - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Widest_path_problem", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Widest_path_problem", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "192", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSf5FMAW9aPYjQSaFMCkZHDU7v90fY2X4GMnCYtO6rqJ18J4SAK4vQ_928", 
+                        "height": "244"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CPT-Graphs-undirected-weighted.svg/240px-CPT-Graphs-undirected-weighted.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "Based on this test, there also exists a linear time algorithm for finding a widest .... \nRepeatedly augmenting a flow along a maximum capacity path in the residual\u00a0...", 
+            "htmlSnippet": "Based on this test, there also exists a <b>linear</b> time algorithm for finding a widest .... <br>\nRepeatedly augmenting a <b>flow</b> along a <b>maximum</b> capacity path in the residual&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Widest_path_problem", 
+            "cacheId": "gnAUO5rJSYEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Dominator (graph theory) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Dominator (graph theory) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Dominator_(graph_theory)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Dominator_(graph_theory)", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "160", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTOjiBjZqaHpkmnI6DgsVCRGFzHIzbaw7dx4Wtr5GjQIEyN3qJ6aEjrMEO", 
+                        "height": "183"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Dominator_control_flow_graph.svg/200px-Dominator_control_flow_graph.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "In computer science, in control flow graphs, a node d dominates a node n if every \n... Lengauer and Tarjan developed an algorithm which is almost linear, but its\u00a0...", 
+            "htmlSnippet": "In computer science, in control <b>flow</b> graphs, a node d dominates a node n if every <br>\n... Lengauer and Tarjan developed an algorithm which is <b>almost linear</b>, but its&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Dominator_(graph_theory)", 
+            "cacheId": "yRyabPRUt7YJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "List of algorithms - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "List of algorithms - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/List_of_algorithms", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/List_of_algorithms", 
+            "snippet": "Hopcroft\u2013Karp algorithm: convert a bipartite graph to a maximum cardinality \nmatching ... polynomial algorithm for computing the maximum flow in a flow \nnetwork. ..... It is tuned for deterministic grammars, on which it performs almost \nlinear time\u00a0...", 
+            "htmlSnippet": "Hopcroft\u2013Karp algorithm: convert a bipartite graph to a maximum cardinality <br>\nmatching ... polynomial algorithm for computing the <b>maximum flow</b> in a flow <br>\nnetwork. ..... It is tuned for deterministic grammars, on which it performs <b>almost</b> <br>\n<b>linear</b> time&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/List_of_algorithms", 
+            "cacheId": "iXsrHv5PMNcJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Pelton wheel - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Pelton wheel - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Pelton_wheel", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Pelton_wheel", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQQKM9jxqyGy7Z68WCsEkBPOPPC-JtEHBD08_WgiyA8em1bx5WAlhykFfQ", 
+                        "height": "240"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Peltonturbine-1.jpg/220px-Peltonturbine-1.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "For maximum power and efficiency, the wheel and turbine system is designed \nsuch ... Because water and most liquids are nearly incompressible, almost all of \nthe ... high hydraulic head at low flow rates, where the Pelton wheel is most \nefficient.", 
+            "htmlSnippet": "For <b>maximum</b> power and efficiency, the wheel and turbine system is designed <br>\nsuch ... Because water and most liquids are <b>nearly</b> incompressible, <b>almost</b> all of <br>\nthe ... high hydraulic head at low <b>flow</b> rates, where the Pelton wheel is most <br>\nefficient.", 
+            "link": "https://en.wikipedia.org/wiki/Pelton_wheel", 
+            "cacheId": "FlaPC_doHBgJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "2-satisfiability - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "2-satisfiability - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/2-satisfiability", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/2-satisfiability", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "240", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR9pz3_hnyEvQmNLVsZvl_OMaHafL-yi60i4DdRCQd37wKXLHG31VR1HFs", 
+                        "height": "197"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Implication_graph.svg/300px-Implication_graph.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "This immediately leads to a linear time algorithm for testing satisfiability of ..... of \nblock lengths in each row and column by its sum, and use a maximum flow\u00a0...", 
+            "htmlSnippet": "This immediately leads to a <b>linear</b> time algorithm for testing satisfiability of ..... of <br>\nblock lengths in each row and column by its sum, and use a <b>maximum flow</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/2-satisfiability", 
+            "cacheId": "iVkLqjYcy0AJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Resistive opto-isolator - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Resistive opto-isolator - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Resistive_opto-isolator", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Resistive_opto-isolator", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "136", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTdTbIyDIqU0F5rTqLbgIrhc6y0kVgeCCmfR3a6kqxsHbSDYnweGgvDJ7uY", 
+                        "height": "251"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Vactrol_types.PNG/170px-Vactrol_types.PNG"
+                    }
+                ]
+            }, 
+            "snippet": "The first dependence is almost linear and temperature independent for LEDs in ... \nThe maximum output frequency (controlled signal) is limited by the parasitic\u00a0...", 
+            "htmlSnippet": "The first dependence is <b>almost linear</b> and temperature independent for LEDs in ... <br>\nThe <b>maximum</b> output frequency (controlled signal) is limited by the parasitic&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Resistive_opto-isolator", 
+            "cacheId": "PfRGoIRXP2cJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Thermistor - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Thermistor - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Thermistor", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Thermistor", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "160", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTl8QqGRjsuwaAql5h1A95AYFVNc2MuhH0gu2r0WIn0rTETWAxmWKALlto", 
+                        "height": "144"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/NTC_bead.jpg/200px-NTC_bead.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "as close to 0 as possible, so that their resistance remains nearly constant ... the \nfunction of resistance vs. temperature of a thermistor into a linear function of \\ln R \n... It can, for example, make a sensitive air-flow device employed in a sailplane\u00a0...", 
+            "htmlSnippet": "as close to 0 as possible, so that their resistance remains <b>nearly</b> constant ... the <br>\nfunction of resistance vs. temperature of a thermistor into a <b>linear</b> function of \\ln R <br>\n... It can, for example, make a sensitive air-<b>flow</b> device employed in a sailplane&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Thermistor", 
+            "cacheId": "jmd1r3p9E-gJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Almost Linear Max Flow", 
+                "safe": "off", 
+                "searchTerms": "Almost Linear Max Flow", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "1330"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Almost Linear Max Flow", 
+                "safe": "off", 
+                "searchTerms": "Almost Linear Max Flow", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "1330"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.29", 
+        "formattedTotalResults": "1,330", 
+        "totalResults": "1330", 
+        "searchTime": 0.294987
+    }
+}

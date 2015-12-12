@@ -1,0 +1,222 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Gradient descent - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Gradient descent</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Gradient_descent", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Gradient</b>_<b>descent</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "217", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcREUf4MJd1p9FeAowsEcQbFHt3PbNM6CJunFoLLXTEonr8jhjQY1xF-4_M", 
+                        "height": "232"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Gradient_descent.svg/350px-Gradient_descent.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "Gradient descent is a first-order optimization algorithm. To find a local minimum \nof a function using gradient descent, one takes steps proportional to the negative\n\u00a0...", 
+            "htmlSnippet": "<b>Gradient descent</b> is a first-order optimization algorithm. To find a local minimum <br>\nof a function using <b>gradient descent</b>, one takes steps proportional to the negative<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Gradient_descent", 
+            "cacheId": "H6_GiOPyBRoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Stochastic gradient descent - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Stochastic <b>gradient descent</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Stochastic_gradient_descent", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Stochastic_<b>gradient</b>_<b>descent</b>", 
+            "snippet": "Stochastic gradient descent is a gradient descent optimization method for \nminimizing an objective function that is written as a sum of differentiable functions\n.", 
+            "htmlSnippet": "Stochastic <b>gradient descent</b> is a <b>gradient descent</b> optimization method for <br>\nminimizing an objective function that is written as a sum of differentiable functions<br>\n.", 
+            "link": "https://en.wikipedia.org/wiki/Stochastic_gradient_descent", 
+            "cacheId": "sgqbOX6ysbQJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Gradient method - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Gradient</b> method - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Gradient_method", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Gradient</b>_method", 
+            "snippet": "with the search directions defined by the gradient of the function at the current \npoint. Examples of gradient method are the gradient descent and the conjugate\u00a0...", 
+            "htmlSnippet": "with the search directions defined by the gradient of the function at the current <br>\npoint. Examples of gradient method are the <b>gradient descent</b> and the conjugate&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Gradient_method", 
+            "cacheId": "ehcqEwrl2ekJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Coordinate descent - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Coordinate <b>descent</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Coordinate_descent", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Coordinate_<b>descent</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "259", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLRF7DD2XNgA4sSgt-AxVQBT7isvl3J0qc9LT2zhvXri6EcKjPSaw3oUM", 
+                        "height": "194"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/5/50/Coordinate_descent.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "Coordinate descent is a non-derivative optimization algorithm. ... They are \nattractive for problems where computing gradients is infeasible, perhaps because \nthe\u00a0...", 
+            "htmlSnippet": "Coordinate <b>descent</b> is a non-derivative optimization algorithm. ... They are <br>\nattractive for problems where computing <b>gradients</b> is infeasible, perhaps because <br>\nthe&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Coordinate_descent", 
+            "cacheId": "uv9inQcvb78J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Conjugate gradient method - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Conjugate <b>gradient</b> method - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Conjugate_gradient_method", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Conjugate_<b>gradient</b>_method", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdWEbprvFAg0IOuJuzAEBZ_mVnPI1oV6632m_T8GU_ydloPNyPUZrhPn4", 
+                        "height": "261"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Conjugate_gradient_illustration.svg/220px-Conjugate_gradient_illustration.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "[edit]. In both the original and the preconditioned conjugate gradient\u00a0...", 
+            "htmlSnippet": "[edit]. In both the original and the preconditioned conjugate <b>gradient</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Conjugate_gradient_method", 
+            "cacheId": "kiX8RvFON9YJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Backpropagation - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Backpropagation - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Backpropagation", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Backpropagation", 
+            "snippet": "4.1 Learning as an optimization problem; 4.2 An analogy for understanding \ngradient descent. 5 Derivation. 5.1 Finding the derivative of the error. 6 Modes of\n\u00a0...", 
+            "htmlSnippet": "4.1 Learning as an optimization problem; 4.2 An analogy for understanding <br>\n<b>gradient descent</b>. 5 Derivation. 5.1 Finding the derivative of the error. 6 Modes of<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Backpropagation", 
+            "cacheId": "DsCFcZjT_mcJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Hill climbing - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Hill climbing - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Hill_climbing", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Hill_climbing", 
+            "snippet": "(Note that this differs from gradient descent methods, which adjust all of the \nvalues in \\mathbf{x} at each iteration according to the gradient of the hill.) With hill\n\u00a0...", 
+            "htmlSnippet": "(Note that this differs from <b>gradient descent</b> methods, which adjust all of the <br>\nvalues in \\mathbf{x} at each iteration according to the gradient of the hill.) With hill<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Hill_climbing", 
+            "cacheId": "MXn2d6dSV-EJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Subgradient method - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Subgradient method - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Subgradient_method", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Sub<b>gradient</b>_method", 
+            "snippet": "iterate of x . If f \\ is differentiable, then its only subgradient is the gradient vector \\\nnabla f itself. It may happen that -g^{(k)} is not a descent direction for f \\ at x^{(k)} .", 
+            "htmlSnippet": "iterate of x . If f \\ is differentiable, then its only subgradient is the <b>gradient</b> vector \\<br>\nnabla f itself. It may happen that -g^{(k)} is not a <b>descent</b> direction for f \\ at x^{(k)} .", 
+            "link": "https://en.wikipedia.org/wiki/Subgradient_method", 
+            "cacheId": "XwEyV9Da02oJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Descent direction - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Descent</b> direction - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Descent_direction", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Descent</b>_direction", 
+            "snippet": "In optimization, a descent direction is a vector \\mathbf{p}\\in\\mathbb R^n ... Using \nthis definition, the negative of a non-zero gradient is always a descent direction,\u00a0...", 
+            "htmlSnippet": "In optimization, a <b>descent</b> direction is a vector \\mathbf{p}\\in\\mathbb R^n ... Using <br>\nthis definition, the negative of a non-zero <b>gradient</b> is always a <b>descent</b> direction,&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Descent_direction", 
+            "cacheId": "yOpUMW18f-gJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Newton's method in optimization - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Newton&#39;s method in optimization - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Newton's_method_in_optimization", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Newton&#39;s_method_in_optimization", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT11KeXQtadm48dgMJyGoG2PMDOuUzIrBPAgiopCAKN_2F--R9e9xVf9ZmN", 
+                        "height": "202"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Newton_optimization_vs_grad_descent.svg/220px-Newton_optimization_vs_grad_descent.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "A comparison of gradient descent (green) and Newton's method (red) for ... \nseveral dimensions by replacing the derivative with the gradient, \\nabla f(\\mathbf{\nx})\u00a0...", 
+            "htmlSnippet": "A comparison of <b>gradient descent</b> (green) and Newton&#39;s method (red) for ... <br>\nseveral dimensions by replacing the derivative with the gradient, \\nabla f(\\mathbf{<br>\nx})&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Newton's_method_in_optimization", 
+            "cacheId": "03xu6eoA4pEJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Gradient ascent", 
+                "safe": "off", 
+                "searchTerms": "Gradient ascent", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "838"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Gradient ascent", 
+                "safe": "off", 
+                "searchTerms": "Gradient ascent", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "838"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.22", 
+        "formattedTotalResults": "838", 
+        "totalResults": "838", 
+        "searchTime": 0.221498
+    }
+}

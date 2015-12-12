@@ -1,0 +1,194 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Bluestein's FFT algorithm", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Bluestein&#39;s FFT</b> algorithm", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Bluestein's_FFT_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Bluestein&#39;s</b>_<b>FFT</b>_algorithm", 
+            "snippet": "The Chirp Z-transform (CZT) is a generalization of the discrete Fourier transform. \nWhile the DFT samples the Z plane at uniformly-spaced points along the unit\u00a0...", 
+            "htmlSnippet": "The Chirp Z-transform (CZT) is a generalization of the discrete Fourier transform. <br>\nWhile the DFT samples the Z plane at uniformly-spaced points along the unit&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Bluestein's_FFT_algorithm", 
+            "cacheId": "LYmHIS2PqnoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Chirp Z-transform - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:Chirp Z-transform - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "en.wikipedia.org/wiki/Talk%3ABluestein's_FFT_algorithm", 
+            "htmlFormattedUrl": "en.wikipedia.org/wiki/Talk%3A<b>Bluestein&#39;s</b>_<b>FFT</b>_algorithm", 
+            "snippet": "(Redirected from Talk:Bluestein's FFT algorithm) ... one can instead pick a slightly \nlarger M for which there is an efficient FFT using some more basic algorithm.", 
+            "htmlSnippet": "(Redirected from Talk:<b>Bluestein&#39;s FFT</b> algorithm) ... one can instead pick a slightly <br>\nlarger M for which there is an efficient FFT using some more basic algorithm.", 
+            "link": "http://en.wikipedia.org/wiki/Talk%3ABluestein's_FFT_algorithm", 
+            "cacheId": "Uk011jq5Qv0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Bluestein - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Bluestein</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Bluestein", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Bluestein</b>", 
+            "snippet": "Bluestein is a surname. Notable ... Suzanna Bluestein, in the Japanese anime \nDivergence Eve. See also[edit]. Bluestein's FFT algorithm \u00b7 Blaustein (surname)\u00a0...", 
+            "htmlSnippet": "Bluestein is a surname. Notable ... Suzanna Bluestein, in the Japanese anime <br>\nDivergence Eve. See also[edit]. <b>Bluestein&#39;s FFT</b> algorithm &middot; Blaustein (surname)&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Bluestein", 
+            "cacheId": "29TMTcgL9U4J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Rader's FFT algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Rader&#39;s <b>FFT</b> algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Rader's_FFT_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Rader&#39;s_<b>FFT</b>_algorithm", 
+            "snippet": "Rader's algorithm (1968) is a fast Fourier transform (FFT) algorithm that ... a cyclic \nconvolution (the other algorithm for FFTs of prime sizes, Bluestein's algorithm,\u00a0...", 
+            "htmlSnippet": "Rader&#39;s algorithm (1968) is a fast Fourier transform (<b>FFT</b>) algorithm that ... a cyclic <br>\nconvolution (the other algorithm for FFTs of prime sizes, <b>Bluestein&#39;s</b> algorithm,&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Rader's_FFT_algorithm", 
+            "cacheId": "EY8naR0y7uQJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "User:Tejashs/Books/FFT algorithms - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "User:Tejashs/Books/<b>FFT</b> algorithms - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/User:Tejashs/Books/FFT_algorithms", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/User:Tejashs/Books/<b>FFT</b>_algorithms", 
+            "snippet": "User:Tejashs/Books/FFT algorithms ... Bit-reversal permutation \u00b7 Bluestein's FFT \nalgorithm \u00b7 Bruun's FFT algorithm \u00b7 Butterfly diagram \u00b7 Cooley\u2013Tukey FFT\u00a0...", 
+            "htmlSnippet": "User:Tejashs/Books/FFT algorithms ... Bit-reversal permutation &middot; <b>Bluestein&#39;s FFT</b> <br>\nalgorithm &middot; Bruun&#39;s FFT algorithm &middot; Butterfly diagram &middot; Cooley\u2013Tukey FFT&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/User:Tejashs/Books/FFT_algorithms", 
+            "cacheId": "N4Avhca61agJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "FFTW - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "FFTW - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/FFTW", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>FFT</b>W", 
+            "snippet": "... while for prime sizes it uses either Rader's or Bluestein's FFT algorithm. Once \nthe transform has been broken up into subtransforms of sufficiently small sizes,\u00a0...", 
+            "htmlSnippet": "... while for prime sizes it uses either Rader&#39;s or <b>Bluestein&#39;s FFT</b> algorithm. Once <br>\nthe transform has been broken up into subtransforms of sufficiently small sizes,&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/FFTW", 
+            "cacheId": "9IzqCxrf3BEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Fractional Fourier transform - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Fractional Fourier transform - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Fractional_Fourier_transform", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Fractional_Fourier_transform", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "280", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTIFwYBLT6YcWH_-oXhY1ha1TL9xTvV9pDJvdmOlS9QZzghklvZ2uMK8lM", 
+                        "height": "180"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/FracFT_Rec_by_stevencys.jpg/600px-FracFT_Rec_by_stevencys.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "(Such transforms can be evaluated efficiently by Bluestein's FFT algorithm.) This \nterminology has fallen out of use in most of the technical literature, however,\u00a0...", 
+            "htmlSnippet": "(Such transforms can be evaluated efficiently by <b>Bluestein&#39;s FFT</b> algorithm.) This <br>\nterminology has fallen out of use in most of the technical literature, however,&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Fractional_Fourier_transform", 
+            "cacheId": "D6lVsyX96Q8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Discrete Fourier Transform/Notation - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:Discrete Fourier Transform/Notation - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3ADiscrete_Fourier.../Notation", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3ADiscrete_Fourier.../Notation", 
+            "snippet": "Bandlimited; Bilinear transform; Bluestein's FFT algorithm; Bruun's FFT algorithm. \nC. Causal system; Codec; Cubase; Cooley-Tukey FFT algorithm; Computer\u00a0...", 
+            "htmlSnippet": "Bandlimited; Bilinear transform; <b>Bluestein&#39;s FFT</b> algorithm; Bruun&#39;s FFT algorithm. <br>\nC. Causal system; Codec; Cubase; Cooley-Tukey FFT algorithm; Computer&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3ADiscrete_Fourier_Transform/Notation", 
+            "cacheId": "r5qh1n0PZW0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "User:Rog\u00e9rio Brito/Books/Fast Fourier Transform - Wikipedia, the ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "User:Rog\u00e9rio Brito/Books/Fast Fourier Transform - Wikipedia, the <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/User...Brito/.../Fast_Fourier_Transform", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/User...Brito/.../Fast_Fourier_Transform", 
+            "snippet": "A Small Handbook on the FFT ... Prime-factor FFT algorithm \u00b7 Bruun's FFT \nalgorithm \u00b7 Rader's FFT algorithm \u00b7 Bluestein's FFT algorithm \u00b7 Split-radix FFT \nalgorithm\u00a0...", 
+            "htmlSnippet": "A Small Handbook on the FFT ... Prime-factor FFT algorithm &middot; Bruun&#39;s FFT <br>\nalgorithm &middot; Rader&#39;s FFT algorithm &middot; <b>Bluestein&#39;s FFT</b> algorithm &middot; Split-radix FFT <br>\nalgorithm&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/User:Rog%C3%A9rio_Brito/Books/Fast_Fourier_Transform", 
+            "cacheId": "jjF39AHcE58J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Cooley\u2013Tukey FFT algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Cooley\u2013Tukey <b>FFT</b> algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Cooley\u2013Tukey_FFT_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Cooley\u2013Tukey_<b>FFT</b>_algorithm", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "276", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRACW82Brp083dpd9mo6DFNHHnHWGAY-_vh2ZI42t4iTVk2rAVWpQcMySk", 
+                        "height": "183"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Cooley-tukey-general.png/500px-Cooley-tukey-general.png"
+                    }
+                ]
+            }, 
+            "snippet": "For example, Rader's or Bluestein's algorithm can be used to handle large prime \n... A radix-2 decimation-in-time (DIT) FFT is the simplest and most common form\u00a0...", 
+            "htmlSnippet": "For example, Rader&#39;s or <b>Bluestein&#39;s</b> algorithm can be used to handle large prime <br>\n... A radix-2 decimation-in-time (DIT) <b>FFT</b> is the simplest and most common form&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Cooley%E2%80%93Tukey_FFT_algorithm", 
+            "cacheId": "ZRsUCXfOwEYJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Bluestein's FFT", 
+                "safe": "off", 
+                "searchTerms": "Bluestein's FFT", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "37"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Bluestein's FFT", 
+                "safe": "off", 
+                "searchTerms": "Bluestein's FFT", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "37"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.21", 
+        "formattedTotalResults": "37", 
+        "totalResults": "37", 
+        "searchTime": 0.212066
+    }
+}

@@ -1,0 +1,166 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Yarrow algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Yarrow algorithm</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Yarrow_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Yarrow</b>_<b>algorithm</b>", 
+            "snippet": "The Yarrow algorithm is a family of cryptographic pseudorandom number \ngenerator (PRNG) devised by John Kelsey, Bruce Schneier and Niels Ferguson.", 
+            "htmlSnippet": "The <b>Yarrow algorithm</b> is a family of cryptographic pseudorandom number <br>\ngenerator (PRNG) devised by John Kelsey, Bruce Schneier and Niels Ferguson.", 
+            "link": "https://en.wikipedia.org/wiki/Yarrow_algorithm", 
+            "cacheId": "EavWAb_1_Z8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Fortuna (PRNG) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Fortuna (PRNG) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Fortuna_(PRNG)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Fortuna_(PRNG)", 
+            "snippet": "Fortuna differs from the earlier Yarrow algorithm family of Schneier, Kelsey and \nFerguson mostly in its handling of the entropy accumulator. Yarrow required\u00a0...", 
+            "htmlSnippet": "Fortuna differs from the earlier <b>Yarrow algorithm</b> family of Schneier, Kelsey and <br>\nFerguson mostly in its handling of the entropy accumulator. Yarrow required&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Fortuna_(PRNG)", 
+            "cacheId": "cuvDbxGeoH0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Yarrow algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Yarrow algorithm</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3AYarrow_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>Yarrow</b>_<b>algorithm</b>", 
+            "snippet": "Talk:Yarrow algorithm. From Wikipedia, the free encyclopedia. Jump to: \nnavigation, search. [hide] This article is of interest to the following WikiProjects:\u00a0...", 
+            "htmlSnippet": "Talk:<b>Yarrow algorithm</b>. From Wikipedia, the free encyclopedia. Jump to: <br>\nnavigation, search. [hide] This article is of interest to the following WikiProjects:&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3AYarrow_algorithm", 
+            "cacheId": "GtHgDgY83psJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "/dev/random - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "/dev/random - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki//dev/random", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki//dev/random", 
+            "snippet": "The FreeBSD operating system implements a 256-bit variant of the Yarrow \nalgorithm, intended to provide a cryptographically secure pseudorandom stream,\n\u00a0...", 
+            "htmlSnippet": "The FreeBSD operating system implements a 256-bit variant of the <b>Yarrow</b> <br>\n<b>algorithm</b>, intended to provide a cryptographically secure pseudorandom stream,<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki//dev/random", 
+            "cacheId": "fZu2AJmbswYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Random are numbers", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Random are numbers", 
+            "formattedUrl": "https://en.wikipedia.org/.../Cryptographically_secure_pseudorandom_number _generator", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Cryptographically_secure_pseudorandom_number _generator", 
+            "snippet": "However, this algorithm is not cryptographically secure; an attacker who ... the \nYarrow algorithm which attempts to evaluate the entropic quality of its inputs.", 
+            "htmlSnippet": "However, this algorithm is not cryptographically secure; an attacker who ... the <br>\n<b>Yarrow algorithm</b> which attempts to evaluate the entropic quality of its inputs.", 
+            "link": "https://en.wikipedia.org/wiki/Cryptographically_secure_pseudorandom_number_generator", 
+            "cacheId": "FugoEZjYIP8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "I Ching divination - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "I Ching divination - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/I_Ching_divination", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/I_Ching_divination", 
+            "snippet": "\"The Yarrow Algorithm\" is the name of a particular algorithm for generating \nrandom numbers. It is named after the I Ching yarrow method, although the \ndetails of\u00a0...", 
+            "htmlSnippet": "&quot;The <b>Yarrow Algorithm</b>&quot; is the name of a particular algorithm for generating <br>\nrandom numbers. It is named after the I Ching yarrow method, although the <br>\ndetails of&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/I_Ching_divination", 
+            "cacheId": "JDztMxicCyIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Yarrow (disambiguation) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Yarrow</b> (disambiguation) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Yarrow_(disambiguation)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Yarrow</b>_(disambiguation)", 
+            "snippet": "Yarrow (Achillea millefolium) is a plant in the family Asteraceae. ... Yarrow \nbaronets, a title in the Baronetage of the United Kingdom; Yarrow algorithm, a \nrandom\u00a0...", 
+            "htmlSnippet": "Yarrow (Achillea millefolium) is a plant in the family Asteraceae. ... Yarrow <br>\nbaronets, a title in the Baronetage of the United Kingdom; <b>Yarrow algorithm</b>, a <br>\nrandom&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Yarrow_(disambiguation)", 
+            "cacheId": "PBLgBnrpQLoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Random number generation - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Random number generation - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Random_number_generation", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Random_number_generation", 
+            "snippet": "... computationally based methods of generating random numbers do exist, such \nas those based on the Yarrow algorithm and the Fortuna (PRNG) and others.", 
+            "htmlSnippet": "... computationally based methods of generating random numbers do exist, such <br>\nas those based on the <b>Yarrow algorithm</b> and the Fortuna (PRNG) and others.", 
+            "link": "https://en.wikipedia.org/wiki/Random_number_generation", 
+            "cacheId": "2VEFL3OIkEMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Niels Ferguson - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Niels Ferguson - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Niels_Ferguson", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Niels_Ferguson", 
+            "snippet": "In 1999, Niels Ferguson, together with Bruce Schneier and John Kelsey, \ndeveloped the Yarrow algorithm random number generator. Yarrow was later\u00a0...", 
+            "htmlSnippet": "In 1999, Niels Ferguson, together with Bruce Schneier and John Kelsey, <br>\ndeveloped the <b>Yarrow algorithm</b> random number generator. Yarrow was later&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Niels_Ferguson", 
+            "cacheId": "4tfwqPOCZ0gJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Category:Pseudorandom number generators - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Category:Pseudorandom number generators - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../Category:Pseudorandom_number_generators", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Category:Pseudorandom_number_generators", 
+            "snippet": "... test \u00b7 Subtract with carry. W. Well equidistributed long-period linear \u00b7 Wichmann\n-Hill. X. Xorshift. Y. Yarrow algorithm. Z. Ziggurat algorithm. Retrieved from\u00a0...", 
+            "htmlSnippet": "... test &middot; Subtract with carry. W. Well equidistributed long-period linear &middot; Wichmann<br>\n-Hill. X. Xorshift. Y. <b>Yarrow algorithm</b>. Z. Ziggurat algorithm. Retrieved from&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Category:Pseudorandom_number_generators", 
+            "cacheId": "6Gh2VKnY8vUJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Yarrow algorithm", 
+                "safe": "off", 
+                "searchTerms": "Yarrow algorithm", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "94"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Yarrow algorithm", 
+                "safe": "off", 
+                "searchTerms": "Yarrow algorithm", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "94"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.16", 
+        "formattedTotalResults": "94", 
+        "totalResults": "94", 
+        "searchTime": 0.156492
+    }
+}

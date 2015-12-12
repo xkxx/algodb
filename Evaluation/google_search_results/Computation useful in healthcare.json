@@ -1,0 +1,264 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Medical algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Medical</b> algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Medical_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Medical</b>_algorithm", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "256", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT3gZKSsK5N6ELuncdMcoHMm14JyT2EPDhGBMazd96iqPLNRQAsRPdYmcc", 
+                        "height": "197"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Assessment_and_treatment_algorithm_for_overweight_and_obesity.png/450px-Assessment_and_treatment_algorithm_for_overweight_and_obesity.png"
+                    }
+                ]
+            }, 
+            "snippet": "A medical algorithm is any computation, formula, statistical survey, nomogram, or \nlook-up table, useful in healthcare. Medical algorithms include decision tree\u00a0...", 
+            "htmlSnippet": "A <b>medical</b> algorithm is any <b>computation</b>, formula, statistical survey, nomogram, or <br>\nlook-up table, <b>useful in healthcare</b>. <b>Medical</b> algorithms include decision tree&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Medical_algorithm", 
+            "cacheId": "yt0dM-qvQQYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Health informatics - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Health informatics - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Health_informatics", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Health_informatics", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRvAhjKXJOMOyKIzlCez-1-_Lm0Lxg6K5IkeNYcTBD0JHZETjJJldG1rw", 
+                        "height": "104"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Sshot_fever.png/220px-Sshot_fever.png"
+                    }
+                ]
+            }, 
+            "snippet": "Clinical Informatics is concerned with the use of information in health care by and \n... Computational health informatics is a branch of Computer Science that deals \n.... this area that might be useful for team members and health related activities.", 
+            "htmlSnippet": "Clinical Informatics is concerned with the use of information in <b>health care</b> by and <br>\n... <b>Computational</b> health informatics is a branch of Computer Science that deals <br>\n.... this area that might be <b>useful</b> for team members and health related activities.", 
+            "link": "https://en.wikipedia.org/wiki/Health_informatics", 
+            "cacheId": "38h6m9cyxvMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Computational finance - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Computational</b> finance - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Computational_finance", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Computational</b>_finance", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "259", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRv0C78Z18VC__0-EUUwPFKyJ3sJIGjet2wzi7NkyOL3bCKZUZm0f4vvpU7", 
+                        "height": "194"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Random_Walk_example.svg/420px-Random_Walk_example.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "Computational finance is a branch of applied computer science that deals with ... \nmore computer power than was available at the time, so he worked on useful\u00a0...", 
+            "htmlSnippet": "<b>Computational</b> finance is a branch of applied computer science that deals with ... <br>\nmore computer power than was available at the time, so he worked on <b>useful</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Computational_finance", 
+            "cacheId": "VDC24jwKMrEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "APACHE II - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "APACHE II - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/APACHE_II", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/APACHE_II", 
+            "snippet": "A method to compute a refined score known as APACHE III was published in \n1991 ... data about the interval time between the patient\u00b4s arrival to hospital and \nthe\u00a0...", 
+            "htmlSnippet": "A method to <b>compute</b> a refined score known as APACHE III was published in <br>\n1991 ... data about the interval time between the patient\u00b4s arrival to <b>hospital</b> and <br>\nthe&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/APACHE_II", 
+            "cacheId": "Fj5BufrM2WgJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Quality-adjusted life year - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Quality-adjusted life year - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Quality-adjusted_life_year", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Quality-adjusted_life_year", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "267", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcShktFZEV7huP-D38rItsp0aSlt2fEgXHThhlZ3FqhBeYzz2m4JSXzu-zY", 
+                        "height": "189"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/QALY_graph.png/400px-QALY_graph.png"
+                    }
+                ]
+            }, 
+            "snippet": "The QALY is often used in cost-utility analysis to calculate the ratio of cost to \nQALYs saved for a particular health care intervention. This is then used to \nallocate\u00a0...", 
+            "htmlSnippet": "The QALY is often used in cost-utility analysis to <b>calculate</b> the ratio of cost to <br>\nQALYs saved for a particular <b>health care</b> intervention. This is then used to <br>\nallocate&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Quality-adjusted_life_year", 
+            "cacheId": "FxkFMKmHQ7cJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Computational informatics - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Computational</b> informatics - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Computational_informatics", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Computational</b>_informatics", 
+            "snippet": "Computational informatics is a subfield of informatics that emphasizes issues in \nthe ... From a historical viewpoint, medical informatics scientists (also known as\u00a0...", 
+            "htmlSnippet": "<b>Computational</b> informatics is a subfield of informatics that emphasizes issues in <br>\nthe ... From a historical viewpoint, <b>medical</b> informatics scientists (also known as&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Computational_informatics", 
+            "cacheId": "pq0ZaiwQyCkJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Computer simulation - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Computer simulation - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Computer_simulation", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Compute</b>r_simulation", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "237", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT7YtNDAEwipHSIKXyTyj5YH1vH5m_2wuj1G7JlIYCuUrLfc8jXc5fq1xle", 
+                        "height": "212"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Typhoon_Mawar_2005_computer_simulation_thumbnail.gif/400px-Typhoon_Mawar_2005_computer_simulation_thumbnail.gif"
+                    }
+                ]
+            }, 
+            "snippet": "Computer simulations have become a useful part of mathematical modeling of ... \nBecause of the computational cost of simulation, computer experiments are .... an \nextended period of medical treatment, presenting the passage of time as a\u00a0...", 
+            "htmlSnippet": "Computer simulations have become a <b>useful</b> part of mathematical modeling of ... <br>\nBecause of the <b>computational</b> cost of simulation, computer experiments are .... an <br>\nextended period of <b>medical</b> treatment, presenting the passage of time as a&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Computer_simulation", 
+            "cacheId": "naB-xxQXfy8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Ubiquitous computing - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Ubiquitous <b>computing</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Ubiquitous_computing", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Ubiquitous_<b>computing</b>", 
+            "snippet": "Ubiquitous computing (ubicomp) is a concept in software engineering and ... \nmore diverse and potentially more useful range of Ubiquitous Computing devices\n.", 
+            "htmlSnippet": "Ubiquitous <b>computing</b> (ubicomp) is a concept in software engineering and ... <br>\nmore diverse and potentially more <b>useful</b> range of Ubiquitous <b>Computing</b> devices<br>\n.", 
+            "link": "https://en.wikipedia.org/wiki/Ubiquitous_computing", 
+            "cacheId": "jGKEdCAgcHAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Nomogram - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Nomogram - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Nomogram", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Nomogram", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "238", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRs_42LDyaLWgLxN3kEYymHTzyHJU5-jUUXSbZwBui9kxVYg0w0uLwazd0", 
+                        "height": "211"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Parallel_Scale_Nomogram.svg/400px-Parallel_Scale_Nomogram.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "Straight scales are useful for relatively simple calculations, but for more complex \n... use of nomograms in the United States and also the first medical nomograms\u00a0...", 
+            "htmlSnippet": "Straight scales are <b>useful</b> for relatively simple <b>calculations</b>, but for more complex <br>\n... use of nomograms in the United States and also the first <b>medical</b> nomograms&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Nomogram", 
+            "cacheId": "sKsN9iZsqvUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Medical imaging - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Medical</b> imaging - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Medical_imaging", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Medical</b>_imaging", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "200", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRIFGAR0mp2UEXMwhcOMRrQZ4d_U8la6tBHRFw0Ws-wuLYIZmkFCctuKuxq", 
+                        "height": "179"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/RupturedAAA.png/250px-RupturedAAA.png"
+                    }
+                ]
+            }, 
+            "snippet": "PET images can be viewed in comparison to computed tomography scans to \ndetermine ... Elastography is useful in medical diagnoses, as elasticity can \ndiscern\u00a0...", 
+            "htmlSnippet": "PET images can be viewed in comparison to <b>computed</b> tomography scans to <br>\ndetermine ... Elastography is <b>useful in medical</b> diagnoses, as elasticity can <br>\ndiscern&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Medical_imaging", 
+            "cacheId": "WZ97NEapMUAJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Computation useful in healthcare", 
+                "safe": "off", 
+                "searchTerms": "Computation useful in healthcare", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "1810"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Computation useful in healthcare", 
+                "safe": "off", 
+                "searchTerms": "Computation useful in healthcare", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "1810"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.36", 
+        "formattedTotalResults": "1,810", 
+        "totalResults": "1810", 
+        "searchTime": 0.361553
+    }
+}

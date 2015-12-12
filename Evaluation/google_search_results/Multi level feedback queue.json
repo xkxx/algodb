@@ -1,0 +1,184 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Multilevel feedback queue - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Multilevel feedback queue</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Multilevel_feedback_queue", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Multilevel</b>_<b>feedback</b>_<b>queue</b>", 
+            "snippet": "In computer science, a multilevel feedback queue is a scheduling algorithm. \nSolaris 2.6 Time-Sharing (TS) scheduler implements this algorithm. The Mac OS \nX\u00a0...", 
+            "htmlSnippet": "In computer science, a <b>multilevel feedback queue</b> is a scheduling algorithm. <br>\nSolaris 2.6 Time-Sharing (TS) scheduler implements this algorithm. The Mac OS <br>\nX&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Multilevel_feedback_queue", 
+            "cacheId": "jDFtHt06cMAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Multilevel queue - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Multilevel queue</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Multilevel_queue", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Multilevel</b>_<b>queue</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "246", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRU7I7c2jTi6JWcEK3Pp1EIboadP6t-J6fm2BDqySLSnIwSTcSD4_OKUKU", 
+                        "height": "205"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c4/Multilevel.jpg/1000px-Multilevel.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "Multi-level queueing, used at least since the late 1950s/early 1960s, is a queue \nwith a predefined number of levels. Unlike the multilevel feedback queue, items\u00a0...", 
+            "htmlSnippet": "Multi-level queueing, used at least since the late 1950s/early 1960s, is a queue <br>\nwith a predefined number of levels. Unlike the <b>multilevel feedback queue</b>, items&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Multilevel_queue", 
+            "cacheId": "ROmTEO4LPWcJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Scheduling (computing) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Scheduling (computing) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Scheduling_(computing)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Scheduling_(computing)", 
+            "snippet": "For example, Windows NT/XP/Vista uses a multilevel feedback queue, a \ncombination of fixed-priority preemptive scheduling, round-robin, and first in, first \nout\u00a0...", 
+            "htmlSnippet": "For example, Windows NT/XP/Vista uses a <b>multilevel feedback queue</b>, a <br>\ncombination of fixed-priority preemptive scheduling, round-robin, and first in, first <br>\nout&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Scheduling_(computing)", 
+            "cacheId": "I6wQeqME3O8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Input queue - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Input <b>queue</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Input_queue", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Input_<b>queue</b>", 
+            "snippet": "[edit]. Main article: Multilevel feedback queue. Many queues are used in \nMultilevel queue scheduling method and\u00a0...", 
+            "htmlSnippet": "[edit]. Main article: <b>Multilevel feedback queue</b>. Many queues are used in <br>\nMultilevel queue scheduling method and&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Input_queue", 
+            "cacheId": "Z6qzHMFk0hIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "User:Prcrfsy/Books/OS - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "User:Prcrfsy/Books/OS - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/User:Prcrfsy/Books/OS", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/User:Prcrfsy/Books/OS", 
+            "snippet": "... Process state \u00b7 Multilevel feedback queue \u00b7 Lottery scheduling \u00b7 Fair-share \nscheduling \u00b7 Multilevel queue \u00b7 Scheduling (computing) \u00b7 Priority inversion \u00b7 \nPriority\u00a0...", 
+            "htmlSnippet": "... Process state &middot; <b>Multilevel feedback queue</b> &middot; Lottery scheduling &middot; Fair-share <br>\nscheduling &middot; Multilevel queue &middot; Scheduling (computing) &middot; Priority inversion &middot; <br>\nPriority&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/User:Prcrfsy/Books/OS", 
+            "cacheId": "et69oJ-ywb8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Preemption (computing) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Preemption (computing) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Preemption_(computing)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Preemption_(computing)", 
+            "snippet": "The operating system which controls such a design is called a multi-tasking \nsystem. ... Fixed-priority preemptive \u00b7 Multilevel feedback queue; Preemptive; \nRound-\u00a0...", 
+            "htmlSnippet": "The operating system which controls such a design is called a multi-tasking <br>\nsystem. ... Fixed-priority preemptive &middot; <b>Multilevel feedback queue</b>; Preemptive; <br>\nRound-&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Preemption_(computing)", 
+            "cacheId": "pcPlCiIKzIwJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Category:Processor scheduling algorithms - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Category:Processor scheduling algorithms - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../Category:Processor_scheduling_algorithms", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Category:Processor_scheduling_algorithms", 
+            "snippet": "Lottery scheduling. M. Multilevel feedback queue. P. Process Contention Scope \u00b7 \nProcessor ... T. Two-level scheduling. W. Windows NT processor scheduling. Y.", 
+            "htmlSnippet": "Lottery scheduling. M. <b>Multilevel feedback queue</b>. P. Process Contention Scope &middot; <br>\nProcessor ... T. Two-level scheduling. W. Windows NT processor scheduling. Y.", 
+            "link": "https://en.wikipedia.org/wiki/Category:Processor_scheduling_algorithms", 
+            "cacheId": "d1AmdPiOKfEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "User:Andy16666 - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "User:Andy16666 - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/User:Andy16666", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/User:Andy16666", 
+            "snippet": "Scheduling algorithms \u00b7 Computer multitasking \u00b7 Fixed-priority preemptive \u00b7 \nMultilevel feedback queue \u00b7 Preemptive \u00b7 Round-robin \u00b7 Shortest job next\u00a0...", 
+            "htmlSnippet": "Scheduling algorithms &middot; Computer multitasking &middot; Fixed-priority preemptive &middot; <br>\n<b>Multilevel feedback queue</b> &middot; Preemptive &middot; Round-robin &middot; Shortest job next&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/User:Andy16666", 
+            "cacheId": "glp2r9Rblp8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Myarc Disk Operating System - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Myarc Disk Operating System - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Myarc_Disk_Operating_System", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Myarc_Disk_Operating_System", 
+            "snippet": "Scheduling algorithms \u00b7 Computer multitasking \u00b7 Fixed-priority preemptive \u00b7 \nMultilevel feedback queue \u00b7 Preemptive \u00b7 Round-robin \u00b7 Shortest job next\u00a0...", 
+            "htmlSnippet": "Scheduling algorithms &middot; Computer multitasking &middot; Fixed-priority preemptive &middot; <br>\n<b>Multilevel feedback queue</b> &middot; Preemptive &middot; Round-robin &middot; Shortest job next&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Myarc_Disk_Operating_System", 
+            "cacheId": "XEK_j_i7wQUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "S-OS - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "S-OS - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/S-OS", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/S-OS", 
+            "snippet": "Scheduling algorithms \u00b7 Computer multitasking \u00b7 Fixed-priority preemptive \u00b7 \nMultilevel feedback queue \u00b7 Preemptive \u00b7 Round-robin \u00b7 Shortest job next\u00a0...", 
+            "htmlSnippet": "Scheduling algorithms &middot; Computer multitasking &middot; Fixed-priority preemptive &middot; <br>\n<b>Multilevel feedback queue</b> &middot; Preemptive &middot; Round-robin &middot; Shortest job next&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/S-OS", 
+            "cacheId": "rGIUK8a1Bq0J"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Multi level feedback queue", 
+                "safe": "off", 
+                "searchTerms": "Multi level feedback queue", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "554"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Multi level feedback queue", 
+                "safe": "off", 
+                "searchTerms": "Multi level feedback queue", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "554"
+            }
+        ]
+    }, 
+    "spelling": {
+        "correctedQuery": "Multilevel feedback queue", 
+        "htmlCorrectedQuery": "<b><i>Multilevel</i></b> feedback queue"
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.27", 
+        "formattedTotalResults": "554", 
+        "totalResults": "554", 
+        "searchTime": 0.26839
+    }
+}

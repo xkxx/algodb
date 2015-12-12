@@ -1,0 +1,264 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Difference-map algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Difference</b>-<b>map</b> algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Difference-map_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Difference</b>-<b>map</b>_algorithm", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "308", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRkdht5CxJnYIRR9EoJ32OLXNQdJzNKYrBIBRgLZEv4CYYO0VXlfJe0Mg", 
+                        "height": "99"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/math/b/7/0/b704ad5e0b7b50a4ae9e5b1cd6fbbe34.png"
+                    }
+                ]
+            }, 
+            "snippet": "The difference-map algorithm is a search algorithm for general constraint .... \nGravel, V. Elser, \"Divide and concur: A general approach to constraint satisfaction\n\".", 
+            "htmlSnippet": "The <b>difference</b>-<b>map</b> algorithm is a search algorithm for general constraint .... <br>\nGravel, V. <b>Elser</b>, &quot;Divide and concur: A general approach to constraint satisfaction<br>\n&quot;.", 
+            "link": "https://en.wikipedia.org/wiki/Difference-map_algorithm", 
+            "cacheId": "1W4K_-E4cYEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "File:Time series of norm of difference-map increment \u0394, during ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "File:Time series of norm of <b>difference</b>-<b>map</b> increment \u0394, during <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../File:Time_series_of_norm_of_difference-map_ increment_\u0394,_during_solving_random_3-SAT_instance.png", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../File:Time_series_of_norm_of_<b>difference</b>-<b>map</b>_ increment_\u0394,_during_solving_random_3-SAT_instance.png", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "286", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSNfEpgfbaQh8Bg_b3D2XyAVFExk5zdl8MpOKv52ldaJGKORfp_5_cGJgL9", 
+                        "height": "176"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/Time_series_of_norm_of_difference-map_increment_%CE%94,_during_solving_random_3-SAT_instance.png/800px-Time_series_of_norm_of_difference-map_increment_%CE%94,_during_solving_random_3-SAT_instance.png"
+                    }
+                ]
+            }, 
+            "snippet": "File:Time series of norm of difference-map increment \u0394, during solving random 3-\nSAT instance.png. From Wikipedia, the free encyclopedia ... Author: Veit Elser\u00a0...", 
+            "htmlSnippet": "File:Time series of norm of <b>difference</b>-<b>map</b> increment \u0394, during solving random 3-<br>\nSAT instance.png. From Wikipedia, the free encyclopedia ... Author: Veit <b>Elser</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/File:Time_series_of_norm_of_difference-map_increment_%CE%94,_during_solving_random_3-SAT_instance.png", 
+            "cacheId": "3wZTgeg9Xo8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "File:Iterations 0, 100, 200, 300 and 400 in difference-map ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "File:Iterations 0, 100, 200, 300 and 400 in <b>difference</b>-<b>map</b> <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../File:Iterations_0,_100,_200,_300_and_400_in_ difference-map_reconstruction_of_grayscale_image_from_Fourier_ ...", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../File:Iterations_0,_100,_200,_300_and_400_in_ <b>difference</b>-<b>map</b>_reconstruction_of_grayscale_image_from_Fourier_ ...", 
+            "snippet": "File:Iterations 0, 100, 200, 300 and 400 in difference-map reconstruction of \ngrayscale ... successive difference map iterations in a phase retrieval \nreconstruction ... Veit Elser (talk | contribs), {{Information |Description=successive \ndifference map\u00a0...", 
+            "htmlSnippet": "File:Iterations 0, 100, 200, 300 and 400 in <b>difference</b>-<b>map</b> reconstruction of <br>\ngrayscale ... successive <b>difference map</b> iterations in a phase retrieval <br>\nreconstruction ... Veit <b>Elser</b> (talk | contribs), {{Information |Description=successive <br>\n<b>difference map</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/File:Iterations_0,_100,_200,_300_and_400_in_difference-map_reconstruction_of_grayscale_image_from_Fourier_transform_modulus.png", 
+            "cacheId": "tpNh_wr7Zd8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "List of algorithms - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "List of algorithms - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/List_of_algorithms", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/List_of_algorithms", 
+            "snippet": "Finite difference method \u00b7 Crank-Nicolson method for diffusion equations ..... \nElser difference-map algorithm: a search algorithm for general constraint\u00a0...", 
+            "htmlSnippet": "Finite difference method &middot; Crank-Nicolson method for diffusion equations ..... <br>\n<b>Elser difference-map</b> algorithm: a search algorithm for general constraint&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/List_of_algorithms", 
+            "cacheId": "iXsrHv5PMNcJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Sambucus nigra - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Sambucus nigra - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Sambucus_nigra", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Sambucus_nigra", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "160", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjUv9t3my0L_PTZQzswTKRrZrtVqpMffZwZgHRLkW_C2-sQVFaQ67qMQ", 
+                        "height": "120"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Sambucus_nigra2.jpg/200px-Sambucus_nigra2.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "Sambucus nigra is a species complex of flowering plants in the family Adoxaceae \nnative to most of Europe. Common names include elder, elderberry, black\u00a0...", 
+            "htmlSnippet": "Sambucus nigra is a species complex of flowering plants in the family Adoxaceae <br>\nnative to most of Europe. Common names include elder, elderberry, black&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Sambucus_nigra", 
+            "cacheId": "R1a37nQuH4YJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Sambucus - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Sambucus - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Sambucus", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Sambucus", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSDXBin3EsIia_4BneWOR2Zv35512kpeIZ_U-rmInLUolYM-92rTmJoJvk", 
+                        "height": "132"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Sambucus_nigra0.jpg/220px-Sambucus_nigra0.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "Sambucus is a genus of flowering plants in the family Adoxaceae, its species \ncommonly called elder or elderberry. It was formerly placed in the honeysuckle\u00a0...", 
+            "htmlSnippet": "Sambucus is a genus of flowering plants in the family Adoxaceae, its species <br>\ncommonly called elder or elderberry. It was formerly placed in the honeysuckle&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Sambucus", 
+            "cacheId": "E2qjE4msFiAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Elder Futhark - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Elder Futhark - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Elder_Futhark", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Elder_Futhark", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ6_2NuCap_GZoQlmhr3PLbsPU-spLwvTWoyMML1k3cgTjilAr1sYVCiW8r", 
+                        "height": "156"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Elder_futhark_inscriptions.png/220px-Elder_futhark_inscriptions.png"
+                    }
+                ]
+            }, 
+            "snippet": "The Elder Futhark or Elder Fu\u00feark, Older Futhark, Old Futhark, Germanic Futhark \nis the oldest form of the runic alphabets. It was a writing system used by\u00a0...", 
+            "htmlSnippet": "The Elder Futhark or Elder Fu\u00feark, Older Futhark, Old Futhark, Germanic Futhark <br>\nis the oldest form of the runic alphabets. It was a writing system used by&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Elder_Futhark", 
+            "cacheId": "WZsj-Ctu_qMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Swabia - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Swabia - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Swabia", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Swabia", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "194", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTd-UBjDJNb3gy4-2xG6mjxmjFbXzg2wnAz1bao19k1tNjp0IuvYQF8-Nw", 
+                        "height": "259"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Seltzlin_map_1572.JPG/350px-Seltzlin_map_1572.JPG"
+                    }
+                ]
+            }, 
+            "snippet": "Swabia as marked on this map has a total population of close to 8 million (as of ... \nbut the league broke up a few years later over religious differences inspired by\u00a0...", 
+            "htmlSnippet": "Swabia as marked on this <b>map</b> has a total population of close to 8 million (as of ... <br>\nbut the league broke up a few years later over religious <b>differences</b> inspired by&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Swabia", 
+            "cacheId": "llkrk30wrBIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Mathematics of Sudoku - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Mathematics of Sudoku - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Mathematics_of_Sudoku", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Mathematics_of_Sudoku", 
+            "snippet": "V. Elser's difference-map algorithm also solves Sudoku \u00b7 Sudoku Puzzle \u2014 an \nExercise in Constraint Programming and Visual Prolog 7 by Carsten Kehler Holst\n\u00a0...", 
+            "htmlSnippet": "V. <b>Elser&#39;s difference-map</b> algorithm also solves Sudoku &middot; Sudoku Puzzle \u2014 an <br>\nExercise in Constraint Programming and Visual Prolog 7 by Carsten Kehler Holst<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Mathematics_of_Sudoku", 
+            "cacheId": "17qV2Vxcvb8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "File:Diffraction data.png - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "File:Diffraction data.png - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/File:Diffraction_data.png", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/File:Diffraction_data.png", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "225", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTYsa0dbHMF1APwasBQoTKnJjrNb8uKcA1lpOPySZV8vHac3KlmyAsbO4A", 
+                        "height": "224"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/Diffraction_data.png/601px-Diffraction_data.png"
+                    }
+                ]
+            }, 
+            "snippet": "Difference-map algorithm. Retrieved from \"https://en.wikipedia.org/w/index.php?\ntitle=File:Diffraction_data.png&oldid=561166489\". Categories:.", 
+            "htmlSnippet": "<b>Difference</b>-<b>map</b> algorithm. Retrieved from &quot;https://en.wikipedia.org/w/index.php?<br>\ntitle=File:Diffraction_data.png&amp;oldid=561166489&quot;. Categories:.", 
+            "link": "https://en.wikipedia.org/wiki/File:Diffraction_data.png", 
+            "cacheId": "l6pCzet-CggJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Elser Difference-Map", 
+                "safe": "off", 
+                "searchTerms": "Elser Difference-Map", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "62"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Elser Difference-Map", 
+                "safe": "off", 
+                "searchTerms": "Elser Difference-Map", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "62"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.27", 
+        "formattedTotalResults": "62", 
+        "totalResults": "62", 
+        "searchTime": 0.265385
+    }
+}

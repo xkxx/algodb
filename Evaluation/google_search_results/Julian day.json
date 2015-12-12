@@ -1,0 +1,213 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Julian day - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Julian day</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Julian_day", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Julian</b>_<b>day</b>", 
+            "snippet": "Julian day is the continuous count of days since the beginning of the Julian \nPeriod used primarily by astronomers. The Julian Day Number (JDN) is the \ninteger\u00a0...", 
+            "htmlSnippet": "<b>Julian day</b> is the continuous count of days since the beginning of the Julian <br>\nPeriod used primarily by astronomers. The <b>Julian Day</b> Number (JDN) is the <br>\ninteger&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Julian_day", 
+            "cacheId": "IWC-qJozfKUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Julian calendar - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Julian</b> calendar - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Julian_calendar", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Julian</b>_calendar", 
+            "snippet": "The Roman calendar began the year on 1 January, and this remained the start of \nthe year after the Julian reform. However\u00a0...", 
+            "htmlSnippet": "The Roman calendar began the year on 1 January, and this remained the start of <br>\nthe year after the <b>Julian</b> reform. However&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Julian_calendar", 
+            "cacheId": "GrZRCKzmDv0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Julien Day School - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Julien Day</b> School - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Julien_Day_School", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Julien</b>_<b>Day</b>_School", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "80", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAFR1nGbbuMg42KV3eZejYFkFb_8p26h0qJwlqHb5YOH2BLp7_J6Gf", 
+                        "height": "111"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Julien_Day_School,Elgin_Road.jpg/100px-Julien_Day_School,Elgin_Road.jpg"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "fn": "Julien Day School"
+                    }
+                ]
+            }, 
+            "snippet": "Julien Day School (JDS) is a co-educational primary, secondary and senior \nsecondary school in Kolkata, West Bengal, India. The school is run by \"The Julien\n\u00a0...", 
+            "htmlSnippet": "<b>Julien Day</b> School (JDS) is a co-educational primary, secondary and senior <br>\nsecondary school in Kolkata, West Bengal, India. The school is run by &quot;The Julien<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Julien_Day_School", 
+            "cacheId": "icA2CjJWBesJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Heliocentric Julian Day - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Heliocentric <b>Julian Day</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Heliocentric_Julian_Day", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Heliocentric_<b>Julian</b>_<b>Day</b>", 
+            "snippet": "The Heliocentric Julian Date (HJD) is the Julian Date (JD) corrected for \ndifferences in the Earth's position with respect to the Sun. When timing events \nthat occur\u00a0...", 
+            "htmlSnippet": "The Heliocentric <b>Julian</b> Date (HJD) is the <b>Julian</b> Date (JD) corrected for <br>\ndifferences in the Earth&#39;s position with respect to the Sun. When timing events <br>\nthat occur&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Heliocentric_Julian_Day", 
+            "cacheId": "4_OjIiv7k_YJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Julian R. Day - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Julian</b> R. <b>Day</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Julian_R._Day", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Julian</b>_R._<b>Day</b>", 
+            "snippet": "Julian Reginald Day is a published author, IT computer, project manager and ... \nSince migrating to Australia in 1986, Day has been an IT consultant to large\u00a0...", 
+            "htmlSnippet": "<b>Julian</b> Reginald <b>Day</b> is a published author, IT computer, project manager and ... <br>\nSince migrating to Australia in 1986, <b>Day</b> has been an IT consultant to large&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Julian_R._Day", 
+            "cacheId": "YH534uR5iv8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Calendar Man - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Calendar Man - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Calendar_Man", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Calendar_Man", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "175", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQKtQ5ucBA_MTtJxiwC1bjHuxV4rKmqOXd-LvbSdydL3w2IoWWTSsS6N6k", 
+                        "height": "289"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/7/78/Calendarman.jpg/230px-Calendarman.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "Calendar Man (real name Julian Gregory Day) is a fictional supervillain \nappearing in American comic books published by DC Comics, as an enemy of \nBatman.", 
+            "htmlSnippet": "Calendar Man (real name <b>Julian</b> Gregory <b>Day</b>) is a fictional supervillain <br>\nappearing in American comic books published by DC Comics, as an enemy of <br>\nBatman.", 
+            "link": "https://en.wikipedia.org/wiki/Calendar_Man", 
+            "cacheId": "LAJ8WQyPJWEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Proleptic Julian calendar - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Proleptic <b>Julian</b> calendar - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Proleptic_Julian_calendar", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Proleptic_<b>Julian</b>_calendar", 
+            "snippet": "The proleptic Julian calendar is produced by extending the Julian calendar ... \nyear error: Between 45 BC and AD 4, the leap day was somewhat unsystematic.", 
+            "htmlSnippet": "The proleptic <b>Julian</b> calendar is produced by extending the <b>Julian</b> calendar ... <br>\nyear error: Between 45 BC and AD 4, the leap <b>day</b> was somewhat unsystematic.", 
+            "link": "https://en.wikipedia.org/wiki/Proleptic_Julian_calendar", 
+            "cacheId": "cprfePcOuI4J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Ordinal date - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Ordinal date - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Ordinal_date", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Ordinal_date", 
+            "snippet": "An ordinal date is a calendar date typically consisting of a year and a day of year \n... date throughout the years from a reference date, such as the Julian date.", 
+            "htmlSnippet": "An ordinal date is a calendar date typically consisting of a year and a <b>day</b> of year <br>\n... date throughout the years from a reference date, such as the <b>Julian</b> date.", 
+            "link": "https://en.wikipedia.org/wiki/Ordinal_date", 
+            "cacheId": "hTheOZ4V_7wJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Julian C. Day - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Julian</b> C. <b>Day</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Julian_C._Day", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Julian</b>_C._<b>Day</b>", 
+            "pagemap": {
+                "person": [
+                    {
+                        "role": "corporate executive"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "bday": "1952-05-14", 
+                        "role": "corporate executive", 
+                        "fn": "Julian C. Day"
+                    }
+                ]
+            }, 
+            "snippet": "Julian C. Day is an American corporate executive. He is the former President and \nCEO of Kmart. RadioShack CEO (2006- May 2011).", 
+            "htmlSnippet": "<b>Julian</b> C. <b>Day</b> is an American corporate executive. He is the former President and <br>\nCEO of Kmart. RadioShack CEO (2006- May 2011).", 
+            "link": "https://en.wikipedia.org/wiki/Julian_C._Day", 
+            "cacheId": "v3_I8MeKml8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Julian year (astronomy) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Julian</b> year (astronomy) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Julian_year_(astronomy)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Julian</b>_year_(astronomy)", 
+            "snippet": "[edit]. Main article: Julian day. A Julian year should not be confused with the \nJulian day (also Julian day number or JDN)\u00a0...", 
+            "htmlSnippet": "[edit]. Main article: <b>Julian day</b>. A Julian year should not be confused with the <br>\n<b>Julian day</b> (also <b>Julian day</b> number or JDN)&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Julian_year_(astronomy)", 
+            "cacheId": "F4epfSCT_58J"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Julian day", 
+                "safe": "off", 
+                "searchTerms": "Julian day", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "40300"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Julian day", 
+                "safe": "off", 
+                "searchTerms": "Julian day", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "40300"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.31", 
+        "formattedTotalResults": "40,300", 
+        "totalResults": "40300", 
+        "searchTime": 0.311953
+    }
+}

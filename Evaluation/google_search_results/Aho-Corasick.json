@@ -1,0 +1,219 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Aho\u2013Corasick algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Aho</b>\u2013<b>Corasick</b> algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Aho\u2013Corasick_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Aho</b>\u2013<b>Corasick</b>_algorithm", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTNJCAn9TZE6CSKKkNIrv9g34mUGN_ZolJ67NgObW_mmSQAMKqjRamTXVw", 
+                        "height": "176"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ahocorasick.svg/220px-Ahocorasick.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "In computer science, the Aho\u2013Corasick algorithm is a string searching algorithm \ninvented by Alfred V. Aho and Margaret J. Corasick. It is a kind of\u00a0...", 
+            "htmlSnippet": "In computer science, the <b>Aho</b>\u2013<b>Corasick</b> algorithm is a string searching algorithm <br>\ninvented by Alfred V. Aho and Margaret J. Corasick. It is a kind of&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Aho%E2%80%93Corasick_algorithm", 
+            "cacheId": "_iZfgIEZ0MoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Alfred Aho - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Alfred <b>Aho</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Alfred_Aho", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Alfred_<b>Aho</b>", 
+            "pagemap": {
+                "hcard": [
+                    {
+                        "url": "www1.cs.columbia.edu/~aho", 
+                        "bday": "1941-08-09", 
+                        "category": "Computer Science", 
+                        "url_text": "www1.cs.columbia.edu/~aho", 
+                        "fn": "Alfred Aho"
+                    }
+                ]
+            }, 
+            "snippet": "Alfred Vaino Aho (born August 9, 1941) is a Canadian computer scientist best ... \nThe fgrep algorithm has become known as the Aho-Corasick algorithm; it is\u00a0...", 
+            "htmlSnippet": "Alfred Vaino Aho (born August 9, 1941) is a Canadian computer scientist best ... <br>\nThe fgrep algorithm has become known as the <b>Aho</b>-<b>Corasick</b> algorithm; it is&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Alfred_Aho", 
+            "cacheId": "1Gk4KMFXo3IJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Commentz-Walter algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Commentz-Walter algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Commentz-Walter_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Commentz-Walter_algorithm", 
+            "snippet": "In computer science, the Commentz-Walter algorithm is a string searching \nalgorithm invented by Beate Commentz-Walter. Like the Aho\u2013Corasick string\u00a0...", 
+            "htmlSnippet": "In computer science, the Commentz-Walter algorithm is a string searching <br>\nalgorithm invented by Beate Commentz-Walter. Like the <b>Aho</b>\u2013<b>Corasick</b> string&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Commentz-Walter_algorithm", 
+            "cacheId": "LbFzPr_ejcMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Rabin\u2013Karp algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Rabin\u2013Karp algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Rabin\u2013Karp_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Rabin\u2013Karp_algorithm", 
+            "snippet": "In contrast, the Aho\u2013Corasick string matching algorithm has asymptotic worst-\ntime complexity O(n+m) in space O(m). A practical application of the algorithm is\n\u00a0...", 
+            "htmlSnippet": "In contrast, the <b>Aho</b>\u2013<b>Corasick</b> string matching algorithm has asymptotic worst-<br>\ntime complexity O(n+m) in space O(m). A practical application of the algorithm is<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Rabin%E2%80%93Karp_algorithm", 
+            "cacheId": "NDuY4vmUi4UJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "String searching algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "String searching algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/String_searching_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/String_searching_algorithm", 
+            "snippet": "Algorithms using a finite set of patterns[edit]. Aho\u2013Corasick string matching \nalgorithm \u00b7 Commentz-Walter algorithm \u00b7 Rabin\u2013Karp string search algorithm\u00a0...", 
+            "htmlSnippet": "Algorithms using a finite set of patterns[edit]. <b>Aho</b>\u2013<b>Corasick</b> string matching <br>\nalgorithm &middot; Commentz-Walter algorithm &middot; Rabin\u2013Karp string search algorithm&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/String_searching_algorithm", 
+            "cacheId": "Mwandf8I27sJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Tree alignment - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Tree alignment - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Tree_alignment", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Tree_alignment", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "357", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQOmsF_OOya1a8hRjmGMU28i-MKuBEzybkWcEQITbCGV9I-v5qxBI1wrRaI", 
+                        "height": "141"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Sequence_Alignment_Otakuftf%26Kingftf.png/550px-Sequence_Alignment_Otakuftf%26Kingftf.png"
+                    }
+                ]
+            }, 
+            "snippet": "2 The problem of Tree alignment; 3 Combinatorial Optimization Strategy. 3.1 The \nKeyword Tree Theory and Aho-Corasick search algorithm. 3.1.1 Keyword Tree\u00a0...", 
+            "htmlSnippet": "2 The problem of Tree alignment; 3 Combinatorial Optimization Strategy. 3.1 The <br>\nKeyword Tree Theory and <b>Aho</b>-<b>Corasick</b> search algorithm. 3.1.1 Keyword Tree&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Tree_alignment", 
+            "cacheId": "vQxsPqOJPNYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "grep - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "grep - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Grep", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Grep", 
+            "snippet": "The \" fgrep \" variant searches for any of a list of fixed strings using the Aho\u2013\nCorasick string matching algorithm. Binaries of these variants persist in most \nmodern\u00a0...", 
+            "htmlSnippet": "The &quot; fgrep &quot; variant searches for any of a list of fixed strings using the <b>Aho</b>\u2013<br>\n<b>Corasick</b> string matching algorithm. Binaries of these variants persist in most <br>\nmodern&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Grep", 
+            "cacheId": "jYubsYmQ_q8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Edit distance - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Edit distance - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Edit_distance", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Edit_distance", 
+            "snippet": "... most k (cf. the Aho\u2013Corasick algorithm, which similarly constructs an \nautomaton to search for any of a number of patterns, but without allowing edit \noperations).", 
+            "htmlSnippet": "... most k (cf. the <b>Aho</b>\u2013<b>Corasick</b> algorithm, which similarly constructs an <br>\nautomaton to search for any of a number of patterns, but without allowing edit <br>\noperations).", 
+            "link": "https://en.wikipedia.org/wiki/Edit_distance", 
+            "cacheId": "xnfjHTUt9pkJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Category:String matching algorithms - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Category:String matching algorithms - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Category:String_matching_algorithms", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Category:String_matching_algorithms", 
+            "snippet": "A. Aho\u2013Corasick algorithm \u00b7 Apostolico\u2013Giancarlo algorithm. B. Bitap algorithm \u00b7 \nBoyer\u2013Moore string search algorithm \u00b7 Boyer\u2013Moore\u2013Horspool algorithm. C.", 
+            "htmlSnippet": "A. <b>Aho</b>\u2013<b>Corasick</b> algorithm &middot; Apostolico\u2013Giancarlo algorithm. B. Bitap algorithm &middot; <br>\nBoyer\u2013Moore string search algorithm &middot; Boyer\u2013Moore\u2013Horspool algorithm. C.", 
+            "link": "https://en.wikipedia.org/wiki/Category:String_matching_algorithms", 
+            "cacheId": "FY9mHWXhTHsJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "User:Angela/3000 - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "User:Angela/3000 - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/User:Angela/3000", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/User:Angela/3000", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "240", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSB7yLRDRvvQMZA_glMX6TuOzMfLrlM485LqpZPdn-bdMnLE8irr6DAdfWn", 
+                        "height": "166"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Strelitzia_larger.jpg/300px-Strelitzia_larger.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "... Aglaea, Agnes Martin, Agricultural biotechnology, Agricultural engineering, \nAgricultural Research Service, Agricultural revolution, Agudat Israel, Aho-\nCorasick\u00a0...", 
+            "htmlSnippet": "... Aglaea, Agnes Martin, Agricultural biotechnology, Agricultural engineering, <br>\nAgricultural Research Service, Agricultural revolution, Agudat Israel, <b>Aho</b>-<br>\n<b>Corasick</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/User:Angela/3000", 
+            "cacheId": "wodfruRyUyQJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Aho-Corasick", 
+                "safe": "off", 
+                "searchTerms": "Aho-Corasick", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "76"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Aho-Corasick", 
+                "safe": "off", 
+                "searchTerms": "Aho-Corasick", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "76"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.84", 
+        "formattedTotalResults": "76", 
+        "totalResults": "76", 
+        "searchTime": 0.840317
+    }
+}

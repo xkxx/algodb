@@ -1,0 +1,194 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Earliest deadline first scheduling - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Earliest deadline first scheduling</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Earliest_deadline_first_scheduling", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Earliest</b>_<b>deadline</b>_<b>first</b>_<b>scheduling</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "122", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRbhTQad_bRAkLHoejQbEOKndk3D8vhldrxANo64xsHxU9N_wSMPe16", 
+                        "height": "44"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/math/f/c/7/fc761931e2e32fcd20b06ead16d0a6c1.png"
+                    }
+                ]
+            }, 
+            "snippet": "Earliest deadline first (EDF) or least time to go is a dynamic scheduling algorithm \nused in real-time operating systems to place processes in a priority queue.", 
+            "htmlSnippet": "<b>Earliest deadline first</b> (EDF) or least time to go is a dynamic <b>scheduling</b> algorithm <br>\nused in real-time operating systems to place processes in a priority queue.", 
+            "link": "https://en.wikipedia.org/wiki/Earliest_deadline_first_scheduling", 
+            "cacheId": "6W0vQQZhdNIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "SCHED_DEADLINE - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "SCHED_DEADLINE - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/SCHED_DEADLINE", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/SCHED_<b>DEADLINE</b>", 
+            "snippet": "The SCHED_DEADLINE scheduling class, implementing the earliest deadline \nfirst algorithm (EDF), was added to the Linux scheduler in version 3.14 of the\u00a0...", 
+            "htmlSnippet": "The SCHED_DEADLINE <b>scheduling</b> class, implementing the <b>earliest deadline</b> <br>\n<b>first</b> algorithm (EDF), was added to the Linux <b>scheduler</b> in version 3.14 of the&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/SCHED_DEADLINE", 
+            "cacheId": "mzsMDw9XbisJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Least slack time scheduling - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Least slack time <b>scheduling</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Least_slack_time_scheduling", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Least_slack_time_<b>scheduling</b>", 
+            "snippet": "Least slack time (LST) scheduling is a scheduling algorithm. ... However, like \nearliest deadline first, and unlike rate monotonic scheduling, this algorithm can \nbe\u00a0...", 
+            "htmlSnippet": "Least slack time (LST) <b>scheduling</b> is a <b>scheduling</b> algorithm. ... However, like <br>\n<b>earliest deadline first</b>, and unlike rate monotonic <b>scheduling</b>, this algorithm can <br>\nbe&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Least_slack_time_scheduling", 
+            "cacheId": "WYhG1fS3LzAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Scheduling (computing) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Scheduling</b> (computing) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Scheduling_(computing)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Scheduling</b>_(computing)", 
+            "snippet": "[edit]. Main article: Earliest deadline first scheduling. Earliest deadline first (EDF) \nor least time to go is a dynamic\u00a0...", 
+            "htmlSnippet": "[edit]. Main article: <b>Earliest deadline first scheduling</b>. Earliest deadline first (EDF) <br>\nor least time to go is a dynamic&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Scheduling_(computing)", 
+            "cacheId": "I6wQeqME3O8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Rate-monotonic scheduling - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Rate-monotonic <b>scheduling</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Rate-monotonic_scheduling", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Rate-monotonic_<b>scheduling</b>", 
+            "snippet": "The deadline-monotonic scheduling algorithm is also optimal with equal periods \nand deadlines ... This is so that resource conflicts cannot result in the first place.", 
+            "htmlSnippet": "The <b>deadline</b>-monotonic <b>scheduling</b> algorithm is also optimal with equal periods <br>\nand <b>deadlines</b> ... This is so that resource conflicts cannot result in the <b>first</b> place.", 
+            "link": "https://en.wikipedia.org/wiki/Rate-monotonic_scheduling", 
+            "cacheId": "v-uJAok3MpoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Dynamic priority scheduling - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Dynamic priority <b>scheduling</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Dynamic_priority_scheduling", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Dynamic_priority_<b>scheduling</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "240", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKAHDAbylpY_T5c5U7U-ZW1YonlD28Fcm3CoEH4-icNQ68CaGpMKInXk8", 
+                        "height": "169"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Priority_scheduling.pdf/page1-300px-Priority_scheduling.pdf.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "Definition: Dynamic scheduling is a method in which the hardware determines ... \nEarliest deadline first scheduling and Least slack time scheduling are examples\u00a0...", 
+            "htmlSnippet": "Definition: Dynamic scheduling is a method in which the hardware determines ... <br>\n<b>Earliest deadline first scheduling</b> and Least slack time scheduling are examples&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Dynamic_priority_scheduling", 
+            "cacheId": "PziUw2XC4DoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Interval scheduling - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Interval <b>scheduling</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Interval_scheduling", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Interval_<b>scheduling</b>", 
+            "snippet": "The interval scheduling maximization problem (ISMP) is to find a largest .... for the \nnon-weighted version can found with the earliest deadline first scheduling.", 
+            "htmlSnippet": "The interval scheduling maximization problem (ISMP) is to find a largest .... for the <br>\nnon-weighted version can found with the <b>earliest deadline first scheduling</b>.", 
+            "link": "https://en.wikipedia.org/wiki/Interval_scheduling", 
+            "cacheId": "3NLfu0BSBkgJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Stack Resource Policy - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Stack Resource Policy - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Stack_Resource_Policy", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Stack_Resource_Policy", 
+            "snippet": "... which is for fixed priority tasks (FP). SRP was defined by T. P. Baker and is \nused for accessing shared resources when using Earliest deadline first \nscheduling.", 
+            "htmlSnippet": "... which is for fixed priority tasks (FP). SRP was defined by T. P. Baker and is <br>\nused for accessing shared resources when using <b>Earliest deadline first</b> <br>\n<b>scheduling</b>.", 
+            "link": "https://en.wikipedia.org/wiki/Stack_Resource_Policy", 
+            "cacheId": "R9WyZiKi2sUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Real-time operating system - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Real-time operating system - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Real-time_operating_system", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Real-time_operating_system", 
+            "snippet": "... with Deferred Preemption; Fixed-Priority Non-preemptive Scheduling; Critical \nsection preemptive scheduling; Static time scheduling. Earliest Deadline First\u00a0...", 
+            "htmlSnippet": "... with Deferred Preemption; Fixed-Priority Non-preemptive <b>Scheduling</b>; Critical <br>\nsection preemptive <b>scheduling</b>; Static time <b>scheduling</b>. <b>Earliest Deadline First</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Real-time_operating_system", 
+            "cacheId": "jxYiyqVSP40J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Category:Processor scheduling algorithms - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Category:Processor <b>scheduling</b> algorithms - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../Category:Processor_scheduling_algorithms", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Category:Processor_<b>scheduling</b>_algorithms", 
+            "snippet": "Pages in category \"Processor scheduling algorithms\". The following 22 pages \nare in ... D. Deadline-monotonic scheduling. E. Earliest deadline first scheduling\n\u00a0...", 
+            "htmlSnippet": "Pages in category &quot;Processor scheduling algorithms&quot;. The following 22 pages <br>\nare in ... D. Deadline-monotonic scheduling. E. <b>Earliest deadline first scheduling</b><br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Category:Processor_scheduling_algorithms", 
+            "cacheId": "d1AmdPiOKfEJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Earliest deadline first scheduling", 
+                "safe": "off", 
+                "searchTerms": "Earliest deadline first scheduling", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "272"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Earliest deadline first scheduling", 
+                "safe": "off", 
+                "searchTerms": "Earliest deadline first scheduling", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "272"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.25", 
+        "formattedTotalResults": "272", 
+        "totalResults": "272", 
+        "searchTime": 0.247991
+    }
+}

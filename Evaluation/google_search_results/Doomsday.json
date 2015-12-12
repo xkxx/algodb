@@ -1,0 +1,292 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Doomsday (comics) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Doomsday</b> (comics) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Doomsday_(comics)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Doomsday</b>_(comics)", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "182", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQZLOHQow6TM5MEJTf12-3yDja_b79sGrvQ8E4DAH-9S5alR9blB_AYE8g", 
+                        "height": "277"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Doomsday_(BATMANSUPERMAN_3.1_DOOMSDAY).jpg/250px-Doomsday_(BATMANSUPERMAN_3.1_DOOMSDAY).jpg"
+                    }
+                ]
+            }, 
+            "snippet": "Doomsday is portrayed as a deadly monster born from the depths of ancient \nKrypton. His creation imbued him with few feelings, mostly hate and destruction\u00a0...", 
+            "htmlSnippet": "<b>Doomsday</b> is portrayed as a deadly monster born from the depths of ancient <br>\nKrypton. His creation imbued him with few feelings, mostly hate and destruction&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Doomsday_(comics)", 
+            "cacheId": "JPenAE9ThQMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Doomsday - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Doomsday</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Doomsday", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Doomsday</b>", 
+            "snippet": "Doomsday may refer to: End time, a time period described in the eschatological \nwritings in Abrahamic religions and in doomsday scenarios non-Abrahamic\u00a0...", 
+            "htmlSnippet": "<b>Doomsday</b> may refer to: End time, a time period described in the eschatological <br>\nwritings in Abrahamic religions and in <b>doomsday</b> scenarios non-Abrahamic&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Doomsday", 
+            "cacheId": "fBvZI68BRykJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Doomsday (Doctor Who) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Doomsday</b> (Doctor Who) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Doomsday_(Doctor_Who)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Doomsday</b>_(Doctor_Who)", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "220", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQSAx3qX_xvofhsy5GmxPJeJlwzAvnXs5GY4grSrN2J-UC3312KZgPyDxo", 
+                        "height": "126"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fa/Doomsday_(Doctor_Who).jpg/275px-Doomsday_(Doctor_Who).jpg"
+                    }
+                ]
+            }, 
+            "snippet": "\"Doomsday\" is the thirteenth and final episode in the second series of the revival \nof the British science fiction television programme Doctor Who. It was first\u00a0...", 
+            "htmlSnippet": "&quot;<b>Doomsday</b>&quot; is the thirteenth and final episode in the second series of the revival <br>\nof the British science fiction television programme Doctor Who. It was first&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Doomsday_(Doctor_Who)", 
+            "cacheId": "qad_C-DvXHoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Superman: Doomsday - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Superman: <b>Doomsday</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Superman:_Doomsday", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Superman:_<b>Doomsday</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSi8FntzmXEchDTNhYMSTJZw3crQ8J7wSvmutwqngQ6-gtaM6fhKa6H1s8n", 
+                        "height": "249"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Superman_Doomsday_logo.JPG/220px-Superman_Doomsday_logo.JPG"
+                    }
+                ]
+            }, 
+            "snippet": "Superman: Doomsday is a 2007 American direct-to-video animated superhero \nfilm, adapted from the popular DC Comics storyline The Death of Superman,\u00a0...", 
+            "htmlSnippet": "Superman: <b>Doomsday</b> is a 2007 American direct-to-video animated superhero <br>\nfilm, adapted from the popular DC Comics storyline The Death of Superman,&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Superman:_Doomsday", 
+            "cacheId": "bT8AwqjIyF8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Doomsday (2008 film) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Doomsday</b> (2008 film) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Doomsday_(2008_film)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Doomsday</b>_(2008_film)", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTwGFrutVbUMeH7mseLnfR0hz8pSV5oQXt4hrgkld3whO7xBiwPBtdnoz87", 
+                        "height": "260"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/Doomsday_poster.jpg/220px-Doomsday_poster.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "Doomsday is a 2008 science fiction action film written and directed by Neil \nMarshall. The film takes place in the future in Scotland, which has been \nquarantined\u00a0...", 
+            "htmlSnippet": "<b>Doomsday</b> is a 2008 science fiction action film written and directed by Neil <br>\nMarshall. The film takes place in the future in Scotland, which has been <br>\nquarantined&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Doomsday_(2008_film)", 
+            "cacheId": "pVsadrYiTuMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Doomsday device - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Doomsday</b> device - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Doomsday_device", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Doomsday</b>_device", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "200", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe7RQSygz69ksFBZCtvv-xdPWw89scrntGXGKE28SocZlcnVUflPzJ4Kc", 
+                        "height": "251"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Castle_Romeo.jpg/250px-Castle_Romeo.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "A doomsday device is a hypothetical construction \u2014 usually a weapon, or \ncollection of weapons \u2014 which could destroy all life on a planet, particularly the \nEarth,\u00a0...", 
+            "htmlSnippet": "A <b>doomsday</b> device is a hypothetical construction \u2014 usually a weapon, or <br>\ncollection of weapons \u2014 which could destroy all life on a planet, particularly the <br>\nEarth,&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Doomsday_device", 
+            "cacheId": "LDbGoNkG7ZAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Reign of Doomsday - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Reign of <b>Doomsday</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Reign_of_Doomsday", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Reign_of_<b>Doomsday</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "180", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRy7IOqzccxiJRd3W4zxHLNjzY5wETSxhtC9to1wRruuEG07jJRo4RUJvI", 
+                        "height": "280"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/8/86/Reign_of_Doomsday.jpg/250px-Reign_of_Doomsday.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "\"Reign of Doomsday\" is a 2011 comic book crossover storyline published by DC \nComics that ran through the Superman family of books, The Outsiders and The\u00a0...", 
+            "htmlSnippet": "&quot;Reign of <b>Doomsday</b>&quot; is a 2011 comic book crossover storyline published by DC <br>\nComics that ran through the Superman family of books, The Outsiders and The&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Reign_of_Doomsday", 
+            "cacheId": "Ktje4W-Pd8wJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Doomsday rule - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Doomsday</b> rule - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Doomsday_rule", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Doomsday</b>_rule", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQViIUURNvAXRm6fONc984LwXgUlabbF1oDpktpKms3GF7ntK3WbZlHrZw", 
+                        "height": "116"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/John_H_Conway_2005.jpg/220px-John_H_Conway_2005.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "The Doomsday rule or Doomsday algorithm is a way of calculating the day of the \nweek of a given date. It provides a perpetual calendar because the Gregorian\u00a0...", 
+            "htmlSnippet": "The <b>Doomsday</b> rule or <b>Doomsday</b> algorithm is a way of calculating the day of the <br>\nweek of a given date. It provides a perpetual calendar because the Gregorian&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Doomsday_rule", 
+            "cacheId": "70NqF4hBueoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Doomsday Clock - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Doomsday</b> Clock - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Doomsday_Clock", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Doomsday</b>_Clock", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "120", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPP6m57wfpf2BD4GKp7ylXtypPeQDqQ6NDPvgKnS8v23JYQkjal5aWsQ", 
+                        "height": "164"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/3/39/Bulletin_Atomic_Scientists_Cover.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "The Doomsday Clock is a symbolic clock face, representing a countdown to \npossible global catastrophe (e.g. nuclear war or climate change). It has been\u00a0...", 
+            "htmlSnippet": "The <b>Doomsday</b> Clock is a symbolic clock face, representing a countdown to <br>\npossible global catastrophe (e.g. nuclear war or climate change). It has been&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Doomsday_Clock", 
+            "cacheId": "YpCBbKVGgksJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Doomsday Book (novel) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Doomsday</b> Book (novel) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Doomsday_Book_(novel)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Doomsday</b>_Book_(novel)", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "160", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSoQ_OzSCfwOWVwBsEDo5bFZk5DldeClMVWr1Ulic1QYvSSWB7rAQ4DrYo", 
+                        "height": "241"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/1/19/DoomsdayBook(1stEd).jpg/200px-DoomsdayBook(1stEd).jpg"
+                    }
+                ]
+            }, 
+            "snippet": "Doomsday Book is a 1992 science fiction novel by American author Connie Willis\n. The novel won both the Hugo and Nebula Awards, and was shortlisted for\u00a0...", 
+            "htmlSnippet": "<b>Doomsday</b> Book is a 1992 science fiction novel by American author Connie Willis<br>\n. The novel won both the Hugo and Nebula Awards, and was shortlisted for&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Doomsday_Book_(novel)", 
+            "cacheId": "7MdKzdZpk4cJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Doomsday", 
+                "safe": "off", 
+                "searchTerms": "Doomsday", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "414000"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Doomsday", 
+                "safe": "off", 
+                "searchTerms": "Doomsday", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "414000"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.35", 
+        "formattedTotalResults": "414,000", 
+        "totalResults": "414000", 
+        "searchTime": 0.351464
+    }
+}

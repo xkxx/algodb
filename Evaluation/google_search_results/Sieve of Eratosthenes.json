@@ -1,0 +1,249 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Sieve of Eratosthenes - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Sieve of Eratosthenes</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Sieve_of_Eratosthenes</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "247", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS4V0-UUBA4o4YR9hTtoKMPE_QuAU3Bwj5JLG0pHZlI0X_afRWsvBn5sQs", 
+                        "height": "204"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Sieve_of_Eratosthenes_animation.gif"
+                    }
+                ]
+            }, 
+            "snippet": "In mathematics, the sieve of Eratosthenes (Ancient Greek: \u03ba\u03cc\u03c3\u03ba\u03b9\u03bd\u03bf\u03bd \n\u1f18\u03c1\u03b1\u03c4\u03bf\u03c3\u03b8\u03ad\u03bd\u03bf\u03c5\u03c2, k\u00f3skinon Eratosth\u00e9nous), one of a number of prime number \nsieves, is a\u00a0...", 
+            "htmlSnippet": "In mathematics, the <b>sieve of Eratosthenes</b> (Ancient Greek: \u03ba\u03cc\u03c3\u03ba\u03b9\u03bd\u03bf\u03bd <br>\n\u1f18\u03c1\u03b1\u03c4\u03bf\u03c3\u03b8\u03ad\u03bd\u03bf\u03c5\u03c2, k\u00f3skinon Eratosth\u00e9nous), one of a number of prime number <br>\nsieves, is a&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes", 
+            "cacheId": "lZdhga27U0EJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "File:Sieve of Eratosthenes animation.gif - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "File:<b>Sieve of Eratosthenes</b> animation.gif - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../File:Sieve_of_Eratosthenes_animation.gif", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../File:<b>Sieve_of_Eratosthenes</b>_animation.gif", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "247", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS4V0-UUBA4o4YR9hTtoKMPE_QuAU3Bwj5JLG0pHZlI0X_afRWsvBn5sQs", 
+                        "height": "204"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Sieve_of_Eratosthenes_animation.gif"
+                    }
+                ]
+            }, 
+            "snippet": "File:Sieve of Eratosthenes animation.gif. No higher resolution available. \nSieve_of_Eratosthenes_animation.gif   (445 \u00d7 369 pixels, file size: 154 KB, MIME \ntype:\u00a0...", 
+            "htmlSnippet": "File:<b>Sieve of Eratosthenes</b> animation.gif. No higher resolution available. <br>\nSieve_of_Eratosthenes_animation.gif   (445 \u00d7 369 pixels, file size: 154 KB, MIME <br>\ntype:&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/File:Sieve_of_Eratosthenes_animation.gif", 
+            "cacheId": "jOKF9yzuFVUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Generating primes - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Generating primes - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Generating_primes", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Generating_primes", 
+            "snippet": "A prime sieve or prime number sieve is a fast type of algorithm for finding primes. \nThere are many prime sieves. The simple sieve of Eratosthenes (250s BCE),\u00a0...", 
+            "htmlSnippet": "A prime sieve or prime number sieve is a fast type of algorithm for finding primes. <br>\nThere are many prime sieves. The simple <b>sieve of Eratosthenes</b> (250s BCE),&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Generating_primes", 
+            "cacheId": "xbg3iJvWPgAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Legendre sieve - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Legendre <b>sieve</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Legendre_sieve", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Legendre_<b>sieve</b>", 
+            "snippet": "It applies the concept of the Sieve of Eratosthenes to find upper or lower bounds \non the number of primes within a given set of integers. Because it is a simple\u00a0...", 
+            "htmlSnippet": "It applies the concept of the <b>Sieve of Eratosthenes</b> to find upper or lower bounds <br>\non the number of primes within a given set of integers. Because it is a simple&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Legendre_sieve", 
+            "cacheId": "AYDExFx8S8QJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Sieve of Sundaram - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Sieve</b> of Sundaram - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Sieve_of_Sundaram", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Sieve</b>_of_Sundaram", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "284", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-Ra60xS-xeEl8SVaGPF3-r2acQJo_YKJGgznzMx3jypJQ-MAjYsONzkDm", 
+                        "height": "177"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Sieve_of_Sundaram_Animated.gif"
+                    }
+                ]
+            }, 
+            "snippet": "In mathematics, the sieve of Sundaram is a simple deterministic algorithm for ... of \nSundaram sieves out the composite numbers just as sieve of Eratosthenes\u00a0...", 
+            "htmlSnippet": "In mathematics, the sieve of Sundaram is a simple deterministic algorithm for ... of <br>\nSundaram sieves out the composite numbers just as <b>sieve of Eratosthenes</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Sieve_of_Sundaram", 
+            "cacheId": "IyeQGrPTqv0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Sieve of Atkin - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Sieve</b> of Atkin - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Sieve_of_Atkin", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Sieve</b>_of_Atkin", 
+            "snippet": "In mathematics, the sieve of Atkin is a modern algorithm for finding all prime \nnumbers up to a specified integer. Compared with the ancient sieve of \nEratosthenes,\u00a0...", 
+            "htmlSnippet": "In mathematics, the sieve of Atkin is a modern algorithm for finding all prime <br>\nnumbers up to a specified integer. Compared with the ancient <b>sieve of</b> <br>\n<b>Eratosthenes</b>,&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Sieve_of_Atkin", 
+            "cacheId": "RQB6QYe9fmQJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "User:WillNess/Sieve of Eratosthenes - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "User:WillNess/<b>Sieve of Eratosthenes</b> - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/User:WillNess/Sieve_of_Eratosthenes", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/User:WillNess/<b>Sieve_of_Eratosthenes</b>", 
+            "snippet": "In mathematics, the sieve of Eratosthenes (Greek: \u03ba\u03cc\u03c3\u03ba\u03b9\u03bd\u03bf\u03bd \u1f18\u03c1\u03b1\u03c4\u03bf\u03c3\u03b8\u03ad\u03bd\u03bf\u03c5\u03c2), one \nof a number of prime number sieves, is a simple, ancient algorithm for finding all\n\u00a0...", 
+            "htmlSnippet": "In mathematics, the <b>sieve of Eratosthenes</b> (Greek: \u03ba\u03cc\u03c3\u03ba\u03b9\u03bd\u03bf\u03bd \u1f18\u03c1\u03b1\u03c4\u03bf\u03c3\u03b8\u03ad\u03bd\u03bf\u03c5\u03c2), one <br>\nof a number of prime number sieves, is a simple, ancient algorithm for finding all<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/User:WillNess/Sieve_of_Eratosthenes", 
+            "cacheId": "crY0nWzkQ8EJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Eratosthenes - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Eratosthenes</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Eratosthenes", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Eratosthenes</b>", 
+            "pagemap": {
+                "person": [
+                    {
+                        "role": "Scholar Librarian Poet Inventor"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSA56ykgs_T4cdJ6n6Zlok3SuyABpEWgEP0Ih2cklkQ7m-xPQM0GHuKPhE", 
+                        "height": "174"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Eratosthene.01.png/220px-Eratosthene.01.png"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "category": "Greek", 
+                        "role": "Scholar Librarian Poet Inventor", 
+                        "nickname": "Eratosthenes", 
+                        "fn": "Eratosthenes"
+                    }
+                ]
+            }, 
+            "snippet": "In number theory, he introduced the sieve of Eratosthenes, an efficient method of \nidentifying prime numbers. He was a figure of influence who declined to\u00a0...", 
+            "htmlSnippet": "In number theory, he introduced the <b>sieve of Eratosthenes</b>, an efficient method of <br>\nidentifying prime numbers. He was a figure of influence who declined to&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Eratosthenes", 
+            "cacheId": "1bcmhzY4uBEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Wheel factorization - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Wheel factorization - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Wheel_factorization", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Wheel_factorization", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQqA2LzsYYWt4Rf-rLvneuZHGPhn70Hoyk0076KBCF6lwKI9fqeonHU8Wk", 
+                        "height": "176"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Wheel_factorization-n%3D30.svg/220px-Wheel_factorization-n%3D30.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "They are known or perhaps determined from previous applications of smaller \nfactorization wheels or by quickly finding them using the Sieve of Eratosthenes.", 
+            "htmlSnippet": "They are known or perhaps determined from previous applications of smaller <br>\nfactorization wheels or by quickly finding them using the <b>Sieve of Eratosthenes</b>.", 
+            "link": "https://en.wikipedia.org/wiki/Wheel_factorization", 
+            "cacheId": "RorcQ0N6wQwJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "File talk:Sieve of Eratosthenes animation.gif - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "File talk:<b>Sieve of Eratosthenes</b> animation.gif - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../File_talk:Sieve_of_Eratosthenes_animation.gif", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../File_talk:<b>Sieve_of_Eratosthenes</b>_animation.gif", 
+            "snippet": "needs a legend. Discussed at Talk:Sieve_of_Eratosthenes#Image. The original \nversion by Brian0918 is preferred for the Sieve of Eratosthenes. The changed\u00a0...", 
+            "htmlSnippet": "needs a legend. Discussed at Talk:Sieve_of_Eratosthenes#Image. The original <br>\nversion by Brian0918 is preferred for the <b>Sieve of Eratosthenes</b>. The changed&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/File_talk:Sieve_of_Eratosthenes_animation.gif", 
+            "cacheId": "zfk-5BHYVNwJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Sieve of Eratosthenes", 
+                "safe": "off", 
+                "searchTerms": "Sieve of Eratosthenes", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "298"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Sieve of Eratosthenes", 
+                "safe": "off", 
+                "searchTerms": "Sieve of Eratosthenes", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "298"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.18", 
+        "formattedTotalResults": "298", 
+        "totalResults": "298", 
+        "searchTime": 0.178318
+    }
+}

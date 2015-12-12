@@ -1,0 +1,180 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Shortest common supersequence problem - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Shortest common supersequence</b> problem - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../Shortest_common_supersequence_problem", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../<b>Shortest</b>_<b>common</b>_<b>supersequence</b>_problem", 
+            "snippet": "In computer science, the shortest common supersequence problem is a problem \nclosely related to the longest common subsequence problem. Given two\u00a0...", 
+            "htmlSnippet": "In computer science, the <b>shortest common supersequence</b> problem is a problem <br>\nclosely related to the longest common subsequence problem. Given two&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Shortest_common_supersequence_problem", 
+            "cacheId": "jSQTRdlBifgJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Shortest common supersequence problem - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Shortest common supersequence</b> problem - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../Talk%3AShortest_common_supersequence", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Talk%3A<b>Shortest</b>_<b>common</b>_<b>supersequence</b>", 
+            "snippet": "This article is within the scope of WikiProject Computer science, a collaborative \neffort to improve the coverage of Computer science related articles on Wikipedia.", 
+            "htmlSnippet": "This article is within the scope of WikiProject Computer science, a collaborative <br>\neffort to improve the coverage of Computer science related articles on Wikipedia.", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3AShortest_common_supersequence", 
+            "cacheId": "DoA0lrHDLlQJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Category:Dynamic programming - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Category:Dynamic programming - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Category:Dynamic_programming", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Category:Dynamic_programming", 
+            "snippet": "... wrap \u00b7 Longest alternating subsequence \u00b7 Longest common subsequence \nproblem ... Shortest common supersequence problem \u00b7 Smith\u2013Waterman \nalgorithm\u00a0...", 
+            "htmlSnippet": "... wrap &middot; Longest alternating subsequence &middot; Longest common subsequence <br>\nproblem ... <b>Shortest common supersequence</b> problem &middot; Smith\u2013Waterman <br>\nalgorithm&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Category:Dynamic_programming", 
+            "cacheId": "bg8MNgF7rykJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Category:Problems on strings - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Category:Problems on strings - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Category:Problems_on_strings", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Category:Problems_on_strings", 
+            "snippet": "... Longest alternating subsequence \u00b7 Longest common subsequence problem ... \nShortest common supersequence problem \u00b7 String-to-string correction problem.", 
+            "htmlSnippet": "... Longest alternating subsequence &middot; Longest common subsequence problem ... <br>\n<b>Shortest common supersequence</b> problem &middot; String-to-string correction problem.", 
+            "link": "https://en.wikipedia.org/wiki/Category:Problems_on_strings", 
+            "cacheId": "jWUpamEYS5kJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "List of NP-complete problems - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "List of NP-complete problems - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/List_of_NP-complete_problems", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/List_of_NP-complete_problems", 
+            "snippet": "Closest string \u00b7 Longest common subsequence problem; The bounded variant of \nthe ... Shortest common supersequence \u00b7 String-to-string correction problem\u00a0...", 
+            "htmlSnippet": "Closest string &middot; Longest common subsequence problem; The bounded variant of <br>\nthe ... <b>Shortest common supersequence</b> &middot; String-to-string correction problem&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/List_of_NP-complete_problems", 
+            "cacheId": "rNH3uuJMWVAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Longest common subsequence problem - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Longest <b>common</b> subsequence problem - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../Longest_common_subsequence_problem", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Longest_<b>common</b>_subsequence_problem", 
+            "snippet": "The longest common subsequence (LCS) problem is the problem of finding the \n..... the length of the shortest common supersequence is related to the length of\u00a0...", 
+            "htmlSnippet": "The longest common subsequence (LCS) problem is the problem of finding the <br>\n..... the length of the <b>shortest common supersequence</b> is related to the length of&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Longest_common_subsequence_problem", 
+            "cacheId": "MlLnUJJMUrQJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Sequence assembly - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:Sequence assembly - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3ASequence_assembly", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3ASequence_assembly", 
+            "snippet": "However I think that pseudocode should be placed elswehere i.e. in the Shortest \ncommon supersequence article. 213.121.151.178 03:37, 26 February 2006\u00a0...", 
+            "htmlSnippet": "However I think that pseudocode should be placed elswehere i.e. in the <b>Shortest</b> <br>\n<b>common supersequence</b> article. 213.121.151.178 03:37, 26 February 2006&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3ASequence_assembly", 
+            "cacheId": "b3LS8EAaRpYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "User:Manoj kumar regar/Books/Algorithms - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "User:Manoj kumar regar/Books/Algorithms - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/User:Manoj_kumar.../Algorithms", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/User:Manoj_kumar.../Algorithms", 
+            "snippet": "... subsequence \u00b7 Shortest common supersequence \u00b7 Substring \u00b7 Longest \ncommon substring problem \u00b7 String searching algorithm \u00b7 Aho\u2013Corasick string \nmatching\u00a0...", 
+            "htmlSnippet": "... subsequence &middot; <b>Shortest common supersequence</b> &middot; Substring &middot; Longest <br>\ncommon substring problem &middot; String searching algorithm &middot; Aho\u2013Corasick string <br>\nmatching&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/User:Manoj_kumar_regar/Books/Algorithms", 
+            "cacheId": "AQNpcJA5SNIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Yamaha YMF292 - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Yamaha YMF292 - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Yamaha_YMF292", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Yamaha_YMF292", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTlq_IYCc-fAnb3Pu_yBMGYECl87YDC4Wx2eTYCWXouRZjeXexRzmotoZxs", 
+                        "height": "155"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/315-5687_01.jpg/220px-315-5687_01.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "For other uses, see Shortest common supersequence problem. Yamaha YMF292\n. The YMF292, aka SCSP (Saturn Custom Sound Processor) is a multi-function\u00a0...", 
+            "htmlSnippet": "For other uses, see <b>Shortest common supersequence</b> problem. Yamaha YMF292<br>\n. The YMF292, aka SCSP (Saturn Custom Sound Processor) is a multi-function&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Yamaha_YMF292", 
+            "cacheId": "Q8PjfjNQQtUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "List of algorithms - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "List of algorithms - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/List_of_algorithms", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/List_of_algorithms", 
+            "snippet": "Bellman\u2013Ford algorithm: computes shortest paths in a weighted graph .... \nShortest common supersequence problem: Find the shortest supersequence that\n\u00a0...", 
+            "htmlSnippet": "Bellman\u2013Ford algorithm: computes shortest paths in a weighted graph .... <br>\n<b>Shortest common supersequence</b> problem: Find the shortest supersequence that<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/List_of_algorithms", 
+            "cacheId": "iXsrHv5PMNcJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Shortest common supersequence", 
+                "safe": "off", 
+                "searchTerms": "Shortest common supersequence", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "31"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Shortest common supersequence", 
+                "safe": "off", 
+                "searchTerms": "Shortest common supersequence", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "31"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.24", 
+        "formattedTotalResults": "31", 
+        "totalResults": "31", 
+        "searchTime": 0.236587
+    }
+}
