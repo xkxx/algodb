@@ -1,6 +1,7 @@
 body {
   padding: 20px;
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  color: rgb(48, 48, 48);
 }
 
 a {
@@ -25,7 +26,18 @@ h1.logo {
   margin: 10px 0;
   padding-right: 20px;
   float: left;
+  cursor: pointer;
+
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
 }
+
+h1.logo .v2 .r { color: #F90101; }
+h1.logo .v2 .b { color: #0266C8; }
+h1.logo .v2 .y { color: #F2B50F; }
+h1.logo .v2 .g { color: #00933B; }
 
 .stats {
   margin: 10px 0;
@@ -59,7 +71,7 @@ h1.logo {
   margin-right: 10px;
 }
 
-.submit {
+.button {
   font-size: 18px;
   line-height: 18px;
   display: inline-block;
@@ -73,16 +85,34 @@ h1.logo {
   color: white;
   font-weight: 100;
   border-radius: 2px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+.button:hover {
+  background-color: rgb(81, 164, 255);
+}
+
+.button.small {
+  font-size: 12px;
+  line-height: 12px;
+  padding: 10px 10px;
+  height: 30px;
+  vertical-align: bottom;
 }
 
 /* Results */
 
-.results.title {
-  font-size: 30px;
-  font-weight: 700;
+.results {
   margin: 20px 0;
 }
-.results.title.empty {
+.results > .title {
+  font-size: 30px;
+  font-weight: 700;
+  margin-right: 20px;
+}
+.results .title.empty {
   color: #C52A20;
   margin: 60px 0;
 }
@@ -115,12 +145,24 @@ h1.logo {
   margin: 10px;
 }
 
+.see-more {
+  margin-top: 20px;
+}
+
+.hidden {
+  display: none;
+}
+
 li {
   list-style-type: disc;
   margin-left: 20px;
 }
 
 /* Implementation */
+
+.implementations {
+  margin-bottom: 20px;
+}
 
 .implementations li {
   list-style-type: none;
