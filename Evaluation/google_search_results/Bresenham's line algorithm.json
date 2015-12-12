@@ -1,0 +1,222 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Bresenham's line algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Bresenham&#39;s line algorithm</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Bresenham's_line_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Bresenham&#39;s</b>_<b>line</b>_<b>algorithm</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "225", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcScpAnwN_2jhvosPgdfjFswlqwesQznqJYPD6TlMy7seDxbts0vsbxOYKo", 
+                        "height": "225"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Line_1.5x%2B1.svg/300px-Line_1.5x%2B1.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "Bresenham's line algorithm is an algorithm that determines the points of an n-\ndimensional raster that should be selected in order to form a close approximation\n\u00a0...", 
+            "htmlSnippet": "<b>Bresenham&#39;s line algorithm</b> is an algorithm that determines the points of an n-<br>\ndimensional raster that should be selected in order to form a close approximation<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Bresenham's_line_algorithm", 
+            "cacheId": "ezjixdrcmfgJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Line drawing algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Line</b> drawing <b>algorithm</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Line_drawing_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Line</b>_drawing_<b>algorithm</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSeIWn7bEUGyn3LJi2JRgZ8EBBFC39nNcRL8xaXbPdKMx_JoK7AMJ24Akc", 
+                        "height": "146"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Line_scan-conversion.svg/220px-Line_scan-conversion.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "On continuous media, by contrast, no algorithm is necessary to draw a line. ... \nLine drawing algorithms such as Bresenham's or Wu's are preferred instead.", 
+            "htmlSnippet": "On continuous media, by contrast, no <b>algorithm</b> is necessary to draw a <b>line</b>. ... <br>\n<b>Line</b> drawing <b>algorithms</b> such as <b>Bresenham</b>&#39;s or Wu&#39;s are preferred instead.", 
+            "link": "https://en.wikipedia.org/wiki/Line_drawing_algorithm", 
+            "cacheId": "PgWjNEE8z6AJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Xiaolin Wu's line algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Xiaolin Wu&#39;s <b>line algorithm</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Xiaolin_Wu's_line_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Xiaolin_Wu&#39;s_<b>line</b>_<b>algorithm</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRiyexCY7kZpBITUdehtNC6Df1ttOSFhGvyuAtkHJVmgXdKPzbIH_jLugA", 
+                        "height": "88"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/XiaolinWuLine.png/220px-XiaolinWuLine.png"
+                    }
+                ]
+            }, 
+            "snippet": "Bresenham's algorithm draws lines extremely quickly, but it does not perform anti\n-aliasing. In addition, it cannot handle any cases where the line endpoints do\u00a0...", 
+            "htmlSnippet": "<b>Bresenham&#39;s algorithm</b> draws lines extremely quickly, but it does not perform anti<br>\n-aliasing. In addition, it cannot handle any cases where the <b>line</b> endpoints do&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Xiaolin_Wu's_line_algorithm", 
+            "cacheId": "vxDazAXld3EJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Jack Elton Bresenham - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Jack Elton <b>Bresenham</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Jack_Elton_Bresenham", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Jack_Elton_<b>Bresenham</b>", 
+            "snippet": "Bresenham's line algorithm, developed in 1962, is his most well-known \ninnovation. It determines which points on a 2-dimensional raster should be \nplotted in\u00a0...", 
+            "htmlSnippet": "<b>Bresenham&#39;s line algorithm</b>, developed in 1962, is his most well-known <br>\ninnovation. It determines which points on a 2-dimensional raster should be <br>\nplotted in&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Jack_Elton_Bresenham", 
+            "cacheId": "s4oef6bdL48J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Midpoint circle algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Midpoint circle <b>algorithm</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Midpoint_circle_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Midpoint_circle_<b>algorithm</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "225", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTXMayrcDkki-8QoB1ABXv2SuvEKb9xIG7r2O75VPIVhRJ-YX6X9KyLjHb8", 
+                        "height": "225"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Bresenham_circle.svg/320px-Bresenham_circle.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "In computer graphics, the midpoint circle algorithm is an algorithm used to .... Just \nas with Bresenham's line algorithm, this algorithm can be optimized for\u00a0...", 
+            "htmlSnippet": "In computer graphics, the midpoint circle algorithm is an algorithm used to .... Just <br>\nas with <b>Bresenham&#39;s line algorithm</b>, this algorithm can be optimized for&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Midpoint_circle_algorithm", 
+            "cacheId": "We0hONKCeIoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Bresenham's line algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Bresenham&#39;s line algorithm</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki?title=Talk:Bresenham's_line_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki?title=Talk:<b>Bresenham&#39;s</b>_<b>line</b>_<b>algorithm</b>", 
+            "snippet": "Bresenham's line algorithm is within the scope of WikiProject Robotics, which .... \nin the line drawing algorithm article it is claimed that this avoids floating point\u00a0...", 
+            "htmlSnippet": "<b>Bresenham&#39;s line algorithm</b> is within the scope of WikiProject Robotics, which .... <br>\nin the line drawing algorithm article it is claimed that this avoids floating point&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki?title=Talk:Bresenham's_line_algorithm", 
+            "cacheId": "hvvj7IumLskJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Digital differential analyzer (graphics algorithm) - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Digital differential analyzer (graphics <b>algorithm</b>) - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../Digital_differential_analyzer_(graphics_ algorithm)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Digital_differential_analyzer_(graphics_ <b>algorithm</b>)", 
+            "snippet": "In its simplest implementation, the DDA algorithm interpolates values in interval \nby computing for ... Bresenham's line algorithm is an algorithm for line rendering.", 
+            "htmlSnippet": "In its simplest implementation, the DDA algorithm interpolates values in interval <br>\nby computing for ... <b>Bresenham&#39;s line algorithm</b> is an algorithm for line rendering.", 
+            "link": "https://en.wikipedia.org/wiki/Digital_differential_analyzer_(graphics_algorithm)", 
+            "cacheId": "jZ38MGaA_pIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Line of sight (gaming) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Line</b> of sight (gaming) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Line_of_sight_(gaming)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Line</b>_of_sight_(gaming)", 
+            "snippet": "Line of sight, sometimes written line-of-sight or abbreviated to LoS, is the ... as \nroguelikes, Bresenham's line algorithm can be used to determine line of sight.", 
+            "htmlSnippet": "Line of sight, sometimes written line-of-sight or abbreviated to LoS, is the ... as <br>\nroguelikes, <b>Bresenham&#39;s line algorithm</b> can be used to determine line of sight.", 
+            "link": "https://en.wikipedia.org/wiki/Line_of_sight_(gaming)", 
+            "cacheId": "O25B0OgDFlkJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Wikipedia talk:WikiProject Computer science/Archive 5 - Wikipedia ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Wikipedia talk:WikiProject Computer science/Archive 5 - Wikipedia <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Wikipedia_talk.../Archive_5", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Wikipedia_talk.../Archive_5", 
+            "snippet": "The Bresenham's line algorithm article seems to contain a lot of information not \nabout the actual Bresenham algorithm. I'd appreciate it if a few other people\u00a0...", 
+            "htmlSnippet": "The <b>Bresenham&#39;s line algorithm</b> article seems to contain a lot of information not <br>\nabout the actual Bresenham algorithm. I&#39;d appreciate it if a few other people&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Computer_science/Archive_5", 
+            "cacheId": "Pi8SRSmeAEcJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Category:Computer graphics algorithms - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Category:Computer graphics <b>algorithms</b> - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../Category:Computer_graphics_algorithms", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Category:Computer_graphics_<b>algorithms</b>", 
+            "snippet": "Wikimedia Commons has media related to Computer graphic algorithms. ... \nculling \u00b7 Beier\u2013Neely morphing algorithm \u00b7 Bit blit \u00b7 Bresenham's line algorithm\u00a0...", 
+            "htmlSnippet": "Wikimedia Commons has media related to Computer graphic algorithms. ... <br>\nculling &middot; Beier\u2013Neely morphing algorithm &middot; Bit blit &middot; <b>Bresenham&#39;s line algorithm</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Category:Computer_graphics_algorithms", 
+            "cacheId": "4I7Tdu-kqmgJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Bresenham's line algorithm", 
+                "safe": "off", 
+                "searchTerms": "Bresenham's line algorithm", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "104"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Bresenham's line algorithm", 
+                "safe": "off", 
+                "searchTerms": "Bresenham's line algorithm", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "104"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.25", 
+        "formattedTotalResults": "104", 
+        "totalResults": "104", 
+        "searchTime": 0.245745
+    }
+}

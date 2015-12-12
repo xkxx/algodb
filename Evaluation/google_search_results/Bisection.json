@@ -1,0 +1,222 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Bisection method - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Bisection</b> method - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Bisection_method", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Bisection</b>_method", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "200", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkNryDQs-bfrwa0OFdAv6GVtxGlKY8c4K8a_B7934t_UizUrNjnOVMXHM", 
+                        "height": "232"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Bisection_method.svg/250px-Bisection_method.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "The bisection method in mathematics is a root-finding method that repeatedly \nbisects an interval and then selects a subinterval in which a root must lie for \nfurther\u00a0...", 
+            "htmlSnippet": "The <b>bisection</b> method in mathematics is a root-finding method that repeatedly <br>\nbisects an interval and then selects a subinterval in which a root must lie for <br>\nfurther&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Bisection_method", 
+            "cacheId": "0taHdeYKB7cJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Bisection - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Bisection</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Bisection", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Bisection</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWEvLRuSEJZYdXp6ZToQpB7ML6U3ksM4X0Z4VAuEvU1B7o94WbGCufwNo", 
+                        "height": "88"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Bisectors.svg/220px-Bisectors.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "In geometry, bisection is the division of something into two equal or congruent \nparts, usually by a line, which is then called a bisector. The most often considered\n\u00a0...", 
+            "htmlSnippet": "In geometry, <b>bisection</b> is the division of something into two equal or congruent <br>\nparts, usually by a line, which is then called a bisector. The most often considered<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Bisection", 
+            "cacheId": "ysPGIgGrV8MJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Bisection bandwidth - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Bisection</b> bandwidth - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Bisection_bandwidth", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Bisection</b>_bandwidth", 
+            "snippet": "Typically, this refers to the worst-case segmentation, but being of equal parts is \ncritical to the definition, as it refers to an actual bisection of the network.", 
+            "htmlSnippet": "Typically, this refers to the worst-case segmentation, but being of equal parts is <br>\ncritical to the definition, as it refers to an actual <b>bisection</b> of the network.", 
+            "link": "https://en.wikipedia.org/wiki/Bisection_bandwidth", 
+            "cacheId": "mQ5Hy-Bny6QJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Bartlett's bisection theorem - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Bartlett&#39;s <b>bisection</b> theorem - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Bartlett's_bisection_theorem", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Bartlett&#39;s_<b>bisection</b>_theorem", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "200", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSuStzwKJMFt1Y33o6bWQQFvEZJO3WsePX9aO2KmcaURoHTjeAyZ_Nw2GA", 
+                        "height": "236"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Bartlett1.svg/250px-Bartlett1.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "Bartlett's Bisection Theorem is an electrical theorem in network analysis due to \nAlbert Charles Bartlett. The theorem shows that any symmetrical two-port network\n\u00a0...", 
+            "htmlSnippet": "Bartlett&#39;s <b>Bisection</b> Theorem is an electrical theorem in network analysis due to <br>\nAlbert Charles Bartlett. The theorem shows that any symmetrical two-port network<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Bartlett's_bisection_theorem", 
+            "cacheId": "HR5TcVKE1cgJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Genital bisection - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Genital <b>bisection</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Genital_bisection", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Genital_<b>bisection</b>", 
+            "snippet": "Genital bisection is a body modification practice seen at least in 21st-century \ndeveloped cultures. The practice involves splitting the penis (and occasionally \nthe\u00a0...", 
+            "htmlSnippet": "Genital <b>bisection</b> is a body modification practice seen at least in 21st-century <br>\ndeveloped cultures. The practice involves splitting the penis (and occasionally <br>\nthe&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Genital_bisection", 
+            "cacheId": "8Z7g_GoC6tgJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Bisection (software engineering) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Bisection</b> (software engineering) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Bisection_(software_engineering)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Bisection</b>_(software_engineering)", 
+            "snippet": "Bisection is a method used in software development to identify change sets that \nresult in a specific behavior change. It is mostly employed for finding the patch\u00a0...", 
+            "htmlSnippet": "<b>Bisection</b> is a method used in software development to identify change sets that <br>\nresult in a specific behavior change. It is mostly employed for finding the patch&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Bisection_(software_engineering)", 
+            "cacheId": "KSsAI5Ld_cQJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Bisect - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Bisect - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Bisect", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Bisect", 
+            "snippet": "Bisection is the general activity of dividing a geometric figure into two equal parts. \n... bisection, in geometry, dividing something into 2 equal parts; bisection of\u00a0...", 
+            "htmlSnippet": "<b>Bisection</b> is the general activity of dividing a geometric figure into two equal parts. <br>\n... <b>bisection</b>, in geometry, dividing something into 2 equal parts; <b>bisection</b> of&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Bisect", 
+            "cacheId": "nwfs6NVzDtUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Root-finding algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Root-finding algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Root-finding_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Root-finding_algorithm", 
+            "snippet": "The simplest root-finding algorithm is the bisection method. It works when f is a \ncontinuous function and it requires previous knowledge of two initial guesses,\u00a0...", 
+            "htmlSnippet": "The simplest root-finding algorithm is the <b>bisection</b> method. It works when f is a <br>\ncontinuous function and it requires previous knowledge of two initial guesses,&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Root-finding_algorithm", 
+            "cacheId": "3HIDbfklPIQJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Maximum Power Point Tracking Using novel Bisection search ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Maximum Power Point Tracking Using novel <b>Bisection</b> search <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../Maximum_Power_Point_Tracking_Using_novel_ Bisection_search_Algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Maximum_Power_Point_Tracking_Using_novel_ <b>Bisection</b>_search_Algorithm", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ2UP1rmhc5x54SjJYwDv7LEOGtK-rSUn2D-v5p9kDFTOfY2VP54_gVpQ", 
+                        "height": "66"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Maximum_power_point_tracking_of_the_solar_PV_array.png/220px-Maximum_power_point_tracking_of_the_solar_PV_array.png"
+                    }
+                ]
+            }, 
+            "snippet": "In the last decade, the research and development of photovoltaic (PV) system \ntechnology has been accelerated due to its free of pollution, silent operation, long\n\u00a0...", 
+            "htmlSnippet": "In the last decade, the research and development of photovoltaic (PV) system <br>\ntechnology has been accelerated due to its free of pollution, silent operation, long<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Maximum_Power_Point_Tracking_Using_novel_Bisection_search_Algorithm", 
+            "cacheId": "gRS7qisIihIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Binary search algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Binary search algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Binary_search_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Binary_search_algorithm", 
+            "snippet": "Jump to: navigation, search. This article is about searching a finite sorted array. \nFor searching continuous function values, see bisection method.", 
+            "htmlSnippet": "Jump to: navigation, search. This article is about searching a finite sorted array. <br>\nFor searching continuous function values, see <b>bisection</b> method.", 
+            "link": "https://en.wikipedia.org/wiki/Binary_search_algorithm", 
+            "cacheId": "bTl09IU6Z8IJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Bisection", 
+                "safe": "off", 
+                "searchTerms": "Bisection", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "705"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Bisection", 
+                "safe": "off", 
+                "searchTerms": "Bisection", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "705"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.27", 
+        "formattedTotalResults": "705", 
+        "totalResults": "705", 
+        "searchTime": 0.268476
+    }
+}

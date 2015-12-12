@@ -1,0 +1,264 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Comb sort - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Comb sort</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Comb_sort", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Comb</b>_<b>sort</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "215", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ4_U2mV2JJGXlayvYS9NnVHhIPVRQ_5k4xDVPrX49Ar367mvNhKXhM_vBd", 
+                        "height": "205"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/4/46/Comb_sort_demo.gif"
+                    }
+                ]
+            }, 
+            "snippet": "Comb sort is a relatively simple sorting algorithm originally designed by \nW\u0142odzimierz Dobosiewicz in 1980. Later it was rediscovered by Stephen Lacey \nand\u00a0...", 
+            "htmlSnippet": "<b>Comb sort</b> is a relatively simple sorting algorithm originally designed by <br>\nW\u0142odzimierz Dobosiewicz in 1980. Later it was rediscovered by Stephen Lacey <br>\nand&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Comb_sort", 
+            "cacheId": "2M_4f0UAM9kJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Comb sort - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Comb sort</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/?title=Talk:Comb_sort", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/?title=Talk:<b>Comb</b>_<b>sort</b>", 
+            "snippet": "9 False complexity at Sorting algorithm; 10 Citation for complexity; 11 \"Simplified \nC++ Implementation\"; 12 Wrong Animation; 13 Comb sort versus Merge Sort,\u00a0...", 
+            "htmlSnippet": "9 False complexity at Sorting algorithm; 10 Citation for complexity; 11 &quot;Simplified <br>\nC++ Implementation&quot;; 12 Wrong Animation; 13 <b>Comb sort</b> versus Merge Sort,&nbsp;...", 
+            "link": "https://en.wikipedia.org/?title=Talk:Comb_sort", 
+            "cacheId": "zALSqPoEGt8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Sorting algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Sorting</b> algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Sorting_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Sorting</b>_algorithm", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "284", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcw9pl3Q9PmPu7dU3Xk3DdbeYqZIQCzyyRfukXqYXWdm69y04uEeRiB3br", 
+                        "height": "178"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Sorting_playing_cards_using_stable_sort.svg/400px-Sorting_playing_cards_using_stable_sort.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "[edit]. Main article: Comb sort. Comb sort is a relatively simple sorting algorithm \noriginally designed by Wlodzimierz Dobosiewicz in\u00a0...", 
+            "htmlSnippet": "[edit]. Main article: <b>Comb sort</b>. <b>Comb sort</b> is a relatively simple sorting algorithm <br>\noriginally designed by Wlodzimierz Dobosiewicz in&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Sorting_algorithm", 
+            "cacheId": "CyeqKExhw84J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Cocktail sort - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Cocktail <b>sort</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Cocktail_sort", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Cocktail_<b>sort</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "221", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc5QtJ5uS-ADo5upPwiaRSz4th4wq5rmoX6D_a3mXl41rrL34sxpO_82Ur", 
+                        "height": "205"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Sorting_shaker_sort_anim.gif"
+                    }
+                ]
+            }, 
+            "snippet": "Cocktail sort, also known as bidirectional bubble sort, cocktail shaker sort, shaker \nsort (which .... Such cases may be approached by algorithms like comb sort.", 
+            "htmlSnippet": "Cocktail sort, also known as bidirectional bubble sort, cocktail shaker sort, shaker <br>\nsort (which .... Such cases may be approached by algorithms like <b>comb sort</b>.", 
+            "link": "https://en.wikipedia.org/wiki/Cocktail_sort", 
+            "cacheId": "JhWvPJ5hqHwJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Bubble sort - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Bubble <b>sort</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Bubble_sort", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Bubble_<b>sort</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC4jPAo3gFiCIT3zmrMiWD7sRLrWwbLeFIpkNF3ubj-cDxEdPCwY66zBiI", 
+                        "height": "146"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Bubblesort-edited-color.svg/220px-Bubblesort-edited-color.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "Comb sort compares elements separated by large gaps, and can move turtles \nextremely quickly before proceeding to smaller and smaller gaps to smooth out\u00a0...", 
+            "htmlSnippet": "<b>Comb sort</b> compares elements separated by large gaps, and can move turtles <br>\nextremely quickly before proceeding to smaller and smaller gaps to smooth out&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Bubble_sort", 
+            "cacheId": "7cIqxF0u80cJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Shellsort - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Shellsort - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Shellsort", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Shell<b>sort</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "201", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQt78WrvEH_--Fmr2g-53kOXW9aZH8aYV_wzS8SIIl6OhD7beiyPiBN148", 
+                        "height": "250"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Sorting_shellsort_anim.gif"
+                    }
+                ]
+            }, 
+            "snippet": "Shellsort is a generalization of insertion sort that allows the exchange of items ... \nUsing Marcin Ciura's gap sequence, with an inner insertion sort. .... Comb sort\u00a0...", 
+            "htmlSnippet": "Shellsort is a generalization of insertion sort that allows the exchange of items ... <br>\nUsing Marcin Ciura&#39;s gap sequence, with an inner insertion sort. .... <b>Comb sort</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Shellsort", 
+            "cacheId": "bSJo8UAfY8gJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Stooge sort - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Stooge <b>sort</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Stooge_sort", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Stooge_<b>sort</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "201", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRnnaBXAnqEJgfzf59prNwGdLUi3cIKDSZFvATnKpOAPgsrXcsGYyrD33f0", 
+                        "height": "250"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Sorting_stoogesort_anim.gif"
+                    }
+                ]
+            }, 
+            "snippet": "Stooge sort is a recursive sorting algorithm with a time complexity of O(nlog 3 ... \nThe running time of the algorithm is thus slower compared to efficient sorting\u00a0...", 
+            "htmlSnippet": "Stooge <b>sort</b> is a recursive <b>sorting</b> algorithm with a time complexity of O(nlog 3 ... <br>\nThe running time of the algorithm is thus slower compared to efficient <b>sorting</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Stooge_sort", 
+            "cacheId": "7p5lxq8A4rEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Adaptive sort - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Adaptive <b>sort</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Adaptive_sort", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Adaptive_<b>sort</b>", 
+            "snippet": "A sorting algorithm falls into the adaptive sort family if it takes advantage of \nexisting order in its input. It benefits from the presortedness in the input sequence \n\u2013 or\u00a0...", 
+            "htmlSnippet": "A <b>sorting</b> algorithm falls into the adaptive <b>sort</b> family if it takes advantage of <br>\nexisting order in its input. It benefits from the presortedness in the input sequence <br>\n\u2013 or&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Adaptive_sort", 
+            "cacheId": "DbTSGucI8zEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Template:Sorting - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Template:<b>Sorting</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Template:Sorting", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Template:<b>Sorting</b>", 
+            "snippet": "Bubble sort \u00b7 Cocktail sort \u00b7 Odd\u2013even sort \u00b7 Comb sort \u00b7 Gnome sort \u00b7 Quicksort ... \ne.g. {{Sorting |state=collapsed}}: |state=expanded to show the template in its\u00a0...", 
+            "htmlSnippet": "Bubble sort &middot; Cocktail sort &middot; Odd\u2013even sort &middot; <b>Comb sort</b> &middot; Gnome sort &middot; Quicksort ... <br>\ne.g. {{Sorting |state=collapsed}}: |state=expanded to show the template in its&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Template:Sorting", 
+            "cacheId": "WVxdu9IzZP0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Insertion sort - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Insertion <b>sort</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Insertion_sort", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Insertion_<b>sort</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "224", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT6RzyuBsYKxfCZVtgJuUIpjespdgbrhkokyXQ_Op7GjHb9o6IqkYMKL7Y", 
+                        "height": "200"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Insertionsort-edited.png"
+                    }
+                ]
+            }, 
+            "snippet": "Insertion sort is a simple sorting algorithm that builds the final sorted array (or list) \none item at a time. It is much less efficient on large lists than more advanced\u00a0...", 
+            "htmlSnippet": "Insertion <b>sort</b> is a simple <b>sorting</b> algorithm that builds the final sorted array (or list) <br>\none item at a time. It is much less efficient on large lists than more advanced&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Insertion_sort", 
+            "cacheId": "N0f73BW4PMAJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Comb sort", 
+                "safe": "off", 
+                "searchTerms": "Comb sort", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "4040"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Comb sort", 
+                "safe": "off", 
+                "searchTerms": "Comb sort", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "4040"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.29", 
+        "formattedTotalResults": "4,040", 
+        "totalResults": "4040", 
+        "searchTime": 0.290123
+    }
+}

@@ -1,0 +1,245 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Shellsort - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Shellsort</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Shellsort", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Shellsort</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "201", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQt78WrvEH_--Fmr2g-53kOXW9aZH8aYV_wzS8SIIl6OhD7beiyPiBN148", 
+                        "height": "250"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Sorting_shellsort_anim.gif"
+                    }
+                ]
+            }, 
+            "snippet": "Shellsort, also known as Shell sort or Shell's method, is an in-place comparison \nsort. It can be seen as either a generalization of sorting by exchange (bubble\u00a0...", 
+            "htmlSnippet": "<b>Shellsort</b>, also known as <b>Shell sort</b> or Shell&#39;s method, is an in-place comparison <br>\nsort. It can be seen as either a generalization of sorting by exchange (bubble&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Shellsort", 
+            "cacheId": "bSJo8UAfY8gJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Donald Shell - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Donald <b>Shell</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Donald_Shell", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Donald_<b>Shell</b>", 
+            "pagemap": {
+                "hcard": [
+                    {
+                        "bday": "1924-03-01", 
+                        "category": "Mathematics Computer science", 
+                        "fn": "Donald Shell"
+                    }
+                ]
+            }, 
+            "snippet": "Donald L. Shell (March 1, 1924 \u2013 November 2, 2015) was an American computer \nscientist who designed the Shell sort sorting algorithm. He acquired his Ph.D.", 
+            "htmlSnippet": "Donald L. Shell (March 1, 1924 \u2013 November 2, 2015) was an American computer <br>\nscientist who designed the <b>Shell sort</b> sorting algorithm. He acquired his Ph.D.", 
+            "link": "https://en.wikipedia.org/wiki/Donald_Shell", 
+            "cacheId": "N3-_E-0VAwMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Sorting algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Sorting</b> algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Sorting_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Sorting</b>_algorithm", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "284", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcw9pl3Q9PmPu7dU3Xk3DdbeYqZIQCzyyRfukXqYXWdm69y04uEeRiB3br", 
+                        "height": "178"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Sorting_playing_cards_using_stable_sort.svg/400px-Sorting_playing_cards_using_stable_sort.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "[edit]. A Shell sort, different from bubble sort in that it moves elements to \nnumerous swapping positions. Main article: Shell sort.", 
+            "htmlSnippet": "[edit]. A <b>Shell sort</b>, different from bubble sort in that it moves elements to <br>\nnumerous swapping positions. Main article: <b>Shell sort</b>.", 
+            "link": "https://en.wikipedia.org/wiki/Sorting_algorithm", 
+            "cacheId": "CyeqKExhw84J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Comb sort - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Comb <b>sort</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Comb_sort", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Comb_<b>sort</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "215", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ4_U2mV2JJGXlayvYS9NnVHhIPVRQ_5k4xDVPrX49Ar367mvNhKXhM_vBd", 
+                        "height": "205"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/4/46/Comb_sort_demo.gif"
+                    }
+                ]
+            }, 
+            "snippet": "The basic idea of comb sort is that the gap can be much more than 1 (Shell sort is \nalso based on this idea, but it is a modification of insertion sort rather than\u00a0...", 
+            "htmlSnippet": "The basic idea of comb sort is that the gap can be much more than 1 (<b>Shell sort</b> is <br>\nalso based on this idea, but it is a modification of insertion sort rather than&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Comb_sort", 
+            "cacheId": "2M_4f0UAM9kJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Shellsort - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Shellsort</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3AShell_sort", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>Shell</b>_<b>sort</b>", 
+            "snippet": "Shell sort is a very powerful algorithm, especially when used in combination with \n... Later it says - \"Depending on the choice of gap sequence, Shellsort has a\u00a0...", 
+            "htmlSnippet": "<b>Shell sort</b> is a very powerful algorithm, especially when used in combination with <br>\n... Later it says - &quot;Depending on the choice of gap sequence, <b>Shellsort</b> has a&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3AShell_sort", 
+            "cacheId": "pGt1gAp5XiQJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Insertion sort - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Insertion <b>sort</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Insertion_sort", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Insertion_<b>sort</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "224", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT6RzyuBsYKxfCZVtgJuUIpjespdgbrhkokyXQ_Op7GjHb9o6IqkYMKL7Y", 
+                        "height": "200"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Insertionsort-edited.png"
+                    }
+                ]
+            }, 
+            "snippet": "Insertion sort is a simple sorting algorithm that builds the final sorted array (or list) \n.... Shell sort has distinctly improved running times in practical work, with two\u00a0...", 
+            "htmlSnippet": "Insertion sort is a simple sorting algorithm that builds the final sorted array (or list) <br>\n.... <b>Shell sort</b> has distinctly improved running times in practical work, with two&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Insertion_sort", 
+            "cacheId": "N0f73BW4PMAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Introsort - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Introsort - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Introsort", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Intro<b>sort</b>", 
+            "snippet": "Introsort or introspective sort is a hybrid sorting algorithm that provides both fast \naverage performance and (asymptotically) optimal worst-case performance.", 
+            "htmlSnippet": "Introsort or introspective <b>sort</b> is a hybrid <b>sorting</b> algorithm that provides both fast <br>\naverage performance and (asymptotically) optimal worst-case performance.", 
+            "link": "https://en.wikipedia.org/wiki/Introsort", 
+            "cacheId": "dGnHHCTo5FQJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "sort (Unix) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>sort</b> (Unix) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Sort_(Unix)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Sort</b>_(Unix)", 
+            "snippet": "In Unix-like operating systems, sort is a standard command line program that ... \nThis illustration uses the shell's dollar-quote notation to specify the tab as a C\u00a0...", 
+            "htmlSnippet": "In Unix-like operating systems, <b>sort</b> is a standard command line program that ... <br>\nThis illustration uses the <b>shell&#39;s</b> dollar-quote notation to specify the tab as a C&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Sort_(Unix)", 
+            "cacheId": "dF9Wh73BQCMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Gnome sort - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Gnome <b>sort</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Gnome_sort", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Gnome_<b>sort</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "201", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRO2rIq6gT72URDmOsAnMUPHzi1isHPFQYNE9tiJWYEryTa0snA4QLEd0", 
+                        "height": "250"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/3/37/Sorting_gnomesort_anim.gif"
+                    }
+                ]
+            }, 
+            "snippet": "Gnome sort (or Stupid sort) is a sorting algorithm originally proposed by Dr. \nHamid Sarbazi-Azad (Professor of Computer Engineering at Sharif University of\u00a0...", 
+            "htmlSnippet": "Gnome <b>sort</b> (or Stupid <b>sort</b>) is a <b>sorting</b> algorithm originally proposed by Dr. <br>\nHamid Sarbazi-Azad (Professor of Computer Engineering at Sharif University of&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Gnome_sort", 
+            "cacheId": "PkrhIKUNnJ0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Comb sort - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:Comb <b>sort</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/?title=Talk:Comb_sort", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/?title=Talk:Comb_<b>sort</b>", 
+            "snippet": "[edit]. I have implemented various sort algorithms in Perl: bubble sort (standard), \nbubble\u00a0...", 
+            "htmlSnippet": "[edit]. I have implemented various <b>sort</b> algorithms in Perl: bubble <b>sort</b> (standard), <br>\nbubble&nbsp;...", 
+            "link": "https://en.wikipedia.org/?title=Talk:Comb_sort", 
+            "cacheId": "zALSqPoEGt8J"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Shell sort", 
+                "safe": "off", 
+                "searchTerms": "Shell sort", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "10200"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Shell sort", 
+                "safe": "off", 
+                "searchTerms": "Shell sort", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "10200"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.33", 
+        "formattedTotalResults": "10,200", 
+        "totalResults": "10200", 
+        "searchTime": 0.325865
+    }
+}

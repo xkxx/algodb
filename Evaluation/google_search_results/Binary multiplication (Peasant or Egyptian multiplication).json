@@ -1,0 +1,178 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Ancient Egyptian multiplication - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Ancient <b>Egyptian multiplication</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Ancient_Egyptian_multiplication", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Ancient_<b>Egyptian</b>_<b>multiplication</b>", 
+            "snippet": "In the Russian peasant method, the powers of two in the ... For example, to \nmultiply 238 by 13, the smaller of the ... The algorithm can be illustrated with the \nbinary representation of the numbers:.", 
+            "htmlSnippet": "In the <b>Russian peasant</b> method, the powers of two in the ... For example, to <br>\n<b>multiply</b> 238 by 13, the smaller of the ... The algorithm can be illustrated with the <br>\n<b>binary</b> representation of the numbers:.", 
+            "link": "https://en.wikipedia.org/wiki/Ancient_Egyptian_multiplication", 
+            "cacheId": "O9iCFTqJL-YJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Multiplication algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Multiplication</b> algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Multiplication_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Multiplication</b>_algorithm", 
+            "snippet": "This section does not cite any references (sources). Please help improve this \nsection by adding citations\u00a0...", 
+            "htmlSnippet": "This section does not cite any references (sources). Please help improve this <br>\nsection by adding citations&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Multiplication_algorithm", 
+            "cacheId": "dwLGhItDFBEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Multiplication - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Multiplication</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Multiplication", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Multiplication</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQsjm2IxNtXqdNTgy0uyIzCUA2A3cK-DjuxNoEIevpmFniQNkSfONL50ErB", 
+                        "height": "207"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Multiply_4_bags_3_marbles.svg/220px-Multiply_4_bags_3_marbles.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "The multiplication of two whole numbers, when thinking of multiplication as .... \nfrom 0 to 9), however one method, the peasant multiplication algorithm, does not. \n... The Egyptian method of multiplication of integers and fractions, documented in \nthe ..... concept of multiplication is as the \"multiplicatively denoted\" (second) \nbinary\u00a0...", 
+            "htmlSnippet": "The <b>multiplication</b> of two whole numbers, when thinking of <b>multiplication</b> as .... <br>\nfrom 0 to 9), however one method, the <b>peasant multiplication</b> algorithm, does not. <br>\n... The <b>Egyptian</b> method of <b>multiplication</b> of integers and fractions, documented in <br>\nthe ..... concept of <b>multiplication</b> is as the &quot;multiplicatively denoted&quot; (second) <br>\n<b>binary</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Multiplication", 
+            "cacheId": "F-_Sj4iyjcUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Location arithmetic - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Location arithmetic - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Location_arithmetic", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Location_arithmetic", 
+            "snippet": "Binary notation had not yet been standardized, so Napier used what he called \nlocation .... However, the Egyptian multiplication gives an elegant way to carry ... \ndoubles of the second number, shows why the peasant multiplication is exact.", 
+            "htmlSnippet": "<b>Binary</b> notation had not yet been standardized, so Napier used what he called <br>\nlocation .... However, the <b>Egyptian multiplication</b> gives an elegant way to carry ... <br>\ndoubles of the second number, shows why the <b>peasant multiplication</b> is exact.", 
+            "link": "https://en.wikipedia.org/wiki/Location_arithmetic", 
+            "cacheId": "uibvynBFgGwJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Multiplication algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Multiplication</b> algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3AMultiplication_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>Multiplication</b>_algorithm", 
+            "snippet": "The part \"A simple improvement to the basic recursive multiplication algorithm. ... \nOften FFT multiplication is quoted as having complexity O(n log n), because it is \n..... i think due to the arithmetic progression of operands n using binary ... Peasant \nMultiplication[edit] ... Try looking up \"Egyptian multiplication\" on wikipedia. You'll\n\u00a0...", 
+            "htmlSnippet": "The part &quot;A simple improvement to the basic recursive <b>multiplication</b> algorithm. ... <br>\nOften FFT <b>multiplication</b> is quoted as having complexity O(n log n), because it is <br>\n..... i think due to the arithmetic progression of operands n using <b>binary</b> ... <b>Peasant</b> <br>\n<b>Multiplication</b>[edit] ... Try looking up &quot;<b>Egyptian multiplication</b>&quot; on wikipedia. You&#39;ll<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3AMultiplication_algorithm", 
+            "cacheId": "57MXLKxF2hgJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Ancient Egyptian mathematics - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:Ancient <b>Egyptian</b> mathematics - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3AEgyptian_mathematics", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>Egyptian</b>_<b>math</b>ematics", 
+            "snippet": "Yes, there is much more to the Egyptian math and the Egyptian fraction story, \nmuch .... quotient to a binary series and the remainder term to an Egyptian \nfraction ..... use of Peasant Multiplication merits its own entry which should, of \ncourse,\u00a0...", 
+            "htmlSnippet": "Yes, there is much more to the <b>Egyptian math</b> and the Egyptian fraction story, <br>\nmuch .... quotient to a <b>binary</b> series and the remainder term to an Egyptian <br>\nfraction ..... use of <b>Peasant Multiplication</b> merits its own entry which should, of <br>\ncourse,&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3AEgyptian_mathematics", 
+            "cacheId": "445vPppeKpAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Wikipedia talk:WikiProject Ancient Egypt/Archive 6 - Wikipedia, the ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Wikipedia talk:WikiProject Ancient <b>Egypt</b>/Archive 6 - Wikipedia, the <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Wikipedia_talk...Egypt/Archive_6", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Wikipedia_talk...<b>Egypt</b>/Archive_6", 
+            "snippet": "I have categorized my article on the Egyptian story The Eloquent Peasant as \nAncient ...... Tanja shows that the main medical text, the Ebers Papyrus scaled a \nbinary ... In the Old Kingdom, Eye of Horus used a doubling method for \nmultiplication,\u00a0...", 
+            "htmlSnippet": "I have categorized my article on the <b>Egyptian</b> story The Eloquent <b>Peasant</b> as <br>\nAncient ...... Tanja shows that the main medical text, the Ebers Papyrus scaled a <br>\n<b>binary</b> ... In the Old Kingdom, Eye of Horus used a doubling method for <br>\n<b>multiplication</b>,&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Ancient_Egypt/Archive_6", 
+            "cacheId": "7_lQkhOPCWcJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Arithmetic - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:Arithmetic - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3AArithmetic", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3AArithmetic", 
+            "snippet": "\"Typical examples of binary operations are the addition and multiplication of .... \nThis would include finger math, the Russian peasant algorithm algorithm, and (a\n\u00a0...", 
+            "htmlSnippet": "&quot;Typical examples of <b>binary</b> operations are the addition and <b>multiplication</b> of .... <br>\nThis would include finger <b>math</b>, the <b>Russian peasant</b> algorithm algorithm, and (a<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3AArithmetic", 
+            "cacheId": "C0EBqrS9pukJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Wikipedia:Reference desk archive/Miscellaneous/June 2006 ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Wikipedia:Reference desk archive/Miscellaneous/June 2006 <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Wikipedia:Reference_desk.../June_2006", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Wikipedia:Reference_desk.../June_2006", 
+            "snippet": "6.26 Wikipedias 1st article; 6.27 Thanks; 6.28 a message written in math/english \n...... Aelfrid and other peasants with some money saved up consider taking ...... \nThe standing ones closely resemble the Egyptian Goose, an African goose that \n...... is of equal duration (the rotation of the sun with its binary dual) there fore one\n\u00a0...", 
+            "htmlSnippet": "6.26 Wikipedias 1st article; 6.27 Thanks; 6.28 a message written in <b>math</b>/english <br>\n...... Aelfrid and other <b>peasants</b> with some money saved up consider taking ...... <br>\nThe standing ones closely resemble the <b>Egyptian</b> Goose, an African goose that <br>\n...... is of equal duration (the rotation of the sun with its <b>binary</b> dual) there fore one<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Wikipedia:Reference_desk_archive/Miscellaneous/June_2006"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Wikipedia talk:WikiProject Mathematics/Archive2009 - Wikipedia, the ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Wikipedia talk:WikiProject Mathematics/Archive2009 - Wikipedia, the <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Wikipedia_talk...Mathematics/Archive2009", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Wikipedia_talk...<b>Math</b>ematics/Archive2009", 
+            "snippet": "5.22.1 Complex multiplication in only three real multiplications instead of four; \n5.22.2 ...... In the modulo operation article, \"modulo\" is a binary operation and (63 \n...... concerning Egyptian fractions are sufficiently relevant to include in the article. \n...... I said illiterate peasants rather than street urchins and there was a couple of\u00a0...", 
+            "htmlSnippet": "5.22.1 Complex <b>multiplication</b> in only three real <b>multiplications</b> instead of four; <br>\n5.22.2 ...... In the modulo operation article, &quot;modulo&quot; is a <b>binary</b> operation and (63 <br>\n...... concerning <b>Egyptian</b> fractions are sufficiently relevant to include in the article. <br>\n...... I said illiterate <b>peasants</b> rather than street urchins and there was a couple of&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Mathematics/Archive2009"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Binary multiplication (Peasant or Egyptian multiplication)", 
+                "safe": "off", 
+                "searchTerms": "Binary multiplication (Peasant or Egyptian multiplication)", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "21"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Binary multiplication (Peasant or Egyptian multiplication)", 
+                "safe": "off", 
+                "searchTerms": "Binary multiplication (Peasant or Egyptian multiplication)", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "21"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.26", 
+        "formattedTotalResults": "21", 
+        "totalResults": "21", 
+        "searchTime": 0.255808
+    }
+}

@@ -1,0 +1,166 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Quadratic sieve - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Quadratic sieve</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Quadratic_sieve", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Quadratic</b>_<b>sieve</b>", 
+            "snippet": "The quadratic sieve algorithm (QS) is an integer factorization algorithm and, in \npractice, the second fastest method known (after the general number field sieve).", 
+            "htmlSnippet": "The <b>quadratic sieve</b> algorithm (<b>QS</b>) is an integer factorization algorithm and, in <br>\npractice, the second fastest method known (after the general number field sieve).", 
+            "link": "https://en.wikipedia.org/wiki/Quadratic_sieve", 
+            "cacheId": "6cnNa2-ExQoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Quadratic sieve - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Quadratic sieve</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3AQuadratic_sieve", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>Quadratic</b>_<b>sieve</b>", 
+            "snippet": "On another note, I'd imagine that each main step of the quadratic sieve would ... \nIn practice a quadratic sieve implementation will trial divide by all primes upto\u00a0...", 
+            "htmlSnippet": "On another note, I&#39;d imagine that each main step of the <b>quadratic sieve</b> would ... <br>\nIn practice a <b>quadratic sieve</b> implementation will trial divide by all primes upto&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3AQuadratic_sieve", 
+            "cacheId": "mOV4GvjAt0YJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "General number field sieve - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "General number field <b>sieve</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/General_number_field_sieve", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/General_number_field_<b>sieve</b>", 
+            "snippet": "The principle of the number field sieve (both special and general) can be \nunderstood as an improvement to the simpler rational sieve or quadratic sieve.", 
+            "htmlSnippet": "The principle of the number field sieve (both special and general) can be <br>\nunderstood as an improvement to the simpler rational sieve or <b>quadratic sieve</b>.", 
+            "link": "https://en.wikipedia.org/wiki/General_number_field_sieve", 
+            "cacheId": "8_ExMaLDKOsJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Congruence of squares - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Congruence of squares - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Congruence_of_squares", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Congruence_of_squares", 
+            "snippet": "Congruences of squares are extremely useful in integer factorization algorithms \nand are extensively used in, for example, the quadratic sieve, general number\u00a0...", 
+            "htmlSnippet": "Congruences of squares are extremely useful in integer factorization algorithms <br>\nand are extensively used in, for example, the <b>quadratic sieve</b>, general number&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Congruence_of_squares", 
+            "cacheId": "9RPNYj6KijEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Rational sieve - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Rational <b>sieve</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Rational_sieve", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Rational_<b>sieve</b>", 
+            "snippet": "In mathematics, the rational sieve is a general algorithm for factoring integers into \n.... Quadratic sieve (QS) \u00b7 General number field sieve (GNFS) \u00b7 Special number\u00a0...", 
+            "htmlSnippet": "In mathematics, the rational sieve is a general algorithm for factoring integers into <br>\n.... <b>Quadratic sieve</b> (QS) &middot; General number field sieve (GNFS) &middot; Special number&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Rational_sieve", 
+            "cacheId": "347ESQWjOukJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Fermat's factorization method - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Fermat&#39;s factorization method - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Fermat's_factorization_method", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Fermat&#39;s_factorization_method", 
+            "snippet": "The fundamental ideas of Fermat's factorization method are the basis of the \nquadratic sieve and general number field sieve, the best-known algorithms for\u00a0...", 
+            "htmlSnippet": "The fundamental ideas of Fermat&#39;s factorization method are the basis of the <br>\n<b>quadratic sieve</b> and general number field sieve, the best-known algorithms for&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Fermat's_factorization_method", 
+            "cacheId": "1w_s55B2qUkJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Dixon's factorization method - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Dixon&#39;s factorization method - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Dixon's_factorization_method", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Dixon&#39;s_factorization_method", 
+            "snippet": "The quadratic sieve is an optimization of Dixon's method. It selects values of x \nclose to the square root of N such that x2 modulo N is small, thereby largely\u00a0...", 
+            "htmlSnippet": "The <b>quadratic sieve</b> is an optimization of Dixon&#39;s method. It selects values of x <br>\nclose to the square root of N such that x<sup>2</sup> modulo N is small, thereby largely&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Dixon's_factorization_method", 
+            "cacheId": "Uh1BI6P57CYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "L-notation - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "L-notation - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/L-notation", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/L-notation", 
+            "snippet": "The best is the general number field sieve, which has an expected running time \nof ... The best such algorithm prior to the number field sieve was the quadratic\u00a0...", 
+            "htmlSnippet": "The best is the general number field <b>sieve</b>, which has an expected running time <br>\nof ... The best such algorithm prior to the number field <b>sieve</b> was the <b>quadratic</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/L-notation", 
+            "cacheId": "u1-I5uGMe3sJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Sieve of Atkin - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Sieve</b> of Atkin - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Sieve_of_Atkin", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Sieve</b>_of_Atkin", 
+            "snippet": "In mathematics, the sieve of Atkin is a modern algorithm for finding all prime ... by \nthis quadratic and the 60 because Atkin calculated this based on an even\u00a0...", 
+            "htmlSnippet": "In mathematics, the <b>sieve</b> of Atkin is a modern algorithm for finding all prime ... by <br>\nthis <b>quadratic</b> and the 60 because Atkin calculated this based on an even&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Sieve_of_Atkin", 
+            "cacheId": "RQB6QYe9fmQJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Tonelli\u2013Shanks algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Tonelli\u2013Shanks algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Tonelli\u2013Shanks_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Tonelli\u2013Shanks_algorithm", 
+            "snippet": "where n is a quadratic residue (mod p), and p is an odd prime. ..... Quadratic \nsieve (QS) \u00b7 General number field sieve (GNFS) \u00b7 Special number field sieve (\nSNFS)\u00a0...", 
+            "htmlSnippet": "where n is a quadratic residue (mod p), and p is an odd prime. ..... <b>Quadratic</b> <br>\n<b>sieve</b> (QS) &middot; General number field sieve (GNFS) &middot; Special number field sieve (<br>\nSNFS)&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Tonelli%E2%80%93Shanks_algorithm", 
+            "cacheId": "hzUCr05C3CYJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Quadratic sieve", 
+                "safe": "off", 
+                "searchTerms": "Quadratic sieve", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "352"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Quadratic sieve", 
+                "safe": "off", 
+                "searchTerms": "Quadratic sieve", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "352"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.26", 
+        "formattedTotalResults": "352", 
+        "totalResults": "352", 
+        "searchTime": 0.258886
+    }
+}

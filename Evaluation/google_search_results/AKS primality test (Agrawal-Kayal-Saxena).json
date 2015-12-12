@@ -1,0 +1,196 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "AKS primality test - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>AKS primality test</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/AKS_primality_test", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>AKS</b>_<b>primality</b>_<b>test</b>", 
+            "snippet": "The AKS primality test (also known as Agrawal\u2013Kayal\u2013Saxena primality test and \ncyclotomic AKS test) is a deterministic primality-proving algorithm created and\u00a0...", 
+            "htmlSnippet": "The <b>AKS primality test</b> (also known as <b>Agrawal</b>\u2013<b>Kayal</b>\u2013<b>Saxena primality test</b> and <br>\ncyclotomic <b>AKS</b> test) is a deterministic primality-proving algorithm created and&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/AKS_primality_test", 
+            "cacheId": "17CE3mRZsRUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Nitin Saxena - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Nitin <b>Saxena</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Nitin_Saxena", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Nitin_<b>Saxena</b>", 
+            "pagemap": {
+                "hcard": [
+                    {
+                        "bday": "1981-05-03", 
+                        "category": "Mathematics Theoretical computer science", 
+                        "fn": "Nitin Saxena"
+                    }
+                ]
+            }, 
+            "snippet": "Nitin Saxena (Hindi: \u0928\u093f\u0924\u093f\u0928 \u0938\u0915\u094d\u0938\u0947\u0928\u093e) (born 3 May 1981) is an Indian ... \nalong with Manindra Agrawal and Neeraj Kayal proposed the AKS Primality Test \nin\u00a0...", 
+            "htmlSnippet": "Nitin <b>Saxena</b> (Hindi: \u0928\u093f\u0924\u093f\u0928 \u0938\u0915\u094d\u0938\u0947\u0928\u093e) (born 3 May 1981) is an Indian ... <br>\nalong with Manindra <b>Agrawal</b> and Neeraj <b>Kayal</b> proposed the <b>AKS Primality Test</b> <br>\nin&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Nitin_Saxena", 
+            "cacheId": "TdezI4Q5vxIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Neeraj Kayal - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Neeraj <b>Kayal</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Neeraj_Kayal", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Neeraj_<b>Kayal</b>", 
+            "snippet": "In that year, he, Manindra Agrawal and Nitin Saxena proposed the AKS Primality \nTest, which attracted worldwide attention, including an article in the New York\u00a0...", 
+            "htmlSnippet": "In that year, he, Manindra <b>Agrawal</b> and Nitin <b>Saxena</b> proposed the <b>AKS Primality</b> <br>\n<b>Test</b>, which attracted worldwide attention, including an article in the New York&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Neeraj_Kayal", 
+            "cacheId": "Jj2FgWtFEjQJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Manindra Agrawal - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Manindra <b>Agrawal</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Manindra_Agrawal", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Manindra_<b>Agrawal</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTchxLIaoVWHJZCcdWr0JVQB_sown1xBcjGUfS96tFAi6bptgD65bIqVGc", 
+                        "height": "184"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Manindra_Agarwal.jpg/220px-Manindra_Agarwal.jpg"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "bday": "1966-05-20", 
+                        "category": "Computer Science", 
+                        "fn": "Manindra Agrawal"
+                    }
+                ]
+            }, 
+            "snippet": "Manindra Agrawal (born 20 May 1966) is a professor at the Department of \nComputer ... He co-created the AKS primality test with Neeraj Kayal and Nitin \nSaxena,\u00a0...", 
+            "htmlSnippet": "Manindra <b>Agrawal</b> (born 20 May 1966) is a professor at the Department of <br>\nComputer ... He co-created the <b>AKS primality test</b> with Neeraj <b>Kayal</b> and Nitin <br>\n<b>Saxena</b>,&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Manindra_Agrawal", 
+            "cacheId": "3Fdp4w030sgJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Primality test - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Primality test</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Primality_test", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Primality</b>_<b>test</b>", 
+            "snippet": "A primality test is an algorithm for determining whether an input number is prime. \n..... The AKS primality test runs in \u00d5((log n)12) (improved to \u00d5((log n)7.5) in the ... \nAgrawal, Kayal and Saxena suggest a variant of their algorithm which would run\n\u00a0...", 
+            "htmlSnippet": "A <b>primality test</b> is an algorithm for determining whether an input number is prime. <br>\n..... The <b>AKS primality test</b> runs in \u00d5((log n)<sup>12</sup>) (improved to \u00d5((log n)<sup>7.5</sup>) in the ... <br>\n<b>Agrawal</b>, <b>Kayal</b> and <b>Saxena</b> suggest a variant of their algorithm which would run<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Primality_test", 
+            "cacheId": "emzcKnQsr5UJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Agrawal's conjecture - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Agrawal&#39;s</b> conjecture - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Agrawal's_conjecture", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Agrawal&#39;s</b>_conjecture", 
+            "snippet": "In number theory, Agrawal's conjecture, due to Manindra Agrawal in 2002, forms \n... it would decrease the runtime complexity of the AKS primality test from \\tilde O(\\\nlog^6 n) ... Jump up ^ Agrawal, Manindra; Kayal, Neeraj; Saxena, Nitin (2004).", 
+            "htmlSnippet": "In number theory, <b>Agrawal&#39;s</b> conjecture, due to Manindra <b>Agrawal</b> in 2002, forms <br>\n... it would decrease the runtime complexity of the <b>AKS primality test</b> from \\tilde O(\\<br>\nlog^6 n) ... Jump up ^ <b>Agrawal</b>, Manindra; <b>Kayal</b>, Neeraj; <b>Saxena</b>, Nitin (2004).", 
+            "link": "https://en.wikipedia.org/wiki/Agrawal's_conjecture", 
+            "cacheId": "kGrs88Yn2q8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "G\u00f6del Prize - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "G\u00f6del Prize - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/G\u00f6del_Prize", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/G\u00f6del_Prize", 
+            "snippet": "2006, Manindra Agrawal, Neeraj Kayal, Nitin Saxena, for the AKS primality test, \n2004. 2007, Alexander Razborov, Steven Rudich, for natural proofs, 1997.", 
+            "htmlSnippet": "2006, Manindra <b>Agrawal</b>, Neeraj <b>Kayal</b>, Nitin <b>Saxena</b>, for the <b>AKS primality test</b>, <br>\n2004. 2007, Alexander Razborov, Steven Rudich, for natural proofs, 1997.", 
+            "link": "https://en.wikipedia.org/wiki/G%C3%B6del_Prize", 
+            "cacheId": "my6NThL6i8wJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Primality certificate - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Primality</b> certificate - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Primality_certificate", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Primality</b>_certificate", 
+            "snippet": "Standard probabilistic primality tests such as the Baillie-PSW primality test, .... \npublished by Manindra Agarwal, Nitin Saxena, and Neeraj Kayal in August, 2002\n. ... now be done deterministically in polynomial time using the AKS primality test,\n\u00a0...", 
+            "htmlSnippet": "Standard probabilistic <b>primality tests</b> such as the Baillie-PSW <b>primality test</b>, .... <br>\npublished by Manindra <b>Agarwal</b>, Nitin <b>Saxena</b>, and Neeraj <b>Kayal</b> in August, 2002<br>\n. ... now be done deterministically in polynomial time using the <b>AKS primality test</b>,<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Primality_certificate", 
+            "cacheId": "LaG6Uz2gFd8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Timeline of mathematics - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Timeline of mathematics - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Timeline_of_mathematics", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Timeline_of_mathematics", 
+            "snippet": "240 BC \u2014 Eratosthenes uses his sieve algorithm to quickly isolate prime \nnumbers. ..... 2002 \u2014 Manindra Agrawal, Nitin Saxena, and Neeraj Kayal of IIT \nKanpur present ... to determine whether a given number is prime (the AKS \nprimality test).", 
+            "htmlSnippet": "240 BC \u2014 Eratosthenes uses his sieve algorithm to quickly isolate prime <br>\nnumbers. ..... 2002 \u2014 Manindra <b>Agrawal</b>, Nitin <b>Saxena</b>, and Neeraj <b>Kayal</b> of IIT <br>\nKanpur present ... to determine whether a given number is prime (the <b>AKS</b> <br>\n<b>primality test</b>).", 
+            "link": "https://en.wikipedia.org/wiki/Timeline_of_mathematics", 
+            "cacheId": "tvqQkyMEAQcJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Sophie Germain prime - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Sophie Germain <b>prime</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Sophie_Germain_prime", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Sophie_Germain_<b>prime</b>", 
+            "snippet": "Sophie Germain primes play an important role in the AKS primality test: if they \nexist .... Agrawal, Manindra; Kayal, Neeraj; Saxena, Nitin (2004), \"PRIMES is in P\"\n\u00a0...", 
+            "htmlSnippet": "Sophie Germain primes play an important role in the <b>AKS primality test</b>: if they <br>\nexist .... <b>Agrawal</b>, Manindra; <b>Kayal</b>, Neeraj; <b>Saxena</b>, Nitin (2004), &quot;PRIMES is in P&quot;<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Sophie_Germain_prime", 
+            "cacheId": "LjmsuJ1c-ZwJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - AKS primality test (Agrawal-Kayal-Saxena)", 
+                "safe": "off", 
+                "searchTerms": "AKS primality test (Agrawal-Kayal-Saxena)", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "35"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - AKS primality test (Agrawal-Kayal-Saxena)", 
+                "safe": "off", 
+                "searchTerms": "AKS primality test (Agrawal-Kayal-Saxena)", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "35"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.23", 
+        "formattedTotalResults": "35", 
+        "totalResults": "35", 
+        "searchTime": 0.233472
+    }
+}

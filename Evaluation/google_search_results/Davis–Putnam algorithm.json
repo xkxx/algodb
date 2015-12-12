@@ -1,0 +1,213 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Davis\u2013Putnam algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Davis</b>\u2013<b>Putnam algorithm</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Davis\u2013Putnam_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Davis</b>\u2013<b>Putnam</b>_<b>algorithm</b>", 
+            "snippet": "The Davis\u2013Putnam algorithm was developed by Martin Davis and Hilary Putnam \nfor checking the validity of a first-order logic formula using a resolution-based\u00a0...", 
+            "htmlSnippet": "The <b>Davis</b>\u2013<b>Putnam algorithm</b> was developed by Martin Davis and Hilary Putnam <br>\nfor checking the validity of a first-order logic formula using a resolution-based&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Davis%E2%80%93Putnam_algorithm", 
+            "cacheId": "BnJuTW4RB4oJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "DPLL algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "DPLL <b>algorithm</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/DPLL_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/DPLL_<b>algorithm</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "136", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQprhakx_Rfd95V25qUImTEhl-V3M7XmanxNvFkRU8E7Ob4wYgmSGYiww", 
+                        "height": "122"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Backtracking-no-backjumping.svg/171px-Backtracking-no-backjumping.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "In computer science, the Davis\u2013Putnam\u2013Logemann\u2013Loveland (DPLL) algorithm \nis a complete, backtracking-based search algorithm for deciding the\u00a0...", 
+            "htmlSnippet": "In computer science, the <b>Davis</b>\u2013<b>Putnam</b>\u2013Logemann\u2013Loveland (DPLL) <b>algorithm</b> <br>\nis a complete, backtracking-based search <b>algorithm</b> for deciding the&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/DPLL_algorithm", 
+            "cacheId": "PIv8OVGAUOsJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Davis\u2013Putnam algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Davis</b>\u2013<b>Putnam algorithm</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3ADavis\u2013Putnam_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>Davis</b>\u2013<b>Putnam</b>_<b>algorithm</b>", 
+            "snippet": "User:Jon Awbrey (now permanently blocked) moved this article from Davis-\nPutnam algorithm to Davis-Putnam algorithm (if that's too subtle to see, he \nreplaced\u00a0...", 
+            "htmlSnippet": "User:Jon Awbrey (now permanently blocked) moved this article from <b>Davis</b>-<br>\n<b>Putnam algorithm</b> to <b>Davis</b>-<b>Putnam algorithm</b> (if that&#39;s too subtle to see, he <br>\nreplaced&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3ADavis%E2%80%93Putnam_algorithm", 
+            "cacheId": "GA1JL9zW1FAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Conflict-Driven Clause Learning - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Conflict-Driven Clause Learning - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Conflict-Driven_Clause_Learning", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Conflict-Driven_Clause_Learning", 
+            "snippet": "Main article: Davis\u2013Putnam algorithm. Davis, Putnam (1960) developed this \nalgorithm. Some properties of this algorithms are: Iteratively select variable for\u00a0...", 
+            "htmlSnippet": "Main article: <b>Davis</b>\u2013<b>Putnam algorithm</b>. Davis, Putnam (1960) developed this <br>\nalgorithm. Some properties of this algorithms are: Iteratively select variable for&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Conflict-Driven_Clause_Learning", 
+            "cacheId": "ao6ztcTan2cJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Diophantine set - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Diophantine set - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Diophantine_set", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Diophantine_set", 
+            "snippet": "Hilbert's tenth problem was to find a general algorithm which can decide ... \nEarlier work by Julia Robinson, Martin Davis and Hilary Putnam had shown that \nthis\u00a0...", 
+            "htmlSnippet": "Hilbert&#39;s tenth problem was to find a general <b>algorithm</b> which can decide ... <br>\nEarlier work by Julia Robinson, Martin <b>Davis</b> and Hilary <b>Putnam</b> had shown that <br>\nthis&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Diophantine_set", 
+            "cacheId": "q2xLf1SnWgIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Hilbert's tenth problem - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Hilbert&#39;s tenth problem - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Hilbert's_tenth_problem", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Hilbert&#39;s_tenth_problem", 
+            "snippet": "So Hilbert was asking for a general algorithm to decide whether a given .... 1959, \nWorking together, Davis and Putnam study exponential Diophantine sets: sets\u00a0...", 
+            "htmlSnippet": "So Hilbert was asking for a general <b>algorithm</b> to decide whether a given .... 1959, <br>\nWorking together, <b>Davis</b> and <b>Putnam</b> study exponential Diophantine sets: sets&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Hilbert's_tenth_problem", 
+            "cacheId": "M69FSshHjXcJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Martin Davis - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Martin <b>Davis</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Martin_Davis", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Martin_<b>Davis</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "160", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRiOiSFX9IRK_oyAH1fQdTp5OYtOMYGrhauLXamg1-Od5ekMg3W37mEzWc", 
+                        "height": "114"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Martin_Davis.jpg/200px-Martin_Davis.jpg"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "fn": "Martin Davis"
+                    }
+                ]
+            }, 
+            "snippet": "Martin David Davis (born 1928) is an American mathematician, known for his ... \nDavis is the co-inventor of the Davis\u2013Putnam algorithm and the DPLL algorithms.", 
+            "htmlSnippet": "Martin David Davis (born 1928) is an American mathematician, known for his ... <br>\nDavis is the co-inventor of the <b>Davis</b>\u2013<b>Putnam algorithm</b> and the DPLL algorithms.", 
+            "link": "https://en.wikipedia.org/wiki/Martin_Davis", 
+            "cacheId": "1LpA9J1rI4gJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Resolution (logic) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Resolution (logic) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Resolution_(logic)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Resolution_(logic)", 
+            "snippet": "The resolution rule can be traced back to Davis and Putnam (1960); however, \ntheir algorithm required to try all ground instances of the given formula.", 
+            "htmlSnippet": "The resolution rule can be traced back to <b>Davis</b> and <b>Putnam</b> (1960); however, <br>\ntheir <b>algorithm</b> required to try all ground instances of the given formula.", 
+            "link": "https://en.wikipedia.org/wiki/Resolution_(logic)", 
+            "cacheId": "MpbdMy-arg0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:DPLL - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:DPLL - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3ADPLL", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3ADPLL", 
+            "snippet": "DLL is technically correct, but rarely used. I've never seen the long form Davis-\nLogemann-Loveland algorithm before. Davis-Putnam method is frequently used,\n\u00a0...", 
+            "htmlSnippet": "DLL is technically correct, but rarely used. I&#39;ve never seen the long form Davis-<br>\nLogemann-Loveland <b>algorithm</b> before. <b>Davis</b>-<b>Putnam</b> method is frequently used,<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3ADPLL", 
+            "cacheId": "yIvrOa1FkhgJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "2-satisfiability - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "2-satisfiability - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/2-satisfiability", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/2-satisfiability", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "240", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR9pz3_hnyEvQmNLVsZvl_OMaHafL-yi60i4DdRCQd37wKXLHG31VR1HFs", 
+                        "height": "197"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Implication_graph.svg/300px-Implication_graph.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "As Cook (1971) observes, it can also be seen as an instance of the Davis\u2013\nPutnam algorithm for solving satisfiability problems using the principle of \nresolution.", 
+            "htmlSnippet": "As Cook (1971) observes, it can also be seen as an instance of the <b>Davis</b>\u2013<br>\n<b>Putnam algorithm</b> for solving satisfiability problems using the principle of <br>\nresolution.", 
+            "link": "https://en.wikipedia.org/wiki/2-satisfiability", 
+            "cacheId": "iVkLqjYcy0AJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Davis\u2013Putnam algorithm", 
+                "safe": "off", 
+                "searchTerms": "Davis\u2013Putnam algorithm", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "195"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Davis\u2013Putnam algorithm", 
+                "safe": "off", 
+                "searchTerms": "Davis\u2013Putnam algorithm", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "195"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.26", 
+        "formattedTotalResults": "195", 
+        "totalResults": "195", 
+        "searchTime": 0.255035
+    }
+}

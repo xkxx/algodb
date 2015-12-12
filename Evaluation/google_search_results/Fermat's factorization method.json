@@ -1,0 +1,200 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Fermat's factorization method - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Fermat&#39;s factorization method</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Fermat's_factorization_method", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Fermat&#39;s</b>_<b>factorization</b>_<b>method</b>", 
+            "snippet": "Fermat's factorization method, named after Pierre de Fermat, is based on the ... In \nits simplest form, Fermat's method might be even slower than trial division\u00a0...", 
+            "htmlSnippet": "<b>Fermat</b>&#39;s <b>factorization method</b>, named after Pierre de <b>Fermat</b>, is based on the ... In <br>\nits simplest form, <b>Fermat&#39;s method</b> might be even slower than trial division&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Fermat's_factorization_method", 
+            "cacheId": "1w_s55B2qUkJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Fermat's factorization method - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Fermat&#39;s factorization method</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3AFermat's_factorization_method", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>Fermat&#39;s</b>_<b>factorization</b>_<b>method</b>", 
+            "snippet": "Let N = a^2 - b^2 is the required Fermat factorization. Let d = 2n be the difference \nbetween the two closest factors of 'N'. Let 's' is the floor value of square root of\u00a0...", 
+            "htmlSnippet": "Let N = a^2 - b^2 is the required <b>Fermat factorization</b>. Let d = 2n be the difference <br>\nbetween the two closest factors of &#39;N&#39;. Let &#39;s&#39; is the floor value of square root of&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3AFermat's_factorization_method", 
+            "cacheId": "Ftv17WwKwcgJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Pierre de Fermat - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Pierre de <b>Fermat</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Pierre_de_Fermat", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Pierre_de_<b>Fermat</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR6d-BVWnhdTIYI_9JwR85QmrghncO-WGDXIGDJ4J2DhkT-3SeIMq3Hukg", 
+                        "height": "235"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Pierre_de_Fermat.jpg/220px-Pierre_de_Fermat.jpg"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "category": "Mathematics and Law", 
+                        "fn": "Pierre de Fermat"
+                    }
+                ]
+            }, 
+            "snippet": "Pierre de Fermat (French: [pj\u025b\u02d0\u0281 d\u0259f\u025b\u0281ma]; 17 August 1601 \u2013 12 January ... He \ninvented a factorization method\u2014Fermat's factorization method\u2014as well as\u00a0...", 
+            "htmlSnippet": "Pierre de Fermat (French: [pj\u025b\u02d0\u0281 d\u0259f\u025b\u0281ma]; 17 August 1601 \u2013 12 January ... He <br>\ninvented a factorization method\u2014<b>Fermat&#39;s factorization method</b>\u2014as well as&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Pierre_de_Fermat", 
+            "cacheId": "WohfuXLi-ZkJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Euler's factorization method - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Euler&#39;s <b>factorization method</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Euler's_factorization_method", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Euler&#39;s_<b>factorization</b>_<b>method</b>", 
+            "snippet": "Euler's factorization method is more effective than Fermat's for integers whose \nfactors are not close together and potentially much more efficient than trial \ndivision\u00a0...", 
+            "htmlSnippet": "Euler&#39;s <b>factorization method</b> is more effective than <b>Fermat&#39;s</b> for integers whose <br>\nfactors are not close together and potentially much more efficient than trial <br>\ndivision&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Euler's_factorization_method", 
+            "cacheId": "FVDOoyGBndIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Integer factorization - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Integer <b>factorization</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Integer_factorization", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Integer_<b>factorization</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "152", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR-jrOqy11WWDB3GeTGqcqlyEX9qcXvDtCQyfsBol6dgbwON8GFA52FHc4", 
+                        "height": "84"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/PrimeDecompositionExample.svg/190px-PrimeDecompositionExample.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "In number theory, integer factorization is the decomposition of a composite \nnumber into a ... by Fermat's factorization method), even the fastest prime \nfactorization\u00a0...", 
+            "htmlSnippet": "In number theory, integer factorization is the decomposition of a composite <br>\nnumber into a ... by <b>Fermat&#39;s factorization method</b>), even the fastest prime <br>\nfactorization&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Integer_factorization", 
+            "cacheId": "W1TDbj2M4HcJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Shanks' square forms factorization - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Shanks&#39; square forms <b>factorization</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Shanks'_square_forms_factorization", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Shanks&#39;_square_forms_<b>factorization</b>", 
+            "snippet": "Shanks's square forms factorization is a method for integer factorization devised \nby Daniel Shanks as an improvement on Fermat's factorization method.", 
+            "htmlSnippet": "Shanks&#39;s square forms factorization is a method for integer factorization devised <br>\nby Daniel Shanks as an improvement on <b>Fermat&#39;s factorization method</b>.", 
+            "link": "https://en.wikipedia.org/wiki/Shanks'_square_forms_factorization", 
+            "cacheId": "QJVQIsy6eAEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Dixon's factorization method - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Dixon&#39;s <b>factorization method</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Dixon's_factorization_method", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Dixon&#39;s_<b>factorization</b>_<b>method</b>", 
+            "snippet": "Dixon's method is based on finding a congruence of squares modulo the integer \nN which we intend to factor. Fermat's factorization algorithm finds such a\u00a0...", 
+            "htmlSnippet": "Dixon&#39;s <b>method</b> is based on finding a congruence of squares modulo the integer <br>\nN which we intend to factor. <b>Fermat&#39;s factorization</b> algorithm finds such a&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Dixon's_factorization_method", 
+            "cacheId": "Uh1BI6P57CYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Quadratic sieve - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Quadratic sieve - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Quadratic_sieve", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Quadratic_sieve", 
+            "snippet": "The quadratic sieve algorithm (QS) is an integer factorization algorithm and, in \npractice, the second ... This is roughly the basis of Fermat's factorization method.", 
+            "htmlSnippet": "The quadratic sieve algorithm (QS) is an integer factorization algorithm and, in <br>\npractice, the second ... This is roughly the basis of <b>Fermat&#39;s factorization method</b>.", 
+            "link": "https://en.wikipedia.org/wiki/Quadratic_sieve", 
+            "cacheId": "6cnNa2-ExQoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Fermat primality test - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Fermat</b> primality test - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Fermat_primality_test", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Fermat</b>_primality_test", 
+            "snippet": "The Fermat primality test is a probabilistic test to determine whether a number ... \nFermat's little theorem states that if p is prime and 0<a<p .... Integer factorization.", 
+            "htmlSnippet": "The <b>Fermat</b> primality test is a probabilistic test to determine whether a number ... <br>\n<b>Fermat&#39;s</b> little theorem states that if p is prime and 0&lt;a&lt;p .... Integer <b>factorization</b>.", 
+            "link": "https://en.wikipedia.org/wiki/Fermat_primality_test", 
+            "cacheId": "ehB0Ni3YFosJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "List of things named after Pierre de Fermat - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "List of things named after Pierre de <b>Fermat</b> - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../List_of_things_named_after_Pierre_de_Fermat", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../List_of_things_named_after_Pierre_de_<b>Fermat</b>", 
+            "snippet": "This is a list of things named after Pierre de Fermat, a French amateur \nmathematician. ... Fermat quintic threefold \u00b7 Fermat quotient \u00b7 Fermat's \nfactorization method\u00a0...", 
+            "htmlSnippet": "This is a list of things named after Pierre de Fermat, a French amateur <br>\nmathematician. ... Fermat quintic threefold &middot; Fermat quotient &middot; <b>Fermat&#39;s</b> <br>\n<b>factorization method</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/List_of_things_named_after_Pierre_de_Fermat", 
+            "cacheId": "QwTS8LUy2kUJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Fermat's factorization method", 
+                "safe": "off", 
+                "searchTerms": "Fermat's factorization method", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "567"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Fermat's factorization method", 
+                "safe": "off", 
+                "searchTerms": "Fermat's factorization method", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "567"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.24", 
+        "formattedTotalResults": "567", 
+        "totalResults": "567", 
+        "searchTime": 0.241801
+    }
+}

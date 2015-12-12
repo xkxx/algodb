@@ -1,0 +1,222 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Xiaolin Wu's line algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Xiaolin Wu&#39;s line algorithm</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Xiaolin_Wu's_line_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Xiaolin</b>_<b>Wu&#39;s</b>_<b>line</b>_<b>algorithm</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRiyexCY7kZpBITUdehtNC6Df1ttOSFhGvyuAtkHJVmgXdKPzbIH_jLugA", 
+                        "height": "88"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/XiaolinWuLine.png/220px-XiaolinWuLine.png"
+                    }
+                ]
+            }, 
+            "snippet": "Xiaolin Wu's line algorithm is an algorithm for line antialiasing, which was \npresented in the article An Efficient Antialiasing Technique in the July 1991 issue \nof\u00a0...", 
+            "htmlSnippet": "<b>Xiaolin Wu&#39;s line algorithm</b> is an algorithm for line antialiasing, which was <br>\npresented in the article An Efficient Antialiasing Technique in the July 1991 issue <br>\nof&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Xiaolin_Wu's_line_algorithm", 
+            "cacheId": "vxDazAXld3EJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Xiaolin Wu's line algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Xiaolin Wu&#39;s line algorithm</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3AXiaolin_Wu's_line_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>Xiaolin</b>_<b>Wu&#39;s</b>_<b>line</b>_<b>algorithm</b>", 
+            "snippet": "10 Using Wu's line algorithm in SDL; 11 Pseudo-code does not match Wu's Fast \nAntialiased Line Generator ... Does the article link to the correct Xiaolin Wu?", 
+            "htmlSnippet": "10 Using Wu&#39;s <b>line algorithm</b> in SDL; 11 Pseudo-code does not match Wu&#39;s Fast <br>\nAntialiased <b>Line</b> Generator ... Does the article link to the correct <b>Xiaolin Wu</b>?", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3AXiaolin_Wu's_line_algorithm", 
+            "cacheId": "Vcl-mALnuzkJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Line drawing algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Line</b> drawing <b>algorithm</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Line_drawing_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Line</b>_drawing_<b>algorithm</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSeIWn7bEUGyn3LJi2JRgZ8EBBFC39nNcRL8xaXbPdKMx_JoK7AMJ24Akc", 
+                        "height": "146"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Line_scan-conversion.svg/220px-Line_scan-conversion.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "A line drawing algorithm is a graphical algorithm for approximating a line \nsegment on ... Xiaolin Wu's line algorithm \u2014 can perform spatial anti-aliasing, \nappears\u00a0...", 
+            "htmlSnippet": "A line drawing algorithm is a graphical algorithm for approximating a line <br>\nsegment on ... <b>Xiaolin Wu&#39;s line algorithm</b> \u2014 can perform spatial anti-aliasing, <br>\nappears&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Line_drawing_algorithm", 
+            "cacheId": "PgWjNEE8z6AJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Bresenham's line algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Bresenham&#39;s <b>line algorithm</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Bresenham's_line_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Bresenham&#39;s_<b>line</b>_<b>algorithm</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "225", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcScpAnwN_2jhvosPgdfjFswlqwesQznqJYPD6TlMy7seDxbts0vsbxOYKo", 
+                        "height": "225"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Line_1.5x%2B1.svg/300px-Line_1.5x%2B1.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "Bresenham's line algorithm is an algorithm that determines the points of an ... \nWhile algorithms such as Wu's algorithm are also frequently used in modern ..... \nand general method for rasterizing lines and triangles; Xiaolin Wu's line algorithm\n,\u00a0...", 
+            "htmlSnippet": "Bresenham&#39;s line algorithm is an algorithm that determines the points of an ... <br>\nWhile algorithms such as Wu&#39;s algorithm are also frequently used in modern ..... <br>\nand general method for rasterizing lines and triangles; <b>Xiaolin Wu&#39;s line algorithm</b><br>\n,&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Bresenham's_line_algorithm", 
+            "cacheId": "ezjixdrcmfgJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Digital differential analyzer (graphics algorithm) - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Digital differential analyzer (graphics <b>algorithm</b>) - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../Digital_differential_analyzer_(graphics_ algorithm)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Digital_differential_analyzer_(graphics_ <b>algorithm</b>)", 
+            "snippet": "In its simplest implementation, the DDA algorithm interpolates values in interval \nby computing ... Xiaolin Wu's line algorithm is an algorithm for line anti-aliasing\u00a0...", 
+            "htmlSnippet": "In its simplest implementation, the DDA algorithm interpolates values in interval <br>\nby computing ... <b>Xiaolin Wu&#39;s line algorithm</b> is an algorithm for line anti-aliasing&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Digital_differential_analyzer_(graphics_algorithm)", 
+            "cacheId": "jZ38MGaA_pIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Category:Computer graphics algorithms - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Category:Computer graphics algorithms - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../Category:Computer_graphics_algorithms", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Category:Computer_graphics_<b>algorithm</b>s", 
+            "snippet": "D. Diamond-square algorithm \u00b7 Digital differential analyzer (graphics algorithm). \nE. Even\u2013odd rule. F ... X. Xiaolin Wu's line algorithm. Media in category\u00a0...", 
+            "htmlSnippet": "D. Diamond-square algorithm &middot; Digital differential analyzer (graphics algorithm). <br>\nE. Even\u2013odd rule. F ... X. <b>Xiaolin Wu&#39;s line algorithm</b>. Media in category&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Category:Computer_graphics_algorithms", 
+            "cacheId": "4I7Tdu-kqmgJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Category:Unassessed computer graphics articles - Wikipedia, the ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Category:Unassessed computer graphics articles - Wikipedia, the <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../Category:Unassessed_computer_graphics_articles", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Category:Unassessed_computer_graphics_articles", 
+            "snippet": "Talk:M\u00f6ller\u2013Trumbore intersection algorithm. S. Talk:Servo (layout engine) \u00b7 Talk:\nSlerp. W. Talk:WebP. X. Talk:Xiaolin Wu's line algorithm. Retrieved from\u00a0...", 
+            "htmlSnippet": "Talk:M\u00f6ller\u2013Trumbore intersection algorithm. S. Talk:Servo (layout engine) &middot; Talk:<br>\nSlerp. W. Talk:WebP. X. Talk:<b>Xiaolin Wu&#39;s line algorithm</b>. Retrieved from&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Category:Unassessed_computer_graphics_articles", 
+            "cacheId": "SQeQ4DH84fAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Wikipedia:WikiProject Mathematics/List of mathematics articles (X ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Wikipedia:WikiProject Mathematics/List of mathematics articles (X <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/.../List_of_mathematics_articles_(X)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/.../List_of_mathematics_articles_(X)", 
+            "snippet": "X mark -- X-ray transform -- X\u2013Y\u2013Z matrix -- X+Y -- XDH assumption -- Xiaolin \nWu's line algorithm -- XP (complexity class) -- XTR -- Xuming He --. Retrieved \nfrom\u00a0...", 
+            "htmlSnippet": "X mark -- X-ray transform -- X\u2013Y\u2013Z matrix -- X+Y -- XDH assumption -- <b>Xiaolin</b> <br>\n<b>Wu&#39;s line algorithm</b> -- XP (complexity class) -- XTR -- Xuming He --. Retrieved <br>\nfrom&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Mathematics/List_of_mathematics_articles_(X)", 
+            "cacheId": "5JrTJvxO8z0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "User:Tompw/Books/Mathematics (X) - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "User:Tompw/Books/Mathematics (X) - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/User:Tompw/Books/Mathematics_(X)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/User:Tompw/Books/Mathematics_(X)", 
+            "snippet": "Mathematics (X)[edit]. XDH assumption \u00b7 Xiaolin Wu's line algorithm \u00b7 XP (\ncomplexity class) \u00b7 X-ray transform \u00b7 XTR \u00b7 X\u2013Y\u2013Z matrix. Retrieved from\u00a0...", 
+            "htmlSnippet": "Mathematics (X)[edit]. XDH assumption &middot; <b>Xiaolin Wu&#39;s line algorithm</b> &middot; XP (<br>\ncomplexity class) &middot; X-ray transform &middot; XTR &middot; X\u2013Y\u2013Z matrix. Retrieved from&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/User:Tompw/Books/Mathematics_(X)", 
+            "cacheId": "ghRL_tpnDQMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Spatial anti-aliasing - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Spatial anti-aliasing - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Spatial_anti-aliasing", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Spatial_anti-aliasing", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "102", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyqXF6kUvOB42lu6ZP6ny7Ctll6yEKTMQoYmL4NWWGg5om15ry9vFNZA", 
+                        "height": "102"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Antialiased-lanczos.png"
+                    }
+                ]
+            }, 
+            "snippet": "Figure 1-c shows another anti-aliasing algorithm, based on the sinc filter, which is \n... This method is generally best suited for simple graphics, such as basic lines or \ncurves ..... Temporal anti-aliasing \u00b7 Texture filtering \u00b7 Xiaolin Wu's line algorithm\u00a0...", 
+            "htmlSnippet": "Figure 1-c shows another anti-aliasing algorithm, based on the sinc filter, which is <br>\n... This method is generally best suited for simple graphics, such as basic lines or <br>\ncurves ..... Temporal anti-aliasing &middot; Texture filtering &middot; <b>Xiaolin Wu&#39;s line algorithm</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Spatial_anti-aliasing", 
+            "cacheId": "pQWUq064NlgJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Xiaolin Wu's line algorithm", 
+                "safe": "off", 
+                "searchTerms": "Xiaolin Wu's line algorithm", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "30"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Xiaolin Wu's line algorithm", 
+                "safe": "off", 
+                "searchTerms": "Xiaolin Wu's line algorithm", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "30"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.25", 
+        "formattedTotalResults": "30", 
+        "totalResults": "30", 
+        "searchTime": 0.25316
+    }
+}

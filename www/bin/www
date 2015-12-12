@@ -91,5 +91,7 @@ function onListening() {
 
   var url = 'http://localhost:' + addr.port + '/';
   console.log('Running on ' + url);
-  shell.exec('open ' + url);
+  setTimeout(function() {
+    shell.exec('open ' + url);
+  }, 500);
 }

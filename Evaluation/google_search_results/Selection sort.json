@@ -1,0 +1,236 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Selection sort - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Selection sort</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Selection_sort", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Selection</b>_<b>sort</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "200", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqW-tX09lefZmTj0ucNZTX7asAds3LnF-SdafvTQv80HgCIXQb0zGlL2m3", 
+                        "height": "200"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Selection_sort_animation.gif/250px-Selection_sort_animation.gif"
+                    }
+                ]
+            }, 
+            "snippet": "In computer science, selection sort is a sorting algorithm, specifically an in-place \ncomparison sort. It has O(n2) time complexity, making it inefficient on large lists,\u00a0...", 
+            "htmlSnippet": "In computer science, <b>selection sort</b> is a sorting algorithm, specifically an in-place <br>\ncomparison sort. It has O(n<sup>2</sup>) time complexity, making it inefficient on large lists,&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Selection_sort", 
+            "cacheId": "hnCZz3eE85EJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Insertion sort - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Insertion <b>sort</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Insertion_sort", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Insertion_<b>sort</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "224", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT6RzyuBsYKxfCZVtgJuUIpjespdgbrhkokyXQ_Op7GjHb9o6IqkYMKL7Y", 
+                        "height": "200"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Insertionsort-edited.png"
+                    }
+                ]
+            }, 
+            "snippet": "Insertion sort is very similar to selection sort. As in selection sort, after k passes \nthrough the array, the first k elements are in sorted order. For selection sort these\n\u00a0...", 
+            "htmlSnippet": "Insertion sort is very similar to <b>selection sort</b>. As in <b>selection sort</b>, after k passes <br>\nthrough the array, the first k elements are in sorted order. For <b>selection sort</b> these<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Insertion_sort", 
+            "cacheId": "N0f73BW4PMAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Sorting algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Sorting</b> algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Sorting_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Sorting</b>_algorithm", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "284", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcw9pl3Q9PmPu7dU3Xk3DdbeYqZIQCzyyRfukXqYXWdm69y04uEeRiB3br", 
+                        "height": "178"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Sorting_playing_cards_using_stable_sort.svg/400px-Sorting_playing_cards_using_stable_sort.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "[edit]. Main article: Selection sort. Selection sort is an in-place comparison sort. It \nhas O(n2) complexity, making it inefficient on\u00a0...", 
+            "htmlSnippet": "[edit]. Main article: <b>Selection sort</b>. <b>Selection sort</b> is an in-place comparison sort. It <br>\nhas O(n<sup>2</sup>) complexity, making it inefficient on&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Sorting_algorithm", 
+            "cacheId": "CyeqKExhw84J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Selection algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Selection</b> algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Selection_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Selection</b>_algorithm", 
+            "snippet": "[edit]. By sorting the list or array then selecting the desired element, selection can \nbe reduced to sorting.", 
+            "htmlSnippet": "[edit]. By <b>sorting</b> the list or array then selecting the desired element, <b>selection</b> can <br>\nbe reduced to <b>sorting</b>.", 
+            "link": "https://en.wikipedia.org/wiki/Selection_algorithm", 
+            "cacheId": "3HYUkFLo3ZYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Selection sort - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Selection sort</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3ASelection_sort", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>Selection</b>_<b>sort</b>", 
+            "snippet": "An anonymous user deleted the \"not\" from \"Selection sort is not a stable sort.\" I've \nreverted it as it made the article self-contradictory, i.e. the implementations\u00a0...", 
+            "htmlSnippet": "An anonymous user deleted the &quot;not&quot; from &quot;<b>Selection sort</b> is not a stable sort.&quot; I&#39;ve <br>\nreverted it as it made the article self-contradictory, i.e. the implementations&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3ASelection_sort", 
+            "cacheId": "g89cDb6EAf0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Tournament sort - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Tournament <b>sort</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Tournament_sort", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Tournament_<b>sort</b>", 
+            "snippet": "Tournament sort is a sorting algorithm. It improves upon the naive selection sort \nby using a priority queue to find the next element in the sort. In the naive\u00a0...", 
+            "htmlSnippet": "Tournament sort is a sorting algorithm. It improves upon the naive <b>selection sort</b> <br>\nby using a priority queue to find the next element in the sort. In the naive&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Tournament_sort", 
+            "cacheId": "pb3YqnOiFmEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "File:Selectionsort-edited.png - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "File:<b>Selectionsort</b>-edited.png - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/File:Selectionsort-edited.png", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/File:<b>Selectionsort</b>-edited.png", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "224", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQFwml-o746WRd2bVBqByWhhktZDfuY7GmjtHkR7Qyb0bIk0wuuFse9YFM", 
+                        "height": "200"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/c/c1/Selectionsort-edited.png"
+                    }
+                ]
+            }, 
+            "snippet": "This media file is in the public domain or licensed under a free license, but \ncontains no inbound file links. If a new home in a relevant article is found for this\u00a0...", 
+            "htmlSnippet": "This media file is in the public domain or licensed under a free license, but <br>\ncontains no inbound file links. If a new home in a relevant article is found for this&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/File:Selectionsort-edited.png", 
+            "cacheId": "nzB1Bke0WBgJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "In-place algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "In-place algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/In-place_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/In-place_algorithm", 
+            "snippet": "As another example, there are a number of sorting algorithms that can rearrange \narrays into sorted order in-place, including: Bubble sort, Comb sort, Selection\u00a0...", 
+            "htmlSnippet": "As another example, there are a number of <b>sorting</b> algorithms that can rearrange <br>\narrays into sorted order in-place, including: Bubble <b>sort</b>, Comb <b>sort</b>, <b>Selection</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/In-place_algorithm", 
+            "cacheId": "wSRH7lBl_FoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Comparison sort - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Comparison <b>sort</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Comparison_sort", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Comparison_<b>sort</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "232", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS78wJQXHvx9Wq1up4xGVYL_B6rWVFL3Xwngh2al3NdWTocWiiJl944Vpyw", 
+                        "height": "217"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Balance_%C3%A0_tabac_1850.JPG/300px-Balance_%C3%A0_tabac_1850.JPG"
+                    }
+                ]
+            }, 
+            "snippet": "A comparison sort is a type of sorting algorithm that only reads the list elements \nthrough a single abstract comparison operation (often a \"less .... Selection sorts.", 
+            "htmlSnippet": "A comparison <b>sort</b> is a type of <b>sorting</b> algorithm that only reads the list elements <br>\nthrough a single abstract comparison operation (often a &quot;less .... <b>Selection</b> sorts.", 
+            "link": "https://en.wikipedia.org/wiki/Comparison_sort", 
+            "cacheId": "k7GGonoy80oJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Best, worst and average case - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Best, worst and average case - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Best,_worst_and_average_case", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Best,_worst_and_average_case", 
+            "snippet": "Selection sort, Array, O(n2), O(n2), O(n2), O(1) ... This popular sorting algorithm \nhas an average-case performance of O(n log(n)), which contributes to making it a\n\u00a0...", 
+            "htmlSnippet": "<b>Selection sort</b>, Array, O(n<sup>2</sup>), O(n<sup>2</sup>), O(n<sup>2</sup>), O(1) ... This popular sorting algorithm <br>\nhas an average-case performance of O(n log(n)), which contributes to making it a<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Best,_worst_and_average_case", 
+            "cacheId": "wNaeQNFT4MgJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Selection sort", 
+                "safe": "off", 
+                "searchTerms": "Selection sort", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "20400"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Selection sort", 
+                "safe": "off", 
+                "searchTerms": "Selection sort", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "20400"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.35", 
+        "formattedTotalResults": "20,400", 
+        "totalResults": "20400", 
+        "searchTime": 0.35313
+    }
+}

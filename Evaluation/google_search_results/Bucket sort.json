@@ -1,0 +1,208 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Bucket sort - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Bucket sort</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Bucket_sort", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Bucket</b>_<b>sort</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "248", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTWviVJFEkvbIeYW0EyIuTbtOoINrOCeR-GuORaYp_7RMsYAPcywcF1-w", 
+                        "height": "104"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/6/61/Bucket_sort_1.png"
+                    }
+                ]
+            }, 
+            "snippet": "Bucket sort, or bin sort, is a sorting algorithm that works by distributing the \nelements of an array into a number of buckets. Each bucket is then sorted \nindividually,\u00a0...", 
+            "htmlSnippet": "<b>Bucket sort</b>, or bin sort, is a sorting algorithm that works by distributing the <br>\nelements of an array into a number of buckets. Each bucket is then sorted <br>\nindividually,&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Bucket_sort", 
+            "cacheId": "iXo-5ffR8ikJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Sorting algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Sorting</b> algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Sorting_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Sorting</b>_algorithm", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "284", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcw9pl3Q9PmPu7dU3Xk3DdbeYqZIQCzyyRfukXqYXWdm69y04uEeRiB3br", 
+                        "height": "178"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Sorting_playing_cards_using_stable_sort.svg/400px-Sorting_playing_cards_using_stable_sort.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "[edit]. Main article: Bucket sort. Bucket sort is a divide and conquer sorting \nalgorithm that generalizes Counting sort by partitioning an\u00a0...", 
+            "htmlSnippet": "[edit]. Main article: <b>Bucket sort</b>. <b>Bucket sort</b> is a divide and conquer sorting <br>\nalgorithm that generalizes Counting sort by partitioning an&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Sorting_algorithm", 
+            "cacheId": "CyeqKExhw84J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Pigeonhole sort - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Pigeonhole <b>sort</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Pigeonhole_sort", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Pigeonhole_<b>sort</b>", 
+            "snippet": "It is similar to counting sort, but differs in that it \"moves items twice: once to the \nbucket array and again to the final destination [whereas] counting sort builds an\u00a0...", 
+            "htmlSnippet": "It is similar to counting <b>sort</b>, but differs in that it &quot;moves items twice: once to the <br>\n<b>bucket</b> array and again to the final destination [whereas] counting <b>sort</b> builds an&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Pigeonhole_sort", 
+            "cacheId": "v92WroQSqvcJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Bucket sort - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Bucket sort</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3ABucket_sort", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>Bucket</b>_<b>sort</b>", 
+            "snippet": "\"The most common variant of bucket sort operates on a list of n numeric inputs \nbetween zero and some maximum value M and divides the value range into n\u00a0...", 
+            "htmlSnippet": "&quot;The most common variant of <b>bucket sort</b> operates on a list of n numeric inputs <br>\nbetween zero and some maximum value M and divides the value range into n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3ABucket_sort", 
+            "cacheId": "9B4u2xrL-WQJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Proxmap sort - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Proxmap <b>sort</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Proxmap_sort", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Proxmap_<b>sort</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "252", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQVSAclZH02qUuo6_s_Hf91QD87haqmwpVDfKcidNmg9Qb3lOl_O_J14nq7", 
+                        "height": "184"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Insertion_Sorting_during_proxmap.PNG"
+                    }
+                ]
+            }, 
+            "snippet": "[edit]. Like ProxmapSort, bucket sort generally operates on a list of n numeric \ninputs between zero\u00a0...", 
+            "htmlSnippet": "[edit]. Like ProxmapSort, <b>bucket sort</b> generally operates on a list of n numeric <br>\ninputs between zero&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Proxmap_sort", 
+            "cacheId": "P6oi3i2aWfUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Counting sort - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Counting <b>sort</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Counting_sort", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Counting_<b>sort</b>", 
+            "snippet": "Bucket sort may be used for many of the same tasks as counting sort, with a \nsimilar time analysis; however, compared to counting sort, bucket sort requires\u00a0...", 
+            "htmlSnippet": "<b>Bucket sort</b> may be used for many of the same tasks as counting sort, with a <br>\nsimilar time analysis; however, compared to counting sort, <b>bucket sort</b> requires&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Counting_sort", 
+            "cacheId": "BUSvqypY3wQJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Spreadsort - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Spreadsort - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Spreadsort", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Spread<b>sort</b>", 
+            "snippet": "Spreadsort is a sorting algorithm invented by Steven J. Ross in 2002. It combines \nconcepts from distribution-based sorts, such as radix sort and bucket sort, with\u00a0...", 
+            "htmlSnippet": "Spreadsort is a sorting algorithm invented by Steven J. Ross in 2002. It combines <br>\nconcepts from distribution-based sorts, such as radix sort and <b>bucket sort</b>, with&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Spreadsort", 
+            "cacheId": "3DxjJEl_ZLEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "American flag sort - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "American flag <b>sort</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/American_flag_sort", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/American_flag_<b>sort</b>", 
+            "snippet": "An American flag sort is an efficient, in-place variant of radix sort that distributes \nitems into hundreds of buckets. Non-comparative sorting algorithms such as\u00a0...", 
+            "htmlSnippet": "An American flag <b>sort</b> is an efficient, in-place variant of radix <b>sort</b> that distributes <br>\nitems into hundreds of <b>buckets</b>. Non-comparative <b>sorting</b> algorithms such as&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/American_flag_sort", 
+            "cacheId": "cfwTleA4gn4J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Integer sorting - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Integer <b>sorting</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Integer_sorting", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Integer_<b>sorting</b>", 
+            "snippet": "The classical integer sorting algorithms of bucket sort, counting sort, and radix \nsort are widely used and practical. Much of the subsequent research on integer\u00a0...", 
+            "htmlSnippet": "The classical integer sorting algorithms of <b>bucket sort</b>, counting sort, and radix <br>\nsort are widely used and practical. Much of the subsequent research on integer&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Integer_sorting", 
+            "cacheId": "q-meQhPfcbwJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Radix sort - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Radix <b>sort</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Radix_sort", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Radix_<b>sort</b>", 
+            "snippet": "Some radix sort implementations allocate space for buckets by first counting the \nnumber of keys that belong in each bucket before moving keys into those\u00a0...", 
+            "htmlSnippet": "Some radix <b>sort</b> implementations allocate space for <b>buckets</b> by first counting the <br>\nnumber of keys that belong in each <b>bucket</b> before moving keys into those&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Radix_sort", 
+            "cacheId": "MWLYmdndgUAJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Bucket sort", 
+                "safe": "off", 
+                "searchTerms": "Bucket sort", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "3000"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Bucket sort", 
+                "safe": "off", 
+                "searchTerms": "Bucket sort", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "3000"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.28", 
+        "formattedTotalResults": "3,000", 
+        "totalResults": "3000", 
+        "searchTime": 0.276595
+    }
+}

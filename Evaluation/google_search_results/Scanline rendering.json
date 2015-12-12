@@ -1,0 +1,250 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Scanline rendering - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Scanline rendering</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Scanline_rendering", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Scanline</b>_<b>rendering</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS4VueYZeF-IGrFKiqTaR51ZzDGFdzT-UKOsbLlIJOyr0xYxNcsCxLfA4A", 
+                        "height": "159"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Scan-line_algorithm.svg/220px-Scan-line_algorithm.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "Scanline rendering is an algorithm for visible surface determination, in 3D \ncomputer graphics, that works on a row-by-row basis rather than a\u00a0...", 
+            "htmlSnippet": "<b>Scanline rendering</b> is an algorithm for visible surface determination, in 3D <br>\ncomputer graphics, that works on a row-by-row basis rather than a&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Scanline_rendering", 
+            "cacheId": "LiavbOOtI0kJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Rendering (computer graphics) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Rendering</b> (computer graphics) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Rendering_(computer_graphics)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Rendering</b>_(computer_graphics)", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo3EjOcAhhighbkWwQZHZQf1Ul7qKMlbDIKrcUOQVPBxpCm4fiJNgYN4Cu", 
+                        "height": "132"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Glasses_800_edit.png/220px-Glasses_800_edit.png"
+                    }
+                ]
+            }, 
+            "snippet": "A variety of rendering techniques applied to a single 3D scene. An image created \nby ... 3.1 Scanline rendering and rasterisation; 3.2 Ray casting; 3.3 Ray tracing.", 
+            "htmlSnippet": "A variety of rendering techniques applied to a single 3D scene. An image created <br>\nby ... 3.1 <b>Scanline rendering</b> and rasterisation; 3.2 Ray casting; 3.3 Ray tracing.", 
+            "link": "https://en.wikipedia.org/wiki/Rendering_(computer_graphics)", 
+            "cacheId": "bGRSoTag56MJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Ray tracing (graphics) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Ray tracing (graphics) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Ray_tracing_(graphics)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Ray_tracing_(graphics)", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "200", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRrR46LQhv3yKRlFKotOG1Kd5BzSEVUJ1mmX6cxY0yvbT5xXXxUPLltvcE", 
+                        "height": "200"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Recursive_raytrace_of_a_sphere.png/250px-Recursive_raytrace_of_a_sphere.png"
+                    }
+                ]
+            }, 
+            "snippet": "The technique is capable of producing a very high degree of visual realism, \nusually higher than that of typical scanline rendering methods, but at a greater\u00a0...", 
+            "htmlSnippet": "The technique is capable of producing a very high degree of visual realism, <br>\nusually higher than that of typical <b>scanline rendering</b> methods, but at a greater&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Ray_tracing_(graphics)", 
+            "cacheId": "Otc2ZDa3llUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Graphics pipeline - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Graphics pipeline - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Graphics_pipeline", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Graphics_pipeline", 
+            "snippet": "In 3D computer graphics, the graphics pipeline or rendering pipeline refers to the \nsequence of steps used to create a 2D raster representation of a 3D scene.", 
+            "htmlSnippet": "In 3D computer graphics, the graphics pipeline or <b>rendering</b> pipeline refers to the <br>\nsequence of steps used to create a 2D raster representation of a 3D scene.", 
+            "link": "https://en.wikipedia.org/wiki/Graphics_pipeline", 
+            "cacheId": "un8AV_JXbN0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Scan line - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Scan line</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Scan_line", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Scan_line</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTVDUxbhoZzE4JRNjGmxGMIoZeNmVhMrSZm-FfKQPRfA952765KY8-XN9fl", 
+                        "height": "132"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Videosignal_scanline.jpg/220px-Videosignal_scanline.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "Example of the scan line effect deliberately applied to an image ... A scanline is \none line, or row, in a raster scanning pattern, such as a line of video on a ... \nresolution \u00b7 Progressive video \u00b7 Scanline fill \u00b7 Scanline rendering \u00b7 Flicker (screen)\n\u00a0...", 
+            "htmlSnippet": "Example of the scan line effect deliberately applied to an image ... A scanline is <br>\none line, or row, in a raster scanning pattern, such as a line of video on a ... <br>\nresolution &middot; Progressive video &middot; Scanline fill &middot; <b>Scanline rendering</b> &middot; Flicker (screen)<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Scan_line", 
+            "cacheId": "Op5tcvjH5AcJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Aladdin4D - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Aladdin4D - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Aladdin4D", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Aladdin4D", 
+            "snippet": "However, unlike the majority of Amiga 3D programs, it used scanline rendering \ninstead of the more photo-realistic ray tracing technique. Scanline rendering is\u00a0...", 
+            "htmlSnippet": "However, unlike the majority of Amiga 3D programs, it used <b>scanline rendering</b> <br>\ninstead of the more photo-realistic ray tracing technique. <b>Scanline rendering</b> is&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Aladdin4D", 
+            "cacheId": "le6dHtGsFmsJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Rendering (computer graphics) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Rendering</b> (computer graphics) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/.../Talk%3ARendering_(computer_graphics)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Talk%3A<b>Rendering</b>_(computer_graphics)", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "200", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTtyxkYRUeXqsiilkXFtGTMdX7poV2RhqebZ8XC59u14F7f9sRo5X4SzA", 
+                        "height": "79"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5f/3D_Render.jpg/250px-3D_Render.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "1 The section named \"Scanline rendering and rasterisation\"; 2 Article crying out \nfor some images. 2.1 Rendering equation gets its own article? 2.2 Merge with\u00a0...", 
+            "htmlSnippet": "1 The section named &quot;<b>Scanline rendering</b> and rasterisation&quot;; 2 Article crying out <br>\nfor some images. 2.1 Rendering equation gets its own article? 2.2 Merge with&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3ARendering_(computer_graphics)", 
+            "cacheId": "65ASjcdVNM4J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Rasterisation - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Rasterisation - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Rasterisation", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Rasterisation", 
+            "snippet": "Compared with other rendering techniques such as ray tracing, rasterisation is .... \nin pixels inside a triangle, the most popular of which is the scanline algorithm.", 
+            "htmlSnippet": "Compared with other <b>rendering</b> techniques such as ray tracing, rasterisation is .... <br>\nin pixels inside a triangle, the most popular of which is the <b>scanline</b> algorithm.", 
+            "link": "https://en.wikipedia.org/wiki/Rasterisation", 
+            "cacheId": "VCEaDAUgD-EJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "3D rendering - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "3D <b>rendering</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/3D_rendering", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/3D_<b>rendering</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo3EjOcAhhighbkWwQZHZQf1Ul7qKMlbDIKrcUOQVPBxpCm4fiJNgYN4Cu", 
+                        "height": "132"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Glasses_800_edit.png/220px-Glasses_800_edit.png"
+                    }
+                ]
+            }, 
+            "snippet": "These range from the distinctly non-realistic wireframe rendering through \npolygon-based rendering, to more advanced techniques such as: scanline \nrendering,\u00a0...", 
+            "htmlSnippet": "These range from the distinctly non-realistic wireframe rendering through <br>\npolygon-based rendering, to more advanced techniques such as: <b>scanline</b> <br>\n<b>rendering</b>,&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/3D_rendering", 
+            "cacheId": "RzBWs0zEeAQJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Path tracing - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Path tracing - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Path_tracing", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Path_tracing", 
+            "snippet": "Path tracing naturally simulates many effects that have to be specifically added to \nother methods (conventional ray tracing or scanline rendering), such as soft\u00a0...", 
+            "htmlSnippet": "Path tracing naturally simulates many effects that have to be specifically added to <br>\nother methods (conventional ray tracing or <b>scanline rendering</b>), such as soft&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Path_tracing", 
+            "cacheId": "Cv6WjS2V9GkJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Scanline rendering", 
+                "safe": "off", 
+                "searchTerms": "Scanline rendering", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "299"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Scanline rendering", 
+                "safe": "off", 
+                "searchTerms": "Scanline rendering", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "299"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.26", 
+        "formattedTotalResults": "299", 
+        "totalResults": "299", 
+        "searchTime": 0.262809
+    }
+}

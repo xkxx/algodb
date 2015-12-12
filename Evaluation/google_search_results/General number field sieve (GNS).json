@@ -1,0 +1,69 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "General number field sieve - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>General number field sieve</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/General_number_field_sieve", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>General</b>_<b>number</b>_<b>field</b>_<b>sieve</b>", 
+            "snippet": "In number theory, the general number field sieve (GNFS) is the most efficient \nclassical algorithm known for factoring integers larger than 100 digits. \nHeuristically\u00a0...", 
+            "htmlSnippet": "In number theory, the <b>general number field sieve</b> (GNFS) is the most efficient <br>\nclassical algorithm known for factoring integers larger than 100 digits. <br>\nHeuristically&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/General_number_field_sieve", 
+            "cacheId": "8_ExMaLDKOsJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Quadratic sieve - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Quadratic sieve</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Quadratic_sieve", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Quadratic</b>_<b>sieve</b>", 
+            "snippet": "The quadratic sieve algorithm (QS) is an integer factorization algorithm and, in \npractice, the second fastest method known (after the general number field sieve).", 
+            "htmlSnippet": "The <b>quadratic sieve</b> algorithm (QS) is an integer factorization algorithm and, in <br>\npractice, the second fastest method known (after the <b>general number field sieve</b>).", 
+            "link": "https://en.wikipedia.org/wiki/Quadratic_sieve", 
+            "cacheId": "6cnNa2-ExQoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Wikipedia:Requested articles/Mathematics - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Wikipedia:Requested articles/Mathematics - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Wikipedia:Requested.../Mathematics", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Wikipedia:Requested.../Mathematics", 
+            "snippet": "41.1 Recreational number theory; 41.2 Elementary number theory; 41.3 \nAlgebraic ... 53.1 Algebraic topology; 53.2 General topology; 53.3 Geometric \ntopology ..... of operator systems, plays the same role as the GNS theorem for C*-\nalgebras. ..... \"Wild Pfister forms over Henselian fields, K-theory, and conic \ndivision algebras\".", 
+            "htmlSnippet": "41.1 Recreational <b>number</b> theory; 41.2 Elementary <b>number</b> theory; 41.3 <br>\nAlgebraic ... 53.1 Algebraic topology; 53.2 <b>General</b> topology; 53.3 Geometric <br>\ntopology ..... of operator systems, plays the same role as the <b>GNS</b> theorem for C*-<br>\nalgebras. ..... &quot;Wild Pfister forms over Henselian <b>fields</b>, K-theory, and conic <br>\ndivision algebras&quot;.", 
+            "link": "https://en.wikipedia.org/wiki/Wikipedia:Requested_articles/Mathematics", 
+            "cacheId": "fx3TNAg3lzgJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 3, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - General number field sieve (GNS)", 
+                "safe": "off", 
+                "searchTerms": "General number field sieve (GNS)", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "3"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.35", 
+        "formattedTotalResults": "3", 
+        "totalResults": "3", 
+        "searchTime": 0.347832
+    }
+}

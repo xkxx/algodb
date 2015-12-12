@@ -1,0 +1,180 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Hill climbing - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Hill climbing</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Hill_climbing", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Hill</b>_<b>climbing</b>", 
+            "snippet": "In computer science, hill climbing is a mathematical optimization technique which \n... Random-restart hill climbing is a meta-algorithm built on top of the hill\u00a0...", 
+            "htmlSnippet": "In computer science, hill climbing is a mathematical optimization technique which <br>\n... <b>Random</b>-<b>restart hill climbing</b> is a meta-algorithm built on top of the hill&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Hill_climbing", 
+            "cacheId": "MXn2d6dSV-EJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Hill climbing - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Hill climbing</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3AHill_climbing", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>Hill</b>_<b>climbing</b>", 
+            "snippet": "In the preamble it is stated that hill climbing is optimal if the problem is convex; ... \nRandom-restart hill climbing is a surprisingly effective algorithm in many cases.", 
+            "htmlSnippet": "In the preamble it is stated that hill climbing is optimal if the problem is convex; ... <br>\n<b>Random</b>-<b>restart hill climbing</b> is a surprisingly effective algorithm in many cases.", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3AHill_climbing", 
+            "cacheId": "cvY7-_cfK-EJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Simulated annealing - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Simulated annealing - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Simulated_annealing", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Simulated_annealing", 
+            "snippet": "4 Restarts; 5 Related methods; 6 See also; 7 References; 8 Further reading ... it is \nnot enough to use a simple hill climb algorithm, as there are many local maxima. \n.... Simulated annealing may be modeled as a random walk on a search graph,\u00a0...", 
+            "htmlSnippet": "4 <b>Restarts</b>; 5 Related methods; 6 See also; 7 References; 8 Further reading ... it is <br>\nnot enough to use a simple <b>hill climb</b> algorithm, as there are many local maxima. <br>\n.... Simulated annealing may be modeled as a <b>random</b> walk on a search graph,&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Simulated_annealing", 
+            "cacheId": "WeeVQjQyM5QJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Iterated local search - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Iterated local search - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Iterated_local_search", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Iterated_local_search", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKba2zJwkkTy31OThD24ZkBlLx7ppKNMKB966iMegisKxt0CyiiO_pWtdS", 
+                        "height": "139"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Iterated_local_search.png/220px-Iterated_local_search.png"
+                    }
+                ]
+            }, 
+            "snippet": "... local search or hill climbing methods for solving discrete optimization problems\n. ... strong, but not too strong to avoid reverting to memory-less random restarts.", 
+            "htmlSnippet": "... local search or <b>hill climbing</b> methods for solving discrete optimization problems<br>\n. ... strong, but not too strong to avoid reverting to memory-less <b>random restarts</b>.", 
+            "link": "https://en.wikipedia.org/wiki/Iterated_local_search", 
+            "cacheId": "J4VoVldjKt0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Eagle strategy - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Eagle strategy - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Eagle_strategy", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Eagle_strategy", 
+            "snippet": "In order to minimize such dependence on initial random solutions, most modern \nalgorithms, ... it essentially degenerates into a hill-climbing with random restart.", 
+            "htmlSnippet": "In order to minimize such dependence on initial random solutions, most modern <br>\nalgorithms, ... it essentially degenerates into a <b>hill</b>-<b>climbing</b> with <b>random restart</b>.", 
+            "link": "https://en.wikipedia.org/wiki/Eagle_strategy", 
+            "cacheId": "uI2suJaOMrAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "List of algorithm general topics - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "List of algorithm general topics - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/List_of_algorithm_general_topics", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/List_of_algorithm_general_topics", 
+            "snippet": "... time approximation scheme \u00b7 Problem size \u00b7 Pseudorandom number generator \n\u00b7 Quantum algorithm \u00b7 Random-restart hill climbing \u00b7 Randomized algorithm\u00a0...", 
+            "htmlSnippet": "... time approximation scheme &middot; Problem size &middot; Pseudorandom number generator <br>\n&middot; Quantum algorithm &middot; <b>Random</b>-<b>restart hill climbing</b> &middot; Randomized algorithm&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/List_of_algorithm_general_topics", 
+            "cacheId": "1yGGExLZjSwJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Local search (optimization) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Local search (optimization) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Local_search_(optimization)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Local_search_(optimization)", 
+            "snippet": "This local-optima problem can be cured by using restarts (repeated local search \nwith ... Hill climbing \u00b7 Simulated annealing (suited for either local or global search\n); Tabu ... Random optimization searches locally using a normal distribution.", 
+            "htmlSnippet": "This local-optima problem can be cured by using <b>restarts</b> (repeated local search <br>\nwith ... <b>Hill climbing</b> &middot; Simulated annealing (suited for either local or global search<br>\n); Tabu ... <b>Random</b> optimization searches locally using a normal distribution.", 
+            "link": "https://en.wikipedia.org/wiki/Local_search_(optimization)", 
+            "cacheId": "mHwCwKyBX74J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Mathematical optimization - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Mathematical optimization - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Optimization_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Optimization_algorithm", 
+            "snippet": "Stochastic optimization for use with random (noisy) function measurements or .... \nHill climbing with random restart; Nelder-Mead simplicial heuristic: A popular\u00a0...", 
+            "htmlSnippet": "Stochastic optimization for use with random (noisy) function measurements or .... <br>\n<b>Hill climbing</b> with <b>random restart</b>; Nelder-Mead simplicial heuristic: A popular&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Optimization_algorithm", 
+            "cacheId": "HJh8e3I58OsJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Wikipedia:Reference desk/Archives/Science/2010 May 6 - Wikipedia ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Wikipedia:Reference desk/Archives/Science/2010 May 6 - Wikipedia <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Wikipedia:Reference.../2010_May_6", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Wikipedia:Reference.../2010_May_6", 
+            "snippet": "Only the top of a tall hill or mountain will be visible from a distance. ...... to do \nsmarter things like \"Shotgun hill climbing\" and \"Random restart hill climbing\" - \nwhich\u00a0...", 
+            "htmlSnippet": "Only the top of a tall hill or mountain will be visible from a distance. ...... to do <br>\nsmarter things like &quot;Shotgun hill climbing&quot; and &quot;<b>Random restart hill climbing</b>&quot; - <br>\nwhich&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Wikipedia:Reference_desk/Archives/Science/2010_May_6", 
+            "cacheId": "wambz1DPIn0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "List of algorithms - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "List of algorithms - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/List_of_algorithms", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/List_of_algorithms", 
+            "snippet": "Fisher\u2013Yates shuffle (also known as the Knuth shuffle): randomly shuffle a finite \nset; Schensted algorithm: ..... Random-restart hill climbing \u00b7 Tabu search.", 
+            "htmlSnippet": "Fisher\u2013Yates shuffle (also known as the Knuth shuffle): randomly shuffle a finite <br>\nset; Schensted algorithm: ..... <b>Random</b>-<b>restart hill climbing</b> &middot; Tabu search.", 
+            "link": "https://en.wikipedia.org/wiki/List_of_algorithms", 
+            "cacheId": "iXsrHv5PMNcJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Random-restart hill climbing", 
+                "safe": "off", 
+                "searchTerms": "Random-restart hill climbing", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "153"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Random-restart hill climbing", 
+                "safe": "off", 
+                "searchTerms": "Random-restart hill climbing", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "153"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.15", 
+        "formattedTotalResults": "153", 
+        "totalResults": "153", 
+        "searchTime": 0.150636
+    }
+}

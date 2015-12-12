@@ -1,0 +1,270 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Fibonacci number - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Fibonacci</b> number - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Fibonacci_number", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Fibonacci</b>_number", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "240", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnPRbYebOd21pk48Mjmwt4zExPIlJIe6Fhcf1vjcCpmQ_2vYsd0gPS-0Dm", 
+                        "height": "148"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/34*21-FibonacciBlocks.png/300px-34*21-FibonacciBlocks.png"
+                    }
+                ]
+            }, 
+            "snippet": "By definition, the first two numbers in the Fibonacci sequence are either 1 and 1, \nor 0 and 1, depending on the chosen starting point of the sequence, and each\u00a0...", 
+            "htmlSnippet": "By definition, the first two numbers in the <b>Fibonacci</b> sequence are either 1 and 1, <br>\nor 0 and 1, depending on the chosen starting point of the sequence, and each&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Fibonacci_number", 
+            "cacheId": "CLV60ypc6PsJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Fibonacci - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Fibonacci</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Fibonacci", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Fibonacci</b>", 
+            "pagemap": {
+                "person": [
+                    {
+                        "role": "Mathematician"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTCVq747NF4WOzjUOSQ-qJwhBS6r7OjeRIRqZ5S_vdUYAK0wu0qDZaW47c", 
+                        "height": "237"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Fibonacci.jpg/220px-Fibonacci.jpg"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "category": "Italian", 
+                        "role": "Mathematician", 
+                        "nickname": "Fibonacci", 
+                        "fn": "Fibonacci"
+                    }
+                ]
+            }, 
+            "snippet": "Fibonacci popularized the Hindu\u2013Arabic numeral system to the Western World \nprimarily through his composition in 1202 of Liber Abaci (Book of Calculation).", 
+            "htmlSnippet": "<b>Fibonacci</b> popularized the Hindu\u2013Arabic numeral system to the Western World <br>\nprimarily through his composition in 1202 of Liber Abaci (Book of Calculation).", 
+            "link": "https://en.wikipedia.org/wiki/Fibonacci", 
+            "cacheId": "ibY3aBXirzYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Fibonacci numbers in popular culture - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Fibonacci</b> numbers in popular culture - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Fibonacci_numbers_in_popular_culture", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Fibonacci</b>_numbers_in_popular_culture", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRLhQuR4_6p2bm2B-83nipMJtNbigZv7qDKDUPbOafawoyQ6wrmFe_4d78", 
+                        "height": "234"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Fibonacci.JPG/220px-Fibonacci.JPG"
+                    }
+                ]
+            }, 
+            "snippet": "The Fibonacci numbers are a sequence of integers, starting with 0, 1 and \ncontinuing 1, 2, 3, 5, 8, 13, ..., each new number being the sum of the previous \ntwo.", 
+            "htmlSnippet": "The <b>Fibonacci</b> numbers are a sequence of integers, starting with 0, 1 and <br>\ncontinuing 1, 2, 3, 5, 8, 13, ..., each new number being the sum of the previous <br>\ntwo.", 
+            "link": "https://en.wikipedia.org/wiki/Fibonacci_numbers_in_popular_culture", 
+            "cacheId": "nS6aPdZzSLkJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Fibonacci retracement - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Fibonacci</b> retracement - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Fibonacci_retracement", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Fibonacci</b>_retracement", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "215", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnl3mdbvc6tTVsRNMdH0RrlyAriw5BqaMQRCHAQ8XstJjmDAWBZEW6bYZb", 
+                        "height": "178"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Fibretracement.png/269px-Fibretracement.png"
+                    }
+                ]
+            }, 
+            "snippet": "In finance, Fibonacci retracement is a method of technical analysis for \ndetermining support and resistance levels. They are named after their use of the \nFibonacci\u00a0...", 
+            "htmlSnippet": "In finance, <b>Fibonacci</b> retracement is a method of technical analysis for <br>\ndetermining support and resistance levels. They are named after their use of the <br>\n<b>Fibonacci</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Fibonacci_retracement", 
+            "cacheId": "n2CGydRyZPoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Fibonacci heap - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Fibonacci</b> heap - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Fibonacci_heap", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Fibonacci</b>_heap", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "200", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTCjLQuZxncUTmPVMlbf2l4xm96BayqskHy7pgiKn74TMEw28dC6kU1pQA", 
+                        "height": "144"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Fibonacci_heap.png/250px-Fibonacci_heap.png"
+                    }
+                ]
+            }, 
+            "snippet": "In computer science, a Fibonacci heap is a heap data structure consisting of a \ncollection of trees. It has a better amortized running time than a binomial heap.", 
+            "htmlSnippet": "In computer science, a <b>Fibonacci</b> heap is a heap data structure consisting of a <br>\ncollection of trees. It has a better amortized running time than a binomial heap.", 
+            "link": "https://en.wikipedia.org/wiki/Fibonacci_heap", 
+            "cacheId": "g76auQ0FhMYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Fibonacci prime - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Fibonacci</b> prime - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Fibonacci_prime", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Fibonacci</b>_prime", 
+            "pagemap": {
+                "hcard": [
+                    {
+                        "fn": "Fibonacci prime"
+                    }
+                ]
+            }, 
+            "snippet": "A Fibonacci prime is a Fibonacci number that is prime, a type of integer sequence \nprime. ... 1 Known Fibonacci primes; 2 Divisibility of Fibonacci numbers\u00a0...", 
+            "htmlSnippet": "A <b>Fibonacci</b> prime is a <b>Fibonacci</b> number that is prime, a type of integer sequence <br>\nprime. ... 1 Known <b>Fibonacci</b> primes; 2 Divisibility of <b>Fibonacci</b> numbers&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Fibonacci_prime", 
+            "cacheId": "V3fMzeyIy_cJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Fibonacci coding - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Fibonacci</b> coding - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Fibonacci_coding", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Fibonacci</b>_coding", 
+            "snippet": "In mathematics and computing, Fibonacci coding is a universal code which \nencodes positive integers into binary code words. It is one example of\u00a0...", 
+            "htmlSnippet": "In mathematics and computing, <b>Fibonacci</b> coding is a universal code which <br>\nencodes positive integers into binary code words. It is one example of&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Fibonacci_coding", 
+            "cacheId": "sciaVi2LN7gJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Fibonacci polynomials - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Fibonacci</b> polynomials - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Fibonacci_polynomials", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Fibonacci</b>_polynomials", 
+            "snippet": "In mathematics, the Fibonacci polynomials are a polynomial sequence which can \nbe considered as a generalization of the Fibonacci numbers. The polynomials\u00a0...", 
+            "htmlSnippet": "In mathematics, the <b>Fibonacci</b> polynomials are a polynomial sequence which can <br>\nbe considered as a generalization of the <b>Fibonacci</b> numbers. The polynomials&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Fibonacci_polynomials", 
+            "cacheId": "5U-5rBj7Gr4J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Fibonacci search technique - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Fibonacci</b> search technique - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Fibonacci_search_technique", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Fibonacci</b>_search_technique", 
+            "snippet": "In computer science, the Fibonacci search technique is a method of searching a \nsorted array using a divide and conquer algorithm that narrows down possible\u00a0...", 
+            "htmlSnippet": "In computer science, the <b>Fibonacci</b> search technique is a method of searching a <br>\nsorted array using a divide and conquer algorithm that narrows down possible&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Fibonacci_search_technique", 
+            "cacheId": "vaQCfzApQuIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Fibonacci word - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Fibonacci</b> word - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Fibonacci_word", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Fibonacci</b>_word", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "278", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRpWG5mMwF7YGaCRDqFCf7jUFP60jROjFtPrz05z3HSakGh3U4hwP60INs", 
+                        "height": "181"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Fibonacci_word_cutting_sequence.png/350px-Fibonacci_word_cutting_sequence.png"
+                    }
+                ]
+            }, 
+            "snippet": "A Fibonacci word is a specific sequence of binary digits (or symbols from any two\n-letter alphabet). The Fibonacci word is formed by repeated concatenation in\u00a0...", 
+            "htmlSnippet": "A <b>Fibonacci</b> word is a specific sequence of binary digits (or symbols from any two<br>\n-letter alphabet). The <b>Fibonacci</b> word is formed by repeated concatenation in&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Fibonacci_word", 
+            "cacheId": "jSJKnA5HgvQJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Fibonacci", 
+                "safe": "off", 
+                "searchTerms": "Fibonacci", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "5640"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Fibonacci", 
+                "safe": "off", 
+                "searchTerms": "Fibonacci", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "5640"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.29", 
+        "formattedTotalResults": "5,640", 
+        "totalResults": "5640", 
+        "searchTime": 0.291863
+    }
+}

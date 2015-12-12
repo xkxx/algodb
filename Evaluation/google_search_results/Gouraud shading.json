@@ -1,0 +1,244 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Gouraud shading - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Gouraud shading</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Gouraud_shading", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Gouraud</b>_<b>shading</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "240", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvdVpsfSaozfb5jehXBH2eubtpC7vWaIXU11rrNshXY9hrhjp0oYVzReqN", 
+                        "height": "145"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Gouraudshading00.png/300px-Gouraudshading00.png"
+                    }
+                ]
+            }, 
+            "snippet": "Gouraud shading, named after Henri Gouraud, is an interpolation method used in \ncomputer graphics to produce continuous shading of surfaces represented by\u00a0...", 
+            "htmlSnippet": "<b>Gouraud shading</b>, named after Henri Gouraud, is an interpolation method used in <br>\ncomputer graphics to produce continuous shading of surfaces represented by&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Gouraud_shading", 
+            "cacheId": "XgWIqq_JZwMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Phong shading - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Phong <b>shading</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Phong_shading", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Phong_<b>shading</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "342", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSliNmttbQnin7agmXwTG_bNOsKupkrZxS5Fe1ZKJfOsCtfo0eyFtReW-p1", 
+                        "height": "147"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Phong-shading-sample.jpg/500px-Phong-shading-sample.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "Phong shading refers to an interpolation technique for surface shading in 3D ... \nThe Phong interpolation method works better than Gouraud shading when\u00a0...", 
+            "htmlSnippet": "Phong shading refers to an interpolation technique for surface shading in 3D ... <br>\nThe Phong interpolation method works better than <b>Gouraud shading</b> when&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Phong_shading", 
+            "cacheId": "wsq72q906p8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Henri Gouraud (computer scientist) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Henri <b>Gouraud</b> (computer scientist) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Henri_Gouraud_(computer_scientist)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Henri_<b>Gouraud</b>_(computer_scientist)", 
+            "pagemap": {
+                "hcard": [
+                    {
+                        "category": "Computer science", 
+                        "fn": "Henri Gouraud"
+                    }
+                ]
+            }, 
+            "snippet": "Henri Gouraud (born 1944) is a French computer scientist. He is the inventor of \nGouraud shading used in computer graphics. He is the great nephew of general\n\u00a0...", 
+            "htmlSnippet": "Henri Gouraud (born 1944) is a French computer scientist. He is the inventor of <br>\n<b>Gouraud shading</b> used in computer graphics. He is the great nephew of general<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Henri_Gouraud_(computer_scientist)", 
+            "cacheId": "77jOF4xSUtwJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Shading - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Shading</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Shading", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Shading</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "160", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQY12_9bwyc66m9T1MFqOy3iNuhDe3KCqnMjIy8g0A4LxePx6JDqLIJvxg", 
+                        "height": "160"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Gouraud_high.gif/200px-Gouraud_high.gif"
+                    }
+                ]
+            }, 
+            "snippet": "[edit]. Determine the normal at each polygon vertex; Apply an illumination model \nto each vertex to calculate the vertex intensity\u00a0...", 
+            "htmlSnippet": "[edit]. Determine the normal at each polygon vertex; Apply an illumination model <br>\nto each vertex to calculate the vertex intensity&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Shading", 
+            "cacheId": "M4tdL4BefXQJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Gouraud shading - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Gouraud shading</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3AGouraud_shading", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>Gouraud</b>_<b>shading</b>", 
+            "snippet": "the rotating sphere is great illustration of gouraud shading distinct features, so it \nsurely must stay 217.76.195.16 (talk) \u2014Preceding comment was added at 09:08,\n\u00a0...", 
+            "htmlSnippet": "the rotating sphere is great illustration of <b>gouraud shading</b> distinct features, so it <br>\nsurely must stay 217.76.195.16 (talk) \u2014Preceding comment was added at 09:08,<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3AGouraud_shading", 
+            "cacheId": "cEIFZLg67RYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Blinn\u2013Phong shading model - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Blinn\u2013Phong <b>shading</b> model - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Blinn\u2013Phong_shading_model", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Blinn\u2013Phong_<b>shading</b>_model", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRzEmnyKWdkAbWiM3vIBDmMtEcOwkyt-oPgDKV920kWtUioGSS7CjJyDA", 
+                        "height": "120"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Blinn_Vectors.svg/220px-Blinn_Vectors.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "Blinn\u2013Phong is the default shading model used in OpenGL and Direct3D's ... by \nGouraud shading by default, rather than the more computationally-expensive\u00a0...", 
+            "htmlSnippet": "Blinn\u2013Phong is the default shading model used in OpenGL and Direct3D&#39;s ... by <br>\n<b>Gouraud shading</b> by default, rather than the more computationally-expensive&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Blinn%E2%80%93Phong_shading_model", 
+            "cacheId": "eNbVdHRZRUAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "List of common shading algorithms - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "List of common <b>shading</b> algorithms - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/List_of_common_shading_algorithms", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/List_of_common_<b>shading</b>_algorithms", 
+            "snippet": "Below is a list of common shading algorithms: Interpolation techniques (can be ... \nFlat shading \u00b7 Gouraud shading \u00b7 Phong shading. Illumination models (can be\u00a0...", 
+            "htmlSnippet": "Below is a list of common shading algorithms: Interpolation techniques (can be ... <br>\nFlat shading &middot; <b>Gouraud shading</b> &middot; Phong shading. Illumination models (can be&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/List_of_common_shading_algorithms", 
+            "cacheId": "25lmIHv5pb8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Phong shading - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:Phong <b>shading</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3APhong_shading", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3APhong_<b>shading</b>", 
+            "snippet": "[edit]. While the benefits of Phong shading versus Gouraud shading are \nexplained in the article, it might be nice to also have\u00a0...", 
+            "htmlSnippet": "[edit]. While the benefits of Phong shading versus <b>Gouraud shading</b> are <br>\nexplained in the article, it might be nice to also have&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3APhong_shading", 
+            "cacheId": "JpZAlanLp_QJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Gouraud - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Gouraud</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Gouraud", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Gouraud</b>", 
+            "snippet": "Fran\u00e7ois Fauvel Gouraud (1808\u20131847) French expert on daguerreotypes; \nGeorge ... Gouraud shading, a shading algorithm invented by the computer \nscientist\u00a0...", 
+            "htmlSnippet": "Fran\u00e7ois Fauvel Gouraud (1808\u20131847) French expert on daguerreotypes; <br>\nGeorge ... <b>Gouraud shading</b>, a shading algorithm invented by the computer <br>\nscientist&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Gouraud", 
+            "cacheId": "NkeCukPfW7kJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Vertex normal - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Vertex normal - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Vertex_normal", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Vertex_normal", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS1i-97js-FNq8U6kk-XJmf51OrYtfupj941JY5HJFCXMR40_gL5_hRZSU", 
+                        "height": "162"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Vertex_normals.png/220px-Vertex_normals.png"
+                    }
+                ]
+            }, 
+            "snippet": "Vertex normals are used in Gouraud shading, Phong shading and other lighting \nmodels. Using vertex normals, much smoother shading than flat shading can be\u00a0...", 
+            "htmlSnippet": "Vertex normals are used in <b>Gouraud shading</b>, Phong shading and other lighting <br>\nmodels. Using vertex normals, much smoother shading than flat shading can be&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Vertex_normal", 
+            "cacheId": "K05x2QbCFkEJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Gouraud shading", 
+                "safe": "off", 
+                "searchTerms": "Gouraud shading", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "171"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Gouraud shading", 
+                "safe": "off", 
+                "searchTerms": "Gouraud shading", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "171"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.36", 
+        "formattedTotalResults": "171", 
+        "totalResults": "171", 
+        "searchTime": 0.358432
+    }
+}

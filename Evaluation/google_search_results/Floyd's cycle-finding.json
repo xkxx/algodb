@@ -1,0 +1,245 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Cycle detection - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Cycle detection</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Cycle_detection", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Cycle</b>_<b>detection</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "192", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSraBrRQPoLVmpJ_DGRL32QOm6htW2LrWgBIiTDb61g2aqA14g3ILfl2zs", 
+                        "height": "145"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Functional_graph.svg/240px-Functional_graph.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "Floyd's cycle-finding algorithm, also called the \"tortoise and the hare algorithm\", \nalluding to Aesop's fable of The Tortoise and the Hare, is a pointer algorithm that\n\u00a0...", 
+            "htmlSnippet": "<b>Floyd&#39;s cycle-finding</b> algorithm, also called the &quot;tortoise and the hare algorithm&quot;, <br>\nalluding to Aesop&#39;s fable of The Tortoise and the Hare, is a pointer algorithm that<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Cycle_detection", 
+            "cacheId": "XR6kDmkyTtkJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Pollard's rho algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Pollard&#39;s rho algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Pollard's_rho_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Pollard&#39;s_rho_algorithm", 
+            "snippet": "The \u03c1 algorithm is based on Floyd's cycle-finding algorithm and on the \nobservation that (as in the birthday problem) t random numbers x1, x2, ... , xt in \nthe range\u00a0...", 
+            "htmlSnippet": "The \u03c1 algorithm is based on <b>Floyd&#39;s cycle-finding</b> algorithm and on the <br>\nobservation that (as in the birthday problem) t random numbers x1, x2, ... , xt in <br>\nthe range&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Pollard's_rho_algorithm", 
+            "cacheId": "uKg6CQmQp7IJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Floyd\u2013Warshall algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Floyd</b>\u2013Warshall algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Floyd\u2013Warshall_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Floyd</b>\u2013Warshall_algorithm", 
+            "snippet": "\"Floyd's algorithm\" redirects here. For cycle detection, see Floyd's cycle-finding \nalgorithm. For computer graphics, see Floyd\u2013Steinberg dithering.", 
+            "htmlSnippet": "&quot;Floyd&#39;s algorithm&quot; redirects here. For cycle detection, see <b>Floyd&#39;s cycle-finding</b> <br>\nalgorithm. For computer graphics, see Floyd\u2013Steinberg dithering.", 
+            "link": "https://en.wikipedia.org/wiki/Floyd%E2%80%93Warshall_algorithm", 
+            "cacheId": "N7zr5n9KM3QJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Robert W. Floyd - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Robert W. <b>Floyd</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Robert_W._Floyd", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Robert_W._<b>Floyd</b>", 
+            "pagemap": {
+                "hcard": [
+                    {
+                        "bday": "1936-06-08", 
+                        "category": "Computer science", 
+                        "fn": "Robert W Floyd"
+                    }
+                ]
+            }, 
+            "snippet": "Floyd's cycle-finding algorithm. Notable awards, Turing Award ... Robert W (Bob) \nFloyd (June 8, 1936 \u2013 September 25, 2001) was an eminent computer scientist.", 
+            "htmlSnippet": "<b>Floyd&#39;s cycle-finding</b> algorithm. Notable awards, Turing Award ... Robert W (Bob) <br>\nFloyd (June 8, 1936 \u2013 September 25, 2001) was an eminent computer scientist.", 
+            "link": "https://en.wikipedia.org/wiki/Robert_W._Floyd", 
+            "cacheId": "vY_NTcg2jNAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Cycle detection - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Cycle detection</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3ACycle_detection", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>Cycle</b>_<b>detection</b>", 
+            "snippet": "...that in Floyd's algorithm for cycle detection, the tortoise and hare move at very ... \nWrite an article about Floyd's algorithm of finding cycles in a directed graph\u00a0...", 
+            "htmlSnippet": "...that in <b>Floyd&#39;s</b> algorithm for <b>cycle detection</b>, the tortoise and hare move at very ... <br>\nWrite an article about <b>Floyd&#39;s</b> algorithm of finding cycles in a directed graph&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3ACycle_detection", 
+            "cacheId": "Pog99AyaCz0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "MD5CRK - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "MD5CRK - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/MD5CRK", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/MD5CRK", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "256", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQLw4D4H-C-H7gsOwvbL7bfc1OT5ps3KW8_r2JT5DGi2V7x2zIYyvJIB1I", 
+                        "height": "197"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/MD5CRK-Pollard.svg/350px-MD5CRK-Pollard.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "A technique called Floyd's cycle-finding algorithm was used to try to find a \ncollision for MD5. The algorithm can be described by analogy with a random walk\n.", 
+            "htmlSnippet": "A technique called <b>Floyd&#39;s cycle-finding</b> algorithm was used to try to find a <br>\ncollision for MD5. The algorithm can be described by analogy with a random walk<br>\n.", 
+            "link": "https://en.wikipedia.org/wiki/MD5CRK", 
+            "cacheId": "8BWsCvaWIY0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "File:CycleFindingNew.png - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "File:CycleFindingNew.png - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/File:CycleFindingNew.png", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/File:<b>CycleFinding</b>New.png", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "188", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRDEH66ZysqyQQJZBx31ASXKNTKZyy7i42dKKPqZtX2x38ZpPLGl9SHjyEj", 
+                        "height": "210"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/a/a4/CycleFindingNew.png"
+                    }
+                ]
+            }, 
+            "snippet": "La originala priskribo estas: {{GFDL}} made by me, Decrypt3, for Floyd's cycle-\nfinding algorithm {| border=\"1\" ! date/time || username || edit summary |---- | 01:39,\n\u00a0...", 
+            "htmlSnippet": "La originala priskribo estas: {{GFDL}} made by me, Decrypt3, for <b>Floyd&#39;s cycle-</b><br>\n<b>finding</b> algorithm {| border=&quot;1&quot; ! date/time || username || edit summary |---- | 01:39,<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/File:CycleFindingNew.png", 
+            "cacheId": "QfYlafwuuJEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Pollard's rho algorithm for logarithms - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Pollard&#39;s rho algorithm for logarithms - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Pollard's_rho_algorithm_for_logarithms", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Pollard&#39;s_rho_algorithm_for_logarithms", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "140", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSaSbim2P33w77aID39-QCjxNIpXOiIO6VzgK6GRhI50K7mK2egYm5dFNM", 
+                        "height": "56"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/math/5/3/3/533af701acd39cb60d43185ff001a163.png"
+                    }
+                ]
+            }, 
+            "snippet": "A , and B the algorithm uses Floyd's cycle-finding algorithm to find a cycle in the \nsequence x_i = \\alpha^{a_i} \\beta^{b_i} , where the function f: x_i \\mapsto x_{i+1}\n\u00a0...", 
+            "htmlSnippet": "A , and B the algorithm uses <b>Floyd&#39;s cycle-finding</b> algorithm to find a cycle in the <br>\nsequence x_i = \\alpha^{a_i} \\beta^{b_i} , where the function f: x_i \\mapsto x_{i+1}<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Pollard's_rho_algorithm_for_logarithms", 
+            "cacheId": "rW5BGP7FSQoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "List of algorithms - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "List of algorithms - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/List_of_algorithms", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/List_of_algorithms", 
+            "snippet": "5.1.1 Error detection and correction; 5.1.2 Lossless compression algorithms; 5.1.\n3 ... Floyd's cycle-finding algorithm: finds a cycle in function value iterations\u00a0...", 
+            "htmlSnippet": "5.1.1 Error detection and correction; 5.1.2 Lossless compression algorithms; 5.1.<br>\n3 ... <b>Floyd&#39;s cycle-finding</b> algorithm: finds a cycle in function value iterations&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/List_of_algorithms", 
+            "cacheId": "iXsrHv5PMNcJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Bellman\u2013Ford algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Bellman\u2013Ford algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Bellman\u2013Ford_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Bellman\u2013Ford_algorithm", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVLoDrUYBsjQddwnoIkU2ja9Kk9Qq0nsiybgYQcDEMMEvBx3h_vZAlVvw", 
+                        "height": "188"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Bellman-Ford_worst-case_example.svg/220px-Bellman-Ford_worst-case_example.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "If a graph contains a \"negative cycle\" (i.e. a cycle whose edges sum to a ... 1 \nAlgorithm; 2 Proof of correctness; 3 Finding negative cycles; 4 Applications in\u00a0...", 
+            "htmlSnippet": "If a graph contains a &quot;negative <b>cycle</b>&quot; (i.e. a <b>cycle</b> whose edges sum to a ... 1 <br>\nAlgorithm; 2 Proof of correctness; 3 <b>Finding</b> negative <b>cycles</b>; 4 Applications in&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Bellman%E2%80%93Ford_algorithm", 
+            "cacheId": "HGn7_oMfMCkJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Floyd's cycle-finding", 
+                "safe": "off", 
+                "searchTerms": "Floyd's cycle-finding", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "1010"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Floyd's cycle-finding", 
+                "safe": "off", 
+                "searchTerms": "Floyd's cycle-finding", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "1010"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.28", 
+        "formattedTotalResults": "1,010", 
+        "totalResults": "1010", 
+        "searchTime": 0.275432
+    }
+}

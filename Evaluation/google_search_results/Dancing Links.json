@@ -1,0 +1,208 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Dancing Links - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Dancing Links</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Dancing_Links", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Dancing</b>_<b>Links</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQPBYUmWqoFKdRTil7k2xWo0maIR3NiZNndUgcglF-PxwGQansXNkx8_FPi", 
+                        "height": "176"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Dancing_links_Quantumino_puzzle.ogv/220px--Dancing_links_Quantumino_puzzle.ogv.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "In computer science, dancing links is the technique suggested by Donald Knuth \nto efficiently implement his Algorithm X. Algorithm X is a recursive,\u00a0...", 
+            "htmlSnippet": "In computer science, <b>dancing links</b> is the technique suggested by Donald Knuth <br>\nto efficiently implement his Algorithm X. Algorithm X is a recursive,&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Dancing_Links", 
+            "cacheId": "rdzX1QMrlqoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Knuth's Algorithm X - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Knuth&#39;s Algorithm X - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Knuth's_Algorithm_X", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Knuth&#39;s_Algorithm_X", 
+            "snippet": "\"Algorithm X\" is the name Donald Knuth used in his paper \"Dancing Links\" to \nrefer to \"the most obvious trial-and-error approach\" for finding all solutions to the\n\u00a0...", 
+            "htmlSnippet": "&quot;Algorithm X&quot; is the name Donald Knuth used in his paper &quot;<b>Dancing Links</b>&quot; to <br>\nrefer to &quot;the most obvious trial-and-error approach&quot; for finding all solutions to the<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Knuth's_Algorithm_X", 
+            "cacheId": "oMjaBHmnFy0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Dancing Links - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Dancing Links</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3ADancing_Links", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>Dancing</b>_<b>Links</b>", 
+            "snippet": "Linked list is the general name for a programming practice of creating nodes that \nare linked together, while dancing links is a method of iterating through the\u00a0...", 
+            "htmlSnippet": "Linked list is the general name for a programming practice of creating nodes that <br>\nare linked together, while <b>dancing links</b> is a method of iterating through the&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3ADancing_Links", 
+            "cacheId": "Rh74a_4YSpcJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "File talk:Dancing links Quantumino puzzle.ogv - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "File talk:<b>Dancing links</b> Quantumino puzzle.ogv - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../File_talk:Dancing_links_Quantumino_puzzle.ogv", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../File_talk:<b>Dancing</b>_<b>links</b>_Quantumino_puzzle.ogv", 
+            "snippet": "File talk:Dancing links Quantumino puzzle.ogv. From Wikipedia, the free \nencyclopedia. Jump to: navigation, search. Jerky camera movement is distracting\n.", 
+            "htmlSnippet": "File talk:<b>Dancing links</b> Quantumino puzzle.ogv. From Wikipedia, the free <br>\nencyclopedia. Jump to: navigation, search. Jerky camera movement is distracting<br>\n.", 
+            "link": "https://en.wikipedia.org/wiki/File_talk:Dancing_links_Quantumino_puzzle.ogv", 
+            "cacheId": "895hrl2IRBgJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Exact cover - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Exact cover - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Exact_cover", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Exact_cover", 
+            "snippet": "DLX is the name given to Algorithm X when it is implemented efficiently using \nDonald Knuth's Dancing Links technique on a computer. The standard exact \ncover\u00a0...", 
+            "htmlSnippet": "DLX is the name given to Algorithm X when it is implemented efficiently using <br>\nDonald Knuth&#39;s <b>Dancing Links</b> technique on a computer. The standard exact <br>\ncover&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Exact_cover", 
+            "cacheId": "pMJfKHTBkzEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "The Art of Computer Programming - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "The Art of Computer Programming - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/The_Art_of_Computer_Programming", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/The_Art_of_Computer_Programming", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT1su7KRi_nNnCZAFNaSbxiH0_aOqfi6gX0AhUv3KtpGQcI3GZw3FVRdbA", 
+                        "height": "248"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/6/62/ArtOfComputerProgramming.jpg/220px-ArtOfComputerProgramming.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "Dancing links; 7.2.2.2. Satisfiability. 7.2.3. Generating inequivalent patterns. 7.3. \nShortest paths; 7.4. Graph algorithms. 7.4.1. Components and traversal; 7.4.2.", 
+            "htmlSnippet": "<b>Dancing links</b>; 7.2.2.2. Satisfiability. 7.2.3. Generating inequivalent patterns. 7.3. <br>\nShortest paths; 7.4. Graph algorithms. 7.4.1. Components and traversal; 7.4.2.", 
+            "link": "https://en.wikipedia.org/wiki/The_Art_of_Computer_Programming", 
+            "cacheId": "lUDOmhetqa8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Knuth's Algorithm X - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:Knuth&#39;s Algorithm X - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "en.wikipedia.org/wiki/Talk%3AKnuth's_Algorithm_X", 
+            "htmlFormattedUrl": "en.wikipedia.org/wiki/Talk%3AKnuth&#39;s_Algorithm_X", 
+            "snippet": "2 Reorganize Exact cover, Algorithm X and Dancing Links articles? 3 Algorithm X \nis the wrong name; 4 Algorithm description slightly misleading/inaccurate?", 
+            "htmlSnippet": "2 Reorganize Exact cover, Algorithm X and <b>Dancing Links</b> articles? 3 Algorithm X <br>\nis the wrong name; 4 Algorithm description slightly misleading/inaccurate?", 
+            "link": "http://en.wikipedia.org/wiki/Talk%3AKnuth's_Algorithm_X", 
+            "cacheId": "eVMiYAcBG6IJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Come Dancing - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Come <b>Dancing</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Come_Dancing", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Come_<b>Dancing</b>", 
+            "snippet": "... see Come Dancing (song). For the Goodies episode, see Come Dancing (The \nGoodies). ... Edit links. This page was last modified on 15 March 2015, at 00:21.", 
+            "htmlSnippet": "... see Come <b>Dancing</b> (song). For the Goodies episode, see Come <b>Dancing</b> (The <br>\nGoodies). ... Edit <b>links</b>. This page was last modified on 15 March 2015, at 00:21.", 
+            "link": "https://en.wikipedia.org/wiki/Come_Dancing", 
+            "cacheId": "Y9KM7XQ_QXgJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Dancing tree - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Dancing</b> tree - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Dancing_tree", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Dancing</b>_tree", 
+            "snippet": "Dancing tree. From Wikipedia, the free ... In computer science, a dancing tree is a \ntree data structure similar to B+ trees. It was invented by ... External links[edit].", 
+            "htmlSnippet": "<b>Dancing</b> tree. From Wikipedia, the free ... In computer science, a <b>dancing</b> tree is a <br>\ntree data structure similar to B+ trees. It was invented by ... External <b>links</b>[edit].", 
+            "link": "https://en.wikipedia.org/wiki/Dancing_tree", 
+            "cacheId": "huIaOYrnLy0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Belly dance - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Belly dance - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Belly_dance", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Belly_dance", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTkGPdInwNnA93w8aovGhcdNksGQHkErthb-W-8HcHXY7WTKjoedN3Ruo-Z", 
+                        "height": "262"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/BellyDancerMarrakech.jpg/220px-BellyDancerMarrakech.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "... 5.3 Costume in Turkey. 6 Health and belly dancing; 7 Notable practitioners; 8 \nBelly dancing in popular culture; 9 See also; 10 References; 11 External links\u00a0...", 
+            "htmlSnippet": "... 5.3 Costume in Turkey. 6 Health and belly <b>dancing</b>; 7 Notable practitioners; 8 <br>\nBelly <b>dancing</b> in popular culture; 9 See also; 10 References; 11 External <b>links</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Belly_dance", 
+            "cacheId": "uPPas8psuMkJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Dancing Links", 
+                "safe": "off", 
+                "searchTerms": "Dancing Links", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "3330000"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Dancing Links", 
+                "safe": "off", 
+                "searchTerms": "Dancing Links", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "3330000"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.31", 
+        "formattedTotalResults": "3,330,000", 
+        "totalResults": "3330000", 
+        "searchTime": 0.314582
+    }
+}

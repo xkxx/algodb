@@ -1,0 +1,208 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Pigeonhole sort - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Pigeonhole sort</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Pigeonhole_sort", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Pigeonhole</b>_<b>sort</b>", 
+            "snippet": "Pigeonhole sorting is a sorting algorithm that is suitable for sorting lists of \nelements where the number of elements (n) and the number of possible key \nvalues (N)\u00a0...", 
+            "htmlSnippet": "<b>Pigeonhole sorting</b> is a sorting algorithm that is suitable for sorting lists of <br>\nelements where the number of elements (n) and the number of possible key <br>\nvalues (N)&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Pigeonhole_sort", 
+            "cacheId": "v92WroQSqvcJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Bucket sort - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Bucket <b>sort</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Bucket_sort", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Bucket_<b>sort</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "248", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTWviVJFEkvbIeYW0EyIuTbtOoINrOCeR-GuORaYp_7RMsYAPcywcF1-w", 
+                        "height": "104"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/6/61/Bucket_sort_1.png"
+                    }
+                ]
+            }, 
+            "snippet": "It is a distribution sort, and is a cousin of radix sort in the most to least significant \ndigit flavour. Bucket sort is a generalization of pigeonhole sort. Bucket sort can\u00a0...", 
+            "htmlSnippet": "It is a distribution sort, and is a cousin of radix sort in the most to least significant <br>\ndigit flavour. Bucket sort is a generalization of <b>pigeonhole sort</b>. Bucket sort can&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Bucket_sort", 
+            "cacheId": "iXo-5ffR8ikJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Pigeonholing - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Pigeonholing - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Pigeonholing", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Pigeonholing", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMDemk_lk5uWvd-okG86FhKkKjo3BfN4LNWgZtnSghZaL8yR_inmDVml4", 
+                        "height": "142"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/TooManyPigeons.jpg/220px-TooManyPigeons.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "It has been suggested that this article be merged with Pigeonhole principle. (\nDiscuss) ... Example: attempting to sort people into 'introverted' and 'extroverted'.", 
+            "htmlSnippet": "It has been suggested that this article be merged with <b>Pigeonhole</b> principle. (<br>\nDiscuss) ... Example: attempting to <b>sort</b> people into &#39;introverted&#39; and &#39;extroverted&#39;.", 
+            "link": "https://en.wikipedia.org/wiki/Pigeonholing", 
+            "cacheId": "xEZOg_N4IxoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Pigeonhole - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Pigeonhole</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Pigeonhole", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Pigeonhole</b>", 
+            "snippet": "Pigeonholes, nesting spaces formed in a dovecote (also spelt dovecot or doocot) \n... Pigeonhole principle, a mathematical principle; Pigeonhole sort, a sorting\u00a0...", 
+            "htmlSnippet": "Pigeonholes, nesting spaces formed in a dovecote (also spelt dovecot or doocot) <br>\n... Pigeonhole principle, a mathematical principle; <b>Pigeonhole sort</b>, a sorting&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Pigeonhole", 
+            "cacheId": "b6MD_h_YzmEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Bead sort - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Bead <b>sort</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Bead_sort", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Bead_<b>sort</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRcrOsF_yofafMsZzR5dAceg0UZuOFVK41_KB9ow8goxoTWBxw7aiSIwOA", 
+                        "height": "139"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BeadSort-Figure1.svg/220px-BeadSort-Figure1.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "Bead sort, also called gravity sort is a natural sorting algorithm, developed by \nJoshua ... Like the Pigeonhole sort, bead sort is unusual in that in worst case it \ncan\u00a0...", 
+            "htmlSnippet": "Bead sort, also called gravity sort is a natural sorting algorithm, developed by <br>\nJoshua ... Like the <b>Pigeonhole sort</b>, bead sort is unusual in that in worst case it <br>\ncan&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Bead_sort", 
+            "cacheId": "HcQVc8ju5SYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Counting sort - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Counting <b>sort</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Counting_sort", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Counting_<b>sort</b>", 
+            "snippet": "In computer science, counting sort is an algorithm for sorting a collection of \nobjects according to keys that are small integers; that is, it is an integer sorting\u00a0...", 
+            "htmlSnippet": "In computer science, counting <b>sort</b> is an algorithm for <b>sorting</b> a collection of <br>\nobjects according to keys that are small integers; that is, it is an integer <b>sorting</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Counting_sort", 
+            "cacheId": "BUSvqypY3wQJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Template:Sorting - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Template:<b>Sorting</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Template:Sorting", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Template:<b>Sorting</b>", 
+            "snippet": "Template:Sorting ... Bead sort \u00b7 Bucket sort \u00b7 Burstsort \u00b7 Counting sort \u00b7 Pigeonhole \nsort \u00b7 Proxmap sort \u00b7 Radix sort \u00b7 Flashsort ... apart from its titlebar \u2013 e.g. {{Sorting |\nstate=collapsed}}: |state=expanded to show the template in its expanded state,\u00a0...", 
+            "htmlSnippet": "Template:Sorting ... Bead sort &middot; Bucket sort &middot; Burstsort &middot; Counting sort &middot; <b>Pigeonhole</b> <br>\n<b>sort</b> &middot; Proxmap sort &middot; Radix sort &middot; Flashsort ... apart from its titlebar \u2013 e.g. {{Sorting |<br>\nstate=collapsed}}: |state=expanded to show the template in its expanded state,&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Template:Sorting", 
+            "cacheId": "WVxdu9IzZP0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Radix sort - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Radix <b>sort</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Radix_sort", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Radix_<b>sort</b>", 
+            "snippet": "See the counting sort and pigeonhole sort articles. Other MSD radix sorts use \nmultiple levels of buckets, which form a trie or a path in a trie. A postman's sort\u00a0...", 
+            "htmlSnippet": "See the counting sort and <b>pigeonhole sort</b> articles. Other MSD radix sorts use <br>\nmultiple levels of buckets, which form a trie or a path in a trie. A postman&#39;s sort&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Radix_sort", 
+            "cacheId": "MWLYmdndgUAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Category:Stable sorts - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Category:Stable sorts - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Category:Stable_sorts", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Category:Stable_<b>sort</b>s", 
+            "snippet": "Stable sorting algorithms maintain the relative order of records with equal keys (\ni.e. values). That is, a sorting algorithm is ... P. Pigeonhole sort \u00b7 Proxmap sort\u00a0...", 
+            "htmlSnippet": "Stable sorting algorithms maintain the relative order of records with equal keys (<br>\ni.e. values). That is, a sorting algorithm is ... P. <b>Pigeonhole sort</b> &middot; Proxmap sort&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Category:Stable_sorts", 
+            "cacheId": "d0KA44qzn8AJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Oscillating merge sort - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Oscillating merge <b>sort</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Oscillating_merge_sort", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Oscillating_merge_<b>sort</b>", 
+            "snippet": "Oscillating merge sort or oscillating sort is a variation of merge sort used with \ntape drives that can read backwards. Instead of doing a complete distribution as \nis\u00a0...", 
+            "htmlSnippet": "Oscillating merge <b>sort</b> or oscillating <b>sort</b> is a variation of merge <b>sort</b> used with <br>\ntape drives that can read backwards. Instead of doing a complete distribution as <br>\nis&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Oscillating_merge_sort", 
+            "cacheId": "6eQpw8LMclcJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Pigeonhole sort", 
+                "safe": "off", 
+                "searchTerms": "Pigeonhole sort", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "646"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Pigeonhole sort", 
+                "safe": "off", 
+                "searchTerms": "Pigeonhole sort", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "646"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.27", 
+        "formattedTotalResults": "646", 
+        "totalResults": "646", 
+        "searchTime": 0.27192
+    }
+}

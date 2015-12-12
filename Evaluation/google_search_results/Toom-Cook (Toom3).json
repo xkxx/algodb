@@ -1,0 +1,155 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Toom\u2013Cook multiplication - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Toom</b>\u2013<b>Cook</b> multiplication - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Toom\u2013Cook_multiplication", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Toom</b>\u2013<b>Cook</b>_multiplication", 
+            "snippet": "Toom\u2013Cook, sometimes known as Toom-3, named after Andrei Toom, who \nintroduced the new algorithm with its low complexity, and Stephen Cook, who\u00a0...", 
+            "htmlSnippet": "<b>Toom</b>\u2013<b>Cook</b>, sometimes known as <b>Toom-3</b>, named after Andrei Toom, who <br>\nintroduced the new algorithm with its low complexity, and Stephen Cook, who&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Toom%E2%80%93Cook_multiplication", 
+            "cacheId": "Gi5b_UP5_0kJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Toom\u2013Cook multiplication - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Toom</b>\u2013<b>Cook</b> multiplication - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3AToom-Cook_multiplication", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>Toom</b>-<b>Cook</b>_multiplication", 
+            "snippet": "I'd like to propose renaming this article to \"Toom-Cook multiplication\" and \ngeneralize it a bit. ... Still need someone to write a working example for Toom-3.", 
+            "htmlSnippet": "I&#39;d like to propose renaming this article to &quot;<b>Toom</b>-<b>Cook</b> multiplication&quot; and <br>\ngeneralize it a bit. ... Still need someone to write a working example for <b>Toom-3</b>.", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3AToom-Cook_multiplication", 
+            "cacheId": "wDRaLkSyjakJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Multiplication algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Multiplication algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Multiplication_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Multiplication_algorithm", 
+            "snippet": "Another method of multiplication is called Toom\u2013Cook or Toom-3. ... The Toom\u2013\nCook method is one of the generalizations of the Karatsuba method. A three-way\n\u00a0...", 
+            "htmlSnippet": "Another method of multiplication is called <b>Toom</b>\u2013<b>Cook</b> or <b>Toom-3</b>. ... The <b>Toom</b>\u2013<br>\n<b>Cook</b> method is one of the generalizations of the Karatsuba method. A three-way<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Multiplication_algorithm", 
+            "cacheId": "dwLGhItDFBEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Karatsuba algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Karatsuba algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Karatsuba_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Karatsuba_algorithm", 
+            "snippet": "The Toom\u2013Cook algorithm is a faster generalization of Karatsuba's method, and \nthe Sch\u00f6nhage\u2013Strassen algorithm is even faster, for sufficiently large n.", 
+            "htmlSnippet": "The <b>Toom</b>\u2013<b>Cook</b> algorithm is a faster generalization of Karatsuba&#39;s method, and <br>\nthe Sch\u00f6nhage\u2013Strassen algorithm is even faster, for sufficiently large n.", 
+            "link": "https://en.wikipedia.org/wiki/Karatsuba_algorithm", 
+            "cacheId": "1lsSGEoHzLMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Tom Cook - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Tom Cook</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Tom_Cook", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Tom</b>_<b>Cook</b>", 
+            "snippet": "Thomas John \"Tommy\" Cook (May 7, 1907 \u2013 October 2, 1961) was a professional \nCanadian ice hockey forward who played 348 games in the National Hockey\u00a0...", 
+            "htmlSnippet": "Thomas John &quot;Tommy&quot; <b>Cook</b> (May 7, 1907 \u2013 October 2, 1961) was a professional <br>\nCanadian ice hockey forward who played 348 games in the National Hockey&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Tom_Cook", 
+            "cacheId": "t2ybgsu2xlEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "List of algorithms - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "List of algorithms - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/List_of_algorithms", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/List_of_algorithms", 
+            "snippet": "Karatsuba algorithm \u00b7 Sch\u00f6nhage\u2013Strassen algorithm \u00b7 Toom\u2013Cook ... for large \nintegers; Toom\u2013Cook multiplication: (Toom3) a multiplication algorithm for large\u00a0...", 
+            "htmlSnippet": "Karatsuba algorithm &middot; Sch\u00f6nhage\u2013Strassen algorithm &middot; <b>Toom</b>\u2013<b>Cook</b> ... for large <br>\nintegers; <b>Toom</b>\u2013<b>Cook</b> multiplication: (<b>Toom3</b>) a multiplication algorithm for large&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/List_of_algorithms", 
+            "cacheId": "iXsrHv5PMNcJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Thomas Cook - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Thomas <b>Cook</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Thomas_Cook", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Thomas_<b>Cook</b>", 
+            "pagemap": {
+                "person": [
+                    {
+                        "org": "Thomas Cook & Son"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR2SqYDdoYBOGAc-46idmWSgltHh7PMdPYllO2s1S3Ae-8D7i357eqefKg", 
+                        "height": "264"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Thomas.Cook.jpg/220px-Thomas.Cook.jpg"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "bday": "1808-11-22", 
+                        "category": "British", 
+                        "fn": "Thomas Cook"
+                    }
+                ]
+            }, 
+            "snippet": "Thomas Cook (22 November 1808 \u2013 18 July 1892) of Melbourne, Derbyshire, \nEngland founded the travel agency Thomas Cook & Son (popularly nicknamed\u00a0...", 
+            "htmlSnippet": "Thomas <b>Cook</b> (22 November 1808 \u2013 18 July 1892) of Melbourne, Derbyshire, <br>\nEngland founded the travel agency Thomas <b>Cook</b> &amp; Son (popularly nicknamed&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Thomas_Cook", 
+            "cacheId": "njkwBTOEpBkJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Wikipedia:ACF Regionals answers/07 - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Wikipedia:ACF Regionals answers/07 - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Wikipedia:ACF_Regionals.../07", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Wikipedia:ACF_Regionals.../07", 
+            "snippet": "Her son Chambers goes by the name \"Tom\", and her master's son Tom now goes \n.... [161] \u00b7 Toom-Cook (accept Toom-3) --> This generalization of the Karatsuba\u00a0...", 
+            "htmlSnippet": "Her son Chambers goes by the name &quot;Tom&quot;, and her master&#39;s son Tom now goes <br>\n.... [161] &middot; <b>Toom</b>-<b>Cook</b> (accept <b>Toom-3</b>) --&gt; This generalization of the Karatsuba&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Wikipedia:ACF_Regionals_answers/07", 
+            "cacheId": "6LRdGKchEEsJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 8, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Toom-Cook (Toom3)", 
+                "safe": "off", 
+                "searchTerms": "Toom-Cook (Toom3)", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "8"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.25", 
+        "formattedTotalResults": "8", 
+        "totalResults": "8", 
+        "searchTime": 0.254407
+    }
+}

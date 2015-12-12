@@ -1,0 +1,278 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Tree sort - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Tree sort</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Tree_sort", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Tree</b>_<b>sort</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "160", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTO0w-nQbDQe2oRZhra_Rs8Ql_-0_imE7BqmPdDsEZ0-KZU2m_naAqhOCPa", 
+                        "height": "244"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Binary_tree_sort(2).png/200px-Binary_tree_sort(2).png"
+                    }
+                ]
+            }, 
+            "snippet": "A tree sort is a sort algorithm that builds a binary search tree from the keys to be \nsorted, and then traverses the tree (in-order) so that the keys come out in sorted\u00a0...", 
+            "htmlSnippet": "A <b>tree sort</b> is a <b>sort</b> algorithm that builds a <b>binary</b> search <b>tree</b> from the keys to be <br>\n<b>sorted</b>, and then traverses the <b>tree</b> (in-order) so that the keys come out in <b>sorted</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Tree_sort", 
+            "cacheId": "YKFYzckZPAEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Binary search tree - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Binary</b> search <b>tree</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Binary_search_tree", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Binary</b>_search_<b>tree</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "160", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTnLIcOEBVEvzDSj028pdrlWii9bLhQ2IeVq9YZbaxtstuBjF1PFa5bhu4", 
+                        "height": "133"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Binary_search_tree.svg/200px-Binary_search_tree.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "Sort[edit]. Main article: Tree sort. A binary search tree can be used to implement a \nsimple sorting algorithm. Similar to heapsort, we insert all\u00a0...", 
+            "htmlSnippet": "<b>Sort</b>[edit]. Main article: <b>Tree sort</b>. A <b>binary</b> search <b>tree</b> can be used to implement a <br>\nsimple <b>sorting</b> algorithm. Similar to heapsort, we insert all&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Binary_search_tree", 
+            "cacheId": "t3LqHv2db0wJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Self-balancing binary search tree - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Self-balancing <b>binary</b> search <b>tree</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Self-balancing_binary_search_tree", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Self-balancing_<b>binary</b>_search_<b>tree</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "200", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSuEhMCvAhPGMFlJ1JJumOMVpYued2ABSO_8X3ihZ_hyIxVFRbo04kNPqM", 
+                        "height": "200"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Unbalanced_binary_tree.svg/251px-Unbalanced_binary_tree.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "A binary tree with height h can contain at most 2+2+\u00b7\u00b7\u00b7+2 = 2\u22121 nodes. ... For \nexample, if binary tree sort is implemented with a self-balanced BST, we have a \nvery\u00a0...", 
+            "htmlSnippet": "A binary tree with height h can contain at most 2+2+\u00b7\u00b7\u00b7+2 = 2\u22121 nodes. ... For <br>\nexample, if <b>binary tree sort</b> is implemented with a self-balanced BST, we have a <br>\nvery&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Self-balancing_binary_search_tree", 
+            "cacheId": "Lvk38SyMqlEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Sorting algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Sorting</b> algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Sorting_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Sorting</b>_algorithm", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "284", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcw9pl3Q9PmPu7dU3Xk3DdbeYqZIQCzyyRfukXqYXWdm69y04uEeRiB3br", 
+                        "height": "178"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Sorting_playing_cards_using_stable_sort.svg/400px-Sorting_playing_cards_using_stable_sort.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "Efficient sorting is important for optimizing the use of other algorithms (such as \nsearch and .... Yes, Insertion, When using a self-balancing binary search tree.", 
+            "htmlSnippet": "Efficient <b>sorting</b> is important for optimizing the use of other algorithms (such as <br>\nsearch and .... Yes, Insertion, When using a self-balancing <b>binary</b> search <b>tree</b>.", 
+            "link": "https://en.wikipedia.org/wiki/Sorting_algorithm", 
+            "cacheId": "CyeqKExhw84J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Cartesian tree - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Cartesian <b>tree</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Cartesian_tree", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Cartesian_<b>tree</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "192", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQNNQWO2AMKMuadfvjwi-KGPTzkiEtACo_8OgYYGqnDmulJWS9apSUUlzrM", 
+                        "height": "184"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Cartesian_tree.svg/240px-Cartesian_tree.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "In computer science, a Cartesian tree is a binary tree derived from a sequence of \n... common ancestors; 3 Treaps; 4 Efficient construction; 5 Application in sorting\u00a0...", 
+            "htmlSnippet": "In computer science, a Cartesian tree is a <b>binary tree</b> derived from a sequence of <br>\n... common ancestors; 3 Treaps; 4 Efficient construction; 5 Application in <b>sorting</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Cartesian_tree", 
+            "cacheId": "_qTXF7o7yx8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Heapsort - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Heapsort - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Heapsort", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Heap<b>sort</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "224", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ2oLMliBb_2ZN4BfjN6vjRl-EKR-rnFLD_x8z5dboL_9Fc3pJkI_zq4-0", 
+                        "height": "171"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Sorting_heapsort_anim.gif"
+                    }
+                ]
+            }, 
+            "snippet": "Heapsort can be thought of as an improved selection sort: like that algorithm, ... \nThe heap is often placed in an array with the layout of a complete binary tree.", 
+            "htmlSnippet": "Heapsort can be thought of as an improved selection <b>sort</b>: like that algorithm, ... <br>\nThe heap is often placed in an array with the layout of a complete <b>binary tree</b>.", 
+            "link": "https://en.wikipedia.org/wiki/Heapsort", 
+            "cacheId": "xsQCCGTlloEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "B-tree - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "B-<b>tree</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/B-tree", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/B-<b>tree</b>", 
+            "snippet": "A binary search of a sorted table with N records, for example, can be done in \nroughly \\lceil \\log_2 N \\rceil\u00a0...", 
+            "htmlSnippet": "A <b>binary</b> search of a <b>sorted</b> table with N records, for example, can be done in <br>\nroughly \\lceil \\log_2 N \\rceil&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/B-tree", 
+            "cacheId": "PHGmSSz3DKIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Red\u2013black tree - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Red\u2013black <b>tree</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Red\u2013black_tree", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Red\u2013black_<b>tree</b>", 
+            "snippet": "A red\u2013black tree is a kind of self-balancing binary search tree. ...... Parallel \nalgorithms for constructing red\u2013black trees from sorted lists of items can run in\u00a0...", 
+            "htmlSnippet": "A red\u2013black <b>tree</b> is a kind of self-balancing <b>binary</b> search <b>tree</b>. ...... Parallel <br>\nalgorithms for constructing red\u2013black <b>trees</b> from <b>sorted</b> lists of items can run in&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Red%E2%80%93black_tree", 
+            "cacheId": "vj4atI6QuQUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "AVL tree - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "AVL <b>tree</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/AVL_tree", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/AVL_<b>tree</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "200", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRPNJ4SRuQkb1T_OVbkj7kRwSK0U603r1uC_xBNL9K-c0tF_yMUeraU", 
+                        "height": "89"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/AVLtreef.svg/251px-AVLtreef.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "Similar to red-black trees, AVL trees are height-balanced. .... Deleting a node with \ntwo children from a binary search tree using the in-order predecessor .... The Art \nof Computer Programming, Volume 3: Sorting and Searching, Third Edition.", 
+            "htmlSnippet": "Similar to red-black <b>trees</b>, AVL <b>trees</b> are height-balanced. .... Deleting a node with <br>\ntwo children from a <b>binary</b> search <b>tree</b> using the in-order predecessor .... The Art <br>\nof Computer Programming, Volume 3: <b>Sorting</b> and Searching, Third Edition.", 
+            "link": "https://en.wikipedia.org/wiki/AVL_tree", 
+            "cacheId": "1t7pvMmcadUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "k-d tree - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "k-d <b>tree</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/K-d_tree", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/K-d_<b>tree</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "200", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYmNbVdVu-7nedl0YlW6P_m0oEVatDToGkxOLdOadhF6QqgNT-uIse1zY", 
+                        "height": "190"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/3dtree.png/250px-3dtree.png"
+                    }
+                ]
+            }, 
+            "snippet": "The k-d tree is a binary tree in which every node is a k-dimensional point. ... uses \na median-finding sort to construct a balanced k-d tree containing those points.", 
+            "htmlSnippet": "The k-d tree is a <b>binary tree</b> in which every node is a k-dimensional point. ... uses <br>\na median-finding <b>sort</b> to construct a balanced k-d tree containing those points.", 
+            "link": "https://en.wikipedia.org/wiki/K-d_tree", 
+            "cacheId": "cGs91BTGy38J"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Binary tree sort", 
+                "safe": "off", 
+                "searchTerms": "Binary tree sort", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "1600"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Binary tree sort", 
+                "safe": "off", 
+                "searchTerms": "Binary tree sort", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "1600"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.32", 
+        "formattedTotalResults": "1,600", 
+        "totalResults": "1600", 
+        "searchTime": 0.3153
+    }
+}

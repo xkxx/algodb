@@ -1,0 +1,198 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Canonical LR parser - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Canonical LR parser</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Canonical_LR_parser", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Canonical</b>_<b>LR</b>_<b>parser</b>", 
+            "snippet": "History[edit]. In 1965 Donald Knuth invented the LR(k) parser (Left to right, \nRightmost derivation parser) a type of shift-reduce parser, as a\u00a0...", 
+            "htmlSnippet": "History[edit]. In 1965 Donald Knuth invented the <b>LR</b>(k) <b>parser</b> (Left to right, <br>\nRightmost derivation <b>parser</b>) a type of shift-reduce <b>parser</b>, as a&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Canonical_LR_parser", 
+            "cacheId": "icXDU8cV7rcJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "LR parser - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>LR parser</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/LR_parser", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>LR</b>_<b>parser</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "276", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDMUNAznZHtoffzdTu4yi6ZBZ8_U84d4JgLkBbTRgBAAZw8YQ3P5PTuWJe", 
+                        "height": "183"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/d/db/Bottom-Up_Parser.svg/377px-Bottom-Up_Parser.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "The LALR parsers and the SLR parsers are common variants of LR parsers. ..... \nCanonical LR parsers handle even more grammars, but use many more states\u00a0...", 
+            "htmlSnippet": "The <b>LALR parsers</b> and the SLR <b>parsers</b> are common variants of LR <b>parsers</b>. ..... <br>\n<b>Canonical LR parsers</b> handle even more grammars, but use many more states&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/LR_parser", 
+            "cacheId": "xGNwf8QewG4J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "LALR parser generator - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>LALR parser</b> generator - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/LALR_parser_generator", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>LALR</b>_<b>parser</b>_generator", 
+            "snippet": "LR(1) grammars are more powerful than LALR(1), however, canonical LR(1) \nparsers can be extremely large in size and are considered not practical. Minimal\n\u00a0...", 
+            "htmlSnippet": "<b>LR</b>(<b>1</b>) grammars are more powerful than <b>LALR</b>(1), however, <b>canonical LR</b>(<b>1</b>) <br>\n<b>parsers</b> can be extremely large in size and are considered not practical. Minimal<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/LALR_parser_generator", 
+            "cacheId": "J4oFn3MCy0YJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "LALR parser - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>LALR parser</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/LALR_parser", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>LALR</b>_<b>parser</b>", 
+            "snippet": "In computer science, an LALR parser or Look-Ahead LR parser is a simplified \nversion of a canonical LR parser, to parse (separate and analyze) a text \naccording\u00a0...", 
+            "htmlSnippet": "In computer science, an <b>LALR parser</b> or Look-Ahead LR <b>parser</b> is a simplified <br>\nversion of a <b>canonical LR parser</b>, to <b>parse</b> (separate and analyze) a text <br>\naccording&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/LALR_parser", 
+            "cacheId": "pNOH1AXREkYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Simple LR parser - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Simple <b>LR parser</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Simple_LR_parser", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Simple_<b>LR</b>_<b>parser</b>", 
+            "snippet": "SLR and the more-general methods LALR parser and Canonical LR parser have \nidentical methods and similar tables at parse time; they differ only in the\u00a0...", 
+            "htmlSnippet": "SLR and the more-general methods <b>LALR parser</b> and <b>Canonical LR parser</b> have <br>\nidentical methods and similar tables at <b>parse</b> time; they differ only in the&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Simple_LR_parser", 
+            "cacheId": "bYo-TAiC9dQJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Canonical LR parser - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Canonical LR parser</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3ACanonical_LR_parser", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>Canonical</b>_<b>LR</b>_<b>parser</b>", 
+            "snippet": "Canonicity[edit]. A canonical bottom-up parser reduces the leftmost phrase (aka \nthe handle) of a sentential form. This is the case of most\u00a0...", 
+            "htmlSnippet": "Canonicity[edit]. A <b>canonical</b> bottom-up <b>parser</b> reduces the leftmost phrase (aka <br>\nthe handle) of a sentential form. This is the case of most&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3ACanonical_LR_parser", 
+            "cacheId": "sLSyXED5O9sJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "User:DBSand/LR parser/Rewrite - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "User:DBSand/<b>LR parser</b>/Rewrite - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/User:DBSand/LR_parser/Rewrite", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/User:DBSand/<b>LR</b>_<b>parser</b>/Rewrite", 
+            "snippet": "4.3.2.1 A note about LR(0) versus SLR and LALR parsing ..... SLR, LALR, and \ncanonical LR parsers make exactly the same shift and reduce decisions when \nthe\u00a0...", 
+            "htmlSnippet": "4.3.2.1 A note about LR(0) versus SLR and <b>LALR parsing</b> ..... SLR, <b>LALR</b>, and <br>\n<b>canonical LR parsers</b> make exactly the same shift and reduce decisions when <br>\nthe&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/User:DBSand/LR_parser/Rewrite", 
+            "cacheId": "RKAnS0vBhdgJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "User:Jgwest - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "User:Jgwest - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/User:Jgwest", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/User:Jgwest", 
+            "snippet": "A canonical LR parser or LR(1) parser is an LR parser whose parsing tables are \nconstructed in a similar way as with LR(0) parsers except that the items in the\u00a0...", 
+            "htmlSnippet": "A <b>canonical LR parser or LR(1</b>) <b>parser</b> is an LR parser whose parsing tables are <br>\nconstructed in a similar way as with LR(0) parsers except that the items in the&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/User:Jgwest", 
+            "cacheId": "qqKyrL-PeJMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Shift-reduce parser - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Shift-reduce <b>parser</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Shift-reduce_parser", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Shift-reduce_<b>parser</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "212", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRVRw33TVY02Cfd_NbFnfTDpeabC7YkkMnVEQBJ-HwTrMHxv40zMuMhkJn5", 
+                        "height": "200"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/Shift-Reduce_Parse_Steps_Numbered.svg/265px-Shift-Reduce_Parse_Steps_Numbered.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "The precedence parsers used before the invention of LR parsing are also shift-\nreduce methods. ... 1 Parse Tree for Example A = B + C*2; 2 Parse Steps for \nExample A = B + C* .... The LR parser is fully implemented by the Canonical LR \nparser.", 
+            "htmlSnippet": "The precedence <b>parsers</b> used before the invention of <b>LR parsing</b> are also shift-<br>\nreduce methods. ... <b>1 Parse</b> Tree for Example A = B + C*2; 2 <b>Parse</b> Steps for <br>\nExample A = B + C* .... The <b>LR parser</b> is fully implemented by the <b>Canonical LR</b> <br>\n<b>parser</b>.", 
+            "link": "https://en.wikipedia.org/wiki/Shift-reduce_parser", 
+            "cacheId": "IRtbni16JGcJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "History of compiler construction - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "History of compiler construction - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/History_of_compiler_construction", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/History_of_compiler_construction", 
+            "snippet": "LR(1) grammars are more powerful again than LALR(1); however, an LR(1) \ngrammar requires a canonical LR parser which would be extremely large in size \nand\u00a0...", 
+            "htmlSnippet": "<b>LR</b>(<b>1</b>) grammars are more powerful again than <b>LALR</b>(1); however, an <b>LR</b>(<b>1</b>) <br>\ngrammar requires a <b>canonical LR parser</b> which would be extremely large in size <br>\nand&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/History_of_compiler_construction", 
+            "cacheId": "dkRUCGKvXdUJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Canonical LR parser or LR(1) parser", 
+                "safe": "off", 
+                "searchTerms": "Canonical LR parser or LR(1) parser", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "46"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Canonical LR parser or LR(1) parser", 
+                "safe": "off", 
+                "searchTerms": "Canonical LR parser or LR(1) parser", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "46"
+            }
+        ]
+    }, 
+    "spelling": {
+        "correctedQuery": "Canonical LR parser vs LR(1) parser", 
+        "htmlCorrectedQuery": "Canonical LR parser <b><i>vs</i></b> LR(1) parser"
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.22", 
+        "formattedTotalResults": "46", 
+        "totalResults": "46", 
+        "searchTime": 0.22167
+    }
+}

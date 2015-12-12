@@ -1,0 +1,208 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Symbolic Cholesky decomposition - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Symbolic Cholesky decomposition</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Symbolic_Cholesky_decomposition", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Symbolic</b>_<b>Cholesky</b>_<b>decomposition</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "217", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR70679Q-4geRKdLn4Ra6vW3KImipuJtQWZ29QQtwRECQo9r2urZGNwdI9i", 
+                        "height": "132"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/math/5/f/6/5f64ea0ae09cc59322f4d1e09fde51ff.png"
+                    }
+                ]
+            }, 
+            "snippet": "In the mathematical subfield of numerical analysis the symbolic Cholesky ... \nfactors of a symmetric sparse matrix when applying the Cholesky decomposition \nor\u00a0...", 
+            "htmlSnippet": "In the mathematical subfield of numerical analysis the <b>symbolic</b> Cholesky ... <br>\nfactors of a symmetric sparse matrix when applying the <b>Cholesky decomposition</b> <br>\nor&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Symbolic_Cholesky_decomposition", 
+            "cacheId": "e8w5FXjmfZEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Symbolic Cholesky decomposition - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Symbolic Cholesky decomposition</b> - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "en.wikipedia.org/wiki/Talk%3ASymbolic_Cholesky_decomposition", 
+            "htmlFormattedUrl": "en.wikipedia.org/wiki/Talk%3A<b>Symbolic</b>_<b>Cholesky</b>_<b>decomposition</b>", 
+            "snippet": "Talk:Symbolic Cholesky decomposition. From Wikipedia, the free encyclopedia. \nJump to: navigation, search. I can't get the math symbols to size correctly, any\u00a0...", 
+            "htmlSnippet": "Talk:<b>Symbolic Cholesky decomposition</b>. From Wikipedia, the free encyclopedia. <br>\nJump to: navigation, search. I can&#39;t get the math symbols to size correctly, any&nbsp;...", 
+            "link": "http://en.wikipedia.org/wiki/Talk%3ASymbolic_Cholesky_decomposition", 
+            "cacheId": "5hCHnshymMUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Cholesky - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Cholesky</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Cholesky", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Cholesky</b>", 
+            "snippet": "Andr\u00e9-Louis Cholesky, French military officer and mathematician; Cholesky ... \nSymbolic Cholesky decomposition, developed by Andr\u00e9-Louis Cholesky\u00a0...", 
+            "htmlSnippet": "Andr\u00e9-Louis Cholesky, French military officer and mathematician; Cholesky ... <br>\n<b>Symbolic Cholesky decomposition</b>, developed by Andr\u00e9-Louis Cholesky&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Cholesky", 
+            "cacheId": "1qZnpkEbhv8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Cholesky decomposition - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Cholesky decomposition</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Cholesky_decomposition", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Cholesky</b>_<b>decomposition</b>", 
+            "snippet": "In linear algebra, the Cholesky decomposition or Cholesky factorization is a \ndecomposition of a Hermitian, positive-definite matrix into the product of a lower\u00a0...", 
+            "htmlSnippet": "In linear algebra, the <b>Cholesky decomposition</b> or <b>Cholesky factorization</b> is a <br>\ndecomposition of a Hermitian, positive-definite matrix into the product of a lower&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Cholesky_decomposition", 
+            "cacheId": "jZMcwd-eGw0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Category:Matrix decompositions - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Category:Matrix decompositions - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Category:Matrix_decompositions", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Category:Matrix_<b>decomposition</b>s", 
+            "snippet": "The main article for this category is Matrix decomposition. ... S. Schur \ndecomposition \u00b7 Singular value decomposition \u00b7 Symbolic Cholesky \ndecomposition\u00a0...", 
+            "htmlSnippet": "The main article for this category is Matrix decomposition. ... S. Schur <br>\ndecomposition &middot; Singular value decomposition &middot; <b>Symbolic Cholesky</b> <br>\n<b>decomposition</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Category:Matrix_decompositions", 
+            "cacheId": "B0g93Wit7U8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Sparse matrix - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Sparse matrix - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Sparse_matrix", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Sparse_matrix", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSgVyV1olWxI6Uz4KiuyHx5loNFlcJG8Ygkx5zYyh-4sUDJ-sTgZfuIKdaB", 
+                        "height": "176"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Finite_element_sparse_matrix.png/220px-Finite_element_sparse_matrix.png"
+                    }
+                ]
+            }, 
+            "snippet": "The symbolic Cholesky decomposition can be used to calculate the worst \npossible fill-in before doing the actual Cholesky decomposition. There are other\u00a0...", 
+            "htmlSnippet": "The <b>symbolic Cholesky decomposition</b> can be used to calculate the worst <br>\npossible fill-in before doing the actual Cholesky decomposition. There are other&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Sparse_matrix", 
+            "cacheId": "I3WHebnSNKAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "User:Aniruddha22Paranjpye/Books/Matrix Theory - Wikipedia, the ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "User:Aniruddha22Paranjpye/Books/Matrix Theory - Wikipedia, the <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/User.../Books/Matrix_Theory", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/User.../Books/Matrix_Theory", 
+            "snippet": "... matrix decomposition \u00b7 Jordan\u2013Chevalley decomposition \u00b7 LU decomposition \u00b7 \nQR decomposition \u00b7 Rank factorization \u00b7 Symbolic Cholesky decomposition\u00a0...", 
+            "htmlSnippet": "... matrix decomposition &middot; Jordan\u2013Chevalley decomposition &middot; LU decomposition &middot; <br>\nQR decomposition &middot; Rank factorization &middot; <b>Symbolic Cholesky decomposition</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/User:Aniruddha22Paranjpye/Books/Matrix_Theory", 
+            "cacheId": "hUlRyaWoHFcJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "User:Rog\u00e9rio Brito/Books/Applied Linear Algebra - Wikipedia, the ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "User:Rog\u00e9rio Brito/Books/Applied Linear Algebra - Wikipedia, the <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/User...Brito/.../Applied_Linear_Algebra", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/User...Brito/.../Applied_Linear_Algebra", 
+            "snippet": "Decompositions and Algorithms: Gaussian elimination \u00b7 Gauss\u2013Jordan \nelimination \u00b7 LU decomposition \u00b7 Cholesky decomposition \u00b7 Symbolic Cholesky\u00a0...", 
+            "htmlSnippet": "Decompositions and Algorithms: Gaussian elimination &middot; Gauss\u2013Jordan <br>\nelimination &middot; LU decomposition &middot; <b>Cholesky decomposition</b> &middot; <b>Symbolic</b> Cholesky&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/User:Rog%C3%A9rio_Brito/Books/Applied_Linear_Algebra", 
+            "cacheId": "x3RyOIEI0eEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "List of numerical analysis topics - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "List of numerical analysis topics - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/List_of_numerical_analysis_topics", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/List_of_numerical_analysis_topics", 
+            "snippet": "Symbolic-numeric computation \u2014 combination of symbolic and numeric methods\n; Cultural .... Minimum degree algorithm \u00b7 Symbolic Cholesky decomposition.", 
+            "htmlSnippet": "Symbolic-numeric computation \u2014 combination of symbolic and numeric methods<br>\n; Cultural .... Minimum degree algorithm &middot; <b>Symbolic Cholesky decomposition</b>.", 
+            "link": "https://en.wikipedia.org/wiki/List_of_numerical_analysis_topics", 
+            "cacheId": "v38AOUPgC7gJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Automatic differentiation - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Automatic differentiation - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Automatic_differentiation", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Automatic_differentiation", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "240", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSCN4lYbX4jBsdfkty73inwt_KG0yY1Zh-L5FbMkF6FOIP4kdvMunti3r0", 
+                        "height": "96"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/AutomaticDifferentiationNutshell.png/300px-AutomaticDifferentiationNutshell.png"
+                    }
+                ]
+            }, 
+            "snippet": "Figure 1: How automatic differentiation relates to symbolic differentiation. \nSymbolic ..... product, solution of linear systems, QR and Cholesky decomposition\n, etc.", 
+            "htmlSnippet": "Figure 1: How automatic differentiation relates to <b>symbolic</b> differentiation. <br>\n<b>Symbolic</b> ..... product, solution of linear systems, QR and <b>Cholesky decomposition</b><br>\n, etc.", 
+            "link": "https://en.wikipedia.org/wiki/Automatic_differentiation", 
+            "cacheId": "VyXBjB6VY7oJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Symbolic Cholesky decomposition", 
+                "safe": "off", 
+                "searchTerms": "Symbolic Cholesky decomposition", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "54"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Symbolic Cholesky decomposition", 
+                "safe": "off", 
+                "searchTerms": "Symbolic Cholesky decomposition", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "54"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.26", 
+        "formattedTotalResults": "54", 
+        "totalResults": "54", 
+        "searchTime": 0.259774
+    }
+}

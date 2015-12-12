@@ -1,0 +1,222 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Gerchberg\u2013Saxton algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Gerchberg</b>\u2013<b>Saxton</b> algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Gerchberg\u2013Saxton_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Gerchberg</b>\u2013<b>Saxton</b>_algorithm", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "285", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSjXXsxGkYIL53at3KpnPQ6rvQbXXvgw6v-z_FZDQQm_tUa7qaKdi-9EJQ", 
+                        "height": "177"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/GS-diagram.png/360px-GS-diagram.png"
+                    }
+                ]
+            }, 
+            "snippet": "The Gerchberg\u2013Saxton (GS) algorithm is an iterative algorithm for retrieving the \nphase of a pair of light distributions (or any other mathematically valid\u00a0...", 
+            "htmlSnippet": "The <b>Gerchberg</b>\u2013<b>Saxton</b> (GS) algorithm is an iterative algorithm for retrieving the <br>\nphase of a pair of light distributions (or any other mathematically valid&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Gerchberg%E2%80%93Saxton_algorithm", 
+            "cacheId": "QHRkGonaaNIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Phase retrieval - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Phase retrieval - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Phase_retrieval", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Phase_retrieval", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "285", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTUBxfJDVxMIhziwE77uilNRGbio2Li-N-Zm74OOBkQXmJ6x8kMArb0tyX8", 
+                        "height": "177"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/GS-diagram.png/400px-GS-diagram.png"
+                    }
+                ]
+            }, 
+            "snippet": "The error reduction is a generalisation of the Gerchberg\u2013Saxton algorithm. It \nsolves for f(x) from measurements of |F(x)| . It uses iteration of a four-step process.", 
+            "htmlSnippet": "The error reduction is a generalisation of the <b>Gerchberg</b>\u2013<b>Saxton</b> algorithm. It <br>\nsolves for f(x) from measurements of |F(x)| . It uses iteration of a four-step process.", 
+            "link": "https://en.wikipedia.org/wiki/Phase_retrieval", 
+            "cacheId": "soioHEFAIq8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Adaptive-additive algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Adaptive-additive algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Adaptive-additive_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Adaptive-additive_algorithm", 
+            "snippet": "Increase loop by one n \\to n + 1 and repeat. Limits[edit]. If a = 1 then the AA \nalgorithm becomes the Gerchberg\u2013Saxton algorithm. If a = 0 then \\bar{A}^k_n = \nA_0 .", 
+            "htmlSnippet": "Increase loop by one n \\to n + 1 and repeat. Limits[edit]. If a = 1 then the AA <br>\nalgorithm becomes the <b>Gerchberg</b>\u2013<b>Saxton</b> algorithm. If a = 0 then \\bar{A}^k_n = <br>\nA_0 .", 
+            "link": "https://en.wikipedia.org/wiki/Adaptive-additive_algorithm", 
+            "cacheId": "xem6VcGdiggJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "File:GS-diagram.png - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "File:GS-diagram.png - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/File:GS-diagram.png", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/File:GS-diagram.png", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "285", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFCLPrHxQNmVjALXCyGCbDUfmeKIuD22_V6Tv83fD8EDj7TBJXGjYXcaQ", 
+                        "height": "177"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/c/c2/GS-diagram.png"
+                    }
+                ]
+            }, 
+            "snippet": "Summary[edit]. A representation of the recursive Gerchberg-Saxton algorithm. ... \non other projects are not listed): Gerchberg\u2013Saxton algorithm \u00b7 Phase retrieval.", 
+            "htmlSnippet": "Summary[edit]. A representation of the recursive <b>Gerchberg</b>-<b>Saxton</b> algorithm. ... <br>\non other projects are not listed): <b>Gerchberg</b>\u2013<b>Saxton</b> algorithm &middot; Phase retrieval.", 
+            "link": "https://en.wikipedia.org/wiki/File:GS-diagram.png", 
+            "cacheId": "MgCGLgFuOioJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Defocus aberration - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Defocus aberration - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Defocus_aberration", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Defocus_aberration", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlvfuLPfPUMv_KmxiebNmw--MJa3h9MDm3CC5-I0UN4LX7MbiuEWyFuJE", 
+                        "height": "117"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bokeh_Example.jpg/220px-Bokeh_Example.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "Examples of phase retrieval algorithms that utilise defocused images include the \nGerchberg\u2013Saxton algorithm and various methods based on the transport of\u00a0...", 
+            "htmlSnippet": "Examples of phase retrieval algorithms that utilise defocused images include the <br>\n<b>Gerchberg</b>\u2013<b>Saxton</b> algorithm and various methods based on the transport of&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Defocus_aberration", 
+            "cacheId": "WxgCsT_RBkcJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Category:Physical optics - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Category:Physical optics - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Category:Physical_optics", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Category:Physical_optics", 
+            "snippet": "E. Encircled energy. F. Focal cloud \u00b7 Fourier optics \u00b7 Free spectral range \u00b7 \nFrequency selective surface \u00b7 Fresnel equations. G. Gerchberg\u2013Saxton algorithm\n\u00a0...", 
+            "htmlSnippet": "E. Encircled energy. F. Focal cloud &middot; Fourier optics &middot; Free spectral range &middot; <br>\nFrequency selective surface &middot; Fresnel equations. G. <b>Gerchberg</b>\u2013<b>Saxton</b> algorithm<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Category:Physical_optics", 
+            "cacheId": "VU0ebPQn11MJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "User:CronDaemon - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "User:CronDaemon - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/User:CronDaemon", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/User:CronDaemon", 
+            "snippet": "Well, I started editing articles since I cannot find a good online introductory \nreference about the Gerchberg\u2013Saxton algorithm. Aside from just reading articles\n,\u00a0...", 
+            "htmlSnippet": "Well, I started editing articles since I cannot find a good online introductory <br>\nreference about the <b>Gerchberg</b>\u2013<b>Saxton</b> algorithm. Aside from just reading articles<br>\n,&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/User:CronDaemon", 
+            "cacheId": "nhBpamjIA-kJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Category:Articles with example pseudocode - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Category:Articles with example pseudocode - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../Category:Articles_with_example_pseudocode", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Category:Articles_with_example_pseudocode", 
+            "snippet": "Gauss\u2013Seidel method \u00b7 Gaussian elimination \u00b7 Generalized minimal residual \nmethod \u00b7 Gerchberg\u2013Saxton algorithm \u00b7 Google Authenticator \u00b7 Graham scan \u00b7 \nGSP\u00a0...", 
+            "htmlSnippet": "Gauss\u2013Seidel method &middot; Gaussian elimination &middot; Generalized minimal residual <br>\nmethod &middot; <b>Gerchberg</b>\u2013<b>Saxton</b> algorithm &middot; Google Authenticator &middot; Graham scan &middot; <br>\nGSP&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Category:Articles_with_example_pseudocode", 
+            "cacheId": "bT6RG1zccMIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Category:Digital signal processing - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Category:Digital signal processing - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Category:Digital_signal_processing", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Category:Digital_signal_processing", 
+            "snippet": "G. Generalized distributive law \u00b7 Geometric Arithmetic Parallel Processor \u00b7 \nGerchberg\u2013Saxton algorithm \u00b7 Goertzel algorithm\u00a0...", 
+            "htmlSnippet": "G. Generalized distributive law &middot; Geometric Arithmetic Parallel Processor &middot; <br>\n<b>Gerchberg</b>\u2013<b>Saxton</b> algorithm &middot; Goertzel algorithm&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Category:Digital_signal_processing", 
+            "cacheId": "FlzKalpKThIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "List of algorithms - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "List of algorithms - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Graph_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Graph_algorithm", 
+            "snippet": "Fast folding algorithm: an efficient algorithm for the detection of approximately \nperiodic events within time series data; Gerchberg\u2013Saxton algorithm: Phase\u00a0...", 
+            "htmlSnippet": "Fast folding algorithm: an efficient algorithm for the detection of approximately <br>\nperiodic events within time series data; <b>Gerchberg</b>\u2013<b>Saxton</b> algorithm: Phase&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Graph_algorithm", 
+            "cacheId": "5_17Y3LZhAoJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Gerchberg Saxton", 
+                "safe": "off", 
+                "searchTerms": "Gerchberg Saxton", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "14"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Gerchberg Saxton", 
+                "safe": "off", 
+                "searchTerms": "Gerchberg Saxton", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "14"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.23", 
+        "formattedTotalResults": "14", 
+        "totalResults": "14", 
+        "searchTime": 0.230473
+    }
+}

@@ -1,0 +1,208 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Introsort - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Introsort</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Introsort", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Introsort</b>", 
+            "snippet": "Introsort or introspective sort is a hybrid sorting algorithm that provides both fast \naverage performance and (asymptotically) optimal worst-case performance.", 
+            "htmlSnippet": "<b>Introsort</b> or introspective sort is a hybrid sorting algorithm that provides both fast <br>\naverage performance and (asymptotically) optimal worst-case performance.", 
+            "link": "https://en.wikipedia.org/wiki/Introsort", 
+            "cacheId": "dGnHHCTo5FQJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Introselect - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Introselect - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Introselect", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Introselect", 
+            "snippet": "Introsort achieves practical performance comparable to quicksort while \npreserving O(n log n) worst-case behavior by creating a hybrid of quicksort and \nheapsort.", 
+            "htmlSnippet": "<b>Introsort</b> achieves practical performance comparable to quicksort while <br>\npreserving O(n log n) worst-case behavior by creating a hybrid of quicksort and <br>\nheapsort.", 
+            "link": "https://en.wikipedia.org/wiki/Introselect", 
+            "cacheId": "KFMVR1VLDkcJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "sort (C++) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "sort (C++) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Sort_(C%2B%2B)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Sort_(C%2B%2B)", 
+            "snippet": "The introduction of hybrid algorithms such as introsort allowed both fast average \nperformance and optimal worst-case performance, and thus the complexity\u00a0...", 
+            "htmlSnippet": "The introduction of hybrid algorithms such as <b>introsort</b> allowed both fast average <br>\nperformance and optimal worst-case performance, and thus the complexity&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Sort_(C%2B%2B)", 
+            "cacheId": "G5STbvWQQToJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Hybrid algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Hybrid algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Hybrid_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Hybrid_algorithm", 
+            "snippet": "Another example of hybrid algorithms for performance reasons are introsort and \nintroselect, which combine one algorithm for fast average performance, falling\u00a0...", 
+            "htmlSnippet": "Another example of hybrid algorithms for performance reasons are <b>introsort</b> and <br>\nintroselect, which combine one algorithm for fast average performance, falling&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Hybrid_algorithm", 
+            "cacheId": "PMlkxJE6egQJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Comparison sort - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Comparison sort - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Comparison_sort", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Comparison_sort", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "232", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS78wJQXHvx9Wq1up4xGVYL_B6rWVFL3Xwngh2al3NdWTocWiiJl944Vpyw", 
+                        "height": "217"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Balance_%C3%A0_tabac_1850.JPG/300px-Balance_%C3%A0_tabac_1850.JPG"
+                    }
+                ]
+            }, 
+            "snippet": "In this sense, mergesort, heapsort, and introsort are asymptotically optimal in \nterms of the number of comparisons they must perform, although this metric\u00a0...", 
+            "htmlSnippet": "In this sense, mergesort, heapsort, and <b>introsort</b> are asymptotically optimal in <br>\nterms of the number of comparisons they must perform, although this metric&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Comparison_sort", 
+            "cacheId": "k7GGonoy80oJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "David Musser - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "David Musser - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/David_Musser", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/David_Musser", 
+            "snippet": "In Musser (1997), he developed the sorting algorithm called introsort (also known \nas introspective sort), and the related selection algorithm called introselect,\u00a0...", 
+            "htmlSnippet": "In Musser (1997), he developed the sorting algorithm called <b>introsort</b> (also known <br>\nas introspective sort), and the related selection algorithm called introselect,&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/David_Musser", 
+            "cacheId": "kzmZqb8tLWQJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Flashsort - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Flashsort - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Flashsort", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Flashsort", 
+            "snippet": "Concurrent sorts. Bitonic sorter \u00b7 Batcher odd\u2013even mergesort \u00b7 Pairwise sorting \nnetwork \u00b7 Hybrid sorts \u00b7 Block sort \u00b7 Timsort \u00b7 Introsort \u00b7 Spreadsort. Other.", 
+            "htmlSnippet": "Concurrent sorts. Bitonic sorter &middot; Batcher odd\u2013even mergesort &middot; Pairwise sorting <br>\nnetwork &middot; Hybrid sorts &middot; Block sort &middot; Timsort &middot; <b>Introsort</b> &middot; Spreadsort. Other.", 
+            "link": "https://en.wikipedia.org/wiki/Flashsort", 
+            "cacheId": "ozV0eylfx-4J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Insertion sort - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Insertion sort - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Insertion_sort", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Insertion_sort", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "224", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT6RzyuBsYKxfCZVtgJuUIpjespdgbrhkokyXQ_Op7GjHb9o6IqkYMKL7Y", 
+                        "height": "200"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Insertionsort-edited.png"
+                    }
+                ]
+            }, 
+            "snippet": "... Batcher odd\u2013even mergesort \u00b7 Pairwise sorting network \u00b7 Hybrid sorts \u00b7 Block \nsort \u00b7 Timsort \u00b7 Introsort \u00b7 Spreadsort. Other. Topological sorting \u00b7 Pancake sorting\n\u00a0...", 
+            "htmlSnippet": "... Batcher odd\u2013even mergesort &middot; Pairwise sorting network &middot; Hybrid sorts &middot; Block <br>\nsort &middot; Timsort &middot; <b>Introsort</b> &middot; Spreadsort. Other. Topological sorting &middot; Pancake sorting<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Insertion_sort", 
+            "cacheId": "N0f73BW4PMAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Heapsort - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Heapsort - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Heapsort", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Heapsort", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "224", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ2oLMliBb_2ZN4BfjN6vjRl-EKR-rnFLD_x8z5dboL_9Fc3pJkI_zq4-0", 
+                        "height": "171"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Sorting_heapsort_anim.gif"
+                    }
+                ]
+            }, 
+            "snippet": "Introsort is an alternative to heapsort that combines quicksort and heapsort to \nretain advantages of both: worst case speed of heapsort and average speed of\u00a0...", 
+            "htmlSnippet": "<b>Introsort</b> is an alternative to heapsort that combines quicksort and heapsort to <br>\nretain advantages of both: worst case speed of heapsort and average speed of&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Heapsort", 
+            "cacheId": "xsQCCGTlloEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Quicksort/Archive 1 - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:Quicksort/Archive 1 - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/?title=Talk:Quicksort/Archive_1", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/?title=Talk:Quicksort/Archive_1", 
+            "snippet": "I also extracted some of the introsort discussion to an article on introsort, not \nbecause it was too long but because I'd like to see introsort expanded in the \nfuture\u00a0...", 
+            "htmlSnippet": "I also extracted some of the <b>introsort</b> discussion to an article on <b>introsort</b>, not <br>\nbecause it was too long but because I&#39;d like to see <b>introsort</b> expanded in the <br>\nfuture&nbsp;...", 
+            "link": "https://en.wikipedia.org/?title=Talk:Quicksort/Archive_1", 
+            "cacheId": "4-3PFlN0BEwJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Introsort", 
+                "safe": "off", 
+                "searchTerms": "Introsort", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "123"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Introsort", 
+                "safe": "off", 
+                "searchTerms": "Introsort", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "123"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.25", 
+        "formattedTotalResults": "123", 
+        "totalResults": "123", 
+        "searchTime": 0.253823
+    }
+}

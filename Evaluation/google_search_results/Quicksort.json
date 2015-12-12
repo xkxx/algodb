@@ -1,0 +1,236 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Quicksort - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Quicksort</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Quicksort", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Quicksort</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "224", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRa3wKonzjGaGp-NU8TQafolPq-3IX_8sU9KxQ7ajkE6xZn9eqZmhNfO3B1", 
+                        "height": "171"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Sorting_quicksort_anim.gif"
+                    }
+                ]
+            }, 
+            "snippet": "Quicksort (sometimes called partition-exchange sort) is an efficient sorting \nalgorithm, serving as a systematic method for placing the elements of an array in \norder\u00a0...", 
+            "htmlSnippet": "<b>Quicksort</b> (sometimes called partition-exchange sort) is an efficient sorting <br>\nalgorithm, serving as a systematic method for placing the elements of an array in <br>\norder&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Quicksort", 
+            "cacheId": "xy77_BovhNYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Multi-key quicksort - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Multi-key <b>quicksort</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Multi-key_quicksort", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Multi-key_<b>quicksort</b>", 
+            "snippet": "Multi-key quicksort, also known as three-way radix quicksort, is an algorithm for \nsorting strings. This hybrid of quicksort and radix sort was originally suggested by\n\u00a0...", 
+            "htmlSnippet": "Multi-key <b>quicksort</b>, also known as three-way radix <b>quicksort</b>, is an algorithm for <br>\nsorting strings. This hybrid of <b>quicksort</b> and radix sort was originally suggested by<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Multi-key_quicksort", 
+            "cacheId": "S55-YFZVEq4J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "File:Sorting quicksort anim.gif - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "File:Sorting <b>quicksort</b> anim.gif - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/File:Sorting_quicksort_anim.gif", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/File:Sorting_<b>quicksort</b>_anim.gif", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "224", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRa3wKonzjGaGp-NU8TQafolPq-3IX_8sU9KxQ7ajkE6xZn9eqZmhNfO3B1", 
+                        "height": "171"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Sorting_quicksort_anim.gif"
+                    }
+                ], 
+                "hproduct": [
+                    {
+                        "fn": "Sorting quicksort anim.gif"
+                    }
+                ]
+            }, 
+            "snippet": "File:Sorting quicksort anim.gif. No higher resolution available. \nSorting_quicksort_anim.gif   (280 \u00d7 214 pixels, file size: 91 KB, MIME type: image/\ngif, looped,\u00a0...", 
+            "htmlSnippet": "File:Sorting <b>quicksort</b> anim.gif. No higher resolution available. <br>\nSorting_quicksort_anim.gif   (280 \u00d7 214 pixels, file size: 91 KB, MIME type: image/<br>\ngif, looped,&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/File:Sorting_quicksort_anim.gif", 
+            "cacheId": "H6GZXlpzE6sJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Introsort - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Introsort - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Introsort", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Introsort", 
+            "snippet": "It begins with quicksort and switches to heapsort when the recursion depth \nexceeds a level based on (the logarithm of) the number of elements being sorted.", 
+            "htmlSnippet": "It begins with <b>quicksort</b> and switches to heapsort when the recursion depth <br>\nexceeds a level based on (the logarithm of) the number of elements being sorted.", 
+            "link": "https://en.wikipedia.org/wiki/Introsort", 
+            "cacheId": "dGnHHCTo5FQJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Quickselect - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Quickselect - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Quickselect", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Quickselect", 
+            "snippet": "In computer science, quickselect is a selection algorithm to find the kth smallest \nelement in an unordered list. It is related to the quicksort sorting algorithm.", 
+            "htmlSnippet": "In computer science, quickselect is a selection algorithm to find the kth smallest <br>\nelement in an unordered list. It is related to the <b>quicksort</b> sorting algorithm.", 
+            "link": "https://en.wikipedia.org/wiki/Quickselect", 
+            "cacheId": "pH_5kIFkY98J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Sorting algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Sorting algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Sorting_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Sorting_algorithm", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "284", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcw9pl3Q9PmPu7dU3Xk3DdbeYqZIQCzyyRfukXqYXWdm69y04uEeRiB3br", 
+                        "height": "178"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Sorting_playing_cards_using_stable_sort.svg/400px-Sorting_playing_cards_using_stable_sort.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "Exchange sorts include bubble sort and quicksort. Selection sorts include shaker \nsort and heapsort. Also whether the algorithm is serial or parallel.", 
+            "htmlSnippet": "Exchange sorts include bubble sort and <b>quicksort</b>. Selection sorts include shaker <br>\nsort and heapsort. Also whether the algorithm is serial or parallel.", 
+            "link": "https://en.wikipedia.org/wiki/Sorting_algorithm", 
+            "cacheId": "CyeqKExhw84J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Burstsort - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Burstsort - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Burstsort", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Burstsort", 
+            "snippet": "Most implementations delegate to multikey quicksort, an extension of three-way \nradix quicksort, to sort the contents of the buckets. By dividing the input into\u00a0...", 
+            "htmlSnippet": "Most implementations delegate to multikey <b>quicksort</b>, an extension of three-way <br>\nradix <b>quicksort</b>, to sort the contents of the buckets. By dividing the input into&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Burstsort", 
+            "cacheId": "jZtHlB2v6sgJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Tony Hoare - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Tony Hoare - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Tony_Hoare", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Tony_Hoare", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTbuDjMMiJe-SOCUE-klnzyAq8vcXrye1wWR4CSDmYvMH4UlE1EfxXj9g4", 
+                        "height": "176"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Sir_Tony_Hoare_IMG_5125.jpg/220px-Sir_Tony_Hoare_IMG_5125.jpg"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "url": "www.cs.ox.ac.uk/people/tony.hoare/", 
+                        "bday": "1934-01-11", 
+                        "category": "Computer science", 
+                        "url_text": "www.cs.ox.ac.uk/people/tony.hoare/", 
+                        "fn": "Sir Tony Hoare"
+                    }
+                ]
+            }, 
+            "snippet": "Hoare's most significant work has been in the following areas: his sorting and \nselection algorithm (Quicksort and Quickselect), Hoare logic, the formal language\n\u00a0...", 
+            "htmlSnippet": "Hoare&#39;s most significant work has been in the following areas: his sorting and <br>\nselection algorithm (<b>Quicksort</b> and Quickselect), Hoare logic, the formal language<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Tony_Hoare", 
+            "cacheId": "VA5ipufQ7KsJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "File talk:Quicksort-diagram.svg - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "File talk:<b>Quicksort</b>-diagram.svg - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/File_talk:Quicksort-diagram.svg", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/File_talk:<b>Quicksort</b>-diagram.svg", 
+            "snippet": "void quicksort(int list[],int m,int n) { int key,i,j,k; if( m < n) { k = choose_pivot(m,n); \nswap(&list[m],&list[k]); key = list[m]; i = m+1; j = n; while(i <= j) { while((i <= n)\u00a0...", 
+            "htmlSnippet": "void <b>quicksort</b>(int list[],int m,int n) { int key,i,j,k; if( m &lt; n) { k = choose_pivot(m,n); <br>\nswap(&amp;list[m],&amp;list[k]); key = list[m]; i = m+1; j = n; while(i &lt;= j) { while((i &lt;= n)&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/File_talk:Quicksort-diagram.svg", 
+            "cacheId": "t5_OO8I79S4J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Quicksort/Archive 1 - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Quicksort</b>/Archive 1 - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/?title=Talk:Quicksort/Archive_1", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/?title=Talk:<b>Quicksort</b>/Archive_1", 
+            "snippet": "Quicksort can actually be done in O(n log n) time worst case, by carefully \nchoosing the pivot - the algorithm to do so is a bit complex though.", 
+            "htmlSnippet": "<b>Quicksort</b> can actually be done in O(n log n) time worst case, by carefully <br>\nchoosing the pivot - the algorithm to do so is a bit complex though.", 
+            "link": "https://en.wikipedia.org/?title=Talk:Quicksort/Archive_1", 
+            "cacheId": "4-3PFlN0BEwJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Quicksort", 
+                "safe": "off", 
+                "searchTerms": "Quicksort", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "578"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Quicksort", 
+                "safe": "off", 
+                "searchTerms": "Quicksort", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "578"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.25", 
+        "formattedTotalResults": "578", 
+        "totalResults": "578", 
+        "searchTime": 0.249739
+    }
+}

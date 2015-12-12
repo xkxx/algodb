@@ -1,0 +1,222 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Gauss\u2013Newton algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Gauss</b>\u2013<b>Newton</b> algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Gauss\u2013Newton_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Gauss</b>\u2013<b>Newton</b>_algorithm", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "130", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSvZbBRZoDQgp_il6wWXu0INcqUpKT-BzQRDmbOxCuYadO35PHsJ7oM9g", 
+                        "height": "47"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/math/f/8/f/f8f5aab07fd35f832deed2a3597c92dd.png"
+                    }
+                ]
+            }, 
+            "snippet": "The Gauss\u2013Newton algorithm is used to solve non-linear least squares problems\n. It is a modification of Newton's method for finding a minimum of a function.", 
+            "htmlSnippet": "The <b>Gauss</b>\u2013<b>Newton</b> algorithm is used to solve non-linear least squares problems<br>\n. It is a modification of Newton&#39;s method for finding a minimum of a function.", 
+            "link": "https://en.wikipedia.org/wiki/Gauss%E2%80%93Newton_algorithm", 
+            "cacheId": "wyn1zkqkj0cJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Gauss\u2013Newton algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Gauss</b>\u2013<b>Newton</b> algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3AGauss-Newton_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>Gauss</b>-<b>Newton</b>_algorithm", 
+            "snippet": "I always thought that Newton's method, when applied to systems of equation, is \nstill called Newton's method (or Newton-Raphson) and that the Gauss-Newton is\n\u00a0...", 
+            "htmlSnippet": "I always thought that Newton&#39;s method, when applied to systems of equation, is <br>\nstill called Newton&#39;s method (or Newton-Raphson) and that the <b>Gauss</b>-<b>Newton</b> is<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3AGauss-Newton_algorithm", 
+            "cacheId": "dGOQR2VtyE4J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Generalized Gauss\u2013Newton method - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Generalized <b>Gauss</b>\u2013<b>Newton</b> method - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Generalized_Gauss\u2013Newton_method", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Generalized_<b>Gauss</b>\u2013<b>Newton</b>_method", 
+            "snippet": "The generalized Gauss\u2013Newton method is a generalization of the least-squares \nmethod originally described by Carl Friedrich Gauss and of Newton's method\u00a0...", 
+            "htmlSnippet": "The generalized <b>Gauss</b>\u2013<b>Newton</b> method is a generalization of the least-squares <br>\nmethod originally described by Carl Friedrich Gauss and of Newton&#39;s method&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Generalized_Gauss%E2%80%93Newton_method", 
+            "cacheId": "QpnNleI3cX4J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Newton's method in optimization - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Newton&#39;s</b> method in optimization - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Newton's_method_in_optimization", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Newton&#39;s</b>_method_in_optimization", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT11KeXQtadm48dgMJyGoG2PMDOuUzIrBPAgiopCAKN_2F--R9e9xVf9ZmN", 
+                        "height": "202"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Newton_optimization_vs_grad_descent.svg/220px-Newton_optimization_vs_grad_descent.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "A comparison of gradient descent (green) and Newton's method (red) for \nminimizing a .... Quasi-Newton method \u00b7 Gradient descent \u00b7 Gauss\u2013Newton \nalgorithm\u00a0...", 
+            "htmlSnippet": "A comparison of gradient descent (green) and Newton&#39;s method (red) for <br>\nminimizing a .... Quasi-Newton method &middot; Gradient descent &middot; <b>Gauss</b>\u2013<b>Newton</b> <br>\nalgorithm&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Newton's_method_in_optimization", 
+            "cacheId": "03xu6eoA4pEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Levenberg\u2013Marquardt algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Levenberg\u2013Marquardt algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Levenberg\u2013Marquardt_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Levenberg\u2013Marquardt_algorithm", 
+            "snippet": "The LMA interpolates between the Gauss\u2013Newton algorithm (GNA) and the \nmethod of gradient descent. The LMA is more robust than the GNA, which means\n\u00a0...", 
+            "htmlSnippet": "The LMA interpolates between the <b>Gauss</b>\u2013<b>Newton</b> algorithm (GNA) and the <br>\nmethod of gradient descent. The LMA is more robust than the GNA, which means<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Levenberg%E2%80%93Marquardt_algorithm", 
+            "cacheId": "Gm6njkn_ygEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Non-linear least squares - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Non-linear least squares - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Non-linear_least_squares", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Non-linear_least_squares", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS8wlU0cIFFMRZkqLZa4LetRocOdDTauMcwQq9igWfZZG73ZjkHaSF5VQk", 
+                        "height": "116"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Linear_regression.svg/220px-Linear_regression.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "These equations form the basis for the Gauss\u2013Newton algorithm for a non-linear \nleast ... It also explains how divergence can come about as the Gauss\u2013Newton\u00a0...", 
+            "htmlSnippet": "These equations form the basis for the <b>Gauss</b>\u2013<b>Newton</b> algorithm for a non-linear <br>\nleast ... It also explains how divergence can come about as the <b>Gauss</b>\u2013<b>Newton</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Non-linear_least_squares", 
+            "cacheId": "Uph24OucYmQJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "List of things named after Carl Friedrich Gauss - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "List of things named after Carl Friedrich <b>Gauss</b> - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../List_of_things_named_after_Carl_Friedrich_ Gauss", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../List_of_things_named_after_Carl_Friedrich_ <b>Gauss</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "264", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTB5R-Dz8XKpM59k8cdRWU0MgoigTcQ-6bn_kSuOC3_gJtyMAz8dntapEo", 
+                        "height": "156"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Braunschweig_Gaussberg_von_Suedwesten_(2011).JPG/330px-Braunschweig_Gaussberg_von_Suedwesten_(2011).JPG"
+                    }
+                ]
+            }, 
+            "snippet": "Carl Friedrich Gauss (1777\u20131855) is the eponym of all of the topics listed below. \n... Gauss\u2013Newton line \u00b7 Gauss\u2013Legendre algorithm \u00b7 Gauss\u2013Lucas theorem\u00a0...", 
+            "htmlSnippet": "Carl Friedrich Gauss (1777\u20131855) is the eponym of all of the topics listed below. <br>\n... <b>Gauss</b>\u2013<b>Newton</b> line &middot; Gauss\u2013Legendre algorithm &middot; Gauss\u2013Lucas theorem&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/List_of_things_named_after_Carl_Friedrich_Gauss", 
+            "cacheId": "GzBwsK6xCKUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Gauss's law for gravity - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Gauss&#39;s</b> law for gravity - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Gauss's_law_for_gravity", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Gauss&#39;s</b>_law_for_gravity", 
+            "snippet": "[edit]. It is impossible to mathematically prove Newton's law from\u00a0...", 
+            "htmlSnippet": "[edit]. It is impossible to mathematically prove <b>Newton&#39;s</b> law from&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Gauss's_law_for_gravity", 
+            "cacheId": "EaHkIU4ebVgJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Quasi-Newton method - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Quasi-<b>Newton</b> method - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Quasi-Newton_method", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Quasi-<b>Newton</b>_method", 
+            "snippet": "Quasi-Newton methods are methods used to either find zeroes or local maxima \nand minima of functions, as an alternative to Newton's method. They can be\u00a0...", 
+            "htmlSnippet": "Quasi-<b>Newton</b> methods are methods used to either find zeroes or local maxima <br>\nand minima of functions, as an alternative to <b>Newton&#39;s</b> method. They can be&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Quasi-Newton_method", 
+            "cacheId": "x_a_eCp_2CIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Newton polynomial - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Newton</b> polynomial - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Newton_polynomial", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Newton</b>_polynomial", 
+            "snippet": "The Newton polynomial is sometimes called Newton's divided differences ... (The \nother difference formulas, such as those of Gauss, Bessel and Stirling, can be\u00a0...", 
+            "htmlSnippet": "The <b>Newton</b> polynomial is sometimes called <b>Newton&#39;s</b> divided differences ... (The <br>\nother difference formulas, such as those of <b>Gauss</b>, Bessel and Stirling, can be&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Newton_polynomial", 
+            "cacheId": "gdpD1WpT1O0J"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Gauss-Newton", 
+                "safe": "off", 
+                "searchTerms": "Gauss-Newton", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "1340"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Gauss-Newton", 
+                "safe": "off", 
+                "searchTerms": "Gauss-Newton", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "1340"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.33", 
+        "formattedTotalResults": "1,340", 
+        "totalResults": "1340", 
+        "searchTime": 0.330523
+    }
+}

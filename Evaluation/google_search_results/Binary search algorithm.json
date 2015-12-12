@@ -1,0 +1,236 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Binary search algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Binary search algorithm</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Binary_search_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Binary</b>_<b>search</b>_<b>algorithm</b>", 
+            "snippet": "Overview[edit]. The binary search algorithm begins by comparing the target value \nto the value of the middle element of the sorted array. If the target value is\u00a0...", 
+            "htmlSnippet": "Overview[edit]. The <b>binary search algorithm</b> begins by comparing the target value <br>\nto the value of the middle element of the sorted array. If the target value is&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Binary_search_algorithm", 
+            "cacheId": "bTl09IU6Z8IJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Exponential search - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Exponential <b>search</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Exponential_search", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Exponential_<b>search</b>", 
+            "snippet": "In the second stage, a binary search is performed on this range. ... assuming that \nthe list is sorted in ascending order, the algorithm\u00a0...", 
+            "htmlSnippet": "In the second stage, a <b>binary search</b> is performed on this range. ... assuming that <br>\nthe list is sorted in ascending order, the <b>algorithm</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Exponential_search", 
+            "cacheId": "qa03YG1vGSEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Binary search tree - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Binary search</b> tree - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Binary_search_tree", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Binary</b>_<b>search</b>_tree", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "160", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTnLIcOEBVEvzDSj028pdrlWii9bLhQ2IeVq9YZbaxtstuBjF1PFa5bhu4", 
+                        "height": "133"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Binary_search_tree.svg/200px-Binary_search_tree.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "The major advantage of binary search trees over other data structures is that the \nrelated sorting algorithms and search algorithms such as in-order traversal can\u00a0...", 
+            "htmlSnippet": "The major advantage of <b>binary search</b> trees over other data structures is that the <br>\nrelated sorting <b>algorithms</b> and search <b>algorithms</b> such as in-order traversal can&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Binary_search_tree", 
+            "cacheId": "t3LqHv2db0wJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Uniform binary search - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Uniform <b>binary search</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Uniform_binary_search", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Uniform_<b>binary</b>_<b>search</b>", 
+            "snippet": "Uniform binary search is an optimization of the classic binary search algorithm \ninvented by Donald Knuth and given in Knuth's The Art of Computer \nProgramming\u00a0...", 
+            "htmlSnippet": "Uniform binary search is an optimization of the classic <b>binary search algorithm</b> <br>\ninvented by Donald Knuth and given in Knuth&#39;s The Art of Computer <br>\nProgramming&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Uniform_binary_search", 
+            "cacheId": "OANUUlLrvi8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Self-balancing binary search tree - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Self-balancing <b>binary search</b> tree - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Self-balancing_binary_search_tree", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Self-balancing_<b>binary</b>_<b>search</b>_tree", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "200", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSuEhMCvAhPGMFlJ1JJumOMVpYued2ABSO_8X3ihZ_hyIxVFRbo04kNPqM", 
+                        "height": "200"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Unbalanced_binary_tree.svg/251px-Unbalanced_binary_tree.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "In computer science, a self-balancing (or height-balanced) binary search tree is \n... However, the simplest algorithms for BST item insertion may yield a tree with\u00a0...", 
+            "htmlSnippet": "In computer science, a self-balancing (or height-balanced) <b>binary search</b> tree is <br>\n... However, the simplest <b>algorithms</b> for BST item insertion may yield a tree with&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Self-balancing_binary_search_tree", 
+            "cacheId": "Lvk38SyMqlEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Bisection method - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Bisection method - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Bisection_method", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Bisection_method", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "200", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkNryDQs-bfrwa0OFdAv6GVtxGlKY8c4K8a_B7934t_UizUrNjnOVMXHM", 
+                        "height": "232"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Bisection_method.svg/250px-Bisection_method.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "For searching a finite sorted array, see binary search algorithm. ... The method is \nalso called the interval halving method, the binary search method, or the\u00a0...", 
+            "htmlSnippet": "For searching a finite sorted array, see <b>binary search algorithm</b>. ... The method is <br>\nalso called the interval halving method, the binary search method, or the&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Bisection_method", 
+            "cacheId": "0taHdeYKB7cJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Tree traversal - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Tree traversal - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Tree_traversal", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Tree_traversal", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMPW8TIJqnlvOKNUBZhf7W62EGbhfRSBoJqgI_a_vB_WJle6XrTN7xpn8", 
+                        "height": "150"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Sorted_binary_tree_preorder.svg/220px-Sorted_binary_tree_preorder.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "In computer science, tree traversal (also known as tree search) is a form of graph \n... The following algorithms are described for a binary tree, but they may be\u00a0...", 
+            "htmlSnippet": "In computer science, tree traversal (also known as tree <b>search</b>) is a form of graph <br>\n... The following <b>algorithms</b> are described for a <b>binary</b> tree, but they may be&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Tree_traversal", 
+            "cacheId": "BOGFRf8V_ysJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Tree sort - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Tree sort - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Tree_sort", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Tree_sort", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "160", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTO0w-nQbDQe2oRZhra_Rs8Ql_-0_imE7BqmPdDsEZ0-KZU2m_naAqhOCPa", 
+                        "height": "244"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Binary_tree_sort(2).png/200px-Binary_tree_sort(2).png"
+                    }
+                ]
+            }, 
+            "snippet": "A tree sort is a sort algorithm that builds a binary search tree from the keys to be \nsorted, and then traverses the tree (in-order) so that the keys come out in sorted\u00a0...", 
+            "htmlSnippet": "A tree sort is a sort <b>algorithm</b> that builds a <b>binary search</b> tree from the keys to be <br>\nsorted, and then traverses the tree (in-order) so that the keys come out in sorted&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Tree_sort", 
+            "cacheId": "YKFYzckZPAEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Divide and conquer algorithms - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Divide and conquer <b>algorithms</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Divide_and_conquer_algorithms", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Divide_and_conquer_<b>algorithms</b>", 
+            "snippet": "The name \"divide and conquer\" is sometimes applied also to algorithms that \nreduce each problem to only one sub-problem, such as the binary search \nalgorithm\u00a0...", 
+            "htmlSnippet": "The name &quot;divide and conquer&quot; is sometimes applied also to algorithms that <br>\nreduce each problem to only one sub-problem, such as the <b>binary search</b> <br>\n<b>algorithm</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Divide_and_conquer_algorithms", 
+            "cacheId": "WXH2HC08DbcJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Optimal binary search tree - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Optimal <b>binary search</b> tree - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Optimal_binary_search_tree", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Optimal_<b>binary</b>_<b>search</b>_tree", 
+            "snippet": "[edit]. In 1971, Knuth published a relatively straightforward dynamic programming \nalgorithm\u00a0...", 
+            "htmlSnippet": "[edit]. In 1971, Knuth published a relatively straightforward dynamic programming <br>\n<b>algorithm</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Optimal_binary_search_tree", 
+            "cacheId": "vnG3sy6AYDUJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Binary search algorithm", 
+                "safe": "off", 
+                "searchTerms": "Binary search algorithm", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "7250"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Binary search algorithm", 
+                "safe": "off", 
+                "searchTerms": "Binary search algorithm", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "7250"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.36", 
+        "formattedTotalResults": "7,250", 
+        "totalResults": "7250", 
+        "searchTime": 0.355479
+    }
+}

@@ -1,0 +1,194 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "QR algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>QR algorithm</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/QR_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>QR</b>_<b>algorithm</b>", 
+            "snippet": "In numerical linear algebra, the QR algorithm is an eigenvalue algorithm: that is, \na procedure to calculate the eigenvalues and eigenvectors of a matrix. The QR\u00a0...", 
+            "htmlSnippet": "In numerical linear algebra, the <b>QR algorithm</b> is an eigenvalue algorithm: that is, <br>\na procedure to calculate the eigenvalues and eigenvectors of a matrix. The QR&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/QR_algorithm", 
+            "cacheId": "KF5D4TrafTUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "QR decomposition - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>QR</b> decomposition - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/QR_decomposition", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>QR</b>_decomposition", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "278", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR2yKZQYKlBxTFcB4mFT6yUpCgSLnAduTq5wSAdIfh2ch4DPhtq0MlvOerw", 
+                        "height": "181"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/math/9/3/c/93c3106cc0c3c5a0d1f075954a1f3b5c.png"
+                    }
+                ]
+            }, 
+            "snippet": "In linear algebra, a QR decomposition (also called a QR factorization) of a matrix \nis a ... and is the basis for a particular eigenvalue algorithm, the QR algorithm.", 
+            "htmlSnippet": "In linear algebra, a QR decomposition (also called a QR factorization) of a matrix <br>\nis a ... and is the basis for a particular eigenvalue algorithm, the <b>QR algorithm</b>.", 
+            "link": "https://en.wikipedia.org/wiki/QR_decomposition", 
+            "cacheId": "4eJ5V7zpNM0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "John G. F. Francis - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "John G. F. Francis - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/John_G._F._Francis", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/John_G._F._Francis", 
+            "snippet": "John G.F. Francis (born 1934) is an English computer scientist, who in 1961 \npublished the QR algorithm for computing the eigenvalues and eigenvectors of\u00a0...", 
+            "htmlSnippet": "John G.F. Francis (born 1934) is an English computer scientist, who in 1961 <br>\npublished the <b>QR algorithm</b> for computing the eigenvalues and eigenvectors of&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/John_G._F._Francis", 
+            "cacheId": "Ln67yk6cwr4J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:QR algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>QR algorithm</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3AQR_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3AQR_<b>algorithm</b>", 
+            "snippet": "This is the talk page for discussing improvements to the QR algorithm article. ... \nHowever, QR-decompositions for Hessenberg matrices cost 6n^2 flops while it\u00a0...", 
+            "htmlSnippet": "This is the talk page for discussing improvements to the <b>QR algorithm</b> article. ... <br>\nHowever, QR-decompositions for Hessenberg matrices cost 6n^2 flops while it&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3AQR_algorithm", 
+            "cacheId": "PEof9GzJEPwJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Vera Kublanovskaya - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Vera Kublanovskaya - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Vera_Kublanovskaya", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Vera_Kublanovskaya", 
+            "snippet": "She proposed the QR algorithm for computing eigenvalues and eigenvectors in \n1961, which has been named as one of the ten most important algorithms of the\u00a0...", 
+            "htmlSnippet": "She proposed the <b>QR algorithm</b> for computing eigenvalues and eigenvectors in <br>\n1961, which has been named as one of the ten most important algorithms of the&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Vera_Kublanovskaya", 
+            "cacheId": "CuUJur5jlaIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Divide-and-conquer eigenvalue algorithm - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Divide-and-conquer eigenvalue <b>algorithm</b> - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../Divide-and-conquer_eigenvalue_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Divide-and-conquer_eigenvalue_<b>algorithm</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "173", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQyzNyohQv4qQ86nDRmrzhR6moU1iMhIvo2qFRjGnXBdAd3WzAZkM-IYA", 
+                        "height": "117"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Almost_block_diagonal.png"
+                    }
+                ]
+            }, 
+            "snippet": "This can be accomplished with recursive calls to the divide-and-conquer \nalgorithm, although practical implementations often switch to the QR algorithm for \nsmall\u00a0...", 
+            "htmlSnippet": "This can be accomplished with recursive calls to the divide-and-conquer <br>\nalgorithm, although practical implementations often switch to the <b>QR algorithm</b> for <br>\nsmall&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Divide-and-conquer_eigenvalue_algorithm", 
+            "cacheId": "65jpDO4FnsUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "QR - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>QR</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/QR", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>QR</b>", 
+            "snippet": "QR. From Wikipedia, the free encyclopedia. Jump to: navigation, search. QR may \nstand for: ... QR decomposition, a decomposition of a matrix; QR algorithm,\u00a0...", 
+            "htmlSnippet": "QR. From Wikipedia, the free encyclopedia. Jump to: navigation, search. QR may <br>\nstand for: ... QR decomposition, a decomposition of a matrix; <b>QR algorithm</b>,&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/QR", 
+            "cacheId": "IiD2pgnjWScJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Jenkins\u2013Traub algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Jenkins\u2013Traub <b>algorithm</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Jenkins\u2013Traub_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Jenkins\u2013Traub_<b>algorithm</b>", 
+            "snippet": "[edit]. There is a surprising connection with the shifted QR algorithm for \ncomputing matrix eigenvalues\u00a0...", 
+            "htmlSnippet": "[edit]. There is a surprising connection with the shifted <b>QR algorithm</b> for <br>\ncomputing matrix eigenvalues&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Jenkins%E2%80%93Traub_algorithm", 
+            "cacheId": "gKaTEscI3AMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Eigenvalue algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Eigenvalue <b>algorithm</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Eigenvalue_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Eigenvalue_<b>algorithm</b>", 
+            "snippet": "The eigenvalue algorithm can then be applied to the restricted matrix. ... QR \nalgorithm, Hessenberg, all eigenvalues, O(n2), cubic, Factors A = QR, where Q is\n\u00a0...", 
+            "htmlSnippet": "The eigenvalue algorithm can then be applied to the restricted matrix. ... <b>QR</b> <br>\n<b>algorithm</b>, Hessenberg, all eigenvalues, O(n<sup>2</sup>), cubic, Factors A = QR, where Q is<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Eigenvalue_algorithm", 
+            "cacheId": "WeSAMpGy004J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Schur decomposition - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Schur decomposition - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Schur_decomposition", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Schur_decomposition", 
+            "snippet": "Schur decomposition of a given matrix is known to be numerically computed by \nQR algorithm or its variants. In other words, the roots of the characteristic\u00a0...", 
+            "htmlSnippet": "Schur decomposition of a given matrix is known to be numerically computed by <br>\n<b>QR algorithm</b> or its variants. In other words, the roots of the characteristic&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Schur_decomposition", 
+            "cacheId": "_bLyOfzkLnYJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - QR algorithm", 
+                "safe": "off", 
+                "searchTerms": "QR algorithm", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "502"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - QR algorithm", 
+                "safe": "off", 
+                "searchTerms": "QR algorithm", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "502"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.25", 
+        "formattedTotalResults": "502", 
+        "totalResults": "502", 
+        "searchTime": 0.253021
+    }
+}

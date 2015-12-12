@@ -1,0 +1,264 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Spring Framework - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Spring</b> Framework - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Spring_Framework", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Spring</b>_Framework", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "107", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRDledLudfWIMxEQqX8M6xtYfBXGZeCHuKMNhBk7PSpeLL4Lejkp8LB7Q", 
+                        "height": "59"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/7/70/Spring_Framework.png"
+                    }
+                ]
+            }, 
+            "snippet": "The Spring Framework is an application framework and inversion of control .... \nThe Spring AOP framework is proxy pattern-based, and is configured at run time.", 
+            "htmlSnippet": "The <b>Spring</b> Framework is an application framework and inversion of control .... <br>\nThe <b>Spring</b> AOP framework is proxy pattern-<b>based</b>, and is configured at run time.", 
+            "link": "https://en.wikipedia.org/wiki/Spring_Framework", 
+            "cacheId": "UpcNJ0QESQAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Force-directed graph drawing - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Force-directed graph drawing - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Force-directed_graph_drawing", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Force-directed_graph_drawing", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "200", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbC-CZkIZgu_8l8JpMWRAZ2lW_4Ob56tLpApZQzQ-ulW2_7LdJh1SWu3sA", 
+                        "height": "200"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Visualization_of_wiki_structure_using_prefuse_visualization_package.png/250px-Visualization_of_wiki_structure_using_prefuse_visualization_package.png"
+                    }
+                ]
+            }, 
+            "snippet": "Typically, spring-like attractive forces based on Hooke's law are used to attract \npairs of endpoints of the graph's edges towards each other, while simultaneously\n\u00a0...", 
+            "htmlSnippet": "Typically, <b>spring</b>-like attractive forces <b>based</b> on Hooke&#39;s law are used to attract <br>\npairs of endpoints of the graph&#39;s edges towards each other, while simultaneously<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Force-directed_graph_drawing", 
+            "cacheId": "FQgufas8NuIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Spring (device) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Spring</b> (device) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Spring_(device)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Spring</b>_(device)", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "160", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTJEte53upUJWEOIem4rJw1p-h6Qhusa8HbX0tCBqYCyaXDYIo77b8Jvg", 
+                        "height": "108"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Springs_009.jpg/200px-Springs_009.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "A heavy-duty helical spring designed for compression and tension. .... There are \nuseful springs that don't: springs based on beam bending can for example\u00a0...", 
+            "htmlSnippet": "A heavy-duty helical spring designed for compression and tension. .... There are <br>\nuseful springs that don&#39;t: <b>springs based</b> on beam bending can for example&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Spring_(device)", 
+            "cacheId": "HZfopmzXStYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Spring Security - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Spring</b> Security - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Spring_Security", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Spring</b>_Security", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "212", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRA8EoqgsfCU39XHE11ddyEGb8TYrYqyX-xQ0WvDsvSCpHmfw4A067SnNc", 
+                        "height": "238"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/b/b7/ACEGI_Authentication.JPG"
+                    }
+                ]
+            }, 
+            "snippet": "[edit]. Used for specifying Access control lists applicable to domain objects. \nSpring Security offers a repository\u00a0...", 
+            "htmlSnippet": "[edit]. Used for specifying Access control lists applicable to domain objects. <br>\n<b>Spring</b> Security offers a repository&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Spring_Security", 
+            "cacheId": "CbPm4_IpofoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Radiator Springs - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Radiator <b>Springs</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Radiator_Springs", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Radiator_<b>Springs</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQMul84nZW3fw9XD67OJyrPicZ3RKxdlVFtBd9T677zsQnL_R-EQE-A6us", 
+                        "height": "116"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/U-Drop_Inn.jpg/220px-U-Drop_Inn.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "Radiator Springs is a Disney cartoon village created as a composite of multiple \nreal places on historic ... \"Ramone's\" is based on the U-Drop Inn in Shamrock TX.", 
+            "htmlSnippet": "Radiator <b>Springs</b> is a Disney cartoon village created as a composite of multiple <br>\nreal places on historic ... &quot;Ramone&#39;s&quot; is <b>based</b> on the U-Drop Inn in Shamrock TX.", 
+            "link": "https://en.wikipedia.org/wiki/Radiator_Springs", 
+            "cacheId": "7JdnxUlIEFwJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Silent Spring - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Silent <b>Spring</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Silent_Spring", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Silent_<b>Spring</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSf3cKWjjRRZOiLi7pOEnopyHvttMw-DmnEaaDzlSqnSvw7UwpfgH3_Obb0", 
+                        "height": "248"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/SilentSpring.jpg/220px-SilentSpring.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "Silent Spring is an environmental science book written by Rachel Carson and .... \nThough Silent Spring had generated a fairly high level of interest based on\u00a0...", 
+            "htmlSnippet": "Silent <b>Spring</b> is an environmental science book written by Rachel Carson and .... <br>\nThough Silent <b>Spring</b> had generated a fairly high level of interest <b>based</b> on&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Silent_Spring", 
+            "cacheId": "hlwHInGEJQ4J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Spring - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Spring</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Spring", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Spring</b>", 
+            "snippet": "Look up Spring or spring in Wiktionary, the free dictionary. ... Global, a Brazil-\nbased corporation; SPRING Singapore, a governmental department of Singapore\n\u00a0...", 
+            "htmlSnippet": "Look up <b>Spring</b> or <b>spring</b> in Wiktionary, the free dictionary. ... Global, a Brazil-<br>\n<b>based</b> corporation; <b>SPRING</b> Singapore, a governmental department of Singapore<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Spring", 
+            "cacheId": "5bsPy0qa0f0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Category:Companies based in Silver Spring, Maryland - Wikipedia ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Category:Companies <b>based</b> in Silver <b>Spring</b>, Maryland - Wikipedia <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../Category:Companies_based_in_Silver_Spring,_ Maryland", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Category:Companies_<b>based</b>_in_Silver_<b>Spring</b>,_ Maryland", 
+            "snippet": "Pages in category \"Companies based in Silver Spring, Maryland\". The following \n4 pages are in this category, out of 4 total. This list may not reflect recent\u00a0...", 
+            "htmlSnippet": "Pages in category &quot;Companies <b>based</b> in Silver <b>Spring</b>, Maryland&quot;. The following <br>\n4 pages are in this category, out of 4 total. This list may not reflect recent&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Category:Companies_based_in_Silver_Spring,_Maryland", 
+            "cacheId": "SGoU55NLaYEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Highland Spring - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Highland <b>Spring</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Highland_Spring", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Highland_<b>Spring</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSvUb5zDBeJGbn9Hji5Z4fXckwvmygkT-DqFXhb8IqatBCFaX5M-zGn8A", 
+                        "height": "92"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/Highland_Spring_logo.jpg/220px-Highland_Spring_logo.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "The company has expanded through organic growth and also by acquisition, \ntaking over the Gleneagles Spring Water Company, also based in Blackford,\u00a0...", 
+            "htmlSnippet": "The company has expanded through organic growth and also by acquisition, <br>\ntaking over the Gleneagles <b>Spring</b> Water Company, also <b>based</b> in Blackford,&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Highland_Spring", 
+            "cacheId": "f3tnqP-vcaoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Category:Companies based in Colorado Springs, Colorado ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Category:Companies <b>based</b> in Colorado <b>Springs</b>, Colorado <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../Category:Companies_based_in_Colorado_Springs ,_Colorado", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Category:Companies_<b>based</b>_in_Colorado_<b>Springs</b> ,_Colorado", 
+            "snippet": "Pages in category \"Companies based in Colorado Springs, Colorado\". The \nfollowing 21 pages are in this category, out of 21 total. This list may not reflect \nrecent\u00a0...", 
+            "htmlSnippet": "Pages in category &quot;Companies <b>based</b> in Colorado <b>Springs</b>, Colorado&quot;. The <br>\nfollowing 21 pages are in this category, out of 21 total. This list may not reflect <br>\nrecent&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Category:Companies_based_in_Colorado_Springs,_Colorado", 
+            "cacheId": "XPyfolB5X60J"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Spring based", 
+                "safe": "off", 
+                "searchTerms": "Spring based", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "748000"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Spring based", 
+                "safe": "off", 
+                "searchTerms": "Spring based", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "748000"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.32", 
+        "formattedTotalResults": "748,000", 
+        "totalResults": "748000", 
+        "searchTime": 0.323106
+    }
+}

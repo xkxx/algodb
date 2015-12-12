@@ -1,0 +1,250 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Fast Fourier transform - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Fast Fourier transform</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Fast_Fourier_transform", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Fast</b>_<b>Fourier</b>_<b>transform</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "318", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSnIs5golPnUw9wxp2kPBmReVf9KttXn6Jd65w_RWvtnfXuWgZhlTsLZDc", 
+                        "height": "159"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Time_Signal_of_Five_Term_Cosine_Series.png/400px-Time_Signal_of_Five_Term_Cosine_Series.png"
+                    }
+                ]
+            }, 
+            "snippet": "A fast Fourier transform (FFT) algorithm computes the discrete Fourier transform (\nDFT) of a sequence, or its inverse. Fourier analysis converts a signal from its\u00a0...", 
+            "htmlSnippet": "A <b>fast Fourier transform</b> (<b>FFT</b>) algorithm computes the discrete Fourier transform (<br>\nDFT) of a sequence, or its inverse. Fourier analysis converts a signal from its&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Fast_Fourier_transform", 
+            "cacheId": "aDSMugX9X0AJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Cooley\u2013Tukey FFT algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Cooley\u2013Tukey <b>FFT</b> algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Cooley\u2013Tukey_FFT_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Cooley\u2013Tukey_<b>FFT</b>_algorithm", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "276", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRACW82Brp083dpd9mo6DFNHHnHWGAY-_vh2ZI42t4iTVk2rAVWpQcMySk", 
+                        "height": "183"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Cooley-tukey-general.png/500px-Cooley-tukey-general.png"
+                    }
+                ]
+            }, 
+            "snippet": "The Cooley\u2013Tukey algorithm, named after J.W. Cooley and John Tukey, is the \nmost common fast Fourier transform (FFT) algorithm. It re-expresses the discrete\n\u00a0...", 
+            "htmlSnippet": "The Cooley\u2013Tukey algorithm, named after J.W. Cooley and John Tukey, is the <br>\nmost common <b>fast Fourier transform</b> (<b>FFT</b>) algorithm. It re-expresses the discrete<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Cooley%E2%80%93Tukey_FFT_algorithm", 
+            "cacheId": "ZRsUCXfOwEYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Fourier analysis - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Fourier</b> analysis - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Fourier_analysis", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Fourier</b>_analysis", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "318", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlBQnG9rjQSQewxoJu65xs_yqvuTqtCDm6hb65C_Dw0ofQHklJdZa_Z_0", 
+                        "height": "159"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Bass_Guitar_Time_Signal_of_open_string_A_note_(55_Hz).png/400px-Bass_Guitar_Time_Signal_of_open_string_A_note_(55_Hz).png"
+                    }
+                ]
+            }, 
+            "snippet": "Main article: Discrete Fourier transform ... The DFT can be computed using a fast \nFourier transform (FFT)\u00a0...", 
+            "htmlSnippet": "Main article: Discrete Fourier transform ... The DFT can be computed using a <b>fast</b> <br>\n<b>Fourier transform</b> (FFT)&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Fourier_analysis", 
+            "cacheId": "XsJLIUkwQ2QJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Fourier transform - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Fourier transform</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Fourier_transform", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Fourier</b>_<b>transform</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "240", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRNsGIQwsqHlMLQc9GVovDLMKSOajRCa3E4ZibhssHuer0fjT8ekFUOMtU", 
+                        "height": "180"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Fourier_unit_pulse.svg/300px-Fourier_unit_pulse.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "The Fourier transform decomposes a function of time (a signal) into the \nfrequencies that ... The fast Fourier transform (FFT) is an algorithm for computing \nthe DFT.", 
+            "htmlSnippet": "The Fourier transform decomposes a function of time (a signal) into the <br>\nfrequencies that ... The <b>fast Fourier transform</b> (FFT) is an algorithm for computing <br>\nthe DFT.", 
+            "link": "https://en.wikipedia.org/wiki/Fourier_transform", 
+            "cacheId": "4F4OKo6OOBEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Cyclotomic fast Fourier transform - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Cyclotomic <b>fast Fourier transform</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Cyclotomic_fast_Fourier_transform", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Cyclotomic_<b>fast</b>_<b>Fourier</b>_<b>transform</b>", 
+            "snippet": "The cyclotomic fast Fourier transform is a type of fast Fourier transform algorithm \nover finite fields. This algorithm first decomposes a DFT into several circular\u00a0...", 
+            "htmlSnippet": "The cyclotomic <b>fast Fourier transform</b> is a type of <b>fast Fourier transform</b> algorithm <br>\nover finite fields. This algorithm first decomposes a DFT into several circular&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Cyclotomic_fast_Fourier_transform", 
+            "cacheId": "KihDzJf4zqEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Discrete Fourier transform - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Discrete <b>Fourier transform</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Discrete_Fourier_transform", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Discrete_<b>Fourier</b>_<b>transform</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "282", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7eTBS1VqYusI0aBy7CM7BmORU6mb9QqNgYcmlCfZvKZTHD4hZnJjsIEs", 
+                        "height": "179"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Fourier_transform,_Fourier_series,_DTFT,_DFT.gif/400px-Fourier_transform,_Fourier_series,_DTFT,_DFT.gif"
+                    }
+                ]
+            }, 
+            "snippet": "That is always the case when the DFT is implemented via the Fast Fourier \ntransform algorithm. But other common domains are [-N/2, N/2-1] (N even) and\u00a0...", 
+            "htmlSnippet": "That is always the case when the DFT is implemented via the <b>Fast Fourier</b> <br>\n<b>transform</b> algorithm. But other common domains are [-N/2, N/2-1] (N even) and&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Discrete_Fourier_transform", 
+            "cacheId": "6dhBpq97clMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Fast Fourier Transform Telescope - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Fast Fourier Transform</b> Telescope - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Fast_Fourier_Transform_Telescope", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Fast</b>_<b>Fourier</b>_<b>Transform</b>_Telescope", 
+            "snippet": "Fast Fourier Transform Telescope is Tegmark and Zaldarriaga's name for a \ndesign for an all-digital synthetic-aperture telescope. It is a type of interferometer\n\u00a0...", 
+            "htmlSnippet": "<b>Fast Fourier Transform</b> Telescope is Tegmark and Zaldarriaga&#39;s name for a <br>\ndesign for an all-digital synthetic-aperture telescope. It is a type of interferometer<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Fast_Fourier_Transform_Telescope", 
+            "cacheId": "NgmiKdWhTjcJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Non-uniform discrete Fourier transform - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Non-uniform discrete <b>Fourier transform</b> - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../Non-uniform_discrete_Fourier_transform", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Non-uniform_discrete_<b>Fourier</b>_<b>transform</b>", 
+            "snippet": "In applied mathematics, the non-uniform discrete Fourier transform (NDFT) of a \nsignal is a .... \"Nonuniform fast Fourier transforms using min-max interpolation\".", 
+            "htmlSnippet": "In applied mathematics, the non-uniform discrete Fourier transform (NDFT) of a <br>\nsignal is a .... &quot;Nonuniform <b>fast Fourier transforms</b> using min-max interpolation&quot;.", 
+            "link": "https://en.wikipedia.org/wiki/Non-uniform_discrete_Fourier_transform", 
+            "cacheId": "H1A5T5gJYJoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Prime-factor FFT algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Prime-factor <b>FFT</b> algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Prime-factor_FFT_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Prime-factor_<b>FFT</b>_algorithm", 
+            "snippet": "The prime-factor algorithm (PFA), also called the Good\u2013Thomas algorithm (1958/\n1963), is a fast Fourier transform (FFT) algorithm that re-expresses the discrete\u00a0...", 
+            "htmlSnippet": "The prime-factor algorithm (PFA), also called the Good\u2013Thomas algorithm (1958/<br>\n1963), is a <b>fast Fourier transform</b> (FFT) algorithm that re-expresses the discrete&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Prime-factor_FFT_algorithm", 
+            "cacheId": "BgFzCiW4iJ0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Short-time Fourier transform - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Short-time <b>Fourier transform</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Short-time_Fourier_transform", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Short-time_<b>Fourier</b>_<b>transform</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "258", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSMbyvEkq0NBLHxf6OlJaiN56PRLLacF0AolGqvvI5hQ-gawkjzsw-3Y7U", 
+                        "height": "195"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Impact_STFT.png/400px-Impact_STFT.png"
+                    }
+                ]
+            }, 
+            "snippet": "The short-time Fourier transform (STFT), or alternatively short-term Fourier ... is \nperformed on a computer using the Fast Fourier Transform, so both variables are\n\u00a0...", 
+            "htmlSnippet": "The short-time Fourier transform (STFT), or alternatively short-term Fourier ... is <br>\nperformed on a computer using the <b>Fast Fourier Transform</b>, so both variables are<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Short-time_Fourier_transform", 
+            "cacheId": "hR_12x8xkmEJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Fast Fourier transform", 
+                "safe": "off", 
+                "searchTerms": "Fast Fourier transform", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "1900"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Fast Fourier transform", 
+                "safe": "off", 
+                "searchTerms": "Fast Fourier transform", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "1900"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.35", 
+        "formattedTotalResults": "1,900", 
+        "totalResults": "1900", 
+        "searchTime": 0.349987
+    }
+}

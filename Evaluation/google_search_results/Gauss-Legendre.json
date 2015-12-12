@@ -1,0 +1,194 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Gaussian quadrature - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Gaussian</b> quadrature - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Gaussian_quadrature", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Gaussian</b>_quadrature", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTVImNt86Wa_qS6sAHtrnXIVo7y82gDs0eIbpD13egsXX28KXKANmNXD8QD", 
+                        "height": "132"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Legendrepolynomials6.svg/220px-Legendrepolynomials6.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "[edit]. Graphs of Legendre polynomials (up to n = 5). For the simplest integration \nproblem stated above, i.e.\u00a0...", 
+            "htmlSnippet": "[edit]. Graphs of <b>Legendre</b> polynomials (up to n = 5). For the simplest integration <br>\nproblem stated above, i.e.&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Gaussian_quadrature", 
+            "cacheId": "mlmDAGEYTfsJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Gauss\u2013Legendre algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Gauss</b>\u2013<b>Legendre</b> algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Gauss\u2013Legendre_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Gauss</b>\u2013<b>Legendre</b>_algorithm", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "186", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRJgi_vuF34f0NJCv7lMvJCZDBs9xOxOyPINwau-548R5ncLZEqI_ark00", 
+                        "height": "104"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/math/a/e/1/ae126f8e671dfc83c339f8f596f4c11c.png"
+                    }
+                ]
+            }, 
+            "snippet": "The Gauss\u2013Legendre algorithm is an algorithm to compute the digits of \u03c0. It is \nnotable for being rapidly convergent, with only 25 iterations producing 45 million\n\u00a0...", 
+            "htmlSnippet": "The <b>Gauss</b>\u2013<b>Legendre</b> algorithm is an algorithm to compute the digits of \u03c0. It is <br>\nnotable for being rapidly convergent, with only 25 iterations producing 45 million<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Gauss%E2%80%93Legendre_algorithm", 
+            "cacheId": "z_pJk9Yh76wJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Gauss\u2013Legendre method - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Gauss</b>\u2013<b>Legendre</b> method - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Gauss\u2013Legendre_method", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Gauss</b>\u2013<b>Legendre</b>_method", 
+            "snippet": "In numerical analysis and scientific computing, the Gauss\u2013Legendre methods \nare a family of numerical methods for ordinary differential equations.", 
+            "htmlSnippet": "In numerical analysis and scientific computing, the <b>Gauss</b>\u2013<b>Legendre</b> methods <br>\nare a family of numerical methods for ordinary differential equations.", 
+            "link": "https://en.wikipedia.org/wiki/Gauss%E2%80%93Legendre_method", 
+            "cacheId": "Q6zrHgFoXv8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Collocation method - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Collocation method - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Collocation_method", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Collocation_method", 
+            "snippet": "The Gauss\u2013Legendre methods uses the points of Gauss\u2013Legendre quadrature \nas collocation points. The Gauss\u2013Legendre method based on s points has order\n\u00a0...", 
+            "htmlSnippet": "The <b>Gauss</b>\u2013<b>Legendre</b> methods uses the points of <b>Gauss</b>\u2013<b>Legendre</b> quadrature <br>\nas collocation points. The <b>Gauss</b>\u2013<b>Legendre</b> method based on s points has order<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Collocation_method", 
+            "cacheId": "nJlC--qjgvEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Legendre's three-square theorem - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Legendre&#39;s</b> three-square theorem - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Legendre's_three-square_theorem", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Legendre&#39;s</b>_three-square_theorem", 
+            "snippet": "In mathematics, Legendre's three-square theorem states that a natural ... In 1796 \nGauss proved his Eureka theorem that every positive integer n is the sum of 3\u00a0...", 
+            "htmlSnippet": "In mathematics, <b>Legendre&#39;s</b> three-square theorem states that a natural ... In 1796 <br>\n<b>Gauss</b> proved his Eureka theorem that every positive integer n is the sum of 3&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Legendre's_three-square_theorem", 
+            "cacheId": "0psPaVFvYR0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Gauss\u2013Legendre algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Gauss</b>\u2013<b>Legendre</b> algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3AGauss\u2013Legendre_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>Gauss</b>\u2013<b>Legendre</b>_algorithm", 
+            "snippet": "Talk:Gauss\u2013Legendre algorithm ... Retrieved from \"https://en.wikipedia.org/w/\nindex.php?title=Talk:Gauss\u2013Legendre_algorithm&oldid=580203454\". \nCategories:.", 
+            "htmlSnippet": "Talk:<b>Gauss</b>\u2013<b>Legendre</b> algorithm ... Retrieved from &quot;https://en.wikipedia.org/w/<br>\nindex.php?title=Talk:Gauss\u2013Legendre_algorithm&amp;oldid=580203454&quot;. <br>\nCategories:.", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3AGauss%E2%80%93Legendre_algorithm", 
+            "cacheId": "9fSoBlEZY3oJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Gauss\u2013Jacobi quadrature - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Gauss</b>\u2013Jacobi quadrature - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Gauss\u2013Jacobi_quadrature", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Gauss</b>\u2013Jacobi_quadrature", 
+            "snippet": "Thus, Gauss\u2013Jacobi quadrature can be used to approximate integrals with \nsingularities at the end points. Gauss\u2013Legendre quadrature is a special case of\u00a0...", 
+            "htmlSnippet": "Thus, Gauss\u2013Jacobi quadrature can be used to approximate integrals with <br>\nsingularities at the end points. <b>Gauss</b>\u2013<b>Legendre</b> quadrature is a special case of&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Gauss%E2%80%93Jacobi_quadrature", 
+            "cacheId": "xc7Uz61i-34J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Quadratic reciprocity - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Quadratic reciprocity - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Quadratic_reciprocity", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Quadratic_reciprocity", 
+            "snippet": "The theorem was conjectured by Euler and Legendre and first proved by Gauss. \nHe refers to it as the \"fundamental theorem\" in the Disquisitiones Arithmeticae\u00a0...", 
+            "htmlSnippet": "The theorem was conjectured by Euler and <b>Legendre</b> and first proved by <b>Gauss</b>. <br>\nHe refers to it as the &quot;fundamental theorem&quot; in the Disquisitiones Arithmeticae&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Quadratic_reciprocity", 
+            "cacheId": "_XyuLhkE50kJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Gauss pseudospectral method - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Gauss</b> pseudospectral method - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Gauss_pseudospectral_method", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Gauss</b>_pseudospectral_method", 
+            "snippet": "The Gauss pseudospectral method (GPM), one of many topics named after Carl \n... optimal control problem is discretized) are the Legendre\u2013Gauss (LG) points.", 
+            "htmlSnippet": "The <b>Gauss</b> pseudospectral method (GPM), one of many topics named after Carl <br>\n... optimal control problem is discretized) are the <b>Legendre</b>\u2013<b>Gauss</b> (LG) points.", 
+            "link": "https://en.wikipedia.org/wiki/Gauss_pseudospectral_method", 
+            "cacheId": "-2D4opJHJt8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Multiplication theorem - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Multiplication theorem - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Multiplication_theorem", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Multiplication_theorem", 
+            "snippet": "1 Finite characteristic; 2 Gamma function-Legendre function; 3 Polygamma \nfunction, ... for integer k \u2265 1, and is sometimes called Gauss's multiplication \nformula,\u00a0...", 
+            "htmlSnippet": "1 Finite characteristic; 2 Gamma function-<b>Legendre</b> function; 3 Polygamma <br>\nfunction, ... for integer k \u2265 1, and is sometimes called <b>Gauss&#39;s</b> multiplication <br>\nformula,&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Multiplication_theorem", 
+            "cacheId": "-tvVX-nPQtcJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Gauss-Legendre", 
+                "safe": "off", 
+                "searchTerms": "Gauss-Legendre", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "430"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Gauss-Legendre", 
+                "safe": "off", 
+                "searchTerms": "Gauss-Legendre", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "430"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.25", 
+        "formattedTotalResults": "430", 
+        "totalResults": "430", 
+        "searchTime": 0.246475
+    }
+}

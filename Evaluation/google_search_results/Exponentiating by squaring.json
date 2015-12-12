@@ -1,0 +1,184 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Exponentiation by squaring - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Exponentiation by squaring</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Exponentiation_by_squaring", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Exponentiation_by_squaring</b>", 
+            "snippet": "In mathematics and computer programming, exponentiating by squaring is a \ngeneral method for fast computation of large positive integer powers of a number,\n\u00a0...", 
+            "htmlSnippet": "In mathematics and computer programming, <b>exponentiating by squaring</b> is a <br>\ngeneral method for fast computation of large positive integer powers of a number,<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Exponentiation_by_squaring", 
+            "cacheId": "8I9_iqL_aLIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Modular exponentiation - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Modular <b>exponentiation</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Modular_exponentiation", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Modular_<b>exponentiation</b>", 
+            "snippet": "Modular exponentiation can be performed with a negative exponent e by finding \nthe .... called exponentiation by squaring (also known as binary exponentiation).", 
+            "htmlSnippet": "Modular exponentiation can be performed with a negative exponent e by finding <br>\nthe .... called <b>exponentiation by squaring</b> (also known as binary exponentiation).", 
+            "link": "https://en.wikipedia.org/wiki/Modular_exponentiation", 
+            "cacheId": "feMTqW3P8A0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Exponentiation by squaring - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Exponentiation by squaring</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3AExponentiation_by_squaring", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>Exponentiation_by_squaring</b>", 
+            "snippet": "This isn't exactally exponentiating by squaring, but along the same lines. ---Jay. \nYes, this would ... Is this the addition chain exponentiation that Henrygb linked?", 
+            "htmlSnippet": "This isn&#39;t exactally <b>exponentiating by squaring</b>, but along the same lines. ---Jay. <br>\nYes, this would ... Is this the addition chain exponentiation that Henrygb linked?", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3AExponentiation_by_squaring", 
+            "cacheId": "Swl82c7fsj8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Computational complexity of mathematical operations - Wikipedia ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Computational complexity of mathematical operations - Wikipedia <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../Computational_complexity_of_mathematical_ operations", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Computational_complexity_of_mathematical_ operations", 
+            "snippet": "Modular exponentiation, Two n-digit numbers and a k-bit exponent, One n-digit \nnumber, Repeated multiplication and ... Exponentiation by squaring, O(M(n) k).", 
+            "htmlSnippet": "Modular exponentiation, Two n-digit numbers and a k-bit exponent, One n-digit <br>\nnumber, Repeated multiplication and ... <b>Exponentiation by squaring</b>, O(M(n) k).", 
+            "link": "https://en.wikipedia.org/wiki/Computational_complexity_of_mathematical_operations", 
+            "cacheId": "btNcRqLeZOoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Addition chain - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Addition chain - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Addition_chain", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Addition_chain", 
+            "snippet": "One very well known technique to calculate relatively short addition chains is the \nbinary method, similar to exponentiation by squaring. Other well-known\u00a0...", 
+            "htmlSnippet": "One very well known technique to calculate relatively short addition chains is the <br>\nbinary method, similar to <b>exponentiation by squaring</b>. Other well-known&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Addition_chain", 
+            "cacheId": "5cFCIr1s2vsJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Common Lisp - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Common Lisp - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Lisp-1", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Lisp-1", 
+            "snippet": "9.1 Birthday paradox; 9.2 Sorting a list of person objects; 9.3 Exponentiating by \nsquaring; 9.4 Find the list of available shells. 10 Comparison with other Lisps\u00a0...", 
+            "htmlSnippet": "9.1 Birthday paradox; 9.2 Sorting a list of person objects; 9.3 <b>Exponentiating by</b> <br>\n<b>squaring</b>; 9.4 Find the list of available shells. 10 Comparison with other Lisps&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Lisp-1", 
+            "cacheId": "y8NoU5Uhtd0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Square (algebra) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Square (algebra) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Square_(algebra)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Square_(algebra)", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "134", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSawd-HaltZKT4OgidcV5Fyj-x68cjhz0rGdo-UboSWOntjMlccC90Smoo", 
+                        "height": "172"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Five_Squared.svg/168px-Five_Squared.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "In algebra, the operation of squaring is often generalized to polynomials, other \nexpressions, .... See also: Exponentiation \u00a7 Powers of complex numbers.", 
+            "htmlSnippet": "In algebra, the operation of <b>squaring</b> is often generalized to polynomials, other <br>\nexpressions, .... See also: <b>Exponentiation</b> \u00a7 Powers of complex numbers.", 
+            "link": "https://en.wikipedia.org/wiki/Square_(algebra)", 
+            "cacheId": "VAGY_M01VOUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Discrete logarithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Discrete logarithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Discrete_logarithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Discrete_logarithm", 
+            "snippet": "At the same time, the inverse problem of discrete exponentiation is not difficult (it \ncan be computed efficiently using exponentiation by squaring, for example).", 
+            "htmlSnippet": "At the same time, the inverse problem of discrete exponentiation is not difficult (it <br>\ncan be computed efficiently using <b>exponentiation by squaring</b>, for example).", 
+            "link": "https://en.wikipedia.org/wiki/Discrete_logarithm", 
+            "cacheId": "7imu4Vf2ay0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "List of computability and complexity topics - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "List of computability and complexity topics - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../List_of_computability_and_complexity_topics", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../List_of_computability_and_complexity_topics", 
+            "snippet": "History of computers \u00b7 Multiplication algorithm \u00b7 Peasant multiplication \u00b7 Division \nby two \u00b7 Exponentiating by squaring \u00b7 Addition chain \u00b7 Scholz conjecture.", 
+            "htmlSnippet": "History of computers &middot; Multiplication algorithm &middot; Peasant multiplication &middot; Division <br>\nby two &middot; <b>Exponentiating by squaring</b> &middot; Addition chain &middot; Scholz conjecture.", 
+            "link": "https://en.wikipedia.org/wiki/List_of_computability_and_complexity_topics", 
+            "cacheId": "QZxEwaCCHw8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "List of exponential topics - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "List of exponential topics - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/List_of_exponential_topics", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/List_of_exponential_topics", 
+            "snippet": "Sub-exponential time. Exponential tree; Exponential type; Exponentially \nequivalent measures; Exponentiating by squaring; Forgetting curve \u00b7 Gaussian \nfunction\u00a0...", 
+            "htmlSnippet": "Sub-exponential time. Exponential tree; Exponential type; Exponentially <br>\nequivalent measures; <b>Exponentiating by squaring</b>; Forgetting curve &middot; Gaussian <br>\nfunction&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/List_of_exponential_topics", 
+            "cacheId": "OcSZKGAdXJAJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Exponentiating by squaring", 
+                "safe": "off", 
+                "searchTerms": "Exponentiating by squaring", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "299"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Exponentiating by squaring", 
+                "safe": "off", 
+                "searchTerms": "Exponentiating by squaring", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "299"
+            }
+        ]
+    }, 
+    "spelling": {
+        "correctedQuery": "Exponentiation by squaring", 
+        "htmlCorrectedQuery": "<b><i>Exponentiation</i></b> by squaring"
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.27", 
+        "formattedTotalResults": "299", 
+        "totalResults": "299", 
+        "searchTime": 0.266511
+    }
+}

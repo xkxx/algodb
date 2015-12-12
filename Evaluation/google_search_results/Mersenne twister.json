@@ -1,0 +1,203 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Mersenne Twister - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Mersenne Twister</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Mersenne_Twister", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Mersenne</b>_<b>Twister</b>", 
+            "snippet": "The Mersenne Twister is a pseudorandom number generator (PRNG). It is by far \nthe most widely used general-purpose PRNG. Its name derives from the fact\u00a0...", 
+            "htmlSnippet": "The <b>Mersenne Twister</b> is a pseudorandom number generator (PRNG). It is by far <br>\nthe most widely used general-purpose PRNG. Its name derives from the fact&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Mersenne_Twister", 
+            "cacheId": "VVVvRB_r8PUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Mersenne prime - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Mersenne</b> prime - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Mersenne_prime", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Mersenne</b>_prime", 
+            "pagemap": {
+                "hcard": [
+                    {
+                        "fn": "Mersenne prime"
+                    }
+                ]
+            }, 
+            "snippet": "Mersenne primes are used in pseudorandom number generators such as the \nMersenne twister, Park\u2013Miller random number generator, Generalized Shift\u00a0...", 
+            "htmlSnippet": "Mersenne primes are used in pseudorandom number generators such as the <br>\n<b>Mersenne twister</b>, Park\u2013Miller random number generator, Generalized Shift&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Mersenne_prime", 
+            "cacheId": "aMLkGL3R_B4J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Mersenne Twister - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Mersenne Twister</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3AMersenne_twister", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>Mersenne</b>_<b>twister</b>", 
+            "snippet": "Mersenne Twister seems to be very well behaved in practice, but this has very \nlittle to do with the theoretical guarantee. 203.164.223.124 02:49, 28 April 2006\u00a0...", 
+            "htmlSnippet": "<b>Mersenne Twister</b> seems to be very well behaved in practice, but this has very <br>\nlittle to do with the theoretical guarantee. 203.164.223.124 02:49, 28 April 2006&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3AMersenne_twister", 
+            "cacheId": "6-gNg43LxcgJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Mersenne Twister/to do - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Mersenne Twister</b>/to do - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3AMersenne_twister/to_do", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>Mersenne</b>_<b>twister</b>/to_do", 
+            "snippet": "Add an article about the new variant of Mersenne Twister. Resolve the conflict in \nthe published literature as to MT19937's ability (or inability) to pass ALL\u00a0...", 
+            "htmlSnippet": "Add an article about the new variant of <b>Mersenne Twister</b>. Resolve the conflict in <br>\nthe published literature as to MT19937&#39;s ability (or inability) to pass ALL&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3AMersenne_twister/to_do", 
+            "cacheId": "H9mOXBSbkvAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "George Marsaglia - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "George Marsaglia - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/George_Marsaglia", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/George_Marsaglia", 
+            "pagemap": {
+                "hcard": [
+                    {
+                        "bday": "1924-03-12", 
+                        "category": "Mathematics", 
+                        "fn": "George Marsaglia"
+                    }
+                ]
+            }, 
+            "snippet": "Marsaglia's Alternative to Mersenne Twister 2003 [1]; Marsaglia's Alternative to \nMersenne Twister 2003 [2] \u00b7 George Marsaglia at the Mathematics Genealogy\u00a0...", 
+            "htmlSnippet": "Marsaglia&#39;s Alternative to <b>Mersenne Twister</b> 2003 [1]; Marsaglia&#39;s Alternative to <br>\n<b>Mersenne Twister</b> 2003 [2] &middot; George Marsaglia at the Mathematics Genealogy&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/George_Marsaglia", 
+            "cacheId": "pfK28YrTByoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Pseudorandom number generator - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Pseudorandom number generator - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Pseudorandom_number_generator", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Pseudorandom_number_generator", 
+            "snippet": "The first PRNG to avoid major problems and still run fairly quickly was the \nMersenne Twister (discussed below), which was published in 1998. Other high-\nquality\u00a0...", 
+            "htmlSnippet": "The first PRNG to avoid major problems and still run fairly quickly was the <br>\n<b>Mersenne Twister</b> (discussed below), which was published in 1998. Other high-<br>\nquality&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Pseudorandom_number_generator", 
+            "cacheId": "zZ2fPoYO4YgJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Marin Mersenne - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Marin <b>Mersenne</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Marin_Mersenne", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Marin_<b>Mersenne</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiIXjL9Fos0B15z_-5mvyJq3-JlSIkAvif1QR9gv6EDx7sINsOfIlOKaEl", 
+                        "height": "223"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Marin_mersenne.jpg/220px-Marin_mersenne.jpg"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "bday": "1588-09-08", 
+                        "category": "French", 
+                        "fn": "Marin Mersenne"
+                    }
+                ]
+            }, 
+            "snippet": "Marin Mersenne, Marin Mersennus or le P\u00e8re Mersenne (8 September 1588 \u2013 1 \n.... The Mersenne Twister, named for him, is frequently used in computer\u00a0...", 
+            "htmlSnippet": "Marin Mersenne, Marin Mersennus or le P\u00e8re Mersenne (8 September 1588 \u2013 1 <br>\n.... The <b>Mersenne Twister</b>, named for him, is frequently used in computer&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Marin_Mersenne", 
+            "cacheId": "Kn4pY-Dqq3wJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Xorshift - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Xorshift - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Xorshift", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Xorshift", 
+            "snippet": "A naive C implementation of a xorshift+ generator that passes all tests from the \nBigCrush suite (with an order of magnitude fewer failures than Mersenne Twister\n\u00a0...", 
+            "htmlSnippet": "A naive C implementation of a xorshift+ generator that passes all tests from the <br>\nBigCrush suite (with an order of magnitude fewer failures than <b>Mersenne Twister</b><br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Xorshift", 
+            "cacheId": "gcDUKEDa8iMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Lagged Fibonacci generator - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Lagged Fibonacci generator - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Lagged_Fibonacci_generator", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Lagged_Fibonacci_generator", 
+            "snippet": "... and if the XOR operation is used, it is called a Two-tap generalised feedback \nshift register or GFSR. The Mersenne twister algorithm is a variation on a GFSR.", 
+            "htmlSnippet": "... and if the XOR operation is used, it is called a Two-tap generalised feedback <br>\nshift register or GFSR. The <b>Mersenne twister</b> algorithm is a variation on a GFSR.", 
+            "link": "https://en.wikipedia.org/wiki/Lagged_Fibonacci_generator", 
+            "cacheId": "vU7vAWPDz74J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Wikipedia:Reference desk/Archives/Mathematics/2015 March 6 ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Wikipedia:Reference desk/Archives/Mathematics/2015 March 6 <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Wikipedia:Reference.../2015_March_6", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Wikipedia:Reference.../2015_March_6", 
+            "snippet": "cmglee has opened a move request on the appropriate talk page at Talk:\nMersenne twister#Requested move 6 March 2015 -- ToE 23:38, 6 March 2015 (\nUTC).", 
+            "htmlSnippet": "cmglee has opened a move request on the appropriate talk page at Talk:<br>\n<b>Mersenne twister</b>#Requested move 6 March 2015 -- ToE 23:38, 6 March 2015 (<br>\nUTC).", 
+            "link": "https://en.wikipedia.org/wiki/Wikipedia:Reference_desk/Archives/Mathematics/2015_March_6", 
+            "cacheId": "pb2mwVMg8IsJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Mersenne twister", 
+                "safe": "off", 
+                "searchTerms": "Mersenne twister", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "105"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Mersenne twister", 
+                "safe": "off", 
+                "searchTerms": "Mersenne twister", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "105"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.22", 
+        "formattedTotalResults": "105", 
+        "totalResults": "105", 
+        "searchTime": 0.21647
+    }
+}

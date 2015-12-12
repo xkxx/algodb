@@ -1,0 +1,222 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Matrix chain multiplication - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Matrix chain multiplication</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Matrix_chain_multiplication", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Matrix</b>_<b>chain</b>_<b>multiplication</b>", 
+            "snippet": "Matrix chain multiplication (or Matrix Chain Ordering Problem, MCOP) is an \noptimization problem that can be solved using dynamic programming. Given a\u00a0...", 
+            "htmlSnippet": "<b>Matrix chain multiplication</b> (or Matrix Chain Ordering Problem, MCOP) is an <br>\noptimization problem that can be solved using dynamic programming. Given a&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Matrix_chain_multiplication", 
+            "cacheId": "THUemim3j8sJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Matrix chain multiplication - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Matrix chain multiplication</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3AMatrix_chain_multiplication", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>Matrix</b>_<b>chain</b>_<b>multiplication</b>", 
+            "snippet": "this is the pseudocode to find final order of the matrix multiplication but i am \nhaving problem in solving the problem manually \u2014Preceding unsigned comment\n\u00a0...", 
+            "htmlSnippet": "this is the pseudocode to find final order of the <b>matrix multiplication</b> but i am <br>\nhaving problem in solving the problem manually \u2014Preceding unsigned comment<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3AMatrix_chain_multiplication", 
+            "cacheId": "A0vgL1yCSQIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Matrix multiplication - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Matrix multiplication</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Matrix_multiplication", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Matrix</b>_<b>multiplication</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "240", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRODaVpUs_nUXNshq4WmcFhYcNOxMtS_1j_aNXii4LpYJ0_2OXdXobJRncq", 
+                        "height": "186"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Matrix_multiplication_row_column_correspondance.svg/300px-Matrix_multiplication_row_column_correspondance.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "[edit]. Similarity transformations involving similar matrices are matrix products of \nthe three square matrices,\u00a0...", 
+            "htmlSnippet": "[edit]. Similarity transformations involving similar <b>matrices</b> are <b>matrix</b> products of <br>\nthe three square <b>matrices</b>,&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Matrix_multiplication", 
+            "cacheId": "kYLWyiVwPjUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Dynamic programming - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Dynamic programming - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Dynamic_programming", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Dynamic_programming", 
+            "snippet": "3.7.1 Faster DP solution using a different parametrization. 3.8 Matrix chain \nmultiplication. 4 History; 5 Algorithms that use dynamic programming; 6 See also\n\u00a0...", 
+            "htmlSnippet": "3.7.1 Faster DP solution using a different parametrization. 3.8 <b>Matrix chain</b> <br>\n<b>multiplication</b>. 4 History; 5 Algorithms that use dynamic programming; 6 See also<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Dynamic_programming", 
+            "cacheId": "uc1TG3pvZuwJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Matrix multiplication algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Matrix multiplication</b> algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Matrix_multiplication_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Matrix</b>_<b>multiplication</b>_algorithm", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "231", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTL7PIxOjgh9n1PVdBOc7fzzSxIoe0lfzxGyUIMSwZ6Y0hPQSqC0RCgG38", 
+                        "height": "218"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Bound_on_matrix_multiplication_omega_over_time.svg/400px-Bound_on_matrix_multiplication_omega_over_time.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "Because matrix multiplication is such a central operation in many numerical \nalgorithms, much work has been invested in making matrix multiplication \nalgorithms\u00a0...", 
+            "htmlSnippet": "Because <b>matrix multiplication</b> is such a central operation in many numerical <br>\nalgorithms, much work has been invested in making <b>matrix multiplication</b> <br>\nalgorithms&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Matrix_multiplication_algorithm", 
+            "cacheId": "tvCp1pb0UAcJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Matrix calculus - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Matrix</b> calculus - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Matrix_calculus", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Matrix</b>_calculus", 
+            "snippet": "In general, the independent variable can be a scalar, a vector, or a matrix while \n.... This type of notation will be nice when proving product rules and chain rules\u00a0...", 
+            "htmlSnippet": "In general, the independent variable can be a scalar, a vector, or a <b>matrix</b> while <br>\n.... This type of notation will be nice when proving product rules and <b>chain</b> rules&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Matrix_calculus", 
+            "cacheId": "H1vKnv1ZndwJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Category:Dynamic programming - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Category:Dynamic programming - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Category:Dynamic_programming", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Category:Dynamic_programming", 
+            "snippet": "M. Markov decision process \u00b7 Matrix chain multiplication \u00b7 Maximum subarray \nproblem \u00b7 Most frequent k characters. N. Needleman\u2013Wunsch algorithm. O.", 
+            "htmlSnippet": "M. Markov decision process &middot; <b>Matrix chain multiplication</b> &middot; Maximum subarray <br>\nproblem &middot; Most frequent k characters. N. Needleman\u2013Wunsch algorithm. O.", 
+            "link": "https://en.wikipedia.org/wiki/Category:Dynamic_programming", 
+            "cacheId": "bg8MNgF7rykJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Strassen algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Strassen algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Strassen_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Strassen_algorithm", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "391", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRL-ygTd10uqka7RVmuQlfhNOvL3w4mMb5HFncVZakOyOTqjRr0YontJLLA", 
+                        "height": "129"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Strassen_algorithm.svg/800px-Strassen_algorithm.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "In linear algebra, the Strassen algorithm, named after Volker Strassen, is an \nalgorithm used for matrix multiplication. It is faster than the standard matrix\u00a0...", 
+            "htmlSnippet": "In linear algebra, the Strassen algorithm, named after Volker Strassen, is an <br>\nalgorithm used for <b>matrix multiplication</b>. It is faster than the standard <b>matrix</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Strassen_algorithm", 
+            "cacheId": "c0VMy10vBuwJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Absorbing Markov chain - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Absorbing Markov <b>chain</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Absorbing_Markov_chain", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Absorbing_Markov_<b>chain</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "284", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTWMxY03GIzaqeDFgx4zq6V_AgSE_A6pTC78IF4O_pcBj3aYc2tL_2DriBW", 
+                        "height": "177"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Probability_of_winning_Snakes_and_Ladders_by_turns.svg/400px-Probability_of_winning_Snakes_and_Ladders_by_turns.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "[edit]. A basic property about an absorbing Markov chain is the expected number \nof visits to a transient state j starting from a\u00a0...", 
+            "htmlSnippet": "[edit]. A basic property about an absorbing Markov <b>chain</b> is the expected number <br>\nof visits to a transient state j starting from a&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Absorbing_Markov_chain", 
+            "cacheId": "A8YWQXFkRAkJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Chain rule (probability) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Chain</b> rule (probability) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Chain_rule_(probability)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Chain</b>_rule_(probability)", 
+            "snippet": "In probability theory, the chain rule (also called the general product rule) permits \nthe calculation of any member of the joint distribution of a set of random\u00a0...", 
+            "htmlSnippet": "In probability theory, the <b>chain</b> rule (also called the general product rule) permits <br>\nthe calculation of any member of the joint distribution of a set of random&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Chain_rule_(probability)", 
+            "cacheId": "_nZz1e6ImpcJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Matrix chain multiplication", 
+                "safe": "off", 
+                "searchTerms": "Matrix chain multiplication", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "884"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Matrix chain multiplication", 
+                "safe": "off", 
+                "searchTerms": "Matrix chain multiplication", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "884"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.29", 
+        "formattedTotalResults": "884", 
+        "totalResults": "884", 
+        "searchTime": 0.287174
+    }
+}

@@ -1,0 +1,194 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Uniform-cost search", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Uniform</b>-<b>cost search</b>", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Uniform-cost_search", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Uniform</b>-<b>cost</b>_<b>search</b>", 
+            "snippet": "In some fields, artificial intelligence in particular, Dijkstra's algorithm or a variant \nof it is known as uniform-cost search and formulated as an instance of the more\u00a0...", 
+            "htmlSnippet": "In some fields, artificial intelligence in particular, Dijkstra&#39;s algorithm or a variant <br>\nof it is known as <b>uniform</b>-<b>cost search</b> and formulated as an instance of the more&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Uniform-cost_search", 
+            "cacheId": "LkjEw6O4Q4AJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Uniform-cost search - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Uniform</b>-<b>cost search</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3AUniform-cost_search", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>Uniform</b>-<b>cost</b>_<b>search</b>", 
+            "snippet": "\"Dijkstra's algorithm, which is perhaps better-known, can be regarded as a \nvariant of uniform-cost search, where there is no goal state and processing \ncontinues\u00a0...", 
+            "htmlSnippet": "&quot;Dijkstra&#39;s algorithm, which is perhaps better-known, can be regarded as a <br>\nvariant of <b>uniform</b>-<b>cost search</b>, where there is no goal state and processing <br>\ncontinues&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3AUniform-cost_search", 
+            "cacheId": "fkSRk0vY-1YJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "A* search algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "A* <b>search</b> algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/A*_search_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/A*_<b>search</b>_algorithm", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "259", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQfEKtF0BKmWahyaJuzky8WNenoyEDowBUENpLFx28SGsSRAnKuBgkbKZ0j", 
+                        "height": "194"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/6/60/A*_Search_Example_on_North_American_Freight_Train_Network.gif"
+                    }
+                ]
+            }, 
+            "snippet": "A* uses a best-first search and finds a least-cost path from a given initial node .... \nDijkstra's algorithm, as another example of a uniform-cost search algorithm, can\u00a0...", 
+            "htmlSnippet": "A* uses a best-first search and finds a least-cost path from a given initial node .... <br>\nDijkstra&#39;s algorithm, as another example of a <b>uniform</b>-<b>cost search</b> algorithm, can&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/A*_search_algorithm", 
+            "cacheId": "YlqnN_QLnKMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Uniform cost model", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Uniform cost</b> model", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Uniform_cost_model", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Uniform</b>_<b>cost</b>_model", 
+            "snippet": "For instance, binary search is said to run in a number of steps proportional to the \n... the uniform cost model, also called uniform-cost measurement (and similar\u00a0...", 
+            "htmlSnippet": "For instance, binary <b>search</b> is said to run in a number of steps proportional to the <br>\n... the <b>uniform cost</b> model, also called <b>uniform</b>-<b>cost</b> measurement (and similar&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Uniform_cost_model", 
+            "cacheId": "wVXnJK9CtxwJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Book:Algorithms - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Book:Algorithms - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Book:Algorithms", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Book:Algorithms", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "100", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQEnyeN8yQ7u_cUY3vrMNnpAOcaBWwvA045-Sq35R78YJJ74vWo3wcMqA", 
+                        "height": "124"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Mergesort_algorithm_diagram.png/125px-Mergesort_algorithm_diagram.png"
+                    }
+                ]
+            }, 
+            "snippet": "Jump to: navigation, search ... Transitive closure \u00b7 Transitive reduction \u00b7 Travelling \nsalesman problem \u00b7 Tree traversal \u00b7 Uniform-cost search \u00b7 Widest path problem\u00a0...", 
+            "htmlSnippet": "Jump to: navigation, search ... Transitive closure &middot; Transitive reduction &middot; Travelling <br>\nsalesman problem &middot; Tree traversal &middot; <b>Uniform</b>-<b>cost search</b> &middot; Widest path problem&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Book:Algorithms", 
+            "cacheId": "2Z-Kr-9h6gwJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Dijkstra's algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:Dijkstra&#39;s algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "en.wikipedia.org/wiki/Talk%3ADijkstra's_algorithm", 
+            "htmlFormattedUrl": "en.wikipedia.org/wiki/Talk%3ADijkstra&#39;s_algorithm", 
+            "snippet": "The content of Uniform-cost search was merged into Dijkstra's algorithm. That \npage now redirects here. For the contribution history and old versions of the\u00a0...", 
+            "htmlSnippet": "The content of <b>Uniform</b>-<b>cost search</b> was merged into Dijkstra&#39;s algorithm. That <br>\npage now redirects here. For the contribution history and old versions of the&nbsp;...", 
+            "link": "http://en.wikipedia.org/wiki/Talk%3ADijkstra's_algorithm", 
+            "cacheId": "O6RF692J4agJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "User:Regnaron~enwiki - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "User:Regnaron~enwiki - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/User:Regnaron~enwiki", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/User:Regnaron~enwiki", 
+            "snippet": "... encyclopedia. Jump to: navigation, search ... worked on[edit]. Best-first search \u00b7 \nDepth-first search \u00b7 Iterative deepening depth-first search \u00b7 Uniform-cost search\u00a0...", 
+            "htmlSnippet": "... encyclopedia. Jump to: navigation, search ... worked on[edit]. Best-first search &middot; <br>\nDepth-first search &middot; Iterative deepening depth-first search &middot; <b>Uniform</b>-<b>cost search</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/User:Regnaron~enwiki", 
+            "cacheId": "Nz4s1AwKsj0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Bidirectional search - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Bidirectional <b>search</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Bidirectional_search", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Bidirectional_<b>search</b>", 
+            "snippet": "Bidirectional search is a graph search algorithm that finds a shortest path from ... \nThe reverse search will always use the inverse cost (i.e. the cost of the arc in the\n\u00a0...", 
+            "htmlSnippet": "Bidirectional <b>search</b> is a graph <b>search</b> algorithm that finds a shortest path from ... <br>\nThe reverse <b>search</b> will always use the inverse <b>cost</b> (i.e. the <b>cost</b> of the arc in the<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Bidirectional_search", 
+            "cacheId": "ZadzKWB8hkoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Jump point search - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Jump point <b>search</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Jump_point_search", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Jump_point_<b>search</b>", 
+            "snippet": "In computer science, Jump Point Search (JPS) is an optimization to the A* search \nalgorithm pathfinding algorithm for uniform-cost grids. It reduces symmetries in\u00a0...", 
+            "htmlSnippet": "In computer science, Jump Point <b>Search</b> (JPS) is an optimization to the A* <b>search</b> <br>\nalgorithm pathfinding algorithm for <b>uniform</b>-<b>cost</b> grids. It reduces symmetries in&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Jump_point_search", 
+            "cacheId": "r993jVCjF3MJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "UCS - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>UCS</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/UCS", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/UCS", 
+            "snippet": "UCS may refer to: Educational institutions. Kolej Bersatu Sarawak, an \neducational institution in Malaysia; University Campus Suffolk, a university based \nin\u00a0...", 
+            "htmlSnippet": "<b>UCS</b> may refer to: Educational institutions. Kolej Bersatu Sarawak, an <br>\neducational institution in Malaysia; University Campus Suffolk, a university based <br>\nin&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/UCS", 
+            "cacheId": "JXvu1QQXVGwJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Uniform-cost search", 
+                "safe": "off", 
+                "searchTerms": "Uniform-cost search", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "32300"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Uniform-cost search", 
+                "safe": "off", 
+                "searchTerms": "Uniform-cost search", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "32300"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.35", 
+        "formattedTotalResults": "32,300", 
+        "totalResults": "32300", 
+        "searchTime": 0.351407
+    }
+}

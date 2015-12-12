@@ -1,0 +1,254 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Interpolation search - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Interpolation search</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Interpolation_search", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Interpolation</b>_<b>search</b>", 
+            "snippet": "Interpolation search (sometimes referred to as extrapolation search) is an \nalgorithm for searching for a given key value in an indexed array that has been\u00a0...", 
+            "htmlSnippet": "<b>Interpolation search</b> (sometimes referred to as extrapolation search) is an <br>\nalgorithm for searching for a given key value in an indexed array that has been&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Interpolation_search", 
+            "cacheId": "h-t92x10jyUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Bilinear interpolation - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Bilinear <b>interpolation</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Bilinear_interpolation", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Bilinear_<b>interpolation</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRPxPZ4nvLDi7jE7ku1afCBWhRQctak0DjST6y2O3yuPZsbt2De5RGMjBgD", 
+                        "height": "166"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BilinearInterpolation.svg/220px-BilinearInterpolation.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "Jump to: navigation, search ... Example of bilinear interpolation on the unit \nsquare with the z-values 0, 1, 1 and ... We first do linear interpolation in the x-\ndirection.", 
+            "htmlSnippet": "Jump to: navigation, <b>search</b> ... Example of bilinear <b>interpolation</b> on the unit <br>\nsquare with the z-values 0, 1, 1 and ... We first do linear <b>interpolation</b> in the x-<br>\ndirection.", 
+            "link": "https://en.wikipedia.org/wiki/Bilinear_interpolation", 
+            "cacheId": "a7icc6r-PZkJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Interpolation - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Interpolation</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Interpolation", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Interpolation</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "226", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOwzacfyce9ouwA7CzVU5AKRfNiL7KUkLrqp-N-rfp4gltNfzHXdmRMK8", 
+                        "height": "223"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Splined_epitrochoid.svg/300px-Splined_epitrochoid.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "Jump to: navigation, search. For other uses, see Interpolation (disambiguation). \nIn the mathematical field of numerical analysis, interpolation is a method of\u00a0...", 
+            "htmlSnippet": "Jump to: navigation, <b>search</b>. For other uses, see <b>Interpolation</b> (disambiguation). <br>\nIn the mathematical field of numerical analysis, <b>interpolation</b> is a method of&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Interpolation", 
+            "cacheId": "3natRjjhOpYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Linear interpolation - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Linear <b>interpolation</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Linear_interpolation", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Linear_<b>interpolation</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "225", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTUJfmGzjv38ZU52KrybX2X-hvk-wt-_BBF8bXy5yC0uVTrwJ-34X4BoyhU", 
+                        "height": "225"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/LinearInterpolation.svg/300px-LinearInterpolation.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "Jump to: navigation, search. Given the two red ... by linear interpolation. In \nmathematics, linear interpolation is a method of curve fitting using linear \npolynomials.", 
+            "htmlSnippet": "Jump to: navigation, <b>search</b>. Given the two red ... by linear <b>interpolation</b>. In <br>\nmathematics, linear <b>interpolation</b> is a method of curve fitting using linear <br>\npolynomials.", 
+            "link": "https://en.wikipedia.org/wiki/Linear_interpolation", 
+            "cacheId": "TP0xt8psXA0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Interpolation (music) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Interpolation</b> (music) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Interpolation_(music)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Interpolation</b>_(music)", 
+            "snippet": "Jump to: navigation, search. This article is about music. For other uses, see \nInterpolation (disambiguation). Interpolation (also known as replayed), especially\n\u00a0...", 
+            "htmlSnippet": "Jump to: navigation, <b>search</b>. This article is about music. For other uses, see <br>\n<b>Interpolation</b> (disambiguation). <b>Interpolation</b> (also known as replayed), especially<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Interpolation_(music)", 
+            "cacheId": "FW2kFWPAKlUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Monotone cubic interpolation - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Monotone cubic <b>interpolation</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Monotone_cubic_interpolation", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Monotone_cubic_<b>interpolation</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "240", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTElDuyhGLb3YWtqj2Ea97YwwWRL7WxqgtyeTOcxXNGP6-o6yCwV8_3eHY", 
+                        "height": "180"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fe/MonotCubInt.png/300px-MonotCubInt.png"
+                    }
+                ]
+            }, 
+            "snippet": "Jump to: navigation, search ... Monotone cubic Hermite interpolation[edit] ... \nMonotone interpolation can be accomplished using cubic Hermite spline with the\n\u00a0...", 
+            "htmlSnippet": "Jump to: navigation, <b>search</b> ... Monotone cubic Hermite <b>interpolation</b>[edit] ... <br>\nMonotone <b>interpolation</b> can be accomplished using cubic Hermite spline with the<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Monotone_cubic_interpolation", 
+            "cacheId": "7EAb15r2avkJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Spline interpolation - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Spline <b>interpolation</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Spline_interpolation", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Spline_<b>interpolation</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "275", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgn6CVreEfPMBTNrcZBtRdaAHf7bZJU1NIQnrYMh01MUMREI_bAo12Wkg", 
+                        "height": "183"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Cubic_spline.svg/400px-Cubic_spline.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "Jump to: navigation, search ... Spline interpolation is often preferred over \npolynomial interpolation because the interpolation error can be made small even \nwhen\u00a0...", 
+            "htmlSnippet": "Jump to: navigation, <b>search</b> ... Spline <b>interpolation</b> is often preferred over <br>\npolynomial <b>interpolation</b> because the <b>interpolation</b> error can be made small even <br>\nwhen&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Spline_interpolation", 
+            "cacheId": "Gm0c08M9znUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Bicubic interpolation - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Bicubic <b>interpolation</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Bicubic_interpolation", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Bicubic_<b>interpolation</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTcYfukDZ_XGd4f0N1yyY-xLfJFDZxSK3ln5e4IgTapNZA97DI0Xx8Y4p0", 
+                        "height": "136"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/BicubicInterpolationExample.png/220px-BicubicInterpolationExample.png"
+                    }
+                ]
+            }, 
+            "snippet": "Jump to: navigation, search. Bicubic interpolation on the square [0,3] \\times [0,3] \nconsisting of 9 unit squares patched together. Bicubic interpolation as per\u00a0...", 
+            "htmlSnippet": "Jump to: navigation, <b>search</b>. Bicubic <b>interpolation</b> on the square [0,3] \\times [0,3] <br>\nconsisting of 9 unit squares patched together. Bicubic <b>interpolation</b> as per&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Bicubic_interpolation", 
+            "cacheId": "gpoWpr6u_4EJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Interpolation (manuscripts) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Interpolation</b> (manuscripts) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Interpolation_(manuscripts)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Interpolation</b>_(manuscripts)", 
+            "snippet": "Interpolation (manuscripts) ... Jump to: navigation, search. An interpolation, in \nrelation to literature and especially ancient manuscripts, is an entry or passage in \na\u00a0...", 
+            "htmlSnippet": "<b>Interpolation</b> (manuscripts) ... Jump to: navigation, <b>search</b>. An <b>interpolation</b>, in <br>\nrelation to literature and especially ancient manuscripts, is an entry or passage in <br>\na&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Interpolation_(manuscripts)", 
+            "cacheId": "bTKGrg8BkvMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Binary search algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Binary <b>search</b> algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Binary_search_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Binary_<b>search</b>_algorithm", 
+            "snippet": "[edit]. Main article: Interpolation search. An interpolated search tries to guess the \nlocation of the element p you're searching\u00a0...", 
+            "htmlSnippet": "[edit]. Main article: <b>Interpolation search</b>. An <b>interpolated search</b> tries to guess the <br>\nlocation of the element p you&#39;re searching&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Binary_search_algorithm", 
+            "cacheId": "bTl09IU6Z8IJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Interpolated search", 
+                "safe": "off", 
+                "searchTerms": "Interpolated search", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "2290"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Interpolated search", 
+                "safe": "off", 
+                "searchTerms": "Interpolated search", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "2290"
+            }
+        ]
+    }, 
+    "spelling": {
+        "correctedQuery": "Interpolation search", 
+        "htmlCorrectedQuery": "<b><i>Interpolation</i></b> search"
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.32", 
+        "formattedTotalResults": "2,290", 
+        "totalResults": "2290", 
+        "searchTime": 0.31838
+    }
+}

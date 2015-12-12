@@ -1,0 +1,236 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Divide and conquer - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Divide</b> and <b>conquer</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Divide_and_conquer", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Divide</b>_and_<b>conquer</b>", 
+            "snippet": "Divide and conquer (derived from the Latin saying Divide et impera) may refer to: \nDivide and rule, in politics, sociology and economics, a strategy to gain or\u00a0...", 
+            "htmlSnippet": "<b>Divide</b> and <b>conquer</b> (derived from the Latin saying <b>Divide</b> et impera) may refer to: <br>\n<b>Divide</b> and rule, in politics, sociology and economics, a strategy to gain or&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Divide_and_conquer", 
+            "cacheId": "dWsB19CT67IJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Divide and conquer algorithms - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Divide</b> and <b>conquer</b> algorithms - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Divide_and_conquer_algorithms", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Divide</b>_and_<b>conquer</b>_algorithms", 
+            "snippet": "In computer science, divide and conquer (D&C) is an algorithm design paradigm \nbased on multi-branched recursion. A divide and conquer algorithm works by\u00a0...", 
+            "htmlSnippet": "In computer science, <b>divide</b> and <b>conquer</b> (D&amp;C) is an algorithm design paradigm <br>\nbased on multi-branched recursion. A <b>divide</b> and <b>conquer</b> algorithm works by&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Divide_and_conquer_algorithms", 
+            "cacheId": "WXH2HC08DbcJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Divide and rule - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Divide</b> and rule - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Divide_and_rule", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Divide</b>_and_rule", 
+            "snippet": "In politics and sociology, divide and rule (or divide and conquer) is gaining and \nmaintaining power by breaking up larger concentrations of power into pieces that\n\u00a0...", 
+            "htmlSnippet": "In politics and sociology, <b>divide</b> and rule (or <b>divide</b> and <b>conquer</b>) is gaining and <br>\nmaintaining power by breaking up larger concentrations of power into pieces that<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Divide_and_rule", 
+            "cacheId": "K1HgIrd9LxEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Divide and Conquer (film) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Divide</b> and <b>Conquer</b> (film) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Divide_and_Conquer_(film)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Divide</b>_and_<b>Conquer</b>_(film)", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ1QUrSfi8_FpZGzRfAxCWlSRn7qz6OCsFbw4r5fmfGEC8bG-fS2FEGmzo", 
+                        "height": "132"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Why_We_Fight.3.Divide_And_Conquer.webm/220px--Why_We_Fight.3.Divide_And_Conquer.webm.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "Divide and Conquer (1943) is the third film of Frank Capra's Why We Fight \npropaganda film series, dealing with the Nazi conquest of Western Europe in \n1940.", 
+            "htmlSnippet": "<b>Divide</b> and <b>Conquer</b> (1943) is the third film of Frank Capra&#39;s Why We Fight <br>\npropaganda film series, dealing with the Nazi conquest of Western Europe in <br>\n1940.", 
+            "link": "https://en.wikipedia.org/wiki/Divide_and_Conquer_(film)", 
+            "cacheId": "tOOjT5gOTEYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Divide-and-conquer eigenvalue algorithm - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Divide</b>-and-<b>conquer</b> eigenvalue algorithm - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../Divide-and-conquer_eigenvalue_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../<b>Divide</b>-and-<b>conquer</b>_eigenvalue_algorithm", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "173", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQyzNyohQv4qQ86nDRmrzhR6moU1iMhIvo2qFRjGnXBdAd3WzAZkM-IYA", 
+                        "height": "117"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Almost_block_diagonal.png"
+                    }
+                ]
+            }, 
+            "snippet": "Divide-and-conquer eigenvalue algorithms are a class of eigenvalue algorithms \nfor Hermitian or real symmetric matrices that have recently (circa 1990s)\u00a0...", 
+            "htmlSnippet": "<b>Divide</b>-and-<b>conquer</b> eigenvalue algorithms are a class of eigenvalue algorithms <br>\nfor Hermitian or real symmetric matrices that have recently (circa 1990s)&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Divide-and-conquer_eigenvalue_algorithm", 
+            "cacheId": "65jpDO4FnsUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Defeat in detail - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Defeat in detail - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Defeat_in_detail", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Defeat_in_detail", 
+            "snippet": "Defeat in detail is a military phrase referring to the tactic of bringing a large \nportion of one's own force to bear on small enemy units in sequence, rather than\n\u00a0...", 
+            "htmlSnippet": "Defeat in detail is a military phrase referring to the tactic of bringing a large <br>\nportion of one&#39;s own force to bear on small enemy units in sequence, rather than<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Defeat_in_detail", 
+            "cacheId": "2qmpRTQ1EeYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Matrix multiplication algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Matrix multiplication algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Matrix_multiplication_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Matrix_multiplication_algorithm", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "231", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTL7PIxOjgh9n1PVdBOc7fzzSxIoe0lfzxGyUIMSwZ6Y0hPQSqC0RCgG38", 
+                        "height": "218"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Bound_on_matrix_multiplication_omega_over_time.svg/400px-Bound_on_matrix_multiplication_omega_over_time.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "1 Iterative algorithm. 1.1 Cache behavior. 2 Divide and conquer algorithm. 2.1 \nNon-square matrices; 2.2 Cache behavior. 3 Sub-cubic algorithms; 4 Parallel and\n\u00a0...", 
+            "htmlSnippet": "1 Iterative algorithm. 1.1 Cache behavior. 2 <b>Divide</b> and <b>conquer</b> algorithm. 2.1 <br>\nNon-square matrices; 2.2 Cache behavior. 3 Sub-cubic algorithms; 4 Parallel and<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Matrix_multiplication_algorithm", 
+            "cacheId": "tvCp1pb0UAcJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Fast Walsh\u2013Hadamard transform - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Fast Walsh\u2013Hadamard transform - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Fast_Walsh\u2013Hadamard_transform", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Fast_Walsh\u2013Hadamard_transform", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "200", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQHxTFU7MtB9lQJEZj1IYTews8CFsiWQM78XoUl2Kni3onlVwA8p-1hqG_6", 
+                        "height": "200"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Fast_walsh_hadamard_transform_8.svg/250px-Fast_walsh_hadamard_transform_8.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "The FWHTh is a divide and conquer algorithm that recursively breaks down a \nWHT of size N into two smaller WHTs of size N/2 . This implementation follows \nthe\u00a0...", 
+            "htmlSnippet": "The FWHTh is a <b>divide</b> and <b>conquer</b> algorithm that recursively breaks down a <br>\nWHT of size N into two smaller WHTs of size N/2 . This implementation follows <br>\nthe&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Fast_Walsh%E2%80%93Hadamard_transform", 
+            "cacheId": "uyaKAx-7RKMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Closest pair of points problem - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Closest pair of points problem - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Closest_pair_of_points_problem", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Closest_pair_of_points_problem", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTrFNJvJujAdxw69tuXGgeQXM1usJ0hkjAYQrEHhM_uTr2Aq-Z17UPBYHdd", 
+                        "height": "176"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Closest_pair_of_points.svg/220px-Closest_pair_of_points.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "These approaches are not efficient for dimension d>2, while the divide-and-\nconquer algorithm can be generalized to take O(n log n) time for any constant \nvalue\u00a0...", 
+            "htmlSnippet": "These approaches are not efficient for dimension d&gt;2, while the <b>divide</b>-and-<br>\n<b>conquer</b> algorithm can be generalized to take O(n log n) time for any constant <br>\nvalue&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Closest_pair_of_points_problem", 
+            "cacheId": "pQuOJS0YGwsJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Divide and conquer - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Divide</b> and <b>conquer</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3ADivide_and_conquer", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>Divide</b>_and_<b>conquer</b>", 
+            "snippet": "If I do [[la:Divide et imperia]] in the middle of a page, as in. Divide and conquer is \nderived from the latin saying [[la:Divide et imperia|Divide et imperia]]. Then the\u00a0...", 
+            "htmlSnippet": "If I do [[la:<b>Divide</b> et imperia]] in the middle of a page, as in. <b>Divide</b> and <b>conquer</b> is <br>\nderived from the latin saying [[la:<b>Divide</b> et imperia|<b>Divide</b> et imperia]]. Then the&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3ADivide_and_conquer", 
+            "cacheId": "qV-meun7ESYJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Divide-and-conquer", 
+                "safe": "off", 
+                "searchTerms": "Divide-and-conquer", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "50600"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Divide-and-conquer", 
+                "safe": "off", 
+                "searchTerms": "Divide-and-conquer", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "50600"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.31", 
+        "formattedTotalResults": "50,600", 
+        "totalResults": "50600", 
+        "searchTime": 0.314044
+    }
+}

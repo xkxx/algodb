@@ -1,0 +1,180 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Julian day - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Julian</b> day - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Julian_day", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Julian</b>_day", 
+            "snippet": "[edit]. The algorithm is valid at least for all positive Julian\u00a0...", 
+            "htmlSnippet": "[edit]. The algorithm is valid at least for all positive <b>Julian</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Julian_day", 
+            "cacheId": "IWC-qJozfKUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Barycentric Julian Date - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Barycentric <b>Julian Date</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Barycentric_Julian_Date", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Barycentric_<b>Julian</b>_<b>Date</b>", 
+            "snippet": "The Barycentric Julian Date (BJD) is the Julian Date (JD) corrected for \ndifferences in the Earth's position with respect to the barycentre of the Solar \nSystem.", 
+            "htmlSnippet": "The Barycentric <b>Julian Date</b> (BJD) is the <b>Julian Date</b> (JD) corrected for <br>\ndifferences in the Earth&#39;s position with respect to the barycentre of the Solar <br>\nSystem.", 
+            "link": "https://en.wikipedia.org/wiki/Barycentric_Julian_Date", 
+            "cacheId": "bQeU9l_yoyMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Heliocentric Julian Day - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Heliocentric <b>Julian</b> Day - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Heliocentric_Julian_Day", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Heliocentric_<b>Julian</b>_Day", 
+            "snippet": "The Heliocentric Julian Date (HJD) is the Julian Date (JD) corrected for \ndifferences in the Earth's position with respect to the Sun. When timing events \nthat occur\u00a0...", 
+            "htmlSnippet": "The Heliocentric <b>Julian Date</b> (HJD) is the <b>Julian Date</b> (JD) corrected for <br>\ndifferences in the Earth&#39;s position with respect to the Sun. When timing events <br>\nthat occur&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Heliocentric_Julian_Day", 
+            "cacheId": "4_OjIiv7k_YJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Ordinal date - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Ordinal <b>date</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Ordinal_date", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Ordinal_<b>date</b>", 
+            "snippet": "Computation of the ordinal date within a year is part of calculating the ordinal \ndate throughout the years from a reference date, such as the Julian date. It is also\n\u00a0...", 
+            "htmlSnippet": "Computation of the ordinal date within a year is part of calculating the ordinal <br>\ndate throughout the years from a reference date, such as the <b>Julian date</b>. It is also<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Ordinal_date", 
+            "cacheId": "hTheOZ4V_7wJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Julian calendar - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Julian</b> calendar - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Julian_calendar", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Julian</b>_calendar", 
+            "snippet": "However, most branches of the Eastern Orthodox Church still use the Julian \ncalendar for calculating the dates of moveable feasts, including Easter (Pascha).", 
+            "htmlSnippet": "However, most branches of the Eastern Orthodox Church still use the <b>Julian</b> <br>\ncalendar for calculating the <b>dates</b> of moveable feasts, including Easter (Pascha).", 
+            "link": "https://en.wikipedia.org/wiki/Julian_calendar", 
+            "cacheId": "GrZRCKzmDv0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Lilian date - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Lilian <b>date</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Lilian_date", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Lilian_<b>date</b>", 
+            "snippet": "Another, better known, date notation that is used for similar purposes is the Julian \ndate. Universal time, or closely related time scales, are always used with the\u00a0...", 
+            "htmlSnippet": "Another, better known, date notation that is used for similar purposes is the <b>Julian</b> <br>\n<b>date</b>. Universal time, or closely related time scales, are always used with the&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Lilian_date", 
+            "cacheId": "jdIYqtr-ugQJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Rata Die - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Rata Die - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Rata_Die", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Rata_Die", 
+            "snippet": "Rata Die is somewhat similar to Julian Dates (JD), in that the values are plain \nreal numbers that increase by 1 each day. The systems differ principally in that \nJD\u00a0...", 
+            "htmlSnippet": "Rata Die is somewhat similar to <b>Julian Dates</b> (JD), in that the values are plain <br>\nreal numbers that increase by 1 each day. The systems differ principally in that <br>\nJD&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Rata_Die", 
+            "cacheId": "NNmiLNtWNcwJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Epoch (astronomy) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Epoch (astronomy) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Epoch_(astronomy)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Epoch_(astronomy)", 
+            "snippet": "where the epoch is expressed in terms of Terrestrial Time, with an equivalent \nJulian date. Four of the elements are independent of any particular coordinate\u00a0...", 
+            "htmlSnippet": "where the epoch is expressed in terms of Terrestrial Time, with an equivalent <br>\n<b>Julian date</b>. Four of the elements are independent of any particular coordinate&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Epoch_(astronomy)", 
+            "cacheId": "sy92CqRYXOsJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Conversion between Julian and Gregorian calendars - Wikipedia ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Conversion between <b>Julian</b> and Gregorian calendars - Wikipedia <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../Conversion_between_Julian_and_Gregorian_ calendars", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Conversion_between_<b>Julian</b>_and_Gregorian_ calendars", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQWC4ix50jGa8Fsjs_DPQZD1jEK9GZpMcX2_zPTFs_ZZIxlkJmnPc-sig", 
+                        "height": "92"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Julian_to_Gregorian_Date_Change.png/220px-Julian_to_Gregorian_Date_Change.png"
+                    }
+                ]
+            }, 
+            "snippet": "Julian calendar dates before March AD 4 are proleptic, and do not necessarily \nmatch the dates actually observed in the Roman Empire. (Nautical almanac\u00a0...", 
+            "htmlSnippet": "<b>Julian</b> calendar <b>dates</b> before March AD 4 are proleptic, and do not necessarily <br>\nmatch the <b>dates</b> actually observed in the Roman Empire. (Nautical almanac&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Conversion_between_Julian_and_Gregorian_calendars", 
+            "cacheId": "wFM9s-nTGGYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Proleptic Julian calendar - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Proleptic <b>Julian</b> calendar - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Proleptic_Julian_calendar", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Proleptic_<b>Julian</b>_calendar", 
+            "snippet": "The proleptic Julian calendar is produced by extending the Julian calendar \nbackwards to dates preceding AD 4 when the quadrennial leap year stabilized.", 
+            "htmlSnippet": "The proleptic <b>Julian</b> calendar is produced by extending the <b>Julian</b> calendar <br>\nbackwards to <b>dates</b> preceding AD 4 when the quadrennial leap year stabilized.", 
+            "link": "https://en.wikipedia.org/wiki/Proleptic_Julian_calendar", 
+            "cacheId": "cprfePcOuI4J"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Julian date", 
+                "safe": "off", 
+                "searchTerms": "Julian date", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "49100"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Julian date", 
+                "safe": "off", 
+                "searchTerms": "Julian date", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "49100"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.31", 
+        "formattedTotalResults": "49,100", 
+        "totalResults": "49100", 
+        "searchTime": 0.311316
+    }
+}

@@ -1,0 +1,166 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Parsing expression grammar - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Parsing</b> expression grammar - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Parsing_expression_grammar", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Parsing</b>_expression_grammar", 
+            "snippet": "It is possible to obtain better performance for any parsing expression grammar by \nconverting its recursive descent parser into a packrat parser, which always\u00a0...", 
+            "htmlSnippet": "It is possible to obtain better performance for any parsing expression grammar by <br>\nconverting its recursive descent parser into a <b>packrat parser</b>, which always&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Parsing_expression_grammar", 
+            "cacheId": "KHM0CeFCb_sJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Pack rat (disambiguation) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Pack rat</b> (disambiguation) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Pack_rat_(disambiguation)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Pack_rat</b>_(disambiguation)", 
+            "snippet": "A pack rat is a small rodent in the genus Neotoma. ... Pack Rat, a 1984 arcade \ngame; A packrat parser for parsing expression grammar \u00b7 Packrat (Transformers),\n\u00a0...", 
+            "htmlSnippet": "A pack rat is a small rodent in the genus Neotoma. ... Pack Rat, a 1984 arcade <br>\ngame; A <b>packrat parser</b> for parsing expression grammar &middot; Packrat (Transformers),<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Pack_rat_(disambiguation)", 
+            "cacheId": "TJwA7XdMlCoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Comparison of parser generators - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Comparison of <b>parser</b> generators - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Comparison_of_parser_generators", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Comparison_of_<b>parser</b>_generators", 
+            "snippet": "This is a list of notable lexer generators and parser generators for various \nlanguage ..... lars::parser, [120], Packrat (modified to support left-recursion and \nresolve\u00a0...", 
+            "htmlSnippet": "This is a list of notable lexer generators and <b>parser</b> generators for various <br>\nlanguage ..... lars::<b>parser</b>, [120], <b>Packrat</b> (modified to support left-recursion and <br>\nresolve&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Comparison_of_parser_generators", 
+            "cacheId": "ljRQn0dNR5sJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Comparison of parser generators - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:Comparison of <b>parser</b> generators - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../Talk%3AComparison_of_parser_generators", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Talk%3AComparison_of_<b>parser</b>_generators", 
+            "snippet": "[edit]. Packrat has O(N) execution time, but with PEG.js you can easily verify O(N^\n2) execution time with the grammar:", 
+            "htmlSnippet": "[edit]. <b>Packrat</b> has O(N) execution time, but with PEG.js you can easily verify O(N^<br>\n2) execution time with the grammar:", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3AComparison_of_parser_generators", 
+            "cacheId": "503bMbDlFF4J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Parsing expression grammar - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Parsing</b> expression grammar - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3AParsing_expression_grammar", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>Parsing</b>_expression_grammar", 
+            "snippet": "[edit]. I suggest that the packrat parser article stub be merged into this article. \nSince I am a parsing\u00a0...", 
+            "htmlSnippet": "[edit]. I suggest that the <b>packrat parser</b> article stub be merged into this article. <br>\nSince I am a parsing&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3AParsing_expression_grammar", 
+            "cacheId": "SUZLH8qFHQIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Memoization - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Memoization - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Memoization", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Memoization", 
+            "snippet": "3.1 Functional programming; 3.2 Automatic memoization; 3.3 Parsers .... 2002, it \nwas examined in considerable depth by Ford in the form called packrat parsing.", 
+            "htmlSnippet": "3.1 Functional programming; 3.2 Automatic memoization; 3.3 Parsers .... 2002, it <br>\nwas examined in considerable depth by Ford in the form called <b>packrat parsing</b>.", 
+            "link": "https://en.wikipedia.org/wiki/Memoization", 
+            "cacheId": "vMUcxFcQwdAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Compiler-compiler - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Compiler-compiler - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Compiler-compiler", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Compiler-compiler", 
+            "snippet": "In computer science, a compiler-compiler or compiler generator is a \nprogramming tool that creates a parser, interpreter, or compiler from some form of \nformal\u00a0...", 
+            "htmlSnippet": "In computer science, a compiler-compiler or compiler generator is a <br>\nprogramming tool that creates a <b>parser</b>, interpreter, or compiler from some form of <br>\nformal&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Compiler-compiler", 
+            "cacheId": "O8MfphvWghkJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Top-down parsing - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Top-down <b>parsing</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Top-down_parsing", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Top-down_<b>parsing</b>", 
+            "snippet": "LL parsers are a type of parser that uses a top-down parsing strategy. .... Using \nPEG's, another representation of grammars, packrat parsers provide an elegant\u00a0...", 
+            "htmlSnippet": "LL parsers are a type of parser that uses a top-down parsing strategy. .... Using <br>\nPEG&#39;s, another representation of grammars, <b>packrat parsers</b> provide an elegant&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Top-down_parsing", 
+            "cacheId": "s-dDfKZKMLIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Top-down parsing language - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Top-down <b>parsing</b> language - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Top-down_parsing_language", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Top-down_<b>parsing</b>_language", 
+            "snippet": "Top-Down Parsing Language (TDPL) is a type of analytic formal grammar \ndeveloped by .... The Packrat Parsing and Parsing Expression Grammars Page.", 
+            "htmlSnippet": "Top-Down Parsing Language (TDPL) is a type of analytic formal grammar <br>\ndeveloped by .... The <b>Packrat Parsing</b> and Parsing Expression Grammars Page.", 
+            "link": "https://en.wikipedia.org/wiki/Top-down_parsing_language", 
+            "cacheId": "XU61RFdXS6MJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Syntactic predicate - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Syntactic predicate - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Syntactic_predicate", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Syntactic_predicate", 
+            "snippet": "Morever, Ford invented packrat parsing to handle these grammars in linear time \nby employing memoization, at the cost of heap space. It is possible to support\u00a0...", 
+            "htmlSnippet": "Morever, Ford invented <b>packrat parsing</b> to handle these grammars in linear time <br>\nby employing memoization, at the cost of heap space. It is possible to support&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Syntactic_predicate", 
+            "cacheId": "vuWVaV29d7wJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Packrat parser", 
+                "safe": "off", 
+                "searchTerms": "Packrat parser", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "28"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Packrat parser", 
+                "safe": "off", 
+                "searchTerms": "Packrat parser", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "28"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.15", 
+        "formattedTotalResults": "28", 
+        "totalResults": "28", 
+        "searchTime": 0.148059
+    }
+}

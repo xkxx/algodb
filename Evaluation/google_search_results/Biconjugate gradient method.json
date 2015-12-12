@@ -1,0 +1,180 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Biconjugate gradient method - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Biconjugate gradient method</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Biconjugate_gradient_method", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Biconjugate</b>_<b>gradient</b>_<b>method</b>", 
+            "snippet": "Unlike the conjugate gradient method, this algorithm does not require the matrix \nA ... The biconjugate gradient method is numerically unstable (compare to the\u00a0...", 
+            "htmlSnippet": "Unlike the conjugate gradient method, this algorithm does not require the matrix <br>\nA ... The <b>biconjugate gradient method</b> is numerically unstable (compare to the&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Biconjugate_gradient_method", 
+            "cacheId": "ddX4Yulk-rEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Biconjugate gradient stabilized method - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Biconjugate gradient</b> stabilized <b>method</b> - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../Biconjugate_gradient_stabilized_method", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../<b>Biconjugate</b>_<b>gradient</b>_stabilized_<b>method</b>", 
+            "snippet": "In numerical linear algebra, the biconjugate gradient stabilized method, often \nabbreviated as BiCGSTAB, is an iterative method developed by H. A. van der \nVorst\u00a0...", 
+            "htmlSnippet": "In numerical linear algebra, the <b>biconjugate gradient</b> stabilized <b>method</b>, often <br>\nabbreviated as BiCGSTAB, is an iterative <b>method</b> developed by H. A. van der <br>\nVorst&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Biconjugate_gradient_stabilized_method", 
+            "cacheId": "oSTZ0eEvKNUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Conjugate gradient method - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Conjugate <b>gradient method</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Conjugate_gradient_method", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Conjugate_<b>gradient</b>_<b>method</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdWEbprvFAg0IOuJuzAEBZ_mVnPI1oV6632m_T8GU_ydloPNyPUZrhPn4", 
+                        "height": "261"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Conjugate_gradient_illustration.svg/220px-Conjugate_gradient_illustration.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "The biconjugate gradient method provides a generalization to non-symmetric \nmatrices. Various nonlinear conjugate gradient methods seek minima of \nnonlinear\u00a0...", 
+            "htmlSnippet": "The <b>biconjugate gradient method</b> provides a generalization to non-symmetric <br>\nmatrices. Various nonlinear conjugate gradient methods seek minima of <br>\nnonlinear&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Conjugate_gradient_method", 
+            "cacheId": "kiX8RvFON9YJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Gradient method - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Gradient method</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Gradient_method", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Gradient</b>_<b>method</b>", 
+            "snippet": "In optimization, gradient method is an algorithm to solve problems of the form ... \nmethod \u00b7 Nonlinear conjugate gradient method \u00b7 Biconjugate gradient method\u00a0...", 
+            "htmlSnippet": "In optimization, gradient method is an algorithm to solve problems of the form ... <br>\nmethod &middot; Nonlinear conjugate gradient method &middot; <b>Biconjugate gradient method</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Gradient_method", 
+            "cacheId": "ehcqEwrl2ekJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Biconjugate gradient method - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Biconjugate gradient method</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki?title...Biconjugate_gradient_method", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki?title...<b>Biconjugate</b>_<b>gradient</b>_<b>method</b>", 
+            "snippet": "Talk:Biconjugate gradient method. From Wikipedia, the free encyclopedia. Jump \nto: navigation, search. WikiProject Mathematics, [hide](Rated Start-class,\u00a0...", 
+            "htmlSnippet": "Talk:<b>Biconjugate gradient method</b>. From Wikipedia, the free encyclopedia. Jump <br>\nto: navigation, search. WikiProject Mathematics, [hide](Rated Start-class,&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki?title=Talk:Biconjugate_gradient_method", 
+            "cacheId": "wDQW0AiJHnEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Category:Gradient methods - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Category:<b>Gradient</b> methods - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Category:Gradient_methods", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Category:<b>Gradient</b>_<b>method</b>s", 
+            "snippet": "A. Adaptive projected subgradient method. B. Biconjugate gradient method \u00b7 \nBiconjugate gradient stabilized method ... N. Nonlinear conjugate gradient \nmethod\u00a0...", 
+            "htmlSnippet": "A. Adaptive projected subgradient method. B. <b>Biconjugate gradient method</b> &middot; <br>\nBiconjugate gradient stabilized method ... N. Nonlinear conjugate gradient <br>\nmethod&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Category:Gradient_methods", 
+            "cacheId": "rnPPR-6VSxsJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Category:Numerical linear algebra - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Category:Numerical linear algebra - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Category:Numerical_linear_algebra", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Category:Numerical_linear_algebra", 
+            "snippet": "... Basic Linear Algebra Subprograms \u00b7 Basis function \u00b7 Biconjugate gradient \nmethod \u00b7 Biconjugate gradient stabilized method \u00b7 Bidiagonalization \u00b7 Block \nLanczos\u00a0...", 
+            "htmlSnippet": "... Basic Linear Algebra Subprograms &middot; Basis function &middot; <b>Biconjugate gradient</b> <br>\n<b>method</b> &middot; Biconjugate gradient stabilized method &middot; Bidiagonalization &middot; Block <br>\nLanczos&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Category:Numerical_linear_algebra", 
+            "cacheId": "ufkagUZPyzEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Preconditioner - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Preconditioner - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Preconditioner", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Preconditioner", 
+            "snippet": "The preconditioned problem is then usually solved by an iterative method. .... the \npreconditioned conjugate gradient method, the biconjugate gradient method,\u00a0...", 
+            "htmlSnippet": "The preconditioned problem is then usually solved by an iterative method. .... the <br>\npreconditioned conjugate gradient method, the <b>biconjugate gradient method</b>,&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Preconditioner", 
+            "cacheId": "1aw6viilHT0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "User:Javadabazari/Books/Numerical Method in Linear Algebra ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "User:Javadabazari/Books/Numerical <b>Method</b> in Linear Algebra <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../Numerical_Method_in_Linear_Algebra", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Numerical_<b>Method</b>_in_Linear_Algebra", 
+            "snippet": "User:Javadabazari/Books/Numerical Method in Linear Algebra ... Conjucate \nGradient Methods: Biconjugate gradient stabilized method \u00b7 Biconjugate gradient\n\u00a0...", 
+            "htmlSnippet": "User:Javadabazari/Books/Numerical <b>Method</b> in Linear Algebra ... Conjucate <br>\nGradient Methods: <b>Biconjugate gradient</b> stabilized <b>method</b> &middot; <b>Biconjugate gradient</b><br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/User:Javadabazari/Books/Numerical_Method_in_Linear_Algebra", 
+            "cacheId": "P6u0SIIs2TMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Generalized minimal residual method - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Generalized minimal residual <b>method</b> - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Generalized_minimal_residual_method", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Generalized_minimal_residual_<b>method</b>", 
+            "snippet": "The method approximates the solution by the vector in a Krylov subspace with \nminimal residual. The Arnoldi .... See also[edit]. Biconjugate gradient method\u00a0...", 
+            "htmlSnippet": "The method approximates the solution by the vector in a Krylov subspace with <br>\nminimal residual. The Arnoldi .... See also[edit]. <b>Biconjugate gradient method</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Generalized_minimal_residual_method", 
+            "cacheId": "qPEz4EwEHYoJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Biconjugate gradient method", 
+                "safe": "off", 
+                "searchTerms": "Biconjugate gradient method", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "55"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Biconjugate gradient method", 
+                "safe": "off", 
+                "searchTerms": "Biconjugate gradient method", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "55"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.17", 
+        "formattedTotalResults": "55", 
+        "totalResults": "55", 
+        "searchTime": 0.167285
+    }
+}

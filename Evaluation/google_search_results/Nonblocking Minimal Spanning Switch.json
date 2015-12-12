@@ -1,0 +1,240 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Nonblocking minimal spanning switch - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Nonblocking minimal spanning switch</b> - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Nonblocking_minimal_spanning_switch", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Nonblocking</b>_<b>minimal</b>_<b>spanning</b>_<b>switch</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQwvGPYbWOeOLtgL0_4u4SxYKGFzPkSuSJSxPoi-u0dO5zJuv4Kpl1DkrhL", 
+                        "height": "176"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Minimal_spanning_switch_4_4_4.svg/220px-Minimal_spanning_switch_4_4_4.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "A nonblocking minimal spanning switch is a device that can connect N inputs to \nN outputs in any combination. The most familiar use of switches of this type is in\u00a0...", 
+            "htmlSnippet": "A <b>nonblocking minimal spanning switch</b> is a device that can connect N inputs to <br>\nN outputs in any combination. The most familiar use of switches of this type is in&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Nonblocking_minimal_spanning_switch", 
+            "cacheId": "baloFTh9Sv0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Nonblocking minimal spanning switch - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Nonblocking minimal spanning switch</b> - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../Talk%3ANonblocking_minimal_spanning_switch", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Talk%3A<b>Nonblocking</b>_<b>minimal</b>_<b>spanning</b>_<b>switch</b>", 
+            "snippet": "(It maybe should be a core for a Telephone switch article; that article name now is \n... The first step in the Nonblocking Minimal Spanning Switch algorithm is to\u00a0...", 
+            "htmlSnippet": "(It maybe should be a core for a Telephone switch article; that article name now is <br>\n... The first step in the <b>Nonblocking Minimal Spanning Switch</b> algorithm is to&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3ANonblocking_minimal_spanning_switch", 
+            "cacheId": "6wWN1bra6agJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Banyan switch - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Banyan <b>switch</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Banyan_switch", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Banyan_<b>switch</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "217", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSYKsCzuI2KFZA91aeA21QEsRZMN_V6a7HHrwGy9OSlvUoFHsDO6IQNsTQ", 
+                        "height": "108"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/5/5d/Banyan_switch.png"
+                    }
+                ]
+            }, 
+            "snippet": "Logical banyan switches are used in logic or signal pathways to crossover ... \nfewer than N\u00b2 switches; Nonblocking minimal spanning switch and signal \nswitching.", 
+            "htmlSnippet": "Logical banyan switches are used in logic or signal pathways to crossover ... <br>\nfewer than N\u00b2 switches; <b>Nonblocking minimal spanning switch</b> and signal <br>\nswitching.", 
+            "link": "https://en.wikipedia.org/wiki/Banyan_switch", 
+            "cacheId": "u-R3Ie_W9bQJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Clos network - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Clos network - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Clos_network", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Clos_network", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "241", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTkoF2Zqd7WYNAFeKTjmELR8TcQp_yeCiadM_dgHX6Y_LXgTxu2VsBDsao", 
+                        "height": "209"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/9/9a/Closnetwork.png"
+                    }
+                ]
+            }, 
+            "snippet": "1.1 Strict-sense nonblocking Clos networks (m \u2265 2n\u22121): the original 1953 Clos \nresult; 1.2 Rearrangeably ... See also: Nonblocking minimal spanning switch.", 
+            "htmlSnippet": "1.1 Strict-sense nonblocking Clos networks (m \u2265 2n\u22121): the original 1953 Clos <br>\nresult; 1.2 Rearrangeably ... See also: <b>Nonblocking minimal spanning switch</b>.", 
+            "link": "https://en.wikipedia.org/wiki/Clos_network", 
+            "cacheId": "fECf02VSCuUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "File:NMSS1.svg - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "File:NMSS1.svg - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/File:NMSS1.svg", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/File:NMSS1.svg", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "248", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRI-8V03-8p3t77SH_N-Nf-hxjBgqH4WcLmgkzz5yng2TIF7mYYojwd22xu", 
+                        "height": "203"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/NMSS1.svg/733px-NMSS1.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "Non-Blocking Minimal Spanning Switch - Diagram 1. (Adding connection E \nblocked, but possible if connection D, in purple is rerouted, see NMSS2.jpg) This\n\u00a0...", 
+            "htmlSnippet": "<b>Non-Blocking Minimal Spanning Switch</b> - Diagram 1. (Adding connection E <br>\nblocked, but possible if connection D, in purple is rerouted, see NMSS2.jpg) This<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/File:NMSS1.svg", 
+            "cacheId": "SOg0Tz-bQ78J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Time-slot interchange - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Time-slot interchange - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Time-slot_interchange", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Time-slot_interchange", 
+            "snippet": "A time-slot interchange (TSI) switch is a network switch that stores data in RAM in \none sequence, and reads it ... (E.g. see Nonblocking minimal spanning switch)\u00a0...", 
+            "htmlSnippet": "A time-slot interchange (TSI) switch is a network switch that stores data in RAM in <br>\none sequence, and reads it ... (E.g. see <b>Nonblocking minimal spanning switch</b>)&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Time-slot_interchange", 
+            "cacheId": "261fKXMPEU4J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Non-blocking algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Non-blocking</b> algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Non-blocking_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Non-blocking</b>_algorithm", 
+            "snippet": "A non-blocking algorithm is lock-free if there is guaranteed system-wide ... it can \nalways make the connection\", see Nonblocking minimal spanning switch.", 
+            "htmlSnippet": "A non-blocking algorithm is lock-free if there is guaranteed system-wide ... it can <br>\nalways make the connection&quot;, see <b>Nonblocking minimal spanning switch</b>.", 
+            "link": "https://en.wikipedia.org/wiki/Non-blocking_algorithm", 
+            "cacheId": "TDYUbyZfIasJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Crossover switch - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Crossover <b>switch</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Crossover_switch", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Crossover_<b>switch</b>", 
+            "snippet": "There are blocking and non-blocking types of cross-over switches. These \nswitches can ... Crossbar switch \u00b7 Nonblocking minimal spanning switch \u00b7 Clos \nSwitch\u00a0...", 
+            "htmlSnippet": "There are blocking and non-blocking types of cross-over switches. These <br>\nswitches can ... Crossbar switch &middot; <b>Nonblocking minimal spanning switch</b> &middot; Clos <br>\nSwitch&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Crossover_switch", 
+            "cacheId": "BHMfjYI-Pw4J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Non-blocking - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Non-blocking</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Non-blocking", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Non-blocking</b>", 
+            "snippet": "Look up nonblocking in Wiktionary, the free dictionary. ... I/O, see asynchronous I/\nO \u00b7 Non-blocking synchronization \u00b7 Nonblocking minimal spanning switch\u00a0...", 
+            "htmlSnippet": "Look up nonblocking in Wiktionary, the free dictionary. ... I/O, see asynchronous I/<br>\nO &middot; Non-blocking synchronization &middot; <b>Nonblocking minimal spanning switch</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Non-blocking", 
+            "cacheId": "8oMXJGjkdOsJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "File:NMSS2.jpg - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "File:NMSS2.jpg - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/File:NMSS2.jpg", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/File:NMSS2.jpg", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "250", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQUu2sOrmJAMZpndSCUcqOHnmHQ7mcik_Sk6e_z6kffrTpAZH8CHRb45l6E", 
+                        "height": "202"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/7/78/NMSS2.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "Non-Blocking Minimal Spanning Switch - Diagram 2. (see NMSS1.jpg, signal D, \nin purple, has been rerouted and previously blocked signal E, in green, added)\u00a0...", 
+            "htmlSnippet": "<b>Non-Blocking Minimal Spanning Switch</b> - Diagram 2. (see NMSS1.jpg, signal D, <br>\nin purple, has been rerouted and previously blocked signal E, in green, added)&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/File:NMSS2.jpg", 
+            "cacheId": "rTFgHqZU94sJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Nonblocking Minimal Spanning Switch", 
+                "safe": "off", 
+                "searchTerms": "Nonblocking Minimal Spanning Switch", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "59"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Nonblocking Minimal Spanning Switch", 
+                "safe": "off", 
+                "searchTerms": "Nonblocking Minimal Spanning Switch", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "59"
+            }
+        ]
+    }, 
+    "spelling": {
+        "correctedQuery": "Non Blocking Minimal Spanning Switch", 
+        "htmlCorrectedQuery": "<b><i>Non Blocking</i></b> Minimal Spanning Switch"
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.28", 
+        "formattedTotalResults": "59", 
+        "totalResults": "59", 
+        "searchTime": 0.277488
+    }
+}

@@ -1,0 +1,279 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Osem (company) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Osem</b> (company) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Osem_(company)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Osem</b>_(company)", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "200", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSD9iwSk03zMkQRgebLKJeruUxAwY6KOcQamzDuq454pAczHYCJREhGSBY", 
+                        "height": "93"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/2/22/Osem_Logo.svg/250px-Osem_Logo.svg.png"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "bday": "1942", 
+                        "category": "Public", 
+                        "fn": "Osem Investments Ltd.", 
+                        "label": "Petah Tikva, Israel"
+                    }
+                ]
+            }, 
+            "snippet": "Osem Investments Ltd. (TASE: OSEM) (Hebrew: \u05d0\u05e1\u05dd  ) is one of the largest food \nmanufacturers and distributors in Israel. The group is majority owned (51%) by\u00a0...", 
+            "htmlSnippet": "<b>Osem</b> Investments Ltd. (TASE: <b>OSEM</b>) (Hebrew: \u05d0\u05e1\u05dd  ) is one of the largest food <br>\nmanufacturers and distributors in Israel. The group is majority owned (51%) by&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Osem_(company)", 
+            "cacheId": "6-WfeykimNwJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Ordered subset expectation maximization - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Ordered subset expectation maximization</b> - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../Ordered_subset_expectation_maximization", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Ordered_subset_expectation_maximization", 
+            "snippet": "In mathematical optimization, the ordered subset expectation maximization (\nOSEM) method is an iterative method that is used in computed tomography.", 
+            "htmlSnippet": "In mathematical optimization, the <b>ordered subset expectation maximization</b> (<br>\n<b>OSEM</b>) method is an iterative method that is used in computed tomography.", 
+            "link": "https://en.wikipedia.org/wiki/Ordered_subset_expectation_maximization", 
+            "cacheId": "VMeB4uS1ypQJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Osem - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Osem</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Osem", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Osem</b>", 
+            "snippet": "Osem may refer to: Osem (mathematics) - algorithm for image reconstruction in \nnuclear medical imaging; Osem (company) - Israeli food corporation\u00a0...", 
+            "htmlSnippet": "<b>Osem</b> may refer to: <b>Osem</b> (mathematics) - algorithm for image reconstruction in <br>\nnuclear medical imaging; <b>Osem</b> (company) - Israeli food corporation&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Osem", 
+            "cacheId": "gvSDzN9GR5MJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Bissli - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Bissli - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Bissli", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Bissli", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "96", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQKTmOiKEfpjMCWlfJ45RygkBUTS9DU6Wa1l5TgcgIhSN43Cp9yHYgCHQ", 
+                        "height": "79"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Falafel_Bissli_%D7%91%D7%99%D7%A1%D7%9C%D7%99_%D7%A4%D7%9C%D7%90%D7%A4%D7%9C.jpg/120px-Falafel_Bissli_%D7%91%D7%99%D7%A1%D7%9C%D7%99_%D7%A4%D7%9C%D7%90%D7%A4%D7%9C.jpg"
+                    }
+                ], 
+                "hproduct": [
+                    {
+                        "fn": "Bissli"
+                    }
+                ]
+            }, 
+            "snippet": "Bissli (Hebrew: \u05d1\u05b4\u05bc\u05d9\u05e1\u05b0\u05dc\u05b4\u05d9, Bisli) is an Israeli wheat snack produced by Osem. Bissli \nis Osem's leading snack brand after Bamba. Over 4,000 tons of Bissli are\u00a0...", 
+            "htmlSnippet": "Bissli (Hebrew: \u05d1\u05b4\u05bc\u05d9\u05e1\u05b0\u05dc\u05b4\u05d9, Bisli) is an Israeli wheat snack produced by <b>Osem</b>. Bissli <br>\nis <b>Osem&#39;s</b> leading snack brand after Bamba. Over 4,000 tons of Bissli are&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Bissli", 
+            "cacheId": "YD99aIDiWqcJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "File:Osem Logo.svg - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "File:<b>Osem</b> Logo.svg - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/File:Osem_Logo.svg", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/File:<b>Osem</b>_Logo.svg", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "329", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT_Mha3uph9Uw--27gsI-UahAuSUTi7vkDphUTflxUT3gUtdhDhAs_DZzvq", 
+                        "height": "153"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/2/22/Osem_Logo.svg/800px-Osem_Logo.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "The image is placed in the infobox at the top of the article discussing Osem (\ncompany), a subject of public interest. The significance of the logo is to help the\u00a0...", 
+            "htmlSnippet": "The image is placed in the infobox at the top of the article discussing <b>Osem</b> (<br>\ncompany), a subject of public interest. The significance of the logo is to help the&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/File:Osem_Logo.svg", 
+            "cacheId": "llAIuIDe_u0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Bamba (snack) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Bamba (snack) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Bamba_(snack)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Bamba_(snack)", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "200", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRZ0UHjnWZBH4Ne7kq2dO-ADOG417rvTX-0jm6dXn-ngEhGvH9ErIhAnsgr", 
+                        "height": "148"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Bamba_snack.jpg/250px-Bamba_snack.jpg"
+                    }
+                ], 
+                "hrecipe": [
+                    {
+                        "fn": "Bamba (Hebrew: \u05d1\u05b7\u05bc\u05de\u05b0\u05d1\u05b8\u05bc\u05d4)", 
+                        "author": "Osem"
+                    }
+                ]
+            }, 
+            "snippet": "Osem also produces strawberry-flavored Bamba (officially called 'Sweet Bamba' \nHebrew: \u05d1\u05de\u05d1\u05d4 \u05de\u05ea\u05d5\u05e7\u05d4  , and unofficially 'Red Bamba' Hebrew: \u05d1\u05de\u05d1\u05d4 \u05d0\u05d3\u05d5\u05de\u05d4  ) that\u00a0...", 
+            "htmlSnippet": "<b>Osem</b> also produces strawberry-flavored Bamba (officially called &#39;Sweet Bamba&#39; <br>\nHebrew: \u05d1\u05de\u05d1\u05d4 \u05de\u05ea\u05d5\u05e7\u05d4  , and unofficially &#39;Red Bamba&#39; Hebrew: \u05d1\u05de\u05d1\u05d4 \u05d0\u05d3\u05d5\u05de\u05d4  ) that&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Bamba_(snack)", 
+            "cacheId": "pK_5okENQxUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Via Alpina - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Via Alpina - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Via_Alpina", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Via_Alpina", 
+            "snippet": "The Via Alpina is a network of five long-distance hiking trails across the alpine \nregions of Slovenia, Austria, Germany, Liechtenstein, Switzerland, Italy, France,\u00a0...", 
+            "htmlSnippet": "The Via Alpina is a network of five long-distance hiking trails across the alpine <br>\nregions of Slovenia, Austria, Germany, Liechtenstein, Switzerland, Italy, France,&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Via_Alpina", 
+            "cacheId": "gSNMDv32efwJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Orquesta Sinf\u00f3nica del Estado de M\u00e9xico - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Orquesta Sinf\u00f3nica del Estado de M\u00e9xico</b> - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../Orquesta_Sinf\u00f3nica_del_Estado_de_M\u00e9xico", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Orquesta_Sinf\u00f3nica_del_Estado_de_M\u00e9xico", 
+            "snippet": "The Orquesta Sinf\u00f3nica del Estado de M\u00e9xico (OSEM) is the Symphony \nOrchestra of the State of Mexico. It was founded in 1971 and is based in Toluca, \nMexico\u00a0...", 
+            "htmlSnippet": "The <b>Orquesta Sinf\u00f3nica del Estado de M\u00e9xico</b> (<b>OSEM</b>) is the Symphony <br>\nOrchestra of the State of Mexico. It was founded in 1971 and is based in Toluca, <br>\nMexico&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Orquesta_Sinf%C3%B3nica_del_Estado_de_M%C3%A9xico", 
+            "cacheId": "xS1b54Q0TN8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Queen Celestine - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Queen Celestine - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Queen_Celestine", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Queen_Celestine", 
+            "pagemap": {
+                "person": [
+                    {
+                        "role": "Most Beautiful Girl in Nigeria Miss Amity 2014"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "bday": "1992-03-18", 
+                        "role": "Beauty pageant", 
+                        "nickname": "Queen Celestine", 
+                        "fn": "Queen Osem Celestine", 
+                        "title": "Most Beautiful Girl in Nigeria Miss Amity 2014"
+                    }
+                ]
+            }, 
+            "snippet": "From Wikipedia, the free encyclopedia. Jump to: navigation, search. Queen \nOsem Celestine. Beauty pageant titleholder. Born, Queen Celestine (1992-03-18\n) 18\u00a0...", 
+            "htmlSnippet": "From Wikipedia, the free encyclopedia. Jump to: navigation, search. Queen <br>\n<b>Osem</b> Celestine. Beauty pageant titleholder. Born, Queen Celestine (1992-03-18<br>\n) 18&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Queen_Celestine", 
+            "cacheId": "Wu8wT7DeCdUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "M\u00e9rida State Symphony Orchestra - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "M\u00e9rida State Symphony Orchestra - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/M\u00e9rida_State_Symphony_Orchestra", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/M\u00e9rida_State_Symphony_Orchestra", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcToDXp6liBclYe4eluaYgcTH3G4NhkbZ6M2pgrgdcA9mn0qNXvYHZI03kQ", 
+                        "height": "49"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Orquestra_Sinfonica_del_Estado_Merida_Panoramica.JPG/220px-Orquestra_Sinfonica_del_Estado_Merida_Panoramica.JPG"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "url": "www.osem.org.ve", 
+                        "category": "Orchestra", 
+                        "url_text": "www.osem.org.ve", 
+                        "fn": "M\u00e9rida State Symphony Orchestra"
+                    }
+                ]
+            }, 
+            "snippet": "The M\u00e9rida State Symphony Orchestra (Spanish: Orquesta Sinf\u00f3nica del Estado \nM\u00e9rida or OSEM) is a symphony orchestra based in the Venezuelan city of\u00a0...", 
+            "htmlSnippet": "The M\u00e9rida State Symphony Orchestra (Spanish: Orquesta Sinf\u00f3nica del Estado <br>\nM\u00e9rida or <b>OSEM</b>) is a symphony orchestra based in the Venezuelan city of&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/M%C3%A9rida_State_Symphony_Orchestra", 
+            "cacheId": "ruBH5c9r0SAJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Osem", 
+                "safe": "off", 
+                "searchTerms": "Osem", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "460"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Osem", 
+                "safe": "off", 
+                "searchTerms": "Osem", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "460"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.23", 
+        "formattedTotalResults": "460", 
+        "totalResults": "460", 
+        "searchTime": 0.228371
+    }
+}

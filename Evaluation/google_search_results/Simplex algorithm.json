@@ -1,0 +1,271 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Simplex algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Simplex algorithm</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Simplex_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Simplex</b>_<b>algorithm</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "192", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSQWWJ5sFXZMV0YnR5RriEGLDUoKsl9G7fbEZEWgTKfh71hicDPGCeGT0s", 
+                        "height": "150"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Simplex-description-en.svg/240px-Simplex-description-en.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "In mathematical optimization, Dantzig's simplex algorithm (or simplex method) is \na popular algorithm for linear programming. The journal Computing in Science\u00a0...", 
+            "htmlSnippet": "In mathematical optimization, Dantzig&#39;s <b>simplex algorithm</b> (or <b>simplex method</b>) is <br>\na popular algorithm for linear programming. The journal Computing in Science&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Simplex_algorithm", 
+            "cacheId": "A2TsgjNxDjsJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Nelder\u2013Mead method - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Nelder\u2013Mead <b>method</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Nelder\u2013Mead_method", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Nelder\u2013Mead_<b>method</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "256", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBQlnlivG13fz4ZVgUSzGs6Z_Tr-Cvo2p_Ytz9XyxKJQ5zmFqU1biqRjQ", 
+                        "height": "192"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Nelder_Mead1.gif/320px-Nelder_Mead1.gif"
+                    }
+                ]
+            }, 
+            "snippet": "The Nelder\u2013Mead method or downhill simplex method or amoeba method is a \ncommonly applied numerical method used to find the minimum or maximum of an\n\u00a0...", 
+            "htmlSnippet": "The Nelder\u2013Mead method or downhill <b>simplex method</b> or amoeba method is a <br>\ncommonly applied numerical method used to find the minimum or maximum of an<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Nelder%E2%80%93Mead_method", 
+            "cacheId": "KPG9KMNtTaIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Revised simplex method - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Revised <b>simplex method</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Revised_simplex_method", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Revised_<b>simplex</b>_<b>method</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "95", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTFxv9OIsl3pPanryX7bVdXLZ6iZwJDUmh9Ept_twUIlyFXPC10vn4J", 
+                        "height": "108"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/math/c/8/d/c8d83131f4c5e5e1daaa8a0ebcb5010c.png"
+                    }
+                ]
+            }, 
+            "snippet": "The revised simplex method is mathematically equivalent to the standard simplex \nmethod but differs in implementation. Instead of maintaining a tableau which\u00a0...", 
+            "htmlSnippet": "The revised <b>simplex method</b> is mathematically equivalent to the standard <b>simplex</b> <br>\n<b>method</b> but differs in implementation. Instead of maintaining a tableau which&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Revised_simplex_method", 
+            "cacheId": "2zD0pQHo0lcJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Network simplex algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Network <b>simplex algorithm</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Network_simplex_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Network_<b>simplex</b>_<b>algorithm</b>", 
+            "snippet": "In mathematical optimization, the network simplex algorithm is a graph theoretic \nspecialization of the simplex algorithm. The algorithm is usually formulated in\u00a0...", 
+            "htmlSnippet": "In mathematical optimization, the network <b>simplex algorithm</b> is a graph theoretic <br>\nspecialization of the <b>simplex algorithm</b>. The algorithm is usually formulated in&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Network_simplex_algorithm", 
+            "cacheId": "BRQ6K_zuuWMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Simplex - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Simplex</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Simplex", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Simplex</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSGMi_8lJv5pmxnac04jF2pIJI95rr3VMk1WfuuBt88bnEAOs2j14wOcUZ", 
+                        "height": "176"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Tetrahedron.png/220px-Tetrahedron.png"
+                    }
+                ]
+            }, 
+            "snippet": "In geometry, a simplex (plural: simplexes or simplices) is a generalization of the \n..... This is the simplex used in the simplex method, which is based at the origin,\u00a0...", 
+            "htmlSnippet": "In geometry, a simplex (plural: simplexes or simplices) is a generalization of the <br>\n..... This is the simplex used in the <b>simplex method</b>, which is based at the origin,&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Simplex", 
+            "cacheId": "2Kn7S1sfUcQJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Linear programming - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Linear programming - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Linear_programming", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Linear_programming", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQHQCjPUjsmZiJb36C917cA3jpF-JorJGJvCXmma3URFNA4hvXw3prCnwiM", 
+                        "height": "171"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Linear_optimization_in_a_2-dimensional_polytope.svg/220px-Linear_optimization_in_a_2-dimensional_polytope.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "In 1941, Frank Lauren Hitchcock also formulated transportation problems as \nlinear programs and gave a solution very similar to the later Simplex method;\u00a0...", 
+            "htmlSnippet": "In 1941, Frank Lauren Hitchcock also formulated transportation problems as <br>\nlinear programs and gave a solution very similar to the later <b>Simplex method</b>;&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Linear_programming", 
+            "cacheId": "j8VKnPE8Le0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Bland's rule - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Bland&#39;s rule - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Bland's_rule", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Bland&#39;s_rule", 
+            "snippet": "In mathematical optimization, Bland's rule (also known as Bland's algorithm or \nBland's anti-cycling rule) is an algorithmic refinement of the simplex method for\u00a0...", 
+            "htmlSnippet": "In mathematical optimization, Bland&#39;s rule (also known as Bland&#39;s algorithm or <br>\nBland&#39;s anti-cycling rule) is an algorithmic refinement of the <b>simplex method</b> for&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Bland's_rule", 
+            "cacheId": "OJiHmir6iV0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Criss-cross algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Criss-cross <b>algorithm</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Criss-cross_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Criss-cross_<b>algorithm</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVPKRMvYTwJOvSe6T6w7NQmPLnW60WDmunEbIrq5r8-fVG4z8HxrrE0_g", 
+                        "height": "153"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Unitcube.svg/220px-Unitcube.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "In its second phase, the simplex algorithm crawls along the edges of the polytope\n\u00a0...", 
+            "htmlSnippet": "In its second phase, the <b>simplex algorithm</b> crawls along the edges of the polytope<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Criss-cross_algorithm", 
+            "cacheId": "ksQpQ3m_2_MJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Big M method - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Big M <b>method</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Big_M_method", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Big_M_<b>method</b>", 
+            "snippet": "In operations research, the Big M method is a method of solving linear \nprogramming problems using the simplex algorithm. The Big M method extends \nthe power\u00a0...", 
+            "htmlSnippet": "In operations research, the Big M method is a method of solving linear <br>\nprogramming problems using the <b>simplex algorithm</b>. The Big M method extends <br>\nthe power&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Big_M_method", 
+            "cacheId": "vtC78j4Pn68J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "George Dantzig - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "George Dantzig - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/George_Dantzig", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/George_Dantzig", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "224", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSwnRbNH-zlO3UD427Zpk3bOV-Kw_YK3Zm4jtSCO5dHC2MCuyAyrmhkq_8", 
+                        "height": "170"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/George_B._Dantzig_at_National_Medal_of_Science_Awards_Ceremony,_1976.jpg/280px-George_B._Dantzig_at_National_Medal_of_Science_Awards_Ceremony,_1976.jpg"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "bday": "1914-11-08", 
+                        "category": "Mathematics Operations research Computer science Economics Statistics", 
+                        "fn": "George Bernard Dantzig"
+                    }
+                ]
+            }, 
+            "snippet": "Dantzig is known for his development of the simplex algorithm, an algorithm for \nsolving linear programming problems, and his work with linear programming.", 
+            "htmlSnippet": "Dantzig is known for his development of the <b>simplex algorithm</b>, an algorithm for <br>\nsolving linear programming problems, and his work with linear programming.", 
+            "link": "https://en.wikipedia.org/wiki/George_Dantzig", 
+            "cacheId": "Tm782vTMhmMJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Simplex algorithm", 
+                "safe": "off", 
+                "searchTerms": "Simplex algorithm", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "887"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Simplex algorithm", 
+                "safe": "off", 
+                "searchTerms": "Simplex algorithm", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "887"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.29", 
+        "formattedTotalResults": "887", 
+        "totalResults": "887", 
+        "searchTime": 0.290177
+    }
+}

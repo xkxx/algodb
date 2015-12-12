@@ -1,0 +1,231 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Pohlig\u2013Hellman algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Pohlig</b>\u2013<b>Hellman algorithm</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Pohlig\u2013Hellman_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Pohlig</b>\u2013<b>Hellman</b>_<b>algorithm</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "250", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSHRwLcEBergHf8F5_Z7EjUBfr6i4i2Ng73LMX7q-UXMNWrzqMz74fky70", 
+                        "height": "71"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/math/1/4/8/14809309fc08d6dda500c6d88ba8aabe.png"
+                    }
+                ]
+            }, 
+            "snippet": "In number theory, the Pohlig\u2013Hellman algorithm sometimes credited as the Silver\n\u2013Pohlig\u2013Hellman algorithm is a special-purpose algorithm for computing\u00a0...", 
+            "htmlSnippet": "In number theory, the <b>Pohlig</b>\u2013<b>Hellman algorithm</b> sometimes credited as the Silver<br>\n\u2013<b>Pohlig</b>\u2013<b>Hellman algorithm</b> is a special-purpose algorithm for computing&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Pohlig%E2%80%93Hellman_algorithm", 
+            "cacheId": "niOscesjTowJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Pohlig\u2013Hellman algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Pohlig</b>\u2013<b>Hellman algorithm</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3APohlig\u2013Hellman_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>Pohlig</b>\u2013<b>Hellman</b>_<b>algorithm</b>", 
+            "snippet": "However, if you apply his comment to a sequence of groups with order 3, 9, 27,... \nthen the time taken by Pohlig-Hellman should have a maximum, which is\u00a0...", 
+            "htmlSnippet": "However, if you apply his comment to a sequence of groups with order 3, 9, 27,... <br>\nthen the time taken by <b>Pohlig</b>-<b>Hellman</b> should have a maximum, which is&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3APohlig%E2%80%93Hellman_algorithm", 
+            "cacheId": "ZBccQ1saK-sJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Stephen Pohlig - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Stephen <b>Pohlig</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Stephen_Pohlig", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Stephen_<b>Pohlig</b>", 
+            "snippet": "Stephen Pohlig is an electrical engineer currently working at MIT Lincoln ... S. \nPohlig and M. Hellman, \"An improved algorithm for computing logarithms over\u00a0...", 
+            "htmlSnippet": "Stephen <b>Pohlig</b> is an electrical engineer currently working at MIT Lincoln ... S. <br>\n<b>Pohlig</b> and M. <b>Hellman</b>, &quot;An improved <b>algorithm</b> for computing logarithms over&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Stephen_Pohlig", 
+            "cacheId": "aSi63G-c0_YJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Baby-step giant-step - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Baby-step giant-step - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Baby-step_giant-step", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Baby-step_giant-step", 
+            "snippet": "The baby-step giant-step algorithm is based on rewriting x as x = im .... If the \norder of the group is composite then the Pohlig\u2013Hellman algorithm is more \nefficient.", 
+            "htmlSnippet": "The baby-step giant-step algorithm is based on rewriting x as x = im .... If the <br>\norder of the group is composite then the <b>Pohlig</b>\u2013<b>Hellman algorithm</b> is more <br>\nefficient.", 
+            "link": "https://en.wikipedia.org/wiki/Baby-step_giant-step", 
+            "cacheId": "lSrR_z_yF6EJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Pollard's rho algorithm for logarithms - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Pollard&#39;s rho <b>algorithm</b> for logarithms - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Pollard's_rho_algorithm_for_logarithms", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Pollard&#39;s_rho_<b>algorithm</b>_for_logarithms", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "140", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSaSbim2P33w77aID39-QCjxNIpXOiIO6VzgK6GRhI50K7mK2egYm5dFNM", 
+                        "height": "56"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/math/5/3/3/533af701acd39cb60d43185ff001a163.png"
+                    }
+                ]
+            }, 
+            "snippet": "Pollard's rho algorithm for logarithms is an algorithm introduced by John Pollard \nin .... If used together with the Pohlig-Hellman algorithm, the running time of the\u00a0...", 
+            "htmlSnippet": "Pollard&#39;s rho algorithm for logarithms is an algorithm introduced by John Pollard <br>\nin .... If used together with the <b>Pohlig</b>-<b>Hellman algorithm</b>, the running time of the&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Pollard's_rho_algorithm_for_logarithms", 
+            "cacheId": "rW5BGP7FSQoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Martin Hellman - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Martin <b>Hellman</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Martin_Hellman", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Martin_<b>Hellman</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "160", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTiWhptmPVFmQ51vJ0NYPJovLmHQqubXC5rpb78e2jFwlBxF4Z8BvEPhGU", 
+                        "height": "186"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Martin-Hellman.jpg/200px-Martin-Hellman.jpg"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "url": "www-ee.stanford.edu/~hellman", 
+                        "bday": "1945-10-02", 
+                        "category": "Cryptography Computer science Electrical engineering", 
+                        "url_text": "www-ee.stanford.edu/~hellman", 
+                        "fn": "Martin Edward Hellman"
+                    }
+                ]
+            }, 
+            "snippet": "Martin Edward Hellman (born October 2, 1945) is an American cryptologist, and \n.... in cryptography with Steve Pohlig (the Pohlig\u2013Hellman algorithm) and others.", 
+            "htmlSnippet": "Martin Edward Hellman (born October 2, 1945) is an American cryptologist, and <br>\n.... in cryptography with Steve Pohlig (the <b>Pohlig</b>\u2013<b>Hellman algorithm</b>) and others.", 
+            "link": "https://en.wikipedia.org/wiki/Martin_Hellman", 
+            "cacheId": "URvQ8Bekd2gJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Discrete logarithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Discrete logarithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Discrete_logarithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Discrete_logarithm", 
+            "snippet": "Regardless of the specific algorithm used, this operation is called modular ... field \nsieve \u00b7 Pohlig\u2013Hellman algorithm \u00b7 Pollard's rho algorithm for logarithms\u00a0...", 
+            "htmlSnippet": "Regardless of the specific algorithm used, this operation is called modular ... field <br>\nsieve &middot; <b>Pohlig</b>\u2013<b>Hellman algorithm</b> &middot; Pollard&#39;s rho algorithm for logarithms&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Discrete_logarithm", 
+            "cacheId": "7imu4Vf2ay0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Hyperelliptic curve cryptography - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Hyperelliptic curve cryptography - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Hyperelliptic_curve_cryptography", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Hyperelliptic_curve_cryptography", 
+            "snippet": "All generic attacks on the discrete logarithm problem in finite abelian groups such \nas the Pohlig\u2013Hellman algorithm and Pollard's rho method can be used to\u00a0...", 
+            "htmlSnippet": "All generic attacks on the discrete logarithm problem in finite abelian groups such <br>\nas the <b>Pohlig</b>\u2013<b>Hellman algorithm</b> and Pollard&#39;s rho method can be used to&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Hyperelliptic_curve_cryptography", 
+            "cacheId": "SJhuSqQ_H2IJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Hellman - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Hellman</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Hellman", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Hellman</b>", 
+            "snippet": "\u00c5ke Fredrik Hellman (born 1915), Finnish centenarian, painter and art professor; \n\u00c5ke ... Merkle\u2013Hellman knapsack cryptosystem \u00b7 Pohlig\u2013Hellman algorithm.", 
+            "htmlSnippet": "\u00c5ke Fredrik Hellman (born 1915), Finnish centenarian, painter and art professor; <br>\n\u00c5ke ... Merkle\u2013Hellman knapsack cryptosystem &middot; <b>Pohlig</b>\u2013<b>Hellman algorithm</b>.", 
+            "link": "https://en.wikipedia.org/wiki/Hellman", 
+            "cacheId": "1fOp8cexYXYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Diffie\u2013Hellman key exchange - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Diffie\u2013<b>Hellman</b> key exchange - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Diffie\u2013Hellman_key_exchange", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Diffie\u2013<b>Hellman</b>_key_exchange", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQoWsLG1Z1S2jZcp73jbd9i2-jVyIFHFfyK7GEJ0yjtSFU_C86CtY2Mug", 
+                        "height": "123"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Enigma_keylist_3_rotor.jpg/220px-Enigma_keylist_3_rotor.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "In 2002, Hellman suggested the algorithm be called Diffie\u2013Hellman\u2013Merkle key \n..... prime factor to prevent use of the Pohlig\u2013Hellman algorithm to obtain a or b.", 
+            "htmlSnippet": "In 2002, Hellman suggested the algorithm be called Diffie\u2013Hellman\u2013Merkle key <br>\n..... prime factor to prevent use of the <b>Pohlig</b>\u2013<b>Hellman algorithm</b> to obtain a or b.", 
+            "link": "https://en.wikipedia.org/wiki/Diffie%E2%80%93Hellman_key_exchange", 
+            "cacheId": "w3BRKkbW_moJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Pohlig-Hellman algorithm", 
+                "safe": "off", 
+                "searchTerms": "Pohlig-Hellman algorithm", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "117"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Pohlig-Hellman algorithm", 
+                "safe": "off", 
+                "searchTerms": "Pohlig-Hellman algorithm", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "117"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.18", 
+        "formattedTotalResults": "117", 
+        "totalResults": "117", 
+        "searchTime": 0.178847
+    }
+}

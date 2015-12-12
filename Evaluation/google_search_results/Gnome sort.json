@@ -1,0 +1,236 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Gnome sort - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Gnome sort</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Gnome_sort", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Gnome</b>_<b>sort</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "201", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRO2rIq6gT72URDmOsAnMUPHzi1isHPFQYNE9tiJWYEryTa0snA4QLEd0", 
+                        "height": "250"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/3/37/Sorting_gnomesort_anim.gif"
+                    }
+                ]
+            }, 
+            "snippet": "Gnome sort (or Stupid sort) is a sorting algorithm originally proposed by Dr. \nHamid Sarbazi-Azad (Professor of Computer Engineering at Sharif University of\u00a0...", 
+            "htmlSnippet": "<b>Gnome sort</b> (or Stupid sort) is a sorting algorithm originally proposed by Dr. <br>\nHamid Sarbazi-Azad (Professor of Computer Engineering at Sharif University of&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Gnome_sort", 
+            "cacheId": "PkrhIKUNnJ0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Gnome sort - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Gnome sort</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3AGnome_sort", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>Gnome</b>_<b>sort</b>", 
+            "snippet": "Sources for development of this article may be located at \"Gnome sort\" \u2013 news ... \n1 formatting problems; 2 Implementation transwiki; 3 Same as insertion sort?", 
+            "htmlSnippet": "Sources for development of this article may be located at &quot;<b>Gnome sort</b>&quot; \u2013 news ... <br>\n1 formatting problems; 2 Implementation transwiki; 3 Same as insertion sort?", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3AGnome_sort", 
+            "cacheId": "l2-2L6EkTDkJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Stupid sort - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Stupid <b>sort</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Stupid_sort", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Stupid_<b>sort</b>", 
+            "snippet": "Stupid sort is a name used for very ineffective sorting algorithms, including: \nBogosort \u00b7 Gnome sort ... \"Stupid Sort: A new sorting algorithm\" (PDF). Newsletter\n\u00a0...", 
+            "htmlSnippet": "Stupid sort is a name used for very ineffective sorting algorithms, including: <br>\nBogosort &middot; <b>Gnome sort</b> ... &quot;Stupid Sort: A new sorting algorithm&quot; (PDF). Newsletter<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Stupid_sort", 
+            "cacheId": "L5Zuyr_kSWkJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Stooge sort - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Stooge <b>sort</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Stooge_sort", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Stooge_<b>sort</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "201", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRnnaBXAnqEJgfzf59prNwGdLUi3cIKDSZFvATnKpOAPgsrXcsGYyrD33f0", 
+                        "height": "250"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Sorting_stoogesort_anim.gif"
+                    }
+                ]
+            }, 
+            "snippet": "Stooge sort is a recursive sorting algorithm with a time complexity of O(nlog 3 ... \nThe running time of the algorithm is thus slower compared to efficient sorting\u00a0...", 
+            "htmlSnippet": "Stooge <b>sort</b> is a recursive <b>sorting</b> algorithm with a time complexity of O(nlog 3 ... <br>\nThe running time of the algorithm is thus slower compared to efficient <b>sorting</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Stooge_sort", 
+            "cacheId": "7p5lxq8A4rEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Bogosort - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Bogosort - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Bogosort", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Bogo<b>sort</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRLOxBIFc6CG0FtjOzicWW5s1Q-Whx4IkI8QFHn0__G95h7zMHP8uDXMPNf", 
+                        "height": "148"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Bogo_sort_animation.gif/220px-Bogo_sort_animation.gif"
+                    }
+                ]
+            }, 
+            "snippet": "Gnome-searchtool.svg ... In computer science, bogosort (also stupid sort, \nslowsort, random sort, shotgun sort or ... This sorting algorithm is probabilistic in \nnature.", 
+            "htmlSnippet": "<b>Gnome</b>-searchtool.svg ... In computer science, bogosort (also stupid <b>sort</b>, <br>\nslowsort, random <b>sort</b>, shotgun <b>sort</b> or ... This <b>sorting</b> algorithm is probabilistic in <br>\nnature.", 
+            "link": "https://en.wikipedia.org/wiki/Bogosort", 
+            "cacheId": "5KVYypNchgMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Oscillating merge sort - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Oscillating merge <b>sort</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Oscillating_merge_sort", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Oscillating_merge_<b>sort</b>", 
+            "snippet": "Oscillating merge sort or oscillating sort is a variation of merge sort used with \ntape drives that can read backwards. Instead of doing a complete distribution as \nis\u00a0...", 
+            "htmlSnippet": "Oscillating merge <b>sort</b> or oscillating <b>sort</b> is a variation of merge <b>sort</b> used with <br>\ntape drives that can read backwards. Instead of doing a complete distribution as <br>\nis&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Oscillating_merge_sort", 
+            "cacheId": "6eQpw8LMclcJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Category:Stable sorts - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Category:Stable sorts - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Category:Stable_sorts", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Category:Stable_<b>sort</b>s", 
+            "snippet": "Stable sorting algorithms maintain the relative order of records with equal keys (\ni.e. values). That is, a sorting algorithm is stable if whenever ... G. Gnome sort\u00a0...", 
+            "htmlSnippet": "Stable sorting algorithms maintain the relative order of records with equal keys (<br>\ni.e. values). That is, a sorting algorithm is stable if whenever ... G. <b>Gnome sort</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Category:Stable_sorts", 
+            "cacheId": "d0KA44qzn8AJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Cycle sort - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Cycle <b>sort</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Cycle_sort", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Cycle_<b>sort</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "224", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQO_ETFFbiLaeNOGGdEclZQyyMfMjKWNIns3TjN-GOENof1k06feLwmE1k", 
+                        "height": "200"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Cyclesort.png"
+                    }
+                ]
+            }, 
+            "snippet": "Cycle sort is an in-place, unstable sorting algorithm, a comparison sort that is \ntheoretically optimal in terms of the total number of writes to the original array,\u00a0...", 
+            "htmlSnippet": "Cycle <b>sort</b> is an in-place, unstable <b>sorting</b> algorithm, a comparison <b>sort</b> that is <br>\ntheoretically optimal in terms of the total number of writes to the original array,&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Cycle_sort", 
+            "cacheId": "cAc5qIsJE9AJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Gnome (disambiguation) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Gnome</b> (disambiguation) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Gnome_(disambiguation)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Gnome</b>_(disambiguation)", 
+            "snippet": "A gnome is a diminutive spirit in Renaissance magic and alchemy. ... Multitasking \nEnvironment, for the Apple IIGS computer; Gnome sort, a sorting algorthim\u00a0...", 
+            "htmlSnippet": "A gnome is a diminutive spirit in Renaissance magic and alchemy. ... Multitasking <br>\nEnvironment, for the Apple IIGS computer; <b>Gnome sort</b>, a sorting algorthim&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Gnome_(disambiguation)", 
+            "cacheId": "MV105Bz_yYoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Selection sort - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Selection <b>sort</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Selection_sort", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Selection_<b>sort</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "200", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqW-tX09lefZmTj0ucNZTX7asAds3LnF-SdafvTQv80HgCIXQb0zGlL2m3", 
+                        "height": "200"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Selection_sort_animation.gif/250px-Selection_sort_animation.gif"
+                    }
+                ]
+            }, 
+            "snippet": "Here is an example of this sort algorithm sorting five elements: ... \u0398(n2) \nalgorithms, selection sort almost always outperforms bubble sort and gnome sort.", 
+            "htmlSnippet": "Here is an example of this sort algorithm sorting five elements: ... \u0398(n<sup>2</sup>) <br>\nalgorithms, selection sort almost always outperforms bubble sort and <b>gnome sort</b>.", 
+            "link": "https://en.wikipedia.org/wiki/Selection_sort", 
+            "cacheId": "hnCZz3eE85EJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Gnome sort", 
+                "safe": "off", 
+                "searchTerms": "Gnome sort", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "18100"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Gnome sort", 
+                "safe": "off", 
+                "searchTerms": "Gnome sort", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "18100"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.32", 
+        "formattedTotalResults": "18,100", 
+        "totalResults": "18100", 
+        "searchTime": 0.323625
+    }
+}

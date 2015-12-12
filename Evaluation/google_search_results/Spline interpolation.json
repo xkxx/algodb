@@ -1,0 +1,292 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Spline interpolation - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Spline interpolation</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Spline_interpolation", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Spline</b>_<b>interpolation</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "275", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgn6CVreEfPMBTNrcZBtRdaAHf7bZJU1NIQnrYMh01MUMREI_bAo12Wkg", 
+                        "height": "183"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Cubic_spline.svg/400px-Cubic_spline.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "In the mathematical field of numerical analysis, spline interpolation is a form of \ninterpolation where the interpolant is a special type of piecewise polynomial\u00a0...", 
+            "htmlSnippet": "In the mathematical field of numerical analysis, <b>spline interpolation</b> is a form of <br>\ninterpolation where the interpolant is a special type of piecewise polynomial&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Spline_interpolation", 
+            "cacheId": "Gm0c08M9znUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Spline (mathematics) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Spline</b> (mathematics) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Spline_(mathematics)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Spline</b>_(mathematics)", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQz4Ox--H8zmH84Etqe1uDBxJbXNtHWMS1feFjYXZaz1LSLkk9gDKx8eQ", 
+                        "height": "119"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Quadratic_spline_six_segments.svg/220px-Quadratic_spline_six_segments.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "[edit]. Main article: Spline interpolation. Spline interpolation is one of the most \ncommon\u00a0...", 
+            "htmlSnippet": "[edit]. Main article: <b>Spline interpolation</b>. <b>Spline interpolation</b> is one of the most <br>\ncommon&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Spline_(mathematics)", 
+            "cacheId": "BcI7MtdYZSUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Cubic Hermite spline - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Cubic Hermite <b>spline</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Cubic_Hermite_spline", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Cubic_Hermite_<b>spline</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "215", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzcpKT2cQKP8pRn4qWzq02Ynp-ZidiM-gISlFexykJ49tuGHc0ry9FvwXg", 
+                        "height": "234"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HermiteBasis.svg/300px-HermiteBasis.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "[edit]. Main article: Monotone cubic interpolation. If a cubic Hermite spline of any \nof the above listed types is used\u00a0...", 
+            "htmlSnippet": "[edit]. Main article: Monotone cubic <b>interpolation</b>. If a cubic Hermite <b>spline</b> of any <br>\nof the above listed types is used&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Cubic_Hermite_spline", 
+            "cacheId": "_hcSoE12LkYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Discrete spline interpolation - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Discrete <b>spline interpolation</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Discrete_spline_interpolation", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Discrete_<b>spline</b>_<b>interpolation</b>", 
+            "snippet": "In the mathematical field of numerical analysis, discrete spline interpolation is a \nform of interpolation where the interpolant is a special type of piecewise\u00a0...", 
+            "htmlSnippet": "In the mathematical field of numerical analysis, discrete <b>spline interpolation</b> is a <br>\nform of interpolation where the interpolant is a special type of piecewise&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Discrete_spline_interpolation", 
+            "cacheId": "T23qGCQe2GcJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Monotone cubic interpolation - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Monotone cubic <b>interpolation</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Monotone_cubic_interpolation", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Monotone_cubic_<b>interpolation</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "240", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTElDuyhGLb3YWtqj2Ea97YwwWRL7WxqgtyeTOcxXNGP6-o6yCwV8_3eHY", 
+                        "height": "180"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fe/MonotCubInt.png/300px-MonotCubInt.png"
+                    }
+                ]
+            }, 
+            "snippet": "Monotone interpolation can be accomplished using cubic Hermite spline with the \ntangents m_i modified to ensure the monotonicity of the resulting Hermite\u00a0...", 
+            "htmlSnippet": "Monotone <b>interpolation</b> can be accomplished using cubic Hermite <b>spline</b> with the <br>\ntangents m_i modified to ensure the monotonicity of the resulting Hermite&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Monotone_cubic_interpolation", 
+            "cacheId": "7EAb15r2avkJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Tricubic interpolation - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Tricubic <b>interpolation</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Tricubic_interpolation", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Tricubic_<b>interpolation</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRQM3s1J25x5OpKS-VIQZSBwpZv68mJo4eJc8kg9g3a9IswrIDJNaGnqzy7", 
+                        "height": "149"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Enclosing_points.svg/220px-Enclosing_points.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "In the mathematical subfield numerical analysis, tricubic interpolation is a method \nfor obtaining values at arbitrary points in 3D space of a function defined on a\u00a0...", 
+            "htmlSnippet": "In the mathematical subfield numerical analysis, tricubic <b>interpolation</b> is a method <br>\nfor obtaining values at arbitrary points in 3D space of a function defined on a&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Tricubic_interpolation", 
+            "cacheId": "8AcIbMswcBIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Multivariate interpolation - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Multivariate <b>interpolation</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Multivariate_interpolation", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Multivariate_<b>interpolation</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "96", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRtooCTSLeTXTivPrvB8rGPx6EShNBn7JS6Ysm3CMTRFwATwCXpyGIb", 
+                        "height": "74"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/BilinearInterpolExample.png/120px-BilinearInterpolExample.png"
+                    }
+                ]
+            }, 
+            "snippet": "[edit]. Catmull-Rom splines can be easily generalized to any number of \ndimensions. The cubic Hermite\u00a0...", 
+            "htmlSnippet": "[edit]. Catmull-Rom <b>splines</b> can be easily generalized to any number of <br>\ndimensions. The cubic Hermite&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Multivariate_interpolation", 
+            "cacheId": "mjLDQafht1EJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Bicubic interpolation - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Bicubic <b>interpolation</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Bicubic_interpolation", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Bicubic_<b>interpolation</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTcYfukDZ_XGd4f0N1yyY-xLfJFDZxSK3ln5e4IgTapNZA97DI0Xx8Y4p0", 
+                        "height": "136"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/BicubicInterpolationExample.png/220px-BicubicInterpolationExample.png"
+                    }
+                ]
+            }, 
+            "snippet": "In image processing, bicubic interpolation is often chosen over bilinear \ninterpolation or .... Bicubic spline interpolation requires the solution of the linear \nsystem\u00a0...", 
+            "htmlSnippet": "In image processing, bicubic interpolation is often chosen over bilinear <br>\ninterpolation or .... Bicubic <b>spline interpolation</b> requires the solution of the linear <br>\nsystem&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Bicubic_interpolation", 
+            "cacheId": "gpoWpr6u_4EJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Centripetal Catmull\u2013Rom spline - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Centripetal Catmull\u2013Rom <b>spline</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Centripetal_Catmull\u2013Rom_spline", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Centripetal_Catmull\u2013Rom_<b>spline</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYVX7c7hXsIDRjU4M7IaYTPcpplAQbqwBTkrEzXEL8tnp-tf_1_KuTOg", 
+                        "height": "104"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Catmull-Rom_Spline.png/220px-Catmull-Rom_Spline.png"
+                    }
+                ]
+            }, 
+            "snippet": "It is a type of interpolating spline (a curve that goes through its control points) \ndefined by four control points \\mathbf{P}_0, \\mathbf{P}_1, \\mathbf , with the curve\n\u00a0...", 
+            "htmlSnippet": "It is a type of <b>interpolating spline</b> (a curve that goes through its control points) <br>\ndefined by four control points \\mathbf{P}_0, \\mathbf{P}_1, \\mathbf , with the curve<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Centripetal_Catmull%E2%80%93Rom_spline", 
+            "cacheId": "Jl-vJq6nH7cJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Interpolation - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Interpolation</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Interpolation", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Interpolation</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "226", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOwzacfyce9ouwA7CzVU5AKRfNiL7KUkLrqp-N-rfp4gltNfzHXdmRMK8", 
+                        "height": "223"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Splined_epitrochoid.svg/300px-Splined_epitrochoid.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "[edit]. Plot of the data with spline interpolation applied. Main article: Spline \ninterpolation. Remember that linear interpolation\u00a0...", 
+            "htmlSnippet": "[edit]. Plot of the data with <b>spline interpolation</b> applied. Main article: <b>Spline</b> <br>\n<b>interpolation</b>. Remember that linear interpolation&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Interpolation", 
+            "cacheId": "3natRjjhOpYJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Spline interpolation", 
+                "safe": "off", 
+                "searchTerms": "Spline interpolation", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "409"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Spline interpolation", 
+                "safe": "off", 
+                "searchTerms": "Spline interpolation", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "409"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.26", 
+        "formattedTotalResults": "409", 
+        "totalResults": "409", 
+        "searchTime": 0.261756
+    }
+}

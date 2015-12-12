@@ -1,0 +1,194 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Lagged Fibonacci generator - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Lagged Fibonacci generator</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Lagged_Fibonacci_generator", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Lagged</b>_<b>Fibonacci</b>_<b>generator</b>", 
+            "snippet": "A Lagged Fibonacci generator (LFG or sometimes LFib) is an example of a \npseudorandom number generator. This class of random number generator is \naimed\u00a0...", 
+            "htmlSnippet": "A <b>Lagged Fibonacci generator</b> (LFG or sometimes LFib) is an example of a <br>\npseudorandom number generator. This class of random number generator is <br>\naimed&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Lagged_Fibonacci_generator", 
+            "cacheId": "vU7vAWPDz74J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "List of random number generators - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "List of random number <b>generators</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/List_of_random_number_generators", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/List_of_random_number_<b>generators</b>", 
+            "snippet": "1 Pseudorandom number generators (PRNGs); 2 Hardware (True) Random \nNumber ... Lagged Fibonacci generator \u00b7 Linear congruential generator - of \nhistorical\u00a0...", 
+            "htmlSnippet": "1 Pseudorandom number generators (PRNGs); 2 Hardware (True) Random <br>\nNumber ... <b>Lagged Fibonacci generator</b> &middot; Linear congruential generator - of <br>\nhistorical&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/List_of_random_number_generators", 
+            "cacheId": "V7owEltcDG0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Subtract with carry - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Subtract with carry - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Subtract_with_carry", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Subtract_with_carry", 
+            "snippet": "Subtract with carry is a pseudorandom number generator of the lagged Fibonacci \ntype introduced by George Marsaglia and Arif Zaman in 1991. It is one of three\u00a0...", 
+            "htmlSnippet": "Subtract with carry is a pseudorandom number <b>generator</b> of the <b>lagged Fibonacci</b> <br>\ntype introduced by George Marsaglia and Arif Zaman in 1991. It is one of three&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Subtract_with_carry", 
+            "cacheId": "xDU5rKIoRloJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Category:Fibonacci numbers - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Category:<b>Fibonacci</b> numbers - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Category:Fibonacci_numbers", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Category:<b>Fibonacci</b>_numbers", 
+            "snippet": "The main article for this category is Fibonacci numbers. ... Lagged Fibonacci \ngenerator \u00b7 Leonardo number \u00b7 Lucas number \u00b7 Lucas pseudoprime \u00b7 \u00c9douard\u00a0...", 
+            "htmlSnippet": "The main article for this category is Fibonacci numbers. ... <b>Lagged Fibonacci</b> <br>\n<b>generator</b> &middot; Leonardo number &middot; Lucas number &middot; Lucas pseudoprime &middot; \u00c9douard&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Category:Fibonacci_numbers", 
+            "cacheId": "Av3Wmlb13R8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "FISH (cipher) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "FISH (cipher) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/FISH_(cipher)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/FISH_(cipher)", 
+            "snippet": "The FISH (FIbonacci SHrinking) stream cipher is a fast software based stream \ncipher using Lagged Fibonacci generators, plus a concept from the shrinking\u00a0...", 
+            "htmlSnippet": "The FISH (FIbonacci SHrinking) stream cipher is a fast software based stream <br>\ncipher using <b>Lagged Fibonacci generators</b>, plus a concept from the shrinking&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/FISH_(cipher)", 
+            "cacheId": "g43vC-MhU1MJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Linear congruential generator - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Linear congruential <b>generator</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Linear_congruential_generator", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Linear_congruential_<b>generator</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "384", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwkLjqc0MTUR0glR8t3toGk-ZCOmFK5FUcqgqYMrRUdpZ_U8tyDdFpWGYw", 
+                        "height": "128"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Linear_congruential_generator_visualisation.svg/480px-Linear_congruential_generator_visualisation.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "A linear congruential generator (LCG) is an algorithm that yields a sequence of \n.... generators using sequence splitting and lagged Fibonacci generators using\u00a0...", 
+            "htmlSnippet": "A linear congruential generator (LCG) is an algorithm that yields a sequence of <br>\n.... generators using sequence splitting and <b>lagged Fibonacci generators</b> using&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Linear_congruential_generator", 
+            "cacheId": "YrHkZ-t298IJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "List of things named after Fibonacci - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "List of things named after <b>Fibonacci</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/List_of_things_named_after_Fibonacci", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/List_of_things_named_after_<b>Fibonacci</b>", 
+            "snippet": "The Fibonacci numbers are the best known concept named after Leonardo of \nPisa, ... Lagged Fibonacci generator \u00b7 Negafibonacci \u00b7 NegaFibonacci coding\u00a0...", 
+            "htmlSnippet": "The Fibonacci numbers are the best known concept named after Leonardo of <br>\nPisa, ... <b>Lagged Fibonacci generator</b> &middot; Negafibonacci &middot; NegaFibonacci coding&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/List_of_things_named_after_Fibonacci", 
+            "cacheId": "pHrHM5rxyBsJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Category:Pseudorandom number generators - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Category:Pseudorandom number <b>generators</b> - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../Category:Pseudorandom_number_generators", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Category:Pseudorandom_number_<b>generators</b>", 
+            "snippet": "The main article for this category is Pseudorandom number generator. ... Lagged \nFibonacci generator \u00b7 Lehmer random number generator \u00b7 Linear congruential\u00a0...", 
+            "htmlSnippet": "The main article for this category is Pseudorandom number generator. ... <b>Lagged</b> <br>\n<b>Fibonacci generator</b> &middot; Lehmer random number generator &middot; Linear congruential&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Category:Pseudorandom_number_generators", 
+            "cacheId": "6Gh2VKnY8vUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Combined Linear Congruential Generator - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Combined Linear Congruential <b>Generator</b> - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../Combined_Linear_Congruential_Generator", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Combined_Linear_Congruential_<b>Generator</b>", 
+            "snippet": "A Combined Linear Congruential Generator (CLCG) is a pseudo-random .... FOR \nLINEAR CONGRUENTIAL AND LAGGED FIBONACCI GENERATORS\" (PDF).", 
+            "htmlSnippet": "A Combined Linear Congruential Generator (CLCG) is a pseudo-random .... FOR <br>\nLINEAR CONGRUENTIAL AND <b>LAGGED FIBONACCI GENERATORS</b>&quot; (PDF).", 
+            "link": "https://en.wikipedia.org/wiki/Combined_Linear_Congruential_Generator", 
+            "cacheId": "o059dbFRf74J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Book:Algorithms - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Book:Algorithms - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Book:Algorithms", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Book:Algorithms", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "100", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQEnyeN8yQ7u_cUY3vrMNnpAOcaBWwvA045-Sq35R78YJJ74vWo3wcMqA", 
+                        "height": "124"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Mergesort_algorithm_diagram.png/125px-Mergesort_algorithm_diagram.png"
+                    }
+                ]
+            }, 
+            "snippet": "... marriage problem \u00b7 Pseudorandom number generator \u00b7 Blum Blum Shub \u00b7 \nLagged Fibonacci generator \u00b7 Linear congruential generator \u00b7 Mersenne twister\u00a0...", 
+            "htmlSnippet": "... marriage problem &middot; Pseudorandom number generator &middot; Blum Blum Shub &middot; <br>\n<b>Lagged Fibonacci generator</b> &middot; Linear congruential generator &middot; Mersenne twister&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Book:Algorithms", 
+            "cacheId": "2Z-Kr-9h6gwJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Lagged Fibonacci generator", 
+                "safe": "off", 
+                "searchTerms": "Lagged Fibonacci generator", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "38"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Lagged Fibonacci generator", 
+                "safe": "off", 
+                "searchTerms": "Lagged Fibonacci generator", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "38"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.17", 
+        "formattedTotalResults": "38", 
+        "totalResults": "38", 
+        "searchTime": 0.173074
+    }
+}

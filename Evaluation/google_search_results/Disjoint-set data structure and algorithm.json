@@ -1,0 +1,208 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Disjoint-set data structure - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Disjoint</b>-<b>set data structure</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Disjoint-set_data_structure", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Disjoint</b>-<b>set</b>_<b>data</b>_<b>structure</b>", 
+            "snippet": "In computer science, a disjoint-set data structure, also called a union\u2013find data .... \nIn the context of this algorithm, the term rank is used instead of depth since it\u00a0...", 
+            "htmlSnippet": "In computer science, a <b>disjoint</b>-<b>set data structure</b>, also called a union\u2013find data .... <br>\nIn the context of this <b>algorithm</b>, the term rank is used instead of depth since it&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Disjoint-set_data_structure", 
+            "cacheId": "Nf8lAV12LtgJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Disjoint-set data structure - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Disjoint</b>-<b>set data structure</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3ADisjoint-set_data_structure", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>Disjoint</b>-<b>set</b>_<b>data</b>_<b>structure</b>", 
+            "snippet": "On the page http://en.wikipedia.org/wiki/Big_O_notation#\nCommon_orders_of_functions\u00a0...", 
+            "htmlSnippet": "On the page http://en.wikipedia.org/wiki/Big_O_notation#<br>\nCommon_orders_of_functions&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3ADisjoint-set_data_structure", 
+            "cacheId": "XFIxNBGBLJUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Kruskal's algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Kruskal&#39;s <b>algorithm</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Kruskal's_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Kruskal&#39;s_<b>algorithm</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "160", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQBl1V-6SgtkfBIstxFbHSavcmk60Ee_og61ou5_1KwmSsiYojnOu_8fTzk", 
+                        "height": "160"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/MST_kruskal_en.gif/200px-MST_kruskal_en.gif"
+                    }
+                ]
+            }, 
+            "snippet": "It is a greedy algorithm in graph theory as it finds a minimum spanning tree for a \nconnected ... The following code is implemented with disjoint-set data structure:", 
+            "htmlSnippet": "It is a greedy <b>algorithm</b> in graph theory as it finds a minimum spanning tree for a <br>\nconnected ... The following code is implemented with <b>disjoint</b>-<b>set data structure</b>:", 
+            "link": "https://en.wikipedia.org/wiki/Kruskal's_algorithm", 
+            "cacheId": "VwYb882BkGcJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Disjoint sets - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Disjoint sets</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Disjoint_sets", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Disjoint</b>_<b>sets</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSePi3hVILS1DiFOPWNKeSaTadDaZW58mHHb9TQh_pxYdnd2aOYN5zHUZ4", 
+                        "height": "202"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Disjuct-sets.svg/220px-Disjuct-sets.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "For the data structure, see Disjoint-set data structure. ... Equivalently, disjoint sets \nare sets whose intersection is the empty set. .... Tarjan, Robert E. (1987), \"Three \npartition refinement algorithms\", SIAM Journal on Computing 16 (6): 973\u2013989,\u00a0...", 
+            "htmlSnippet": "For the <b>data structure</b>, see <b>Disjoint</b>-<b>set data structure</b>. ... Equivalently, <b>disjoint sets</b> <br>\nare sets whose intersection is the empty set. .... Tarjan, Robert E. (1987), &quot;Three <br>\npartition refinement <b>algorithms</b>&quot;, SIAM Journal on Computing 16 (6): 973\u2013989,&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Disjoint_sets", 
+            "cacheId": "OjWQprq7NXMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Partition refinement - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Partition refinement - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Partition_refinement", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Partition_refinement", 
+            "snippet": "In the design of algorithms, partition refinement is a technique for ... to the union-\nfind data structure, which also maintains a partition into disjoint sets but in which\n\u00a0...", 
+            "htmlSnippet": "In the design of <b>algorithms</b>, partition refinement is a technique for ... to the union-<br>\nfind <b>data structure</b>, which also maintains a partition into <b>disjoint sets</b> but in which<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Partition_refinement", 
+            "cacheId": "ylpSziJ_w7sJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Tarjan's off-line lowest common ancestors algorithm - Wikipedia, the ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Tarjan&#39;s off-line lowest common ancestors <b>algorithm</b> - Wikipedia, the <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../Tarjan's_off-line_lowest_common_ancestors_ algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Tarjan&#39;s_off-line_lowest_common_ancestors_ <b>algorithm</b>", 
+            "snippet": "The simplest version of the algorithm uses the union-find data structure, which \nunlike ... It uses the MakeSet, Find, and Union functions of a disjoint-set forest.", 
+            "htmlSnippet": "The simplest version of the <b>algorithm</b> uses the union-find <b>data structure</b>, which <br>\nunlike ... It uses the MakeSet, Find, and Union functions of a <b>disjoint</b>-<b>set</b> forest.", 
+            "link": "https://en.wikipedia.org/wiki/Tarjan's_off-line_lowest_common_ancestors_algorithm", 
+            "cacheId": "dP6WxOlx4BUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "User:Md Mishfaq Ahmed/Books/Data Structure and Algorithm Made ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "User:Md Mishfaq Ahmed/Books/<b>Data Structure and Algorithm</b> Made <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../Data_Structure_and_Algorithm_Made_easy_in_ java", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../<b>Data</b>_<b>Structure_and_Algorithm</b>_Made_easy_in_ java", 
+            "snippet": "User:Md Mishfaq Ahmed/Books/Data Structure and Algorithm Made easy in java \n... and Heaps: Disjoint-set data structure; Disjoint Sets ADT; Graph Algorithms\u00a0...", 
+            "htmlSnippet": "User:Md Mishfaq Ahmed/Books/<b>Data Structure and Algorithm</b> Made easy in java <br>\n... and Heaps: <b>Disjoint</b>-<b>set data structure</b>; <b>Disjoint Sets</b> ADT; Graph <b>Algorithms</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/User:Md_Mishfaq_Ahmed/Books/Data_Structure_and_Algorithm_Made_easy_in_java", 
+            "cacheId": "NKI3Hb1TcLsJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Dynamic connectivity - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Dynamic connectivity - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Dynamic_connectivity", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Dynamic_connectivity", 
+            "snippet": "The set V of vertices of the graph is fixed, but the set E of edges can change. ... \nthen the dynamic connectivity problem can be solved by a Disjoint-set data \nstructure. ... Scan the tree starting from u (using any tree scan algorithm, such as \nDFS).", 
+            "htmlSnippet": "The set V of vertices of the graph is fixed, but the set E of edges can change. ... <br>\nthen the dynamic connectivity problem can be solved by a <b>Disjoint</b>-<b>set data</b> <br>\n<b>structure</b>. ... Scan the tree starting from u (using any tree scan <b>algorithm</b>, such as <br>\nDFS).", 
+            "link": "https://en.wikipedia.org/wiki/Dynamic_connectivity", 
+            "cacheId": "_Tp-JSUJ8AcJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Ackermann function - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Ackermann function - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Ackermann_function", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Ackermann_function", 
+            "snippet": "This inverse appears in the time complexity of some algorithms, such as the \ndisjoint-set data structure and Chazelle's algorithm for minimum spanning trees.", 
+            "htmlSnippet": "This inverse appears in the time complexity of some <b>algorithms</b>, such as the <br>\n<b>disjoint</b>-<b>set data structure</b> and Chazelle&#39;s <b>algorithm</b> for minimum spanning trees.", 
+            "link": "https://en.wikipedia.org/wiki/Ackermann_function", 
+            "cacheId": "AspkFv62tDwJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Connected-component labeling - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Connected-component labeling - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Connected-component_labeling", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Connected-component_labeling", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "80", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSDqnC2alPbYFq7fZQq1Bql31sf0jaD7v1XHCl2TxDNGqlUhy5qqw0MSQ", 
+                        "height": "80"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Square_4_connectivity.png/100px-Square_4_connectivity.png"
+                    }
+                ]
+            }, 
+            "snippet": "This algorithm uses the union-find data structure which provides excellent ... the \nsecond pass merely replaces each pixel label with its equivalent disjoint-set\u00a0...", 
+            "htmlSnippet": "This <b>algorithm</b> uses the union-find <b>data structure</b> which provides excellent ... the <br>\nsecond pass merely replaces each pixel label with its equivalent <b>disjoint</b>-<b>set</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Connected-component_labeling", 
+            "cacheId": "EMwaFwJPag8J"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Disjoint-set data structure and algorithm", 
+                "safe": "off", 
+                "searchTerms": "Disjoint-set data structure and algorithm", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "568"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Disjoint-set data structure and algorithm", 
+                "safe": "off", 
+                "searchTerms": "Disjoint-set data structure and algorithm", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "568"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.27", 
+        "formattedTotalResults": "568", 
+        "totalResults": "568", 
+        "searchTime": 0.271719
+    }
+}

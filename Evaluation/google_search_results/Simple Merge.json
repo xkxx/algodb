@@ -1,0 +1,236 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Template:Merge to - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Template:<b>Merge</b> to - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Template:Merge_to", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Template:<b>Merge</b>_to", 
+            "snippet": "Tagging a single page is simple: {{Merge to |OtherPage|date=December 2015}}. \nWhen you want to discuss a simple merge of\u00a0...", 
+            "htmlSnippet": "Tagging a single page is simple: {{Merge to |OtherPage|date=December 2015}}. <br>\nWhen you want to discuss a <b>simple merge</b> of&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Template:Merge_to", 
+            "cacheId": "nmBcG6gf_b4J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "User:AmiDaniel/SHM - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "User:AmiDaniel/SHM - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/User:AmiDaniel/SHM", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/User:AmiDaniel/SHM", 
+            "snippet": "Simple History Merge (SHM) is a Windows application developed for the English \nlanguage Wikipedia that simplifies the process of merging the page history of\u00a0...", 
+            "htmlSnippet": "<b>Simple</b> History <b>Merge</b> (SHM) is a Windows application developed for the English <br>\nlanguage Wikipedia that simplifies the process of <b>merging</b> the page history of&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/User:AmiDaniel/SHM", 
+            "cacheId": "gEJ-AomAp-sJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Sorting algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Sorting algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Sorting_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Sorting_algorithm", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "284", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcw9pl3Q9PmPu7dU3Xk3DdbeYqZIQCzyyRfukXqYXWdm69y04uEeRiB3br", 
+                        "height": "178"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Sorting_playing_cards_using_stable_sort.svg/400px-Sorting_playing_cards_using_stable_sort.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "3.1 Simple sorts ... 3.2.1 Merge sort; 3.2.2 Heapsort; 3.2.3 Quicksort ..... Insertion \nsort is a simple sorting algorithm that is relatively efficient for small lists and\u00a0...", 
+            "htmlSnippet": "3.1 <b>Simple</b> sorts ... 3.2.1 <b>Merge</b> sort; 3.2.2 Heapsort; 3.2.3 Quicksort ..... Insertion <br>\nsort is a <b>simple</b> sorting algorithm that is relatively efficient for small lists and&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Sorting_algorithm", 
+            "cacheId": "CyeqKExhw84J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Merge (version control) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Merge</b> (version control) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Merge_(version_control)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Merge</b>_(version_control)", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "136", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTvtoM06rJ1SGmm8iSozSPdC-V441yu-tw_jDG8DXpdtCU7QpOu1uf-atc", 
+                        "height": "333"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Revision_controlled_project_visualization-2010-24-02.svg/170px-Revision_controlled_project_visualization-2010-24-02.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "Automatic merging is what version control software does when it reconciles .... \nSimple way to understand 3-Way merge process; Cohen, Bram (2005-05-05).", 
+            "htmlSnippet": "Automatic <b>merging</b> is what version control software does when it reconciles .... <br>\n<b>Simple</b> way to understand 3-Way <b>merge</b> process; Cohen, Bram (2005-05-05).", 
+            "link": "https://en.wikipedia.org/wiki/Merge_(version_control)", 
+            "cacheId": "4t-HHs-MSi8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Sort-merge join - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Sort-<b>merge</b> join - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Sort-merge_join", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Sort-<b>merge</b>_join", 
+            "snippet": "The sort-merge join (also known as merge join) is a join algorithm and is used in \nthe implementation of a relational database ... Simple C# Implementation[edit].", 
+            "htmlSnippet": "The sort-<b>merge</b> join (also known as <b>merge</b> join) is a join algorithm and is used in <br>\nthe implementation of a relational database ... <b>Simple</b> C# Implementation[edit].", 
+            "link": "https://en.wikipedia.org/wiki/Sort-merge_join", 
+            "cacheId": "TTJo7HshoykJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Merge algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Merge</b> algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Merge_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Merge</b>_algorithm", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT1LjvTww0m1ZgWAbKHRLqxJqjQYHnzGo5ZYzjCyovbz-fEMhMRHkL9Ab7a", 
+                        "height": "169"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Merge_sort_algorithm_diagram.svg/220px-Merge_sort_algorithm_diagram.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "Merge algorithms are a family of algorithms that take multiple sorted lists as .... \nTake a simple serial merge algorithm that merges two sorted list as an example:.", 
+            "htmlSnippet": "<b>Merge</b> algorithms are a family of algorithms that take multiple sorted lists as .... <br>\nTake a <b>simple</b> serial <b>merge</b> algorithm that merges two sorted list as an example:.", 
+            "link": "https://en.wikipedia.org/wiki/Merge_algorithm", 
+            "cacheId": "h7tLf4bUnRcJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Template talk:Merge/Archive 1 - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Template talk:<b>Merge</b>/Archive 1 - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Template_talk:Merge/Archive_1", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Template_talk:<b>Merge</b>/Archive_1", 
+            "snippet": "Merge, mergeto, and mergefrom are much better handled as relatively plain text, \nsince ..... And it may well be that in the case of a simple merge of one article into\u00a0...", 
+            "htmlSnippet": "Merge, mergeto, and mergefrom are much better handled as relatively plain text, <br>\nsince ..... And it may well be that in the case of a <b>simple merge</b> of one article into&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Template_talk:Merge/Archive_1", 
+            "cacheId": "MDlBPf7PgfcJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Newell\u2013Daganzo merge model - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Newell\u2013Daganzo <b>merge</b> model - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Newell\u2013Daganzo_merge_model", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Newell\u2013Daganzo_<b>merge</b>_model", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "240", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRCg2DR3cAsk9jVtj61jANPd3SOXUWREpX8IvNz0Lb_ixajJZnI09tSKGJ1", 
+                        "height": "176"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/5/54/Merge_model_diagram.TIF/lossy-page1-300px-Merge_model_diagram.TIF.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "In traffic flow theory, the Newell\u2013Daganzo merge model describes a simple \nprocedure on how to determine the flows exiting two branch roadways and \nmerging\u00a0...", 
+            "htmlSnippet": "In traffic flow theory, the Newell\u2013Daganzo <b>merge</b> model describes a <b>simple</b> <br>\nprocedure on how to determine the flows exiting two branch roadways and <br>\n<b>merging</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Newell%E2%80%93Daganzo_merge_model", 
+            "cacheId": "U2GnabNpbQwJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Wikipedia talk:Merging - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Wikipedia talk:<b>Merging</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Wikipedia_talk:Merging", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Wikipedia_talk:<b>Merging</b>", 
+            "snippet": "Wikipedia:Merging and Help:Merging should be merged. ...... It was a simple \nmerge with few editorial or technical difficulties, so perhaps not a typical example.", 
+            "htmlSnippet": "Wikipedia:Merging and Help:Merging should be merged. ...... It was a <b>simple</b> <br>\n<b>merge</b> with few editorial or technical difficulties, so perhaps not a typical example.", 
+            "link": "https://en.wikipedia.org/wiki/Wikipedia_talk:Merging", 
+            "cacheId": "UBqzeO0X9WEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Timsort - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Timsort - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Timsort", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Timsort", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "224", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR4KGs5s1zk2Q_jHCHH8u_TsgRsYJ8czMN9hjvMr_5SB35QS3wOB-q4lA", 
+                        "height": "104"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Selection_of_minrun_by_timsort.png/280px-Selection_of_minrun_by_timsort.png"
+                    }
+                ]
+            }, 
+            "snippet": "Timsort is a hybrid stable sorting algorithm, derived from merge sort and .... A \nsimple merge algorithm runs left to right or right to left depending on which run is\n\u00a0...", 
+            "htmlSnippet": "Timsort is a hybrid stable sorting algorithm, derived from merge sort and .... A <br>\n<b>simple merge</b> algorithm runs left to right or right to left depending on which run is<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Timsort", 
+            "cacheId": "lcQWSqEAlN8J"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Simple Merge", 
+                "safe": "off", 
+                "searchTerms": "Simple Merge", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "2950000"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Simple Merge", 
+                "safe": "off", 
+                "searchTerms": "Simple Merge", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "2950000"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.31", 
+        "formattedTotalResults": "2,950,000", 
+        "totalResults": "2950000", 
+        "searchTime": 0.309608
+    }
+}

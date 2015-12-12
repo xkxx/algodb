@@ -1,0 +1,245 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "De Casteljau's algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>De Casteljau&#39;s algorithm</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/De_Casteljau's_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>De</b>_<b>Casteljau&#39;s</b>_<b>algorithm</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "139", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSYUuoy4JuLOaeA02ST8l58RNK6cHvFXq7Sj9EKEjp-4bIe2kobWI-FxbA", 
+                        "height": "42"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/math/6/e/2/6e2d2eb63f9ba9dfe2e45b86092cf020.png"
+                    }
+                ]
+            }, 
+            "snippet": "In the mathematical field of numerical analysis, De Casteljau's algorithm is a \nrecursive method to evaluate polynomials in Bernstein form or B\u00e9zier curves,\u00a0...", 
+            "htmlSnippet": "In the mathematical field of numerical analysis, <b>De Casteljau&#39;s algorithm</b> is a <br>\nrecursive method to evaluate polynomials in Bernstein form or B\u00e9zier curves,&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/De_Casteljau's_algorithm", 
+            "cacheId": "40XQ3HsAEUYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Paul de Casteljau - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Paul <b>de Casteljau</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Paul_de_Casteljau", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Paul_<b>de</b>_<b>Casteljau</b>", 
+            "snippet": "Paul de Casteljau (born 1930 in Besan\u00e7on, France.) is a French physicist and \nmathematician. In 1959, while working at Citro\u00ebn, he developed an algorithm for\n\u00a0...", 
+            "htmlSnippet": "Paul <b>de Casteljau</b> (born 1930 in Besan\u00e7on, France.) is a French physicist and <br>\nmathematician. In 1959, while working at Citro\u00ebn, he developed an <b>algorithm</b> for<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Paul_de_Casteljau", 
+            "cacheId": "p1emsXvVrh8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:De Casteljau's algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>De Casteljau&#39;s algorithm</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "en.wikipedia.org/wiki/Talk%3ADe_Casteljau's_algorithm", 
+            "htmlFormattedUrl": "en.wikipedia.org/wiki/Talk%3ADe_<b>Casteljau&#39;s</b>_<b>algorithm</b>", 
+            "snippet": "Untitled[edit]. I would like to see this illustrated: any takers? --Phil | Talk 12:49, \nSep 22, 2004 (UTC). Illustration would be really nice. Perhaps \u039a\u03c3\u03c5\u03c0 Cyp would \ndo\u00a0...", 
+            "htmlSnippet": "Untitled[edit]. I would like to see this illustrated: any takers? --Phil | Talk 12:49, <br>\nSep 22, 2004 (UTC). Illustration would be really nice. Perhaps \u039a\u03c3\u03c5\u03c0 Cyp would <br>\ndo&nbsp;...", 
+            "link": "http://en.wikipedia.org/wiki/Talk%3ADe_Casteljau's_algorithm", 
+            "cacheId": "r6WXbqkRZjcJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "De Boor's algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>De</b> Boor&#39;s <b>algorithm</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/De_Boor's_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>De</b>_Boor&#39;s_<b>algorithm</b>", 
+            "snippet": "It is a generalization of the de Casteljau's algorithm for B\u00e9zier curves. The \nalgorithm was devised by Carl R. de Boor. Simplified, potentially faster variants of \nthe\u00a0...", 
+            "htmlSnippet": "It is a generalization of the <b>de Casteljau&#39;s algorithm</b> for B\u00e9zier curves. The <br>\nalgorithm was devised by Carl R. de Boor. Simplified, potentially faster variants of <br>\nthe&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/De_Boor's_algorithm", 
+            "cacheId": "s6VlnBFmgjYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "B\u00e9zier curve - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "B\u00e9zier curve - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/B\u00e9zier_curve", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/B\u00e9zier_curve", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "240", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRjvl0sBHdDa36VNANB5pjYBTBAuFjhHu1QgqoxeXSNxZpyBZkD--CFkUY", 
+                        "height": "180"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Bezier_basis.svg/300px-Bezier_basis.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "The study of these curves was however first developed in 1959 by mathematician \nPaul de Casteljau using de Casteljau's algorithm, a numerically stable method\u00a0...", 
+            "htmlSnippet": "The study of these curves was however first developed in 1959 by mathematician <br>\nPaul de Casteljau using <b>de Casteljau&#39;s algorithm</b>, a numerically stable method&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/B%C3%A9zier_curve", 
+            "cacheId": "_5ib_IfJGbcJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Bernstein polynomial - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Bernstein polynomial - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Bernstein_polynomial", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Bernstein_polynomial", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkBILCNR7upOhtE9OYtay17w1UpbXo2gP-iVo4ZvR5DGlxkOLITB1klWzF", 
+                        "height": "176"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Bernstein_Approximation.gif/220px-Bernstein_Approximation.gif"
+                    }
+                ]
+            }, 
+            "snippet": "A numerically stable way to evaluate polynomials in Bernstein form is de \nCasteljau's algorithm. Polynomials in Bernstein form were first used by Bernstein \nin a\u00a0...", 
+            "htmlSnippet": "A numerically stable way to evaluate polynomials in Bernstein form is <b>de</b> <br>\n<b>Casteljau&#39;s algorithm</b>. Polynomials in Bernstein form were first used by Bernstein <br>\nin a&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Bernstein_polynomial", 
+            "cacheId": "mUtCnUQZG9sJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Pierre B\u00e9zier - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Pierre B\u00e9zier - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Pierre_B\u00e9zier", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Pierre_B\u00e9zier", 
+            "pagemap": {
+                "hcard": [
+                    {
+                        "bday": "1910-09-01", 
+                        "category": "Mathematics", 
+                        "fn": "Pierre \u00c9tienne B\u00e9zier"
+                    }
+                ]
+            }, 
+            "snippet": "The curves were first developed in 1959 by Paul de Casteljau using de \nCasteljau's algorithm, a numerically stable method to evaluate B\u00e9zier curves. The \ncurves\u00a0...", 
+            "htmlSnippet": "The curves were first developed in 1959 by Paul de Casteljau using <b>de</b> <br>\n<b>Casteljau&#39;s algorithm</b>, a numerically stable method to evaluate B\u00e9zier curves. The <br>\ncurves&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Pierre_B%C3%A9zier", 
+            "cacheId": "pPXIgMhgpsgJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Slerp - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Slerp - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Slerp", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Slerp", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS7dbyE10C1Kt442syuLPtdk92MwVS3XTo8Avdh1Xe_RX8wAJqo7c954Q", 
+                        "height": "124"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Slerp_factor_explanation.png/220px-Slerp_factor_explanation.png"
+                    }
+                ]
+            }, 
+            "snippet": "Quaternion Slerps are commonly used to construct smooth animation curves by \nmimicking affine constructions like the de Casteljau algorithm for B\u00e9zier curves.", 
+            "htmlSnippet": "Quaternion Slerps are commonly used to construct smooth animation curves by <br>\nmimicking affine constructions like the <b>de Casteljau algorithm</b> for B\u00e9zier curves.", 
+            "link": "https://en.wikipedia.org/wiki/Slerp", 
+            "cacheId": "fAHYo16wV1kJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Clenshaw algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Clenshaw <b>algorithm</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Clenshaw_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Clenshaw_<b>algorithm</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "139", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLrOl2Nu0zj3--9gGgik7PsCaqxo7kqqIcbLGVvO0-6WkiUgVkP62o4A", 
+                        "height": "42"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/math/0/4/7/047a76ae8a6635caf5f5591a4a52449c.png"
+                    }
+                ]
+            }, 
+            "snippet": "In numerical analysis, the Clenshaw algorithm, also called Clenshaw .... Horner \nscheme to evaluate polynomials in monomial form \u00b7 De Casteljau's algorithm to\u00a0...", 
+            "htmlSnippet": "In numerical analysis, the Clenshaw algorithm, also called Clenshaw .... Horner <br>\nscheme to evaluate polynomials in monomial form &middot; <b>De Casteljau&#39;s algorithm</b> to&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Clenshaw_algorithm", 
+            "cacheId": "qW-mQQs0hWoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Category:Splines (mathematics) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Category:Splines (mathematics) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Category:Splines_(mathematics)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Category:Splines_(mathematics)", 
+            "snippet": "D. De Boor's algorithm \u00b7 De Casteljau's algorithm \u00b7 Discrete spline interpolation. H\n. Hermite spline. I. I-spline \u00b7 Interpolation (computer graphics). K.", 
+            "htmlSnippet": "D. De Boor&#39;s algorithm &middot; <b>De Casteljau&#39;s algorithm</b> &middot; Discrete spline interpolation. H<br>\n. Hermite spline. I. I-spline &middot; Interpolation (computer graphics). K.", 
+            "link": "https://en.wikipedia.org/wiki/Category:Splines_(mathematics)", 
+            "cacheId": "D6Lf0PI3tdAJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - De Casteljau's algorithm", 
+                "safe": "off", 
+                "searchTerms": "De Casteljau's algorithm", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "65"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - De Casteljau's algorithm", 
+                "safe": "off", 
+                "searchTerms": "De Casteljau's algorithm", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "65"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.25", 
+        "formattedTotalResults": "65", 
+        "totalResults": "65", 
+        "searchTime": 0.251071
+    }
+}

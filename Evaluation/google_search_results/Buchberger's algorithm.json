@@ -1,0 +1,180 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Buchberger's algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Buchberger&#39;s algorithm</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Buchberger's_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Buchberger&#39;s</b>_<b>algorithm</b>", 
+            "snippet": "In computational algebraic geometry and computational commutative algebra, \nBuchberger's algorithm is a method of transforming a given set of generators for a\n\u00a0...", 
+            "htmlSnippet": "In computational algebraic geometry and computational commutative algebra, <br>\n<b>Buchberger&#39;s algorithm</b> is a method of transforming a given set of generators for a<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Buchberger's_algorithm", 
+            "cacheId": "A207x6mEIAUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Gr\u00f6bner basis - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Gr\u00f6bner basis - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Gr\u00f6bner_basis", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Gr\u00f6bner_basis", 
+            "snippet": "Gr\u00f6bner bases were introduced in 1965, together with an algorithm to compute \nthem (Buchberger's algorithm), by Bruno Buchberger in his Ph.D. thesis.", 
+            "htmlSnippet": "Gr\u00f6bner bases were introduced in 1965, together with an algorithm to compute <br>\nthem (<b>Buchberger&#39;s algorithm</b>), by Bruno Buchberger in his Ph.D. thesis.", 
+            "link": "https://en.wikipedia.org/wiki/Gr%C3%B6bner_basis", 
+            "cacheId": "I5PrOJdHiIgJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Buchberger's algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Buchberger&#39;s algorithm</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "en.wikipedia.org/wiki?title=Talk:Buchberger's_algorithm", 
+            "htmlFormattedUrl": "en.wikipedia.org/wiki?title=Talk:<b>Buchberger&#39;s</b>_<b>algorithm</b>", 
+            "snippet": "This article is within the scope of WikiProject Mathematics, a collaborative effort to \nimprove the coverage of Mathematics on Wikipedia. If you would like to\u00a0...", 
+            "htmlSnippet": "This article is within the scope of WikiProject Mathematics, a collaborative effort to <br>\nimprove the coverage of Mathematics on Wikipedia. If you would like to&nbsp;...", 
+            "link": "http://en.wikipedia.org/wiki?title=Talk:Buchberger's_algorithm", 
+            "cacheId": "1hVzGPI7H5cJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Bruno Buchberger - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Bruno <b>Buchberger</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Bruno_Buchberger", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Bruno_<b>Buchberger</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQaNFNex_Ex3B7UWKf4B36buq1uHe_hRUth4L0ViVQd5X5_nLDAxU5w6Wo", 
+                        "height": "132"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Bruno_Buchberger.jpg/220px-Bruno_Buchberger.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "Bruno Buchberger (born October 22, 1942 in Innsbruck) is Professor of Computer \nMathematics at Johannes Kepler ... Buchberger's algorithm \u00b7 Gr\u00f6bner bases\u00a0...", 
+            "htmlSnippet": "Bruno Buchberger (born October 22, 1942 in Innsbruck) is Professor of Computer <br>\nMathematics at Johannes Kepler ... <b>Buchberger&#39;s algorithm</b> &middot; Gr\u00f6bner bases&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Bruno_Buchberger", 
+            "cacheId": "4hc0u8tUsOYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Faug\u00e8re's F4 and F5 algorithms - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Faug\u00e8re&#39;s F4 and F5 <b>algorithms</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Faug\u00e8re's_F4_and_F5_algorithms", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Faug\u00e8re&#39;s_F4_and_F5_<b>algorithms</b>", 
+            "snippet": "The algorithm uses the same mathematical principles as the Buchberger \nalgorithm, but computes many normal forms in one go by forming a generally \nsparse\u00a0...", 
+            "htmlSnippet": "The algorithm uses the same mathematical principles as the <b>Buchberger</b> <br>\n<b>algorithm</b>, but computes many normal forms in one go by forming a generally <br>\nsparse&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Faug%C3%A8re's_F4_and_F5_algorithms", 
+            "cacheId": "XSliHQciT6gJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Buchberger - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Buchberger</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Buchberger", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Buchberger</b>", 
+            "snippet": "Buchberger is a German surname meaning \"a person from Buchberg\". ... \nBuchberger's algorithm, in computational algebraic geometry and computational\n\u00a0...", 
+            "htmlSnippet": "Buchberger is a German surname meaning &quot;a person from Buchberg&quot;. ... <br>\n<b>Buchberger&#39;s algorithm</b>, in computational algebraic geometry and computational<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Buchberger", 
+            "cacheId": "Aam5jS4x3JwJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Knuth\u2013Bendix completion algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Knuth\u2013Bendix completion <b>algorithm</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Knuth\u2013Bendix_completion_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Knuth\u2013Bendix_completion_<b>algorithm</b>", 
+            "snippet": "Buchberger's algorithm for computing Gr\u00f6bner bases is a very similar algorithm. \nAlthough developed independently, it may also be seen as the instantiation of\u00a0...", 
+            "htmlSnippet": "<b>Buchberger&#39;s algorithm</b> for computing Gr\u00f6bner bases is a very similar algorithm. <br>\nAlthough developed independently, it may also be seen as the instantiation of&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Knuth%E2%80%93Bendix_completion_algorithm", 
+            "cacheId": "yZ7yjP2wE_gJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Quine\u2013McCluskey algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Quine\u2013McCluskey <b>algorithm</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Quine\u2013McCluskey_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Quine\u2013McCluskey_<b>algorithm</b>", 
+            "snippet": "The Quine\u2013McCluskey algorithm (or the method of prime implicants) is a .... \nOrman Quine \u00b7 Buchberger's algorithm (analogous algorithm for algebraic \ngeometry)\u00a0...", 
+            "htmlSnippet": "The Quine\u2013McCluskey algorithm (or the method of prime implicants) is a .... <br>\nOrman Quine &middot; <b>Buchberger&#39;s algorithm</b> (analogous algorithm for algebraic <br>\ngeometry)&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Quine%E2%80%93McCluskey_algorithm", 
+            "cacheId": "5Au7K-WYfpoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Axiom (computer algebra system) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Axiom (computer algebra system) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Axiom_(computer_algebra_system)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Axiom_(computer_algebra_system)", 
+            "snippet": "Axiom has an implementation of the Risch algorithm for elementary integration, \nwhich was done by ... \"Buchberger's algorithm and staggered linear bases\".", 
+            "htmlSnippet": "Axiom has an implementation of the Risch algorithm for elementary integration, <br>\nwhich was done by ... &quot;<b>Buchberger&#39;s algorithm</b> and staggered linear bases&quot;.", 
+            "link": "https://en.wikipedia.org/wiki/Axiom_(computer_algebra_system)", 
+            "cacheId": "Cvs1wiuEOJEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Syzygy (mathematics) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Syzygy (mathematics) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Syzygy_(mathematics)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Syzygy_(mathematics)", 
+            "snippet": "Buchberger's algorithm for computing Gr\u00f6bner bases allows the computation of \nthe first syzygy module: The reduction to zero of the S-polynomial of a pair of\u00a0...", 
+            "htmlSnippet": "<b>Buchberger&#39;s algorithm</b> for computing Gr\u00f6bner bases allows the computation of <br>\nthe first syzygy module: The reduction to zero of the S-polynomial of a pair of&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Syzygy_(mathematics)", 
+            "cacheId": "limzWO296gYJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Buchberger's algorithm", 
+                "safe": "off", 
+                "searchTerms": "Buchberger's algorithm", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "103"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Buchberger's algorithm", 
+                "safe": "off", 
+                "searchTerms": "Buchberger's algorithm", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "103"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.25", 
+        "formattedTotalResults": "103", 
+        "totalResults": "103", 
+        "searchTime": 0.252082
+    }
+}

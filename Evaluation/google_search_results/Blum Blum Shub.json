@@ -1,0 +1,244 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Blum Blum Shub - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Blum Blum Shub</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Blum_Blum_Shub", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Blum</b>_<b>Blum</b>_<b>Shub</b>", 
+            "snippet": "Blum Blum Shub (B.B.S.) is a pseudorandom number generator proposed in \n1986 by Lenore Blum, Manuel Blum and Michael Shub that is derived from \nMichael\u00a0...", 
+            "htmlSnippet": "<b>Blum Blum Shub</b> (<b>B.B.S.</b>) is a pseudorandom number generator proposed in <br>\n1986 by Lenore Blum, Manuel Blum and Michael Shub that is derived from <br>\nMichael&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Blum_Blum_Shub", 
+            "cacheId": "355-7XfqYEUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Lenore Blum - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Lenore <b>Blum</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Lenore_Blum", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Lenore_<b>Blum</b>", 
+            "pagemap": {
+                "person": [
+                    {
+                        "role": "mathematician, professor"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk9JDggbXZ2DsamRXoNnPRuUM1bwm64sscnSPS_g0FNTNr6JPSh7QvNQ", 
+                        "height": "124"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Lenore_Blum.jpg/220px-Lenore_Blum.jpg"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "bday": "1942-12-18", 
+                        "category": "USA", 
+                        "role": "mathematician, professor", 
+                        "fn": "Lenore Blum"
+                    }
+                ]
+            }, 
+            "snippet": "See Blum Blum Shub. In 1987 she spent a year at IBM. In 1989 she published a \npaper with Michael Shub and Stephen Smale on NP completeness, recursive\u00a0...", 
+            "htmlSnippet": "See <b>Blum Blum Shub</b>. In 1987 she spent a year at IBM. In 1989 she published a <br>\npaper with Michael Shub and Stephen Smale on NP completeness, recursive&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Lenore_Blum", 
+            "cacheId": "L3HVZ3-YgkQJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Blum\u2013Shub\u2013Smale machine - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Blum</b>\u2013<b>Shub</b>\u2013Smale machine - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Blum\u2013Shub\u2013Smale_machine", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Blum</b>\u2013<b>Shub</b>\u2013Smale_machine", 
+            "snippet": "In computation theory, the Blum\u2013Shub\u2013Smale machine, or BSS machine, is a \nmodel of computation introduced by Lenore Blum, Michael Shub and Stephen\u00a0...", 
+            "htmlSnippet": "In computation theory, the <b>Blum</b>\u2013<b>Shub</b>\u2013Smale machine, or BSS machine, is a <br>\nmodel of computation introduced by Lenore <b>Blum</b>, Michael <b>Shub</b> and Stephen&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Blum%E2%80%93Shub%E2%80%93Smale_machine", 
+            "cacheId": "e780ikOKhYkJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Michael Shub - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Michael <b>Shub</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Michael_Shub", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Michael_<b>Shub</b>", 
+            "pagemap": {
+                "person": [
+                    {
+                        "role": "mathematician, professor"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR2cufvb_N6HiQG_THXaN-PiQCDiDOWPhFTHZlOJZlTsgelNbjskeOzhA", 
+                        "height": "161"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Michael_Shub.jpg/220px-Michael_Shub.jpg"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "bday": "1943-08-17", 
+                        "role": "mathematician, professor", 
+                        "category": "USA", 
+                        "nickname": "Michael Ira Shub", 
+                        "fn": "Michael Shub"
+                    }
+                ]
+            }, 
+            "snippet": "He described jointly with Lenore and Manuel Blum a simple, unpredictable, \nsecure random number generator. see Blum Blum Shub. This is said to be useful\n\u00a0...", 
+            "htmlSnippet": "He described jointly with Lenore and Manuel Blum a simple, unpredictable, <br>\nsecure random number generator. see <b>Blum Blum Shub</b>. This is said to be useful<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Michael_Shub", 
+            "cacheId": "9bOMA04-kH8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Blum Blum Shub - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Blum Blum Shub</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3ABlum_Blum_Shub", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>Blum</b>_<b>Blum</b>_<b>Shub</b>", 
+            "snippet": "It is a common error to think that Blum Blum Shub reduces to the factoring \nproblem. It reduces to the Quadratic residuosity problem. It's just that no way is \nknown\u00a0...", 
+            "htmlSnippet": "It is a common error to think that <b>Blum Blum Shub</b> reduces to the factoring <br>\nproblem. It reduces to the Quadratic residuosity problem. It&#39;s just that no way is <br>\nknown&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3ABlum_Blum_Shub", 
+            "cacheId": "CKnfUuRg-4MJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Manuel Blum - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Manuel <b>Blum</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Manuel_Blum", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Manuel_<b>Blum</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTYMNu86EQHi5ndhRk1VPHDIt33JqAzo6iXLA5qD6IQp65EsgCimWdBng", 
+                        "height": "119"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Blum_manuel_lenore_avrim.jpg/220px-Blum_manuel_lenore_avrim.jpg"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "url": "www.cs.cmu.edu/~mblum", 
+                        "bday": "1938-04-26", 
+                        "category": "Computer Science", 
+                        "url_text": "www.cs.cmu.edu/~mblum", 
+                        "fn": "Manuel Blum"
+                    }
+                ]
+            }, 
+            "snippet": "Manuel Blum (left) with his wife Lenore Blum and their son Avrim Blum ... time \nselection algorithm), the Blum Blum Shub pseudorandom number generator, the\n\u00a0...", 
+            "htmlSnippet": "Manuel Blum (left) with his wife Lenore Blum and their son Avrim Blum ... time <br>\nselection algorithm), the <b>Blum Blum Shub</b> pseudorandom number generator, the<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Manuel_Blum", 
+            "cacheId": "GNfUvC66RGwJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Blum\u2013Micali algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Blum</b>\u2013Micali algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Blum\u2013Micali_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Blum</b>\u2013Micali_algorithm", 
+            "snippet": "The Blum\u2013Micali algorithm is a cryptographically secure pseudorandom ... to the \nwhole Blum-Micali construction, including the Blum Blum Shub and Kaliski\u00a0...", 
+            "htmlSnippet": "The Blum\u2013Micali algorithm is a cryptographically secure pseudorandom ... to the <br>\nwhole Blum-Micali construction, including the <b>Blum Blum Shub</b> and Kaliski&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Blum%E2%80%93Micali_algorithm", 
+            "cacheId": "Q4TblbAns-kJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Blum\u2013Goldwasser cryptosystem - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Blum</b>\u2013Goldwasser cryptosystem - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Blum\u2013Goldwasser_cryptosystem", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Blum</b>\u2013Goldwasser_cryptosystem", 
+            "snippet": "The encryption algorithm implements an XOR-based stream cipher using the \nBlum Blum Shub (BBS) pseudo-random number generator to generate the\u00a0...", 
+            "htmlSnippet": "The encryption algorithm implements an XOR-based stream cipher using the <br>\n<b>Blum Blum Shub</b> (BBS) pseudo-random number generator to generate the&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Blum%E2%80%93Goldwasser_cryptosystem", 
+            "cacheId": "agkn0oYTY10J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Random are numbers", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Random are numbers", 
+            "formattedUrl": "https://en.wikipedia.org/.../Cryptographically_secure_pseudorandom_number _generator", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Cryptographically_secure_pseudorandom_number _generator", 
+            "snippet": "The Blum Blum Shub algorithm has a security proof based on the difficulty of the \nQuadratic residuosity problem. Since the only known way to solve that problem\u00a0...", 
+            "htmlSnippet": "The <b>Blum Blum Shub</b> algorithm has a security proof based on the difficulty of the <br>\nQuadratic residuosity problem. Since the only known way to solve that problem&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Cryptographically_secure_pseudorandom_number_generator", 
+            "cacheId": "FugoEZjYIP8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Quadratic residuosity problem - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Quadratic residuosity problem - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Quadratic_residuosity_problem", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Quadratic_residuosity_problem", 
+            "snippet": "... quadratic residuosity problem is the basis for the security of the Blum Blum \nShub pseudorandom number generator and the Goldwasser\u2013Micali \ncryptosystem.", 
+            "htmlSnippet": "... quadratic residuosity problem is the basis for the security of the <b>Blum Blum</b> <br>\n<b>Shub</b> pseudorandom number generator and the Goldwasser\u2013Micali <br>\ncryptosystem.", 
+            "link": "https://en.wikipedia.org/wiki/Quadratic_residuosity_problem", 
+            "cacheId": "PIlUSY9zFxIJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Blum Blum Shub", 
+                "safe": "off", 
+                "searchTerms": "Blum Blum Shub", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "86"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Blum Blum Shub", 
+                "safe": "off", 
+                "searchTerms": "Blum Blum Shub", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "86"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.25", 
+        "formattedTotalResults": "86", 
+        "totalResults": "86", 
+        "searchTime": 0.253169
+    }
+}

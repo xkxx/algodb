@@ -1,0 +1,250 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Hash table - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Hash table</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Hash_table", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Hash</b>_<b>table</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "252", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRU_f6TeXz4ph4hJJh6zsDuFm3IlWRxiFDCxPtD9DdKmR6xFb5_H0hX7Nk", 
+                        "height": "184"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Hash_table_3_1_1_0_1_0_0_SP.svg/315px-Hash_table_3_1_1_0_1_0_0_SP.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "In computing, a hash table (hash map) is a data structure used to implement an \nassociative array, a structure that can map keys to values. A hash table uses a\u00a0...", 
+            "htmlSnippet": "In computing, a <b>hash table</b> (hash map) is a data structure used to implement an <br>\nassociative array, a structure that can map keys to values. A <b>hash table</b> uses a&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Hash_table", 
+            "cacheId": "zPobY6oj9TEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Distributed hash table - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Distributed <b>hash table</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Distributed_hash_table", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Distributed_<b>hash</b>_<b>table</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "347", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSHTStBWVOm3zADbboN9e-3gC6SA1NpxKnx_noFjrYu-IvUI3U33Ccu2G0", 
+                        "height": "145"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DHT_en.svg/500px-DHT_en.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "A distributed hash table (DHT) is a class of a decentralized distributed system \nthat provides a lookup service similar to a hash table: (key, value) pairs are \nstored\u00a0...", 
+            "htmlSnippet": "A distributed <b>hash table</b> (DHT) is a class of a decentralized distributed system <br>\nthat provides a lookup service similar to a <b>hash table</b>: (key, value) pairs are <br>\nstored&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Distributed_hash_table", 
+            "cacheId": "J5iNm3UtbVsJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Cuckoo hashing - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Cuckoo <b>hashing</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Cuckoo_hashing", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Cuckoo_<b>hashing</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "146", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTUnrPYkGSTnT6XrySb7k_7P_Ni_KIJHpz35RCmyC5GiMAfIgAJSxd-XoP-", 
+                        "height": "344"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Cuckoo.svg/220px-Cuckoo.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "Lookup requires inspection of just two locations in the hash table, which takes \nconstant time in the worst case (see Big O notation). This is in contrast to many\u00a0...", 
+            "htmlSnippet": "Lookup requires inspection of just two locations in the <b>hash table</b>, which takes <br>\nconstant time in the worst case (see Big O notation). This is in contrast to many&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Cuckoo_hashing", 
+            "cacheId": "KIrm2bBP7CIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Hash function - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Hash</b> function - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Hash_function", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Hash</b>_function", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "192", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRCWEX46m4wOS10u7TXP4pU4WgSdQUGQvK8e0xkw26VPvT5kkbnFZBmFmDM", 
+                        "height": "147"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Hash_table_4_1_1_0_0_1_0_LL.svg/240px-Hash_table_4_1_1_0_0_1_0_LL.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "This section does not cite any references (sources). Please help improve this \nsection by adding citations to reliable sources.", 
+            "htmlSnippet": "This section does not cite any references (sources). Please help improve this <br>\nsection by adding citations to reliable sources.", 
+            "link": "https://en.wikipedia.org/wiki/Hash_function", 
+            "cacheId": "P0QYCyD4M9oJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Linear hashing - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Linear <b>hashing</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Linear_hashing", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Linear_<b>hashing</b>", 
+            "snippet": "'[edit]. b = h0(k); if b < split-pointer then; b = h1(k); read bucket b and search there.", 
+            "htmlSnippet": "&#39;[edit]. b = h0(k); if b &lt; split-pointer then; b = h1(k); read bucket b and search there.", 
+            "link": "https://en.wikipedia.org/wiki/Linear_hashing", 
+            "cacheId": "qlLItl4bqcMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Dynamic perfect hashing - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Dynamic perfect <b>hashing</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Dynamic_perfect_hashing", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Dynamic_perfect_<b>hashing</b>", 
+            "snippet": "In computer science, dynamic perfect hashing is a programming technique for \nresolving collisions in a hash table data structure. While more memory-intensive\n\u00a0...", 
+            "htmlSnippet": "In computer science, dynamic perfect hashing is a programming technique for <br>\nresolving collisions in a <b>hash table</b> data structure. While more memory-intensive<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Dynamic_perfect_hashing", 
+            "cacheId": "NvIqPbbuyBAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Open addressing - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Open addressing - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Open_addressing", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Open_addressing", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "284", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS-Y_ZQOdGy8zz9AiAuuqP1ZTYUWmX5brk0GK__BKiJr5CWN-kpU7X-Q74", 
+                        "height": "177"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/HASHTB12.svg/362px-HASHTB12.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "Open addressing, or closed hashing, is a method of collision resolution in hash \ntables. With this method a hash collision is resolved by probing, or searching\u00a0...", 
+            "htmlSnippet": "Open addressing, or closed hashing, is a method of collision resolution in <b>hash</b> <br>\n<b>tables</b>. With this method a hash collision is resolved by probing, or searching&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Open_addressing", 
+            "cacheId": "WxzRuMhF6XgJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "SUHA (computer science) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "SUHA (computer science) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/SUHA_(computer_science)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/SUHA_(computer_science)", 
+            "snippet": "In computer science, SUHA (Simple Uniform Hashing Assumption) is a basic \nassumption that facilitates the mathematical analysis of hash tables.", 
+            "htmlSnippet": "In computer science, SUHA (Simple Uniform Hashing Assumption) is a basic <br>\nassumption that facilitates the mathematical analysis of <b>hash tables</b>.", 
+            "link": "https://en.wikipedia.org/wiki/SUHA_(computer_science)", 
+            "cacheId": "mLbETIXxlvgJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Coalesced hashing - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Coalesced <b>hashing</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Coalesced_hashing", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Coalesced_<b>hashing</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "130", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS4wlwwOcvgjNqI1NV4dQV85Fe7Oma5tnrRknxZoLI0dKtD2xL-1lZi8jD9", 
+                        "height": "292"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/4/4c/CoalescedHash.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "Coalesced hashing, also called coalesced chaining, is a strategy of collision \nresolution in a hash table that forms a hybrid of separate chaining and open\u00a0...", 
+            "htmlSnippet": "Coalesced hashing, also called coalesced chaining, is a strategy of collision <br>\nresolution in a <b>hash table</b> that forms a hybrid of separate chaining and open&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Coalesced_hashing", 
+            "cacheId": "ebcKB8gqoJIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Quadratic probing - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Quadratic probing - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Quadratic_probing", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Quadratic_probing", 
+            "snippet": "Quadratic probing is an open addressing scheme in computer programming for \nresolving collisions in hash tables\u2014when an incoming data's hash value\u00a0...", 
+            "htmlSnippet": "Quadratic probing is an open addressing scheme in computer programming for <br>\nresolving collisions in <b>hash tables</b>\u2014when an incoming data&#39;s hash value&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Quadratic_probing", 
+            "cacheId": "SEEx4__H2U4J"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Hash table", 
+                "safe": "off", 
+                "searchTerms": "Hash table", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "3600"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Hash table", 
+                "safe": "off", 
+                "searchTerms": "Hash table", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "3600"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.32", 
+        "formattedTotalResults": "3,600", 
+        "totalResults": "3600", 
+        "searchTime": 0.318889
+    }
+}

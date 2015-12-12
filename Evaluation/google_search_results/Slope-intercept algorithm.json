@@ -1,0 +1,278 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Line drawing algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Line drawing <b>algorithm</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Line_drawing_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Line_drawing_<b>algorithm</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSeIWn7bEUGyn3LJi2JRgZ8EBBFC39nNcRL8xaXbPdKMx_JoK7AMJ24Akc", 
+                        "height": "146"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Line_scan-conversion.svg/220px-Line_scan-conversion.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "A line drawing algorithm is a graphical algorithm for approximating a line \nsegment on ... The Cartesian slope-intercept equation for a straight line is Y= mx+\nb\u00a0...", 
+            "htmlSnippet": "A line drawing <b>algorithm</b> is a graphical <b>algorithm</b> for approximating a line <br>\nsegment on ... The Cartesian <b>slope</b>-<b>intercept</b> equation for a straight line is Y= mx+<br>\nb&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Line_drawing_algorithm", 
+            "cacheId": "PgWjNEE8z6AJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Simple linear regression - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Simple linear regression - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Simple_linear_regression", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Simple_linear_regression", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "240", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRg5zhABLo7SDImIH57OCOVAfnfIO43F0BMPFbP3WRg68sDzxxbXSVls1o", 
+                        "height": "158"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Okuns_law_quarterly_differences.svg/300px-Okuns_law_quarterly_differences.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "The slope of the fitted line is equal to the correlation between y and x corrected \nby the ratio of standard deviations of these variables. The intercept of the fitted\u00a0...", 
+            "htmlSnippet": "The <b>slope</b> of the fitted line is equal to the correlation between y and x corrected <br>\nby the ratio of standard deviations of these variables. The <b>intercept</b> of the fitted&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Simple_linear_regression", 
+            "cacheId": "Yd6ZHcj77J8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Bresenham's line algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Bresenham&#39;s line <b>algorithm</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Bresenham's_line_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Bresenham&#39;s_line_<b>algorithm</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "225", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcScpAnwN_2jhvosPgdfjFswlqwesQznqJYPD6TlMy7seDxbts0vsbxOYKo", 
+                        "height": "225"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Line_1.5x%2B1.svg/300px-Line_1.5x%2B1.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "Bresenham's line algorithm is an algorithm that determines the points of an n-\ndimensional raster that should be .... The slope-intercept form of a line is written \nas.", 
+            "htmlSnippet": "Bresenham&#39;s line <b>algorithm</b> is an <b>algorithm</b> that determines the points of an n-<br>\ndimensional raster that should be .... The <b>slope</b>-<b>intercept</b> form of a line is written <br>\nas.", 
+            "link": "https://en.wikipedia.org/wiki/Bresenham's_line_algorithm", 
+            "cacheId": "ezjixdrcmfgJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Hough transform - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Hough transform - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Hough_transform", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Hough_transform", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "249", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQj8bKTvCSlCx3zV-ClzTUydSSgMUoAELgVMnBKnrkUn9nlB99sQ38BD8E", 
+                        "height": "203"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/a/af/Hough_space_plot_example.png"
+                    }
+                ]
+            }, 
+            "snippet": "This patent uses a slope-intercept parametrization for straight lines, which ... The \nlinear Hough transform algorithm uses a two-dimensional array, called an\u00a0...", 
+            "htmlSnippet": "This patent uses a <b>slope</b>-<b>intercept</b> parametrization for straight lines, which ... The <br>\nlinear Hough transform <b>algorithm</b> uses a two-dimensional array, called an&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Hough_transform", 
+            "cacheId": "IzT855o7Tf4J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Theil\u2013Sen estimator - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Theil\u2013Sen estimator - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Theil\u2013Sen_estimator", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Theil\u2013Sen_estimator", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "219", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRxHTVke7gbd9nT8mJoMneLGuyb_by5_OIX5m1hmlfmNZ79S-zectcZ5uQ", 
+                        "height": "230"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Thiel-Sen_estimator.svg/300px-Thiel-Sen_estimator.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "It has been called the Theil\u2013Sen estimator, Sen's slope estimator, slope selection \n... 1 Definition; 2 Variations; 3 Statistical properties; 4 Algorithms; 5 Applications ... \none may determine a line from the sample points by setting the y-intercept b to\u00a0...", 
+            "htmlSnippet": "It has been called the Theil\u2013Sen estimator, Sen&#39;s <b>slope</b> estimator, <b>slope</b> selection <br>\n... 1 Definition; 2 Variations; 3 Statistical properties; 4 <b>Algorithms</b>; 5 Applications ... <br>\none may determine a line from the sample points by setting the y-<b>intercept</b> b to&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Theil%E2%80%93Sen_estimator", 
+            "cacheId": "bqtX2X-nXAcJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Linear equation - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Linear equation - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Slope-intercept_form", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Slope</b>-<b>intercept</b>_form", 
+            "snippet": "(Redirected from Slope-intercept form) ... In this particular equation, the constant \nm determines the slope or gradient of that line, and the constant .... Algorithms.", 
+            "htmlSnippet": "(Redirected from <b>Slope</b>-<b>intercept</b> form) ... In this particular equation, the constant <br>\nm determines the slope or gradient of that line, and the constant .... <b>Algorithms</b>.", 
+            "link": "https://en.wikipedia.org/wiki/Slope-intercept_form", 
+            "cacheId": "QI6rytqmsV0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Digital differential analyzer (graphics algorithm) - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Digital differential analyzer (graphics <b>algorithm</b>) - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../Digital_differential_analyzer_(graphics_ algorithm)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Digital_differential_analyzer_(graphics_ <b>algorithm</b>)", 
+            "snippet": "In its simplest implementation, the DDA algorithm interpolates values in interval \nby computing ... where m represents the slope of the line and c is the y intercept.", 
+            "htmlSnippet": "In its simplest implementation, the DDA <b>algorithm</b> interpolates values in interval <br>\nby computing ... where m represents the <b>slope</b> of the line and c is the y <b>intercept</b>.", 
+            "link": "https://en.wikipedia.org/wiki/Digital_differential_analyzer_(graphics_algorithm)", 
+            "cacheId": "jZ38MGaA_pIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Log\u2013log plot - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Log\u2013log plot - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Log\u2013log_plot", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Log\u2013log_plot", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQB2yvlf0SjQhOfxmluqrSDeWoo4BUlLcBSYb6if7oQjC3mtMwZErUQQLFc", 
+                        "height": "176"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LogLog_exponentials.svg/220px-LogLog_exponentials.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "appear as straight lines in a log\u2013log graph, with the power and constant term \ncorresponding to slope and intercept of the line, and thus these graphs are very\u00a0...", 
+            "htmlSnippet": "appear as straight lines in a log\u2013log graph, with the power and constant term <br>\ncorresponding to <b>slope</b> and <b>intercept</b> of the line, and thus these graphs are very&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Log%E2%80%93log_plot", 
+            "cacheId": "71CTwptec3gJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Semi-log plot - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Semi-log plot - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Semi-log_plot", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Semi-log_plot", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "160", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTT1fLDPKg9b4svtX3w5mFcFMAF8MWGuklSUz2-B7VJI7ZIQRBF3U3TbIo", 
+                        "height": "160"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/LogLinScale.svg/200px-LogLinScale.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "This can easily be seen as a line in slope-intercept form with \\gamma as the \nslope and \\log_a \\lambda as the vertical intercept. To facilitate use with \nlogarithmic\u00a0...", 
+            "htmlSnippet": "This can easily be seen as a line in <b>slope</b>-<b>intercept</b> form with \\gamma as the <br>\nslope and \\log_a \\lambda as the vertical intercept. To facilitate use with <br>\nlogarithmic&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Semi-log_plot", 
+            "cacheId": "UYXn2AfJNU4J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Linear function (calculus) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Linear function (calculus) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Linear_function_(calculus)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Linear_function_(calculus)", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "144", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOAn8LWDbdRzMswFRPV448mURRNX0qq-PzHblpkTwUlF_-Snj-nzDyF68", 
+                        "height": "151"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/b/be/Wiki_linear_function.png"
+                    }
+                ]
+            }, 
+            "snippet": "1 Properties; 2 Slope; 3 Relationship with linear equations; 4 Relationship with \nother classes of functions; 5 Notes; 6 See also; 7 References ... The equation y = \nax + b is referred to as the slope-intercept form of a linear equation. .... Algorithms\n.", 
+            "htmlSnippet": "1 Properties; 2 Slope; 3 Relationship with linear equations; 4 Relationship with <br>\nother classes of functions; 5 Notes; 6 See also; 7 References ... The equation y = <br>\nax + b is referred to as the <b>slope</b>-<b>intercept</b> form of a linear equation. .... <b>Algorithms</b><br>\n.", 
+            "link": "https://en.wikipedia.org/wiki/Linear_function_(calculus)", 
+            "cacheId": "P4nLM7i_ZAoJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Slope-intercept algorithm", 
+                "safe": "off", 
+                "searchTerms": "Slope-intercept algorithm", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "207"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Slope-intercept algorithm", 
+                "safe": "off", 
+                "searchTerms": "Slope-intercept algorithm", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "207"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.27", 
+        "formattedTotalResults": "207", 
+        "totalResults": "207", 
+        "searchTime": 0.267871
+    }
+}

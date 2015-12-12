@@ -1,0 +1,208 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Lanczos algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Lanczos</b> algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Lanczos_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Lanczos</b>_algorithm", 
+            "snippet": "Iteration[edit]. (Note: Following these steps alone will not give you the correct \neigenvalue and eigenvectors. More consideration must be\u00a0...", 
+            "htmlSnippet": "<b>Iteration</b>[edit]. (Note: Following these steps alone will not give you the correct <br>\neigenvalue and eigenvectors. More consideration must be&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Lanczos_algorithm", 
+            "cacheId": "Ernbg3S4Z0sJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Arnoldi iteration - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Arnoldi <b>iteration</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Arnoldi_iteration", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Arnoldi_<b>iteration</b>", 
+            "snippet": "Arnoldi finds the eigenvalues of general (possibly non-Hermitian) matrices; an \nanalogous method for Hermitian matrices is the Lanczos iteration. The Arnoldi\u00a0...", 
+            "htmlSnippet": "Arnoldi finds the eigenvalues of general (possibly non-Hermitian) matrices; an <br>\nanalogous method for Hermitian matrices is the <b>Lanczos iteration</b>. The Arnoldi&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Arnoldi_iteration", 
+            "cacheId": "jEnIYVxHyUoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Derivation of the conjugate gradient method - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Derivation of the conjugate gradient method - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../Derivation_of_the_conjugate_gradient_method", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Derivation_of_the_conjugate_gradient_method", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "124", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQGaV7z363rPEajH1Low9TZvzjrE-iAEHdjVKYnErBfauYGvTAbzkADSA", 
+                        "height": "84"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/math/d/5/8/d58adbf810047c58b3e4529178048a51.png"
+                    }
+                ]
+            }, 
+            "snippet": "In numerical linear algebra, the conjugate gradient method is an iterative method \nfor numerically solving the ... 2 Derivation from the Arnoldi/Lanczos iteration.", 
+            "htmlSnippet": "In numerical linear algebra, the conjugate gradient method is an iterative method <br>\nfor numerically solving the ... 2 Derivation from the Arnoldi/<b>Lanczos iteration</b>.", 
+            "link": "https://en.wikipedia.org/wiki/Derivation_of_the_conjugate_gradient_method", 
+            "cacheId": "Ma_t6iRVkToJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Krylov subspace - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Krylov subspace - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Krylov_subspace", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Krylov_subspace", 
+            "snippet": "Modern iterative methods for finding one (or a few) eigenvalues of large sparse ... \nsuch as Lanczos iteration for Hermitian matrices or Arnoldi iteration for more\u00a0...", 
+            "htmlSnippet": "Modern iterative methods for finding one (or a few) eigenvalues of large sparse ... <br>\nsuch as <b>Lanczos iteration</b> for Hermitian matrices or Arnoldi iteration for more&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Krylov_subspace", 
+            "cacheId": "6gpCurexE0sJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Block Lanczos algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Block <b>Lanczos</b> algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Block_Lanczos_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Block_<b>Lanczos</b>_algorithm", 
+            "snippet": "In computer science, the block Lanczos algorithm is an algorithm for finding the ... \nvector must be available for the combination step at the end of each iteration,\u00a0...", 
+            "htmlSnippet": "In computer science, the block <b>Lanczos</b> algorithm is an algorithm for finding the ... <br>\nvector must be available for the combination step at the end of each <b>iteration</b>,&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Block_Lanczos_algorithm", 
+            "cacheId": "70tpf-AbSmMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Conjugate gradient method - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Conjugate gradient method - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Conjugate_gradient_method", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Conjugate_gradient_method", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdWEbprvFAg0IOuJuzAEBZ_mVnPI1oV6632m_T8GU_ydloPNyPUZrhPn4", 
+                        "height": "261"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Conjugate_gradient_illustration.svg/220px-Conjugate_gradient_illustration.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "The conjugate gradient method is often implemented as an iterative algorithm, ... \nRecently, C. Lanczos developed a closely related routine based on his earlier\u00a0...", 
+            "htmlSnippet": "The conjugate gradient method is often implemented as an <b>iterative</b> algorithm, ... <br>\nRecently, C. <b>Lanczos</b> developed a closely related routine based on his earlier&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Conjugate_gradient_method", 
+            "cacheId": "kiX8RvFON9YJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Timeline of numerical analysis after 1945 - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Timeline of numerical analysis after 1945 - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../Timeline_of_numerical_analysis_after_1945", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Timeline_of_numerical_analysis_after_1945", 
+            "snippet": "Hestenes, Stiefel, and Lanczos, all from the Institute for Numerical Analysis at the \n... of Standards, initiate the development of Krylov subspace iteration methods.", 
+            "htmlSnippet": "Hestenes, Stiefel, and <b>Lanczos</b>, all from the Institute for Numerical Analysis at the <br>\n... of Standards, initiate the development of Krylov subspace <b>iteration</b> methods.", 
+            "link": "https://en.wikipedia.org/wiki/Timeline_of_numerical_analysis_after_1945", 
+            "cacheId": "U4uXV3P-LPkJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Generalized minimal residual method - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Generalized minimal residual method - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Generalized_minimal_residual_method", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Generalized_minimal_residual_method", 
+            "snippet": "The Arnoldi iteration is used to find this vector. The GMRES method was .... The \nArnoldi iteration reduces to the Lanczos iteration for symmetric matrices.", 
+            "htmlSnippet": "The Arnoldi iteration is used to find this vector. The GMRES method was .... The <br>\nArnoldi iteration reduces to the <b>Lanczos iteration</b> for symmetric matrices.", 
+            "link": "https://en.wikipedia.org/wiki/Generalized_minimal_residual_method", 
+            "cacheId": "qPEz4EwEHYoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "SLEPc - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "SLEPc - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/SLEPc", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/SLEPc", 
+            "snippet": "EPS provides iterative algorithms for linear eigenvalue problems. Krylov methods \nsuch as Krylov-Schur, Arnoldi and Lanczos. Davidson methods such as\u00a0...", 
+            "htmlSnippet": "EPS provides <b>iterative</b> algorithms for linear eigenvalue problems. Krylov methods <br>\nsuch as Krylov-Schur, Arnoldi and <b>Lanczos</b>. Davidson methods such as&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/SLEPc", 
+            "cacheId": "8uQB6fWbEQMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Power iteration - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Power <b>iteration</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Power_iteration", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Power_<b>iteration</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "114", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSQqqTszgez9ArjJd31zbRpr0sD-njGlkVQf8s-hinfObrSNTjRljYPDQ", 
+                        "height": "43"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/math/3/b/d/3bd1a9b0f598a965e67d61ad319debc2.png"
+                    }
+                ]
+            }, 
+            "snippet": "In mathematics, the power iteration is an eigenvalue algorithm: given a matrix A, \nthe algorithm will .... It can be computed by Arnoldi iteration or Lanczos iteration.", 
+            "htmlSnippet": "In mathematics, the power iteration is an eigenvalue algorithm: given a matrix A, <br>\nthe algorithm will .... It can be computed by Arnoldi iteration or <b>Lanczos iteration</b>.", 
+            "link": "https://en.wikipedia.org/wiki/Power_iteration", 
+            "cacheId": "yUC6aKTgKmUJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Lanczos iteration", 
+                "safe": "off", 
+                "searchTerms": "Lanczos iteration", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "96"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Lanczos iteration", 
+                "safe": "off", 
+                "searchTerms": "Lanczos iteration", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "96"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.24", 
+        "formattedTotalResults": "96", 
+        "totalResults": "96", 
+        "searchTime": 0.238522
+    }
+}

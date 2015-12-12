@@ -1,0 +1,187 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Trust region - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Trust</b> region - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Trust_region", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Trust</b>_region", 
+            "snippet": "Trust region methods are in some sense dual to line search methods: trust region \nmethods first choose a step size (the size of the trust region) and then a step\u00a0...", 
+            "htmlSnippet": "<b>Trust</b> region methods are in some sense dual to line <b>search</b> methods: <b>trust</b> region <br>\nmethods first choose a step size (the size of the <b>trust</b> region) and then a step&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Trust_region", 
+            "cacheId": "0Z05xOjtzfIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "TrustRank - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "TrustRank - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/TrustRank", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Trust</b>Rank", 
+            "snippet": "Jump to: navigation, search ... Google's PageRank and other search ranking \nalgorithms have been ... \"Web Spam Detection with Anti-Trust Rank\" (PDF).", 
+            "htmlSnippet": "Jump to: navigation, <b>search</b> ... Google&#39;s PageRank and other <b>search</b> ranking <br>\nalgorithms have been ... &quot;Web Spam Detection with Anti-<b>Trust</b> Rank&quot; (PDF).", 
+            "link": "https://en.wikipedia.org/wiki/TrustRank", 
+            "cacheId": "mwr4pf2tO_EJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "American Farmland Trust - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "American Farmland <b>Trust</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/American_Farmland_Trust", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/American_Farmland_<b>Trust</b>", 
+            "snippet": "Jump to: navigation, search. The American Farmland Trust (AFT) is an \norganization that was founded in 1980 to protect farmland and ranch land in the \nUnited\u00a0...", 
+            "htmlSnippet": "Jump to: navigation, <b>search</b>. The American Farmland <b>Trust</b> (AFT) is an <br>\norganization that was founded in 1980 to protect farmland and ranch land in the <br>\nUnited&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/American_Farmland_Trust", 
+            "cacheId": "A95MzBrad_oJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Search engine optimization metrics - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Search</b> engine optimization metrics - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Search_engine_optimization_metrics", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Search</b>_engine_optimization_metrics", 
+            "snippet": "[edit]. Trust Flow (TF) is a score based on quality, on a scale between 0-100. \nMajestic collated many trusted seed sites based\u00a0...", 
+            "htmlSnippet": "[edit]. <b>Trust</b> Flow (TF) is a score based on quality, on a scale between 0-100. <br>\nMajestic collated many trusted seed sites based&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Search_engine_optimization_metrics", 
+            "cacheId": "XRdEIf2TzMwJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Standard Oil - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Standard Oil - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Standard_Oil", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Standard_Oil", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "136", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTPOKgzoNYq_B9Gpx1SfaLYjjd96g41euQNSRfpA0LkernMx_bDO9RCZRSg", 
+                        "height": "204"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/John_D_Rockefeller_1872.png/170px-John_D_Rockefeller_1872.png"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "category": "Cleveland, Ohio Corporation (1870\u20131882) Business Trust (1882\u20131892) New Jersey Holding Company (1899\u20131911)[1]", 
+                        "fn": "Standard Oil Co. Inc.", 
+                        "label": "Cleveland, Ohio (1870\u20131885) New York City, New York (1885\u20131911)[3]"
+                    }
+                ]
+            }, 
+            "snippet": "Jump to: navigation, search ... Business Trust (1882\u20131892) ... With the dissolution \nof the Standard Oil trust into 33 smaller companies, Rockefeller became the\u00a0...", 
+            "htmlSnippet": "Jump to: navigation, <b>search</b> ... Business <b>Trust</b> (1882\u20131892) ... With the dissolution <br>\nof the Standard Oil <b>trust</b> into 33 smaller companies, Rockefeller became the&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Standard_Oil", 
+            "cacheId": "tdVTlOrM8BoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Trust - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Trust</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Trust", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Trust</b>", 
+            "snippet": "Trust. From Wikipedia, the free encyclopedia. Jump to: navigation, search ... \nCharitable trust, an irrevocable trust (in law) established for charitable purposes\u00a0...", 
+            "htmlSnippet": "<b>Trust</b>. From Wikipedia, the free encyclopedia. Jump to: navigation, <b>search</b> ... <br>\nCharitable <b>trust</b>, an irrevocable <b>trust</b> (in law) established for charitable purposes&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Trust", 
+            "cacheId": "xY7mmOsEW6QJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Blind trust - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Blind <b>trust</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Blind_trust", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Blind_<b>trust</b>", 
+            "snippet": "Jump to: navigation, search. A blind trust is a trust in which the fiduciaries, namely \nthe trustees or those who have been given power of attorney, have full\u00a0...", 
+            "htmlSnippet": "Jump to: navigation, <b>search</b>. A blind <b>trust</b> is a <b>trust</b> in which the fiduciaries, namely <br>\nthe trustees or those who have been given power of attorney, have full&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Blind_trust", 
+            "cacheId": "TgixkhDgsZAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Wikipedia:Ten things you may not know about Wikipedia - Wikipedia ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Wikipedia:Ten things you may not know about Wikipedia - Wikipedia <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../Wikipedia:Ten_things_you_may_not_know_ about_Wikipedia", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Wikipedia:Ten_things_you_may_not_know_ about_Wikipedia", 
+            "snippet": "Jump to: navigation, search ... 5 We care deeply about the quality of our work; 6 \nWe do not expect you to trust us; 7 We are not alone; 8 We are only collectors\u00a0...", 
+            "htmlSnippet": "Jump to: navigation, <b>search</b> ... 5 We care deeply about the quality of our work; 6 <br>\nWe do not expect you to <b>trust</b> us; 7 We are not alone; 8 We are only collectors&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Wikipedia:Ten_things_you_may_not_know_about_Wikipedia", 
+            "cacheId": "MPFa4-MwXu0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Line search - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Line <b>search</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Line_search", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Line_<b>search</b>", 
+            "snippet": "of an objective function f:\\mathbb R^n\\to\\mathbb R . The other approach is trust \nregion. The line search approach first finds a descent direction along which the\u00a0...", 
+            "htmlSnippet": "of an objective function f:\\mathbb R^n\\to\\mathbb R . The other approach is <b>trust</b> <br>\nregion. The line <b>search</b> approach first finds a descent direction along which the&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Line_search", 
+            "cacheId": "qWCBBy2PWE0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Register of Judgments, Orders and Fines - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Register of Judgments, Orders and Fines - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../Register_of_Judgments,_Orders_and_Fines", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Register_of_Judgments,_Orders_and_Fines", 
+            "snippet": "Jump to: navigation, search. The Register of Judgment ... The register is operated \nby Registry Trust Limited on behalf of the Ministry of Justice. Registry Trust was\u00a0...", 
+            "htmlSnippet": "Jump to: navigation, <b>search</b>. The Register of Judgment ... The register is operated <br>\nby Registry <b>Trust</b> Limited on behalf of the Ministry of Justice. Registry <b>Trust</b> was&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Register_of_Judgments,_Orders_and_Fines", 
+            "cacheId": "ced9mhcvaaYJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Trust search", 
+                "safe": "off", 
+                "searchTerms": "Trust search", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "5460000"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Trust search", 
+                "safe": "off", 
+                "searchTerms": "Trust search", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "5460000"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.30", 
+        "formattedTotalResults": "5,460,000", 
+        "totalResults": "5460000", 
+        "searchTime": 0.301472
+    }
+}

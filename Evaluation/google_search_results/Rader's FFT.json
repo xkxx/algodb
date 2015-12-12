@@ -1,0 +1,180 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Rader's FFT algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Rader&#39;s FFT</b> algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Rader's_FFT_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Rader&#39;s</b>_<b>FFT</b>_algorithm", 
+            "snippet": "Rader's algorithm (1968) is a fast Fourier transform (FFT) algorithm that computes \nthe discrete Fourier transform (DFT) of prime sizes by re-expressing the DFT\u00a0...", 
+            "htmlSnippet": "<b>Rader&#39;s</b> algorithm (1968) is a fast Fourier transform (<b>FFT</b>) algorithm that computes <br>\nthe discrete Fourier transform (DFT) of prime sizes by re-expressing the DFT&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Rader's_FFT_algorithm", 
+            "cacheId": "EY8naR0y7uQJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Prime-factor FFT algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Prime-factor <b>FFT</b> algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Prime-factor_FFT_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Prime-factor_<b>FFT</b>_algorithm", 
+            "snippet": "Prime-factor FFT algorithm ... PFA is also closely related to the nested Winograd \nFFT algorithm, where the ... Rader's FFT algorithm \u00b7 Bluestein's FFT algorithm.", 
+            "htmlSnippet": "Prime-factor FFT algorithm ... PFA is also closely related to the nested Winograd <br>\nFFT algorithm, where the ... <b>Rader&#39;s FFT</b> algorithm &middot; Bluestein&#39;s FFT algorithm.", 
+            "link": "https://en.wikipedia.org/wiki/Prime-factor_FFT_algorithm", 
+            "cacheId": "BgFzCiW4iJ0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Category:FFT algorithms - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Category:<b>FFT</b> algorithms - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Category:FFT_algorithms", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Category:<b>FFT</b>_algorithms", 
+            "snippet": "This category is for fast Fourier transform (FFT) algorithms, i.e. algorithms to \ncompute the discrete ... Pages in category \"FFT algorithms\" ... Rader's FFT \nalgorithm\u00a0...", 
+            "htmlSnippet": "This category is for fast Fourier transform (FFT) algorithms, i.e. algorithms to <br>\ncompute the discrete ... Pages in category &quot;FFT algorithms&quot; ... <b>Rader&#39;s FFT</b> <br>\nalgorithm&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Category:FFT_algorithms", 
+            "cacheId": "YqJujyMik-gJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Fast Fourier transform - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Fast Fourier transform - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Fast_Fourier_transform", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Fast_Fourier_transform", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "318", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSnIs5golPnUw9wxp2kPBmReVf9KttXn6Jd65w_RWvtnfXuWgZhlTsLZDc", 
+                        "height": "159"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Time_Signal_of_Five_Term_Cosine_Series.png/400px-Time_Signal_of_Five_Term_Cosine_Series.png"
+                    }
+                ]
+            }, 
+            "snippet": "A fast Fourier transform (FFT) algorithm computes the discrete Fourier transform \n.... Main articles: Prime-factor FFT algorithm, Bruun's FFT algorithm, Rader's FFT\u00a0...", 
+            "htmlSnippet": "A fast Fourier transform (FFT) algorithm computes the discrete Fourier transform <br>\n.... Main articles: Prime-factor FFT algorithm, Bruun&#39;s FFT algorithm, <b>Rader&#39;s FFT</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Fast_Fourier_transform", 
+            "cacheId": "aDSMugX9X0AJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Rader - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Rader</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Rader", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Rader</b>", 
+            "snippet": "Rader or R\u00e4der is a surname, and may refer to: ... Rader's FFT algorithm, fast \nFourier transform algorithm that computes the discrete Fourier transform of prime\n\u00a0...", 
+            "htmlSnippet": "Rader or R\u00e4der is a surname, and may refer to: ... <b>Rader&#39;s FFT</b> algorithm, fast <br>\nFourier transform algorithm that computes the discrete Fourier transform of prime<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Rader", 
+            "cacheId": "VI6xLd9yCK8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "User:Tejashs/Books/FFT algorithms - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "User:Tejashs/Books/<b>FFT</b> algorithms - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/User:Tejashs/Books/FFT_algorithms", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/User:Tejashs/Books/<b>FFT</b>_algorithms", 
+            "snippet": "User:Tejashs/Books/FFT algorithms ... discrete weighted transform \u00b7 Prime-factor \nFFT algorithm \u00b7 Rader's FFT algorithm \u00b7 Split-radix FFT algorithm \u00b7 Twiddle factor.", 
+            "htmlSnippet": "User:Tejashs/Books/FFT algorithms ... discrete weighted transform &middot; Prime-factor <br>\nFFT algorithm &middot; <b>Rader&#39;s FFT</b> algorithm &middot; Split-radix FFT algorithm &middot; Twiddle factor.", 
+            "link": "https://en.wikipedia.org/wiki/User:Tejashs/Books/FFT_algorithms", 
+            "cacheId": "N4Avhca61agJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Prime-factor FFT algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:Prime-factor <b>FFT</b> algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3APrime-factor_FFT_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3APrime-factor_<b>FFT</b>_algorithm", 
+            "snippet": "Talk:Prime-factor FFT algorithm. From Wikipedia ... I would wikipedia to mention \nwhich FFT algorithm is used in FFTW. Rader's FFT algorithm in the references.", 
+            "htmlSnippet": "Talk:Prime-factor FFT algorithm. From Wikipedia ... I would wikipedia to mention <br>\nwhich FFT algorithm is used in FFTW. <b>Rader&#39;s FFT</b> algorithm in the references.", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3APrime-factor_FFT_algorithm", 
+            "cacheId": "FGV-N95sY88J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "FFTW - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "FFTW - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/FFTW", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>FFT</b>W", 
+            "snippet": "... of the Fast Fourier transform (FFT) algorithm (upheld by regular benchmarks). \n... while for prime sizes it uses either Rader's or Bluestein's FFT algorithm.", 
+            "htmlSnippet": "... of the Fast Fourier transform (<b>FFT</b>) algorithm (upheld by regular benchmarks). <br>\n... while for prime sizes it uses either <b>Rader&#39;s</b> or Bluestein&#39;s <b>FFT</b> algorithm.", 
+            "link": "https://en.wikipedia.org/wiki/FFTW", 
+            "cacheId": "9IzqCxrf3BEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Discrete Fourier Transform/Notation - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:Discrete Fourier Transform/Notation - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3ADiscrete_Fourier.../Notation", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3ADiscrete_Fourier.../Notation", 
+            "snippet": "Bandlimited; Bilinear transform; Bluestein's FFT algorithm; Bruun's FFT algorithm. \nC ... Resampling; Rosegarden; Rader's FFT algorithm\\; RWTH FSA Toolkit. S.", 
+            "htmlSnippet": "Bandlimited; Bilinear transform; Bluestein&#39;s FFT algorithm; Bruun&#39;s FFT algorithm. <br>\nC ... Resampling; Rosegarden; <b>Rader&#39;s FFT</b> algorithm\\; RWTH FSA Toolkit. S.", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3ADiscrete_Fourier_Transform/Notation", 
+            "cacheId": "r5qh1n0PZW0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "User:Rog\u00e9rio Brito/Books/Fast Fourier Transform - Wikipedia, the ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "User:Rog\u00e9rio Brito/Books/Fast Fourier Transform - Wikipedia, the <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/User...Brito/.../Fast_Fourier_Transform", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/User...Brito/.../Fast_Fourier_Transform", 
+            "snippet": "A Small Handbook on the FFT ... Prime-factor FFT algorithm \u00b7 Bruun's FFT \nalgorithm \u00b7 Rader's FFT algorithm \u00b7 Bluestein's FFT algorithm \u00b7 Split-radix FFT \nalgorithm\u00a0...", 
+            "htmlSnippet": "A Small Handbook on the FFT ... Prime-factor FFT algorithm &middot; Bruun&#39;s FFT <br>\nalgorithm &middot; <b>Rader&#39;s FFT</b> algorithm &middot; Bluestein&#39;s FFT algorithm &middot; Split-radix FFT <br>\nalgorithm&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/User:Rog%C3%A9rio_Brito/Books/Fast_Fourier_Transform", 
+            "cacheId": "jjF39AHcE58J"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Rader's FFT", 
+                "safe": "off", 
+                "searchTerms": "Rader's FFT", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "59"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Rader's FFT", 
+                "safe": "off", 
+                "searchTerms": "Rader's FFT", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "59"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.20", 
+        "formattedTotalResults": "59", 
+        "totalResults": "59", 
+        "searchTime": 0.203226
+    }
+}

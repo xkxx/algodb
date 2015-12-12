@@ -1,0 +1,208 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Simulated annealing - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Simulated annealing</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Simulated_annealing", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Simulated</b>_<b>annealing</b>", 
+            "snippet": "Simulated annealing (SA) is a probabilistic technique for approximating the \nglobal optimum of a given function. Specifically, it is a metaheuristic for \napproximate\u00a0...", 
+            "htmlSnippet": "<b>Simulated annealing</b> (<b>SA</b>) is a probabilistic technique for approximating the <br>\nglobal optimum of a given function. Specifically, it is a metaheuristic for <br>\napproximate&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Simulated_annealing", 
+            "cacheId": "WeeVQjQyM5QJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Adaptive simulated annealing - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Adaptive <b>simulated annealing</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Adaptive_simulated_annealing", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Adaptive_<b>simulated</b>_<b>annealing</b>", 
+            "snippet": "Adaptive simulated annealing (ASA) is a variant of simulated annealing (SA) \nalgorithm in which the algorithm parameters that control temperature schedule \nand\u00a0...", 
+            "htmlSnippet": "Adaptive <b>simulated annealing</b> (ASA) is a variant of <b>simulated annealing</b> (SA) <br>\nalgorithm in which the algorithm parameters that control temperature schedule <br>\nand&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Adaptive_simulated_annealing", 
+            "cacheId": "sXZlVuhsk30J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Simulated annealing - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Simulated annealing</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3ASimulated_annealing", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>Simulated</b>_<b>annealing</b>", 
+            "snippet": "Simulated annealing is a generic probabilistic heuristic approach to global \noptimization problems. It locates a good approximation to the global optimum in a\n\u00a0...", 
+            "htmlSnippet": "<b>Simulated annealing</b> is a generic probabilistic heuristic approach to global <br>\noptimization problems. It locates a good approximation to the global optimum in a<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3ASimulated_annealing", 
+            "cacheId": "ESNr-rU8_FMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Quantum annealing - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Quantum <b>annealing</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Quantum_annealing", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Quantum_<b>annealing</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "240", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSOtvwhB5LYNDjfIRSfNmv_0WpjpKPxTCbOqKBwgowrcRqeU9cJ31nuGgGB", 
+                        "height": "186"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Quant-annl.jpg/300px-Quant-annl.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "[edit]. Quantum annealing can be compared to simulated annealing, whose \"\ntemperature\" parameter plays a\u00a0...", 
+            "htmlSnippet": "[edit]. Quantum annealing can be compared to <b>simulated annealing</b>, whose &quot;<br>\ntemperature&quot; parameter plays a&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Quantum_annealing", 
+            "cacheId": "0Y6E6vkuK8AJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Local search (constraint satisfaction) - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Local search (constraint satisfaction) - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Local_search_(constraint_satisfaction)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Local_search_(constraint_satisfaction)", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQQ8xofIvxs5lf0rdJTcoV5FoE2XBz3IUB6Aff9FLoFOhJWgrQ9Nar6Vw", 
+                        "height": "118"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Local-search-plateau.svg/220px-Local-search-plateau.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "2.1 WalkSAT; 2.2 Simulated annealing ... The technique of simulated annealing \nis based on changing the probability of doing a random move over one that\u00a0...", 
+            "htmlSnippet": "2.1 WalkSAT; 2.2 <b>Simulated annealing</b> ... The technique of <b>simulated annealing</b> <br>\nis based on changing the probability of doing a random move over one that&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Local_search_(constraint_satisfaction)", 
+            "cacheId": "2wljL0Gz95MJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Stochastic optimization - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Stochastic optimization - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Stochastic_optimization", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Stochastic_optimization", 
+            "snippet": "simulated annealing by S. Kirkpatrick, C. D. Gelatt and M. P. Vecchi (1983); \nquantum annealing \u00b7 Probability Collectives by D.H. Wolpert, S.R. Bieniawski and\n\u00a0...", 
+            "htmlSnippet": "<b>simulated annealing</b> by S. Kirkpatrick, C. D. Gelatt and M. P. Vecchi (1983); <br>\nquantum annealing &middot; Probability Collectives by D.H. Wolpert, S.R. Bieniawski and<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Stochastic_optimization", 
+            "cacheId": "X04I8NAhFR4J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Parallel tempering - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Parallel tempering - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Parallel_tempering", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Parallel_tempering", 
+            "snippet": "Typically a Monte Carlo simulation using a Metropolis-Hastings update ... The \nparallel tempering method can be used as a super simulated annealing that does\n\u00a0...", 
+            "htmlSnippet": "Typically a Monte Carlo simulation using a Metropolis-Hastings update ... The <br>\nparallel tempering method can be used as a super <b>simulated annealing</b> that does<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Parallel_tempering", 
+            "cacheId": "O-jIz15YFQkJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Global optimization - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Global optimization - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Global_optimization", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Global_optimization", 
+            "snippet": "4.1 Simulated annealing; 4.2 Direct Monte-Carlo sampling; 4.3 Stochastic ... \nconsists of an initial optimization of the energy of the system to be simulated.", 
+            "htmlSnippet": "4.1 <b>Simulated annealing</b>; 4.2 Direct Monte-Carlo sampling; 4.3 Stochastic ... <br>\nconsists of an initial optimization of the energy of the system to be simulated.", 
+            "link": "https://en.wikipedia.org/wiki/Global_optimization", 
+            "cacheId": "EUCnc8OEyjMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Graduated optimization - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Graduated optimization - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Graduated_optimization", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Graduated_optimization", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "160", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv4kqUGdHaBAhFJI2oaQrOjm8VaV_uJeb2F96VfEZblnsVMFG2JirxdeII", 
+                        "height": "148"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Graduated_optimization.svg/200px-Graduated_optimization.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "Simulated annealing is closely related to graduated optimization. Instead of \nsmoothing the function over which it is optimizing, simulated annealing randomly\n\u00a0...", 
+            "htmlSnippet": "<b>Simulated annealing</b> is closely related to graduated optimization. Instead of <br>\nsmoothing the function over which it is optimizing, <b>simulated annealing</b> randomly<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Graduated_optimization", 
+            "cacheId": "exmyX4XMWzcJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Hill climbing - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Hill climbing - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Hill_climbing", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Hill_climbing", 
+            "snippet": "Although more advanced algorithms such as simulated annealing or tabu search \nmay give better results, in some situations hill climbing works just as well.", 
+            "htmlSnippet": "Although more advanced algorithms such as <b>simulated annealing</b> or tabu search <br>\nmay give better results, in some situations hill climbing works just as well.", 
+            "link": "https://en.wikipedia.org/wiki/Hill_climbing", 
+            "cacheId": "MXn2d6dSV-EJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Simulated annealing", 
+                "safe": "off", 
+                "searchTerms": "Simulated annealing", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "552"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Simulated annealing", 
+                "safe": "off", 
+                "searchTerms": "Simulated annealing", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "552"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.28", 
+        "formattedTotalResults": "552", 
+        "totalResults": "552", 
+        "searchTime": 0.283843
+    }
+}

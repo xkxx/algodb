@@ -1,0 +1,222 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Digital differential analyzer (graphics algorithm) - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Digital differential analyzer (graphics <b>algorithm</b>) - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../Digital_differential_analyzer_(graphics_ algorithm)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Digital_differential_analyzer_(graphics_ <b>algorithm</b>)", 
+            "snippet": "In its simplest implementation, the DDA algorithm interpolates values in interval \nby computing ... where m represents the slope of the line and c is the y intercept.", 
+            "htmlSnippet": "In its simplest implementation, the <b>DDA algorithm</b> interpolates values in interval <br>\nby computing ... where m represents the slope of the <b>line</b> and c is the y intercept.", 
+            "link": "https://en.wikipedia.org/wiki/Digital_differential_analyzer_(graphics_algorithm)", 
+            "cacheId": "jZ38MGaA_pIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Bresenham's line algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Bresenham&#39;s <b>line algorithm</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Bresenham's_line_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Bresenham&#39;s_<b>line</b>_<b>algorithm</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "225", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcScpAnwN_2jhvosPgdfjFswlqwesQznqJYPD6TlMy7seDxbts0vsbxOYKo", 
+                        "height": "225"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Line_1.5x%2B1.svg/300px-Line_1.5x%2B1.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "Bresenham's line algorithm is an algorithm that determines the points of an n-\ndimensional raster that should be selected in order to form a close approximation\n\u00a0...", 
+            "htmlSnippet": "Bresenham&#39;s <b>line algorithm</b> is an <b>algorithm</b> that determines the points of an n-<br>\ndimensional raster that should be selected in order to form a close approximation<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Bresenham's_line_algorithm", 
+            "cacheId": "ezjixdrcmfgJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Digital differential analyzer - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Digital differential analyzer - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Digital_differential_analyzer", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Digital_differential_analyzer", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTXo_hoSM0yMQld-e2q0hvL0V4V_hpSPnLGKCe3KYTNiYk2xZXNggkzyiFN", 
+                        "height": "157"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/DDA_Integrator_blockdiagram.png/220px-DDA_Integrator_blockdiagram.png"
+                    }
+                ]
+            }, 
+            "snippet": "For the graphics algorithm, see Digital Differential Analyzer (graphics algorithm). \nA digital differential analyzer (DDA), also sometimes called a digital integrating\u00a0...", 
+            "htmlSnippet": "For the graphics <b>algorithm</b>, see Digital Differential Analyzer (graphics <b>algorithm</b>). <br>\nA digital differential analyzer (<b>DDA</b>), also sometimes called a digital integrating&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Digital_differential_analyzer", 
+            "cacheId": "zB4qTKRkr6wJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Line drawing algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Line</b> drawing <b>algorithm</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Line_drawing_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Line</b>_drawing_<b>algorithm</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSeIWn7bEUGyn3LJi2JRgZ8EBBFC39nNcRL8xaXbPdKMx_JoK7AMJ24Akc", 
+                        "height": "146"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Line_scan-conversion.svg/220px-Line_scan-conversion.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "A line drawing algorithm is a graphical algorithm for approximating a line \nsegment on discrete graphical media. On discrete media, such as pixel-based \ndisplays\u00a0...", 
+            "htmlSnippet": "A <b>line</b> drawing <b>algorithm</b> is a graphical <b>algorithm</b> for approximating a <b>line</b> <br>\nsegment on discrete graphical media. On discrete media, such as pixel-based <br>\ndisplays&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Line_drawing_algorithm", 
+            "cacheId": "PgWjNEE8z6AJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Discontinuous Deformation Analysis - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Discontinuous Deformation Analysis - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Discontinuous_Deformation_Analysis", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Discontinuous_Deformation_Analysis", 
+            "snippet": "Discontinuous Deformation Analysis (DDA) is a type of discrete element method \n.... Recent progress in DDA algorithm is reported by Kim et al. and Jing et al. \nwhich ... a rock bolt was modeled as a line spring connecting two adjacent blocks\n.", 
+            "htmlSnippet": "Discontinuous Deformation Analysis (<b>DDA</b>) is a type of discrete element method <br>\n.... Recent progress in <b>DDA algorithm</b> is reported by Kim et al. and Jing et al. <br>\nwhich ... a rock bolt was modeled as a <b>line</b> spring connecting two adjacent blocks<br>\n.", 
+            "link": "https://en.wikipedia.org/wiki/Discontinuous_Deformation_Analysis", 
+            "cacheId": "mQt7-Z-IQiMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Xiaolin Wu's line algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:Xiaolin Wu&#39;s <b>line algorithm</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3AXiaolin_Wu's_line_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3AXiaolin_Wu&#39;s_<b>line</b>_<b>algorithm</b>", 
+            "snippet": "10 Using Wu's line algorithm in SDL; 11 Pseudo-code does not match Wu's Fast \n... If they haven't studied Bresenham's algorithm the way to fix it may not be so\u00a0...", 
+            "htmlSnippet": "10 Using Wu&#39;s <b>line algorithm</b> in SDL; 11 Pseudo-code does not match Wu&#39;s Fast <br>\n... If they haven&#39;t studied Bresenham&#39;s <b>algorithm</b> the way to fix it may not be so&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3AXiaolin_Wu's_line_algorithm", 
+            "cacheId": "Vcl-mALnuzkJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "User:Mathbot/List of mathematical redlinks (D) - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "User:Mathbot/List of mathematical redlinks (D) - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/.../List_of_mathematical_redlinks_(D)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/.../List_of_mathematical_redlinks_(D)", 
+            "snippet": "... Crevone -- Davidson Prize -- Davis-Figiel-Johnson-Pelczynski factorization \nlemma -- Davis Payne -- Dawson-Watanabe -- DDA line algorithm -- De Bono -- \nDe\u00a0...", 
+            "htmlSnippet": "... Crevone -- Davidson Prize -- Davis-Figiel-Johnson-Pelczynski factorization <br>\nlemma -- Davis Payne -- Dawson-Watanabe -- <b>DDA line algorithm</b> -- De Bono -- <br>\nDe&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/User:Mathbot/List_of_mathematical_redlinks_(D)", 
+            "cacheId": "ZKcCjQex0BkJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Bresenham's line algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:Bresenham&#39;s <b>line algorithm</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki?title=Talk:Bresenham's_line_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki?title=Talk:Bresenham&#39;s_<b>line</b>_<b>algorithm</b>", 
+            "snippet": "Bresenham's line algorithm is within the scope of WikiProject Robotics, which ..... \nFor example the \"Different Approach\" is the midpoint DDA algorithm and is due\u00a0...", 
+            "htmlSnippet": "Bresenham&#39;s <b>line algorithm</b> is within the scope of WikiProject Robotics, which ..... <br>\nFor example the &quot;Different Approach&quot; is the midpoint <b>DDA algorithm</b> and is due&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki?title=Talk:Bresenham's_line_algorithm", 
+            "cacheId": "hvvj7IumLskJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "List of algorithms - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "List of <b>algorithms</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Graph_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Graph_<b>algorithm</b>", 
+            "snippet": "The following is a list of algorithms along with one-line descriptions for each. ..... a \nstraight line between 2 specified points (uses decision variables); DDA line\u00a0...", 
+            "htmlSnippet": "The following is a list of <b>algorithms</b> along with one-<b>line</b> descriptions for each. ..... a <br>\nstraight <b>line</b> between 2 specified points (uses decision variables); <b>DDA line</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Graph_algorithm", 
+            "cacheId": "5_17Y3LZhAoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Xiaolin Wu's line algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Xiaolin Wu&#39;s <b>line algorithm</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Xiaolin_Wu's_line_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Xiaolin_Wu&#39;s_<b>line</b>_<b>algorithm</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRiyexCY7kZpBITUdehtNC6Df1ttOSFhGvyuAtkHJVmgXdKPzbIH_jLugA", 
+                        "height": "88"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/XiaolinWuLine.png/220px-XiaolinWuLine.png"
+                    }
+                ]
+            }, 
+            "snippet": "Xiaolin Wu's line algorithm is an algorithm for line antialiasing, which was \npresented in the article An Efficient Antialiasing Technique in the July 1991 issue \nof\u00a0...", 
+            "htmlSnippet": "Xiaolin Wu&#39;s <b>line algorithm</b> is an <b>algorithm</b> for <b>line</b> antialiasing, which was <br>\npresented in the article An Efficient Antialiasing Technique in the July 1991 issue <br>\nof&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Xiaolin_Wu's_line_algorithm", 
+            "cacheId": "vxDazAXld3EJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - DDA line algorithm", 
+                "safe": "off", 
+                "searchTerms": "DDA line algorithm", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "456"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - DDA line algorithm", 
+                "safe": "off", 
+                "searchTerms": "DDA line algorithm", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "456"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.27", 
+        "formattedTotalResults": "456", 
+        "totalResults": "456", 
+        "searchTime": 0.267821
+    }
+}

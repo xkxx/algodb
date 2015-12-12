@@ -1,0 +1,243 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Tarjan's off-line lowest common ancestors algorithm - Wikipedia, the ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Tarjan&#39;s off-line lowest common ancestors algorithm</b> - Wikipedia, the <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../Tarjan's_off-line_lowest_common_ancestors_ algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../<b>Tarjan&#39;s</b>_<b>off</b>-<b>line</b>_<b>lowest</b>_<b>common</b>_<b>ancestors</b>_ <b>algorithm</b>", 
+            "snippet": "In computer science, Tarjan's off-line lowest common ancestors algorithm is an \nalgorithm for computing lowest common ancestors for pairs of nodes in a tree,\u00a0...", 
+            "htmlSnippet": "In computer science, <b>Tarjan&#39;s off-line lowest common ancestors algorithm</b> is an <br>\nalgorithm for computing lowest common ancestors for pairs of nodes in a tree,&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Tarjan's_off-line_lowest_common_ancestors_algorithm", 
+            "cacheId": "dP6WxOlx4BUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Lowest common ancestor - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Lowest common ancestor</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Lowest_common_ancestor", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Lowest</b>_<b>common</b>_<b>ancestor</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "104", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwOYwFhn7G1KHMYbZwa6cmORuqpn3Tn-QDzSfnnRBkqvpok61U9i4gHA4", 
+                        "height": "276"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Lowest_common_ancestor.svg/130px-Lowest_common_ancestor.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "Tarjan's off-line lowest common ancestors algorithm, for example, preprocesses \na tree in linear time to provide constant-time LCA queries. In general DAGs\u00a0...", 
+            "htmlSnippet": "<b>Tarjan&#39;s off-line lowest common ancestors algorithm</b>, for example, preprocesses <br>\na tree in linear time to provide constant-time LCA queries. In general DAGs&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Lowest_common_ancestor", 
+            "cacheId": "_D1P8_WaIU8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Tarjan's off-line lowest common ancestors algorithm - Wikipedia ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Tarjan&#39;s off-line lowest common ancestors algorithm</b> - Wikipedia <b>...</b>", 
+            "formattedUrl": "en.wikipedia.org/.../Talk%3ATarjan's_off-line_least_common_ancestors_ algorithm", 
+            "htmlFormattedUrl": "en.wikipedia.org/.../Talk%3A<b>Tarjan&#39;s</b>_<b>off</b>-<b>line</b>_<b>least</b>_<b>common</b>_<b>ancestors</b>_ <b>algorithm</b>", 
+            "snippet": "It would be great if someone added a paragraph about the analysis, or at least \nabout the complexity... 85.218.28.6 (talk) 21:04, 11 October 2009 (UTC).", 
+            "htmlSnippet": "It would be great if someone added a paragraph about the analysis, or at <b>least</b> <br>\nabout the complexity... 85.218.28.6 (talk) 21:04, 11 October 2009 (UTC).", 
+            "link": "http://en.wikipedia.org/wiki/Talk%3ATarjan's_off-line_least_common_ancestors_algorithm", 
+            "cacheId": "kbgQxVOwICAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Robert Tarjan - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Robert <b>Tarjan</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Robert_Tarjan", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Robert_<b>Tarjan</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTE84G7Dzwg05Pn3SaBJPFioGNfjaSwJ9c-ro-NUou6MOWiTDtAiQtYDOU", 
+                        "height": "263"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Bob_Tarjan.jpg/220px-Bob_Tarjan.jpg"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "bday": "1948-04-30", 
+                        "category": "Computer Science", 
+                        "fn": "Robert Endre Tarjan"
+                    }
+                ]
+            }, 
+            "snippet": "He is the discoverer of several graph algorithms, including Tarjan's off-line least \ncommon ancestors algorithm, and co-inventor of both splay trees and Fibonacci\u00a0...", 
+            "htmlSnippet": "He is the discoverer of several graph algorithms, including <b>Tarjan&#39;s off-line least</b> <br>\n<b>common ancestors algorithm</b>, and co-inventor of both splay trees and Fibonacci&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Robert_Tarjan", 
+            "cacheId": "6x21MXVuJVwJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "List of algorithms - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "List of algorithms - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/List_of_algorithms", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/List_of_<b>algorithm</b>s", 
+            "snippet": "The following is a list of algorithms along with one-line descriptions for each. ... \nTarjan's off-line least common ancestors algorithm: compute lowest common\u00a0...", 
+            "htmlSnippet": "The following is a list of algorithms along with one-line descriptions for each. ... <br>\n<b>Tarjan&#39;s off-line least common ancestors algorithm</b>: compute lowest common&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/List_of_algorithms", 
+            "cacheId": "iXsrHv5PMNcJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "User:Netcse/Books/Algorithms - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "User:Netcse/Books/Algorithms - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/User:Netcse/Books/Algorithms", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/User:Netcse/Books/<b>Algorithm</b>s", 
+            "snippet": "List of Algorithm - 1[edit] ... Hungarian algorithm \u00b7 Pr\u00fcfer sequence \u00b7 Tarjan's off-\nline lowest common ancestors algorithm \u00b7 Lowest common ancestor \u00b7 Topological\n\u00a0...", 
+            "htmlSnippet": "List of Algorithm - 1[edit] ... Hungarian algorithm &middot; Pr\u00fcfer sequence &middot; <b>Tarjan&#39;s off-</b><br>\n<b>line lowest common ancestors algorithm</b> &middot; Lowest common ancestor &middot; Topological<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/User:Netcse/Books/Algorithms", 
+            "cacheId": "RnMwt4umlpoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Wikipedia:WikiProject Mathematics/List of mathematics articles (T ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Wikipedia:WikiProject Mathematics/List of mathematics articles (T <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/.../List_of_mathematics_articles_(T)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/.../List_of_mathematics_articles_(T)", 
+            "snippet": "Tape diagram -- Tapering (mathematics) -- Targeted projection pursuit -- Tarjan's \noff-line lowest common ancestors algorithm -- Tarjan's strongly connected\u00a0...", 
+            "htmlSnippet": "Tape diagram -- Tapering (mathematics) -- Targeted projection pursuit -- <b>Tarjan&#39;s</b> <br>\n<b>off-line lowest common ancestors algorithm</b> -- Tarjan&#39;s strongly connected&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Mathematics/List_of_mathematics_articles_(T)", 
+            "cacheId": "GERAYPvqNLwJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "User:QuickHare/Books/Network and Graph Theory - Wikipedia, the ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "User:QuickHare/Books/Network and Graph Theory - Wikipedia, the <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/User.../Network_and_Graph_Theory", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/User.../Network_and_Graph_Theory", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "100", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSEQsHsPTHmDHChYL3z_imtgm1b5jsx45tEx5q2BZ0vekbdrKPKxpP-", 
+                        "height": "83"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Weighted_K4.svg/125px-Weighted_K4.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "... Suurballe's algorithm \u00b7 Tarjan's off-line least common ancestors algorithm \u00b7 \nTarjan's strongly connected components algorithm \u00b7 Topological sorting \u00b7 \nTravelling\u00a0...", 
+            "htmlSnippet": "... Suurballe&#39;s algorithm &middot; <b>Tarjan&#39;s off-line least common ancestors algorithm</b> &middot; <br>\nTarjan&#39;s strongly connected components algorithm &middot; Topological sorting &middot; <br>\nTravelling&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/User:QuickHare/Books/Network_and_Graph_Theory", 
+            "cacheId": "_ltxcaTeIsAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Range minimum query - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Range minimum query - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Range_minimum_query", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Range_minimum_query", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "188", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSr5pDH2MnRRduFs5rzNZH57ALPCoZ5ABC72XMYH43u68sv3_H0X_xwVMI", 
+                        "height": "160"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b5/LowesCommon.png/235px-LowesCommon.png"
+                    }
+                ]
+            }, 
+            "snippet": "Range minimum query reduced to the lowest common ancestor problem. ... of \nqueries, and the queries to be answered on-line (i.e., the whole set of queries are \nnot known in advance to the algorithm). .... Gabow, Bentley, and Tarjan (1984) \nshowed that the LCA Problem can be reduced in linear time to the RMQ problem.", 
+            "htmlSnippet": "Range minimum query reduced to the <b>lowest common ancestor</b> problem. ... of <br>\nqueries, and the queries to be answered on-<b>line</b> (i.e., the whole set of queries are <br>\nnot known in advance to the <b>algorithm</b>). .... Gabow, Bentley, and <b>Tarjan</b> (1984) <br>\nshowed that the LCA Problem can be reduced in linear time to the RMQ problem.", 
+            "link": "https://en.wikipedia.org/wiki/Range_minimum_query", 
+            "cacheId": "mPl_481d9I4J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Widest path problem - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Widest path problem - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Widest_path_problem", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Widest_path_problem", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "192", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSf5FMAW9aPYjQSaFMCkZHDU7v90fY2X4GMnCYtO6rqJ18J4SAK4vQ_928", 
+                        "height": "244"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CPT-Graphs-undirected-weighted.svg/240px-CPT-Graphs-undirected-weighted.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "Any algorithm for the widest path problem can be transformed into an algorithm ... \nrather than allowing it to trade off greater visibility in one part of the image for \nlesser ... the weight of the Cartesian tree node that is their lowest common \nancestor. ..... Jump up to: Gabow, Harold N.; Tarjan, Robert E. (1988), \"Algorithms \nfor two\u00a0...", 
+            "htmlSnippet": "Any <b>algorithm</b> for the widest path problem can be transformed into an <b>algorithm</b> ... <br>\nrather than allowing it to trade <b>off</b> greater visibility in one part of the image for <br>\nlesser ... the weight of the Cartesian tree node that is their <b>lowest common</b> <br>\n<b>ancestor</b>. ..... Jump up to: Gabow, Harold N.; <b>Tarjan</b>, Robert E. (1988), &quot;Algorithms <br>\nfor two&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Widest_path_problem", 
+            "cacheId": "gnAUO5rJSYEJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Tarjan's off-line least common ancestors algorithm", 
+                "safe": "off", 
+                "searchTerms": "Tarjan's off-line least common ancestors algorithm", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "20"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Tarjan's off-line least common ancestors algorithm", 
+                "safe": "off", 
+                "searchTerms": "Tarjan's off-line least common ancestors algorithm", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "20"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.20", 
+        "formattedTotalResults": "20", 
+        "totalResults": "20", 
+        "searchTime": 0.204079
+    }
+}

@@ -1,0 +1,222 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Extended Euclidean algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Extended Euclidean algorithm</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Extended_Euclidean_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Extended</b>_<b>Euclidean</b>_<b>algorithm</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "267", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfX5SMh1A3dPf18FMnntW90htVqdFNLHJpKMJvKN986ShwqO655-W0tA", 
+                        "height": "84"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/math/e/6/0/e60a24e9bb7d2c1f557c902a4b79b98d.png"
+                    }
+                ]
+            }, 
+            "snippet": "In arithmetic and computer programming, the extended Euclidean algorithm is an \nextension to the Euclidean algorithm, which computes, besides the greatest\u00a0...", 
+            "htmlSnippet": "In arithmetic and computer programming, the <b>extended Euclidean algorithm</b> is an <br>\nextension to the Euclidean algorithm, which computes, besides the greatest&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Extended_Euclidean_algorithm", 
+            "cacheId": "vYK32f7-e7cJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Euclidean algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Euclidean algorithm</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Euclidean_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Euclidean</b>_<b>algorithm</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "190", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTPdPkIvtfEH4tMKI0RbyKx0DroUx3qVd4o8wVNtihkVu-XAG2aZXUIpaE", 
+                        "height": "265"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Euclid's_algorithm_Book_VII_Proposition_2_3.png/300px-Euclid's_algorithm_Book_VII_Proposition_2_3.png"
+                    }
+                ]
+            }, 
+            "snippet": "[edit]. Main article: Extended Euclidean algorithm. The integers s and t of B\u00e9zout's \nidentity can be computed\u00a0...", 
+            "htmlSnippet": "[edit]. Main article: <b>Extended Euclidean algorithm</b>. The integers s and t of B\u00e9zout&#39;s <br>\nidentity can be computed&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Euclidean_algorithm", 
+            "cacheId": "Y__peSq19QMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Modular multiplicative inverse - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Modular multiplicative inverse - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Modular_multiplicative_inverse", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Modular_multiplicative_inverse", 
+            "snippet": "2.1 Extended Euclidean algorithm; 2.2 Using Euler's theorem ... This is the exact \nform of equation that the extended Euclidean algorithm solves\u2014the only\u00a0...", 
+            "htmlSnippet": "2.1 <b>Extended Euclidean algorithm</b>; 2.2 Using Euler&#39;s theorem ... This is the exact <br>\nform of equation that the <b>extended Euclidean algorithm</b> solves\u2014the only&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Modular_multiplicative_inverse", 
+            "cacheId": "L_V9trRY5cQJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Extended Euclidean algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Extended Euclidean algorithm</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/.../Talk%3AExtended_Euclidean_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Talk%3A<b>Extended</b>_<b>Euclidean</b>_<b>algorithm</b>", 
+            "snippet": "To-do list for Extended Euclidean algorithm: ... D.Lazard (talk) 23:30, 3 November \n2013 (UTC); Add section \"Polynomial Extended Euclidean algorithm\".", 
+            "htmlSnippet": "To-do list for <b>Extended Euclidean algorithm</b>: ... D.Lazard (talk) 23:30, 3 November <br>\n2013 (UTC); Add section &quot;Polynomial <b>Extended Euclidean algorithm</b>&quot;.", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3AExtended_Euclidean_algorithm", 
+            "cacheId": "Qct0l3UJDCsJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Polynomial greatest common divisor - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Polynomial greatest common divisor - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Polynomial_greatest_common_divisor", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Polynomial_greatest_common_divisor", 
+            "snippet": "4.1 Euclidean division; 4.2 Euclid's algorithm; 4.3 B\u00e9zout's identity and extended \nGCD algorithm. 4.3.1 Arithmetic of algebraic extensions. 4.4 Subresultants.", 
+            "htmlSnippet": "4.1 Euclidean division; 4.2 Euclid&#39;s algorithm; 4.3 B\u00e9zout&#39;s identity and <b>extended</b> <br>\n<b>GCD</b> algorithm. 4.3.1 Arithmetic of algebraic extensions. 4.4 Subresultants.", 
+            "link": "https://en.wikipedia.org/wiki/Polynomial_greatest_common_divisor", 
+            "cacheId": "0Uyk4KCBniYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Extended Euclidean algorithm/to do - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Extended Euclidean algorithm</b>/to do - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../Talk%3AExtended_Euclidean_algorithm/to_do", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Talk%3A<b>Extended</b>_<b>Euclidean</b>_<b>algorithm</b>/to_do", 
+            "snippet": "Talk:Extended Euclidean algorithm/to do. From Wikipedia ... Rename the section \n\"Formal description of the algorithm\" to \"Pseudocode\" and clean it up. D.Lazard\u00a0...", 
+            "htmlSnippet": "Talk:<b>Extended Euclidean algorithm</b>/to do. From Wikipedia ... Rename the section <br>\n&quot;Formal description of the algorithm&quot; to &quot;Pseudocode&quot; and clean it up. D.Lazard&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3AExtended_Euclidean_algorithm/to_do", 
+            "cacheId": "_6eouGRiDQsJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "B\u00e9zout's identity - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "B\u00e9zout&#39;s identity - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/B\u00e9zout's_identity", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/B\u00e9zout&#39;s_identity", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "188", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQdtRm2O3w0cZr9xIx3Yks7ZyqP0Pt7VoJAXTiiD3BfX5d7nLXqNG7oOVg", 
+                        "height": "160"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/math/0/a/f/0af88956a71894efee24b7da3aa64ac4.png"
+                    }
+                ]
+            }, 
+            "snippet": "A pair of B\u00e9zout coefficients can be computed by the extended Euclidean \nalgorithm. If both a and b are nonzero, the extended Euclidean algorithm \nproduces one\u00a0...", 
+            "htmlSnippet": "A pair of B\u00e9zout coefficients can be computed by the <b>extended Euclidean</b> <br>\n<b>algorithm</b>. If both a and b are nonzero, the <b>extended Euclidean algorithm</b> <br>\nproduces one&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/B%C3%A9zout's_identity", 
+            "cacheId": "8yC5hlOYN30J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Binary GCD algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Binary <b>GCD</b> algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Binary_GCD_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Binary_<b>GCD</b>_<b>algorithm</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "212", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSakGIl4SgvtitOv4DfquRhxyuU2xEnrxx2juPDzoFt38XeyVdl1ghuavM", 
+                        "height": "238"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Binary_GCD_algorithm_visualisation.svg/400px-Binary_GCD_algorithm_visualisation.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "... word of the representation). An extended binary GCD, analogous to the \nextended Euclidean algorithm, is given by Knuth along with pointers to other \nversions.", 
+            "htmlSnippet": "... word of the representation). An extended binary GCD, analogous to the <br>\n<b>extended Euclidean algorithm</b>, is given by Knuth along with pointers to other <br>\nversions.", 
+            "link": "https://en.wikipedia.org/wiki/Binary_GCD_algorithm", 
+            "cacheId": "CxPf0CNyjQ4J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Euclidean domain - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Euclidean</b> domain - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Euclidean_domain", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Euclidean</b>_domain", 
+            "snippet": "This generalized Euclidean algorithm can be put to many of the same uses as ... \nuse Euclidean algorithm and extended Euclidean algorithm to compute greatest\n\u00a0...", 
+            "htmlSnippet": "This generalized Euclidean algorithm can be put to many of the same uses as ... <br>\nuse Euclidean algorithm and <b>extended Euclidean algorithm</b> to compute greatest<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Euclidean_domain", 
+            "cacheId": "T_icIGmTFnQJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Lehmer's GCD algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Lehmer&#39;s <b>GCD</b> algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Lehmer's_GCD_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Lehmer&#39;s_<b>GCD</b>_<b>algorithm</b>", 
+            "snippet": "Lehmer's GCD algorithm, named after Derrick Henry Lehmer, is a fast GCD \nalgorithm, ... according to the matrix formulation of the extended euclidean \nalgorithm.", 
+            "htmlSnippet": "Lehmer&#39;s GCD algorithm, named after Derrick Henry Lehmer, is a fast GCD <br>\nalgorithm, ... according to the matrix formulation of the <b>extended euclidean</b> <br>\n<b>algorithm</b>.", 
+            "link": "https://en.wikipedia.org/wiki/Lehmer's_GCD_algorithm", 
+            "cacheId": "3tL1XAOdgPsJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Extended Euclidean algorithm", 
+                "safe": "off", 
+                "searchTerms": "Extended Euclidean algorithm", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "820"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Extended Euclidean algorithm", 
+                "safe": "off", 
+                "searchTerms": "Extended Euclidean algorithm", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "820"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.26", 
+        "formattedTotalResults": "820", 
+        "totalResults": "820", 
+        "searchTime": 0.264607
+    }
+}

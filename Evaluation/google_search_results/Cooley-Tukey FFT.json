@@ -1,0 +1,243 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Cooley\u2013Tukey FFT algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Cooley</b>\u2013<b>Tukey FFT</b> algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Cooley\u2013Tukey_FFT_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Cooley</b>\u2013<b>Tukey</b>_<b>FFT</b>_algorithm", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "276", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRACW82Brp083dpd9mo6DFNHHnHWGAY-_vh2ZI42t4iTVk2rAVWpQcMySk", 
+                        "height": "183"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Cooley-tukey-general.png/500px-Cooley-tukey-general.png"
+                    }
+                ]
+            }, 
+            "snippet": "The Cooley\u2013Tukey algorithm, named after J.W. Cooley and John Tukey, is the \nmost common fast Fourier transform (FFT) algorithm. It re-expresses the discrete\n\u00a0...", 
+            "htmlSnippet": "The <b>Cooley</b>\u2013<b>Tukey</b> algorithm, named after J.W. Cooley and John Tukey, is the <br>\nmost common fast Fourier transform (<b>FFT</b>) algorithm. It re-expresses the discrete<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Cooley%E2%80%93Tukey_FFT_algorithm", 
+            "cacheId": "ZRsUCXfOwEYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Fast Fourier transform - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Fast Fourier transform - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Fast_Fourier_transform", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Fast_Fourier_transform", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "318", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSnIs5golPnUw9wxp2kPBmReVf9KttXn6Jd65w_RWvtnfXuWgZhlTsLZDc", 
+                        "height": "159"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Time_Signal_of_Five_Term_Cosine_Series.png/400px-Time_Signal_of_Five_Term_Cosine_Series.png"
+                    }
+                ]
+            }, 
+            "snippet": "Cooley and Tukey published a more general version of FFT in 1965 that is \napplicable when N is composite and not necessarily a power of 2. Tukey came \nup\u00a0...", 
+            "htmlSnippet": "<b>Cooley</b> and <b>Tukey</b> published a more general version of <b>FFT</b> in 1965 that is <br>\napplicable when N is composite and not necessarily a power of 2. <b>Tukey</b> came <br>\nup&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Fast_Fourier_transform", 
+            "cacheId": "aDSMugX9X0AJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Cooley\u2013Tukey FFT algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Cooley</b>\u2013<b>Tukey FFT</b> algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3ACooley-Tukey_FFT_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>Cooley</b>-<b>Tukey</b>_<b>FFT</b>_algorithm", 
+            "snippet": "5 picture; 6 Source Code; 7 first use of algorithm; 8 External References; 9 \nRunning time; 10 Differences in the Cooley-Tukey Methods within Mathematics \nTools\u00a0...", 
+            "htmlSnippet": "5 picture; 6 Source Code; 7 first use of algorithm; 8 External References; 9 <br>\nRunning time; 10 Differences in the <b>Cooley</b>-<b>Tukey</b> Methods within Mathematics <br>\nTools&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3ACooley-Tukey_FFT_algorithm", 
+            "cacheId": "LApn2CeTdCMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "James Cooley - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "James <b>Cooley</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/James_Cooley", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/James_<b>Cooley</b>", 
+            "snippet": "James William Cooley (born 1926) is an American mathematician. ... which he co\n-developed with John Tukey (see Cooley\u2013Tukey FFT algorithm) while working\u00a0...", 
+            "htmlSnippet": "James William Cooley (born 1926) is an American mathematician. ... which he co<br>\n-developed with John Tukey (see <b>Cooley</b>\u2013<b>Tukey FFT</b> algorithm) while working&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/James_Cooley", 
+            "cacheId": "-CO1U_DoJdIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Butterfly diagram - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Butterfly diagram - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Butterfly_diagram", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Butterfly_diagram", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "160", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRF634Os1-8xL7t6h-dVWaqbMF_Uzn8jJrhTadCYsxMYDT9R3n9b-aRbmsC", 
+                        "height": "201"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Butterfly-FFT.png/200px-Butterfly-FFT.png"
+                    }
+                ]
+            }, 
+            "snippet": "Signal-flow graph connecting the inputs x (left) to the outputs y that depend on \nthem (right) for a \"butterfly\" step of a radix-2 Cooley\u2013Tukey FFT. This diagram\u00a0...", 
+            "htmlSnippet": "Signal-flow graph connecting the inputs x (left) to the outputs y that depend on <br>\nthem (right) for a &quot;butterfly&quot; step of a radix-2 <b>Cooley</b>\u2013<b>Tukey FFT</b>. This diagram&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Butterfly_diagram", 
+            "cacheId": "CYQX_NRbKzMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Category:FFT algorithms - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Category:<b>FFT</b> algorithms - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Category:FFT_algorithms", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Category:<b>FFT</b>_algorithms", 
+            "snippet": "This category is for fast Fourier transform (FFT) algorithms, i.e. algorithms to \ncompute ... Chirp Z-transform \u00b7 Cooley\u2013Tukey FFT algorithm \u00b7 Cyclotomic fast \nFourier\u00a0...", 
+            "htmlSnippet": "This category is for fast Fourier transform (FFT) algorithms, i.e. algorithms to <br>\ncompute ... Chirp Z-transform &middot; <b>Cooley</b>\u2013<b>Tukey FFT</b> algorithm &middot; Cyclotomic fast <br>\nFourier&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Category:FFT_algorithms", 
+            "cacheId": "YqJujyMik-gJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "John Tukey - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "John <b>Tukey</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/John_Tukey", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/John_<b>Tukey</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRa3qqfgoRHj8F-532nmqKoEDNOos-HpJZaqY6bG7AxvPunVaAqrPNLPSQ", 
+                        "height": "214"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/John_Tukey.jpg/220px-John_Tukey.jpg"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "bday": "1915-06-16", 
+                        "category": "Mathematician", 
+                        "fn": "John Tukey"
+                    }
+                ]
+            }, 
+            "snippet": "He is particularly remembered for his development with James Cooley of the \nCooley\u2013Tukey FFT algorithm. In 1970, he contributed significantly to what is \ntoday\u00a0...", 
+            "htmlSnippet": "He is particularly remembered for his development with James Cooley of the <br>\n<b>Cooley</b>\u2013<b>Tukey FFT</b> algorithm. In 1970, he contributed significantly to what is <br>\ntoday&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/John_Tukey", 
+            "cacheId": "4N-p38UVhm4J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Rader's FFT algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Rader&#39;s <b>FFT</b> algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Rader's_FFT_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Rader&#39;s_<b>FFT</b>_algorithm", 
+            "snippet": "Rader's algorithm (1968) is a fast Fourier transform (FFT) algorithm that computes \n... However, for composite sizes such as prime powers, the Cooley\u2013Tukey FFT\u00a0...", 
+            "htmlSnippet": "Rader&#39;s algorithm (1968) is a fast Fourier transform (FFT) algorithm that computes <br>\n... However, for composite sizes such as prime powers, the <b>Cooley</b>\u2013<b>Tukey FFT</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Rader's_FFT_algorithm", 
+            "cacheId": "EY8naR0y7uQJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Bruun's FFT algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Bruun&#39;s <b>FFT</b> algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Bruun's_FFT_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Bruun&#39;s_<b>FFT</b>_algorithm", 
+            "snippet": "[edit]. The standard decimation-in-frequency (DIF) radix-r Cooley\u2013Tukey \nalgorithm\u00a0...", 
+            "htmlSnippet": "[edit]. The standard decimation-in-frequency (DIF) radix-r <b>Cooley</b>\u2013<b>Tukey</b> <br>\nalgorithm&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Bruun's_FFT_algorithm", 
+            "cacheId": "_eSfsTIdJ9EJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Split-radix FFT algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Split-radix <b>FFT</b> algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Split-radix_FFT_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Split-radix_<b>FFT</b>_algorithm", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "123", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTLaytYZGMkmSBbCbmHP5VE0I-TGFECULuyQnIzM8gXtMj3k_9mKYkC", 
+                        "height": "47"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/math/9/e/e/9eeeb1a9dddc6db18e41b5870e3c5c32.png"
+                    }
+                ]
+            }, 
+            "snippet": "In particular, split radix is a variant of the Cooley-Tukey FFT algorithm that uses a \nblend of radices 2 and 4: it recursively expresses a DFT of length N in terms of\u00a0...", 
+            "htmlSnippet": "In particular, split radix is a variant of the <b>Cooley</b>-<b>Tukey FFT</b> algorithm that uses a <br>\nblend of radices 2 and 4: it recursively expresses a DFT of length N in terms of&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Split-radix_FFT_algorithm", 
+            "cacheId": "rDAnubX93QoJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Cooley-Tukey FFT", 
+                "safe": "off", 
+                "searchTerms": "Cooley-Tukey FFT", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "80"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Cooley-Tukey FFT", 
+                "safe": "off", 
+                "searchTerms": "Cooley-Tukey FFT", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "80"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.19", 
+        "formattedTotalResults": "80", 
+        "totalResults": "80", 
+        "searchTime": 0.191865
+    }
+}

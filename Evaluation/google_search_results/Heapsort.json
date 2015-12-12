@@ -1,0 +1,236 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Heapsort - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Heapsort</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Heapsort", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Heapsort</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "224", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ2oLMliBb_2ZN4BfjN6vjRl-EKR-rnFLD_x8z5dboL_9Fc3pJkI_zq4-0", 
+                        "height": "171"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Sorting_heapsort_anim.gif"
+                    }
+                ]
+            }, 
+            "snippet": "A run of the heapsort algorithm sorting an array of randomly permuted values. In \nthe first stage of the algorithm the array elements are reordered to satisfy the\u00a0...", 
+            "htmlSnippet": "A run of the <b>heapsort</b> algorithm sorting an array of randomly permuted values. In <br>\nthe first stage of the algorithm the array elements are reordered to satisfy the&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Heapsort", 
+            "cacheId": "xsQCCGTlloEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Adaptive heap sort - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Adaptive <b>heap sort</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Adaptive_heap_sort", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Adaptive_<b>heap_sort</b>", 
+            "snippet": "The adaptive heap sort is a sorting algorithm that is similar to heap sort, but uses \na randomized binary search tree to structure the input according to any\u00a0...", 
+            "htmlSnippet": "The adaptive <b>heap sort</b> is a sorting algorithm that is similar to <b>heap sort</b>, but uses <br>\na randomized binary search tree to structure the input according to any&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Adaptive_heap_sort", 
+            "cacheId": "B2UrulxKL3YJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Heapsort - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Heapsort</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3AHeapsort", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>Heapsort</b>", 
+            "snippet": "22 Best Case Run Time; 23 Is Heapsort a stable sort algorithm or not ? 24 Merge \nSort requires requires \u03a9(n) auxiliary space - really? 25 \"Now repeat after\" me\u00a0...", 
+            "htmlSnippet": "22 Best Case Run Time; 23 Is <b>Heapsort</b> a stable sort algorithm or not ? 24 Merge <br>\nSort requires requires \u03a9(n) auxiliary space - really? 25 &quot;Now repeat after&quot; me&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3AHeapsort", 
+            "cacheId": "BBhWfx5egYoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Introsort - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Introsort - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Introsort", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Introsort", 
+            "snippet": "If a heapsort implementation and partitioning functions of the type discussed in \nthe quicksort article are available, the introsort can be described succinctly as", 
+            "htmlSnippet": "If a <b>heapsort</b> implementation and partitioning functions of the type discussed in <br>\nthe quicksort article are available, the introsort can be described succinctly as", 
+            "link": "https://en.wikipedia.org/wiki/Introsort", 
+            "cacheId": "dGnHHCTo5FQJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Sorting algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Sorting algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Sorting_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Sorting_algorithm", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "284", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcw9pl3Q9PmPu7dU3Xk3DdbeYqZIQCzyyRfukXqYXWdm69y04uEeRiB3br", 
+                        "height": "178"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Sorting_playing_cards_using_stable_sort.svg/400px-Sorting_playing_cards_using_stable_sort.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "Selection sorts include shaker sort and heapsort. Also whether the algorithm is \nserial or parallel. The remainder of this discussion almost exclusively\u00a0...", 
+            "htmlSnippet": "Selection sorts include shaker sort and <b>heapsort</b>. Also whether the algorithm is <br>\nserial or parallel. The remainder of this discussion almost exclusively&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Sorting_algorithm", 
+            "cacheId": "CyeqKExhw84J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Smoothsort - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Smoothsort - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Smoothsort", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Smoothsort", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "236", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQmkhZTDDTaX6BKr7FO0uFIfdv3NoVNQjWSNbhdfDgM50UKnexmdmnsBNRT", 
+                        "height": "180"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Smoothsort.gif"
+                    }
+                ]
+            }, 
+            "snippet": "Smoothsort is a comparison-based sorting algorithm. It is a variation of heapsort \ndeveloped by Edsger Dijkstra in 1981. Like heapsort, smoothsort is an in-place\u00a0...", 
+            "htmlSnippet": "Smoothsort is a comparison-based sorting algorithm. It is a variation of <b>heapsort</b> <br>\ndeveloped by Edsger Dijkstra in 1981. Like <b>heapsort</b>, smoothsort is an in-place&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Smoothsort", 
+            "cacheId": "lpSY0f19vrwJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "File talk:Sorting heapsort anim.gif - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "File talk:Sorting <b>heapsort</b> anim.gif - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/File_talk:Sorting_heapsort_anim.gif", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/File_talk:Sorting_<b>heapsort</b>_anim.gif", 
+            "snippet": "At this speed the image is rather useless. If it was slower it would be more clear \nwhats going on. Thanks. Yes I agree. A lot of the animations for the sorting\u00a0...", 
+            "htmlSnippet": "At this speed the image is rather useless. If it was slower it would be more clear <br>\nwhats going on. Thanks. Yes I agree. A lot of the animations for the sorting&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/File_talk:Sorting_heapsort_anim.gif", 
+            "cacheId": "jJ6SuLRgKqsJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "User:Swfung8 - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "User:Swfung8 - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/User:Swfung8", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/User:Swfung8", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "251", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQl6Mn28scJfP_zS4qmM-LASWK4PcyZe32UbvJtAmIRnxEJ0-6K_vnXDJk", 
+                        "height": "201"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Heapsort-example.gif"
+                    }
+                ]
+            }, 
+            "snippet": "A run of the heapsort algorithm sorting an array of randomly permuted values. In \nthe first stage of the algorithm the array elements are reordered to satisfy the\u00a0...", 
+            "htmlSnippet": "A run of the <b>heapsort</b> algorithm sorting an array of randomly permuted values. In <br>\nthe first stage of the algorithm the array elements are reordered to satisfy the&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/User:Swfung8", 
+            "cacheId": "9NvxWfrF8sAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Tournament sort - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Tournament sort - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Tournament_sort", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Tournament_sort", 
+            "snippet": "... of n elements; in a tournament sort, it takes O(log n) operations (after building \nthe initial tournament in O(n)). Tournament sort is a variation of heapsort.", 
+            "htmlSnippet": "... of n elements; in a tournament sort, it takes O(log n) operations (after building <br>\nthe initial tournament in O(n)). Tournament sort is a variation of <b>heapsort</b>.", 
+            "link": "https://en.wikipedia.org/wiki/Tournament_sort", 
+            "cacheId": "pb3YqnOiFmEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Comparison sort - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Comparison sort - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Comparison_sort", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Comparison_sort", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "232", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS78wJQXHvx9Wq1up4xGVYL_B6rWVFL3Xwngh2al3NdWTocWiiJl944Vpyw", 
+                        "height": "217"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Balance_%C3%A0_tabac_1850.JPG/300px-Balance_%C3%A0_tabac_1850.JPG"
+                    }
+                ]
+            }, 
+            "snippet": "In this sense, mergesort, heapsort, and introsort are asymptotically optimal in \nterms of the number of comparisons they must perform, although this metric\u00a0...", 
+            "htmlSnippet": "In this sense, mergesort, <b>heapsort</b>, and introsort are asymptotically optimal in <br>\nterms of the number of comparisons they must perform, although this metric&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Comparison_sort", 
+            "cacheId": "k7GGonoy80oJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Heapsort", 
+                "safe": "off", 
+                "searchTerms": "Heapsort", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "270"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Heapsort", 
+                "safe": "off", 
+                "searchTerms": "Heapsort", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "270"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.26", 
+        "formattedTotalResults": "270", 
+        "totalResults": "270", 
+        "searchTime": 0.264026
+    }
+}

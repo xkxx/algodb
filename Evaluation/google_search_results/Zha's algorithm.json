@@ -1,0 +1,250 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "k-means clustering - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "k-means clustering - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/K-means_clustering", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/K-means_clustering", 
+            "snippet": "The algorithm has a loose relationship to the k-nearest neighbor classifier, a \npopular machine ... This is known as nearest centroid classifier or Rocchio \nalgorithm. ..... Jump up ^ H. Zha, C. Ding, M. Gu, X. He and H.D. Simon (Dec 2001\n).", 
+            "htmlSnippet": "The <b>algorithm</b> has a loose relationship to the k-nearest neighbor classifier, a <br>\npopular machine ... This is known as nearest centroid classifier or Rocchio <br>\n<b>algorithm</b>. ..... Jump up ^ H. <b>Zha</b>, C. Ding, M. Gu, X. He and H.D. Simon (Dec 2001<br>\n).", 
+            "link": "https://en.wikipedia.org/wiki/K-means_clustering", 
+            "cacheId": "sqhrmgwEfQcJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Sha - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Sha - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Sha", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Sha", 
+            "snippet": "Sample-and-hold amplifier, an electronic circuit composed of a sample and hold \ncircuit and an amplifier \u00b7 Secure Hash Algorithm, a series of cryptographic hash\u00a0...", 
+            "htmlSnippet": "Sample-and-hold amplifier, an electronic circuit composed of a sample and hold <br>\ncircuit and an amplifier &middot; Secure Hash <b>Algorithm</b>, a series of cryptographic hash&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Sha", 
+            "cacheId": "BjBLMMbX4BEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Sartaj Sahni - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Sartaj Sahni - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Sartaj_Sahni", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Sartaj_Sahni", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQXkVJ38PcWiePoI184hhFjGagM9T_7nt9hc3MlrSl6Lo67xYixBIpx9CrB", 
+                        "height": "257"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Sartaj_Sahni.jpg/220px-Sartaj_Sahni.jpg"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "category": "Computer science", 
+                        "fn": "Sartaj Sahni"
+                    }
+                ]
+            }, 
+            "snippet": "... Wencheng Lu, Xiaochun Xu, Xinyan Zha, Yan Li, Tania Banerjee-Mishra, \nShibdas Bandyopadhyay, Junjie Li. Known for, Data structures, Algorithms. \nNotable\u00a0...", 
+            "htmlSnippet": "... Wencheng Lu, Xiaochun Xu, Xinyan <b>Zha</b>, Yan Li, Tania Banerjee-Mishra, <br>\nShibdas Bandyopadhyay, Junjie Li. Known for, Data structures, <b>Algorithms</b>. <br>\nNotable&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Sartaj_Sahni", 
+            "cacheId": "moJsit35tDoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Nonlinear dimensionality reduction - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Nonlinear dimensionality reduction - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Nonlinear_dimensionality_reduction", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Nonlinear_dimensionality_reduction", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "240", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSc7M-N1bvhHIKU6qIxnYUty0Nw8xsNA3xDYk5qyd6VjJ27XyZJ1KDW6RTi", 
+                        "height": "187"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Lle_hlle_swissroll.png/300px-Lle_hlle_swissroll.png"
+                    }
+                ]
+            }, 
+            "snippet": "1 Linear methods; 2 Uses for NLDR; 3 Manifold learning algorithms ... By \ncomparison, if PCA (a linear dimensionality reduction algorithm) is used to \nreduce ..... Visualization (2004) 3, 49\u201359; Jump up ^ Zhang, Zhenyue; Hongyuan \nZha (2005).", 
+            "htmlSnippet": "1 Linear methods; 2 Uses for NLDR; 3 Manifold learning <b>algorithms</b> ... By <br>\ncomparison, if PCA (a linear dimensionality reduction <b>algorithm</b>) is used to <br>\nreduce ..... Visualization (2004) 3, 49\u201359; Jump up ^ Zhang, Zhenyue; Hongyuan <br>\n<b>Zha</b> (2005).", 
+            "link": "https://en.wikipedia.org/wiki/Nonlinear_dimensionality_reduction", 
+            "cacheId": "ENisaS8nx2oJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Image segmentation - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Image segmentation - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Image_segmentation", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Image_segmentation", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "170", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRVtQOssehX4oZK20D4-n-uEJO88Rcep2MA7Rgx7GzthVOo2zR5sqX0mes", 
+                        "height": "296"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Model_of_a_segmented_femur_-_journal.pone.0079004.g005.png/220px-Model_of_a_segmented_femur_-_journal.pone.0079004.g005.png"
+                    }
+                ]
+            }, 
+            "snippet": "The K-means algorithm is an iterative technique that is used to partition an image \n..... of the Asian Conference on Computer Vision (ACCV) 2009, H. Zha, R.-i.", 
+            "htmlSnippet": "The K-means <b>algorithm</b> is an iterative technique that is used to partition an image <br>\n..... of the Asian Conference on Computer Vision (ACCV) 2009, H. <b>Zha</b>, R.-i.", 
+            "link": "https://en.wikipedia.org/wiki/Image_segmentation", 
+            "cacheId": "StqoUrMHXL4J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Wylie transliteration - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Wylie transliteration - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Wylie_transliteration", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Wylie_transliteration", 
+            "snippet": "... [p\u00e1], \u0f55, pha, [p\u02b0\u00e1], \u0f56, ba, [b\u00e0/p\u02b0\u00e0], \u0f58, ma, [m\u00e0]. \u0f59, tsa, [ts\u00e1], \u0f5a, tsha, [ts\u02b0\u00e1], \u0f5b, dza\n, [dz\u00e0/ts\u02b0\u00e0], \u0f5d, wa, [w\u00e0]. \u0f5e, zha, [\u0291\u00e0/\u0255\u00e0], \u0f5f, za, [z\u00e0/s\u00e0], \u0f60, 'a, [\u0266\u00e0/\u0294\u00e0], \u0f61, ya, [j\u00e0].", 
+            "htmlSnippet": "... [p\u00e1], \u0f55, pha, [p\u02b0\u00e1], \u0f56, ba, [b\u00e0/p\u02b0\u00e0], \u0f58, ma, [m\u00e0]. \u0f59, tsa, [ts\u00e1], \u0f5a, tsha, [ts\u02b0\u00e1], \u0f5b, dza<br>\n, [dz\u00e0/ts\u02b0\u00e0], \u0f5d, wa, [w\u00e0]. \u0f5e, <b>zha</b>, [\u0291\u00e0/\u0255\u00e0], \u0f5f, za, [z\u00e0/s\u00e0], \u0f60, &#39;a, [\u0266\u00e0/\u0294\u00e0], \u0f61, ya, [j\u00e0].", 
+            "link": "https://en.wikipedia.org/wiki/Wylie_transliteration", 
+            "cacheId": "gp5HLI_sbtsJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Principal component analysis - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Principal component analysis - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Principal_component_analysis", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Principal_component_analysis", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRxW77_4TxGJdBoc2yddIQqZeAj4BMxBERBCL3Cy26mS9jr8ukCtPY4dlo", 
+                        "height": "164"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/GaussianScatterPCA.png/220px-GaussianScatterPCA.png"
+                    }
+                ]
+            }, 
+            "snippet": "Efficient algorithms exist to calculate the SVD of X without having to form the \nmatrix XTX, ..... See also the elastic map algorithm and principal geodesic \nanalysis. Another .... Jump up ^ H. Zha, C. Ding, M. Gu, X. He and H.D. Simon (\nDec 2001).", 
+            "htmlSnippet": "Efficient <b>algorithms</b> exist to calculate the SVD of X without having to form the <br>\nmatrix X<sup>T</sup>X, ..... See also the elastic map <b>algorithm</b> and principal geodesic <br>\nanalysis. Another .... Jump up ^ H. <b>Zha</b>, C. Ding, M. Gu, X. He and H.D. Simon (<br>\nDec 2001).", 
+            "link": "https://en.wikipedia.org/wiki/Principal_component_analysis", 
+            "cacheId": "rqrR5J0gWNcJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Dimensionality reduction - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Dimensionality reduction - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Dimensionality_reduction", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Dimensionality_reduction", 
+            "snippet": "... neighbors algorithm (k-NN) in order to avoid the effects of the curse of \ndimensionality. ... ISBN 0-12-369446-9; Jump up ^ C. Ding, , X. He , H. Zha , H.D. \nSimon,\u00a0...", 
+            "htmlSnippet": "... neighbors <b>algorithm</b> (k-NN) in order to avoid the effects of the curse of <br>\ndimensionality. ... ISBN 0-12-369446-9; Jump up ^ C. Ding, , X. He , H. <b>Zha</b> , H.D. <br>\nSimon,&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Dimensionality_reduction", 
+            "cacheId": "BmWOoWlUnq0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Local tangent space alignment - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Local tangent space alignment - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Local_tangent_space_alignment", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Local_tangent_space_alignment", 
+            "snippet": "Jump up ^ Zhang, Zhenyue; Hongyuan Zha (2004). \"Principal Manifolds and \nNonlinear Dimension Reduction via Local Tangent Space Alignment\".", 
+            "htmlSnippet": "Jump up ^ Zhang, Zhenyue; Hongyuan <b>Zha</b> (2004). &quot;Principal Manifolds and <br>\nNonlinear Dimension Reduction via Local Tangent Space Alignment&quot;.", 
+            "link": "https://en.wikipedia.org/wiki/Local_tangent_space_alignment", 
+            "cacheId": "xc1v709m-TMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Beijing Genomics Institute - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Beijing Genomics Institute - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Beijing_Genomics_Institute", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Beijing_Genomics_Institute", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "240", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6ueI0Tei8K2r8GyHGxDPAMb8BHR5a3g8QpzEakLz6jlfkw-sHo4nd2OA", 
+                        "height": "180"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Illumina_Hiseq_2000_sequencers,_BGI_Hong_Kong_sequencing_room.JPG/300px-Illumina_Hiseq_2000_sequencers,_BGI_Hong_Kong_sequencing_room.JPG"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "category": "Genome sequencing", 
+                        "logo": "A sequencing room at BGI Hong Kong", 
+                        "fn": "BGI", 
+                        "label": "Shenzhen, Guangdong, China"
+                    }
+                ]
+            }, 
+            "snippet": "BGI's computational biologists developed the first successful algorithm, based on \ngraph theory, for aligning billions of 25 to 75-base pair strings produced by\u00a0...", 
+            "htmlSnippet": "BGI&#39;s computational biologists developed the first successful <b>algorithm</b>, based on <br>\ngraph theory, for aligning billions of 25 to 75-base pair strings produced by&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Beijing_Genomics_Institute", 
+            "cacheId": "o4R6RFtHSssJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Zha's algorithm", 
+                "safe": "off", 
+                "searchTerms": "Zha's algorithm", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "34"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Zha's algorithm", 
+                "safe": "off", 
+                "searchTerms": "Zha's algorithm", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "34"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.20", 
+        "formattedTotalResults": "34", 
+        "totalResults": "34", 
+        "searchTime": 0.204008
+    }
+}

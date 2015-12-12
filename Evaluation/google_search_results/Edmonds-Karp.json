@@ -1,0 +1,229 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Edmonds\u2013Karp algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Edmonds</b>\u2013<b>Karp</b> algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Edmonds\u2013Karp_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Edmonds</b>\u2013<b>Karp</b>_algorithm", 
+            "snippet": "In computer science, the Edmonds\u2013Karp algorithm is an implementation of the \nFord\u2013Fulkerson method for computing the maximum flow in a flow network in O(V\n\u00a0...", 
+            "htmlSnippet": "In computer science, the <b>Edmonds</b>\u2013<b>Karp</b> algorithm is an implementation of the <br>\nFord\u2013Fulkerson method for computing the maximum flow in a flow network in O(V<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Edmonds%E2%80%93Karp_algorithm", 
+            "cacheId": "o5GoZCBt518J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Edmonds\u2013Karp algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Edmonds</b>\u2013<b>Karp</b> algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3AEdmonds-Karp_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>Edmonds</b>-<b>Karp</b>_algorithm", 
+            "snippet": "While I was aware of the problems with Ford-Fulkerson in regards to real \nnumbers, I was unaware that Edmonds-Karp fixed it. Interesting that Cormen et al \ndidn't\u00a0...", 
+            "htmlSnippet": "While I was aware of the problems with Ford-Fulkerson in regards to real <br>\nnumbers, I was unaware that <b>Edmonds</b>-<b>Karp</b> fixed it. Interesting that Cormen et al <br>\ndidn&#39;t&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3AEdmonds-Karp_algorithm", 
+            "cacheId": "Frx7QOTI_xYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Richard M. Karp - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Richard M. <b>Karp</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Richard_M._Karp", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Richard_M._<b>Karp</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR6X_rdr7VoHOVvRhoKU9wC1jYhP6AfRSOeE2biw9S-sOn3M0lUEXlaficR", 
+                        "height": "176"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Karp_mg_7725-b.cr2.jpg/220px-Karp_mg_7725-b.cr2.jpg"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "bday": "1935-01-03", 
+                        "category": "Computer Science", 
+                        "fn": "Richard Manning Karp"
+                    }
+                ]
+            }, 
+            "snippet": "In 1971 he co-developed with Jack Edmonds the Edmonds\u2013Karp algorithm for \nsolving the max-flow problem on networks, and in 1972 he published a landmark\n\u00a0...", 
+            "htmlSnippet": "In 1971 he co-developed with Jack Edmonds the <b>Edmonds</b>\u2013<b>Karp</b> algorithm for <br>\nsolving the max-flow problem on networks, and in 1972 he published a landmark<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Richard_M._Karp", 
+            "cacheId": "tMS5f-UI670J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Dinic's algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Dinic&#39;s algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Dinic's_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Dinic&#39;s_algorithm", 
+            "snippet": "time and is similar to the Edmonds\u2013Karp algorithm, which runs in O(VE^2) time, \nin that it uses shortest augmenting paths. The introduction of the concepts of the\u00a0...", 
+            "htmlSnippet": "time and is similar to the <b>Edmonds</b>\u2013<b>Karp</b> algorithm, which runs in O(VE^2) time, <br>\nin that it uses shortest augmenting paths. The introduction of the concepts of the&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Dinic's_algorithm", 
+            "cacheId": "kB-3_gsOElAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "User:Jmgibson3312/EdmondsKarp pseudo code using Adjacency ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "User:Jmgibson3312/<b>EdmondsKarp</b> pseudo code using Adjacency <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../EdmondsKarp_pseudo_code_using_Adjacency_ nodes", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../<b>EdmondsKarp</b>_pseudo_code_using_Adjacency_ nodes", 
+            "snippet": "algorithm EdmondsKarp input: graph (Graph with list of Adjacency nodes with \ncapacities,flow,reverse and destinations) s (Source) t (Sink) output: flow (Value of\n\u00a0...", 
+            "htmlSnippet": "algorithm <b>EdmondsKarp</b> input: graph (Graph with list of Adjacency nodes with <br>\ncapacities,flow,reverse and destinations) s (Source) t (Sink) output: flow (Value of<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/User:Jmgibson3312/EdmondsKarp_pseudo_code_using_Adjacency_nodes", 
+            "cacheId": "XMi_T9jMPacJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Ford\u2013Fulkerson algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Ford\u2013Fulkerson algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Ford\u2013Fulkerson_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Ford\u2013Fulkerson_algorithm", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "240", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTZu-CDkNtvKPA_BjEC0QzXuscMbPHnozMEoN-BmWyuX4tM4OE8am7m-20", 
+                        "height": "171"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Ford-Fulkerson_example_0.svg/300px-Ford-Fulkerson_example_0.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "The name \"Ford\u2013Fulkerson\" is often also used for the Edmonds\u2013Karp algorithm, \nwhich is a specialization of Ford\u2013Fulkerson. The idea behind the algorithm is as\u00a0...", 
+            "htmlSnippet": "The name &quot;Ford\u2013Fulkerson&quot; is often also used for the <b>Edmonds</b>\u2013<b>Karp</b> algorithm, <br>\nwhich is a specialization of Ford\u2013Fulkerson. The idea behind the algorithm is as&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Ford%E2%80%93Fulkerson_algorithm", 
+            "cacheId": "3eEY_NJFTzMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Hopcroft\u2013Karp algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Hopcroft\u2013<b>Karp</b> algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Hopcroft\u2013Karp_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Hopcroft\u2013<b>Karp</b>_algorithm", 
+            "snippet": "As in previous methods for matching such as the Hungarian algorithm and the \nwork of Edmonds (1965), the Hopcroft\u2013Karp algorithm repeatedly increases the\u00a0...", 
+            "htmlSnippet": "As in previous methods for matching such as the Hungarian algorithm and the <br>\nwork of <b>Edmonds</b> (1965), the Hopcroft\u2013<b>Karp</b> algorithm repeatedly increases the&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Hopcroft%E2%80%93Karp_algorithm", 
+            "cacheId": "lknNvBaOY3UJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Maximum flow problem - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Maximum flow problem - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Maximum_flow_problem", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Maximum_flow_problem", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "264", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzoz9IscCyRpXlIWMSDWM2nUrUwYjUj2FWaeDJpzgnzx9VE5yqlwqQFLA", 
+                        "height": "144"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Max_flow.svg/330px-Max_flow.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "Over the years, various improved solutions to the maximum flow problem were \ndiscovered, notably the shortest augmenting path algorithm of Edmonds and \nKarp\u00a0...", 
+            "htmlSnippet": "Over the years, various improved solutions to the maximum flow problem were <br>\ndiscovered, notably the shortest augmenting path algorithm of <b>Edmonds</b> and <br>\n<b>Karp</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Maximum_flow_problem", 
+            "cacheId": "QtKStUKWoQoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Category:Graph algorithms - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Category:Graph algorithms - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Category:Graph_algorithms", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Category:Graph_algorithms", 
+            "snippet": "Edmonds' algorithm \u00b7 Blossom algorithm \u00b7 Edmonds\u2013Karp algorithm \u00b7 Euler tour ... \nHierarchical closeness \u00b7 Hierarchical clustering of networks \u00b7 Hopcroft\u2013Karp\u00a0...", 
+            "htmlSnippet": "Edmonds&#39; algorithm &middot; Blossom algorithm &middot; <b>Edmonds</b>\u2013<b>Karp</b> algorithm &middot; Euler tour ... <br>\nHierarchical closeness &middot; Hierarchical clustering of networks &middot; Hopcroft\u2013Karp&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Category:Graph_algorithms", 
+            "cacheId": "C520Liw0GkUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Cut (graph theory) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Cut (graph theory) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Cut_(graph_theory)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Cut_(graph_theory)", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJ9Y59VYx7QtPBFrkX-Aqn0n96bT3_0n_AoW6EUl6q5bwnskdrj7mYXGY", 
+                        "height": "140"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Min-cut.svg/220px-Min-cut.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "... cut that separates the source and the sink are equal. There are polynomial-\ntime methods to solve the min-cut problem, notably the Edmonds\u2013Karp algorithm.", 
+            "htmlSnippet": "... cut that separates the source and the sink are equal. There are polynomial-<br>\ntime methods to solve the min-cut problem, notably the <b>Edmonds</b>\u2013<b>Karp</b> algorithm.", 
+            "link": "https://en.wikipedia.org/wiki/Cut_(graph_theory)", 
+            "cacheId": "pf2wBHUwY3AJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Edmonds-Karp", 
+                "safe": "off", 
+                "searchTerms": "Edmonds-Karp", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "346"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Edmonds-Karp", 
+                "safe": "off", 
+                "searchTerms": "Edmonds-Karp", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "346"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.27", 
+        "formattedTotalResults": "346", 
+        "totalResults": "346", 
+        "searchTime": 0.271926
+    }
+}

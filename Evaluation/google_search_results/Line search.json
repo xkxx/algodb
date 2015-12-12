@@ -1,0 +1,208 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Line search - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Line search</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Line_search", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Line</b>_<b>search</b>", 
+            "snippet": "The line search approach first finds a descent direction along which the objective \nfunction f will be reduced and then computes a step size that determines how\u00a0...", 
+            "htmlSnippet": "The <b>line search</b> approach first finds a descent direction along which the objective <br>\nfunction f will be reduced and then computes a step size that determines how&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Line_search", 
+            "cacheId": "qWCBBy2PWE0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Backtracking line search - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Backtracking <b>line search</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Backtracking_line_search", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Backtracking_<b>line</b>_<b>search</b>", 
+            "snippet": "In (unconstrained) minimization, a backtracking line search, a search scheme \nbased on the Armijo\u2013Goldstein condition, is a line search method to determine \nthe\u00a0...", 
+            "htmlSnippet": "In (unconstrained) minimization, a backtracking <b>line search</b>, a search scheme <br>\nbased on the Armijo\u2013Goldstein condition, is a <b>line search</b> method to determine <br>\nthe&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Backtracking_line_search", 
+            "cacheId": "GQufFkp82PQJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Wolfe conditions - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Wolfe conditions - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Wolfe_conditions", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Wolfe_conditions", 
+            "snippet": "In the unconstrained minimization problem, the Wolfe conditions are a set of \ninequalities for performing inexact line search, especially in quasi-Newton \nmethods,\u00a0...", 
+            "htmlSnippet": "In the unconstrained minimization problem, the Wolfe conditions are a set of <br>\ninequalities for performing inexact <b>line search</b>, especially in quasi-Newton <br>\nmethods,&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Wolfe_conditions", 
+            "cacheId": "hZ7-B5Es67YJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Underwater searches - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Underwater searches - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Underwater_searches", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Underwater_<b>search</b>es", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0TazZfnj8tjHtQgKzTtcFJw_1j2hDVKELK3eq3upGHRnxj9rjhjfo0uY", 
+                        "height": "173"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Circular_search_pattern.png/220px-Circular_search_pattern.png"
+                    }
+                ]
+            }, 
+            "snippet": "Another variation uses more than one diver along the search line. The divers are \nevenly spaced at a distance depending on visibility, and the increase in radius\u00a0...", 
+            "htmlSnippet": "Another variation uses more than one diver along the <b>search line</b>. The divers are <br>\nevenly spaced at a distance depending on visibility, and the increase in radius&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Underwater_searches", 
+            "cacheId": "K-jutgKY6DEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Golden section search - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Golden section <b>search</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Golden_section_search", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Golden_section_<b>search</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "225", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRktT4cWt1BujvpfetaGtroWvnFqSUvAB1YQiontNwPAwuG6JKYDwfAeH4", 
+                        "height": "225"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/GoldenSectionSearch.png/325px-GoldenSectionSearch.png"
+                    }
+                ]
+            }, 
+            "snippet": "The golden section search is a technique for finding the extremum (minimum or ... \nThe algorithm is the limit of Fibonacci search (also described below) for a large \n..... Golden section search; Interpolation methods \u00b7 Line search \u00b7 Nelder\u2013Mead\u00a0...", 
+            "htmlSnippet": "The golden section search is a technique for finding the extremum (minimum or ... <br>\nThe algorithm is the limit of Fibonacci search (also described below) for a large <br>\n..... Golden section search; Interpolation methods &middot; <b>Line search</b> &middot; Nelder\u2013Mead&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Golden_section_search", 
+            "cacheId": "7d2qRB8ILHoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Online search - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Online <b>search</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Online_search", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/On<b>line</b>_<b>search</b>", 
+            "snippet": "Online search is the process of interactively searching for and retrieving \nrequested information via a computer from databases that are online. Interactive\n\u00a0...", 
+            "htmlSnippet": "Online <b>search</b> is the process of interactively searching for and retrieving <br>\nrequested information via a computer from databases that are online. Interactive<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Online_search", 
+            "cacheId": "jwc3mypYUq0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Nonlinear conjugate gradient method - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Nonlinear conjugate gradient method - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Nonlinear_conjugate_gradient_method", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Non<b>line</b>ar_conjugate_gradient_method", 
+            "snippet": "and performs a line search in this direction until it reaches the minimum of ... in \nthe linear conjugate gradient method but have been obtained with line searches.", 
+            "htmlSnippet": "and performs a <b>line search</b> in this direction until it reaches the minimum of ... in <br>\nthe linear conjugate gradient method but have been obtained with line searches.", 
+            "link": "https://en.wikipedia.org/wiki/Nonlinear_conjugate_gradient_method", 
+            "cacheId": "zPaBjHOxaEAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Gradient descent - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Gradient descent - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Gradient_descent", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Gradient_descent", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "217", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcREUf4MJd1p9FeAowsEcQbFHt3PbNM6CJunFoLLXTEonr8jhjQY1xF-4_M", 
+                        "height": "232"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Gradient_descent.svg/350px-Gradient_descent.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "Note that the (negative) gradient at a point is orthogonal to the contour line going \n... In this case, the line search minimization, finding the locally optimal step size\u00a0...", 
+            "htmlSnippet": "Note that the (negative) gradient at a point is orthogonal to the contour line going <br>\n... In this case, the <b>line search</b> minimization, finding the locally optimal step size&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Gradient_descent", 
+            "cacheId": "H6_GiOPyBRoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Line search - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Line search</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3ALine_search", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>Line</b>_<b>search</b>", 
+            "snippet": "It also seems to me that the spelling \"line search\" (800,000 Google hits) is much \nmore common than \"linesearch\" (48,000 Google hits). I think this page should be\n\u00a0...", 
+            "htmlSnippet": "It also seems to me that the spelling &quot;<b>line search</b>&quot; (800,000 Google hits) is much <br>\nmore common than &quot;<b>linesearch</b>&quot; (48,000 Google hits). I think this page should be<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3ALine_search", 
+            "cacheId": "ZcJY1uIcKI0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Broyden\u2013Fletcher\u2013Goldfarb\u2013Shanno algorithm - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Broyden\u2013Fletcher\u2013Goldfarb\u2013Shanno algorithm - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../Broyden\u2013Fletcher\u2013Goldfarb\u2013Shanno_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Broyden\u2013Fletcher\u2013Goldfarb\u2013Shanno_algorithm", 
+            "snippet": "A line search in the direction pk is then used to find the next point xk+1. Instead of \nrequiring the full Hessian matrix at the point xk+1 to be computed as Bk+1, the\u00a0...", 
+            "htmlSnippet": "A <b>line search</b> in the direction pk is then used to find the next point xk+1. Instead of <br>\nrequiring the full Hessian matrix at the point xk+1 to be computed as Bk+1, the&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Broyden%E2%80%93Fletcher%E2%80%93Goldfarb%E2%80%93Shanno_algorithm", 
+            "cacheId": "bfHZl-umQm8J"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Line search", 
+                "safe": "off", 
+                "searchTerms": "Line search", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "8670000"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Line search", 
+                "safe": "off", 
+                "searchTerms": "Line search", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "8670000"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.31", 
+        "formattedTotalResults": "8,670,000", 
+        "totalResults": "8670000", 
+        "searchTime": 0.310435
+    }
+}

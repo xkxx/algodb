@@ -1,0 +1,250 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Newton's method - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Newton&#39;s method</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Newton's_method", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Newton&#39;s</b>_<b>method</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "135", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNvBYJgehw_LhyiM6iv60LFPF8B20CEE848stHTcPNfR_zzVXgyoZz9AM", 
+                        "height": "43"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/math/9/9/c/99ca3ee7752a4df7bf1c4bbb7c963595.png"
+                    }
+                ]
+            }, 
+            "snippet": "In numerical analysis, Newton's method (also known as the Newton\u2013Raphson \nmethod), named after Isaac Newton and Joseph Raphson, is a method for finding\n\u00a0...", 
+            "htmlSnippet": "In numerical analysis, <b>Newton&#39;s method</b> (also known as the Newton\u2013Raphson <br>\nmethod), named after Isaac Newton and Joseph Raphson, is a method for finding<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Newton's_method", 
+            "cacheId": "c_wZutM0DqwJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Newton's method in optimization - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Newton&#39;s method</b> in optimization - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Newton's_method_in_optimization", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Newton&#39;s</b>_<b>method</b>_in_optimization", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT11KeXQtadm48dgMJyGoG2PMDOuUzIrBPAgiopCAKN_2F--R9e9xVf9ZmN", 
+                        "height": "202"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Newton_optimization_vs_grad_descent.svg/220px-Newton_optimization_vs_grad_descent.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "Method[edit]. In the one-dimensional problem, Newton's Method attempts to \nconstruct a sequence xn from an initial guess x0 that converges towards some \nvalue\u00a0...", 
+            "htmlSnippet": "Method[edit]. In the one-dimensional problem, <b>Newton&#39;s Method</b> attempts to <br>\nconstruct a sequence xn from an initial guess x0 that converges towards some <br>\nvalue&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Newton's_method_in_optimization", 
+            "cacheId": "03xu6eoA4pEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Quasi-Newton method - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Quasi-<b>Newton method</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Quasi-Newton_method", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Quasi-<b>Newton</b>_<b>method</b>", 
+            "snippet": "Quasi-Newton methods are methods used to either find zeroes or local maxima \nand minima of functions, as an alternative to Newton's method. They can be\u00a0...", 
+            "htmlSnippet": "Quasi-Newton methods are methods used to either find zeroes or local maxima <br>\nand minima of functions, as an alternative to <b>Newton&#39;s method</b>. They can be&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Quasi-Newton_method", 
+            "cacheId": "x_a_eCp_2CIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Newton fractal - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Newton</b> fractal - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Newton_fractal", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Newton</b>_fractal", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "192", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQfvWDMMcC4w6WxJOd4EQNzXeLSWIiHqNnNjJPD2VouBJkKUAJSrSZ5zms", 
+                        "height": "144"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Julia_set_for_the_rational_function.png/240px-Julia_set_for_the_rational_function.png"
+                    }
+                ]
+            }, 
+            "snippet": "Julia set for the rational function associated to Newton's method for \u0192:z\u2192z3\u22121. \nThe Newton fractal is a boundary set in the complex plane which is characterized\n\u00a0...", 
+            "htmlSnippet": "Julia set for the rational function associated to <b>Newton&#39;s method</b> for \u0192:z\u2192z<sup>3</sup>\u22121. <br>\nThe Newton fractal is a boundary set in the complex plane which is characterized<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Newton_fractal", 
+            "cacheId": "KZVlxMBavvwJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Methods of computing square roots - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Methods of computing square roots - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Methods_of_computing_square_roots", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Method</b>s_of_computing_square_roots", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "240", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSW45zKeX3xJruEaYt9egerPfApywO1Od8wTH3yy4KD33MDFuJu0NohvJde", 
+                        "height": "184"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Babylonian_method.svg/300px-Babylonian_method.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "It can be derived from (but predates by 16 centuries) Newton's method. The basic \nidea is that if x is an overestimate to the square root of a non-negative real\u00a0...", 
+            "htmlSnippet": "It can be derived from (but predates by 16 centuries) <b>Newton&#39;s method</b>. The basic <br>\nidea is that if x is an overestimate to the square root of a non-negative real&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Methods_of_computing_square_roots", 
+            "cacheId": "htUuPf3eeYAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Gauss\u2013Newton algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Gauss\u2013<b>Newton</b> algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Gauss\u2013Newton_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Gauss\u2013<b>Newton</b>_algorithm", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "130", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSvZbBRZoDQgp_il6wWXu0INcqUpKT-BzQRDmbOxCuYadO35PHsJ7oM9g", 
+                        "height": "47"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/math/f/8/f/f8f5aab07fd35f832deed2a3597c92dd.png"
+                    }
+                ]
+            }, 
+            "snippet": "[edit]. In what follows, the Gauss\u2013Newton algorithm will be derived from Newton's \nmethod for function\u00a0...", 
+            "htmlSnippet": "[edit]. In what follows, the Gauss\u2013Newton algorithm will be derived from <b>Newton&#39;s</b> <br>\n<b>method</b> for function&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Gauss%E2%80%93Newton_algorithm", 
+            "cacheId": "wyn1zkqkj0cJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Truncated Newton method - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Truncated <b>Newton method</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Truncated_Newton_method", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Truncated_<b>Newton</b>_<b>method</b>", 
+            "snippet": "A truncated Newton method consists of repeated application of an iterative \noptimization algorithm to approximately solve Newton's equations, to determine \nan\u00a0...", 
+            "htmlSnippet": "A truncated <b>Newton method</b> consists of repeated application of an iterative <br>\noptimization algorithm to approximately solve Newton&#39;s equations, to determine <br>\nan&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Truncated_Newton_method", 
+            "cacheId": "d2hxqES6xnAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Method of Fluxions - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Method</b> of Fluxions - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Method_of_Fluxions", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Method</b>_of_Fluxions", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWXnnUfGNINaKxfflbOVVYFE9MuWj6JrWih1KnKyAVwRn1JvyGN27OSMo", 
+                        "height": "230"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Newton's_Method_of_Fluxions.jpg/220px-Newton's_Method_of_Fluxions.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "[edit]. For a period of time encompassing Newton's working life, the discipline of \nanalysis was a subject\u00a0...", 
+            "htmlSnippet": "[edit]. For a period of time encompassing <b>Newton&#39;s</b> working life, the discipline of <br>\nanalysis was a subject&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Method_of_Fluxions", 
+            "cacheId": "6VRT7-7Ow0wJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Newton polynomial - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Newton</b> polynomial - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Newton_polynomial", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Newton</b>_polynomial", 
+            "snippet": "The Newton polynomial is sometimes called Newton's divided differences .... The \ndivided difference method have the advantage that more data points can be\u00a0...", 
+            "htmlSnippet": "The <b>Newton</b> polynomial is sometimes called <b>Newton&#39;s</b> divided differences .... The <br>\ndivided difference <b>method</b> have the advantage that more data points can be&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Newton_polynomial", 
+            "cacheId": "gdpD1WpT1O0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Halley's method - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Halley&#39;s <b>method</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Halley's_method", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Halley&#39;s_<b>method</b>", 
+            "snippet": "The algorithm is second in the class of Householder's methods, right after \nNewton's method. Like the latter, it produces iteratively a sequence of \napproximations\u00a0...", 
+            "htmlSnippet": "The algorithm is second in the class of Householder&#39;s methods, right after <br>\n<b>Newton&#39;s method</b>. Like the latter, it produces iteratively a sequence of <br>\napproximations&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Halley's_method", 
+            "cacheId": "N32v5z7QGnkJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Newton's method", 
+                "safe": "off", 
+                "searchTerms": "Newton's method", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "11600"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Newton's method", 
+                "safe": "off", 
+                "searchTerms": "Newton's method", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "11600"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.31", 
+        "formattedTotalResults": "11,600", 
+        "totalResults": "11600", 
+        "searchTime": 0.312862
+    }
+}
