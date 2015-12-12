@@ -32,6 +32,7 @@ block content
         - var resultsTitle = numResults + ' Result' + (numResults === 1 ? '' : 's');
         h2.results
           span.title= resultsTitle
+          span.time= '(' + requestTime + ' seconds)'
           span.small.button.expand-hide Expand all
         for h in search.hits
           - var hit = h._source;

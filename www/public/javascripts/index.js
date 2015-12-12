@@ -30,10 +30,12 @@ $(function() {
   $('.expand-hide').click(function() {
     if ($(this).hasClass('expanded-all')) {
       // hide all
+      $(this).text('Hide all');
       $('.see-more').addClass('hidden');
       $('.see-more-button').text('See more');
     } else {
       // expand/show all
+      $(this).text('Expand all');
       $('.see-more').removeClass('hidden');
       $('.see-more-button').text('Hide more');
     }

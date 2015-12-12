@@ -110,7 +110,13 @@ h1.logo .v2 .g { color: #00933B; }
 .results > .title {
   font-size: 30px;
   font-weight: 700;
-  margin-right: 20px;
+  margin-right: 10px;
+}
+.results > .time {
+  color: rgb(200, 200, 200);
+  font-size: 12px;
+  font-weight: 100;
+  margin-right: 10px;
 }
 .results .title.empty {
   color: #C52A20;

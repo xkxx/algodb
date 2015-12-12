@@ -37,6 +37,7 @@ db.get_languages(function(err, langs) {
 
 /* GET home page. */
 router.get('/', function(req, res, next) {
+  var requestStart = +new Date;
   var query = req.query.q;
 
   // Send the queries to the db.
@@ -59,6 +60,9 @@ router.get('/', function(req, res, next) {
     //     console.log(data.search.hits[i].implementations[0]);
     //   }
     // }
+    var requestEnd = +new Date;
+    var requestTime = requestEnd - requestStart;
+    data.requestTime = requestTime / 1000;
     res.render('index', data);
   });
 });
