@@ -25,8 +25,11 @@ def index_rosetta():
     for page in category:
         counter += 1
         if page.page_title not in indexedimpl or UPDATING:  # save time
-            print '#%d, looking for page: %s' \
-                % (counter, page.page_title.encode('utf8'))
+            try:
+                print '#%d, looking for page: %s' \
+                    % (counter, page.page_title.decode('utf8'))
+            except Exception:
+                print 'printing error'
             algo_ids = get_corres_wikipedia_algo_id(page)
             if algo_ids is not None:
                 index_rosetta_page(page, algo_ids)

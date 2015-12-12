@@ -16,16 +16,25 @@ es = Elasticsearch([{'host': 'localhost', 'port': 9200}])
 visitedwiki = load_visited()
 indexedimpl = set(rd.hkeys('rosetta-mapping-success'))
 
-cluster = Cluster()  # localhost
+cluster = Cluster(['127.0.0.1'])  # localhost
 session = cluster.connect()  # default key space
 session.set_keyspace('crosswikis')
 
 FUZZY_THRESHOLD = 79
 
+UPDATING = True
+
 def index_rosetta():
     category = site.Pages['Category:Programming Tasks']
+    counter = 0
     for page in category:
-        if page.page_title not in indexedimpl:  # save time
+        counter += 1
+        try:
+            print '#%d, looking for page: %s' \
+                % (counter, page.page_title.decode('utf8')),
+        except Exception:
+            print 'printing error'
+        if page.page_title not in indexedimpl or UPDATING:  # save time
             # print 'looking for page:', page.page_title.encode('utf8')
             algo_ids = get_corres_wikipedia_algo_id(page)
             if algo_ids is not None:
@@ -125,23 +134,32 @@ def get_corres_wikipedia_algo_id(page):
         rd.hset('rosetta-mapping-success', page.page_title,
             json.dumps([id]))
         rd.sadd('rosetta-mapping-similars-success', page.page_title)
+        print id,
+        print '--first'
         return [id]
 
     # then, use crosswikis dictionary to get the most possible wiki link
-    query = "SELECT cprob, entity FROM queries WHERE anchor = %s ORDER BY cprob DESC LIMIT 1"
-    suggested_wikilink = session.execute(query, [page.page_title])[0].entity
-    wikipage = get_wiki_page(suggested_wikilink)
-    if wikipage is not None:
-        # check if indexed
-        id = get_id_of_corresponding_algorithm(link, page.page_title)
-        if id is None:
-            # try to index this algorithm
-            id = index_corresponding_algorithm(wikipage, link,
-                page.page_title)
-            if id is not None:
-                rd.hset('rosetta-mapping-success', page.page_title,
-                json.dumps([id]))
-                return [id]
+    query = "SELECT cprob, entity FROM queries WHERE anchor = %s"
+    suggested_wikilinks = list(session.execute(query, [page.page_title]))
+    sorted(suggested_wikilinks, key=lambda tup: tup[0])
+    if len(suggested_wikilinks) > 0:
+        toplink = suggested_wikilinks[0][1]
+        wikipage = get_wiki_page(toplink)
+        if wikipage is not None:
+            # check if indexed
+            id = get_id_of_corresponding_algorithm(toplink, page.page_title)
+            if id is None:
+                # try to index this algorithm
+                id = index_corresponding_algorithm(wikipage, toplink,
+                    page.page_title)
+                if id is not None:
+                    rd.hset('rosetta-mapping-success', page.page_title,
+                        json.dumps([id]))
+                    rd.sadd('rosetta-mapping-success-crosswikis',
+                        page.page_title)
+                    print id,
+                    print '--second'
+                    return [id]
 
     # finally, if none of the links is similar to the task name,
     # 1, store the task description
@@ -163,9 +181,13 @@ def get_corres_wikipedia_algo_id(page):
     if len(ids) > 0:
         rd.hset('rosetta-mapping-success', page.page_title,
             json.dumps(ids))
+        rd.sadd('rosetta-mapping-success-all-algo-links', page.page_title)
+        print ids
+        print '--third'
         return ids
 
     rd.sadd('rosetta-mapping-error-undefinable-wikilinks', page.page_title)
+    print ''
     return None
 
 def convert_to_id(title):
