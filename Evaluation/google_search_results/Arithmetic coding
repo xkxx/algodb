@@ -1,0 +1,250 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Arithmetic coding - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Arithmetic coding</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Arithmetic_coding", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Arithmetic</b>_<b>coding</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "267", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE2FPBajuHGMkRzSgn8uymrunAVu94zjV29aTgBiczTgVRJ9d1BmyWjJM", 
+                        "height": "189"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Arithmetic_coding_example.svg/400px-Arithmetic_coding_example.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "Arithmetic coding is a form of entropy encoding used in lossless data \ncompression. Normally, a string of characters such as the words \"hello there\" is\u00a0...", 
+            "htmlSnippet": "<b>Arithmetic coding</b> is a form of entropy encoding used in lossless data <br>\ncompression. Normally, a string of characters such as the words &quot;hello there&quot; is&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Arithmetic_coding", 
+            "cacheId": "ZGLchUwARykJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Context-adaptive binary arithmetic coding - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Context-adaptive binary <b>arithmetic coding</b> - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../Context-adaptive_binary_arithmetic_coding", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Context-adaptive_binary_<b>arithmetic</b>_<b>coding</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "381", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ6ZmFQmMcloqcDXINCh-BxoC4020Q_2Kb8VhzfhirRqGU_UHai-LSZh9s", 
+                        "height": "132"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/4/47/CABC_encoding_workflow_diagram.gif"
+                    }
+                ]
+            }, 
+            "snippet": "Context-adaptive binary arithmetic coding (CABAC) is a form of entropy encoding \nused in the H.264/MPEG-4 AVC and High Efficiency Video Coding (HEVC)\u00a0...", 
+            "htmlSnippet": "Context-adaptive binary <b>arithmetic coding</b> (CABAC) is a form of entropy encoding <br>\nused in the H.264/MPEG-4 AVC and High Efficiency Video Coding (HEVC)&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Context-adaptive_binary_arithmetic_coding", 
+            "cacheId": "ROlJLpOzziYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Range encoding - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Range <b>encoding</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Range_encoding", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Range_<b>encoding</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSD0F5lKRPPdrSOVp9NUHnCobfBDRtccDHtXwnckiUEdAX3xhPrpFQfvyk", 
+                        "height": "102"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Range_encoding.jpg/220px-Range_encoding.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "[edit]. Arithmetic coding is the same as range encoding, but with the integers \ntaken as being the numerators\u00a0...", 
+            "htmlSnippet": "[edit]. <b>Arithmetic coding</b> is the same as range encoding, but with the integers <br>\ntaken as being the numerators&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Range_encoding", 
+            "cacheId": "SEhzbzAk7uUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Arithmetic coding - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Arithmetic coding</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3AArithmetic_coding", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>Arithmetic</b>_<b>coding</b>", 
+            "snippet": "Arithmetic coding is converting a message to a whole number, which length is \nclose to the length of the number of possible permutations for the provided\u00a0...", 
+            "htmlSnippet": "<b>Arithmetic coding</b> is converting a message to a whole number, which length is <br>\nclose to the length of the number of possible permutations for the provided&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3AArithmetic_coding", 
+            "cacheId": "4EMzb2dKX4oJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Entropy encoding - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Entropy <b>encoding</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Entropy_encoding", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Entropy_<b>encoding</b>", 
+            "snippet": "Two of the most common entropy encoding techniques are Huffman coding and \narithmetic coding. If the approximate entropy characteristics of a data stream are\n\u00a0...", 
+            "htmlSnippet": "Two of the most common entropy encoding techniques are Huffman coding and <br>\n<b>arithmetic coding</b>. If the approximate entropy characteristics of a data stream are<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Entropy_encoding", 
+            "cacheId": "aWEsMzC_z2YJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Dynamic Markov compression - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Dynamic Markov compression - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Dynamic_Markov_compression", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Dynamic_Markov_compression", 
+            "snippet": "It uses predictive arithmetic coding similar to prediction by partial matching (PPM)\n, except that the input is predicted one bit at a time (rather than one byte at a\u00a0...", 
+            "htmlSnippet": "It uses predictive <b>arithmetic coding</b> similar to prediction by partial matching (PPM)<br>\n, except that the input is predicted one bit at a time (rather than one byte at a&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Dynamic_Markov_compression", 
+            "cacheId": "uBgpu6mofr8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Context-adaptive variable-length coding - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Context-adaptive variable-length <b>coding</b> - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../Context-adaptive_variable-length_coding", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Context-adaptive_variable-length_<b>coding</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "152", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTbda9DZFJNUhidcxEd-NpRF9HPpJyXpHtmHzvRnRGj3x31f7vqAkbS6_s", 
+                        "height": "112"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/4x4CAVLC.svg/191px-4x4CAVLC.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "It is an alternative to context-based adaptive binary arithmetic coding (CABAC). \nCAVLC requires considerably less processing to decode than CABAC, although\n\u00a0...", 
+            "htmlSnippet": "It is an alternative to context-based adaptive binary <b>arithmetic coding</b> (CABAC). <br>\nCAVLC requires considerably less processing to decode than CABAC, although<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Context-adaptive_variable-length_coding", 
+            "cacheId": "0XIgH-wS6uYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Context-adaptive binary arithmetic coding - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:Context-adaptive binary <b>arithmetic coding</b> - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../Talk%3AContext-adaptive_binary_arithmetic_ coding", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Talk%3AContext-adaptive_binary_<b>arithmetic</b>_ <b>coding</b>", 
+            "snippet": "This article is within the scope of WikiProject Computing, a collaborative effort to \nimprove the coverage of computers, computing, and information technology on\u00a0...", 
+            "htmlSnippet": "This article is within the scope of WikiProject Computing, a collaborative effort to <br>\nimprove the coverage of computers, computing, and information technology on&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3AContext-adaptive_binary_arithmetic_coding", 
+            "cacheId": "hsL77Rmt6iAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "JPEG - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "JPEG - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/JPEG", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/JPEG", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "192", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTq-iyOB0PFWQsUWB5mGJllR6TjydZA-guQaCqJkMPRXqQvX7kPcLnSV2_o", 
+                        "height": "221"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Felis_silvestris_silvestris_small_gradual_decrease_of_quality.png/240px-Felis_silvestris_silvestris_small_gradual_decrease_of_quality.png"
+                    }
+                ]
+            }, 
+            "snippet": "The JPEG standard actually includes a lossless coding mode, but that mode is \nnot supported in ..... Arithmetic coding typically makes files about 5\u20137% smaller.", 
+            "htmlSnippet": "The JPEG standard actually includes a lossless coding mode, but that mode is <br>\nnot supported in ..... <b>Arithmetic coding</b> typically makes files about 5\u20137% smaller.", 
+            "link": "https://en.wikipedia.org/wiki/JPEG", 
+            "cacheId": "TGmLEuRGx64J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Huffman coding - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Huffman <b>coding</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Huffman_coding", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Huffman_<b>coding</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRYt7j1GzJ2J4MU-pW1eHPgyVexM8gIc3kPK7SfJuMfK8y87IiEYnZx6w", 
+                        "height": "113"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Huffman_tree_2.svg/220px-Huffman_tree_2.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "Huffman coding is such a widespread method for creating prefix codes that the .... \nOther methods such as arithmetic coding and LZW coding often have better\u00a0...", 
+            "htmlSnippet": "Huffman coding is such a widespread method for creating prefix codes that the .... <br>\nOther methods such as <b>arithmetic coding</b> and LZW coding often have better&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Huffman_coding", 
+            "cacheId": "09-XufA259YJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Arithmetic coding", 
+                "safe": "off", 
+                "searchTerms": "Arithmetic coding", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "2810"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Arithmetic coding", 
+                "safe": "off", 
+                "searchTerms": "Arithmetic coding", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "2810"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.31", 
+        "formattedTotalResults": "2,810", 
+        "totalResults": "2810", 
+        "searchTime": 0.312035
+    }
+}

@@ -1,0 +1,268 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Deep learning - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Deep</b> learning - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Deep_learning", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Deep</b>_learning", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTPnL8BQm8tRI6NZzs3zzme1kK9tvGzGAQeYCmJPzuoyOpkg6JaTGDDGQ", 
+                        "height": "79"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Kernel_Machine.png/220px-Kernel_Machine.png"
+                    }
+                ]
+            }, 
+            "snippet": "Some representations make it easier to learn tasks (e.g., face recognition or facial \nexpression ... Various deep learning architectures such as deep neural networks, \n..... a neural network, making it first learn generally useful feature detectors.", 
+            "htmlSnippet": "Some representations make it easier to learn tasks (e.g., <b>face</b> recognition or <b>facial</b> <br>\nexpression ... Various <b>deep</b> learning architectures such as <b>deep</b> neural networks, <br>\n..... a neural network, making it first learn generally useful feature <b>detectors</b>.", 
+            "link": "https://en.wikipedia.org/wiki/Deep_learning", 
+            "cacheId": "NrcuL2Pd8FMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Histogram of oriented gradients - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Histogram of oriented gradients - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Histogram_of_oriented_gradients", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Histogram_of_oriented_gradients", 
+            "snippet": "In this work they focused on pedestrian detection in static images, although since \n... despite their similar formation, R-HOG blocks are computed in dense grids at \n.... classifiers algorithm normally applied with great success to face detection.", 
+            "htmlSnippet": "In this work they focused on pedestrian <b>detection</b> in static images, although since <br>\n... despite their similar formation, R-HOG blocks are computed in <b>dense</b> grids at <br>\n.... classifiers algorithm normally applied with great success to <b>face detection</b>.", 
+            "link": "https://en.wikipedia.org/wiki/Histogram_of_oriented_gradients", 
+            "cacheId": "M5-VZVwwpJMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Methane clathrate - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Methane clathrate - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Methane_clathrate", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Methane_clathrate", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "186", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR5wX4gMY9u1q4ZvusnURnQa487hy5hH12bpuv3y8pVIaDG3GH-48y_3qE6", 
+                        "height": "270"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/0/03/Burning_hydrate_inlay_US_Office_Naval_Research.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "3.1 Routine operations; 3.2 Effect of hydrate phase transition during deep water \n.... the assumption that fully dense clathrates could litter the entire floor of the \ndeep ocean. ... Other problems facing commercial exploitation are detection of \nviable\u00a0...", 
+            "htmlSnippet": "3.1 Routine operations; 3.2 Effect of hydrate <b>phase</b> transition during <b>deep</b> water <br>\n.... the assumption that fully <b>dense</b> clathrates could litter the entire floor of the <br>\n<b>deep</b> ocean. ... Other problems facing commercial exploitation are <b>detection</b> of <br>\nviable&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Methane_clathrate", 
+            "cacheId": "tsC523gMLgUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Receptive field - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Receptive field - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Receptive_field", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Receptive_field", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "240", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrcbvdYxZ_NQED6hew8LROPh1vnwzmY_Xy3PS3c_q0OtqqNsPBL8PVotk", 
+                        "height": "179"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Red_on_centre_green_off_centre.png/300px-Red_on_centre_green_off_centre.png"
+                    }
+                ]
+            }, 
+            "snippet": "... have many, densely packed (up to 500 per cubic cm) mechanoreceptors with \nsmall ... This hierarchy idea has inspired the deep (i.e., hierarchical) neural \nnetworks and ... A computer emulation of \"edge detection\" using retinal receptive \nfields. .... It is also believed that in the fusiform face area, images of faces excite \nthe\u00a0...", 
+            "htmlSnippet": "... have many, <b>densely</b> packed (up to 500 per cubic cm) mechanoreceptors with <br>\nsmall ... This hierarchy idea has inspired the <b>deep</b> (i.e., hierarchical) neural <br>\nnetworks and ... A computer emulation of &quot;edge <b>detection</b>&quot; using retinal receptive <br>\nfields. .... It is also believed that in the fusiform <b>face</b> area, images of <b>faces</b> excite <br>\nthe&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Receptive_field", 
+            "cacheId": "Yr_Ykcnfjy4J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Parotid gland - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Parotid gland - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Parotid_gland", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Parotid_gland", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "200", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSoE2deZJK4cGeLUQvrO72DItAIT6alvku1RT1On2uREOXbhBfE2ISULNk", 
+                        "height": "232"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Illu_quiz_hn_02.jpg/250px-Illu_quiz_hn_02.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "The gland has a capsule of its own of dense connective tissue, but is also \nprovided ... process splits into the superficial lamina and a deep lamina to \nenclose the gland. ... Branches of facial nerve and parotid duct emerge through \nthis surface. .... Thus, detection of early stages of a parotid tumor is extremely \nimportant in terms\u00a0...", 
+            "htmlSnippet": "The gland has a capsule of its own of <b>dense</b> connective tissue, but is also <br>\nprovided ... process splits into the superficial lamina and a <b>deep</b> lamina to <br>\nenclose the gland. ... Branches of <b>facial</b> nerve and parotid duct emerge through <br>\nthis surface. .... Thus, <b>detection</b> of early stages of a parotid tumor is extremely <br>\nimportant in terms&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Parotid_gland", 
+            "cacheId": "3iHokvY77RwJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Dense plasma focus - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Dense</b> plasma focus - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Dense_plasma_focus", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Dense</b>_plasma_focus", 
+            "snippet": "A dense plasma focus (DPF) is a machine that produces, by electromagnetic ... A \nFilippov focus machine has a very short axial phase compared to a Mather focus. \n... particular ultra-short tomography and substance detection by neutron pulsed\u00a0...", 
+            "htmlSnippet": "A <b>dense</b> plasma focus (DPF) is a machine that produces, by electromagnetic ... A <br>\nFilippov focus machine has a very short axial <b>phase</b> compared to a Mather focus. <br>\n... particular ultra-short tomography and substance <b>detection</b> by neutron pulsed&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Dense_plasma_focus", 
+            "cacheId": "E0VCsHuHnt0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Deep sea communities - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Deep</b> sea communities - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Deep_sea_communities", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Deep</b>_sea_communities", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSlI3Ez0HXAfvCxmVVV21UCdH9Vepykw1fI17yTHOqhn__I39GxoKJQgvA", 
+                        "height": "228"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Asterechinus_elegans_-_journal.pone.0053590.g003-f.png/220px-Asterechinus_elegans_-_journal.pone.0053590.g003-f.png"
+                    }
+                ]
+            }, 
+            "snippet": "The three main sources of energy and nutrients for deep sea communities ... Two \nscientists, J. Corliss and J. van Andel, first witnessed dense chemosynthetic clam \nbeds ... The sonar system uses phase and amplitude bottom detection, with an\u00a0...", 
+            "htmlSnippet": "The three main sources of energy and nutrients for <b>deep</b> sea communities ... Two <br>\nscientists, J. Corliss and J. van Andel, first witnessed <b>dense</b> chemosynthetic clam <br>\nbeds ... The sonar system uses <b>phase</b> and amplitude bottom <b>detection</b>, with an&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Deep_sea_communities", 
+            "cacheId": "kCHITc43ntcJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Atmosphere of Jupiter - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Atmosphere of Jupiter - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Atmosphere_of_Jupiter", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Atmosphere_of_Jupiter", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "229", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcZyTWvCVH6m2PZptbv4Lxd0rDz9FR9sdJ5oUFrXa82hnB_CRpFKYPWKM", 
+                        "height": "220"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Jupiter_Belt_System.svg/300px-Jupiter_Belt_System.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "In the deep model, the bands and jets are just surface manifestations of deep ... \nupward motion of the air, which leads to the formation of bright and dense clouds. \n...... first detection of either in Jupiter, and only the second detection of S2 in any\u00a0...", 
+            "htmlSnippet": "In the <b>deep</b> model, the bands and jets are just surface manifestations of <b>deep</b> ... <br>\nupward motion of the air, which leads to the formation of bright and <b>dense</b> clouds. <br>\n...... first <b>detection</b> of either in Jupiter, and only the second <b>detection</b> of S2 in any&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Atmosphere_of_Jupiter", 
+            "cacheId": "vLnrs_am-2AJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Atmosphere of Venus - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Atmosphere of Venus - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Atmosphere_of_Venus", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Atmosphere_of_Venus", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "160", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRounRNAtnwsAw5WslTJj1i1iS6eolQBL6A8uuXYerCvUCBLkAKlQ6PcWxR", 
+                        "height": "172"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Venuspioneeruv.jpg/200px-Venuspioneeruv.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "It is composed primarily of carbon dioxide and is much denser and hotter than \nthat of Earth. ..... False colour near infrared (2.3 \u03bcm) image of the deep \natmosphere of Venus obtained by ..... Venus transits the face of the Sun on June \n8, 2004, providing valuable ..... \"First Detection Made of an Extrasolar Planet's \nAtmosphere\".", 
+            "htmlSnippet": "It is composed primarily of carbon dioxide and is much <b>denser</b> and hotter than <br>\nthat of Earth. ..... False colour near infrared (2.3 \u03bcm) image of the <b>deep</b> <br>\natmosphere of Venus obtained by ..... Venus transits the <b>face</b> of the Sun on June <br>\n8, 2004, providing valuable ..... &quot;First <b>Detection</b> Made of an Extrasolar Planet&#39;s <br>\nAtmosphere&quot;.", 
+            "link": "https://en.wikipedia.org/wiki/Atmosphere_of_Venus", 
+            "cacheId": "qNEyjCeQoH0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Autoencoder - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Autoencoder - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Autoencoder", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Autoencoder", 
+            "snippet": "Anomaly detection ... They are the precursor to Deep belief networks. ... \ndeveloped by Geoffrey Hinton for training many-layered \"deep\" auto-encoders \ninvolves\u00a0...", 
+            "htmlSnippet": "Anomaly <b>detection</b> ... They are the precursor to <b>Deep</b> belief networks. ... <br>\ndeveloped by Geoffrey Hinton for training many-layered &quot;<b>deep</b>&quot; auto-encoders <br>\ninvolves&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Autoencoder", 
+            "cacheId": "u-kPIgvHJ_YJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Deep Dense Face Detector", 
+                "safe": "off", 
+                "searchTerms": "Deep Dense Face Detector", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "832"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Deep Dense Face Detector", 
+                "safe": "off", 
+                "searchTerms": "Deep Dense Face Detector", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "832"
+            }
+        ]
+    }, 
+    "spelling": {
+        "correctedQuery": "Deep Dense Face Detection", 
+        "htmlCorrectedQuery": "Deep Dense Face <b><i>Detection</i></b>"
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.31", 
+        "formattedTotalResults": "832", 
+        "totalResults": "832", 
+        "searchTime": 0.311156
+    }
+}

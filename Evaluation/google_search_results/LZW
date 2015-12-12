@@ -1,0 +1,239 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Lempel\u2013Ziv\u2013Welch - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Lempel\u2013Ziv\u2013Welch</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Lempel\u2013Ziv\u2013Welch", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Lempel\u2013Ziv\u2013Welch", 
+            "snippet": "Lempel\u2013Ziv\u2013Welch (LZW) is a universal lossless data compression algorithm \ncreated by Abraham Lempel, Jacob Ziv, and Terry Welch. It was published by\u00a0...", 
+            "htmlSnippet": "<b>Lempel\u2013Ziv\u2013Welch</b> (<b>LZW</b>) is a universal lossless data compression algorithm <br>\ncreated by Abraham Lempel, Jacob Ziv, and Terry Welch. It was published by&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Lempel%E2%80%93Ziv%E2%80%93Welch", 
+            "cacheId": "1H3oRmaIwNcJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "GIF - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "GIF - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/GIF", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/GIF", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "160", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ9DxDNOiUKKZaf4zcYSdBjaK9GQ4FCA70X28qrto8GmsKkF3d7IVIQfG_9", 
+                        "height": "160"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Rotating_earth_(large).gif/200px-Rotating_earth_(large).gif"
+                    }
+                ]
+            }, 
+            "snippet": "GIF images are compressed using the Lempel-Ziv-Welch (LZW) lossless data \ncompression technique to reduce the file size without degrading the visual quality\n.", 
+            "htmlSnippet": "GIF images are compressed using the Lempel-Ziv-Welch (<b>LZW</b>) lossless data <br>\ncompression technique to reduce the file size without degrading the visual quality<br>\n.", 
+            "link": "https://en.wikipedia.org/wiki/GIF", 
+            "cacheId": "JvN2FGVjcWYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "compress - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "compress - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Compress", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Compress", 
+            "snippet": "Compress is a Unix shell compression program based on the LZW compression \nalgorithm. Compared to more modern compression utilities such as gzip and\u00a0...", 
+            "htmlSnippet": "Compress is a Unix shell compression program based on the <b>LZW</b> compression <br>\nalgorithm. Compared to more modern compression utilities such as gzip and&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Compress", 
+            "cacheId": "WnVAo8c3eqsJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Terry Welch - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Terry Welch - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Terry_Welch", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Terry_Welch", 
+            "pagemap": {
+                "hcard": [
+                    {
+                        "fn": "Terry Welch"
+                    }
+                ]
+            }, 
+            "snippet": "Along with Abraham Lempel and Jacob Ziv, he developed the lossless Lempel\u2013\nZiv\u2013Welch (LZW) compression algorithm, which was published in 1984.", 
+            "htmlSnippet": "Along with Abraham Lempel and Jacob Ziv, he developed the lossless Lempel\u2013<br>\nZiv\u2013Welch (<b>LZW</b>) compression algorithm, which was published in 1984.", 
+            "link": "https://en.wikipedia.org/wiki/Terry_Welch", 
+            "cacheId": "MrQH6e9syloJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Wuling Dragon - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Wuling Dragon - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Wuling_Dragon", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Wuling_Dragon", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "224", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRaCGlUxzeYXsKQU4lVN5kLk2DlpwdFAIFtjpg1x64ddjGwSvokW-aG01L", 
+                        "height": "198"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Marathon_Mini_Truck_--_12-26-2009.jpg/280px-Marathon_Mini_Truck_--_12-26-2009.jpg"
+                    }
+                ], 
+                "hproduct": [
+                    {
+                        "fn": "Wuling Dragon"
+                    }
+                ]
+            }, 
+            "snippet": "Wuling Dragon. Marathon Mini Truck -- 12-26-2009.jpg. Overview. Manufacturer, \nSAIC-GM-Wuling Automobile. Also called, Wuling LZW 1010, 1020, 6320, 6330\u00a0...", 
+            "htmlSnippet": "Wuling Dragon. Marathon Mini Truck -- 12-26-2009.jpg. Overview. Manufacturer, <br>\nSAIC-GM-Wuling Automobile. Also called, Wuling <b>LZW</b> 1010, 1020, 6320, 6330&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Wuling_Dragon", 
+            "cacheId": "kNoLnAcu4xsJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Compressed pattern matching - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Compressed pattern matching - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Compressed_pattern_matching", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Compressed_pattern_matching", 
+            "snippet": "\"Speeding Up String Pattern Matching by Text Compression: The Dawn of a New \nEra\" (PDF). \"Shift-and approach to pattern matching in LZW compressed text\".", 
+            "htmlSnippet": "&quot;Speeding Up String Pattern Matching by Text Compression: The Dawn of a New <br>\nEra&quot; (PDF). &quot;Shift-and approach to pattern matching in <b>LZW</b> compressed text&quot;.", 
+            "link": "https://en.wikipedia.org/wiki/Compressed_pattern_matching", 
+            "cacheId": "ZdCiqVMe6uUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Wuling Hongtu - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Wuling Hongtu - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Wuling_Hongtu", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Wuling_Hongtu", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "224", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSgFbq_XPmdTsp6ry9MPj_YceHAt74rdPdowt7SjQXYJQ_fWHDjFscE6yos", 
+                        "height": "217"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Wuling_LZW6381C3_fv.jpg/280px-Wuling_LZW6381C3_fv.jpg"
+                    }
+                ], 
+                "hproduct": [
+                    {
+                        "fn": "Wuling Hongtu"
+                    }
+                ]
+            }, 
+            "snippet": "The LZW 6381B3 Hongtu is equipped with Wuling's own B-series four cylinder \nengine of 1.2 litres displacement (engine code LAQ). Its 86 PS (63 kW) at 6,000\u00a0...", 
+            "htmlSnippet": "The <b>LZW</b> 6381B3 Hongtu is equipped with Wuling&#39;s own B-series four cylinder <br>\nengine of 1.2 litres displacement (engine code LAQ). Its 86 PS (63 kW) at 6,000&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Wuling_Hongtu", 
+            "cacheId": "skhQvL3Wxe8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Tagged Image File Format - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Tagged Image File Format - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Tagged_Image_File_Format", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Tagged_Image_File_Format", 
+            "snippet": "TIFF offers the option of using LZW compression, a lossless data-compression \ntechnique for reducing a file's size. Use of this option was limited by patents on\u00a0...", 
+            "htmlSnippet": "TIFF offers the option of using <b>LZW</b> compression, a lossless data-compression <br>\ntechnique for reducing a file&#39;s size. Use of this option was limited by patents on&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Tagged_Image_File_Format", 
+            "cacheId": "CiIT-0HpwZwJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "LZ77 and LZ78 - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "LZ77 and LZ78 - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/LZ77_and_LZ78", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/LZ77_and_LZ78", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwTfLVs7JUVoIEMoclP9bNJPSRkBFbH5oCFtSwubl6bqES-b6SAIAT-jg", 
+                        "height": "132"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/LempelZivSign.jpg/220px-LempelZivSign.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "These two algorithms form the basis for many variations including LZW, LZSS, \nLZMA and others. Besides their academic influence, these algorithms formed the\n\u00a0...", 
+            "htmlSnippet": "These two algorithms form the basis for many variations including <b>LZW</b>, LZSS, <br>\nLZMA and others. Besides their academic influence, these algorithms formed the<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/LZ77_and_LZ78", 
+            "cacheId": "6RB0ELddPqoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Lossless compression - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Lossless compression - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Lossless_compression", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Lossless_compression", 
+            "snippet": "Many of these methods are implemented in open-source and proprietary tools, \nparticularly LZW and its variants. Some algorithms are patented in the United\u00a0...", 
+            "htmlSnippet": "Many of these methods are implemented in open-source and proprietary tools, <br>\nparticularly <b>LZW</b> and its variants. Some algorithms are patented in the United&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Lossless_compression", 
+            "cacheId": "cNRQ7y7ro2gJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - LZW", 
+                "safe": "off", 
+                "searchTerms": "LZW", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "13500"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - LZW", 
+                "safe": "off", 
+                "searchTerms": "LZW", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "13500"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.26", 
+        "formattedTotalResults": "13,500", 
+        "totalResults": "13500", 
+        "searchTime": 0.264388
+    }
+}

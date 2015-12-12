@@ -1,0 +1,175 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Prediction by partial matching - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Prediction by partial matching</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Prediction_by_partial_matching", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Prediction_by_partial</b>_<b>matching</b>", 
+            "snippet": "Prediction by partial matching (PPM) is an adaptive statistical data compression \ntechnique based on context modeling and prediction. PPM models use a set of\u00a0...", 
+            "htmlSnippet": "<b>Prediction by partial matching</b> (<b>PPM</b>) is an adaptive statistical data compression <br>\ntechnique based on context modeling and prediction. <b>PPM</b> models use a set of&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Prediction_by_partial_matching", 
+            "cacheId": "wys1p6zLVrwJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Prediction by partial matching - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Prediction by partial matching</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/.../Talk%3APrediction_by_partial_matching", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Talk%3A<b>Prediction_by_partial</b>_<b>matching</b>", 
+            "snippet": "Some PPM algorithms have the useful property of being able to interpret any \ncollection of bytes as valid compressed input. An algorithm with this property is \nsaid\u00a0...", 
+            "htmlSnippet": "Some <b>PPM</b> algorithms have the useful property of being able to interpret any <br>\ncollection of bytes as valid compressed input. An algorithm with this property is <br>\nsaid&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3APrediction_by_partial_matching", 
+            "cacheId": "E6Or0eDcC8AJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "PAQ - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "PAQ - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/PAQ", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/PAQ", 
+            "snippet": "Context mixing is related to Prediction by Partial Matching (PPM) in that the \ncompressor is divided into a predictor and an arithmetic coder, but differs in that \nthe\u00a0...", 
+            "htmlSnippet": "Context mixing is related to <b>Prediction by Partial Matching</b> (<b>PPM</b>) in that the <br>\ncompressor is divided into a predictor and an arithmetic coder, but differs in that <br>\nthe&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/PAQ", 
+            "cacheId": "ZxXtPnLh5aMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Dynamic Markov compression - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Dynamic Markov compression - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Dynamic_Markov_compression", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Dynamic_Markov_compression", 
+            "snippet": "It uses predictive arithmetic coding similar to prediction by partial matching (PPM)\n, except that the input is predicted one bit at a time (rather than one byte at a\u00a0...", 
+            "htmlSnippet": "It uses predictive arithmetic coding similar to <b>prediction by partial matching</b> (<b>PPM</b>)<br>\n, except that the input is predicted one bit at a time (rather than one byte at a&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Dynamic_Markov_compression", 
+            "cacheId": "uBgpu6mofr8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "PPM - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>PPM</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/PPM", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>PPM</b>", 
+            "snippet": "Look up ppm in Wiktionary, the free dictionary. ... a graphics file format, see \nNetpbm format \u00b7 Prediction by partial matching, an algorithm for data \ncompression\u00a0...", 
+            "htmlSnippet": "Look up <b>ppm</b> in Wiktionary, the free dictionary. ... a graphics file format, see <br>\nNetpbm format &middot; <b>Prediction by partial matching</b>, an algorithm for data <br>\ncompression&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/PPM", 
+            "cacheId": "pKbbEt5YzocJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "7z - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "7z - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/7z", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/7z", 
+            "snippet": "... 2002 PPMdH (PPMII/cPPMII) with small changes: PPMII is an improved version \nof the 1984 PPM compression algorithm (prediction by partial matching).", 
+            "htmlSnippet": "... 2002 PPMdH (PPMII/cPPMII) with small changes: PPMII is an improved version <br>\nof the 1984 <b>PPM</b> compression algorithm (<b>prediction by partial matching</b>).", 
+            "link": "https://en.wikipedia.org/wiki/7z", 
+            "cacheId": "wPqeUSMNokcJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "RAR (file format) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "RAR (file format) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/RAR_(file_format)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/RAR_(file_format)", 
+            "snippet": "Version 3 of RAR is based on Lempel-Ziv (LZSS) and prediction by partial \nmatching (PPM) compression, specifically the PPMd implementation of PPMII by\n\u00a0...", 
+            "htmlSnippet": "Version 3 of RAR is based on Lempel-Ziv (LZSS) and <b>prediction by partial</b> <br>\n<b>matching</b> (<b>PPM</b>) compression, specifically the PPMd implementation of PPMII by<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/RAR_(file_format)", 
+            "cacheId": "xtkHOrAWvP8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "John G. Cleary - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "John G. Cleary - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/John_G._Cleary", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/John_G._Cleary", 
+            "snippet": "... machine learning, and logic programming. In particular, he independently \ndiscovered arithmetic coding and invented the prediction by partial matching (\nPPM)\u00a0...", 
+            "htmlSnippet": "... machine learning, and logic programming. In particular, he independently <br>\ndiscovered arithmetic coding and invented the <b>prediction by partial matching</b> (<br>\n<b>PPM</b>)&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/John_G._Cleary", 
+            "cacheId": "PxtkwnU2dWsJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Kevin Nanney - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Kevin Nanney - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Kevin_Nanney", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Kevin_Nanney", 
+            "pagemap": {
+                "hcard": [
+                    {
+                        "bday": "1990-09-25", 
+                        "nickname": "PPMD", 
+                        "fn": "PPMD"
+                    }
+                ]
+            }, 
+            "snippet": "Jump to: navigation, search. For adaptive statistical data compression technique \nbased on context modeling and prediction, see Prediction by partial matching.", 
+            "htmlSnippet": "Jump to: navigation, search. For adaptive statistical data compression technique <br>\nbased on context modeling and prediction, see <b>Prediction by partial matching</b>.", 
+            "link": "https://en.wikipedia.org/wiki/Kevin_Nanney", 
+            "cacheId": "gF2FsNIxP4wJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "List of algorithms - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "List of algorithms - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Graph_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Graph_algorithm", 
+            "snippet": "1.3.1 Approximate sequence matching; 1.3.2 Sequence search; 1.3.3 Sequence \n...... of strings; Prediction by partial matching (PPM): an adaptive statistical data\u00a0...", 
+            "htmlSnippet": "1.3.1 Approximate sequence matching; 1.3.2 Sequence search; 1.3.3 Sequence <br>\n...... of strings; <b>Prediction by partial matching</b> (<b>PPM</b>): an adaptive statistical data&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Graph_algorithm", 
+            "cacheId": "5_17Y3LZhAoJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - PPM (Prediction by Partial Matching)", 
+                "safe": "off", 
+                "searchTerms": "PPM (Prediction by Partial Matching)", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "28"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - PPM (Prediction by Partial Matching)", 
+                "safe": "off", 
+                "searchTerms": "PPM (Prediction by Partial Matching)", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "28"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.26", 
+        "formattedTotalResults": "28", 
+        "totalResults": "28", 
+        "searchTime": 0.263709
+    }
+}

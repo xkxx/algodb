@@ -1,0 +1,236 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Tournament selection - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Tournament selection</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Tournament_selection", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Tournament</b>_<b>selection</b>", 
+            "snippet": "Tournament selection is a method of selecting an individual from a population of \nindividuals in a genetic algorithm. Tournament selection involves running\u00a0...", 
+            "htmlSnippet": "<b>Tournament selection</b> is a method of selecting an individual from a population of <br>\nindividuals in a genetic algorithm. <b>Tournament selection</b> involves running&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Tournament_selection", 
+            "cacheId": "559IAwUijHgJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "NCAA basketball tournament selection process - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "NCAA basketball <b>tournament selection</b> process - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../NCAA_basketball_tournament_selection_process", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../NCAA_basketball_<b>tournament</b>_<b>selection</b>_process", 
+            "snippet": "The remaining teams (36 men's, 32 women's) rely on the selection committee to \naward them an at-large bid in the tournament. The selection process primarily\u00a0...", 
+            "htmlSnippet": "The remaining teams (36 men&#39;s, 32 women&#39;s) rely on the <b>selection</b> committee to <br>\naward them an at-large bid in the <b>tournament</b>. The <b>selection</b> process primarily&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/NCAA_basketball_tournament_selection_process", 
+            "cacheId": "eYbyAifaUhkJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Fitness proportionate selection - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Fitness proportionate <b>selection</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Fitness_proportionate_selection", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Fitness_proportionate_<b>selection</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "216", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQFriSC0IGzsJHb_azdXtr0_fVk6nsdW8246sFOCGRNHx1gS55uaWRPVaQ", 
+                        "height": "68"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Fitness_proportionate_selection_example.png/270px-Fitness_proportionate_selection_example.png"
+                    }
+                ]
+            }, 
+            "snippet": "Other selection techniques, such as stochastic universal sampling or tournament \nselection, are often used in practice. This is because they have less stochastic\u00a0...", 
+            "htmlSnippet": "Other selection techniques, such as stochastic universal sampling or <b>tournament</b> <br>\n<b>selection</b>, are often used in practice. This is because they have less stochastic&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Fitness_proportionate_selection", 
+            "cacheId": "CinUVh_JAjMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "National Invitation Tournament - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "National Invitation <b>Tournament</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/National_Invitation_Tournament", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/National_Invitation_<b>Tournament</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "160", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQcqHyxgUyFjCEdVXbjd_EoICxbG8Vs07WlmgssZi4Swy3Z3qU7IRpDNBs", 
+                        "height": "132"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/2/24/National_Invitation_Tournament.svg/200px-National_Invitation_Tournament.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "[edit]. In the past, NIT teams were selected in consultation with ESPN, the \ntelevision home of the NIT. The goal of the NIT was\u00a0...", 
+            "htmlSnippet": "[edit]. In the past, NIT teams were selected in consultation with ESPN, the <br>\ntelevision home of the NIT. The goal of the NIT was&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/National_Invitation_Tournament", 
+            "cacheId": "Z3D4oMpAOUAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "2016 NCAA Men's Division I Basketball Tournament - Wikipedia, the ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "2016 NCAA Men&#39;s Division I Basketball <b>Tournament</b> - Wikipedia, the <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../2016_NCAA_Men's_Division_I_Basketball_ Tournament", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../2016_NCAA_Men&#39;s_Division_I_Basketball_ <b>Tournament</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "140", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzUJkoAUSo_JM6sqkDGsQUDSWAJ_gm1e4HCCraLlgndYHNBXpaI4Td6Zw", 
+                        "height": "114"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/2/23/2016_Final_Four_Logo.png/175px-2016_Final_Four_Logo.png"
+                    }
+                ]
+            }, 
+            "snippet": "The 2016 NCAA Men's Division I Basketball Tournament will involve 68 teams \nplaying in a ... The Selection Committee will also seed the entire field from 1 to 68\n.", 
+            "htmlSnippet": "The 2016 NCAA Men&#39;s Division I Basketball <b>Tournament</b> will involve 68 teams <br>\nplaying in a ... The <b>Selection</b> Committee will also seed the entire field from 1 to 68<br>\n.", 
+            "link": "https://en.wikipedia.org/wiki/2016_NCAA_Men's_Division_I_Basketball_Tournament", 
+            "cacheId": "xm2GKslFcoIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Reward-based selection - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Reward-based <b>selection</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Reward-based_selection", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Reward-based_<b>selection</b>", 
+            "snippet": "Reward-based selection is a technique used in evolutionary algorithms for ... \nFitness proportionate selection \u00b7 Tournament selection \u00b7 Stochastic universal\u00a0...", 
+            "htmlSnippet": "Reward-based selection is a technique used in evolutionary algorithms for ... <br>\nFitness proportionate selection &middot; <b>Tournament selection</b> &middot; Stochastic universal&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Reward-based_selection", 
+            "cacheId": "Y-6kPmZSFgYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Selection (genetic algorithm) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Selection</b> (genetic algorithm) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Selection_(genetic_algorithm)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Selection</b>_(genetic_algorithm)", 
+            "snippet": "Selection is the stage of a genetic algorithm in which individual genomes are \nchosen ... the best individual of a randomly chosen subset is tournament \nselection.", 
+            "htmlSnippet": "Selection is the stage of a genetic algorithm in which individual genomes are <br>\nchosen ... the best individual of a randomly chosen subset is <b>tournament</b> <br>\n<b>selection</b>.", 
+            "link": "https://en.wikipedia.org/wiki/Selection_(genetic_algorithm)", 
+            "cacheId": "4zoVr716WioJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Crossover (genetic algorithm) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Crossover (genetic algorithm) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Crossover_(genetic_algorithm)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Crossover_(genetic_algorithm)", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "184", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSk_FnViYDO4BMjkj7kNNVrZoyBSZnnnVPEKa8y4UYBZtAXc-xujsDFNg", 
+                        "height": "80"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/OnePointCrossover.svg/231px-OnePointCrossover.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "Methods of selection of chromosomes for crossover[edit] ... Boltzmann selection; \nTournament selection; Rank selection; Steady state selection; Truncation\u00a0...", 
+            "htmlSnippet": "Methods of selection of chromosomes for crossover[edit] ... Boltzmann selection; <br>\n<b>Tournament selection</b>; Rank selection; Steady state selection; Truncation&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Crossover_(genetic_algorithm)", 
+            "cacheId": "dXeC7HNKlosJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Tournament sort - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Tournament</b> sort - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Tournament_sort", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Tournament</b>_sort", 
+            "snippet": "Tournament sort is a sorting algorithm. It improves upon the naive selection sort \nby using a priority queue to find the next element in the sort. In the naive\u00a0...", 
+            "htmlSnippet": "<b>Tournament</b> sort is a sorting algorithm. It improves upon the naive <b>selection</b> sort <br>\nby using a priority queue to find the next element in the sort. In the naive&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Tournament_sort", 
+            "cacheId": "pb3YqnOiFmEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "2015 NCAA Men's Division I Basketball Tournament - Wikipedia, the ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "2015 NCAA Men&#39;s Division I Basketball <b>Tournament</b> - Wikipedia, the <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../2015_NCAA_Men's_Division_I_Basketball_ Tournament", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../2015_NCAA_Men&#39;s_Division_I_Basketball_ <b>Tournament</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSZ4gDwnbSNz0OHDdk1uSEdqWhq2CeP5D1PjbEtG2Ir1WGW5fV8PYPFFIM", 
+                        "height": "112"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/2015FinalFourLogo.png/220px-2015FinalFourLogo.png"
+                    }
+                ]
+            }, 
+            "snippet": "[edit]. The 2015 bracket displayed on the JW Marriott Indianapolis. For more \ndetails on this topic, see NCAA\u00a0...", 
+            "htmlSnippet": "[edit]. The 2015 bracket displayed on the JW Marriott Indianapolis. For more <br>\ndetails on this topic, see NCAA&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/2015_NCAA_Men's_Division_I_Basketball_Tournament", 
+            "cacheId": "d6tgoveBxZ4J"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Tournament selection", 
+                "safe": "off", 
+                "searchTerms": "Tournament selection", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "125000"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Tournament selection", 
+                "safe": "off", 
+                "searchTerms": "Tournament selection", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "125000"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.38", 
+        "formattedTotalResults": "125,000", 
+        "totalResults": "125000", 
+        "searchTime": 0.379992
+    }
+}

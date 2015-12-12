@@ -1,0 +1,225 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Epitome - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Epitome</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Epitome", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Epitome</b>", 
+            "snippet": "An epitome is a summary or miniature form; an instance that represents a larger \nreality, also used as a synonym for embodiment. Epitomacy represents, \"to the\u00a0...", 
+            "htmlSnippet": "An <b>epitome</b> is a summary or miniature form; an instance that represents a larger <br>\nreality, also used as a synonym for embodiment. Epitomacy represents, &quot;to the&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Epitome", 
+            "cacheId": "uD3xSF6O3gMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Epitome Astronomiae Copernicanae - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Epitome</b> Astronomiae Copernicanae - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Epitome_Astronomiae_Copernicanae", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Epitome</b>_Astronomiae_Copernicanae", 
+            "snippet": "The Epitome Astronomiae Copernicanae was an influential astronomy book on \nthe heliocentric system published by Johannes Kepler in the period 1617 to\u00a0...", 
+            "htmlSnippet": "The <b>Epitome</b> Astronomiae Copernicanae was an influential astronomy book on <br>\nthe heliocentric system published by Johannes Kepler in the period 1617 to&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Epitome_Astronomiae_Copernicanae", 
+            "cacheId": "iisDfvuH1isJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Epitome (disambiguation) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Epitome</b> (disambiguation) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Epitome_(disambiguation)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Epitome</b>_(disambiguation)", 
+            "snippet": "An epitome is a summary or miniature form of a text. The word is also commonly \nused to label something or someone considered to be a prime or the best\u00a0...", 
+            "htmlSnippet": "An <b>epitome</b> is a summary or miniature form of a text. The word is also commonly <br>\nused to label something or someone considered to be a prime or the best&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Epitome_(disambiguation)", 
+            "cacheId": "70dwRuT_90MJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Epitome Pictures - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Epitome</b> Pictures - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Epitome_Pictures", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Epitome</b>_Pictures", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "182", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSQhj-Lmy4gn878guHBlki-vi3-dKm612Sy8DG6XZC59YJc1v8pEsJTpmgN", 
+                        "height": "134"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/1/17/EpitomePicturesLogo.jpg"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "category": "Movie and Television Production Company", 
+                        "fn": "Epitome Pictures", 
+                        "label": "220 Bartley Drive, Toronto, Ontario, Canada"
+                    }
+                ]
+            }, 
+            "snippet": "Epitome produced two television drama series aimed primarily at the youth and \nyoung-adult market (which was the first DHX Media not to be aimed primarily at\u00a0...", 
+            "htmlSnippet": "<b>Epitome</b> produced two television drama series aimed primarily at the youth and <br>\nyoung-adult market (which was the first DHX Media not to be aimed primarily at&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Epitome_Pictures", 
+            "cacheId": "5BPBbF9ip2IJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Epitome of Torture - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Epitome</b> of Torture - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Epitome_of_Torture", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Epitome</b>_of_Torture", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRruXv8mZufw0ef-W2JPEMB0MtvZZXC-uyayl-tQB19n1w1Sva0MHN_C59H", 
+                        "height": "176"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Sodom_-_Epitome_of_Torture.jpg/220px-Sodom_-_Epitome_of_Torture.jpg"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "fn": "Sodom"
+                    }
+                ]
+            }, 
+            "snippet": "No. Title, Length. 1. \"My Final Bullet\", 4:39. 2. \"S.O.D.O.M.\", 3:46. 3. \"Epitome of \nTorture\", 3:31. 4. \"Stigmatized\", 2:56. 5. \"Cannibal\", 4:19. 6. \"Shoot Today - Kill\u00a0...", 
+            "htmlSnippet": "No. Title, Length. 1. &quot;My Final Bullet&quot;, 4:39. 2. &quot;S.O.D.O.M.&quot;, 3:46. 3. &quot;<b>Epitome</b> of <br>\nTorture&quot;, 3:31. 4. &quot;Stigmatized&quot;, 2:56. 5. &quot;Cannibal&quot;, 4:19. 6. &quot;Shoot Today - Kill&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Epitome_of_Torture", 
+            "cacheId": "53dB6-FisqoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Epitome de Caesaribus - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Epitome</b> de Caesaribus - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Epitome_de_Caesaribus", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Epitome</b>_de_Caesaribus", 
+            "snippet": "From Wikipedia, the free encyclopedia. Jump to: navigation, search. The Epitome \nde Caesaribus is a Latin historical work written at the end of the 4th century.", 
+            "htmlSnippet": "From Wikipedia, the free encyclopedia. Jump to: navigation, search. The <b>Epitome</b> <br>\nde Caesaribus is a Latin historical work written at the end of the 4th century.", 
+            "link": "https://en.wikipedia.org/wiki/Epitome_de_Caesaribus", 
+            "cacheId": "BPajtVjVfyUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Metz Epitome - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Metz <b>Epitome</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Metz_Epitome", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Metz_<b>Epitome</b>", 
+            "snippet": "The Metz Epitome is a late antiquity summary of earlier historical fragments and \ncovers the conquests of Alexander the great between Hyrcania and southern\u00a0...", 
+            "htmlSnippet": "The Metz <b>Epitome</b> is a late antiquity summary of earlier historical fragments and <br>\ncovers the conquests of Alexander the great between Hyrcania and southern&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Metz_Epitome", 
+            "cacheId": "LpbELgihdygJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Epitome (data processing) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Epitome</b> (data processing) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Epitome_(data_processing)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Epitome</b>_(data_processing)", 
+            "snippet": "An epitome, in data processing, is a condensed digital representation of the \nessential statistical properties of ordered datasets such as matrices that represent\n\u00a0...", 
+            "htmlSnippet": "An <b>epitome</b>, in data processing, is a condensed digital representation of the <br>\nessential statistical properties of ordered datasets such as matrices that represent<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Epitome_(data_processing)", 
+            "cacheId": "0_WRmu4AguYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Epitome (horse) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Epitome</b> (horse) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Epitome_(horse)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Epitome</b>_(horse)", 
+            "snippet": "Epitome (April 21, 1985 \u2013 November 12, 2004) was an American Thoroughbred \nracehorse and broodmare. After losing five of her first six races she recorded her\n\u00a0...", 
+            "htmlSnippet": "<b>Epitome</b> (April 21, 1985 \u2013 November 12, 2004) was an American Thoroughbred <br>\nracehorse and broodmare. After losing five of her first six races she recorded her<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Epitome_(horse)", 
+            "cacheId": "FEa2Gsd_xFkJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Epitome of Illusions - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Epitome</b> of Illusions - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Epitome_of_Illusions", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Epitome</b>_of_Illusions", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ7xIyIBN46C99-ttIb57nrkTEjxv_UMTpmgv-vd_wsZMoTBwizTyFN-4", 
+                        "height": "174"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b6/Epitome_of_illusions.jpg/220px-Epitome_of_illusions.jpg"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "fn": "Limbonic Art"
+                    }
+                ]
+            }, 
+            "snippet": "Epitome of Illusions is the third studio album by the Norwegian symphonic black \nmetal band Limbonic Art released in 1998 on Nocturnal Art Productions.", 
+            "htmlSnippet": "<b>Epitome</b> of Illusions is the third studio album by the Norwegian symphonic black <br>\nmetal band Limbonic Art released in 1998 on Nocturnal Art Productions.", 
+            "link": "https://en.wikipedia.org/wiki/Epitome_of_Illusions", 
+            "cacheId": "y9GQNPzSTxsJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Epitome", 
+                "safe": "off", 
+                "searchTerms": "Epitome", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "77800"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Epitome", 
+                "safe": "off", 
+                "searchTerms": "Epitome", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "77800"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.35", 
+        "formattedTotalResults": "77,800", 
+        "totalResults": "77800", 
+        "searchTime": 0.35404
+    }
+}

@@ -1,0 +1,194 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Delta encoding - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Delta encoding</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Delta_encoding", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Delta</b>_<b>encoding</b>", 
+            "snippet": "Delta encoding is a way of storing or transmitting data in the form of differences (\ndeltas) between sequential data rather than complete files; more generally this\u00a0...", 
+            "htmlSnippet": "<b>Delta encoding</b> is a way of storing or transmitting data in the form of differences (<br>\ndeltas) between sequential data rather than complete files; more generally this&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Delta_encoding", 
+            "cacheId": "ogOlvQj8vzgJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Binary delta compression - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Binary <b>delta compression</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Binary_delta_compression", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Binary_<b>delta</b>_<b>compression</b>", 
+            "snippet": "Binary Delta Compression technology allows a major reduction of download size \nby only transferring the difference between the old and the new files during the\u00a0...", 
+            "htmlSnippet": "Binary <b>Delta Compression</b> technology allows a major reduction of download size <br>\nby only transferring the difference between the old and the new files during the&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Binary_delta_compression", 
+            "cacheId": "qbnVEQLiBiIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Elias delta coding - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Elias <b>delta</b> coding - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Elias_delta_coding", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Elias_<b>delta</b>_coding", 
+            "snippet": "Encoding[edit]. To code a number X\u22651: Let N=\u230alog2 X\u230b be the highest power of \n2 in X, so 2N \u2264 X < 2N+1. Let L=\u230alog2 N+1\u230b be the\u00a0...", 
+            "htmlSnippet": "<b>Encoding</b>[edit]. To code a number X\u22651: Let N=\u230alog2 X\u230b be the highest power of <br>\n2 in X, so 2<sup>N</sup> \u2264 X &lt; 2<sup>N+1</sup>. Let L=\u230alog2 N+1\u230b be the&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Elias_delta_coding", 
+            "cacheId": "6HpNPNEDs-IJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Incremental encoding - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Incremental <b>encoding</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Incremental_encoding", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Incremental_<b>encoding</b>", 
+            "snippet": "Incremental encoding, also known as front compression, back compression, or \nfront coding, is a type of delta encoding compression algorithm whereby common\n\u00a0...", 
+            "htmlSnippet": "Incremental encoding, also known as front compression, back compression, or <br>\nfront coding, is a type of <b>delta encoding</b> compression algorithm whereby common<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Incremental_encoding", 
+            "cacheId": "u2-p1DqqbFMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Delta encoding - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Delta encoding</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3ADelta_encoding", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>Delta</b>_<b>encoding</b>", 
+            "snippet": "1 C code is wrong; 2 Sample Java code; 3 Generalisation of delta encoding; 4 \nError ... Delta encoding requires solving the longest common substring problem.", 
+            "htmlSnippet": "1 C code is wrong; 2 Sample Java code; 3 Generalisation of <b>delta encoding</b>; 4 <br>\nError ... <b>Delta encoding</b> requires solving the longest common substring problem.", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3ADelta_encoding", 
+            "cacheId": "Fd4mW9vscn0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Data differencing - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Data differencing - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Data_differencing", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Data_differencing", 
+            "snippet": "Differencing of general binary files goes under the rubric of delta encoding, with a \nwidely used example being the algorithm used in rsync. A standardized\u00a0...", 
+            "htmlSnippet": "Differencing of general binary files goes under the rubric of <b>delta encoding</b>, with a <br>\nwidely used example being the algorithm used in rsync. A standardized&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Data_differencing", 
+            "cacheId": "rvDS4iConqgJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "VCDIFF - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "VCDIFF - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/VCDIFF", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/VCDIFF", 
+            "snippet": "VCDIFF is a format and an algorithm for delta encoding, described in RFC 3284. \nThe algorithm is based on Jon Bentley and Douglas McIlroy's paper \"Data\u00a0...", 
+            "htmlSnippet": "VCDIFF is a format and an algorithm for <b>delta encoding</b>, described in RFC 3284. <br>\nThe algorithm is based on Jon Bentley and Douglas McIlroy&#39;s paper &quot;Data&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/VCDIFF", 
+            "cacheId": "caPfPGWyqf4J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "xdelta - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "xdelta - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Xdelta", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/X<b>delta</b>", 
+            "snippet": "xdelta is a command line program for delta encoding, which generates two file \ndifferences. This is similar to diff and patch, but it is targeted for binary files and\u00a0...", 
+            "htmlSnippet": "xdelta is a command line program for <b>delta encoding</b>, which generates two file <br>\ndifferences. This is similar to diff and patch, but it is targeted for binary files and&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Xdelta", 
+            "cacheId": "IHcOdj9rwBQJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Delta-sigma modulation - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Delta</b>-sigma modulation - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Delta-sigma_modulation", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Delta</b>-sigma_modulation", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "267", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRphvTdWoSN1GHEpfxNiJk7AdjM6RolRQtKHCfTpaqFnxFbdNU7zNiz5V5G", 
+                        "height": "189"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Fig_1a._Effect_of_clocking_impulses.svg/500px-Fig_1a._Effect_of_clocking_impulses.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "Delta-sigma (\u0394\u03a3; or sigma-delta, \u03a3\u0394) modulation is a method for encoding analog \nsignals into digital signals as found in an ADC. It is also used to transfer\u00a0...", 
+            "htmlSnippet": "<b>Delta</b>-sigma (\u0394\u03a3; or sigma-<b>delta</b>, \u03a3\u0394) modulation is a method for <b>encoding</b> analog <br>\nsignals into digital signals as found in an ADC. It is also used to transfer&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Delta-sigma_modulation", 
+            "cacheId": "69oiqZutb4QJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "rsync - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "rsync - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Rsync", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Rsync", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "128", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-oTL7OeKrZ37IGhWUEkqyxV-wotIxjcL83RbmLGXQA0Q6p1V0xE7ziw", 
+                        "height": "62"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/1/11/Newrsynclogo.png/160px-Newrsynclogo.png"
+                    }
+                ]
+            }, 
+            "snippet": "The rsync algorithm, a type of delta encoding, is used to minimize network usage. \nZlib may be used for additional compression, and SSH or stunnel can be used\u00a0...", 
+            "htmlSnippet": "The rsync algorithm, a type of <b>delta encoding</b>, is used to minimize network usage. <br>\nZlib may be used for additional compression, and SSH or stunnel can be used&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Rsync", 
+            "cacheId": "mvO0dXxt9YYJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Delta encoding", 
+                "safe": "off", 
+                "searchTerms": "Delta encoding", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "6790"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Delta encoding", 
+                "safe": "off", 
+                "searchTerms": "Delta encoding", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "6790"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.36", 
+        "formattedTotalResults": "6,790", 
+        "totalResults": "6790", 
+        "searchTime": 0.358205
+    }
+}

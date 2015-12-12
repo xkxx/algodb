@@ -1,0 +1,250 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Needleman\u2013Wunsch algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Needleman</b>\u2013<b>Wunsch</b> algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Needleman\u2013Wunsch_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Needleman</b>\u2013<b>Wunsch</b>_algorithm", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "225", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ2ZRH80-fQkzecXR_bnl5PGrsRn6gG5gVO82vaELMLn8NEHTRWhKlpMjbb", 
+                        "height": "225"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Needleman-Wunsch_pairwise_sequence_alignment.png"
+                    }
+                ]
+            }, 
+            "snippet": "The Needleman\u2013Wunsch algorithm is an algorithm used in bioinformatics to \nalign protein or nucleotide sequences. It was one of the first applications of \ndynamic\u00a0...", 
+            "htmlSnippet": "The <b>Needleman</b>\u2013<b>Wunsch</b> algorithm is an algorithm used in bioinformatics to <br>\nalign protein or nucleotide sequences. It was one of the first applications of <br>\ndynamic&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Needleman%E2%80%93Wunsch_algorithm", 
+            "cacheId": "n2dv_mJw_wsJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Smith\u2013Waterman algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Smith\u2013Waterman algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Smith\u2013Waterman_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Smith\u2013Waterman_algorithm", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "287", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT2xwwzV9X3NCT3pU8D6kunh74KgXksN6rfNRn1uUWmFMKs1gBOJJzA_v2Y", 
+                        "height": "176"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/math/b/3/8/b388b132808e8355813763a3879db9e7.png"
+                    }
+                ]
+            }, 
+            "snippet": "Like the Needleman\u2013Wunsch algorithm, of which it is a variation, Smith\u2013\nWaterman is a dynamic programming algorithm. As such, it has the desirable \nproperty\u00a0...", 
+            "htmlSnippet": "Like the <b>Needleman</b>\u2013<b>Wunsch</b> algorithm, of which it is a variation, Smith\u2013<br>\nWaterman is a dynamic programming algorithm. As such, it has the desirable <br>\nproperty&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Smith%E2%80%93Waterman_algorithm", 
+            "cacheId": "dL3PXME4Um0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Hirschberg's algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Hirschberg&#39;s algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Hirschberg's_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Hirschberg&#39;s_algorithm", 
+            "snippet": "Hirschberg's algorithm is simply described as a divide and conquer version of the \nNeedleman\u2013Wunsch algorithm. Hirschberg's algorithm is commonly used in\u00a0...", 
+            "htmlSnippet": "Hirschberg&#39;s algorithm is simply described as a divide and conquer version of the <br>\n<b>Needleman</b>\u2013<b>Wunsch</b> algorithm. Hirschberg&#39;s algorithm is commonly used in&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Hirschberg's_algorithm", 
+            "cacheId": "HfX5VHv200oJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Needleman\u2013Wunsch algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Needleman</b>\u2013<b>Wunsch</b> algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/.../Talk%3ANeedleman-Wunsch_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Talk%3A<b>Needleman</b>-<b>Wunsch</b>_algorithm", 
+            "snippet": "If you google search Needleman-Wunsch algorithm you will find one of the top \nmatches is this: http://www.ludwig.edu.au/course/lectures2005/Likic.pdf.", 
+            "htmlSnippet": "If you google search <b>Needleman</b>-<b>Wunsch</b> algorithm you will find one of the top <br>\nmatches is this: http://www.ludwig.edu.au/course/lectures2005/Likic.pdf.", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3ANeedleman-Wunsch_algorithm", 
+            "cacheId": "6f_Hb3-dyJkJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Sequence alignment - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Sequence alignment - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Sequence_alignment", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Sequence_alignment", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "383", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ98zeLOJbiBXW2FO6pzhiVKFMvHZQt1FFyKw603HRmDFhqocL8dXk8vE0", 
+                        "height": "132"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Histone_Alignment.png/595px-Histone_Alignment.png"
+                    }
+                ]
+            }, 
+            "snippet": "A general global alignment technique is the Needleman\u2013Wunsch algorithm, \nwhich is based on dynamic programming. Local alignments are more useful for\u00a0...", 
+            "htmlSnippet": "A general global alignment technique is the <b>Needleman</b>\u2013<b>Wunsch</b> algorithm, <br>\nwhich is based on dynamic programming. Local alignments are more useful for&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Sequence_alignment", 
+            "cacheId": "HUWwEEo5BlcJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Optimal matching - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Optimal matching - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Optimal_matching", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Optimal_matching", 
+            "snippet": "... introduced to study molecular biology (protein or genetic) sequences (see \nsequence alignment). Optimal matching uses the Needleman-Wunsch algorithm.", 
+            "htmlSnippet": "... introduced to study molecular biology (protein or genetic) sequences (see <br>\nsequence alignment). Optimal matching uses the <b>Needleman</b>-<b>Wunsch</b> algorithm.", 
+            "link": "https://en.wikipedia.org/wiki/Optimal_matching", 
+            "cacheId": "EjwX41-zlvUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Gap penalty - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Gap penalty - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Gap_penalty", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Gap_penalty", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "271", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQfvYiTTnfc8EnoWUg6dtXr3Z2mpSQ_UzzY7uRsiDtJs5ndsIUR51znBOA", 
+                        "height": "169"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Sequence_gaps.JPG/339px-Sequence_gaps.JPG"
+                    }
+                ]
+            }, 
+            "snippet": "The Needleman-Wunsch algorithm is a dynamic programming technique used to \nconduct global alignment. Essentially, the algorithm divides the problem into a\u00a0...", 
+            "htmlSnippet": "The <b>Needleman</b>-<b>Wunsch</b> algorithm is a dynamic programming technique used to <br>\nconduct global alignment. Essentially, the algorithm divides the problem into a&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Gap_penalty", 
+            "cacheId": "gxoHeIiX5PUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Wagner\u2013Fischer algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Wagner\u2013Fischer algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Wagner\u2013Fischer_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Wagner\u2013Fischer_algorithm", 
+            "snippet": "Vintsyuk, 1968; Needleman and Wunsch, 1970; Sankoff, 1972; Sellers, 1974; \nWagner and Fischer, 1974; Lowrance and Wagner, 1975. A notable omission \nfrom\u00a0...", 
+            "htmlSnippet": "Vintsyuk, 1968; <b>Needleman</b> and <b>Wunsch</b>, 1970; Sankoff, 1972; Sellers, 1974; <br>\nWagner and Fischer, 1974; Lowrance and Wagner, 1975. A notable omission <br>\nfrom&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Wagner%E2%80%93Fischer_algorithm", 
+            "cacheId": "_FX6p3dOXAcJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Damerau\u2013Levenshtein distance - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Damerau\u2013Levenshtein distance - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Damerau\u2013Levenshtein_distance", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Damerau\u2013Levenshtein_distance", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "407", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNB5FWZRH1Qd8MZtvgGHnPy-2erOcdWTh0f2KHjXMKrhTjtQjB3TMpq6g", 
+                        "height": "124"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/math/4/e/9/4e9f6fb468fd977d50b773ccbafb5ff9.png"
+                    }
+                ]
+            }, 
+            "snippet": "More common in DNA, protein, and other bioinformatics related alignment tasks \nis the use of closely related algorithms such as Needleman\u2013Wunsch algorithm\u00a0...", 
+            "htmlSnippet": "More common in DNA, protein, and other bioinformatics related alignment tasks <br>\nis the use of closely related algorithms such as <b>Needleman</b>\u2013<b>Wunsch</b> algorithm&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Damerau%E2%80%93Levenshtein_distance", 
+            "cacheId": "-B_TK1y_ug0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Approximate string matching - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Approximate string matching - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Approximate_string_matching", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Approximate_string_matching", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "240", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTmVCIT7ff7y2UU9TJ-WPc3liSxY92V0E5jM6SWmtQCvYNHaCi0KcnMSg", 
+                        "height": "96"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Did_you_mean_andr%C3%A9_emotions.png/300px-Did_you_mean_andr%C3%A9_emotions.png"
+                    }
+                ]
+            }, 
+            "snippet": "String metric \u00b7 Locality-sensitive hashing \u00b7 Needleman\u2013Wunsch algorithm \u00b7 Smith\n\u2013Waterman algorithm \u00b7 Jaro\u2013Winkler distance \u00b7 Levenshtein distance \u00b7 Concept\u00a0...", 
+            "htmlSnippet": "String metric &middot; Locality-sensitive hashing &middot; <b>Needleman</b>\u2013<b>Wunsch</b> algorithm &middot; Smith<br>\n\u2013Waterman algorithm &middot; Jaro\u2013Winkler distance &middot; Levenshtein distance &middot; Concept&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Approximate_string_matching", 
+            "cacheId": "Om7bhMNPyEAJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Needleman-Wunsch", 
+                "safe": "off", 
+                "searchTerms": "Needleman-Wunsch", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "120"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Needleman-Wunsch", 
+                "safe": "off", 
+                "searchTerms": "Needleman-Wunsch", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "120"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.28", 
+        "formattedTotalResults": "120", 
+        "totalResults": "120", 
+        "searchTime": 0.282404
+    }
+}

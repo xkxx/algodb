@@ -1,0 +1,217 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Huffman coding - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Huffman coding</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Huffman_coding", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Huffman</b>_<b>coding</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRYt7j1GzJ2J4MU-pW1eHPgyVexM8gIc3kPK7SfJuMfK8y87IiEYnZx6w", 
+                        "height": "113"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Huffman_tree_2.svg/220px-Huffman_tree_2.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "In computer science and information theory, a Huffman code is a particular type \nof optimal prefix code that is commonly used for lossless data compression.", 
+            "htmlSnippet": "In computer science and information theory, a <b>Huffman code</b> is a particular type <br>\nof optimal prefix code that is commonly used for lossless data compression.", 
+            "link": "https://en.wikipedia.org/wiki/Huffman_coding", 
+            "cacheId": "09-XufA259YJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Canonical Huffman code - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Canonical <b>Huffman code</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Canonical_Huffman_code", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Canonical_<b>Huffman</b>_<b>code</b>", 
+            "snippet": "A canonical Huffman code is a particular type of Huffman code with unique \nproperties which allow it to be described in a very compact manner.", 
+            "htmlSnippet": "A canonical <b>Huffman code</b> is a particular type of <b>Huffman code</b> with unique <br>\nproperties which allow it to be described in a very compact manner.", 
+            "link": "https://en.wikipedia.org/wiki/Canonical_Huffman_code", 
+            "cacheId": "og_txegf3PEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Adaptive Huffman coding - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Adaptive <b>Huffman coding</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Adaptive_Huffman_coding", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Adaptive_<b>Huffman</b>_<b>coding</b>", 
+            "snippet": "Adaptive Huffman coding (also called Dynamic Huffman coding) is an adaptive \ncoding technique based on Huffman coding. It permits building the code as the\u00a0...", 
+            "htmlSnippet": "Adaptive <b>Huffman coding</b> (also called Dynamic <b>Huffman coding</b>) is an adaptive <br>\ncoding technique based on <b>Huffman coding</b>. It permits building the code as the&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Adaptive_Huffman_coding", 
+            "cacheId": "RtGVWwyeQ0UJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Modified Huffman coding - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Modified <b>Huffman coding</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Modified_Huffman_coding", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Modified_<b>Huffman</b>_<b>coding</b>", 
+            "snippet": "Modified Huffman coding is used in fax machines to encode black on white \nimages (bitmaps). It combines the variable length codes of Huffman coding with \nthe\u00a0...", 
+            "htmlSnippet": "Modified <b>Huffman coding</b> is used in fax machines to encode black on white <br>\nimages (bitmaps). It combines the variable length codes of <b>Huffman coding</b> with <br>\nthe&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Modified_Huffman_coding", 
+            "cacheId": "vDMt38IPODIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Prefix code - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Prefix <b>code</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Prefix_code", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Prefix_<b>code</b>", 
+            "snippet": "Although Huffman coding is just one of many algorithms for deriving prefix codes, \nprefix codes are also widely referred to as \"Huffman codes\", even when the\u00a0...", 
+            "htmlSnippet": "Although <b>Huffman coding</b> is just one of many algorithms for deriving prefix codes, <br>\nprefix codes are also widely referred to as &quot;Huffman codes&quot;, even when the&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Prefix_code", 
+            "cacheId": "_fS3RTtMcxUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Shannon\u2013Fano coding - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Shannon\u2013Fano <b>coding</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Shannon\u2013Fano_coding", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Shannon\u2013Fano_<b>coding</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "194", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTwliJfPHKQFbiJsvBQYmNU7qZ2JuiJ3qQcYuscY3h357CwZekzFeYLDE-R", 
+                        "height": "260"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/ShannonCodeAlg.svg/300px-ShannonCodeAlg.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "[edit]. Main article: Huffman coding. The Shannon\u2013Fano algorithm doesn't always \ngenerate an optimal code. In 1952, David\u00a0...", 
+            "htmlSnippet": "[edit]. Main article: <b>Huffman coding</b>. The Shannon\u2013Fano algorithm doesn&#39;t always <br>\ngenerate an optimal code. In 1952, David&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Shannon%E2%80%93Fano_coding", 
+            "cacheId": "fRYnwho0PjcJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "David A. Huffman - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "David A. <b>Huffman</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/David_A._Huffman", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/David_A._<b>Huffman</b>", 
+            "pagemap": {
+                "hcard": [
+                    {
+                        "bday": "1925-08-09", 
+                        "category": "Information theory, Coding theory", 
+                        "fn": "David A. Huffman"
+                    }
+                ]
+            }, 
+            "snippet": "David Albert Huffman (August 9, 1925 \u2013 October 7, 1999) was a pioneer in \ncomputer science, known for his Huffman coding. He was also one of the \npioneers in\u00a0...", 
+            "htmlSnippet": "David Albert Huffman (August 9, 1925 \u2013 October 7, 1999) was a pioneer in <br>\ncomputer science, known for his <b>Huffman coding</b>. He was also one of the <br>\npioneers in&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/David_A._Huffman", 
+            "cacheId": "gIrhuYua_00J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "DEFLATE - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "DEFLATE - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/DEFLATE", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/DEFLATE", 
+            "snippet": "In computing, deflate is a data compression algorithm and associated file format \nthat uses a combination of the LZ77 algorithm and Huffman coding. It was\u00a0...", 
+            "htmlSnippet": "In computing, deflate is a data compression algorithm and associated file format <br>\nthat uses a combination of the LZ77 algorithm and <b>Huffman coding</b>. It was&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/DEFLATE", 
+            "cacheId": "QHsIpql4rV4J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Huffman coding - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Huffman coding</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3AHuffman_coding", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>Huffman</b>_<b>coding</b>", 
+            "snippet": "I understood Huffman coding as explained in my first undergrad book on data \nstructures and algorithms, and reading this completely wiped out any intuition \nthat I\u00a0...", 
+            "htmlSnippet": "I understood <b>Huffman coding</b> as explained in my first undergrad book on data <br>\nstructures and algorithms, and reading this completely wiped out any intuition <br>\nthat I&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3AHuffman_coding", 
+            "cacheId": "wbHCb5DOZccJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Arithmetic coding - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Arithmetic <b>coding</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Arithmetic_coding", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Arithmetic_<b>coding</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "267", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE2FPBajuHGMkRzSgn8uymrunAVu94zjV29aTgBiczTgVRJ9d1BmyWjJM", 
+                        "height": "189"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Arithmetic_coding_example.svg/400px-Arithmetic_coding_example.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "[edit]. Main article: Huffman coding. There is great similarity between arithmetic \ncoding and Huffman coding \u2013 in fact, it has been\u00a0...", 
+            "htmlSnippet": "[edit]. Main article: <b>Huffman coding</b>. There is great similarity between arithmetic <br>\ncoding and <b>Huffman coding</b> \u2013 in fact, it has been&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Arithmetic_coding", 
+            "cacheId": "ZGLchUwARykJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Huffman coding", 
+                "safe": "off", 
+                "searchTerms": "Huffman coding", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "609"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Huffman coding", 
+                "safe": "off", 
+                "searchTerms": "Huffman coding", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "609"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.27", 
+        "formattedTotalResults": "609", 
+        "totalResults": "609", 
+        "searchTime": 0.267093
+    }
+}

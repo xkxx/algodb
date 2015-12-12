@@ -1,0 +1,222 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Differential evolution - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Differential evolution</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Differential_evolution", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Differential</b>_<b>evolution</b>", 
+            "snippet": "In evolutionary computation, differential evolution (DE) is a method that optimizes \na problem by iteratively trying to improve a candidate solution with regard to a\u00a0...", 
+            "htmlSnippet": "In evolutionary computation, <b>differential evolution</b> (<b>DE</b>) is a method that optimizes <br>\na problem by iteratively trying to improve a candidate solution with regard to a&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Differential_evolution", 
+            "cacheId": "H777-K3ueE0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Evolutionary multimodal optimization - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Evolutionary</b> multimodal optimization - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Evolutionary_multimodal_optimization", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Evolutionary</b>_multimodal_optimization", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "277", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQf2VmP1aKxdi_fP0RlURXBThipfxQ41oE6SBLLZ3NbR15cQbJ2qZhK-7s", 
+                        "height": "182"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/GA-Multi-modal.ogv/350px-seek%3D1-GA-Multi-modal.ogv.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "[edit]. The niching methods used in GAs have also been explored with success in \nthe DE community.", 
+            "htmlSnippet": "[edit]. The niching methods used in GAs have also been explored with success in <br>\nthe <b>DE</b> community.", 
+            "link": "https://en.wikipedia.org/wiki/Evolutionary_multimodal_optimization", 
+            "cacheId": "yXMAMNA6G8EJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Evolutionary algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Evolutionary</b> algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Evolutionary_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Evolutionary</b>_algorithm", 
+            "snippet": "In artificial intelligence, an evolutionary algorithm (EA) is a subset of ... Differential \nevolution - Based on vector differences and is therefore primarily suited for\u00a0...", 
+            "htmlSnippet": "In artificial intelligence, an evolutionary algorithm (EA) is a subset of ... <b>Differential</b> <br>\n<b>evolution</b> - Based on vector differences and is therefore primarily suited for&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Evolutionary_algorithm", 
+            "cacheId": "RW8OdLfhklIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Evolutionary computation - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Evolutionary</b> computation - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Evolutionary_computation", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Evolutionary</b>_computation", 
+            "snippet": "In computer science, evolutionary computation is a subfield of artificial ... Such \nprocesses are often inspired by biological mechanisms of evolution. ... \nDifferential evolution \u00b7 Dual-phase evolution \u00b7 Evolutionary algorithms ... D. E. \nGoldberg.", 
+            "htmlSnippet": "In computer science, evolutionary computation is a subfield of artificial ... Such <br>\nprocesses are often inspired by biological mechanisms of evolution. ... <br>\n<b>Differential evolution</b> &middot; Dual-phase evolution &middot; Evolutionary algorithms ... <b>D. E.</b> <br>\nGoldberg.", 
+            "link": "https://en.wikipedia.org/wiki/Evolutionary_computation", 
+            "cacheId": "7LlWGzNT4kcJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Grey wolf optimizer - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Grey wolf optimizer - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Grey_wolf_optimizer", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Grey_wolf_optimizer", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTbtjad81eWfnipb9d8c8pZ0KP77Rl_HJHt5qQQ2W7v2tNcg7Q_Lgo_zg", 
+                        "height": "59"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Wolf_pack_in_Yellowstone_NP.jpg/220px-Wolf_pack_in_Yellowstone_NP.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "Differential evolution (DE) has been integrated into GWO by Aijun to update the \nprevious best position of grey wolf Alpha, Beta and Delta, in order to force GWO\u00a0...", 
+            "htmlSnippet": "<b>Differential evolution</b> (<b>DE</b>) has been integrated into GWO by Aijun to update the <br>\nprevious best position of grey wolf Alpha, Beta and Delta, in order to force GWO&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Grey_wolf_optimizer", 
+            "cacheId": "wCiaUK_H0kwJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "DEAP (software) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "DEAP (software) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/DEAP_(software)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/DEAP_(software)", 
+            "snippet": "Original author(s), Fran\u00e7ois-Michel De Rainville, F\u00e9lix-Antoine Fortin, Marc-Andr\u00e9 \nGardner ... Distributed Evolutionary Algorithms in Python (DEAP) is an \nevolutionary ... evolution strategies, particle swarm optimization, differential \nevolution and\u00a0...", 
+            "htmlSnippet": "Original author(s), Fran\u00e7ois-Michel <b>De</b> Rainville, F\u00e9lix-Antoine Fortin, Marc-Andr\u00e9 <br>\nGardner ... Distributed Evolutionary Algorithms in Python (DEAP) is an <br>\nevolutionary ... evolution strategies, particle swarm optimization, <b>differential</b> <br>\n<b>evolution</b> and&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/DEAP_(software)", 
+            "cacheId": "YHgqhG_BVQYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Swarm intelligence - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Swarm intelligence - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Swarm_intelligence", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Swarm_intelligence", 
+            "snippet": "Differential evolution is similar to genetic algorithm and pattern search. It uses \nmultiagents or search vectors to carry out search. It has mutation and crossover,\u00a0...", 
+            "htmlSnippet": "<b>Differential evolution</b> is similar to genetic algorithm and pattern search. It uses <br>\nmultiagents or search vectors to carry out search. It has mutation and crossover,&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Swarm_intelligence", 
+            "cacheId": "fM9mJL5kp7AJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "DE - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>DE</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/DE", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>DE</b>", 
+            "snippet": "On Wikipedia, DE may refer to Wikipedia:Disruptive editing. ... an equation which \nderivatives of a function appear as variables; Differential evolution, a method of\u00a0...", 
+            "htmlSnippet": "On Wikipedia, <b>DE</b> may refer to Wikipedia:Disruptive editing. ... an equation which <br>\nderivatives of a function appear as variables; <b>Differential evolution</b>, a method of&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/DE", 
+            "cacheId": "ezWsmM6qGw4J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "CMA-ES - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "CMA-ES - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/CMA-ES", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/CMA-ES", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "276", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTM5-VT5MJjcEHFsdZicj_I5n2OM6HnnbVyE2lEW-fhK47qLRA7KYfJdXc", 
+                        "height": "183"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Concept_of_directional_optimization_in_CMA-ES_algorithm.png/400px-Concept_of_directional_optimization_in_CMA-ES_algorithm.png"
+                    }
+                ]
+            }, 
+            "snippet": "CMA-ES stands for Covariance Matrix Adaptation Evolution Strategy. ...... in the \ncase of multi-modality or large dimension, for example by differential evolution;.", 
+            "htmlSnippet": "CMA-ES stands for Covariance Matrix Adaptation Evolution Strategy. ...... in the <br>\ncase of multi-modality or large dimension, for example by <b>differential evolution</b>;.", 
+            "link": "https://en.wikipedia.org/wiki/CMA-ES", 
+            "cacheId": "Wq8ECTfCF1gJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Semelparity and iteroparity - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Semelparity and iteroparity - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Semelparity_and_iteroparity", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Semelparity_and_iteroparity", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDxwgn5pa-n20JkUIHFkLNshdbpooq-IY__wBi1Y97ifJ0K19geW7IbQ", 
+                        "height": "116"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Oncorhynchus_nerka_2.jpg/220px-Oncorhynchus_nerka_2.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "The word semelparity was coined by evolutionary biologist Lamont Cole, and ... \nthe differential evolution of semelparity and iteroparity examines the shape of the \n.... from the Nevado de Toluca Volcano, Mexico\" in The Southwestern Naturalist\u00a0...", 
+            "htmlSnippet": "The word semelparity was coined by evolutionary biologist Lamont Cole, and ... <br>\nthe <b>differential evolution</b> of semelparity and iteroparity examines the shape of the <br>\n.... from the Nevado <b>de</b> Toluca Volcano, Mexico&quot; in The Southwestern Naturalist&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Semelparity_and_iteroparity", 
+            "cacheId": "uw-bEMuTxJQJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - DE (Differential evolution)", 
+                "safe": "off", 
+                "searchTerms": "DE (Differential evolution)", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "7800"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - DE (Differential evolution)", 
+                "safe": "off", 
+                "searchTerms": "DE (Differential evolution)", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "7800"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.36", 
+        "formattedTotalResults": "7,800", 
+        "totalResults": "7800", 
+        "searchTime": 0.358273
+    }
+}

@@ -1,0 +1,236 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Adaptive Huffman coding - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Adaptive Huffman coding</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Adaptive_Huffman_coding", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Adaptive</b>_<b>Huffman</b>_<b>coding</b>", 
+            "snippet": "Adaptive Huffman coding (also called Dynamic Huffman coding) is an adaptive \ncoding technique based on Huffman coding. It permits building the code as the\u00a0...", 
+            "htmlSnippet": "<b>Adaptive Huffman coding</b> (also called Dynamic Huffman coding) is an adaptive <br>\ncoding technique based on Huffman coding. It permits building the code as the&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Adaptive_Huffman_coding", 
+            "cacheId": "RtGVWwyeQ0UJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Huffman coding - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Huffman coding</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Huffman_coding", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Huffman</b>_<b>coding</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRYt7j1GzJ2J4MU-pW1eHPgyVexM8gIc3kPK7SfJuMfK8y87IiEYnZx6w", 
+                        "height": "113"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Huffman_tree_2.svg/220px-Huffman_tree_2.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "[edit]. A variation called adaptive Huffman coding involves calculating the \nprobabilities dynamically based on recent\u00a0...", 
+            "htmlSnippet": "[edit]. A variation called <b>adaptive Huffman coding</b> involves calculating the <br>\nprobabilities dynamically based on recent&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Huffman_coding", 
+            "cacheId": "09-XufA259YJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Context-adaptive variable-length coding - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Context-<b>adaptive</b> variable-length <b>coding</b> - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../Context-adaptive_variable-length_coding", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Context-<b>adaptive</b>_variable-length_<b>coding</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "152", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTbda9DZFJNUhidcxEd-NpRF9HPpJyXpHtmHzvRnRGj3x31f7vqAkbS6_s", 
+                        "height": "112"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/4x4CAVLC.svg/191px-4x4CAVLC.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "Context-adaptive variable-length coding (CAVLC) is a form of entropy coding \nused in H.264/MPEG-4 AVC video encoding. It is an inherently lossless\u00a0...", 
+            "htmlSnippet": "Context-<b>adaptive</b> variable-length <b>coding</b> (CAVLC) is a form of entropy <b>coding</b> <br>\nused in H.264/MPEG-4 AVC video <b>encoding</b>. It is an inherently lossless&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Context-adaptive_variable-length_coding", 
+            "cacheId": "0XIgH-wS6uYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Adaptive coding - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Adaptive coding</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Adaptive_coding", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Adaptive</b>_<b>coding</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "225", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLWUBfNc9Y8UxhVh6V6RvTq81xQqpvholirfJJ1ECxNU4a4Gjf8ani20qV", 
+                        "height": "225"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e7/Damaged_N00153918.jpg/450px-Damaged_N00153918.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "Adaptive coding refers to variants of entropy encoding methods of lossless data \n... run length encoding and predefined Huffman codes do not transmit a model.", 
+            "htmlSnippet": "<b>Adaptive coding</b> refers to variants of entropy <b>encoding</b> methods of lossless data <br>\n... run length <b>encoding</b> and predefined <b>Huffman</b> codes do not transmit a model.", 
+            "link": "https://en.wikipedia.org/wiki/Adaptive_coding", 
+            "cacheId": "fCUtXmKfSQsJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Adaptive coding - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Adaptive coding</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3AAdaptive_coding", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>Adaptive</b>_<b>coding</b>", 
+            "snippet": "Any method has static variants and adaptive variants. For example, Huffman \ncoding can use a data model based on English text that is agreed upon by \nencoder\u00a0...", 
+            "htmlSnippet": "Any method has static variants and <b>adaptive</b> variants. For example, <b>Huffman</b> <br>\n<b>coding</b> can use a data model based on English text that is agreed upon by <br>\nencoder&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3AAdaptive_coding", 
+            "cacheId": "jL4dU9UkGSgJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "User:C-processor/Polar Tree - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "User:C-processor/Polar Tree - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/User:C-processor/Polar_Tree", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/User:C-processor/Polar_Tree", 
+            "snippet": "The advantage over traditional adaptive Huffman coding lies in the efficiency with \nwhich the table is updated; the fact that Polar trees can be created or updated\u00a0...", 
+            "htmlSnippet": "The advantage over traditional <b>adaptive Huffman coding</b> lies in the efficiency with <br>\nwhich the table is updated; the fact that Polar trees can be created or updated&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/User:C-processor/Polar_Tree", 
+            "cacheId": "2goGbsjIPWwJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Template:DADS - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Template:DADS - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Template:DADS", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Template:DADS", 
+            "snippet": "{{DADS|Adaptive Huffman coding|adaptiveHuffman}}. will produce the following \nmessage at the bottom of the article: Black, Paul E. \"Adaptive Huffman coding\".", 
+            "htmlSnippet": "{{DADS|<b>Adaptive Huffman coding</b>|adaptiveHuffman}}. will produce the following <br>\nmessage at the bottom of the article: Black, Paul E. &quot;<b>Adaptive Huffman coding</b>&quot;.", 
+            "link": "https://en.wikipedia.org/wiki/Template:DADS", 
+            "cacheId": "rVrR_Akp_AAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Newton Faller - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Newton Faller - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Newton_Faller", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Newton_Faller", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "153", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQfAG9rcFcaNbLBDHju8Mpabv0-3DLCfqPFTNEsKc2hMsoTzwf2zOwsfKk", 
+                        "height": "195"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/2/27/Faller1.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "He is credited with the discovery of adaptive Huffman codes while an employee \nof ... Donald E. Knuth, \"Dynamic Huffman Coding,\" Journal of Algorithms, Vol.", 
+            "htmlSnippet": "He is credited with the discovery of <b>adaptive Huffman</b> codes while an employee <br>\nof ... Donald E. Knuth, &quot;Dynamic <b>Huffman Coding</b>,&quot; Journal of Algorithms, Vol.", 
+            "link": "https://en.wikipedia.org/wiki/Newton_Faller", 
+            "cacheId": "EWQ7rPBK4wYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Arithmetic coding - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Arithmetic <b>coding</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Arithmetic_coding", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Arithmetic_<b>coding</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "267", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE2FPBajuHGMkRzSgn8uymrunAVu94zjV29aTgBiczTgVRJ9d1BmyWjJM", 
+                        "height": "189"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Arithmetic_coding_example.svg/400px-Arithmetic_coding_example.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "2 Adaptive arithmetic coding; 3 Precision and renormalization; 4 Arithmetic ..... \nFor an alphabet {a, b, c} with equal probabilities of 1/3, Huffman coding may\u00a0...", 
+            "htmlSnippet": "2 <b>Adaptive</b> arithmetic <b>coding</b>; 3 Precision and renormalization; 4 Arithmetic ..... <br>\nFor an alphabet {a, b, c} with equal probabilities of 1/3, <b>Huffman coding</b> may&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Arithmetic_coding", 
+            "cacheId": "ZGLchUwARykJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Adaptive algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Adaptive</b> algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Adaptive_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Adaptive</b>_algorithm", 
+            "snippet": "An adaptive algorithm is an algorithm that changes its behavior based on ... In \ndata compression, adaptive coding algorithms such as Adaptive Huffman coding\n\u00a0...", 
+            "htmlSnippet": "An adaptive algorithm is an algorithm that changes its behavior based on ... In <br>\ndata compression, adaptive coding algorithms such as <b>Adaptive Huffman coding</b><br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Adaptive_algorithm", 
+            "cacheId": "JFpDGidF5uwJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Adaptive Huffman coding", 
+                "safe": "off", 
+                "searchTerms": "Adaptive Huffman coding", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "245"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Adaptive Huffman coding", 
+                "safe": "off", 
+                "searchTerms": "Adaptive Huffman coding", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "245"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.27", 
+        "formattedTotalResults": "245", 
+        "totalResults": "245", 
+        "searchTime": 0.269784
+    }
+}

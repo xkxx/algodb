@@ -1,0 +1,201 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "LZ77 and LZ78 - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>LZ77 and LZ78</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/LZ77_and_LZ78", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>LZ77</b>_and_LZ78", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwTfLVs7JUVoIEMoclP9bNJPSRkBFbH5oCFtSwubl6bqES-b6SAIAT-jg", 
+                        "height": "132"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/LempelZivSign.jpg/220px-LempelZivSign.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "LZ77 and LZ78 are the two lossless data compression algorithms published in \npapers by Abraham Lempel and Jacob Ziv in 1977 and 1978. They are also\u00a0...", 
+            "htmlSnippet": "<b>LZ77 and LZ78</b> are the two lossless data compression algorithms published in <br>\npapers by Abraham Lempel and Jacob Ziv in 1977 and 1978. They are also&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/LZ77_and_LZ78", 
+            "cacheId": "6RB0ELddPqoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:LZ77 and LZ78 - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>LZ77 and LZ78</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3ALZ77_and_LZ78", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>LZ77</b>_and_LZ78", 
+            "snippet": "1 Untitled; 2 LZ78 Example; 3 Equivalence of LZ77 and LZ78; 4 \"sliding window\"; \n5 Patent contravercies; 6 This article needs some corrections; 7 preference of\u00a0...", 
+            "htmlSnippet": "1 Untitled; 2 LZ78 Example; 3 Equivalence of <b>LZ77 and LZ78</b>; 4 &quot;sliding window&quot;; <br>\n5 Patent contravercies; 6 This article needs some corrections; 7 preference of&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3ALZ77_and_LZ78", 
+            "cacheId": "w1nxCyHpJv0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Lempel\u2013Ziv\u2013Storer\u2013Szymanski - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Lempel\u2013Ziv\u2013Storer\u2013Szymanski - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Lempel\u2013Ziv\u2013Storer\u2013Szymanski", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Lempel\u2013Ziv\u2013Storer\u2013Szymanski", 
+            "snippet": "The main difference between LZ77 and LZSS is that in LZ77 the dictionary \nreference could actually be longer than the string it was ... 78: (49,14) them,(24,9)\n.", 
+            "htmlSnippet": "The main difference between <b>LZ77</b> and LZSS is that in <b>LZ77</b> the dictionary <br>\nreference could actually be longer than the string it was ... <b>78</b>: (49,14) them,(24,9)<br>\n.", 
+            "link": "https://en.wikipedia.org/wiki/Lempel%E2%80%93Ziv%E2%80%93Storer%E2%80%93Szymanski", 
+            "cacheId": "na6U-kZsBkEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "DEFLATE - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "DEFLATE - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/DEFLATE", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/DEFLATE", 
+            "snippet": "Main article: LZ77 and LZ78. Within compressed blocks, if a duplicate series of \nbytes is spotted (a repeated string), then a back-reference is inserted, linking to\u00a0...", 
+            "htmlSnippet": "Main article: <b>LZ77 and LZ78</b>. Within compressed blocks, if a duplicate series of <br>\nbytes is spotted (a repeated string), then a back-reference is inserted, linking to&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/DEFLATE", 
+            "cacheId": "QHsIpql4rV4J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Lempel\u2013Ziv\u2013Welch - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Lempel\u2013Ziv\u2013Welch - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Lempel\u2013Ziv\u2013Welch", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Lempel\u2013Ziv\u2013Welch", 
+            "snippet": "... implementation of the LZ78 algorithm published by Lempel and Ziv in 1978. ..... \nand because gzip produced better compression ratios using the LZ77-based\u00a0...", 
+            "htmlSnippet": "... implementation of the <b>LZ78</b> algorithm published by Lempel and Ziv in 1978. ..... <br>\nand because gzip produced better compression ratios using the <b>LZ77</b>-based&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Lempel%E2%80%93Ziv%E2%80%93Welch", 
+            "cacheId": "1H3oRmaIwNcJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Dictionary coder - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Dictionary coder - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Dictionary_coder", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Dictionary_coder", 
+            "snippet": "Both the LZ77 and LZ78 algorithms work on this principle. In LZ77, a circular \nbuffer called the \"sliding window\" holds the last N bytes of data processed.", 
+            "htmlSnippet": "Both the <b>LZ77 and LZ78</b> algorithms work on this principle. In LZ77, a circular <br>\nbuffer called the &quot;sliding window&quot; holds the last N bytes of data processed.", 
+            "link": "https://en.wikipedia.org/wiki/Dictionary_coder", 
+            "cacheId": "Nr1eG5kCw0IJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Abraham Lempel - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Abraham Lempel - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Abraham_Lempel", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Abraham_Lempel", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "160", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRClHev2Vpjx8pWTZkL8AnfFDkP6GQMwgyebi4Ra_ImRq_Hrne8gZWMhYaU", 
+                        "height": "174"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Abraham_Lempel.JPG/200px-Abraham_Lempel.JPG"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "bday": "1936-02-10", 
+                        "category": "Information theory", 
+                        "fn": "Abraham Lempel"
+                    }
+                ]
+            }, 
+            "snippet": "The LZ77 and LZ78 algorithms authored by Lempel and Jacob Ziv have led to a \nnumber of derivative works, including the Lempel\u2013Ziv\u2013Welch algorithm, used in\u00a0...", 
+            "htmlSnippet": "The <b>LZ77 and LZ78</b> algorithms authored by Lempel and Jacob Ziv have led to a <br>\nnumber of derivative works, including the Lempel\u2013Ziv\u2013Welch algorithm, used in&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Abraham_Lempel", 
+            "cacheId": "sTRP4744CqAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Lempel\u2013Ziv\u2013Markov chain algorithm - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:Lempel\u2013Ziv\u2013Markov chain algorithm - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../Talk%3ALempel\u2013Ziv\u2013Markov_chain_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Talk%3ALempel\u2013Ziv\u2013Markov_chain_algorithm", 
+            "snippet": "What is the difference between it and the traditional LZ77, LZ78 and LZW \nalgorithms, or is it a completely new algorithm? What's the acronym \"LZMA\"? \nThanks.", 
+            "htmlSnippet": "What is the difference between it and the traditional <b>LZ77</b>, <b>LZ78</b> and LZW <br>\nalgorithms, or is it a completely new algorithm? What&#39;s the acronym &quot;LZMA&quot;? <br>\nThanks.", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3ALempel%E2%80%93Ziv%E2%80%93Markov_chain_algorithm", 
+            "cacheId": "Tb_7CMkTncEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:P-complete - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:P-complete - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3AP-complete", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3AP-complete", 
+            "snippet": "I don't know the details of LZ77 or LZ78, but I don't understand the second \nsentence above. First, it seems that it must mean \"Is t in s\"; it can't be that \ncompressing\u00a0...", 
+            "htmlSnippet": "I don&#39;t know the details of <b>LZ77</b> or <b>LZ78</b>, but I don&#39;t understand the second <br>\nsentence above. First, it seems that it must mean &quot;Is t in s&quot;; it can&#39;t be that <br>\ncompressing&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3AP-complete", 
+            "cacheId": "rmY_wAug7G8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "liblzg - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "liblzg - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Liblzg", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Liblzg", 
+            "snippet": "It implements an algorithm that is a variation of the LZ77 algorithm, called the \nLZG algorithm, with the primary focus of providing a ... Main article: LZ77 and \nLZ78.", 
+            "htmlSnippet": "It implements an algorithm that is a variation of the LZ77 algorithm, called the <br>\nLZG algorithm, with the primary focus of providing a ... Main article: <b>LZ77 and</b> <br>\n<b>LZ78</b>.", 
+            "link": "https://en.wikipedia.org/wiki/Liblzg", 
+            "cacheId": "utRrFfEushEJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - LZ77 and 78", 
+                "safe": "off", 
+                "searchTerms": "LZ77 and 78", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "246"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - LZ77 and 78", 
+                "safe": "off", 
+                "searchTerms": "LZ77 and 78", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "246"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.27", 
+        "formattedTotalResults": "246", 
+        "totalResults": "246", 
+        "searchTime": 0.266433
+    }
+}

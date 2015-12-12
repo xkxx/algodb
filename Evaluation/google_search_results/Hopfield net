@@ -1,0 +1,231 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Hopfield network - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Hopfield network</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Hopfield_network", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Hopfield</b>_<b>network</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRGXYuIuyp9tSGs7xZ2mHSGdU7gA-t6kMGmMdGC38I9Sw4JzIQFmKNjLrlb", 
+                        "height": "183"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Hopfield-net.png/220px-Hopfield-net.png"
+                    }
+                ]
+            }, 
+            "snippet": "A Hopfield network is a form of recurrent artificial neural network popularized by \nJohn Hopfield in 1982, but described earlier by Little in 1974. Hopfield nets\u00a0...", 
+            "htmlSnippet": "A <b>Hopfield network</b> is a form of recurrent artificial neural network popularized by <br>\nJohn Hopfield in 1982, but described earlier by Little in 1974. Hopfield nets&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Hopfield_network", 
+            "cacheId": "NSLfe36Rpf0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "John Hopfield - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "John <b>Hopfield</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/John_Hopfield", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/John_<b>Hopfield</b>", 
+            "pagemap": {
+                "hcard": [
+                    {
+                        "bday": "1933-07-15", 
+                        "category": "Physics, Molecular Biology, Neuroscience", 
+                        "fn": "John Joseph Hopfield"
+                    }
+                ]
+            }, 
+            "snippet": "John Joseph Hopfield (born July 15, 1933) is an American scientist most widely \nknown for his invention of an associative neural network in 1982. It is now more\u00a0...", 
+            "htmlSnippet": "John Joseph <b>Hopfield</b> (born July 15, 1933) is an American scientist most widely <br>\nknown for his invention of an associative neural <b>network</b> in 1982. It is now more&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/John_Hopfield", 
+            "cacheId": "g0gDeMAHNkIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Recurrent neural network - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Recurrent neural <b>network</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Recurrent_neural_network", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Recurrent_neural_<b>network</b>", 
+            "snippet": "[edit]. The Hopfield network is of historic interest although it is not a general RNN, \nas it is not designed to process sequences of\u00a0...", 
+            "htmlSnippet": "[edit]. The <b>Hopfield network</b> is of historic interest although it is not a general RNN, <br>\nas it is not designed to process sequences of&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Recurrent_neural_network", 
+            "cacheId": "Af10saJg5SQJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "File talk:Hopfield-net.png - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "File talk:<b>Hopfield</b>-<b>net</b>.png - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/File_talk:Hopfield-net.png", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/File_talk:<b>Hopfield</b>-<b>net</b>.png", 
+            "snippet": "File talk:Hopfield-net.png. From Wikipedia, the free encyclopedia. Jump to: \nnavigation, search. Is this picture corect??? I think arrows should be in other \ndirection!", 
+            "htmlSnippet": "File talk:<b>Hopfield</b>-<b>net</b>.png. From Wikipedia, the free encyclopedia. Jump to: <br>\nnavigation, search. Is this picture corect??? I think arrows should be in other <br>\ndirection!", 
+            "link": "https://en.wikipedia.org/wiki/File_talk:Hopfield-net.png", 
+            "cacheId": "le4dlqf_K0gJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Boltzmann machine - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Boltzmann machine - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Boltzmann_machine", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Boltzmann_machine", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQLJ_y-lSO15-6EOUxLd5BCPIwTrRbD4Lqp5r2z__sGXjdNOIhiYekFkbc", 
+                        "height": "167"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Boltzmannexamplev1.png/220px-Boltzmannexamplev1.png"
+                    }
+                ]
+            }, 
+            "snippet": "A Boltzmann machine, like a Hopfield network, is a network of units with an \"\nenergy\" defined for the network. It also has binary units, but unlike Hopfield nets,\n\u00a0...", 
+            "htmlSnippet": "A Boltzmann machine, like a <b>Hopfield network</b>, is a network of units with an &quot;<br>\nenergy&quot; defined for the network. It also has binary units, but unlike Hopfield nets,<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Boltzmann_machine", 
+            "cacheId": "vXmRhx1U3WkJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Hopfield network - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Hopfield network</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3AHopfield_network", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>Hopfield</b>_<b>network</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "123", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTSVqi1_0A77FGE_e6kicpOCCnQJxQjqfjRvFcNCQyIOdARgp2UWfpV", 
+                        "height": "45"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/math/3/6/2/362e6e578b0443aad223f190e5edcd07.png"
+                    }
+                ]
+            }, 
+            "snippet": "4 Connection between Hopfield Net and Ising model? 5 Definitions? 6 Energy \nformula; 7 energy; 8 Name of article; 9 Associative memory: Terminology and\u00a0...", 
+            "htmlSnippet": "4 Connection between <b>Hopfield Net</b> and Ising model? 5 Definitions? 6 Energy <br>\nformula; 7 energy; 8 Name of article; 9 Associative memory: Terminology and&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3AHopfield_network", 
+            "cacheId": "5kggDxrzh4MJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Types of artificial neural networks - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Types of artificial neural networks - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Types_of_artificial_neural_networks", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Types_of_artificial_neural_<b>network</b>s", 
+            "snippet": "1 Feedforward neural network; 2 Radial basis function (RBF) network. 2.1 How \nRBF networks ... 5.1.1 Hopfield network; 5.1.2 Boltzmann machine. 5.2 Simple\u00a0...", 
+            "htmlSnippet": "1 Feedforward neural network; 2 Radial basis function (RBF) network. 2.1 How <br>\nRBF networks ... 5.1.1 <b>Hopfield network</b>; 5.1.2 Boltzmann machine. 5.2 Simple&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Types_of_artificial_neural_networks", 
+            "cacheId": "XLCTTrQDDk4J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Attractor network - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Attractor <b>network</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Attractor_network", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Attractor_<b>network</b>", 
+            "snippet": "[edit]. See also: Hopfield network. Hopfield attractor networks are an early \nimplementation of attractor networks with\u00a0...", 
+            "htmlSnippet": "[edit]. See also: <b>Hopfield network</b>. Hopfield attractor networks are an early <br>\nimplementation of attractor networks with&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Attractor_network", 
+            "cacheId": "r1YloH-rxRMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Hopfield - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Hopfield</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Hopfield", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Hopfield</b>", 
+            "snippet": "1933), American biologist and physicist, inventor of the Hopfield net; John J. \nHopfield (spectroscopist), American spectroscopist, discoverer of the Hopfield\u00a0...", 
+            "htmlSnippet": "1933), American biologist and physicist, inventor of the <b>Hopfield net</b>; John J. <br>\nHopfield (spectroscopist), American spectroscopist, discoverer of the Hopfield&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Hopfield", 
+            "cacheId": "RlgQeiilCPkJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Bidirectional associative memory - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Bidirectional associative memory - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Bidirectional_associative_memory", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Bidirectional_associative_memory", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "188", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2es2JiZRcwwba2OKJazW7Cll4f0x2uZeEKgCgC9jIS1N4Ke-lhZ_IPo4", 
+                        "height": "115"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/math/e/6/d/e6d5dec21ad1718ffc99818c21385abb.png"
+                    }
+                ]
+            }, 
+            "snippet": "BAM is hetero-associative, meaning given a pattern it can return another pattern \nwhich is potentially of a different size. It is similar to the Hopfield network in that\u00a0...", 
+            "htmlSnippet": "BAM is hetero-associative, meaning given a pattern it can return another pattern <br>\nwhich is potentially of a different size. It is similar to the <b>Hopfield network</b> in that&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Bidirectional_associative_memory", 
+            "cacheId": "qHcjmIjQ7X4J"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Hopfield net", 
+                "safe": "off", 
+                "searchTerms": "Hopfield net", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "146"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Hopfield net", 
+                "safe": "off", 
+                "searchTerms": "Hopfield net", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "146"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.28", 
+        "formattedTotalResults": "146", 
+        "totalResults": "146", 
+        "searchTime": 0.28443
+    }
+}

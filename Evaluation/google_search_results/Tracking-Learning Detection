@@ -1,0 +1,208 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Outline of object recognition - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Outline of object recognition - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Outline_of_object_recognition", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Outline_of_object_recognition", 
+            "snippet": "Uses edge detection techniques, such as the Canny edge detection, to find ..... \nand S.A. Nene, \"Learning, Positioning, and tracking Visual appearance\" Proc.", 
+            "htmlSnippet": "Uses edge <b>detection</b> techniques, such as the Canny edge <b>detection</b>, to find ..... <br>\nand S.A. Nene, &quot;<b>Learning</b>, Positioning, and <b>tracking</b> Visual appearance&quot; Proc.", 
+            "link": "https://en.wikipedia.org/wiki/Outline_of_object_recognition", 
+            "cacheId": "Mlu1YmFxAbYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Concept drift - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Concept drift - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Concept_drift", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Concept_drift", 
+            "snippet": "In predictive analytics and machine learning, the concept drift means that the ... In \na fraud detection application the target concept may be a binary attribute ... data \nstream mining, learning time-varying concepts, and tracking drifting concept (if\u00a0...", 
+            "htmlSnippet": "In predictive analytics and machine <b>learning</b>, the concept drift means that the ... In <br>\na fraud <b>detection</b> application the target concept may be a binary attribute ... data <br>\nstream mining, <b>learning</b> time-varying concepts, and <b>tracking</b> drifting concept (if&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Concept_drift", 
+            "cacheId": "s8ogU2k3HhUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Feature detection (computer vision) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Feature <b>detection</b> (computer vision) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Feature_detection_(computer_vision)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Feature_<b>detection</b>_(computer_vision)", 
+            "snippet": "In computer vision and image processing the concept of feature detection .... \"\nGood Features to Track,\". ... \"Machine learning for high-speed corner detection\".", 
+            "htmlSnippet": "In computer vision and image processing the concept of feature <b>detection</b> .... &quot;<br>\nGood Features to <b>Track</b>,&quot;. ... &quot;Machine <b>learning</b> for high-speed corner <b>detection</b>&quot;.", 
+            "link": "https://en.wikipedia.org/wiki/Feature_detection_(computer_vision)", 
+            "cacheId": "Y1bUuUg8p5EJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Viola\u2013Jones object detection framework - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Viola\u2013Jones object <b>detection</b> framework - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../Viola\u2013Jones_object_detection_framework", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Viola\u2013Jones_object_<b>detection</b>_framework", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI0-j88A9-uHyod2noF7Diz96bdXM_RnKjr_wjc22FkIlDu6i7GDUgpHzA", 
+                        "height": "176"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Prm_VJ_fig1_featureTypesWithAlpha.png/220px-Prm_VJ_fig1_featureTypesWithAlpha.png"
+                    }
+                ]
+            }, 
+            "snippet": "Thus, the object detection framework employs a variant of the learning algorithm \n.... A method similar to Viola\u2013Jones but that can better detect and track tilted and\n\u00a0...", 
+            "htmlSnippet": "Thus, the object <b>detection</b> framework employs a variant of the <b>learning</b> algorithm <br>\n.... A method similar to Viola\u2013Jones but that can better <b>detect</b> and <b>track</b> tilted and<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Viola%E2%80%93Jones_object_detection_framework", 
+            "cacheId": "zf3BJYxuGQoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Statistical learning in language acquisition - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Statistical <b>learning</b> in language acquisition - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../Statistical_learning_in_language_acquisition", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Statistical_<b>learning</b>_in_language_acquisition", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT7vHahmxP4h-RD5HnPQu13Ey_TRtnkqf1_otiw-H97wTmXUoO-18Ck3w", 
+                        "height": "91"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Spectrogram-19thC.png/220px-Spectrogram-19thC.png"
+                    }
+                ]
+            }, 
+            "snippet": "Statistical learning is the ability for humans and other animals to extract statistical \n.... infants were still able to detect the statistical regularities and still preferred to ... \nlearning mechanism in which infants track the distributional regularities of the\u00a0...", 
+            "htmlSnippet": "Statistical <b>learning</b> is the ability for humans and other animals to extract statistical <br>\n.... infants were still able to <b>detect</b> the statistical regularities and still preferred to ... <br>\n<b>learning</b> mechanism in which infants <b>track</b> the distributional regularities of the&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Statistical_learning_in_language_acquisition", 
+            "cacheId": "W8Ll3PK91ikJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Data stream mining - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Data stream mining - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Data_stream_mining", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Data_stream_mining", 
+            "snippet": "Often, concepts from the field of incremental learning, a generalization of ... data \nstream mining, learning time-varying concepts, and tracking drifting concept (if ... \nNovel Class Detection with Classification for Concept-Drifting Data Streams.", 
+            "htmlSnippet": "Often, concepts from the field of incremental <b>learning</b>, a generalization of ... data <br>\nstream mining, <b>learning</b> time-varying concepts, and <b>tracking</b> drifting concept (if ... <br>\nNovel Class <b>Detection</b> with Classification for Concept-Drifting Data Streams.", 
+            "link": "https://en.wikipedia.org/wiki/Data_stream_mining", 
+            "cacheId": "cBmpAyGiVQ4J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Pattern recognition - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Pattern recognition - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Pattern_recognition", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Pattern_recognition", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTPnL8BQm8tRI6NZzs3zzme1kK9tvGzGAQeYCmJPzuoyOpkg6JaTGDDGQ", 
+                        "height": "79"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Kernel_Machine.png/220px-Kernel_Machine.png"
+                    }
+                ]
+            }, 
+            "snippet": "This article is about pattern recognition as a branch of machine learning. ..... ways\n: the first being template matching and the second being feature detection.", 
+            "htmlSnippet": "This article is about pattern recognition as a branch of machine <b>learning</b>. ..... ways<br>\n: the first being template matching and the second being feature <b>detection</b>.", 
+            "link": "https://en.wikipedia.org/wiki/Pattern_recognition", 
+            "cacheId": "qwIVSGCiwR8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Situated cognition - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Situated cognition - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Situated_cognition", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Situated_cognition", 
+            "snippet": "Since language is often the basis for monitoring and tracking learning gains in .... \nEcological psychology perspectives define transfer as the detection of\u00a0...", 
+            "htmlSnippet": "Since language is often the basis for monitoring and <b>tracking learning</b> gains in .... <br>\nEcological psychology perspectives define transfer as the <b>detection</b> of&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Situated_cognition", 
+            "cacheId": "y963giBsdOgJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Geometric feature learning - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Geometric feature <b>learning</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Geometric_feature_learning", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Geometric_feature_<b>learning</b>", 
+            "snippet": "Geometric feature learning is a technique combining machine learning and ... \npoints image texture and so on, which can be detected by feature detection \nmethods. .... of human vision behaviour; Learning self-generated action; Vehicle \ntracking\u00a0...", 
+            "htmlSnippet": "Geometric feature <b>learning</b> is a technique combining machine <b>learning</b> and ... <br>\npoints image texture and so on, which can be detected by feature <b>detection</b> <br>\nmethods. .... of human vision behaviour; <b>Learning</b> self-generated action; Vehicle <br>\n<b>tracking</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Geometric_feature_learning", 
+            "cacheId": "jdeICGntnLUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "CellCognition - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "CellCognition - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/CellCognition", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/CellCognition", 
+            "snippet": "... and machine learning techniques for single-cell tracking and classification of ... \ntracking of individual cells over time, detection of class-transition motifs (e.g.\u00a0...", 
+            "htmlSnippet": "... and machine <b>learning</b> techniques for single-cell <b>tracking</b> and classification of ... <br>\n<b>tracking</b> of individual cells over time, <b>detection</b> of class-transition motifs (e.g.&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/CellCognition", 
+            "cacheId": "2fWkxb6Gtj4J"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Tracking-Learning Detection", 
+                "safe": "off", 
+                "searchTerms": "Tracking-Learning Detection", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "8020"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Tracking-Learning Detection", 
+                "safe": "off", 
+                "searchTerms": "Tracking-Learning Detection", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "8020"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.31", 
+        "formattedTotalResults": "8,020", 
+        "totalResults": "8020", 
+        "searchTime": 0.306077
+    }
+}

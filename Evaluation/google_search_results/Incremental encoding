@@ -1,0 +1,208 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Incremental encoding - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Incremental encoding</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Incremental_encoding", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Incremental</b>_<b>encoding</b>", 
+            "snippet": "Incremental encoding, also known as front compression, back compression, or \nfront coding, is a type of delta encoding compression algorithm whereby common\n\u00a0...", 
+            "htmlSnippet": "<b>Incremental encoding</b>, also known as front compression, back compression, or <br>\nfront coding, is a type of delta encoding compression algorithm whereby common<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Incremental_encoding", 
+            "cacheId": "u2-p1DqqbFMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Rotary encoder - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Rotary <b>encoder</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Rotary_encoder", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Rotary_<b>encoder</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "162", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScSx46I3n9vkiwVx96nnQ62FSjNYj0Vn3-g9jqxd1mT4qX8ppPcSHaZ7g", 
+                        "height": "311"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Gray_code_rotary_encoder_13-track_opened.jpg/220px-Gray_code_rotary_encoder_13-track_opened.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "[edit]. Encoder ROD 420. An incremental rotary encoder provides cyclical outputs \n(only) when the encoder is\u00a0...", 
+            "htmlSnippet": "[edit]. <b>Encoder</b> ROD 420. An <b>incremental</b> rotary <b>encoder</b> provides cyclical outputs <br>\n(only) when the <b>encoder</b> is&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Rotary_encoder", 
+            "cacheId": "3yvRxpZ3GhEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Encoder - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Encoder</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Encoder", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Encoder</b>", 
+            "snippet": "An encoder is a device, circuit, transducer, software program, algorithm or person \nthat ... The signal from an incremental encoder is cyclical, thus ambiguous, and\u00a0...", 
+            "htmlSnippet": "An encoder is a device, circuit, transducer, software program, algorithm or person <br>\nthat ... The signal from an <b>incremental encoder</b> is cyclical, thus ambiguous, and&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Encoder", 
+            "cacheId": "ckmb8y9DsvQJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Delta encoding - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Delta <b>encoding</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Delta_encoding", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Delta_<b>encoding</b>", 
+            "snippet": "Delta encoding is a way of storing or transmitting data in the form of differences ... \nbetween the prefixes or suffixes of strings is called incremental encoding.", 
+            "htmlSnippet": "Delta encoding is a way of storing or transmitting data in the form of differences ... <br>\nbetween the prefixes or suffixes of strings is called <b>incremental encoding</b>.", 
+            "link": "https://en.wikipedia.org/wiki/Delta_encoding", 
+            "cacheId": "ogOlvQj8vzgJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Linear encoder - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Linear <b>encoder</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Linear_encoder", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Linear_<b>encoder</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "252", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRkT5R2JaelbWr8tp-PO221kJxfW5H-iqeXwNDs-FwzudkiGX6e5zR5Igf6", 
+                        "height": "200"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/9/92/Optical_Encoders.png"
+                    }
+                ]
+            }, 
+            "snippet": "The encoder can be either incremental or absolute. Motion can be determined by \nchange in position over time. Linear encoder technologies include optical,\u00a0...", 
+            "htmlSnippet": "The <b>encoder</b> can be either <b>incremental</b> or absolute. Motion can be determined by <br>\nchange in position over time. Linear <b>encoder</b> technologies include optical,&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Linear_encoder", 
+            "cacheId": "bWb3FWFjd_cJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Pseudorandom encoder - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Pseudorandom <b>encoder</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Pseudorandom_encoder", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Pseudorandom_<b>encoder</b>", 
+            "snippet": "The disk of a pseudorandom encoder has an evenly spaced notch design just as \nan incremental encoder to measure distance. A second track of code is used to\u00a0...", 
+            "htmlSnippet": "The disk of a pseudorandom encoder has an evenly spaced notch design just as <br>\nan <b>incremental encoder</b> to measure distance. A second track of code is used to&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Pseudorandom_encoder", 
+            "cacheId": "7vwgXQizC8IJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Category:Lossless compression algorithms - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Category:Lossless compression algorithms - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../Category:Lossless_compression_algorithms", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Category:Lossless_compression_algorithms", 
+            "snippet": "Incompressible string \u00b7 Incremental encoding. J. JBIG \u00b7 JBIG2. L. Lagarith \u00b7 \nLEB128 ... T. Truncated binary encoding \u00b7 Tunstall coding. U. Unary coding \u00b7 \nUniversal\u00a0...", 
+            "htmlSnippet": "Incompressible string &middot; <b>Incremental encoding</b>. J. JBIG &middot; JBIG2. L. Lagarith &middot; <br>\nLEB128 ... T. Truncated binary encoding &middot; Tunstall coding. U. Unary coding &middot; <br>\nUniversal&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Category:Lossless_compression_algorithms", 
+            "cacheId": "A6DIAuYLMZoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Range encoding - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Range <b>encoding</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Range_encoding", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Range_<b>encoding</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSD0F5lKRPPdrSOVp9NUHnCobfBDRtccDHtXwnckiUEdAX3xhPrpFQfvyk", 
+                        "height": "102"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Range_encoding.jpg/220px-Range_encoding.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "Range encoding is an entropy coding method defined by G. Nigel N. Martin in a \n.... The top digit of low is probably too small so we need to increment it, but we\u00a0...", 
+            "htmlSnippet": "Range <b>encoding</b> is an entropy coding method defined by G. Nigel N. Martin in a <br>\n.... The top digit of low is probably too small so we need to <b>increment</b> it, but we&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Range_encoding", 
+            "cacheId": "SEhzbzAk7uUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "locate (Unix) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "locate (Unix) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Locate_(Unix)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Locate_(Unix)", 
+            "snippet": "It searches through a prebuilt database of files generated by updatedb or by a \ndaemon and compressed using incremental encoding. It operates significantly\u00a0...", 
+            "htmlSnippet": "It searches through a prebuilt database of files generated by updatedb or by a <br>\ndaemon and compressed using <b>incremental encoding</b>. It operates significantly&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Locate_(Unix)", 
+            "cacheId": "xH6x0l5TOY8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Category:Storage software stubs - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Category:Storage software stubs - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Category:Storage_software_stubs", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Category:Storage_software_stubs", 
+            "snippet": "... Copy \u00b7 IBM Global Mirror \u00b7 IBM Subsystem Device Driver \u00b7 IBM TotalStorage \nExpert \u00b7 Incremental encoding \u00b7 Infinite Disk \u00b7 InMage \u00b7 IRecover \u00b7 IsoBuster\u00a0...", 
+            "htmlSnippet": "... Copy &middot; IBM Global Mirror &middot; IBM Subsystem Device Driver &middot; IBM TotalStorage <br>\nExpert &middot; <b>Incremental encoding</b> &middot; Infinite Disk &middot; InMage &middot; IRecover &middot; IsoBuster&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Category:Storage_software_stubs", 
+            "cacheId": "mZOts4oYGD0J"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Incremental encoding", 
+                "safe": "off", 
+                "searchTerms": "Incremental encoding", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "512"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Incremental encoding", 
+                "safe": "off", 
+                "searchTerms": "Incremental encoding", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "512"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.43", 
+        "formattedTotalResults": "512", 
+        "totalResults": "512", 
+        "searchTime": 0.433947
+    }
+}

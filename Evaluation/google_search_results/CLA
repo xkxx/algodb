@@ -1,0 +1,256 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Conjugated linoleic acid - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Conjugated linoleic acid</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Conjugated_linoleic_acid", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Conjugated_linoleic_acid", 
+            "snippet": "Conjugated linoleic acids (CLA) are a family of at least 28 isomers of linoleic acid \nfound mostly in the meat and dairy products derived from ruminants. CLAs can\u00a0...", 
+            "htmlSnippet": "<b>Conjugated linoleic acids</b> (<b>CLA</b>) are a family of at least 28 isomers of linoleic acid <br>\nfound mostly in the meat and dairy products derived from ruminants. CLAs can&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Conjugated_linoleic_acid", 
+            "cacheId": "N_3W4jh0LjQJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Contributor License Agreement - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Contributor License Agreement</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Contributor_License_Agreement", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Contributor_License_Agreement", 
+            "snippet": "A Contributor License Agreement (CLA) defines the terms under which \nintellectual property has been contributed to a company/project, typically software \nunder\u00a0...", 
+            "htmlSnippet": "A <b>Contributor License Agreement</b> (<b>CLA</b>) defines the terms under which <br>\nintellectual property has been contributed to a company/project, typically software <br>\nunder&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Contributor_License_Agreement", 
+            "cacheId": "VBUJKPPYGhUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Mercedes-Benz CLA-Class - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Mercedes-Benz <b>CLA</b>-Class - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Mercedes-Benz_CLA-Class", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Mercedes-Benz_<b>CLA</b>-<b>Cla</b>ss", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "224", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRXMakN3szQ82azvgher_xqoEIawgjMwb0-czL7d0l9ViiEbabgy22BQXI", 
+                        "height": "104"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Mercedes-Benz_CLA_200_(C_117)_%E2%80%93_Frontansicht,_13._April_2013,_D%C3%BCsseldorf.jpg/280px-Mercedes-Benz_CLA_200_(C_117)_%E2%80%93_Frontansicht,_13._April_2013,_D%C3%BCsseldorf.jpg"
+                    }
+                ], 
+                "hproduct": [
+                    {
+                        "category": "6-speed manual 7-speed automatic", 
+                        "fn": "Mercedes-Benz CLA-Class"
+                    }
+                ]
+            }, 
+            "snippet": "The Mercedes-Benz CLA-Class is a compact four-door luxury grand tourer \ndeveloped and manufactured by Mercedes-Benz, based on the platform of the\u00a0...", 
+            "htmlSnippet": "The Mercedes-Benz <b>CLA</b>-Class is a compact four-door luxury grand tourer <br>\ndeveloped and manufactured by Mercedes-Benz, based on the platform of the&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Mercedes-Benz_CLA-Class", 
+            "cacheId": "FY1J6N8VznAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "CLA - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>CLA</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/CLA", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>CLA</b>", 
+            "snippet": "CLA may refer to: ... This disambiguation page lists articles associated with the \ntitle CLA. If an internal link led you here, you may wish to change the link to point\n\u00a0...", 
+            "htmlSnippet": "<b>CLA</b> may refer to: ... This disambiguation page lists articles associated with the <br>\ntitle <b>CLA</b>. If an internal link led you here, you may wish to change the link to point<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/CLA", 
+            "cacheId": "nHv9_MyiMlIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "CLA Building - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>CLA</b> Building - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/CLA_Building", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>CLA</b>_Building", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ7tQOpVr02Yh5gFIzROT1Le2RFGGSWYG9d72r55EF0smo7tk_zQe50Zis", 
+                        "height": "132"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/CLA_building_complex.JPG/220px-CLA_building_complex.JPG"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "category": "Futurist", 
+                        "note": "Completed 1993", 
+                        "fn": "CLA Building"
+                    }
+                ]
+            }, 
+            "snippet": "The Classroom, Laboratory & Administration Building, commonly known simply \nas the CLA Building, is a building on the campus of California State Polytechnic\u00a0...", 
+            "htmlSnippet": "The Classroom, Laboratory &amp; Administration Building, commonly known simply <br>\nas the <b>CLA</b> Building, is a building on the campus of California State Polytechnic&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/CLA_Building", 
+            "cacheId": "IHk5fmufjMIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Cla$$war - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Cla</b>$$war - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Cla$$war", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Cla</b>$$war", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "182", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRinrgN4l3pKqtwreaF0XnqJ0qADOKJdOOBKef8cdvtka-iVd7uAbyjYDM", 
+                        "height": "277"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Classwar_hc_300.jpg/250px-Classwar_hc_300.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "Cla$$war is a six-issue comic book limited series published by Com.x between \n2002 and 2004. It was written by Rob Williams with art by Trevor Hairsine and\u00a0...", 
+            "htmlSnippet": "<b>Cla</b>$$war is a six-issue comic book limited series published by Com.x between <br>\n2002 and 2004. It was written by Rob Williams with art by Trevor Hairsine and&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Cla$$war", 
+            "cacheId": "eZ3a2EJKv7sJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Cla Meredith - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Cla</b> Meredith - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Cla_Meredith", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Cla</b>_Meredith", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcThqlriQhqJR5Ca0k4e_IGltoCLrsqPCiy3DVkGqWwbYF93tHPJKcqafFGU", 
+                        "height": "284"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Cla_Meredith_on_September_1,_2009.jpg/220px-Cla_Meredith_on_September_1,_2009.jpg"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "bday": "1983-06-04", 
+                        "note": "Cla Meredith", 
+                        "fn": "Cla Meredith"
+                    }
+                ]
+            }, 
+            "snippet": "... Diego Padres in 2008. Olise Claiborne \"Cla\" Meredith III (/\u02c8kle\u026a/; born June 4, \n1983), nicknamed \"The Claw\", is a former Major League Baseball relief pitcher.", 
+            "htmlSnippet": "... Diego Padres in 2008. Olise Claiborne &quot;<b>Cla</b>&quot; Meredith III (/\u02c8kle\u026a/; born June 4, <br>\n1983), nicknamed &quot;The Claw&quot;, is a former Major League Baseball relief pitcher.", 
+            "link": "https://en.wikipedia.org/wiki/Cla_Meredith", 
+            "cacheId": "y-GSD-MwApEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Cranwell CLA.4 - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Cranwell <b>CLA</b>.4 - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Cranwell_CLA.4", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Cranwell_<b>CLA</b>.4", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "240", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR8cIh8m9SXhej4xBsdVz_czq84rYLp5Trm5v0F-vzLWmSAtWl77XswYN4", 
+                        "height": "162"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Cranwell_CLA.4A_AB_Avn_Msm_EDM_16.04.08R_edited-2.jpg/300px-Cranwell_CLA.4A_AB_Avn_Msm_EDM_16.04.08R_edited-2.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "The Cranwell CLA.4 was single-engined two-seat inverted sesquiplane designed \nand constructed for the 1926 Lympne trials by an amateur group from RAF\u00a0...", 
+            "htmlSnippet": "The Cranwell <b>CLA</b>.4 was single-engined two-seat inverted sesquiplane designed <br>\nand constructed for the 1926 Lympne trials by an amateur group from RAF&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Cranwell_CLA.4", 
+            "cacheId": "Jsgbmi1XgrMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Cranwell CLA.2 - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Cranwell <b>CLA</b>.2 - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Cranwell_CLA.2", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Cranwell_<b>CLA</b>.2", 
+            "snippet": "The Cranwell CLA.2 was a single-engined two-seat biplane built by staff and \nstudents of RAF College Cranwell as an entrant to the Lympne Two Seater Light\n\u00a0...", 
+            "htmlSnippet": "The Cranwell <b>CLA</b>.2 was a single-engined two-seat biplane built by staff and <br>\nstudents of RAF College Cranwell as an entrant to the Lympne Two Seater Light<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Cranwell_CLA.2", 
+            "cacheId": "wqkuvznJadgJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Collegiate Learning Assessment - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Collegiate Learning Assessment</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Collegiate_Learning_Assessment", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Collegiate_Learning_Assessment", 
+            "snippet": "The Collegiate Learning Assessment (CLA) is a standardized testing initiative in \nUnited States higher educational evaluation and assessment. It uses a\u00a0...", 
+            "htmlSnippet": "The <b>Collegiate Learning Assessment</b> (<b>CLA</b>) is a standardized testing initiative in <br>\nUnited States higher educational evaluation and assessment. It uses a&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Collegiate_Learning_Assessment", 
+            "cacheId": "jADN7k4xJpoJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - CLA", 
+                "safe": "off", 
+                "searchTerms": "CLA", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "6370"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - CLA", 
+                "safe": "off", 
+                "searchTerms": "CLA", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "6370"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.37", 
+        "formattedTotalResults": "6,370", 
+        "totalResults": "6370", 
+        "searchTime": 0.365687
+    }
+}

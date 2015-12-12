@@ -1,0 +1,208 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Unary coding - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Unary coding</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Unary_coding", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Unary</b>_<b>coding</b>", 
+            "snippet": "Unary coding, sometimes called thermometer code, is an entropy encoding that \nrepresents a natural number, n, with n ones followed by a zero (if natural number\n\u00a0...", 
+            "htmlSnippet": "<b>Unary coding</b>, sometimes called thermometer code, is an entropy encoding that <br>\nrepresents a natural number, n, with n ones followed by a zero (if natural number<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Unary_coding", 
+            "cacheId": "Hraff2Knnx0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Golomb coding - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Golomb <b>coding</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Golomb_coding", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Golomb_<b>coding</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "259", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSVBuwhhRAb1RkbtB_V6RuIxZ2ukCM66YkytxN_spOY_5RmnRd7IKNSQmmU", 
+                        "height": "194"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/9/93/Golomb_coded_Rice_Algorithm_experiment_Compression_Ratios.png"
+                    }
+                ]
+            }, 
+            "snippet": "Rice used this set of codes in an adaptive coding scheme; \"Rice coding\" can \nrefer ... The quotient is sent in unary coding, followed by the remainder in \ntruncated\u00a0...", 
+            "htmlSnippet": "Rice used this set of codes in an adaptive coding scheme; &quot;Rice coding&quot; can <br>\nrefer ... The quotient is sent in <b>unary coding</b>, followed by the remainder in <br>\ntruncated&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Golomb_coding", 
+            "cacheId": "NsihSekPjW8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Universal code (data compression) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Universal <b>code</b> (data compression) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Universal_code_(data_compression)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Universal_<b>code</b>_(data_compression)", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQdSTNoKyhVOQBf7kdC1SrbJ25ftK_6nSR3OdYYe9tTN9Sli5aSRAXpGx8", 
+                        "height": "117"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Fibonacci,_Elias_Gamma,_and_Elias_Delta_encoding_schemes.GIF/220px-Fibonacci,_Elias_Gamma,_and_Elias_Delta_encoding_schemes.GIF"
+                    }
+                ]
+            }, 
+            "snippet": "In data compression, a universal code for integers is a prefix code that maps the \n... For example, using unary coding on the Zeta distribution yields an expected\u00a0...", 
+            "htmlSnippet": "In data compression, a universal code for integers is a prefix code that maps the <br>\n... For example, using <b>unary coding</b> on the Zeta distribution yields an expected&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Universal_code_(data_compression)", 
+            "cacheId": "0yLdIxediM8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Unary numeral system - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Unary</b> numeral system - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Unary_numeral_system", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Unary</b>_numeral_system", 
+            "snippet": "The unary numeral system is the bijective base-1 numeral system. ... A form of \nunary notation, called Church encoding, is used to represent numbers within the\n\u00a0...", 
+            "htmlSnippet": "The <b>unary</b> numeral system is the bijective base-1 numeral system. ... A form of <br>\n<b>unary</b> notation, called Church <b>encoding</b>, is used to represent numbers within the<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Unary_numeral_system", 
+            "cacheId": "mpihxd2JRZcJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Golomb coding - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:Golomb <b>coding</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3AGolomb_coding", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3AGolomb_<b>coding</b>", 
+            "snippet": "...[edit]. On the Unary Coding page it says 5 is represented as 11110 yet in the \ntable on the Golomb coding page it\u00a0...", 
+            "htmlSnippet": "...[edit]. On the <b>Unary Coding</b> page it says 5 is represented as 11110 yet in the <br>\ntable on the Golomb coding page it&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3AGolomb_coding", 
+            "cacheId": "ncxEf1GmdgAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Instantaneously trained neural networks - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Instantaneously trained neural networks - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../Instantaneously_trained_neural_networks", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Instantaneously_trained_neural_networks", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "223", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSokjaUe3Fd-5-dqNboRBlMlRLPLtb1IPSdwYExXOKiWADZMUCLiOnuwKM", 
+                        "height": "67"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/math/6/f/2/6f2f5e43d1ffcbdcda0386b5c1ef51c0.png"
+                    }
+                ]
+            }, 
+            "snippet": "These networks use unary coding for an effective representation of the data sets. \nInstantaneously trained neural networks have been proposed as models of\u00a0...", 
+            "htmlSnippet": "These networks use <b>unary coding</b> for an effective representation of the data sets. <br>\nInstantaneously trained neural networks have been proposed as models of&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Instantaneously_trained_neural_networks", 
+            "cacheId": "WXt3owo2VNgJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Elias gamma coding - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Elias gamma <b>coding</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Elias_gamma_coding", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Elias_gamma_<b>coding</b>", 
+            "snippet": "Elias gamma code is a universal code encoding positive integers developed by \nPeter Elias. :197 ... Encode N in unary; that is, as N zeroes followed by a one.", 
+            "htmlSnippet": "Elias gamma <b>code</b> is a universal <b>code encoding</b> positive integers developed by <br>\nPeter Elias. <sup>:197</sup> ... Encode N in <b>unary</b>; that is, as N zeroes followed by a one.", 
+            "link": "https://en.wikipedia.org/wiki/Elias_gamma_coding", 
+            "cacheId": "wSAUZgygYxUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Entropy encoding - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Entropy <b>encoding</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Entropy_encoding", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Entropy_<b>encoding</b>", 
+            "snippet": "In information theory an entropy encoding is a lossless data compression ... or \nFibonacci coding) and Golomb codes (such as unary coding or Rice coding).", 
+            "htmlSnippet": "In information theory an entropy encoding is a lossless data compression ... or <br>\nFibonacci coding) and Golomb codes (such as <b>unary coding</b> or Rice coding).", 
+            "link": "https://en.wikipedia.org/wiki/Entropy_encoding", 
+            "cacheId": "aWEsMzC_z2YJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Unary - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Unary</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Unary", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Unary</b>", 
+            "snippet": "Unary numeral system, the simplest numeral system to represent natural ... Unary \ncoding, an entropy encoding that represents a number n with n \u2212 1 ones\u00a0...", 
+            "htmlSnippet": "Unary numeral system, the simplest numeral system to represent natural ... <b>Unary</b> <br>\n<b>coding</b>, an entropy encoding that represents a number n with n \u2212 1 ones&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Unary", 
+            "cacheId": "1h6jp9hDdR4J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Prefix code - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Prefix <b>code</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Prefix_code", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Prefix_<b>code</b>", 
+            "snippet": "A prefix code is a type of code system (typically a variable-length code) ... \nAlthough Huffman coding is just one of many algorithms for deriving prefix codes, \nprefix .... Elias omega coding \u00b7 Fibonacci coding \u00b7 Levenshtein coding \u00b7 Unary \ncoding\u00a0...", 
+            "htmlSnippet": "A prefix code is a type of code system (typically a variable-length code) ... <br>\nAlthough Huffman coding is just one of many algorithms for deriving prefix codes, <br>\nprefix .... Elias omega coding &middot; Fibonacci coding &middot; Levenshtein coding &middot; <b>Unary</b> <br>\n<b>coding</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Prefix_code", 
+            "cacheId": "_fS3RTtMcxUJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Unary coding", 
+                "safe": "off", 
+                "searchTerms": "Unary coding", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "527"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Unary coding", 
+                "safe": "off", 
+                "searchTerms": "Unary coding", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "527"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.34", 
+        "formattedTotalResults": "527", 
+        "totalResults": "527", 
+        "searchTime": 0.341765
+    }
+}

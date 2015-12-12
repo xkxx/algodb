@@ -25,7 +25,8 @@ PAVA (Pool-Adjacent-Violators Algorithm)
 Multiplicative Weights
 Needleman-Wunsch
 Smith-Waterman
-Ullmann's algorithm
+Ullmann's algorithm for subgraph isomorphism solving
+The maximum common subgraph isomorphism problem may be computed with a modular product graph
 Burrows-Wheeler transform
 Deflate
 Delta encoding
@@ -43,6 +44,7 @@ EZW (Embedded Zerotree Wavelet)
 Zopfli
 Brotli
 Entropy encoding
+Coding scheme that assigns codes to symbols so as to match code lengths with the probabilities of the symbols
 Huffman coding
 Adaptive Huffman coding
 Arithmetic coding
@@ -59,10 +61,9 @@ Fractal compression
 Transform coding
 Vector quantization
 Wavelet compression
-Advanced Encryption Standard (AES)
-Rijndael
+Advanced Encryption Standard (AES), also known as Rijndael
 Blowfish
-Data Encryption Standard (DES)
+Data Encryption Standard (DES), formerly DE Algorithm
 IDEA (International Data Encryption Algorithm)
 RC4 or ARC4
 Tiny Encryption Algorithm
@@ -150,7 +151,7 @@ Binary tree sort
 Bogosort
 Bubble sort
 Bucket sort
-Cocktail sort
+Cocktail sort (or bidirectional bubble, shaker, ripple, shuttle, happy hour sort)
 Comb sort
 Counting sort
 Gnome sort
@@ -168,7 +169,7 @@ Shell sort
 Smoothsort
 Stochastic sort
 Simple Merge
-k-way Merge sort
+k-way Merge sort (or p-way
 Davis–Putnam algorithm
 Buchberger's algorithm
 Extended Euclidean algorithm

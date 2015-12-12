@@ -1,0 +1,208 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Connected-component labeling - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Connected-component labeling - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Connected-component_labeling", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Connected-component_labeling", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "80", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSDqnC2alPbYFq7fZQq1Bql31sf0jaD7v1XHCl2TxDNGqlUhy5qqw0MSQ", 
+                        "height": "80"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Square_4_connectivity.png/100px-Square_4_connectivity.png"
+                    }
+                ]
+            }, 
+            "snippet": "Blob extraction is generally performed on the resulting binary image from a \nthresholding step. .... image. A counter is initialized to count the number of objects\n.", 
+            "htmlSnippet": "Blob extraction is generally performed on the resulting binary <b>image</b> from a <br>\nthresholding step. .... <b>image</b>. A counter is initialized to <b>count</b> the number of <b>objects</b><br>\n.", 
+            "link": "https://en.wikipedia.org/wiki/Connected-component_labeling", 
+            "cacheId": "EMwaFwJPag8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Outline of object recognition - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Outline of <b>object</b> recognition - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Outline_of_object_recognition", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Outline_of_<b>object</b>_recognition", 
+            "snippet": "Better \u2013 count the number of template edge pixels with some distance of an edge \n... a search is used to find feasible matches between object features and image\u00a0...", 
+            "htmlSnippet": "Better \u2013 <b>count</b> the number of template edge pixels with some distance of an edge <br>\n... a search is used to find feasible matches between <b>object</b> features and <b>image</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Outline_of_object_recognition", 
+            "cacheId": "Mlu1YmFxAbYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Minimum spanning tree-based segmentation - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Minimum spanning tree-based segmentation - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../Minimum_spanning_tree-based_segmentation", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Minimum_spanning_tree-based_segmentation", 
+            "snippet": "The higher-level region representation simplifies image analysis tasks such as \ncounting objects or detecting changes, because region attributes (e.g. average\u00a0...", 
+            "htmlSnippet": "The higher-level region representation simplifies <b>image</b> analysis tasks such as <br>\n<b>counting objects</b> or detecting changes, because region attributes (e.g. average&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Minimum_spanning_tree-based_segmentation", 
+            "cacheId": "B639K5y9LFsJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Counting - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Counting</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Counting", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Counting</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "158", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSQ-pTbtRNFcLic9AnE4GqIR0-CVkihmCvem4YXgZKIY4ZJlIksx1yO4sIb", 
+                        "height": "319"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Hanakapiai_Beach_Warning_Sign_Only.jpg/220px-Hanakapiai_Beach_Warning_Sign_Only.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "This is useful when counting objects over time, such as the number of times .... \nthe fact that for x in X outside S, f(x) cannot be in the image of the restriction.", 
+            "htmlSnippet": "This is useful when <b>counting objects</b> over time, such as the number of times .... <br>\nthe fact that for x in X outside S, f(x) cannot be in the <b>image</b> of the restriction.", 
+            "link": "https://en.wikipedia.org/wiki/Counting", 
+            "cacheId": "iV0Ov2UUwK0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Image resolution - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Image</b> resolution - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Image_resolution", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Image</b>_resolution", 
+            "snippet": "Image at left has a higher pixel count than the one to the right, but is still of ... \nbecause the physical distance between objects in the image depends on their\u00a0...", 
+            "htmlSnippet": "<b>Image</b> at left has a higher pixel <b>count</b> than the one to the right, but is still of ... <br>\nbecause the physical distance between <b>objects</b> in the <b>image</b> depends on their&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Image_resolution", 
+            "cacheId": "_uNz4FIsDwcJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Image analysis - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Image</b> analysis - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Image_analysis", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Image</b>_analysis", 
+            "snippet": "Image analysis is the extraction of meaningful information from images; mainly \nfrom digital ... machine vision, such as to automatically count items in a factory \nconveyor belt. security, ... Image segmentation during the object base image \nanalysis.", 
+            "htmlSnippet": "<b>Image</b> analysis is the extraction of meaningful information from images; mainly <br>\nfrom digital ... machine vision, such as to automatically <b>count</b> items in a factory <br>\nconveyor belt. security, ... <b>Image</b> segmentation during the <b>object</b> base <b>image</b> <br>\nanalysis.", 
+            "link": "https://en.wikipedia.org/wiki/Image_analysis", 
+            "cacheId": "2YjKl9TaYhgJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Color histogram - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Color histogram - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Color_histogram", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Color_histogram", 
+            "snippet": "In image processing and photography, a color histogram is a representation of ... \nin the image into a number of bins, and counting the number of image pixels in ... \nthe problem of recognizing an object of unknown position and rotation within a\u00a0...", 
+            "htmlSnippet": "In <b>image</b> processing and photography, a color histogram is a representation of ... <br>\nin the <b>image</b> into a number of bins, and <b>counting</b> the number of <b>image</b> pixels in ... <br>\nthe problem of recognizing an <b>object</b> of unknown position and rotation within a&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Color_histogram", 
+            "cacheId": "biPdTUsyaPUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Blob detection - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Blob detection - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Blob_detection", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Blob_detection", 
+            "snippet": "These regions could signal the presence of objects or parts of objects in the \nimage domain with application to object recognition and/or object tracking. In \nother\u00a0...", 
+            "htmlSnippet": "These regions could signal the presence of <b>objects</b> or parts of <b>objects</b> in the <br>\n<b>image</b> domain with application to <b>object</b> recognition and/or <b>object</b> tracking. In <br>\nother&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Blob_detection", 
+            "cacheId": "L7MRNWME2AQJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Korean count word - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Korean <b>count</b> word - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Korean_count_word", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Korean_<b>count</b>_word", 
+            "snippet": "... Korean uses special measure or counting words to count objects and events, ... \nwords are frequently extended in metaphorical or other image-based ways.", 
+            "htmlSnippet": "... Korean uses special measure or <b>counting</b> words to <b>count objects</b> and events, ... <br>\nwords are frequently extended in metaphorical or other <b>image</b>-based ways.", 
+            "link": "https://en.wikipedia.org/wiki/Korean_count_word", 
+            "cacheId": "xirIruYwE4QJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Subitizing - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Subitizing - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Subitizing", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Subitizing", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "180", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSYNWxAUa567FVTdr0gX3siaQ1QiH5RLr6X4RRh_xCRZ881dGMS4LpdYRzI", 
+                        "height": "254"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Subitizing.svg/225px-Subitizing.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "Number judgments for larger set-sizes were referred to either as counting or ... \nWhen the number of objects presented exceeds the subitizing range, this feeling\n\u00a0...", 
+            "htmlSnippet": "Number judgments for larger set-sizes were referred to either as <b>counting</b> or ... <br>\nWhen the number of <b>objects</b> presented exceeds the subitizing range, this feeling<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Subitizing", 
+            "cacheId": "_3qa1nGGUZYJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Counting objects in an image", 
+                "safe": "off", 
+                "searchTerms": "Counting objects in an image", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "464000"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Counting objects in an image", 
+                "safe": "off", 
+                "searchTerms": "Counting objects in an image", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "464000"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.34", 
+        "formattedTotalResults": "464,000", 
+        "totalResults": "464000", 
+        "searchTime": 0.338841
+    }
+}

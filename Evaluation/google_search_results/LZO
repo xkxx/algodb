@@ -1,0 +1,201 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Lempel\u2013Ziv\u2013Oberhumer - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Lempel\u2013Ziv\u2013Oberhumer</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Lempel\u2013Ziv\u2013Oberhumer", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Lempel\u2013Ziv\u2013Oberhumer", 
+            "snippet": "LZO supports overlapping compression and in-place decompression. As a block \ncompression algorithm, it compresses and decompresses blocks of data.", 
+            "htmlSnippet": "<b>LZO</b> supports overlapping compression and in-place decompression. As a block <br>\ncompression algorithm, it compresses and decompresses blocks of data.", 
+            "link": "https://en.wikipedia.org/wiki/Lempel%E2%80%93Ziv%E2%80%93Oberhumer", 
+            "cacheId": "dekIOoljB_wJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "LZO - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>LZO</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/LZO", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>LZO</b>", 
+            "snippet": "This disambiguation page lists articles associated with the title LZO. If an internal \nlink led you here, you may wish to change the link to point directly to the\u00a0...", 
+            "htmlSnippet": "This disambiguation page lists articles associated with the title <b>LZO</b>. If an internal <br>\nlink led you here, you may wish to change the link to point directly to the&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/LZO", 
+            "cacheId": "1-MqDio8zjAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "lzop - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "lzop - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Lzop", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Lzo</b>p", 
+            "snippet": "lzop is a free software file compression tool which uses LZO and is under the \nGPL. Aimed at being very fast, lzop produces files a bit larger than gzip's but with\n\u00a0...", 
+            "htmlSnippet": "lzop is a free software file compression tool which uses <b>LZO</b> and is under the <br>\nGPL. Aimed at being very fast, lzop produces files a bit larger than gzip&#39;s but with<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Lzop", 
+            "cacheId": "w-YnS3Irde0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "LZ4 (compression algorithm) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "LZ4 (compression algorithm) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/LZ4_(compression_algorithm)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/LZ4_(compression_algorithm)", 
+            "snippet": "The algorithm gives a slightly worse compression ratio than the LZO algorithm \u2013 \nwhich in turn is worse than algorithms like gzip. However, compression speeds\u00a0...", 
+            "htmlSnippet": "The algorithm gives a slightly worse compression ratio than the <b>LZO</b> algorithm \u2013 <br>\nwhich in turn is worse than algorithms like gzip. However, compression speeds&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/LZ4_(compression_algorithm)", 
+            "cacheId": "XEVWJqVXfTMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Luzhou Lantian Airport - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Luzhou Lantian Airport - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Luzhou_Lantian_Airport", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Luzhou_Lantian_Airport", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ8izM1IXBR-P6g_Oa0zFKnoQu4HnSBw4QzwFxOA4f1gYDcEd-dsaFB9B_m", 
+                        "height": "152"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/China_Sichuan_location_map.svg/220px-China_Sichuan_location_map.svg.png"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "category": "Public", 
+                        "nickname": "\u6cf8\u5dde\u84dd\u7530\u673a\u573a", 
+                        "fn": "Luzhou Lantian Airport"
+                    }
+                ]
+            }, 
+            "snippet": "LZO is located in Sichuan. LZO. Location of airport in Sichuan. Runways ... \nLuzhou Lantian Airport (Chinese: \u6cf8\u5dde\u84dd\u7530\u673a\u573a) (IATA: LZO, ICAO: ZULZ) is an \nairport\u00a0...", 
+            "htmlSnippet": "<b>LZO</b> is located in Sichuan. <b>LZO</b>. Location of airport in Sichuan. Runways ... <br>\nLuzhou Lantian Airport (Chinese: \u6cf8\u5dde\u84dd\u7530\u673a\u573a) (IATA: <b>LZO</b>, ICAO: ZULZ) is an <br>\nairport&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Luzhou_Lantian_Airport", 
+            "cacheId": "-teCvu-__wYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Lempel\u2013Ziv\u2013Oberhumer - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:Lempel\u2013Ziv\u2013Oberhumer - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3ALempel\u2013Ziv\u2013Oberhumer", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3ALempel\u2013Ziv\u2013Oberhumer", 
+            "snippet": "Author's own benchmarks at http://www.oberhumer.com/opensource/lzo/lzodoc.\nphp don't support that speed claim. Skarkkai (talk) 12:23, 5 July 2009 (UTC).", 
+            "htmlSnippet": "Author&#39;s own benchmarks at http://www.oberhumer.com/opensource/<b>lzo</b>/lzodoc.<br>\nphp don&#39;t support that speed claim. Skarkkai (talk) 12:23, 5 July 2009 (UTC).", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3ALempel%E2%80%93Ziv%E2%80%93Oberhumer", 
+            "cacheId": "2OfuNlXpvAAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "SquashFS - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "SquashFS - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/SquashFS", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/SquashFS", 
+            "snippet": "The original version of SquashFS used gzip compression, although Linux kernel \n2.6.34 added support for LZMA and LZO compression, Linux kernel 2.6.38\u00a0...", 
+            "htmlSnippet": "The original version of SquashFS used gzip compression, although Linux kernel <br>\n2.6.34 added support for LZMA and <b>LZO</b> compression, Linux kernel 2.6.38&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/SquashFS", 
+            "cacheId": "zCshqZcSIKsJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "zswap - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "zswap - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Zswap", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Zswap", 
+            "snippet": "... if not specified, it defaults to deflate that selects the Lempel\u2013Ziv\u2013Oberhumer (\nLZO) compression. As of version 3.13 of the Linux kernel, zswap also needs to be\n\u00a0...", 
+            "htmlSnippet": "... if not specified, it defaults to deflate that selects the Lempel\u2013Ziv\u2013Oberhumer (<br>\n<b>LZO</b>) compression. As of version 3.13 of the Linux kernel, zswap also needs to be<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Zswap", 
+            "cacheId": "TH_in29vojoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "File Roller - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "File Roller - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/File_Roller", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/File_Roller", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "240", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR_FPeFpU6wCjK3ljCvsM41wmblKQsHPajMUmVsef3Q9BJEv5MDgKybkto", 
+                        "height": "135"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/File-roller_3.10.1.png/300px-File-roller_3.10.1.png"
+                    }
+                ]
+            }, 
+            "snippet": "... (.zoo); Single files compressed with gzip, bzip, bzip2, compress, lzip, LZO, xz; \nISO images (.iso) (read-only); DEB (.deb) (read-only); RPM (.rpm) (read-only)\u00a0...", 
+            "htmlSnippet": "... (.zoo); Single files compressed with gzip, bzip, bzip2, compress, lzip, <b>LZO</b>, xz; <br>\nISO images (.iso) (read-only); DEB (.deb) (read-only); RPM (.rpm) (read-only)&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/File_Roller", 
+            "cacheId": "Ugv0LGs03MUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "List of archive formats - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "List of archive formats - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/List_of_archive_formats", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/List_of_archive_formats", 
+            "snippet": "... Windows, Unix-like, Mac OS X \u00b7 Windows, Unix-like, Mac OS X, Yes, Open \nsource file format. Files are compressed individually with either gzip, bzip2 or lzo.", 
+            "htmlSnippet": "... Windows, Unix-like, Mac OS X &middot; Windows, Unix-like, Mac OS X, Yes, Open <br>\nsource file format. Files are compressed individually with either gzip, bzip2 or <b>lzo</b>.", 
+            "link": "https://en.wikipedia.org/wiki/List_of_archive_formats", 
+            "cacheId": "kSAM5YO31TwJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - LZO", 
+                "safe": "off", 
+                "searchTerms": "LZO", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "266"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - LZO", 
+                "safe": "off", 
+                "searchTerms": "LZO", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "266"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.19", 
+        "formattedTotalResults": "266", 
+        "totalResults": "266", 
+        "searchTime": 0.185503
+    }
+}

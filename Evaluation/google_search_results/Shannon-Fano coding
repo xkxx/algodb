@@ -1,0 +1,278 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Shannon\u2013Fano coding - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Shannon</b>\u2013<b>Fano coding</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Shannon\u2013Fano_coding", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Shannon</b>\u2013<b>Fano</b>_<b>coding</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "194", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTwliJfPHKQFbiJsvBQYmNU7qZ2JuiJ3qQcYuscY3h357CwZekzFeYLDE-R", 
+                        "height": "260"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/ShannonCodeAlg.svg/300px-ShannonCodeAlg.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "In the field of data compression, Shannon\u2013Fano coding, named after Claude \nShannon and Robert Fano, is a technique for constructing a prefix code based on \na\u00a0...", 
+            "htmlSnippet": "In the field of data compression, <b>Shannon</b>\u2013<b>Fano coding</b>, named after Claude <br>\nShannon and Robert Fano, is a technique for constructing a prefix code based on <br>\na&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Shannon%E2%80%93Fano_coding", 
+            "cacheId": "fRYnwho0PjcJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Shannon coding - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Shannon coding</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Shannon_coding", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Shannon</b>_<b>coding</b>", 
+            "snippet": "In the field of data compression, Shannon coding, named after its creator, Claude \n... coding, and never better but sometime equal to the Shannon-Fano coding.", 
+            "htmlSnippet": "In the field of data compression, Shannon coding, named after its creator, Claude <br>\n... coding, and never better but sometime equal to the <b>Shannon</b>-<b>Fano coding</b>.", 
+            "link": "https://en.wikipedia.org/wiki/Shannon_coding", 
+            "cacheId": "yaYefubikBgJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Shannon\u2013Fano\u2013Elias coding - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Shannon</b>\u2013<b>Fano</b>\u2013Elias <b>coding</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Shannon\u2013Fano\u2013Elias_coding", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Shannon</b>\u2013<b>Fano</b>\u2013Elias_<b>coding</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "117", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnGvWS5EuNKuxHaCQ7eHb3SNgaziZqdPZoeuToHX37ich_cVvAL-tX", 
+                        "height": "46"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/math/5/d/5/5d5ec1afd124c851b29891c15cdeb7c3.png"
+                    }
+                ]
+            }, 
+            "snippet": "In information theory, Shannon\u2013Fano\u2013Elias coding is a precursor to arithmetic \ncoding, in which probabilities are used to determine codewords.", 
+            "htmlSnippet": "In information theory, <b>Shannon</b>\u2013<b>Fano</b>\u2013Elias <b>coding</b> is a precursor to arithmetic <br>\n<b>coding</b>, in which probabilities are used to determine codewords.", 
+            "link": "https://en.wikipedia.org/wiki/Shannon%E2%80%93Fano%E2%80%93Elias_coding", 
+            "cacheId": "tKwgpQCEhj0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Shannon's source coding theorem - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Shannon&#39;s</b> source <b>coding</b> theorem - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Shannon's_source_coding_theorem", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Shannon&#39;s</b>_source_<b>coding</b>_theorem", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "225", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQg8e-RKceVwsLNVLRxiXKsbwIHczV2sguyysUTR-CiYtoD_ooBiHBDg9s", 
+                        "height": "224"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/math/b/e/c/becaa3825d0fe306062415caa9f59f50.png"
+                    }
+                ]
+            }, 
+            "snippet": "In information theory, Shannon's source coding theorem (or noiseless coding \ntheorem) establishes the limits to possible data compression, and the operational\n\u00a0...", 
+            "htmlSnippet": "In information theory, <b>Shannon&#39;s</b> source <b>coding</b> theorem (or noiseless <b>coding</b> <br>\ntheorem) establishes the limits to possible data compression, and the operational<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Shannon's_source_coding_theorem", 
+            "cacheId": "ctQzuxX47YMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Shannon\u2013Fano coding - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Shannon</b>\u2013<b>Fano coding</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3AShannon\u2013Fano_coding", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>Shannon</b>\u2013<b>Fano</b>_<b>coding</b>", 
+            "snippet": "Text and/or other creative content from this version of Shannon\u2013Fano coding was \n... Especially as the Wikipedia description of Shannon-Fano coding is entirely\u00a0...", 
+            "htmlSnippet": "Text and/or other creative content from this version of <b>Shannon</b>\u2013<b>Fano coding</b> was <br>\n... Especially as the Wikipedia description of <b>Shannon</b>-<b>Fano coding</b> is entirely&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3AShannon%E2%80%93Fano_coding", 
+            "cacheId": "MHlUkpwC944J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "File:Shannon\u2013Fano-Coding.png - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "File:<b>Shannon</b>\u2013<b>Fano</b>-<b>Coding</b>.png - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/File:Shannon\u2013Fano-Coding.png", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/File:<b>Shannon</b>\u2013<b>Fano</b>-<b>Coding</b>.png", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "194", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT6T5q0_7pGL4_RNrolOh0OtnmbI15cS7ezqxkTUVe2PcT_YY4ZWPWIwNY", 
+                        "height": "260"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/0/09/Shannon%E2%80%93Fano-Coding.png/448px-Shannon%E2%80%93Fano-Coding.png"
+                    }
+                ]
+            }, 
+            "snippet": "Description. Shannon Fano tree generated from small set of alphabet. Source. \nThe image can be found in German Wikipedia de:Bild:ShannonCodeAlg.png.", 
+            "htmlSnippet": "Description. <b>Shannon Fano</b> tree generated from small set of alphabet. Source. <br>\nThe image can be found in German Wikipedia de:Bild:ShannonCodeAlg.png.", 
+            "link": "https://en.wikipedia.org/wiki/File:Shannon%E2%80%93Fano-Coding.png", 
+            "cacheId": "ocUOFcxhSkkJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Robert Fano - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Robert <b>Fano</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Robert_Fano", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Robert_<b>Fano</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQeEFDCYsmX3BZIxKmSOLfDefC1ywvTtuNO80qpYMBrVqMd2W_hjbMc_lH4", 
+                        "height": "240"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Robert_Fano_2012-03-13.jpg/220px-Robert_Fano_2012-03-13.jpg"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "bday": "1917-11-11", 
+                        "category": "computer science, information theory", 
+                        "fn": "Robert Mario Fano"
+                    }
+                ]
+            }, 
+            "snippet": "Fano is known principally for his work on information theory, inventing (with \nClaude Shannon) Shannon-Fano coding and deriving the Fano inequality. In the\n\u00a0...", 
+            "htmlSnippet": "Fano is known principally for his work on information theory, inventing (with <br>\nClaude Shannon) <b>Shannon</b>-<b>Fano coding</b> and deriving the Fano inequality. In the<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Robert_Fano", 
+            "cacheId": "nis0-izf-okJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Huffman coding - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Huffman <b>coding</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Huffman_coding", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Huffman_<b>coding</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRYt7j1GzJ2J4MU-pW1eHPgyVexM8gIc3kPK7SfJuMfK8y87IiEYnZx6w", 
+                        "height": "113"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Huffman_tree_2.svg/220px-Huffman_tree_2.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "In doing so, Huffman outdid Fano, who had worked with information theory \ninventor Claude Shannon to develop a similar code. By building the tree from the\n\u00a0...", 
+            "htmlSnippet": "In doing so, Huffman outdid <b>Fano</b>, who had worked with information theory <br>\ninventor Claude <b>Shannon</b> to develop a similar <b>code</b>. By building the tree from the<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Huffman_coding", 
+            "cacheId": "09-XufA259YJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Claude Shannon - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Claude <b>Shannon</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Claude_Shannon", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Claude_<b>Shannon</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "160", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgQ01UKK07KiTIS4jEAuxBzwlGBm8Y1zjqB66twBRGsffuobvE4qEzh7T8", 
+                        "height": "225"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2f/Claude_Elwood_Shannon_(1916-2001).jpg/200px-Claude_Elwood_Shannon_(1916-2001).jpg"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "bday": "1916-04-30", 
+                        "category": "Mathematics and electronic engineering", 
+                        "fn": "Claude Shannon"
+                    }
+                ]
+            }, 
+            "snippet": "Claude Elwood Shannon (1916-2001).jpg ... Claude E. Shannon Award (1972) \n.... cryptanalytic service the methods used by the British Government Code and \n..... Shannon\u2013Fano coding \u00b7 Shannon\u2013Hartley theorem \u00b7 Shannon's expansion\u00a0...", 
+            "htmlSnippet": "Claude Elwood Shannon (1916-2001).jpg ... Claude E. Shannon Award (1972) <br>\n.... cryptanalytic service the methods used by the British Government Code and <br>\n..... <b>Shannon</b>\u2013<b>Fano coding</b> &middot; Shannon\u2013Hartley theorem &middot; Shannon&#39;s expansion&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Claude_Shannon", 
+            "cacheId": "8fYHABfE3pYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "User:C-processor/Polar Tree - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "User:C-processor/Polar Tree - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/User:C-processor/Polar_Tree", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/User:C-processor/Polar_Tree", 
+            "snippet": "Other binary coding methods include Shannon-Fano coding and Huffman coding\n. All three methods of constructing codes are called prefix coding because none\u00a0...", 
+            "htmlSnippet": "Other binary coding methods include <b>Shannon</b>-<b>Fano coding</b> and Huffman coding<br>\n. All three methods of constructing codes are called prefix coding because none&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/User:C-processor/Polar_Tree", 
+            "cacheId": "2goGbsjIPWwJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Shannon-Fano coding", 
+                "safe": "off", 
+                "searchTerms": "Shannon-Fano coding", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "216"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Shannon-Fano coding", 
+                "safe": "off", 
+                "searchTerms": "Shannon-Fano coding", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "216"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.25", 
+        "formattedTotalResults": "216", 
+        "totalResults": "216", 
+        "searchTime": 0.252318
+    }
+}

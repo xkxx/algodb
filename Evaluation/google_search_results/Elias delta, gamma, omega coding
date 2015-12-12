@@ -1,0 +1,180 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Elias omega coding - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Elias omega coding</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Elias_omega_coding", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Elias</b>_<b>omega</b>_<b>coding</b>", 
+            "snippet": "Elias omega coding is a universal code encoding the positive integers developed \nby Peter Elias. Like Elias gamma coding and Elias delta coding, it works by\u00a0...", 
+            "htmlSnippet": "<b>Elias omega coding</b> is a universal <b>code encoding</b> the positive integers developed <br>\nby Peter <b>Elias</b>. Like <b>Elias gamma coding</b> and <b>Elias delta coding</b>, it works by&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Elias_omega_coding", 
+            "cacheId": "FZGqsI8g9JYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Elias delta coding - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Elias delta coding</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Elias_delta_coding", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Elias</b>_<b>delta</b>_<b>coding</b>", 
+            "snippet": "Elias delta code is a universal code encoding the positive integers developed by \nPeter Elias. :200 ... Encode N+1 with Elias gamma coding. Append the ... To \ndecode an Elias delta-coded integer: .... Elias gamma coding \u00b7 Elias omega \ncoding\u00a0...", 
+            "htmlSnippet": "<b>Elias delta code</b> is a universal <b>code encoding</b> the positive integers developed by <br>\nPeter <b>Elias</b>. <sup>:200</sup> ... Encode N+1 with <b>Elias gamma coding</b>. Append the ... To <br>\ndecode an <b>Elias delta</b>-<b>coded</b> integer: .... <b>Elias gamma coding</b> &middot; <b>Elias omega</b> <br>\n<b>coding</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Elias_delta_coding", 
+            "cacheId": "6HpNPNEDs-IJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Elias gamma coding - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Elias gamma coding</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Elias_gamma_coding", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Elias</b>_<b>gamma</b>_<b>coding</b>", 
+            "snippet": "Elias gamma code is a universal code encoding positive integers developed by \nPeter Elias. :197 ... Gamma coding is a building block in the Elias delta code.", 
+            "htmlSnippet": "<b>Elias gamma code</b> is a universal <b>code encoding</b> positive integers developed by <br>\nPeter <b>Elias</b>. <sup>:197</sup> ... <b>Gamma coding</b> is a building block in the <b>Elias delta code</b>.", 
+            "link": "https://en.wikipedia.org/wiki/Elias_gamma_coding", 
+            "cacheId": "wSAUZgygYxUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Universal code (data compression) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Universal <b>code</b> (data compression) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Universal_code_(data_compression)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Universal_<b>code</b>_(data_compression)", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQdSTNoKyhVOQBf7kdC1SrbJ25ftK_6nSR3OdYYe9tTN9Sli5aSRAXpGx8", 
+                        "height": "117"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Fibonacci,_Elias_Gamma,_and_Elias_Delta_encoding_schemes.GIF/220px-Fibonacci,_Elias_Gamma,_and_Elias_Delta_encoding_schemes.GIF"
+                    }
+                ]
+            }, 
+            "snippet": "Fibonacci, Elias Gamma, and Elias Delta vs binary coding ... In data compression\n, a universal code for integers is a prefix code that maps the ... Elias omega \ncoding * \u2021; Exp-Golomb coding *, which has Elias gamma coding as a special \ncase.", 
+            "htmlSnippet": "Fibonacci, <b>Elias Gamma</b>, and <b>Elias Delta</b> vs binary <b>coding</b> ... In data compression<br>\n, a universal <b>code</b> for integers is a prefix <b>code</b> that maps the ... <b>Elias omega</b> <br>\n<b>coding</b> * \u2021; Exp-Golomb <b>coding</b> *, which has <b>Elias gamma coding</b> as a special <br>\ncase.", 
+            "link": "https://en.wikipedia.org/wiki/Universal_code_(data_compression)", 
+            "cacheId": "0yLdIxediM8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Elias coding - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Elias coding</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Elias_coding", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Elias</b>_<b>coding</b>", 
+            "snippet": "Elias coding is term used for one of two types of lossless coding schemes used in \ndigital ... Elias delta coding \u00b7 Elias gamma coding \u00b7 Elias omega coding\u00a0...", 
+            "htmlSnippet": "<b>Elias coding</b> is term used for one of two types of lossless <b>coding</b> schemes used in <br>\ndigital ... <b>Elias delta coding</b> &middot; <b>Elias gamma coding</b> &middot; <b>Elias omega coding</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Elias_coding", 
+            "cacheId": "p7VbPv8OuCcJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Exponential-Golomb coding - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Exponential-Golomb <b>coding</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Exponential-Golomb_coding", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Exponential-Golomb_<b>coding</b>", 
+            "snippet": "An exponential-Golomb code (or just Exp-Golomb code) is a type of universal \ncode. ... This is identical to the Elias gamma code of x+1, allowing it to encode 0.", 
+            "htmlSnippet": "An exponential-Golomb <b>code</b> (or just Exp-Golomb <b>code</b>) is a type of universal <br>\n<b>code</b>. ... This is identical to the <b>Elias gamma code</b> of x+1, allowing it to encode 0.", 
+            "link": "https://en.wikipedia.org/wiki/Exponential-Golomb_coding", 
+            "cacheId": "vKGoxFXgSmsJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Elias omega coding - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Elias omega coding</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3AElias_omega_coding", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>Elias</b>_<b>omega</b>_<b>coding</b>", 
+            "snippet": "I've added a link to Peter Elias for his delta, omega, and gamma codes. ... Ideally \none picks a universal code to use so that a symbol which takes n bits to encode\u00a0...", 
+            "htmlSnippet": "I&#39;ve added a link to Peter <b>Elias</b> for his <b>delta</b>, <b>omega</b>, and <b>gamma</b> codes. ... Ideally <br>\none picks a universal <b>code</b> to use so that a symbol which takes n bits to encode&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3AElias_omega_coding", 
+            "cacheId": "KgMJ5ZHeqj0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Category:Lossless compression algorithms - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Category:Lossless compression algorithms - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../Category:Lossless_compression_algorithms", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Category:Lossless_compression_algorithms", 
+            "snippet": "Elias delta coding \u00b7 Elias gamma coding \u00b7 Elias omega coding \u00b7 Embedded \nZerotrees of Wavelet transforms \u00b7 Entropy encoding \u00b7 Even-Rodeh coding\u00a0...", 
+            "htmlSnippet": "<b>Elias delta coding</b> &middot; <b>Elias gamma coding</b> &middot; <b>Elias omega coding</b> &middot; Embedded <br>\nZerotrees of Wavelet transforms &middot; Entropy <b>encoding</b> &middot; Even-Rodeh <b>coding</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Category:Lossless_compression_algorithms", 
+            "cacheId": "A6DIAuYLMZoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Prefix code - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Prefix <b>code</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Prefix_code", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Prefix_<b>code</b>", 
+            "snippet": "A prefix code is a type of code system (typically a variable-length code) .... Elias \ndelta coding \u00b7 Elias gamma coding \u00b7 Elias omega coding \u00b7 Fibonacci coding\u00a0...", 
+            "htmlSnippet": "A prefix <b>code</b> is a type of <b>code</b> system (typically a variable-length <b>code</b>) .... <b>Elias</b> <br>\n<b>delta coding</b> &middot; <b>Elias gamma coding</b> &middot; <b>Elias omega coding</b> &middot; Fibonacci <b>coding</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Prefix_code", 
+            "cacheId": "_fS3RTtMcxUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Category:Numeral systems - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Category:Numeral systems - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Category:Numeral_systems", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Category:Numeral_systems", 
+            "snippet": "E. Egyptian numerals \u00b7 Elias delta coding \u00b7 Elias gamma coding \u00b7 Elias omega \ncoding \u00b7 Engineering notation \u00b7 Excess-3 \u00b7 Exponential-Golomb coding\u00a0...", 
+            "htmlSnippet": "E. Egyptian numerals &middot; <b>Elias delta coding</b> &middot; <b>Elias gamma coding</b> &middot; <b>Elias omega</b> <br>\n<b>coding</b> &middot; Engineering notation &middot; Excess-3 &middot; Exponential-Golomb <b>coding</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Category:Numeral_systems", 
+            "cacheId": "q42xi5O5VMcJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Elias delta, gamma, omega coding", 
+                "safe": "off", 
+                "searchTerms": "Elias delta, gamma, omega coding", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "36"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Elias delta, gamma, omega coding", 
+                "safe": "off", 
+                "searchTerms": "Elias delta, gamma, omega coding", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "36"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.30", 
+        "formattedTotalResults": "36", 
+        "totalResults": "36", 
+        "searchTime": 0.300252
+    }
+}

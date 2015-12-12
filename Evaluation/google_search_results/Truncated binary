@@ -1,0 +1,208 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Truncated binary encoding - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Truncated binary</b> encoding - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Truncated_binary_encoding", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Truncated</b>_<b>binary</b>_encoding", 
+            "snippet": "Truncated binary encoding is an entropy encoding typically used for uniform \nprobability distributions with a finite alphabet. It is parameterized by an alphabet\u00a0...", 
+            "htmlSnippet": "<b>Truncated binary</b> encoding is an entropy encoding typically used for uniform <br>\nprobability distributions with a finite alphabet. It is parameterized by an alphabet&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Truncated_binary_encoding", 
+            "cacheId": "2ZXH2QgAkw0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Exponential backoff - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Exponential backoff - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Exponential_backoff", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Exponential_backoff", 
+            "snippet": "1 Binary exponential backoff; 2 Example exponential back-off algorithm; 3 \nExpected ... In a variety of computer networks, binary exponential backoff or \ntruncated\u00a0...", 
+            "htmlSnippet": "1 <b>Binary</b> exponential backoff; 2 Example exponential back-off algorithm; 3 <br>\nExpected ... In a variety of computer networks, <b>binary</b> exponential backoff or <br>\n<b>truncated</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Exponential_backoff", 
+            "cacheId": "LQzieQARxkIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Truncated binary encoding - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Truncated binary</b> encoding - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3ATruncated_binary_encoding", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>Truncated</b>_<b>binary</b>_encoding", 
+            "snippet": "Did a fairly heavy overhaul of this page, and handled all outstanding requests on \nthis discussion page. As all the requests were over a year old, but very simple\u00a0...", 
+            "htmlSnippet": "Did a fairly heavy overhaul of this page, and handled all outstanding requests on <br>\nthis discussion page. As all the requests were over a year old, but very simple&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3ATruncated_binary_encoding", 
+            "cacheId": "Wx3nFLgl_-UJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Golomb coding - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Golomb coding - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Golomb_coding", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Golomb_coding", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "259", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSVBuwhhRAb1RkbtB_V6RuIxZ2ukCM66YkytxN_spOY_5RmnRd7IKNSQmmU", 
+                        "height": "194"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/9/93/Golomb_coded_Rice_Algorithm_experiment_Compression_Ratios.png"
+                    }
+                ]
+            }, 
+            "snippet": "The quotient is sent in unary coding, followed by the remainder in truncated \nbinary encoding. When M=1 Golomb coding is equivalent to unary coding.", 
+            "htmlSnippet": "The quotient is sent in unary coding, followed by the remainder in <b>truncated</b> <br>\n<b>binary</b> encoding. When M=1 Golomb coding is equivalent to unary coding.", 
+            "link": "https://en.wikipedia.org/wiki/Golomb_coding", 
+            "cacheId": "NsihSekPjW8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Template:Binary - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Template:<b>Binary</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Template:Binary", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Template:<b>Binary</b>", 
+            "snippet": "This template is for quickly converting a decimal number to binary. ... {{Binary|\n73.3333333|0}}, 10010012, Truncated at decimal point. {{Binary|73|5}}\u00a0...", 
+            "htmlSnippet": "This template is for quickly converting a decimal number to <b>binary</b>. ... {{<b>Binary</b>|<br>\n73.3333333|0}}, 10010012, <b>Truncated</b> at decimal point. {{<b>Binary</b>|73|5}}&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Template:Binary", 
+            "cacheId": "UkPkzWvqm1oJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Template:Binary/doc - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Template:<b>Binary</b>/doc - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Template:Binary/doc", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Template:<b>Binary</b>/doc", 
+            "snippet": "This template is for quickly converting a decimal number to binary. ... {{Binary|\n73.3333333|0}}, 10010012, Truncated at decimal point. {{Binary|73|5}}\u00a0...", 
+            "htmlSnippet": "This template is for quickly converting a decimal number to <b>binary</b>. ... {{<b>Binary</b>|<br>\n73.3333333|0}}, 10010012, <b>Truncated</b> at decimal point. {{<b>Binary</b>|73|5}}&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Template:Binary/doc", 
+            "cacheId": "rG666zuOlrUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Probit model - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Probit model - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Probit_model", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Probit_model", 
+            "snippet": "A probit model is a popular specification for an ordinal or a binary response \nmodel. As such it .... In this particular case, a truncated normal distribution arises.", 
+            "htmlSnippet": "A probit model is a popular specification for an ordinal or a <b>binary</b> response <br>\nmodel. As such it .... In this particular case, a <b>truncated</b> normal distribution arises.", 
+            "link": "https://en.wikipedia.org/wiki/Probit_model", 
+            "cacheId": "W0-K5LqCS9gJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Modulo operation - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Modulo operation - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Modulo_operation", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Modulo_operation", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "174", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpnh46tbNVOXeSWtVpBNUNU7gbIokYroyba2i3CQz0M52KWGX_00sa5us", 
+                        "height": "290"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/2/22/Divmod.svg/250px-Divmod.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "Many implementations use truncated division, where the quotient is defined by .... \n2003. . \"the binary % operator yields the remainder from the division of the first\u00a0...", 
+            "htmlSnippet": "Many implementations use <b>truncated</b> division, where the quotient is defined by .... <br>\n2003. . &quot;the <b>binary</b> % operator yields the remainder from the division of the first&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Modulo_operation", 
+            "cacheId": "EQCZss334iYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Numerically controlled oscillator - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Numerically controlled oscillator - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Numerically_controlled_oscillator", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Numerically_controlled_oscillator", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "296", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRXstDG2h8CMM9oW0FBvVw_h66cv962uR7n7bNuhppbstdJEKIb9BBHdg", 
+                        "height": "116"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/0/04/Generic_NCO.png"
+                    }
+                ]
+            }, 
+            "snippet": "If the PAC capacity is 2M, the PA output word must be truncated to M bits as ... A \nbinary phase accumulator consists of an N-bit binary adder and a register\u00a0...", 
+            "htmlSnippet": "If the PAC capacity is 2<sup>M</sup>, the PA output word must be <b>truncated</b> to M bits as ... A <br>\n<b>binary</b> phase accumulator consists of an N-bit <b>binary</b> adder and a register&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Numerically_controlled_oscillator", 
+            "cacheId": "mCh069G-7aYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "User:Mattflaschen/decimal to binary - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "User:Mattflaschen/decimal to <b>binary</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/User:Mattflaschen/decimal_to_binary", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/User:Mattflaschen/decimal_to_<b>binary</b>", 
+            "snippet": "{{User:Superm401/decimal to binary|57}} produces: 1110012. and ... Then, the \nremaining value is divided by the appropriate power of 2, then truncated to 0 or 1.", 
+            "htmlSnippet": "{{User:Superm401/decimal to <b>binary</b>|57}} produces: 1110012. and ... Then, the <br>\nremaining value is divided by the appropriate power of 2, then <b>truncated</b> to 0 or 1.", 
+            "link": "https://en.wikipedia.org/wiki/User:Mattflaschen/decimal_to_binary", 
+            "cacheId": "emQp9wdw2DMJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Truncated binary", 
+                "safe": "off", 
+                "searchTerms": "Truncated binary", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "908"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Truncated binary", 
+                "safe": "off", 
+                "searchTerms": "Truncated binary", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "908"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.23", 
+        "formattedTotalResults": "908", 
+        "totalResults": "908", 
+        "searchTime": 0.227455
+    }
+}

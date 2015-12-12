@@ -1,0 +1,249 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Sentiment analysis - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Sentiment analysis</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Sentiment_analysis", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Sentiment</b>_<b>analysis</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT5CrXRB4_i5pprXyr2D4Dp9HBBanr0XUHBhQqYx11QSrGIDU5imt85WYY", 
+                        "height": "132"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Sentiment_Analysis_Tool.pdf/page1-220px-Sentiment_Analysis_Tool.pdf.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "Sentiment analysis (also known as opinion mining) refers to the use of natural \nlanguage processing, text analysis and computational linguistics to identify and\u00a0...", 
+            "htmlSnippet": "<b>Sentiment analysis</b> (also known as opinion mining) refers to the use of natural <br>\nlanguage processing, text analysis and computational linguistics to identify and&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Sentiment_analysis", 
+            "cacheId": "k6L1T5wrOqYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Text mining - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Text mining - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Text_mining", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Text_mining", 
+            "snippet": "Typical text mining tasks include text categorization, text clustering, concept/entity \nextraction, production of granular taxonomies, sentiment analysis, document\u00a0...", 
+            "htmlSnippet": "Typical text mining tasks include text categorization, text clustering, concept/entity <br>\nextraction, production of granular taxonomies, <b>sentiment analysis</b>, document&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Text_mining", 
+            "cacheId": "mcFL-ywAJlQJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Market sentiment - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Market <b>sentiment</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Market_sentiment", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Market_<b>sentiment</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSk4bsR0TBDvtF9_7BT3HuhW58wha1pDoN-v0dPl5Ih4Fq5Cd1iObVoJw", 
+                        "height": "116"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Bulle_und_B%C3%A4r_Frankfurt.jpg/220px-Bulle_und_B%C3%A4r_Frankfurt.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "In the last decade, investors are also known to measure market sentiment \nthrough the use of news analytics, which include sentiment analysis on textual \nstories\u00a0...", 
+            "htmlSnippet": "In the last decade, investors are also known to measure market sentiment <br>\nthrough the use of news analytics, which include <b>sentiment analysis</b> on textual <br>\nstories&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Market_sentiment", 
+            "cacheId": "H_duRCeroS8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "General Sentiment - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "General <b>Sentiment</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/General_Sentiment", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/General_<b>Sentiment</b>", 
+            "snippet": "General Sentiment, Inc. is a Long Island-based social media and news media ... \nimplied that the search engine owned General Sentiment's sentiment analysis.", 
+            "htmlSnippet": "General Sentiment, Inc. is a Long Island-based social media and news media ... <br>\nimplied that the search engine owned General Sentiment&#39;s <b>sentiment analysis</b>.", 
+            "link": "https://en.wikipedia.org/wiki/General_Sentiment", 
+            "cacheId": "67LP5bhUYlUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "News analytics - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "News analytics - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/News_analytics", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/News_analytics", 
+            "snippet": "Some of these attributes are: sentiment, relevance, and novelty. ... News analytics \nare usually derived through automated text analysis and applied to digital texts\u00a0...", 
+            "htmlSnippet": "Some of these attributes are: <b>sentiment</b>, relevance, and novelty. ... News analytics <br>\nare usually derived through automated text <b>analysis</b> and applied to digital texts&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/News_analytics", 
+            "cacheId": "YmfULDOQ0QIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "List of text mining software - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "List of text mining software - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/List_of_text_mining_software", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/List_of_text_mining_software", 
+            "snippet": "Angoss \u2013 Angoss Text Analytics provides entity and theme extraction, topic \ncategorization, sentiment analysis and document summarization capabilities via \nthe\u00a0...", 
+            "htmlSnippet": "Angoss \u2013 Angoss Text Analytics provides entity and theme extraction, topic <br>\ncategorization, <b>sentiment analysis</b> and document summarization capabilities via <br>\nthe&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/List_of_text_mining_software", 
+            "cacheId": "JB_V4DsL8zcJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Semantria - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Semantria - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Semantria", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Semantria", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "137", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSa_FATXdjfQsfeOWQf_EALR11EwHwae5xjZaR0P_CuW796pu3m9lKzvA", 
+                        "height": "67"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/8/8d/Semantria_Small_Logo.png"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "category": "Software", 
+                        "fn": "Semantria, Inc.", 
+                        "label": "Boston, MA"
+                    }
+                ]
+            }, 
+            "snippet": "Semantria is owned by sentiment analysis company Lexalytics, from which it was \nspun out in 2011. Semantria offers text analysis via API and Excel plugin.", 
+            "htmlSnippet": "Semantria is owned by <b>sentiment analysis</b> company Lexalytics, from which it was <br>\nspun out in 2011. Semantria offers text analysis via API and Excel plugin.", 
+            "link": "https://en.wikipedia.org/wiki/Semantria", 
+            "cacheId": "ryXakkpy3T0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Textalytics - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Textalytics - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Textalytics", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Textalytics", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRlNuU4mn2D7Yo8hU3cPbxy9sXuolr--S3MVFa__OyG4sDABZVjU7-6KfU", 
+                        "height": "68"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5f/TextalyticsLogo.png/220px-TextalyticsLogo.png"
+                    }
+                ], 
+                "hproduct": [
+                    {
+                        "url": "http://textalytics.com", 
+                        "fn": "Textalytics"
+                    }
+                ]
+            }, 
+            "snippet": "Core API (for developers in general who want to build their own linguistic \npipelines and resources): topic extraction, sentiment analysis, classification,\u00a0...", 
+            "htmlSnippet": "Core API (for developers in general who want to build their own linguistic <br>\npipelines and resources): topic extraction, <b>sentiment analysis</b>, classification,&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Textalytics", 
+            "cacheId": "0iRkOZfmajIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "TipTop Technologies - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "TipTop Technologies - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/TipTop_Technologies", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/TipTop_Technologies", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "104", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQHzZAXU8NgG0E82h_2pKGsa5jWsTPlVkwO_kGfhDxUs0UJqHhawTwrXw", 
+                        "height": "90"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/0/05/TipTop_logo.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "Sentiment analysis, concept trend tracking and real-time market research are \nother applications included in the TipTop Search product. TipTop's insight engine\n\u00a0...", 
+            "htmlSnippet": "<b>Sentiment analysis</b>, concept trend tracking and real-time market research are <br>\nother applications included in the TipTop Search product. TipTop&#39;s insight engine<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/TipTop_Technologies", 
+            "cacheId": "vi4er1iF4r8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "SemEval - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "SemEval - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/SemEval", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/SemEval", 
+            "snippet": "Other tasks in this area look at more specialized issues of semantic analysis, \nsuch as temporal information processing, metonymy resolution, and sentiment\u00a0...", 
+            "htmlSnippet": "Other tasks in this area look at more specialized issues of semantic <b>analysis</b>, <br>\nsuch as temporal information processing, metonymy resolution, and <b>sentiment</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/SemEval", 
+            "cacheId": "9HFYdZAzIWcJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Sentiment analysis", 
+                "safe": "off", 
+                "searchTerms": "Sentiment analysis", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "239000"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Sentiment analysis", 
+                "safe": "off", 
+                "searchTerms": "Sentiment analysis", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "239000"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.39", 
+        "formattedTotalResults": "239,000", 
+        "totalResults": "239000", 
+        "searchTime": 0.389296
+    }
+}

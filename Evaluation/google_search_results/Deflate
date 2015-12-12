@@ -1,0 +1,222 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "DEFLATE - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>DEFLATE</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/DEFLATE", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>DEFLATE</b>", 
+            "snippet": "In computing, deflate is a data compression algorithm and associated file format \nthat uses a combination of the LZ77 algorithm and Huffman coding. It was\u00a0...", 
+            "htmlSnippet": "In computing, <b>deflate</b> is a data compression algorithm and associated file format <br>\nthat uses a combination of the LZ77 algorithm and Huffman coding. It was&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/DEFLATE", 
+            "cacheId": "QHsIpql4rV4J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Deflategate - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Deflategate - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Deflategate", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Deflate</b>gate", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "200", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTFmXrp_pfiMcUxSuhGlhSxNOHlpa6eeyDWXHYdFoHhasVPq2v6M8MEtlX0", 
+                        "height": "150"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Gillette_Stadium02.jpg/250px-Gillette_Stadium02.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "\"Deflate-Gate: New England Patriots Coach Says Team Will Cooperate With ..... \"\nMost troubling news out of Tom Brady's deflate-gate comments: NFL hasn't\u00a0...", 
+            "htmlSnippet": "&quot;<b>Deflate</b>-Gate: New England Patriots Coach Says Team Will Cooperate With ..... &quot;<br>\nMost troubling news out of Tom Brady&#39;s <b>deflate</b>-gate comments: NFL hasn&#39;t&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Deflategate", 
+            "cacheId": "wV5Zx8amo7MJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "mod_deflate - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "mod_deflate - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Mod_deflate", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Mod_<b>deflate</b>", 
+            "snippet": "mod_deflate is an optional module for the Apache HTTP Server, Apache v2 only. \nBased on Deflate lossless data compression algorithm that uses a combination\u00a0...", 
+            "htmlSnippet": "mod_deflate is an optional module for the Apache HTTP Server, Apache v2 only. <br>\nBased on <b>Deflate</b> lossless data compression algorithm that uses a combination&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Mod_deflate", 
+            "cacheId": "tIOJbahhI-sJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Zopfli - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Zopfli - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Zopfli", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Zopfli", 
+            "snippet": "Zopfli is a data compression algorithm that encodes data into DEFLATE, gzip and \nzlib formats. Zopfli is regarded as the most size-efficient DEFLATE encoder\u00a0...", 
+            "htmlSnippet": "Zopfli is a data compression algorithm that encodes data into <b>DEFLATE</b>, gzip and <br>\nzlib formats. Zopfli is regarded as the most size-efficient <b>DEFLATE</b> encoder&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Zopfli", 
+            "cacheId": "MEs7zolFOv0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "gzip - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "gzip - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Gzip", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Gzip", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "160", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSChd0EfTmt_ZDftQraeXthq9KsOXbTwQRwhmwIFexYTCXddY7LbvlFoxU", 
+                        "height": "105"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Gzip-Logo.png/200px-Gzip-Logo.png"
+                    }
+                ]
+            }, 
+            "snippet": "gzip is based on the DEFLATE algorithm, which is a combination of LZ77 and \nHuffman coding. DEFLATE was intended as a replacement for LZW and other\u00a0...", 
+            "htmlSnippet": "gzip is based on the <b>DEFLATE</b> algorithm, which is a combination of LZ77 and <br>\nHuffman coding. <b>DEFLATE</b> was intended as a replacement for LZW and other&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Gzip", 
+            "cacheId": "aYimqqM7-5kJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "zlib - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "zlib - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Zlib", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Zlib", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "240", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQhh0sVSQFkpI8nxQRR4UI6MuH7HX5lAqDhfzYLSC60MRidTY9KCDpnCZYj", 
+                        "height": "132"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Zlib_3D_green.png/300px-Zlib_3D_green.png"
+                    }
+                ]
+            }, 
+            "snippet": "zlib is a software library used for data compression. zlib was written by Jean-\nLoup Gailly and Mark Adler and is an abstraction of the DEFLATE compression\u00a0...", 
+            "htmlSnippet": "zlib is a software library used for data compression. zlib was written by Jean-<br>\nLoup Gailly and Mark Adler and is an abstraction of the <b>DEFLATE</b> compression&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Zlib", 
+            "cacheId": "VrNg4msTpKwJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "HTTP compression - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "HTTP compression - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/HTTP_compression", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/HTTP_compression", 
+            "snippet": "The most common compression schemes include gzip and Deflate, however a \nfull list of available schemes is maintained by the IANA. Additionally, third parties\n\u00a0...", 
+            "htmlSnippet": "The most common compression schemes include gzip and <b>Deflate</b>, however a <br>\nfull list of available schemes is maintained by the IANA. Additionally, third parties<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/HTTP_compression", 
+            "cacheId": "3Tb3FrIuoPIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "AdvanceCOMP - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "AdvanceCOMP - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/AdvanceCOMP", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/AdvanceCOMP", 
+            "snippet": "AdvanceCOMP works with files using the LZ/Huffman-based compression \nalgorithm known as DEFLATE, the most widely used compression encoding \nsystems\u00a0...", 
+            "htmlSnippet": "AdvanceCOMP works with files using the LZ/Huffman-based compression <br>\nalgorithm known as <b>DEFLATE</b>, the most widely used compression encoding <br>\nsystems&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/AdvanceCOMP", 
+            "cacheId": "-xkde6PWhQYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Portable Network Graphics - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Portable Network Graphics - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Portable_Network_Graphics", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Portable_Network_Graphics", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "224", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF88M6peVIJ8ccmOC0FVcmloZ_Fo9EHYk4jOHUvkDlLXElyoTNfhLslek", 
+                        "height": "168"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/PNG_transparency_demonstration_1.png/280px-PNG_transparency_demonstration_1.png"
+                    }
+                ]
+            }, 
+            "snippet": "Before DEFLATE is applied, the data is precompressed, via a prediction ... This is \nparticularly important in relating separate rows, since DEFLATE has no\u00a0...", 
+            "htmlSnippet": "Before <b>DEFLATE</b> is applied, the data is precompressed, via a prediction ... This is <br>\nparticularly important in relating separate rows, since <b>DEFLATE</b> has no&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Portable_Network_Graphics", 
+            "cacheId": "1ObYK7sTsP8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "PNGOUT - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "PNGOUT - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/PNGOUT", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/PNGOUT", 
+            "snippet": "This chunk is compressed using the DEFLATE algorithm. Deflate algorithms can \nvary in speed and compression ratio, with higher compression ratios generally\u00a0...", 
+            "htmlSnippet": "This chunk is compressed using the <b>DEFLATE</b> algorithm. <b>Deflate</b> algorithms can <br>\nvary in speed and compression ratio, with higher compression ratios generally&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/PNGOUT", 
+            "cacheId": "L_c-mPA_m6gJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Deflate", 
+                "safe": "off", 
+                "searchTerms": "Deflate", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "2000"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Deflate", 
+                "safe": "off", 
+                "searchTerms": "Deflate", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "2000"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.27", 
+        "formattedTotalResults": "2,000", 
+        "totalResults": "2000", 
+        "searchTime": 0.272626
+    }
+}

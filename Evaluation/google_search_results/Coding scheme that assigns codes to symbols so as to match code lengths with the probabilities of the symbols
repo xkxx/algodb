@@ -1,0 +1,250 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Huffman coding - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Huffman <b>coding</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Huffman_coding", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Huffman_<b>coding</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRYt7j1GzJ2J4MU-pW1eHPgyVexM8gIc3kPK7SfJuMfK8y87IiEYnZx6w", 
+                        "height": "113"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Huffman_tree_2.svg/220px-Huffman_tree_2.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "The algorithm derives this table from the estimated probability or frequency of ... \nAs in other entropy encoding methods, more common symbols are generally ... \nHuffman coding is such a widespread method for creating prefix codes that the \nterm ... length assignment, there exists at least one Huffman code with those \nlengths.", 
+            "htmlSnippet": "The algorithm derives this table from the estimated <b>probability</b> or frequency of ... <br>\nAs in other entropy encoding methods, more common <b>symbols</b> are generally ... <br>\nHuffman <b>coding</b> is such a widespread method for creating prefix <b>codes</b> that the <br>\nterm ... <b>length assignment</b>, there exists at least one Huffman <b>code</b> with those <br>\n<b>lengths</b>.", 
+            "link": "https://en.wikipedia.org/wiki/Huffman_coding", 
+            "cacheId": "09-XufA259YJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Entropy (information theory) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Entropy (information theory) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Entropy_(information_theory)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Entropy_(information_theory)", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR5gcBHeoBl-fImQvyLvkMMu04wG1dFNRr5PGVD-_yD8Mo73Rungd9b5g", 
+                        "height": "103"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Entropy_flip_2_coins.jpg/220px-Entropy_flip_2_coins.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "The logarithm of the probability distribution is useful as a measure of entropy ...... \na coding scheme that assigns codes to symbols so as to match code lengths\u00a0...", 
+            "htmlSnippet": "The logarithm of the <b>probability</b> distribution is useful as a measure of entropy ...... <br>\na <b>coding scheme that assigns codes to symbols so as to match code lengths</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Entropy_(information_theory)", 
+            "cacheId": "EKiG8iTkqHIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "List of algorithms - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "List of algorithms - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/List_of_algorithms", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/List_of_algorithms", 
+            "snippet": "1.3.1 Approximate sequence matching; 1.3.2 Sequence search; 1.3.3 Sequence \n..... Gibbs sampling: generate a sequence of samples from the joint probability ..... \ncoding scheme that assigns codes to symbols so as to match code lengths with\u00a0...", 
+            "htmlSnippet": "1.3.1 Approximate sequence <b>matching</b>; 1.3.2 Sequence search; 1.3.3 Sequence <br>\n..... Gibbs sampling: generate a sequence of samples from the joint <b>probability</b> ..... <br>\n<b>coding scheme that assigns codes to symbols so as to match code lengths with</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/List_of_algorithms", 
+            "cacheId": "iXsrHv5PMNcJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Arithmetic coding - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Arithmetic <b>coding</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Arithmetic_coding", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Arithmetic_<b>coding</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "267", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE2FPBajuHGMkRzSgn8uymrunAVu94zjV29aTgBiczTgVRJ9d1BmyWjJM", 
+                        "height": "189"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Arithmetic_coding_example.svg/400px-Arithmetic_coding_example.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "Arithmetic coding is a form of entropy encoding used in lossless data \ncompression. ... In step one we code \"B\" which is inside the interval [0.5, 0.83): \nThe binary number ... In the simplest case, the probability of each symbol \noccurring is equal. ..... length and frequency tables) will match the number of bits \ngiven by entropy,\u00a0...", 
+            "htmlSnippet": "Arithmetic <b>coding</b> is a form of entropy encoding used in lossless data <br>\ncompression. ... In step one we <b>code</b> &quot;B&quot; which is inside the interval [0.5, 0.83): <br>\nThe binary number ... In the simplest case, the <b>probability</b> of each <b>symbol</b> <br>\noccurring is equal. ..... <b>length</b> and frequency tables) will <b>match</b> the number of bits <br>\ngiven by entropy,&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Arithmetic_coding", 
+            "cacheId": "ZGLchUwARykJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Lempel\u2013Ziv\u2013Welch - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Lempel\u2013Ziv\u2013Welch - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Lempel\u2013Ziv\u2013Welch", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Lempel\u2013Ziv\u2013Welch", 
+            "snippet": "1.1 Encoding; 1.2 Decoding; 1.3 Variable-width codes; 1.4 Packing order ... Find \nthe longest string W in the dictionary that matches the current input. ... Add W \nfollowed by the next symbol in the input to the dictionary. ... The decoder is \nalways one code behind the encoder in building the table, so when it sees the \ncode for \u03c9,\u00a0...", 
+            "htmlSnippet": "1.1 Encoding; 1.2 Decoding; 1.3 Variable-width <b>codes</b>; 1.4 Packing order ... Find <br>\nthe longest string W in the dictionary that <b>matches</b> the current input. ... Add W <br>\nfollowed by the next <b>symbol</b> in the input to the dictionary. ... The decoder is <br>\nalways one <b>code</b> behind the encoder in building the table, <b>so</b> when it sees the <br>\n<b>code</b> for \u03c9,&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Lempel%E2%80%93Ziv%E2%80%93Welch", 
+            "cacheId": "1H3oRmaIwNcJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Coding theory - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Coding</b> theory - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Coding_theory", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Coding</b>_theory", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR-Gmbd-QuERDP_U_ZL1Zg8srCXgldtkqnLpDgzqKk5478sKSewRwLsOw", 
+                        "height": "116"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Braille_closeup.jpg/220px-Braille_closeup.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "Coding theory is the study of the properties of codes and their fitness for a \nspecific application. .... Various techniques used by source coding schemes try to \nachieve the limit of ... The needed properties of this code mainly depend on the \nprobability of ... n is the length of the codeword, in symbols,; m is the number of \nsource\u00a0...", 
+            "htmlSnippet": "Coding theory is the study of the properties of <b>codes</b> and their fitness for a <br>\nspecific application. .... Various techniques used by source <b>coding schemes</b> try to <br>\nachieve the limit of ... The needed properties of this <b>code</b> mainly depend on the <br>\n<b>probability</b> of ... n is the <b>length</b> of the codeword, in <b>symbols</b>,; m is the number of <br>\nsource&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Coding_theory", 
+            "cacheId": "kQ4Ig26fOhwJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Phase-shift keying - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Phase-shift keying - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Phase-shift_keying", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Phase-shift_keying", 
+            "snippet": "Phase-shift keying (PSK) is a digital modulation scheme that conveys data by ... \nEach pattern of bits forms the symbol that is represented by the particular phase. \n.... QPSK is employed, but has to be coupled with complementary code keying. ... \na binary scheme, so either modulation choice in version 2 will yield a higher\u00a0...", 
+            "htmlSnippet": "Phase-shift keying (PSK) is a digital modulation <b>scheme</b> that conveys data by ... <br>\nEach pattern of bits forms the <b>symbol</b> that is represented by the particular phase. <br>\n.... QPSK is employed, but has to be coupled with complementary <b>code</b> keying. ... <br>\na binary <b>scheme</b>, <b>so</b> either modulation choice in version 2 will yield a higher&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Phase-shift_keying", 
+            "cacheId": "5_QYIOx9U9wJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Orthogonal frequency-division multiplexing - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Orthogonal frequency-division multiplexing - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../Orthogonal_frequency-division_multiplexing", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Orthogonal_frequency-division_multiplexing", 
+            "snippet": "OFDM is a frequency-division multiplexing (FDM) scheme used as a digital multi-\ncarrier ... The low symbol rate makes the use of a guard interval between symbols \n.... In OFDM, the sub-carrier frequencies are chosen so that the sub-carriers are \n.... The choice for Reed-Solomon coding as the outer error correction code is\u00a0...", 
+            "htmlSnippet": "OFDM is a frequency-division multiplexing (FDM) <b>scheme</b> used as a digital multi-<br>\ncarrier ... The low <b>symbol</b> rate makes the use of a guard interval between <b>symbols</b> <br>\n.... In OFDM, the sub-carrier frequencies are chosen <b>so</b> that the sub-carriers are <br>\n.... The choice for Reed-Solomon <b>coding</b> as the outer error correction <b>code</b> is&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Orthogonal_frequency-division_multiplexing", 
+            "cacheId": "nCWC44eCR7cJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Hadamard code - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Hadamard <b>code</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Hadamard_code", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Hadamard_<b>code</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "159", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTanrJRheJBanHKqurlBYNaT7RrZshBLqOpU58oEEbLukSgvPcKP5gBYFFw", 
+                        "height": "318"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Hadamard-Code.svg/250px-Hadamard-Code.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "In standard coding theory notation for block codes, the Hadamard code is a [2^k,k \n... binary code with 2n codewords of block length n and minimal distance n/2. The \nconstruction and decoding scheme described below apply for general n, but the \n... provides a way to recover parts of the original message with high probability,\u00a0...", 
+            "htmlSnippet": "In standard <b>coding</b> theory notation for block <b>codes</b>, the Hadamard <b>code</b> is a [2^k,k <br>\n... binary <b>code</b> with 2n codewords of block <b>length</b> n and minimal distance n/2. The <br>\nconstruction and decoding <b>scheme</b> described below apply for general n, but the <br>\n... provides a way to recover parts of the original message with high <b>probability</b>,&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Hadamard_code", 
+            "cacheId": "fub6xqDkeuMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Hamming(7,4) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Hamming(7,4) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Hamming(7,4)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Hamming(7,4)", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "128", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPG-MMEiJxatYgF-eeTAOJvTdsw95c3ukG9cIaZvS7FKkrVHypJyAmBYw", 
+                        "height": "119"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Hamming(7,4).svg/160px-Hamming(7,4).svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "Block length, 7 ... In coding theory, Hamming(7,4) is a linear error-correcting code \nthat ... The goal of Hamming codes is to create a set of parity bits that overlap \nsuch that ... So, by picking the parity bit coverage correctly, all errors with a \nHamming .... This corrected received value indeed, now, matches the transmitted \nvalue x\u00a0...", 
+            "htmlSnippet": "Block <b>length</b>, 7 ... In <b>coding</b> theory, Hamming(7,4) is a linear error-correcting <b>code</b> <br>\nthat ... The goal of Hamming <b>codes</b> is to create a set of parity bits that overlap <br>\nsuch that ... <b>So</b>, by picking the parity bit coverage correctly, all errors with a <br>\nHamming .... This corrected received value indeed, now, <b>matches</b> the transmitted <br>\nvalue x&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Hamming(7,4)", 
+            "cacheId": "kpJDnUL7hEoJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Coding scheme that assigns codes to symbols so as to match code lengths with the probabilities of the symbols", 
+                "safe": "off", 
+                "searchTerms": "Coding scheme that assigns codes to symbols so as to match code lengths with the probabilities of the symbols", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "105"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Coding scheme that assigns codes to symbols so as to match code lengths with the probabilities of the symbols", 
+                "safe": "off", 
+                "searchTerms": "Coding scheme that assigns codes to symbols so as to match code lengths with the probabilities of the symbols", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "105"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.47", 
+        "formattedTotalResults": "105", 
+        "totalResults": "105", 
+        "searchTime": 0.471402
+    }
+}

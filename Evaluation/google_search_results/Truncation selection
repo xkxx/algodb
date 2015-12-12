@@ -1,0 +1,208 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Truncation selection - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Truncation selection</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Truncation_selection", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Truncation</b>_<b>selection</b>", 
+            "snippet": "In truncation selection the candidate solutions are ordered by fitness, and some \nproportion, p, (e.g. p = 1/2, 1/3, etc.), of the fittest individuals are selected and\u00a0...", 
+            "htmlSnippet": "In <b>truncation selection</b> the candidate solutions are ordered by fitness, and some <br>\nproportion, p, (e.g. p = 1/2, 1/3, etc.), of the fittest individuals are selected and&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Truncation_selection", 
+            "cacheId": "IHvDi2z4aoEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Truncate selection - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Truncate selection</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Truncate_selection", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Truncate</b>_<b>selection</b>", 
+            "snippet": "Truncate selection may refer to: Truncation selection ... This disambiguation page \nlists articles associated with the title Truncate selection. If an internal link led\u00a0...", 
+            "htmlSnippet": "<b>Truncate selection</b> may refer to: <b>Truncation selection</b> ... This disambiguation page <br>\nlists articles associated with the title <b>Truncate selection</b>. If an internal link led&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Truncate_selection", 
+            "cacheId": "_JY3EznCvB4J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Selection (genetic algorithm) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Selection</b> (genetic algorithm) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Selection_(genetic_algorithm)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Selection</b>_(genetic_algorithm)", 
+            "snippet": "Selection is the stage of a genetic algorithm in which individual genomes are ... \nthe best half, third or another proportion of the individuals is truncation selection.", 
+            "htmlSnippet": "Selection is the stage of a genetic algorithm in which individual genomes are ... <br>\nthe best half, third or another proportion of the individuals is <b>truncation selection</b>.", 
+            "link": "https://en.wikipedia.org/wiki/Selection_(genetic_algorithm)", 
+            "cacheId": "4zoVr716WioJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Sampling bias - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Sampling bias - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Sampling_bias", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Sampling_bias", 
+            "snippet": "2.1 Symptom-based sampling; 2.2 Truncate selection in pedigree studies; 2.3 \nThe ... Sampling bias is mostly classified as a subtype of selection bias, \nsometimes\u00a0...", 
+            "htmlSnippet": "2.1 Symptom-based sampling; 2.2 <b>Truncate selection</b> in pedigree studies; 2.3 <br>\nThe ... Sampling bias is mostly classified as a subtype of selection bias, <br>\nsometimes&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Sampling_bias", 
+            "cacheId": "YS5TlFH1qfcJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Fitness proportionate selection - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Fitness proportionate <b>selection</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Fitness_proportionate_selection", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Fitness_proportionate_<b>selection</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "216", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQFriSC0IGzsJHb_azdXtr0_fVk6nsdW8246sFOCGRNHx1gS55uaWRPVaQ", 
+                        "height": "68"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Fitness_proportionate_selection_example.png/270px-Fitness_proportionate_selection_example.png"
+                    }
+                ]
+            }, 
+            "snippet": "Contrast this with a less sophisticated selection algorithm, such as truncation \nselection, which will eliminate a fixed percentage of the weakest candidates.", 
+            "htmlSnippet": "Contrast this with a less sophisticated selection algorithm, such as <b>truncation</b> <br>\n<b>selection</b>, which will eliminate a fixed percentage of the weakest candidates.", 
+            "link": "https://en.wikipedia.org/wiki/Fitness_proportionate_selection", 
+            "cacheId": "CinUVh_JAjMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Crossover (genetic algorithm) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Crossover (genetic algorithm) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Crossover_(genetic_algorithm)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Crossover_(genetic_algorithm)", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "184", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSk_FnViYDO4BMjkj7kNNVrZoyBSZnnnVPEKa8y4UYBZtAXc-xujsDFNg", 
+                        "height": "80"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/OnePointCrossover.svg/231px-OnePointCrossover.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "Methods of selection of chromosomes for crossover[edit] ... Tournament selection; \nRank selection; Steady state selection; Truncation selection; Local selection\u00a0...", 
+            "htmlSnippet": "Methods of selection of chromosomes for crossover[edit] ... Tournament selection; <br>\nRank selection; Steady state selection; <b>Truncation selection</b>; Local selection&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Crossover_(genetic_algorithm)", 
+            "cacheId": "dXeC7HNKlosJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Truncated regression model - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Truncated</b> regression model - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Truncated_regression_model", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Truncated</b>_regression_model", 
+            "snippet": "Truncated regression models are often confused with censored regression ... \u201c\nThe Common Structure of Statistical Models of Truncation, Sample Selection, and\n\u00a0...", 
+            "htmlSnippet": "<b>Truncated</b> regression models are often confused with censored regression ... \u201c<br>\nThe Common Structure of Statistical Models of <b>Truncation</b>, Sample <b>Selection</b>, and<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Truncated_regression_model", 
+            "cacheId": "26WSGi0K3TMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Category:Genetic algorithms - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Category:Genetic algorithms - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Category:Genetic_algorithms", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Category:Genetic_algorithms", 
+            "snippet": "Chromosome (genetic algorithm) \u00b7 Clonal Selection Algorithm \u00b7 Crossover (\ngenetic ... R. Reward-based selection ... Tournament selection \u00b7 Truncation \nselection\u00a0...", 
+            "htmlSnippet": "Chromosome (genetic algorithm) &middot; Clonal Selection Algorithm &middot; Crossover (<br>\ngenetic ... R. Reward-based selection ... Tournament selection &middot; <b>Truncation</b> <br>\n<b>selection</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Category:Genetic_algorithms", 
+            "cacheId": "VL-9m5KOHvkJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Inverse Mills ratio - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Inverse Mills ratio - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Inverse_Mills_ratio", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Inverse_Mills_ratio", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "240", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR12TPr-gUzFD5hlk0g8lqySWw9v0L5_QWauQfi3_NFavMgISERi6fsApE", 
+                        "height": "92"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/math/8/1/0/810710f5416ecfcd458133a163e33378.png"
+                    }
+                ]
+            }, 
+            "snippet": "\"The common structure of statistical models of truncation, sample selection and \nlimited dependent variables and a simple estimator for such models\". Annals of\u00a0...", 
+            "htmlSnippet": "&quot;The common structure of statistical models of <b>truncation</b>, sample <b>selection</b> and <br>\nlimited dependent variables and a simple estimator for such models&quot;. Annals of&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Inverse_Mills_ratio", 
+            "cacheId": "i2v0wx-MahgJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Truncated dependent variable - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Truncated</b> dependent variable - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Truncated_dependent_variable", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Truncated</b>_dependent_variable", 
+            "snippet": "In economics, truncated dependent variables are variables for which ... of \nStatistical Models of Truncation, Sample Selection, and Limited Dependent \nVariables\u00a0...", 
+            "htmlSnippet": "In economics, <b>truncated</b> dependent variables are variables for which ... of <br>\nStatistical Models of <b>Truncation</b>, Sample <b>Selection</b>, and Limited Dependent <br>\nVariables&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Truncated_dependent_variable", 
+            "cacheId": "SBA6W-QsxEkJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Truncation selection", 
+                "safe": "off", 
+                "searchTerms": "Truncation selection", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "382"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Truncation selection", 
+                "safe": "off", 
+                "searchTerms": "Truncation selection", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "382"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.26", 
+        "formattedTotalResults": "382", 
+        "totalResults": "382", 
+        "searchTime": 0.255193
+    }
+}

@@ -1,0 +1,180 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Zopfli - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Zopfli</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Zopfli", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Zopfli</b>", 
+            "snippet": "Zopfli is a data compression algorithm that encodes data into DEFLATE, gzip and \nzlib formats. Zopfli is regarded as the most size-efficient DEFLATE encoder\u00a0...", 
+            "htmlSnippet": "<b>Zopfli</b> is a data compression algorithm that encodes data into DEFLATE, gzip and <br>\nzlib formats. <b>Zopfli</b> is regarded as the most size-efficient DEFLATE encoder&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Zopfli", 
+            "cacheId": "MEs7zolFOv0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Brotli - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Brotli - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Brotli", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Brotli", 
+            "snippet": "... have the proposed content encoding type \"br\". Like zopfli, another \ncompression algorithm from Google, brotli is named after a Swiss bakery product, \nbr\u00f6tli.", 
+            "htmlSnippet": "... have the proposed content encoding type &quot;br&quot;. Like <b>zopfli</b>, another <br>\ncompression algorithm from Google, brotli is named after a Swiss bakery product, <br>\nbr\u00f6tli.", 
+            "link": "https://en.wikipedia.org/wiki/Brotli", 
+            "cacheId": "kXxLRWSlW00J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "DEFLATE - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "DEFLATE - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/DEFLATE", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/DEFLATE", 
+            "snippet": "AdvanceCOMP uses the higher compression ratio version of Deflate as \nimplemented by 7-Zip (or optionally Zopfli in recent versions) to enable \nrecompression of\u00a0...", 
+            "htmlSnippet": "AdvanceCOMP uses the higher compression ratio version of Deflate as <br>\nimplemented by 7-Zip (or optionally <b>Zopfli</b> in recent versions) to enable <br>\nrecompression of&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/DEFLATE", 
+            "cacheId": "QHsIpql4rV4J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "AdvanceCOMP - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "AdvanceCOMP - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/AdvanceCOMP", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/AdvanceCOMP", 
+            "snippet": "The 7-Zip and Zopfli DEFLATE encoders, used in the AdvanceCOMP suite, \neffectively extend the sliding scale further. A much more detailed search of\u00a0...", 
+            "htmlSnippet": "The 7-Zip and <b>Zopfli</b> DEFLATE encoders, used in the AdvanceCOMP suite, <br>\neffectively extend the sliding scale further. A much more detailed search of&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/AdvanceCOMP", 
+            "cacheId": "-xkde6PWhQYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Portable Network Graphics - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Portable Network Graphics - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/OptiPNG", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/OptiPNG", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "224", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF88M6peVIJ8ccmOC0FVcmloZ_Fo9EHYk4jOHUvkDlLXElyoTNfhLslek", 
+                        "height": "168"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/PNG_transparency_demonstration_1.png/280px-PNG_transparency_demonstration_1.png"
+                    }
+                ]
+            }, 
+            "snippet": "Optimizer, Chunk Removal, Color Reduction, Filtering, Filter Reuse, Multiple \ntrials on filters in a single run, Deflater. Advpng, Yes, No, 0, No, N/A, zopfli or 7-\nzip.", 
+            "htmlSnippet": "Optimizer, Chunk Removal, Color Reduction, Filtering, Filter Reuse, Multiple <br>\ntrials on filters in a single run, Deflater. Advpng, Yes, No, 0, No, N/A, <b>zopfli</b> or 7-<br>\nzip.", 
+            "link": "https://en.wikipedia.org/wiki/OptiPNG", 
+            "cacheId": "zr37miBXWuwJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Category:Free computer libraries - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Category:Free computer libraries - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Category:Free_computer_libraries", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Category:Free_computer_libraries", 
+            "snippet": "Zend Framework \u00b7 Zopfli. Retrieved from \"https://en.wikipedia.org/w/index.php?\ntitle=Category:Free_computer_libraries&oldid=673315336\". Categories:.", 
+            "htmlSnippet": "Zend Framework &middot; <b>Zopfli</b>. Retrieved from &quot;https://en.wikipedia.org/w/index.php?<br>\ntitle=Category:Free_computer_libraries&amp;oldid=673315336&quot;. Categories:.", 
+            "link": "https://en.wikipedia.org/wiki/Category:Free_computer_libraries", 
+            "cacheId": "jIRfkpILaZwJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "User:Xexeo/Books/Seismic Processis - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "User:Xexeo/Books/Seismic Processis - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/User:Xexeo/Books/Seismic_Processis", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/User:Xexeo/Books/Seismic_Processis", 
+            "snippet": "... PackBits \u00b7 Prefix code \u00b7 Apple Lossless \u00b7 QUAD (compressor) \u00b7 Recursive \nindexing \u00b7 SheerVideo \u00b7 Variable-length code \u00b7 YULS \u00b7 Zopfli \u00b7 ZPAQ \u00b7 TTA (codec)\n.", 
+            "htmlSnippet": "... PackBits &middot; Prefix code &middot; Apple Lossless &middot; QUAD (compressor) &middot; Recursive <br>\nindexing &middot; SheerVideo &middot; Variable-length code &middot; YULS &middot; <b>Zopfli</b> &middot; ZPAQ &middot; TTA (codec)<br>\n.", 
+            "link": "https://en.wikipedia.org/wiki/User:Xexeo/Books/Seismic_Processis", 
+            "cacheId": "FtNEr4zUUKIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Category:Lossless compression algorithms - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Category:Lossless compression algorithms - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../Category:Lossless_compression_algorithms", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Category:Lossless_compression_algorithms", 
+            "snippet": "Zopfli \u00b7 ZPAQ. Retrieved from \"https://en.wikipedia.org/w/index.php?title=\nCategory:Lossless_compression_algorithms&oldid=547819331\". Categories:.", 
+            "htmlSnippet": "<b>Zopfli</b> &middot; ZPAQ. Retrieved from &quot;https://en.wikipedia.org/w/index.php?title=<br>\nCategory:Lossless_compression_algorithms&amp;oldid=547819331&quot;. Categories:.", 
+            "link": "https://en.wikipedia.org/wiki/Category:Lossless_compression_algorithms", 
+            "cacheId": "A6DIAuYLMZoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:FFmpeg - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:FFmpeg - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/en:Talk:FFmpeg", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/en:Talk:FFmpeg", 
+            "snippet": "Enjoy the \"improved\" screenshot, it's now Zeranoe (no cross-compiler annotation)\n, 2014, wider (using less space in the infobox), smaller (truepng+zopfli), and\u00a0...", 
+            "htmlSnippet": "Enjoy the &quot;improved&quot; screenshot, it&#39;s now Zeranoe (no cross-compiler annotation)<br>\n, 2014, wider (using less space in the infobox), smaller (truepng+<b>zopfli</b>), and&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/en:Talk:FFmpeg", 
+            "cacheId": "gyUrGkQYCygJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Wikipedia:Version 1.0 Editorial Team/Google articles by quality log ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Wikipedia:Version 1.0 Editorial Team/Google articles by quality log <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/.../Google_articles_by_quality_log", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/.../Google_articles_by_quality_log", 
+            "snippet": "Quality assessed as Stub-Class (rev \u00b7 t). Importance assessed as Low-Class (rev \n\u00b7 t). Zopfli (talk) assessed. Quality assessed as Start-Class (rev \u00b7 t). Importance\u00a0...", 
+            "htmlSnippet": "Quality assessed as Stub-Class (rev \u00b7 t). Importance assessed as Low-Class (rev <br>\n\u00b7 t). <b>Zopfli</b> (talk) assessed. Quality assessed as Start-Class (rev \u00b7 t). Importance&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Wikipedia:Version_1.0_Editorial_Team/Google_articles_by_quality_log", 
+            "cacheId": "8aee3bsi29EJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Zopfli", 
+                "safe": "off", 
+                "searchTerms": "Zopfli", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "17"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Zopfli", 
+                "safe": "off", 
+                "searchTerms": "Zopfli", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "17"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.15", 
+        "formattedTotalResults": "17", 
+        "totalResults": "17", 
+        "searchTime": 0.14658
+    }
+}

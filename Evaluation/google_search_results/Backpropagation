@@ -1,0 +1,194 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Backpropagation - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Backpropagation</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Backpropagation", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Backpropagation</b>", 
+            "snippet": "Backpropagation, an abbreviation for \"backward propagation of errors\", is a \ncommon method of training artificial neural networks used in conjunction with an\n\u00a0...", 
+            "htmlSnippet": "<b>Backpropagation</b>, an abbreviation for &quot;backward propagation of errors&quot;, is a <br>\ncommon method of training artificial neural networks used in conjunction with an<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Backpropagation", 
+            "cacheId": "DsCFcZjT_mcJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Neural backpropagation - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Neural <b>backpropagation</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Neural_backpropagation", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Neural_<b>backpropagation</b>", 
+            "snippet": "Neural backpropagation is the phenomenon in which the action potential of a \nneuron creates a voltage spike both at the end of the axon (normal propagation)\n\u00a0...", 
+            "htmlSnippet": "Neural <b>backpropagation</b> is the phenomenon in which the action potential of a <br>\nneuron creates a voltage spike both at the end of the axon (normal propagation)<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Neural_backpropagation", 
+            "cacheId": "_IxlY6QtkVkJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Backpropagation through time - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Backpropagation</b> through time - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Backpropagation_through_time", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Backpropagation</b>_through_time", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "391", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ0D2T0pEVQYU6Rlp97QgFgIb4qKYnvSIt9aFA09pdXZOJZ8NdWICd4U10", 
+                        "height": "129"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ee/Unfold_through_time.png/500px-Unfold_through_time.png"
+                    }
+                ]
+            }, 
+            "snippet": "Backpropagation through time (BPTT) is a gradient-based technique for training \ncertain types of recurrent neural networks. It can be used to train Elman\u00a0...", 
+            "htmlSnippet": "<b>Backpropagation</b> through time (BPTT) is a gradient-based technique for training <br>\ncertain types of recurrent neural networks. It can be used to train Elman&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Backpropagation_through_time", 
+            "cacheId": "Pf6RLrmasuEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Rprop - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Rprop - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Rprop", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Rprop", 
+            "snippet": "Rprop, short for resilient backpropagation, is a learning heuristic for supervised \nlearning in feedforward artificial neural networks. This is a first-order optimization\n\u00a0...", 
+            "htmlSnippet": "Rprop, short for resilient <b>backpropagation</b>, is a learning heuristic for supervised <br>\nlearning in feedforward artificial neural networks. This is a first-order optimization<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Rprop", 
+            "cacheId": "7dPMYB_aat8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Backpropagation through structure - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Backpropagation</b> through structure - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Backpropagation_through_structure", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Backpropagation</b>_through_structure", 
+            "snippet": "Backpropagation Through Structure (BPTS) is a gradient-based technique for \ntraining recursive neural nets (a superset of recurrent neural nets) and is\u00a0...", 
+            "htmlSnippet": "<b>Backpropagation</b> Through Structure (BPTS) is a gradient-based technique for <br>\ntraining recursive neural nets (a superset of recurrent neural nets) and is&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Backpropagation_through_structure", 
+            "cacheId": "sYTFNKnqEAAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Digital back-propagation - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Digital <b>back-propagation</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Digital_back-propagation", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Digital_<b>back-propagation</b>", 
+            "snippet": "Digital back-propagation (DBP) is a technique for compensating all fiber \nimpairments in optical transmission systems. DBP is a sort of non-linarity \ncompensation\u00a0...", 
+            "htmlSnippet": "Digital <b>back-propagation</b> (DBP) is a technique for compensating all fiber <br>\nimpairments in optical transmission systems. DBP is a sort of non-linarity <br>\ncompensation&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Digital_back-propagation", 
+            "cacheId": "xxrCBmDN19wJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Almeida\u2013Pineda recurrent backpropagation - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Almeida\u2013Pineda recurrent <b>backpropagation</b> - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../Almeida\u2013Pineda_recurrent_backpropagation", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Almeida\u2013Pineda_recurrent_<b>backpropagation</b>", 
+            "snippet": "Almeida\u2013Pineda recurrent backpropagation is an extension to the \nbackpropagation algorithm that is applicable to recurrent neural networks. It is a \ntype of\u00a0...", 
+            "htmlSnippet": "Almeida\u2013Pineda recurrent <b>backpropagation</b> is an extension to the <br>\n<b>backpropagation</b> algorithm that is applicable to recurrent neural networks. It is a <br>\ntype of&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Almeida%E2%80%93Pineda_recurrent_backpropagation", 
+            "cacheId": "cexmrLcg7mEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Paul Werbos - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Paul Werbos - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Paul_Werbos", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Paul_Werbos", 
+            "snippet": "The thesis, and some supplementary information, can be found in his book, The \nRoots of Backpropagation (ISBN 0-471-59897-6). He also was a pioneer of\u00a0...", 
+            "htmlSnippet": "The thesis, and some supplementary information, can be found in his book, The <br>\nRoots of <b>Backpropagation</b> (ISBN 0-471-59897-6). He also was a pioneer of&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Paul_Werbos", 
+            "cacheId": "127hKKa0udYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Backpropagation - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Backpropagation</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3ABackpropagation", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>Backpropagation</b>", 
+            "snippet": "\"Backpropagation usually allows quick convergence on satisfactory local minima \nfor error in the kind of networks to which it is suited.\" \u2014The preceding unsigned\u00a0...", 
+            "htmlSnippet": "&quot;<b>Backpropagation</b> usually allows quick convergence on satisfactory local minima <br>\nfor error in the kind of networks to which it is suited.&quot; \u2014The preceding unsigned&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3ABackpropagation", 
+            "cacheId": "EOaRm6t2RLQJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Catastrophic interference - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Catastrophic interference - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Catastrophic_interference", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Catastrophic_interference", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRdlSw2USoykGlr4mUtsEiK6nykht6Poub-CUgiXd6eoLOI2XbLSyv2Wqw", 
+                        "height": "156"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Artificial_neural_network.svg/220px-Artificial_neural_network.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "On the other hand, connectionst networks like the standard backpropagation \nnetwork are very sensitive to new information and can generalize on new inputs.", 
+            "htmlSnippet": "On the other hand, connectionst networks like the standard <b>backpropagation</b> <br>\nnetwork are very sensitive to new information and can generalize on new inputs.", 
+            "link": "https://en.wikipedia.org/wiki/Catastrophic_interference", 
+            "cacheId": "hNtXG7j7pzkJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Backpropagation", 
+                "safe": "off", 
+                "searchTerms": "Backpropagation", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "398"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Backpropagation", 
+                "safe": "off", 
+                "searchTerms": "Backpropagation", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "398"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.21", 
+        "formattedTotalResults": "398", 
+        "totalResults": "398", 
+        "searchTime": 0.209793
+    }
+}

@@ -1,0 +1,222 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Self-organizing map - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Self</b>-<b>organizing map</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Self-organizing_map", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Self</b>-<b>organizing</b>_<b>map</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "232", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5-CIMgBshL4F21rCcR6fBiVdfgMyz2veY2IVQlH-9i5J226FFmRoHToQ", 
+                        "height": "218"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Synapse_Self-Organizing_Map.png/300px-Synapse_Self-Organizing_Map.png"
+                    }
+                ]
+            }, 
+            "snippet": "Self-organizing maps are different from other artificial neural networks as they ... \nprofessor Teuvo Kohonen in the 1980s is sometimes called a Kohonen map or\u00a0...", 
+            "htmlSnippet": "<b>Self</b>-<b>organizing maps</b> are different from other artificial neural networks as they ... <br>\nprofessor Teuvo Kohonen in the 1980s is sometimes called a <b>Kohonen map</b> or&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Self-organizing_map", 
+            "cacheId": "MYMlEn71c-cJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Hybrid Kohonen self-organizing map - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Hybrid <b>Kohonen self</b>-<b>organizing map</b> - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Hybrid_Kohonen_self-organizing_map", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Hybrid_<b>Kohonen</b>_<b>self</b>-<b>organizing</b>_<b>map</b>", 
+            "snippet": "In artificial neural networks, a hybrid Kohonen self-organizing map is a type of \nself-organizing map (SOM) named for the Finnish professor Teuvo Kohonen,\u00a0...", 
+            "htmlSnippet": "In artificial neural networks, a hybrid <b>Kohonen self</b>-<b>organizing map</b> is a type of <br>\n<b>self</b>-<b>organizing map</b> (<b>SOM</b>) named for the Finnish professor Teuvo <b>Kohonen</b>,&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Hybrid_Kohonen_self-organizing_map", 
+            "cacheId": "VO8pc28beK0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Teuvo Kohonen - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Teuvo <b>Kohonen</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Teuvo_Kohonen", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Teuvo_<b>Kohonen</b>", 
+            "snippet": "His most famous contribution is the Self-Organizing Map (also known as the \nKohonen map or Kohonen artificial neural networks, although Kohonen himself\u00a0...", 
+            "htmlSnippet": "His most famous contribution is the <b>Self</b>-<b>Organizing Map</b> (also known as the <br>\n<b>Kohonen map</b> or Kohonen artificial neural networks, although Kohonen himself&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Teuvo_Kohonen", 
+            "cacheId": "9Wx6aiydfx4J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Growing self-organizing map - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Growing <b>self</b>-<b>organizing map</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Growing_self-organizing_map", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Growing_<b>self</b>-<b>organizing</b>_<b>map</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKzuhq6lmOhrml18zafO0L1SoNJTvRvrWq9is1QaDk6Q_YEy1g4sEcpg", 
+                        "height": "108"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ed/GSOM-new-node-growth.gif/220px-GSOM-new-node-growth.gif"
+                    }
+                ]
+            }, 
+            "snippet": "A growing self-organizing map (GSOM) is a growing variant of the popular self-\norganizing map (SOM). The GSOM was developed to address the issue of\u00a0...", 
+            "htmlSnippet": "A growing <b>self</b>-<b>organizing map</b> (GSOM) is a growing variant of the popular <b>self</b>-<br>\n<b>organizing map</b> (<b>SOM</b>). The GSOM was developed to address the issue of&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Growing_self-organizing_map", 
+            "cacheId": "vf2D1F0ESLAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Nonlinear dimensionality reduction - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Nonlinear dimensionality reduction - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Nonlinear_dimensionality_reduction", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Nonlinear_dimensionality_reduction", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "240", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSc7M-N1bvhHIKU6qIxnYUty0Nw8xsNA3xDYk5qyd6VjJ27XyZJ1KDW6RTi", 
+                        "height": "187"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Lle_hlle_swissroll.png/300px-Lle_hlle_swissroll.png"
+                    }
+                ]
+            }, 
+            "snippet": "The self-organizing map (SOM, also called Kohonen map) and its probabilistic \nvariant generative topographic mapping (GTM) use a point representation in the\n\u00a0...", 
+            "htmlSnippet": "The <b>self</b>-<b>organizing map</b> (<b>SOM</b>, also called <b>Kohonen map</b>) and its probabilistic <br>\nvariant generative topographic mapping (GTM) use a point representation in the<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Nonlinear_dimensionality_reduction", 
+            "cacheId": "ENisaS8nx2oJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Self-organizing map - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Self</b>-<b>organizing map</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3ASelf-organizing_map", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>Self</b>-<b>organizing</b>_<b>map</b>", 
+            "snippet": "Self-organizing map is within the scope of WikiProject Robotics, which aims to ... \nThe fact that an anti-academic on wikipedia is unfamiliar with Kohonen Maps\u00a0...", 
+            "htmlSnippet": "<b>Self</b>-<b>organizing map</b> is within the scope of WikiProject Robotics, which aims to ... <br>\nThe fact that an anti-academic on wikipedia is unfamiliar with <b>Kohonen Maps</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3ASelf-organizing_map", 
+            "cacheId": "UJkVPe4r99YJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "U-matrix - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "U-matrix - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/U-matrix", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/U-matrix", 
+            "snippet": "If the map is twist-free, the distance between the codebook vectors of neighboring \n... \"Kohonen's Self Organizing Feature Maps for Exploratory Data Analysis\".", 
+            "htmlSnippet": "If the <b>map</b> is twist-free, the distance between the codebook vectors of neighboring <br>\n... &quot;<b>Kohonen&#39;s Self Organizing</b> Feature <b>Maps</b> for Exploratory Data Analysis&quot;.", 
+            "link": "https://en.wikipedia.org/wiki/U-matrix", 
+            "cacheId": "MdFKMBIGEZwJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Generative topographic map - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Generative topographic <b>map</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Generative_topographic_map", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Generative_topographic_<b>map</b>", 
+            "snippet": "[edit]. While nodes in the self-organizing map (SOM) can wander around at will,\u00a0...", 
+            "htmlSnippet": "[edit]. While nodes in the <b>self</b>-<b>organizing map</b> (<b>SOM</b>) can wander around at will,&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Generative_topographic_map", 
+            "cacheId": "BDUyck1biEAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Competitive learning - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Competitive learning - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Competitive_learning", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Competitive_learning", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6qd-1S98iiA9OxhOL5mPWEY6nnpgqrBwO6IxCbrmZf5JSoTUzD3ewAyc", 
+                        "height": "190"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Competitive_neural_network_architecture.png/220px-Competitive_neural_network_architecture.png"
+                    }
+                ]
+            }, 
+            "snippet": "Models and algorithms based on the principle of competitive learning include \nvector quantization and self-organising maps (Kohonen maps).", 
+            "htmlSnippet": "Models and algorithms based on the principle of competitive learning include <br>\nvector quantization and <b>self</b>-<b>organising maps</b> (<b>Kohonen maps</b>).", 
+            "link": "https://en.wikipedia.org/wiki/Competitive_learning", 
+            "cacheId": "51oIh7NyV2QJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Types of artificial neural networks - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Types of artificial neural networks - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Types_of_artificial_neural_networks", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Types_of_artificial_neural_networks", 
+            "snippet": "3 Kohonen self-organizing network; 4 Learning Vector Quantization .... The self-\norganizing map (SOM) invented by Teuvo Kohonen performs a form of\u00a0...", 
+            "htmlSnippet": "3 <b>Kohonen</b> self-organizing network; 4 Learning Vector Quantization .... The <b>self</b>-<br>\n<b>organizing map</b> (<b>SOM</b>) invented by Teuvo <b>Kohonen</b> performs a form of&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Types_of_artificial_neural_networks", 
+            "cacheId": "XLCTTrQDDk4J"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Self-organizing map (Kohonen map)", 
+                "safe": "off", 
+                "searchTerms": "Self-organizing map (Kohonen map)", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "54"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Self-organizing map (Kohonen map)", 
+                "safe": "off", 
+                "searchTerms": "Self-organizing map (Kohonen map)", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "54"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.33", 
+        "formattedTotalResults": "54", 
+        "totalResults": "54", 
+        "searchTime": 0.326466
+    }
+}

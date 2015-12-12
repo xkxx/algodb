@@ -1,0 +1,286 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Convergent evolution - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Convergent <b>evolution</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Convergent_evolution", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Convergent_<b>evolution</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "120", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT1gT65thapZfsQuMdtXlsSzJcJWjHMQscEcq7M8gaznr-Lm64I3BSp", 
+                        "height": "105"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/E_obesa_symmetrica_ies.jpg/151px-E_obesa_symmetrica_ies.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "Convergent evolution is the independent evolution of similar features in species \nof ..... In the octopus version, the eye is constructed the \"right way out\", with the\u00a0...", 
+            "htmlSnippet": "Convergent <b>evolution</b> is the independent <b>evolution</b> of similar <b>features</b> in species <br>\nof ..... In the octopus version, the eye is <b>constructed</b> the &quot;right way out&quot;, with the&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Convergent_evolution", 
+            "cacheId": "MsLRvtWJV3IJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Neoteny - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Neoteny - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Neoteny", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Neoteny", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDjImvS0VuT7IqIfp19FggDydtvGLUXUl-Z3Iv1vFQ2W_R-eqfkEA6cA", 
+                        "height": "120"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Human_development_neoteny_body_and_head_proportions_pedomorphy_maturation_aging_growth.png/220px-Human_development_neoteny_body_and_head_proportions_pedomorphy_maturation_aging_growth.png"
+                    }
+                ]
+            }, 
+            "snippet": "... the latter constructed from the Greek \u03bd\u03ad\u03bf\u03c2 (neos, \"young\") and \u03c4\u03b5\u03af\u03bd\u03b5\u03b9\u03bd (te\u00ednein, \"\nto extend\"). ... \"The cartoon of Betty Boop illustrates some human features which \nare ... by sexual selection in human evolution for neotenous facial traits in women\n\u00a0...", 
+            "htmlSnippet": "... the latter <b>constructed</b> from the Greek \u03bd\u03ad\u03bf\u03c2 (neos, &quot;young&quot;) and \u03c4\u03b5\u03af\u03bd\u03b5\u03b9\u03bd (te\u00ednein, &quot;<br>\nto extend&quot;). ... &quot;The cartoon of Betty Boop illustrates some human <b>features</b> which <br>\nare ... by sexual selection in human <b>evolution</b> for neotenous facial traits in women<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Neoteny", 
+            "cacheId": "2HAPdCMFRdoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Cladogram - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Cladogram - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Cladogram", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Cladogram", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "200", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRXgBoAMu9XOrTynJ3-lpMdF5fiCFIDasfFulft_6ZRoKCPMQPWE345Mgs", 
+                        "height": "133"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Identical_cladograms.svg/250px-Identical_cladograms.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "This hypothetical ancestor might then provide clues about the order of evolution \nof various features, adaptation, and other evolutionary narratives about\u00a0...", 
+            "htmlSnippet": "This hypothetical ancestor might then provide clues about the order of <b>evolution</b> <br>\nof various <b>features</b>, adaptation, and other evolutionary narratives about&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Cladogram", 
+            "cacheId": "A0QuNnFj1_oJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Transitional fossil - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Transitional fossil - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Transitional_fossil", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Transitional_fossil", 
+            "snippet": "In fact, because evolution is a branching process that produces a complex bush \n... These features make Archaeopteryx a clear candidate for a transitional fossil\u00a0...", 
+            "htmlSnippet": "In fact, because <b>evolution</b> is a branching process that produces a complex bush <br>\n... These <b>features</b> make Archaeopteryx a clear candidate for a transitional fossil&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Transitional_fossil", 
+            "cacheId": "1Wyto_tSbXoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Evolutionary aesthetics - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Evolutionary aesthetics - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Evolutionary_aesthetics", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Evolution</b>ary_aesthetics", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSDwf_ZQp8zt6LiYB0_W1-B8ZuT8km8EYlgjGpbY5LyMgFZ5Tl-hcQ2o8I", 
+                        "height": "117"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/La_Gran_Sabana.jpg/220px-La_Gran_Sabana.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "Using the survey, the study authors constructed a painting showing the \npreferences ... Another explanation is that these features are those evolutionary \npsychology predicts ... There are several explanations regarding the evolution of \nemotion.", 
+            "htmlSnippet": "Using the survey, the study authors <b>constructed</b> a painting showing the <br>\npreferences ... Another explanation is that these <b>features</b> are those evolutionary <br>\npsychology predicts ... There are several explanations regarding the <b>evolution</b> of <br>\nemotion.", 
+            "link": "https://en.wikipedia.org/wiki/Evolutionary_aesthetics", 
+            "cacheId": "Nds91plv444J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Evolution of the eye - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Evolution</b> of the eye - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Evolution_of_the_eye", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Evolution</b>_of_the_eye", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "190", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQogvk5m4s6ODbbfcAr9fNGtGqYm-9sbxyGeQSSFUTNGPZsH7ykSSW4K30", 
+                        "height": "265"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Diagram_of_eye_evolution.svg/350px-Diagram_of_eye_evolution.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "The evolution of the eye has been a subject of significant study, as a ..... The \ncamera eyes of cephalopods, in contrast, are constructed the \"right way out\", with\n\u00a0...", 
+            "htmlSnippet": "The <b>evolution</b> of the eye has been a subject of significant study, as a ..... The <br>\ncamera eyes of cephalopods, in contrast, are <b>constructed</b> the &quot;right way out&quot;, with<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Evolution_of_the_eye", 
+            "cacheId": "w9yvSB9NHhcJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Origin of speech - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Origin of speech - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Origin_of_speech", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Origin_of_speech", 
+            "snippet": "1 Background; 2 Modality-independence; 3 Evolution of the speech organs ... 4.1 \nDistinctive features theory; 4.2 Self-organization theory; 4.3 Gestural theory ...... \nfor purposes of internal communication within a ritually constructed domain\u00a0...", 
+            "htmlSnippet": "1 Background; 2 Modality-independence; 3 <b>Evolution</b> of the speech organs ... 4.1 <br>\nDistinctive <b>features</b> theory; 4.2 Self-organization theory; 4.3 Gestural theory ...... <br>\nfor purposes of internal communication within a ritually <b>constructed</b> domain&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Origin_of_speech", 
+            "cacheId": "D1BiVfU0bqkJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Phylogenetic tree - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Phylogenetic tree - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Phylogenetic_tree", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Phylogenetic_tree", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "273", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSaR5yNLjjY2mk2GK-DjsuAXfs_B_vNojSZau2ANsXTim0qBmoQ_Vf19ys", 
+                        "height": "184"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Phylogenetic_tree.svg/450px-Phylogenetic_tree.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "A spindle diagram, showing the evolution of the vertebrates at class level, width \n... input sequences are constructed using computational phylogenetics methods.", 
+            "htmlSnippet": "A spindle diagram, showing the <b>evolution</b> of the vertebrates at class level, width <br>\n... input sequences are <b>constructed</b> using computational phylogenetics methods.", 
+            "link": "https://en.wikipedia.org/wiki/Phylogenetic_tree", 
+            "cacheId": "5kt5tEmv-DYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "White House - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "White House - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/White_House", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/White_House", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "210", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR_D-neI7pHdnzzDOJNW2Ao_4Rl6x3rPuuO3peilzvy5WcYL669ua6dEDo", 
+                        "height": "240"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/White_House_north_and_south_sides.jpg/300px-White_House_north_and_south_sides.jpg"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "bday": "1792-10-13", 
+                        "category": "Neoclassical, Palladian", 
+                        "note": "Completed November 1, 1800; 215 years ago (1800-11-01)[1]", 
+                        "fn": "White House"
+                    }
+                ]
+            }, 
+            "snippet": "A newly constructed East Wing was used as a reception area for social events; \nJefferson's colonnades connected the new ... 2 Evolution of the White House.", 
+            "htmlSnippet": "A newly <b>constructed</b> East Wing was used as a reception area for social events; <br>\nJefferson&#39;s colonnades connected the new ... 2 <b>Evolution</b> of the White House.", 
+            "link": "https://en.wikipedia.org/wiki/White_House", 
+            "cacheId": "bjt6-ESyFVAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "History of construction - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "History of construction - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/History_of_construction", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/History_of_construction", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRCRBL8O3YHcLh5vXtIglfzja20OFiB9Kx4be-tXH54u6K54aDOzLrIr74", 
+                        "height": "224"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Kizhi_church_1.jpg/220px-Kizhi_church_1.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "People have constructed buildings and other structures since prehistory, \nincluding .... Neolithic villages large enough to have rural and urban features are \ncalled\u00a0...", 
+            "htmlSnippet": "People have <b>constructed</b> buildings and other structures since prehistory, <br>\nincluding .... Neolithic villages large enough to have rural and urban <b>features</b> are <br>\ncalled&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/History_of_construction", 
+            "cacheId": "nuiqBS-uaUIJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Evolution-Constructed Features", 
+                "safe": "off", 
+                "searchTerms": "Evolution-Constructed Features", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "1330000"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Evolution-Constructed Features", 
+                "safe": "off", 
+                "searchTerms": "Evolution-Constructed Features", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "1330000"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.35", 
+        "formattedTotalResults": "1,330,000", 
+        "totalResults": "1330000", 
+        "searchTime": 0.354651
+    }
+}

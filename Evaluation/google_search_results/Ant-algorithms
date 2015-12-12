@@ -1,0 +1,264 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Ant colony optimization algorithms - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Ant</b> colony optimization <b>algorithms</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Ant_colony_optimization_algorithms", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Ant</b>_colony_optimization_<b>algorithms</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRRy8pMsLzkLlLJOToonGcv8nO0drOurG5SQtfEN4EhdzG40FrOk41YZw", 
+                        "height": "116"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Safari_ants.jpg/220px-Safari_ants.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "This algorithm is a member of the ant colony algorithms family, in swarm \nintelligence methods, and it constitutes some metaheuristic optimizations. Initially\n\u00a0...", 
+            "htmlSnippet": "This <b>algorithm</b> is a member of the <b>ant</b> colony <b>algorithms</b> family, in swarm <br>\nintelligence methods, and it constitutes some metaheuristic optimizations. Initially<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Ant_colony_optimization_algorithms", 
+            "cacheId": "XvEjVwkisqMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Swarm intelligence - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Swarm intelligence - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Swarm_intelligence", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Swarm_intelligence", 
+            "snippet": "1.1 Particle swarm optimization; 1.2 Ant colony optimization; 1.3 Artificial bee \ncolony .... A very different-ant inspired swarm intelligence algorithm, stochastic\u00a0...", 
+            "htmlSnippet": "1.1 Particle swarm optimization; 1.2 <b>Ant</b> colony optimization; 1.3 Artificial bee <br>\ncolony .... A very different-<b>ant</b> inspired swarm intelligence <b>algorithm</b>, stochastic&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Swarm_intelligence", 
+            "cacheId": "fM9mJL5kp7AJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Artificial ants - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Artificial <b>ants</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Artificial_ants", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Artificial_<b>ants</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "235", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn5iCAEh1_weM8t91Z9q0kZA7zLFEyV2PoaV3bCcdXDjxDu0HNV4ndv8OA", 
+                        "height": "214"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Artificial_ants.jpg/400px-Artificial_ants.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "The pheromone-based communication of biological ants is often the predominant \nparadigm used. Combinations of Artificial Ants and local search algorithms\u00a0...", 
+            "htmlSnippet": "The pheromone-based communication of biological <b>ants</b> is often the predominant <br>\nparadigm used. Combinations of Artificial <b>Ants</b> and local search <b>algorithms</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Artificial_ants", 
+            "cacheId": "HSrA-02cOTYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Ant robotics - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Ant</b> robotics - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Ant_robotics", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Ant</b>_robotics", 
+            "snippet": "Ant robots are swarm robots that can communicate via markings, similar to ants ... \nusing pheromones, can execute arbitrarily complex single-robot algorithms.", 
+            "htmlSnippet": "<b>Ant</b> robots are swarm robots that can communicate via markings, similar to <b>ants</b> ... <br>\nusing pheromones, can execute arbitrarily complex single-robot <b>algorithms</b>.", 
+            "link": "https://en.wikipedia.org/wiki/Ant_robotics", 
+            "cacheId": "oOn8WdBVUA4J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Marco Dorigo - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Marco Dorigo - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Marco_Dorigo", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Marco_Dorigo", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRQk0n_KeevAhXgwZeFlktYWeYd1h-OjgR_a7yOI2mz5ha-kkHs7lbDZ_c", 
+                        "height": "264"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Marco_Dorigo.jpg/220px-Marco_Dorigo.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "He is the proponent of the ant colony optimization metaheuristic (see his book ... \nAnt Algorithms for discrete optimization with Gianni Di Caro and Luca Maria\u00a0...", 
+            "htmlSnippet": "He is the proponent of the ant colony optimization metaheuristic (see his book ... <br>\n<b>Ant Algorithms</b> for discrete optimization with Gianni Di Caro and Luca Maria&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Marco_Dorigo", 
+            "cacheId": "-6lp99bZoM0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Travelling salesman problem - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Travelling salesman problem - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Travelling_salesman_problem", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Travelling_salesman_problem", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSS9g8B7r7LFUFeLljn3ADcIhT6V438-FdyjjuaF1CRqnhqnIoQgl1DnmCg", 
+                        "height": "176"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/GLPK_solution_of_a_travelling_salesman_problem.svg/220px-GLPK_solution_of_a_travelling_salesman_problem.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "4.1 Exact algorithms; 4.2 Heuristic and approximation algorithms ..... Ant Colony \nOptimization Algorithm for a TSP with 7 cities: Red and thick lines in the\u00a0...", 
+            "htmlSnippet": "4.1 Exact <b>algorithms</b>; 4.2 Heuristic and approximation <b>algorithms</b> ..... <b>Ant</b> Colony <br>\nOptimization <b>Algorithm</b> for a TSP with 7 cities: Red and thick lines in the&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Travelling_salesman_problem", 
+            "cacheId": "uizxvqXgoRYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Langton's ant - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Langton&#39;s <b>ant</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Langton's_ant", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Langton&#39;s_<b>ant</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "147", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS3UaxRsh9UsKf8w2eb0Hgy8EStW2FAMokXVlqbTBVt8uXqqN_hptTWrTY_", 
+                        "height": "147"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/d/d3/LangtonsAnt.png"
+                    }
+                ]
+            }, 
+            "snippet": "Langton's ant is a two-dimensional Turing machine with a very simple set of rules \nbut complex emergent behavior. It was invented by Chris Langton in 1986 and\u00a0...", 
+            "htmlSnippet": "Langton&#39;s <b>ant</b> is a two-dimensional Turing machine with a very simple set of rules <br>\nbut complex emergent behavior. It was invented by Chris Langton in 1986 and&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Langton's_ant", 
+            "cacheId": "aKl8TUGqgJYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Swarm behaviour - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Swarm behaviour - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Swarm_behaviour", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Swarm_behaviour", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "272", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQhwHegE76bBOiHDMPsAvlvULn0hgmKEBI1fiMwGcFwolsT9PAwI1xsNkw", 
+                        "height": "185"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Auklet_flock_Shumagins_1986.jpg/350px-Auklet_flock_Shumagins_1986.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "Ant colony optimization is a widely used algorithm which was inspired by the \nbehaviours of ants, and has been effective solving discrete optimization problems\n\u00a0...", 
+            "htmlSnippet": "<b>Ant</b> colony optimization is a widely used <b>algorithm</b> which was inspired by the <br>\nbehaviours of <b>ants</b>, and has been effective solving discrete optimization problems<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Swarm_behaviour", 
+            "cacheId": "-MRoFBmqSwEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Bees algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Bees <b>algorithm</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Bees_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Bees_<b>algorithm</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRgJ2Fm-cTvzGPKhTs4eoglm8xN5yhA4jSBSvNtxHDQ2MHYoLM68d_WQWE", 
+                        "height": "148"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Honey_Bee_takes_Nectar.JPG/220px-Honey_Bee_takes_Nectar.JPG"
+                    }
+                ]
+            }, 
+            "snippet": "The Bees Algorithm is inspired by the foraging behaviour of honey bees. .... Ant \ncolony optimization algorithms \u00b7 Artificial bee colony algorithm \u00b7 Intelligent Water\u00a0...", 
+            "htmlSnippet": "The Bees <b>Algorithm</b> is inspired by the foraging behaviour of honey bees. .... <b>Ant</b> <br>\ncolony optimization <b>algorithms</b> &middot; Artificial bee colony <b>algorithm</b> &middot; Intelligent Water&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Bees_algorithm", 
+            "cacheId": "KjK5apRcu70J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Ant colony optimization algorithms - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Ant</b> colony optimization <b>algorithms</b> - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3AAnt_colony_optimization", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>Ant</b>_colony_optimization", 
+            "snippet": "Talk:Ant colony optimization algorithms ... This article would benefit from a \ndescription of the algorithm in Dorigo's paper, in addition to the high-level \noverview.", 
+            "htmlSnippet": "Talk:<b>Ant</b> colony optimization <b>algorithms</b> ... This article would benefit from a <br>\ndescription of the <b>algorithm</b> in Dorigo&#39;s paper, in addition to the high-level <br>\noverview.", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3AAnt_colony_optimization", 
+            "cacheId": "7eP584l2MpQJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Ant-algorithms", 
+                "safe": "off", 
+                "searchTerms": "Ant-algorithms", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "1540"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Ant-algorithms", 
+                "safe": "off", 
+                "searchTerms": "Ant-algorithms", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "1540"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.42", 
+        "formattedTotalResults": "1,540", 
+        "totalResults": "1540", 
+        "searchTime": 0.423468
+    }
+}

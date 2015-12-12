@@ -1,0 +1,222 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Fibonacci coding - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Fibonacci coding</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Fibonacci_coding", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Fibonacci</b>_<b>coding</b>", 
+            "snippet": "In mathematics and computing, Fibonacci coding is a universal code which \nencodes positive integers into binary code words. It is one example of\u00a0...", 
+            "htmlSnippet": "In mathematics and computing, <b>Fibonacci coding</b> is a universal code which <br>\nencodes positive integers into binary code words. It is one example of&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Fibonacci_coding", 
+            "cacheId": "sciaVi2LN7gJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Fibonacci number - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Fibonacci</b> number - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Fibonacci_number", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Fibonacci</b>_number", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "240", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnPRbYebOd21pk48Mjmwt4zExPIlJIe6Fhcf1vjcCpmQ_2vYsd0gPS-0Dm", 
+                        "height": "148"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/34*21-FibonacciBlocks.png/300px-34*21-FibonacciBlocks.png"
+                    }
+                ]
+            }, 
+            "snippet": "[edit]. Fibonacci numbers also appear in the pedigrees of idealized honeybees, \naccording to the following rules: If an egg\u00a0...", 
+            "htmlSnippet": "[edit]. <b>Fibonacci</b> numbers also appear in the pedigrees of idealized honeybees, <br>\naccording to the following rules: If an egg&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Fibonacci_number", 
+            "cacheId": "CLV60ypc6PsJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Universal code (data compression) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Universal <b>code</b> (data compression) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Universal_code_(data_compression)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Universal_<b>code</b>_(data_compression)", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQdSTNoKyhVOQBf7kdC1SrbJ25ftK_6nSR3OdYYe9tTN9Sli5aSRAXpGx8", 
+                        "height": "117"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Fibonacci,_Elias_Gamma,_and_Elias_Delta_encoding_schemes.GIF/220px-Fibonacci,_Elias_Gamma,_and_Elias_Delta_encoding_schemes.GIF"
+                    }
+                ]
+            }, 
+            "snippet": "Fibonacci, Elias Gamma, and Elias Delta vs binary coding ... In data compression\n, a universal code for integers is a prefix code that maps the positive integers\u00a0...", 
+            "htmlSnippet": "<b>Fibonacci</b>, Elias Gamma, and Elias Delta vs binary <b>coding</b> ... In data compression<br>\n, a universal <b>code</b> for integers is a prefix <b>code</b> that maps the positive integers&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Universal_code_(data_compression)", 
+            "cacheId": "0yLdIxediM8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Zeckendorf's theorem - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Zeckendorf&#39;s theorem - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Zeckendorf's_theorem", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Zeckendorf&#39;s_theorem", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "225", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSDH7m84hWc5ZTFjNXZ2W-zxuBQrifoI5faq55YWnZpkbWRf_Gl63QkJM", 
+                        "height": "225"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/0/09/Zeckendorf_representations.png"
+                    }
+                ]
+            }, 
+            "snippet": "where Fn is the nth Fibonacci number. Such a sum is called the Zeckendorf \nrepresentation of N. The Fibonacci coding of N can be derived from its \nZeckendorf\u00a0...", 
+            "htmlSnippet": "where Fn is the n<sup>th</sup> Fibonacci number. Such a sum is called the Zeckendorf <br>\nrepresentation of N. The <b>Fibonacci coding</b> of N can be derived from its <br>\nZeckendorf&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Zeckendorf's_theorem", 
+            "cacheId": "g8pSsisTUAMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "NegaFibonacci coding - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "NegaFibonacci <b>coding</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/NegaFibonacci_coding", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Nega<b>Fibonacci</b>_<b>coding</b>", 
+            "snippet": "In mathematics, negaFibonacci coding is a universal code which encodes \nnonzero integers into binary code words. It is similar to Fibonacci coding, except \nthat it\u00a0...", 
+            "htmlSnippet": "In mathematics, negaFibonacci coding is a universal code which encodes <br>\nnonzero integers into binary code words. It is similar to <b>Fibonacci coding</b>, except <br>\nthat it&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/NegaFibonacci_coding", 
+            "cacheId": "J_4Y9buQt3AJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Fibonacci coding - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Fibonacci coding</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3AFibonacci_coding", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>Fibonacci</b>_<b>coding</b>", 
+            "snippet": "To find the Fibonacci code for a number x, start with the code for x-1 and remove \nthe 011 at the end. Assuming the resulting number to be little-endian, add 1\u00a0...", 
+            "htmlSnippet": "To find the <b>Fibonacci code</b> for a number x, start with the code for x-1 and remove <br>\nthe 011 at the end. Assuming the resulting number to be little-endian, add 1&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3AFibonacci_coding", 
+            "cacheId": "FlqAekXSUGkJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Category:Fibonacci numbers - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Category:<b>Fibonacci</b> numbers - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Category:Fibonacci_numbers", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Category:<b>Fibonacci</b>_numbers", 
+            "snippet": "The main article for this category is Fibonacci numbers. Wikimedia Commons has \nmedia related to Fibonacci numbers. ... N. NegaFibonacci coding\u00a0...", 
+            "htmlSnippet": "The main article for this category is <b>Fibonacci</b> numbers. Wikimedia Commons has <br>\nmedia related to <b>Fibonacci</b> numbers. ... N. NegaFibonacci <b>coding</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Category:Fibonacci_numbers", 
+            "cacheId": "Av3Wmlb13R8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Fibonacci numbers in popular culture - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Fibonacci</b> numbers in popular culture - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Fibonacci_numbers_in_popular_culture", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Fibonacci</b>_numbers_in_popular_culture", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRLhQuR4_6p2bm2B-83nipMJtNbigZv7qDKDUPbOafawoyQ6wrmFe_4d78", 
+                        "height": "234"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Fibonacci.JPG/220px-Fibonacci.JPG"
+                    }
+                ]
+            }, 
+            "snippet": "Chimney of Turku Energia, Turku, Finland featuring Fibonacci sequence in 2m \nhigh neon lights. ... In The Da Vinci Code, the numbers are used to unlock a safe.", 
+            "htmlSnippet": "Chimney of Turku Energia, Turku, Finland featuring <b>Fibonacci</b> sequence in 2m <br>\nhigh neon lights. ... In The Da Vinci <b>Code</b>, the numbers are used to unlock a safe.", 
+            "link": "https://en.wikipedia.org/wiki/Fibonacci_numbers_in_popular_culture", 
+            "cacheId": "nS6aPdZzSLkJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Complete sequence - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Complete sequence - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Complete_sequence", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Complete_sequence", 
+            "snippet": "3.1 Fibonacci coding; 3.2 Other coding systems ... This follows from the identity \nthat the sum of the first n Fibonacci numbers is the (n + 2)nd Fibonacci number\u00a0...", 
+            "htmlSnippet": "3.1 <b>Fibonacci coding</b>; 3.2 Other coding systems ... This follows from the identity <br>\nthat the sum of the first n Fibonacci numbers is the (n + 2)nd Fibonacci number&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Complete_sequence", 
+            "cacheId": "6cFmS0xuYFAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Varicode - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Varicode - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Varicode", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Vari<b>code</b>", 
+            "snippet": "The space between characters is indicated by a 00 sequence, a variation of \nFibonacci coding. Originally created for speeding up real-time keyboard-to-\nkeyboard\u00a0...", 
+            "htmlSnippet": "The space between characters is indicated by a 00 sequence, a variation of <br>\n<b>Fibonacci coding</b>. Originally created for speeding up real-time keyboard-to-<br>\nkeyboard&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Varicode", 
+            "cacheId": "A0l7qOLNtYQJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Fibonacci coding", 
+                "safe": "off", 
+                "searchTerms": "Fibonacci coding", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "753"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Fibonacci coding", 
+                "safe": "off", 
+                "searchTerms": "Fibonacci coding", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "753"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.37", 
+        "formattedTotalResults": "753", 
+        "totalResults": "753", 
+        "searchTime": 0.366767
+    }
+}

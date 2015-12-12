@@ -1,0 +1,180 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "User:Diffeomorphicvoodoo/sandbox/Multiplicative weights update ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "User:Diffeomorphicvoodoo/sandbox/<b>Multiplicative weights</b> update <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../Multiplicative_weights_update_method", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../<b>Multiplicative</b>_<b>weights</b>_update_method", 
+            "snippet": "User:Diffeomorphicvoodoo/sandbox/Multiplicative weights update method. From \nWikipedia ... 1 Motivating example; 2 Multiplicative weights update algorithm.", 
+            "htmlSnippet": "User:Diffeomorphicvoodoo/sandbox/<b>Multiplicative weights</b> update method. From <br>\nWikipedia ... 1 Motivating example; 2 <b>Multiplicative weights</b> update algorithm.", 
+            "link": "https://en.wikipedia.org/wiki/User:Diffeomorphicvoodoo/sandbox/Multiplicative_weights_update_method", 
+            "cacheId": "vlugzOjC1osJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Winnow (algorithm) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Winnow (algorithm) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Winnow_(algorithm)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Winnow_(algorithm)", 
+            "snippet": "However, the perceptron algorithm uses an additive weight-update scheme, \nwhile Winnow uses a multiplicative scheme that allows it to perform much better\u00a0...", 
+            "htmlSnippet": "However, the perceptron algorithm uses an additive <b>weight</b>-update scheme, <br>\nwhile Winnow uses a <b>multiplicative</b> scheme that allows it to perform much better&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Winnow_(algorithm)", 
+            "cacheId": "peHWwMIxIS0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Geometric Set Cover Problem - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Geometric Set Cover Problem - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Geometric_Set_Cover_Problem", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Geometric_Set_Cover_Problem", 
+            "snippet": "Using a multiplicative weight algorithm, Br\u00f6nnimann and Goodrich showed that \nan O(\\log {\\mathsf {OPT}}) -approximate set cover/hitting set for a range space \\\u00a0...", 
+            "htmlSnippet": "Using a <b>multiplicative weight</b> algorithm, Br\u00f6nnimann and Goodrich showed that <br>\nan O(\\log {\\mathsf {OPT}}) -approximate set cover/hitting set for a range space \\&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Geometric_Set_Cover_Problem", 
+            "cacheId": "Y8axlyFwWaUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Weight (representation theory) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Weight</b> (representation theory) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Weight_(representation_theory)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Weight</b>_(representation_theory)", 
+            "snippet": "1.1 Weights; 1.2 Weight space of a representation of a Lie algebra ... The notion \nis closely related to the idea of a multiplicative character in group theory, which\u00a0...", 
+            "htmlSnippet": "1.1 <b>Weights</b>; 1.2 <b>Weight</b> space of a representation of a Lie algebra ... The notion <br>\nis closely related to the idea of a <b>multiplicative</b> character in group theory, which&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Weight_(representation_theory)", 
+            "cacheId": "KHPadmpOdvoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Algebraic torus - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Algebraic torus - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Algebraic_torus", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Algebraic_torus", 
+            "snippet": "where degree is the number n such that the composition is equal to the nth power \nmap on the multiplicative group. The functor given by taking weights is an\u00a0...", 
+            "htmlSnippet": "where degree is the number n such that the composition is equal to the nth power <br>\nmap on the <b>multiplicative</b> group. The functor given by taking <b>weights</b> is an&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Algebraic_torus", 
+            "cacheId": "kU4Z-YvzuEMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Nonparametric regression - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Nonparametric regression - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/.../Nonparametric_multiplicative_regression", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Nonparametric_<b>multiplicative</b>_regression", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSghhkeL6_Sem_rMVD037D9hlhxvL3xDj23QZ2yyD9hIyWWrraYwhm5_Q", 
+                        "height": "119"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/NonparRegrGaussianKernel.png/220px-NonparRegrGaussianKernel.png"
+                    }
+                ]
+            }, 
+            "snippet": "(Redirected from Nonparametric multiplicative regression) ... The weights from \nthe kernel function for each predictor are multiplied to obtain a weight for a given\n\u00a0...", 
+            "htmlSnippet": "(Redirected from Nonparametric <b>multiplicative</b> regression) ... The <b>weights</b> from <br>\nthe kernel function for each predictor are multiplied to obtain a <b>weight</b> for a given<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Nonparametric_multiplicative_regression", 
+            "cacheId": "oNN3M8BRnpkJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Multiplicative sequence - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Multiplicative</b> sequence - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Multiplicative_sequence", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Multiplicative</b>_sequence", 
+            "snippet": "In mathematics, a multiplicative sequence or m-sequence is a sequence of ... \nover a ring A in indeterminates p1,... weighted so that pi has weight i (with p0 = 1)\n\u00a0...", 
+            "htmlSnippet": "In mathematics, a <b>multiplicative</b> sequence or m-sequence is a sequence of ... <br>\nover a ring A in indeterminates p1,... weighted so that pi has <b>weight</b> i (with p0 = 1)<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Multiplicative_sequence", 
+            "cacheId": "3hzYIWtLQMEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "List of algorithms - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "List of algorithms - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Graph_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Graph_algorithm", 
+            "snippet": "Multiplicative inverse Algorithms: for computing a number's multiplicative inverse \n..... related to the perceptron, but uses a multiplicative weight-update scheme\u00a0...", 
+            "htmlSnippet": "Multiplicative inverse Algorithms: for computing a number&#39;s multiplicative inverse <br>\n..... related to the perceptron, but uses a <b>multiplicative weight</b>-update scheme&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Graph_algorithm", 
+            "cacheId": "5_17Y3LZhAoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Oja's rule - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Oja&#39;s rule - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Oja's_rule", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Oja&#39;s_rule", 
+            "snippet": "... of the standard Hebb's Rule (see Hebbian learning) that, through multiplicative \n... Oja's rule defines the change in presynaptic weights w given the output\u00a0...", 
+            "htmlSnippet": "... of the standard Hebb&#39;s Rule (see Hebbian learning) that, through <b>multiplicative</b> <br>\n... Oja&#39;s rule defines the change in presynaptic <b>weights</b> w given the output&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Oja's_rule", 
+            "cacheId": "Em_MKNxT-0UJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Weighted product model - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Weighted product model - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Weighted_product_model", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Weight</b>ed_product_model", 
+            "snippet": "Each ratio is raised to the power equivalent to the relative weight of the \ncorresponding criterion. Some of the first references to this method are due to \nBridgman\u00a0...", 
+            "htmlSnippet": "Each ratio is raised to the power equivalent to the relative <b>weight</b> of the <br>\ncorresponding criterion. Some of the first references to this method are due to <br>\nBridgman&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Weighted_product_model", 
+            "cacheId": "XMquWQaJdzMJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Multiplicative Weights", 
+                "safe": "off", 
+                "searchTerms": "Multiplicative Weights", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "716"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Multiplicative Weights", 
+                "safe": "off", 
+                "searchTerms": "Multiplicative Weights", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "716"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.27", 
+        "formattedTotalResults": "716", 
+        "totalResults": "716", 
+        "searchTime": 0.271897
+    }
+}

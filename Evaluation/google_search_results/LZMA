@@ -1,0 +1,219 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Lempel\u2013Ziv\u2013Markov chain algorithm - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Lempel\u2013Ziv\u2013Markov chain algorithm - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Lempel\u2013Ziv\u2013Markov_chain_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Lempel\u2013Ziv\u2013Markov_chain_algorithm", 
+            "snippet": "The Lempel\u2013Ziv\u2013Markov chain algorithm (LZMA) is an algorithm used to perform \nlossless data compression. It has been under development either since 1996\u00a0...", 
+            "htmlSnippet": "The Lempel\u2013Ziv\u2013Markov chain algorithm (<b>LZMA</b>) is an algorithm used to perform <br>\nlossless data compression. It has been under development either since 1996&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Lempel%E2%80%93Ziv%E2%80%93Markov_chain_algorithm", 
+            "cacheId": "rmFjvBnL28AJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Martin Airport (Slovakia) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Martin Airport (Slovakia) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Martin_Airport_(Slovakia)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Martin_Airport_(Slovakia)", 
+            "pagemap": {
+                "hcard": [
+                    {
+                        "category": "Public", 
+                        "note": "Owner Aeroklub Martin", 
+                        "nickname": "letisko Martin", 
+                        "fn": "Martin Airport", 
+                        "label": "Martin, Slovakia"
+                    }
+                ]
+            }, 
+            "snippet": "Martin Airport letisko Martin. IATA: none \u2013 ICAO: LZMA. Summary. Airport type, \nPublic. Owner, Aeroklub Martin. Operator, Aeroklub Martin. Serves, Martin.", 
+            "htmlSnippet": "Martin Airport letisko Martin. IATA: none \u2013 ICAO: <b>LZMA</b>. Summary. Airport type, <br>\nPublic. Owner, Aeroklub Martin. Operator, Aeroklub Martin. Serves, Martin.", 
+            "link": "https://en.wikipedia.org/wiki/Martin_Airport_(Slovakia)", 
+            "cacheId": "dTQheVgx0rgJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "XZ Utils - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "XZ Utils - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/XZ_Utils", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/XZ_Utils", 
+            "snippet": "XZ Utils (previously LZMA Utils) is a set of free command-line lossless data \ncompressors, including LZMA and xz, for Unix-like operating systems and, from\u00a0...", 
+            "htmlSnippet": "XZ Utils (previously <b>LZMA</b> Utils) is a set of free command-line lossless data <br>\ncompressors, including <b>LZMA</b> and xz, for Unix-like operating systems and, from&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/XZ_Utils", 
+            "cacheId": "128nL9Ff_1QJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "xz - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "xz - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Xz", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Xz", 
+            "snippet": "xz is a lossless data compression program and file format which incorporates the \nLZMA/LZMA2 compression algorithms. Since it shares the same compression\u00a0...", 
+            "htmlSnippet": "xz is a lossless data compression program and file format which incorporates the <br>\n<b>LZMA</b>/LZMA2 compression algorithms. Since it shares the same compression&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Xz", 
+            "cacheId": "umGVpInjQE4J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Lzip - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Lzip - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Lzip", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Lzip", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "120", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTuHkS--G81N5T6crJbBz38WnQpAD3ln6qRTZx2GMK2eQW33qZ3rQA7UA", 
+                        "height": "60"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Lzip.png/150px-Lzip.png"
+                    }
+                ]
+            }, 
+            "snippet": "lzip is a free, command-line tool for the compression of data; it employs the \nLempel\u2013Ziv\u2013Markov chain algorithm (LZMA) with a user interface that is familiar \nto\u00a0...", 
+            "htmlSnippet": "lzip is a free, command-line tool for the compression of data; it employs the <br>\nLempel\u2013Ziv\u2013Markov chain algorithm (<b>LZMA</b>) with a user interface that is familiar <br>\nto&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Lzip", 
+            "cacheId": "easMgOnXvUIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "7z - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "7z - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/7z", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/7z", 
+            "snippet": "The LZMA SDK 4.62 was placed in the public domain in December 2008. The \nlatest stable version of 7-Zip and LZMA SDK is version 15.12. The 7z file format\u00a0...", 
+            "htmlSnippet": "The <b>LZMA</b> SDK 4.62 was placed in the public domain in December 2008. The <br>\nlatest stable version of 7-Zip and <b>LZMA</b> SDK is version 15.12. The 7z file format&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/7z", 
+            "cacheId": "wPqeUSMNokcJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Lempel\u2013Ziv\u2013Markov chain algorithm - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:Lempel\u2013Ziv\u2013Markov chain algorithm - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../Talk%3ALempel\u2013Ziv\u2013Markov_chain_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Talk%3ALempel\u2013Ziv\u2013Markov_chain_algorithm", 
+            "snippet": "A lot of people will ask there self, what it is all about and since XZ is more or less \nthe successor of LZMA I suggest adding a paragraph about it and do a redirect.", 
+            "htmlSnippet": "A lot of people will ask there self, what it is all about and since XZ is more or less <br>\nthe successor of <b>LZMA</b> I suggest adding a paragraph about it and do a redirect.", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3ALempel%E2%80%93Ziv%E2%80%93Markov_chain_algorithm", 
+            "cacheId": "Tb_7CMkTncEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "7-Zip - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "7-Zip - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/7-Zip", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/7-Zip", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "224", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSOzeV7A3PaI_-C63PKZG4Ps5Hrd9QQop3g1uUStKMeqXCCTxNSgNT_AzY", 
+                        "height": "114"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/7-Zip.png/280px-7-Zip.png"
+                    }
+                ]
+            }, 
+            "snippet": "The core .7z compression uses a variety of algorithms, the most common of \nwhich are bzip2, PPMd, LZMA2, and LZMA. Developed by Pavlov, LZMA is a\u00a0...", 
+            "htmlSnippet": "The core .7z compression uses a variety of algorithms, the most common of <br>\nwhich are bzip2, PPMd, LZMA2, and <b>LZMA</b>. Developed by Pavlov, <b>LZMA</b> is a&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/7-Zip", 
+            "cacheId": "cAnnEWLrjLIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "vmlinux - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "vmlinux - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Vmlinux", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Vmlinux", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTowkndjBiJ7mlI8FzfHNF1gmdXrV5EeRXOTtXAQOWm04Iljpp20RPOXedh", 
+                        "height": "196"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Linux-kernel-vmlinux.png/220px-Linux-kernel-vmlinux.png"
+                    }
+                ]
+            }, 
+            "snippet": "Traditionally, when creating a bootable kernel image, the kernel is also \ncompressed using gzip, or since Linux 2.6.30, using LZMA or bzip2, which \nrequires a\u00a0...", 
+            "htmlSnippet": "Traditionally, when creating a bootable kernel image, the kernel is also <br>\ncompressed using gzip, or since Linux 2.6.30, using <b>LZMA</b> or bzip2, which <br>\nrequires a&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Vmlinux", 
+            "cacheId": "IQngdr1pey8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "rzip - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "rzip - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Rzip", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Rzip", 
+            "snippet": "REP is an alternative implementation of rzip algorithm by Bulat Ziganshin used in \nhis FreeArc archiver as preprocessor for LZMA/Tornado compression\u00a0...", 
+            "htmlSnippet": "REP is an alternative implementation of rzip algorithm by Bulat Ziganshin used in <br>\nhis FreeArc archiver as preprocessor for <b>LZMA</b>/Tornado compression&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Rzip", 
+            "cacheId": "ws445FaF2zkJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - LZMA", 
+                "safe": "off", 
+                "searchTerms": "LZMA", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "374"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - LZMA", 
+                "safe": "off", 
+                "searchTerms": "LZMA", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "374"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.33", 
+        "formattedTotalResults": "374", 
+        "totalResults": "374", 
+        "searchTime": 0.333349
+    }
+}

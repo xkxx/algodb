@@ -1,0 +1,262 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Smith\u2013Waterman algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Smith</b>\u2013<b>Waterman</b> algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Smith\u2013Waterman_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Smith</b>\u2013<b>Waterman</b>_algorithm", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "287", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT2xwwzV9X3NCT3pU8D6kunh74KgXksN6rfNRn1uUWmFMKs1gBOJJzA_v2Y", 
+                        "height": "176"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/math/b/3/8/b388b132808e8355813763a3879db9e7.png"
+                    }
+                ]
+            }, 
+            "snippet": "The Smith\u2013Waterman algorithm performs local sequence alignment; that is, for \ndetermining similar regions between two strings or nucleotide or protein\u00a0...", 
+            "htmlSnippet": "The <b>Smith</b>\u2013<b>Waterman</b> algorithm performs local sequence alignment; that is, for <br>\ndetermining similar regions between two strings or nucleotide or protein&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Smith%E2%80%93Waterman_algorithm", 
+            "cacheId": "dL3PXME4Um0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Temple F. Smith - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Temple F. <b>Smith</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Temple_F._Smith", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Temple_F._<b>Smith</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRT0bP9ViSRcUV5nZu61SBfaatNYcs0xnYOlAnpyr5NSmVmvlBXw1IIlVE", 
+                        "height": "176"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Temple_F._Smith_at_Yale,_June_20,_2008.jpg/220px-Temple_F._Smith_at_Yale,_June_20,_2008.jpg"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "fn": "Temple F. Smith"
+                    }
+                ]
+            }, 
+            "snippet": "Temple F. Smith is a university professor in biomedical engineering who helped \nto develop the Smith-Waterman algorithm with Michael Waterman in 1981.", 
+            "htmlSnippet": "Temple F. Smith is a university professor in biomedical engineering who helped <br>\nto develop the <b>Smith</b>-<b>Waterman</b> algorithm with Michael Waterman in 1981.", 
+            "link": "https://en.wikipedia.org/wiki/Temple_F._Smith", 
+            "cacheId": "8H7TSv6Qcn0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Michael Waterman - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Michael <b>Waterman</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Michael_Waterman", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Michael_<b>Waterman</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "120", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTWNxYxqP0nxfbPYnp6ce1gzOS_A7HUe7YaiuCMuLxvPA6ZskPoUPbolA", 
+                        "height": "90"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Michael_Waterman.jpg/150px-Michael_Waterman.jpg"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "category": "Computational Biology Probability and Statistics Computer Science Discrete Mathematics and Combinatorics", 
+                        "fn": "Michael Spencer Waterman"
+                    }
+                ]
+            }, 
+            "snippet": "In particular, the Smith-Waterman algorithm (developed with Temple Smith) is the \nbasis for many sequence comparison programs. In 1988, Waterman and Eric\u00a0...", 
+            "htmlSnippet": "In particular, the <b>Smith</b>-<b>Waterman</b> algorithm (developed with Temple Smith) is the <br>\nbasis for many sequence comparison programs. In 1988, Waterman and Eric&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Michael_Waterman", 
+            "cacheId": "Jc8MNPIpNKUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "BLAST - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "BLAST - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/BLAST", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/BLAST", 
+            "snippet": "While BLAST is faster than any Smith-Waterman implementation for most cases, \n... of the query and database sequences\" as Smith-Waterman algorithm does.", 
+            "htmlSnippet": "While BLAST is faster than any <b>Smith</b>-<b>Waterman</b> implementation for most cases, <br>\n... of the query and database sequences&quot; as <b>Smith</b>-<b>Waterman</b> algorithm does.", 
+            "link": "https://en.wikipedia.org/wiki/BLAST", 
+            "cacheId": "cJ5xxks8F7MJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Smith\u2013Waterman algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Smith</b>\u2013<b>Waterman</b> algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3ASmith\u2013Waterman_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>Smith</b>\u2013<b>Waterman</b>_algorithm", 
+            "snippet": "Scoring +2 for match, -6 for mismatch, -5 for gap open, -3 for gap extend, the \noverall score is 66 by Smith-Waterman's algorithm and 62 by the algorithm\u00a0...", 
+            "htmlSnippet": "Scoring +2 for match, -6 for mismatch, -5 for gap open, -3 for gap extend, the <br>\noverall score is 66 by <b>Smith</b>-<b>Waterman&#39;s</b> algorithm and 62 by the algorithm&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3ASmith%E2%80%93Waterman_algorithm", 
+            "cacheId": "uqIHqzwG2WsJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Gap penalty - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Gap penalty - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Gap_penalty", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Gap_penalty", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "271", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQfvYiTTnfc8EnoWUg6dtXr3Z2mpSQ_UzzY7uRsiDtJs5ndsIUR51znBOA", 
+                        "height": "169"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Sequence_gaps.JPG/339px-Sequence_gaps.JPG"
+                    }
+                ]
+            }, 
+            "snippet": "The Smith-Waterman algorithm is motivated by giving scores for matches and \nmismatches. Matches increase the overall score of an alignment whereas\u00a0...", 
+            "htmlSnippet": "The <b>Smith</b>-<b>Waterman</b> algorithm is motivated by giving scores for matches and <br>\nmismatches. Matches increase the overall score of an alignment whereas&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Gap_penalty", 
+            "cacheId": "gxoHeIiX5PUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "List of sequence alignment software - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "List of sequence alignment software - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/List_of_sequence_alignment_software", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/List_of_sequence_alignment_software", 
+            "snippet": "PSI-Search, Combining the Smith-Waterman search algorithm with the PSI-\nBLAST profile construction strategy to find distantly related protein sequences, \nand\u00a0...", 
+            "htmlSnippet": "PSI-Search, Combining the <b>Smith</b>-<b>Waterman</b> search algorithm with the PSI-<br>\nBLAST profile construction strategy to find distantly related protein sequences, <br>\nand&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/List_of_sequence_alignment_software", 
+            "cacheId": "7xUbxaQHuJ0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "FASTA - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "FASTA - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/FASTA", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/FASTA", 
+            "snippet": "In addition to rapid heuristic search methods, the FASTA package provides \nSSEARCH, an implementation of the optimal Smith-Waterman algorithm. A major\n\u00a0...", 
+            "htmlSnippet": "In addition to rapid heuristic search methods, the FASTA package provides <br>\nSSEARCH, an implementation of the optimal <b>Smith</b>-<b>Waterman</b> algorithm. A major<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/FASTA", 
+            "cacheId": "jxrXtnJRdSkJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "TimeLogic - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "TimeLogic - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/TimeLogic", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/TimeLogic", 
+            "pagemap": {
+                "hcard": [
+                    {
+                        "category": "Privately held company", 
+                        "fn": "TimeLogic", 
+                        "label": "Carlsbad, CA, USA"
+                    }
+                ]
+            }, 
+            "snippet": "TimeLogic's DeCypher systems have expanded to provide accelerated \nimplementations of the ubiquitous bioinformatics algorithms BLAST, Smith-\nWaterman,\u00a0...", 
+            "htmlSnippet": "TimeLogic&#39;s DeCypher systems have expanded to provide accelerated <br>\nimplementations of the ubiquitous bioinformatics algorithms BLAST, <b>Smith</b>-<br>\n<b>Waterman</b>,&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/TimeLogic", 
+            "cacheId": "vYFtjWhq5tMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Journal of Molecular Biology - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Journal of Molecular Biology - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Journal_of_Molecular_Biology", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Journal_of_Molecular_Biology", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "97", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSoprnT8bGFvzdU0R87XAi0mU5wpNlAQTHP8OE8CeMiAt8vX6H2TA4CLQ", 
+                        "height": "137"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/2/2a/Journal_of_Molecular_Biology.gif"
+                    }
+                ], 
+                "hproduct": [
+                    {
+                        "category": "Molecular biology", 
+                        "fn": "Journal of Molecular Biology"
+                    }
+                ]
+            }, 
+            "snippet": "\"Identification of Common Molecular Subsequences,\" in 1981, in which the Smith\n\u2013Waterman algorithm for determining the degree of homology of DNA, RNA,\u00a0...", 
+            "htmlSnippet": "&quot;Identification of Common Molecular Subsequences,&quot; in 1981, in which the <b>Smith</b><br>\n\u2013<b>Waterman</b> algorithm for determining the degree of homology of DNA, RNA,&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Journal_of_Molecular_Biology", 
+            "cacheId": "BrZRlVmyEKsJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Smith-Waterman", 
+                "safe": "off", 
+                "searchTerms": "Smith-Waterman", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "2300"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Smith-Waterman", 
+                "safe": "off", 
+                "searchTerms": "Smith-Waterman", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "2300"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.37", 
+        "formattedTotalResults": "2,300", 
+        "totalResults": "2300", 
+        "searchTime": 0.367554
+    }
+}

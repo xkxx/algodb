@@ -1,0 +1,199 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Burrows\u2013Wheeler transform - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Burrows</b>\u2013<b>Wheeler transform</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Burrows\u2013Wheeler_transform", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Burrows</b>\u2013<b>Wheeler</b>_<b>transform</b>", 
+            "snippet": "The Burrows\u2013Wheeler transform (BWT, also called block-sorting compression) \nrearranges a character string into runs of similar characters. This is useful for\u00a0...", 
+            "htmlSnippet": "The <b>Burrows</b>\u2013<b>Wheeler transform</b> (<b>BWT</b>, also called block-sorting compression) <br>\nrearranges a character string into runs of similar characters. This is useful for&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Burrows%E2%80%93Wheeler_transform", 
+            "cacheId": "TEBSs0u7wjgJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "FM-index - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "FM-index - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/FM-index", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/FM-index", 
+            "snippet": "In computer science, an FM-index is a compressed full-text substring index based \non the Burrows-Wheeler transform, with some similarities to the suffix array.", 
+            "htmlSnippet": "In computer science, an FM-index is a compressed full-text substring index based <br>\non the <b>Burrows</b>-<b>Wheeler transform</b>, with some similarities to the suffix array.", 
+            "link": "https://en.wikipedia.org/wiki/FM-index", 
+            "cacheId": "O96H9XttvPwJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Burrows\u2013Wheeler transform - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Burrows</b>\u2013<b>Wheeler transform</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3ABurrows-Wheeler_transform", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>Burrows</b>-<b>Wheeler</b>_<b>transform</b>", 
+            "snippet": "Which is the way the Burrows Wheeler Transform is usually first discussed in the \nliterature. One problem with the Special symbol for EOF is that when dealing\u00a0...", 
+            "htmlSnippet": "Which is the way the <b>Burrows Wheeler Transform</b> is usually first discussed in the <br>\nliterature. One problem with the Special symbol for EOF is that when dealing&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3ABurrows-Wheeler_transform", 
+            "cacheId": "XSgTiJNgUEQJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Move-to-front transform - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Move-to-front <b>transform</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Move-to-front_transform", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Move-to-front_<b>transform</b>", 
+            "snippet": "An important use of the MTF transform is in Burrows\u2013Wheeler transform based \ncompression. The Burrows\u2013Wheeler transform is very good at producing a\u00a0...", 
+            "htmlSnippet": "An important use of the MTF transform is in <b>Burrows</b>\u2013<b>Wheeler transform</b> based <br>\ncompression. The <b>Burrows</b>\u2013<b>Wheeler transform</b> is very good at producing a&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Move-to-front_transform", 
+            "cacheId": "TPbmzTGrHK0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "bzip2 - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "bzip2 - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Bzip2", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Bzip2", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "195", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShNVMFJPp47UlNPJmM1oy_w7H8UN4Ud21uSowxnhvnc6oKj2mQOm2T4g", 
+                        "height": "76"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/1/10/Bzip2-logo.png"
+                    }
+                ]
+            }, 
+            "snippet": "bzip2 compresses data in blocks of size between 100 and 900 kB and uses the \nBurrows\u2013Wheeler transform to convert frequently-recurring character sequences\n\u00a0...", 
+            "htmlSnippet": "bzip2 compresses data in blocks of size between 100 and 900 kB and uses the <br>\n<b>Burrows</b>\u2013<b>Wheeler transform</b> to convert frequently-recurring character sequences<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Bzip2", 
+            "cacheId": "Ez0GZX5Mw7UJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Michael Burrows - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Michael <b>Burrows</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Michael_Burrows", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Michael_<b>Burrows</b>", 
+            "pagemap": {
+                "hcard": [
+                    {
+                        "url": "royalsociety.org/people/michael-burrows", 
+                        "category": "Computer Science", 
+                        "url_text": "royalsociety.org/people/michael-burrows", 
+                        "fn": "Michael Burrows"
+                    }
+                ]
+            }, 
+            "snippet": "Michael Burrows, FRS (born 1963) is a British computer scientist and the creator \nof the Burrows\u2013Wheeler transform currently working for Google. Born in Britain\u00a0...", 
+            "htmlSnippet": "Michael Burrows, FRS (born 1963) is a British computer scientist and the creator <br>\nof the <b>Burrows</b>\u2013<b>Wheeler transform</b> currently working for Google. Born in Britain&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Michael_Burrows", 
+            "cacheId": "3QaIvnjbPboJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Bowtie (sequence analysis) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Bowtie (sequence analysis) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Bowtie_(sequence_analysis)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Bowtie_(sequence_analysis)", 
+            "snippet": "The speed increase of Bowtie is partly due to implementing the Burrows\u2013\nWheeler transform for aligning, which reduces the memory footprint (typically to \naround\u00a0...", 
+            "htmlSnippet": "The speed increase of Bowtie is partly due to implementing the <b>Burrows</b>\u2013<br>\n<b>Wheeler transform</b> for aligning, which reduces the memory footprint (typically to <br>\naround&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Bowtie_(sequence_analysis)", 
+            "cacheId": "OjnXEMLBAJAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "David Wheeler (British computer scientist) - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "David <b>Wheeler</b> (British computer scientist) - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../David_Wheeler_(British_computer_scientist)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../David_<b>Wheeler</b>_(British_computer_scientist)", 
+            "pagemap": {
+                "hcard": [
+                    {
+                        "bday": "1927-02-09", 
+                        "category": "Computer Science", 
+                        "fn": "David John Wheeler"
+                    }
+                ]
+            }, 
+            "snippet": "Wheeler's contributions to the field included work on the EDSAC and the Burrows\n\u2013Wheeler transform. Along with Maurice Wilkes and Stanley Gill he is credited\u00a0...", 
+            "htmlSnippet": "Wheeler&#39;s contributions to the field included work on the EDSAC and the <b>Burrows</b><br>\n\u2013<b>Wheeler transform</b>. Along with Maurice Wilkes and Stanley Gill he is credited&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/David_Wheeler_(British_computer_scientist)", 
+            "cacheId": "CgPu6maRmOkJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "List of sequence alignment software - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "List of sequence alignment software - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/List_of_sequence_alignment_software", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/List_of_sequence_alignment_software", 
+            "snippet": "Higher sensitivity and specificity than Burrows-Wheeler aligners, with similar or \ngreater speed. Performs affine-transform-optimized global alignment, which is\u00a0...", 
+            "htmlSnippet": "Higher sensitivity and specificity than <b>Burrows</b>-<b>Wheeler</b> aligners, with similar or <br>\ngreater speed. Performs affine-<b>transform</b>-optimized global alignment, which is&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/List_of_sequence_alignment_software", 
+            "cacheId": "7xUbxaQHuJ0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Lyndon word - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Lyndon word - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Lyndon_word", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Lyndon_word", 
+            "snippet": "Lyndon factorizations may be used as part of a bijective variant of the Burrows\u2013\nWheeler transform for data compression, and in algorithms for digital geometry.", 
+            "htmlSnippet": "Lyndon factorizations may be used as part of a bijective variant of the <b>Burrows</b>\u2013<br>\n<b>Wheeler transform</b> for data compression, and in algorithms for digital geometry.", 
+            "link": "https://en.wikipedia.org/wiki/Lyndon_word", 
+            "cacheId": "UHQMUY8WTVYJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Burrows-Wheeler transform", 
+                "safe": "off", 
+                "searchTerms": "Burrows-Wheeler transform", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "253"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Burrows-Wheeler transform", 
+                "safe": "off", 
+                "searchTerms": "Burrows-Wheeler transform", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "253"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.26", 
+        "formattedTotalResults": "253", 
+        "totalResults": "253", 
+        "searchTime": 0.264404
+    }
+}

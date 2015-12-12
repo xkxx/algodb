@@ -1,0 +1,236 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Run-length encoding - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Run</b>-<b>length encoding</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Run-length_encoding", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Run</b>-<b>length</b>_<b>encoding</b>", 
+            "snippet": "Run-length encoding (RLE) is a very simple form of lossless data compression in \nwhich runs of data (that is, sequences in which the same data value occurs in\u00a0...", 
+            "htmlSnippet": "<b>Run</b>-<b>length encoding</b> (<b>RLE</b>) is a very simple form of lossless data compression in <br>\nwhich runs of data (that is, sequences in which the same data value occurs in&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Run-length_encoding", 
+            "cacheId": "tek0XMcmRPEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Run-length limited - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Run</b>-<b>length</b> limited - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Run-length_limited", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Run</b>-<b>length</b>_limited", 
+            "snippet": "Not to be confused with run-length encoding. Run length limited or RLL coding is \na line coding technique that is used to send arbitrary data over a\u00a0...", 
+            "htmlSnippet": "Not to be confused with <b>run</b>-<b>length encoding</b>. Run length limited or RLL coding is <br>\na line coding technique that is used to send arbitrary data over a&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Run-length_limited", 
+            "cacheId": "Z-jDc0sc6ycJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Golomb coding - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Golomb coding - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Golomb_coding", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Golomb_coding", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "259", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSVBuwhhRAb1RkbtB_V6RuIxZ2ukCM66YkytxN_spOY_5RmnRd7IKNSQmmU", 
+                        "height": "194"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/9/93/Golomb_coded_Rice_Algorithm_experiment_Compression_Ratios.png"
+                    }
+                ]
+            }, 
+            "snippet": "Rice coding is used as the entropy encoding stage in a number of lossless image \ncompression ... 2 Simple algorithm; 3 Example; 4 Use for run-length encoding\u00a0...", 
+            "htmlSnippet": "Rice coding is used as the entropy encoding stage in a number of lossless image <br>\ncompression ... 2 Simple algorithm; 3 Example; 4 Use for <b>run</b>-<b>length encoding</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Golomb_coding", 
+            "cacheId": "NsihSekPjW8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Kolakoski sequence - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Kolakoski sequence - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Kolakoski_sequence", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Kolakoski_sequence", 
+            "snippet": "... is an infinite sequence of symbols {1,2} which is its own run-length encoding. ... \nEach symbol occurs in a \"run\" of either 1 or 2 consecutive terms, and writing\u00a0...", 
+            "htmlSnippet": "... is an infinite sequence of symbols {1,2} which is its own <b>run</b>-<b>length encoding</b>. ... <br>\nEach symbol occurs in a &quot;run&quot; of either 1 or 2 consecutive terms, and writing&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Kolakoski_sequence", 
+            "cacheId": "7zeudKSmXegJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Huffman coding - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Huffman coding - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Huffman_coding", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Huffman_coding", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRYt7j1GzJ2J4MU-pW1eHPgyVexM8gIc3kPK7SfJuMfK8y87IiEYnZx6w", 
+                        "height": "113"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Huffman_tree_2.svg/220px-Huffman_tree_2.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "Encoding the sentence with this code requires 135 bits, as opposed to 288 (or ..... \nof Bernoulli processes, Golomb coding is a probably optimal run-length code.", 
+            "htmlSnippet": "<b>Encoding</b> the sentence with this code requires 135 bits, as opposed to 288 (or ..... <br>\nof Bernoulli processes, Golomb coding is a probably optimal <b>run</b>-<b>length</b> code.", 
+            "link": "https://en.wikipedia.org/wiki/Huffman_coding", 
+            "cacheId": "09-XufA259YJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Adaptive coding - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Adaptive coding - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Adaptive_coding", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Adaptive_coding", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "225", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLWUBfNc9Y8UxhVh6V6RvTq81xQqpvholirfJJ1ECxNU4a4Gjf8ani20qV", 
+                        "height": "225"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e7/Damaged_N00153918.jpg/450px-Damaged_N00153918.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "Adaptive coding refers to variants of entropy encoding methods of lossless data \n... Run length encoding and the typical JPEG compression with run length\u00a0...", 
+            "htmlSnippet": "Adaptive coding refers to variants of entropy encoding methods of lossless data <br>\n... <b>Run length encoding</b> and the typical JPEG compression with run length&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Adaptive_coding", 
+            "cacheId": "fCUtXmKfSQsJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Look-and-say sequence - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Look-and-say sequence - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Look-and-say_sequence", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Look-and-say_sequence", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "225", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTETGUV3-u37irBV4zTqgOxuClxdHeFQuh7xsBKOs9Vy-i7ZZGOI3hSxwQ", 
+                        "height": "225"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Conway's_constant.svg/300px-Conway's_constant.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "The look-and-say sequence was introduced and analyzed by John Conway. The \nidea of the look-and-say sequence is similar to that of run-length encoding.", 
+            "htmlSnippet": "The look-and-say sequence was introduced and analyzed by John Conway. The <br>\nidea of the look-and-say sequence is similar to that of <b>run</b>-<b>length encoding</b>.", 
+            "link": "https://en.wikipedia.org/wiki/Look-and-say_sequence", 
+            "cacheId": "PngvGxGOsWIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "PackBits - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "PackBits - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/PackBits", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/PackBits", 
+            "snippet": "... is a fast, simple lossless compression scheme for run-length encoding of data. \n... TGA-files also use this RLE compression scheme, but treats data stream as\u00a0...", 
+            "htmlSnippet": "... is a fast, simple lossless compression scheme for <b>run</b>-<b>length encoding</b> of data. <br>\n... TGA-files also use this RLE compression scheme, but treats data stream as&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/PackBits", 
+            "cacheId": "kD-Uvi-uRJIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "GIF - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "GIF - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/GIF", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/GIF", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "160", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ9DxDNOiUKKZaf4zcYSdBjaK9GQ4FCA70X28qrto8GmsKkF3d7IVIQfG_9", 
+                        "height": "160"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Rotating_earth_(large).gif/200px-Rotating_earth_(large).gif"
+                    }
+                ]
+            }, 
+            "snippet": "CompuServe introduced the GIF format in 1987 to provide a color image format \nfor their file downloading areas, replacing their earlier run-length encoding (RLE)\n\u00a0...", 
+            "htmlSnippet": "CompuServe introduced the GIF format in 1987 to provide a color image format <br>\nfor their file downloading areas, replacing their earlier <b>run</b>-<b>length encoding</b> (RLE)<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/GIF", 
+            "cacheId": "JvN2FGVjcWYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "PCX - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "PCX - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/PCX", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/PCX", 
+            "snippet": "In version 2.1.4 FFmpeg could encode and decode the PCX pixel formats rgb24, \n... PCX image data are compressed using run-length encoding (RLE), a simple\u00a0...", 
+            "htmlSnippet": "In version 2.1.4 FFmpeg could encode and decode the PCX pixel formats rgb24, <br>\n... PCX image data are compressed using <b>run</b>-<b>length encoding</b> (RLE), a simple&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/PCX", 
+            "cacheId": "gjQXoDlcnTIJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Run-length encoding", 
+                "safe": "off", 
+                "searchTerms": "Run-length encoding", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "2410"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Run-length encoding", 
+                "safe": "off", 
+                "searchTerms": "Run-length encoding", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "2410"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.32", 
+        "formattedTotalResults": "2,410", 
+        "totalResults": "2410", 
+        "searchTime": 0.316117
+    }
+}

@@ -1,0 +1,208 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Fitness proportionate selection - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Fitness proportionate selection</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Fitness_proportionate_selection", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Fitness</b>_<b>proportionate</b>_<b>selection</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "216", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQFriSC0IGzsJHb_azdXtr0_fVk6nsdW8246sFOCGRNHx1gS55uaWRPVaQ", 
+                        "height": "68"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Fitness_proportionate_selection_example.png/270px-Fitness_proportionate_selection_example.png"
+                    }
+                ]
+            }, 
+            "snippet": "Fitness proportionate selection, also known as roulette wheel selection, is a \ngenetic operator used in genetic algorithms for selecting potentially useful \nsolutions\u00a0...", 
+            "htmlSnippet": "<b>Fitness proportionate selection</b>, also known as roulette wheel selection, is a <br>\ngenetic operator used in genetic algorithms for selecting potentially useful <br>\nsolutions&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Fitness_proportionate_selection", 
+            "cacheId": "CinUVh_JAjMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Selection (genetic algorithm) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Selection</b> (genetic algorithm) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Selection_(genetic_algorithm)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Selection</b>_(genetic_algorithm)", 
+            "snippet": "Selection is the stage of a genetic algorithm in which individual genomes are ... \nindividuals, this selection method is called fitness proportionate selection or\u00a0...", 
+            "htmlSnippet": "Selection is the stage of a genetic algorithm in which individual genomes are ... <br>\nindividuals, this selection method is called <b>fitness proportionate selection</b> or&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Selection_(genetic_algorithm)", 
+            "cacheId": "4zoVr716WioJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Fitness proportionate selection - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Fitness proportionate selection</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/.../Talk%3AFitness_proportionate_selection", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Talk%3A<b>Fitness</b>_<b>proportionate</b>_<b>selection</b>", 
+            "snippet": "Fitness proportionate selection is within the scope of WikiProject Robotics, ... \nCould someone give an example of a function to relate fitness to probability of\u00a0...", 
+            "htmlSnippet": "<b>Fitness proportionate selection</b> is within the scope of WikiProject Robotics, ... <br>\nCould someone give an example of a function to relate fitness to probability of&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3AFitness_proportionate_selection", 
+            "cacheId": "5fIjVIrCoZ0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Stochastic universal sampling - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Stochastic universal sampling - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Stochastic_universal_sampling", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Stochastic_universal_sampling", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "216", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT-k_JNAnuThB60GzIUoteBSOSbSTkSkHwDRiUPvG08OohNZ_FkMsAsyg", 
+                        "height": "79"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Statistically_Uniform.png/270px-Statistically_Uniform.png"
+                    }
+                ]
+            }, 
+            "snippet": "SUS is a development of fitness proportionate selection (FPS) which exhibits no \nbias and minimal spread. Where FPS chooses several solutions from the\u00a0...", 
+            "htmlSnippet": "SUS is a development of <b>fitness proportionate selection</b> (FPS) which exhibits no <br>\nbias and minimal spread. Where FPS chooses several solutions from the&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Stochastic_universal_sampling", 
+            "cacheId": "_nPmXiOsREYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Tournament selection - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Tournament <b>selection</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Tournament_selection", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Tournament_<b>selection</b>", 
+            "snippet": "Tournament selection is a method of selecting an individual from a population of \n... In comparison with the (stochastic) fitness proportionate selection method,\u00a0...", 
+            "htmlSnippet": "Tournament selection is a method of selecting an individual from a population of <br>\n... In comparison with the (stochastic) <b>fitness proportionate selection</b> method,&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Tournament_selection", 
+            "cacheId": "559IAwUijHgJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Crossover (genetic algorithm) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Crossover (genetic algorithm) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Crossover_(genetic_algorithm)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Crossover_(genetic_algorithm)", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "184", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSk_FnViYDO4BMjkj7kNNVrZoyBSZnnnVPEKa8y4UYBZtAXc-xujsDFNg", 
+                        "height": "80"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/OnePointCrossover.svg/231px-OnePointCrossover.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "Fitness proportionate selection (SCX) It is also known as fitness proportionate \nselection. The individual is selected on the basis of fitness. The probability of an\u00a0...", 
+            "htmlSnippet": "<b>Fitness proportionate selection</b> (SCX) It is also known as <b>fitness proportionate</b> <br>\n<b>selection</b>. The individual is selected on the basis of fitness. The probability of an&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Crossover_(genetic_algorithm)", 
+            "cacheId": "dXeC7HNKlosJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Genetic operator - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Genetic operator - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Genetic_operator", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Genetic_operator", 
+            "snippet": "There are three main types of operators (mutation, crossover and selection), \nwhich ... fitness proportionate selection and tournament selection; different \nmethods\u00a0...", 
+            "htmlSnippet": "There are three main types of operators (mutation, crossover and selection), <br>\nwhich ... <b>fitness proportionate selection</b> and tournament selection; different <br>\nmethods&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Genetic_operator", 
+            "cacheId": "xkKeDxj7is8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Reward-based selection - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Reward-based <b>selection</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Reward-based_selection", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Reward-based_<b>selection</b>", 
+            "snippet": "Reward-based selection is a technique used in evolutionary algorithms for \nselecting ... The probability of being selected for an individual is proportional to \nthe ... Selection (genetic algorithm) \u00b7 Fitness proportionate selection \u00b7 Tournament\n\u00a0...", 
+            "htmlSnippet": "Reward-based selection is a technique used in evolutionary algorithms for <br>\nselecting ... The probability of being selected for an individual is proportional to <br>\nthe ... Selection (genetic algorithm) &middot; <b>Fitness proportionate selection</b> &middot; Tournament<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Reward-based_selection", 
+            "cacheId": "Y-6kPmZSFgYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Selection (genetic algorithm) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Selection</b> (genetic algorithm) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3ASelection_(genetic_algorithm)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>Selection</b>_(genetic_algorithm)", 
+            "snippet": "This is the talk page for discussing improvements to the Selection (genetic ... Why \nis Roulette wheel selection redirected to Fitness proportionate selection?", 
+            "htmlSnippet": "This is the talk page for discussing improvements to the Selection (genetic ... Why <br>\nis Roulette wheel selection redirected to <b>Fitness proportionate selection</b>?", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3ASelection_(genetic_algorithm)", 
+            "cacheId": "omg2v5JqcCEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Category:Genetic algorithms - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Category:Genetic algorithms - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Category:Genetic_algorithms", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Category:Genetic_algorithms", 
+            "snippet": "F. Fitness approximation \u00b7 Fitness function \u00b7 Fitness proportionate selection. G. \nGATTO \u00b7 Gene ... R. Reward-based selection. S. Santa Fe Trail problem \u00b7 Schema\n\u00a0...", 
+            "htmlSnippet": "F. Fitness approximation &middot; Fitness function &middot; <b>Fitness proportionate selection</b>. G. <br>\nGATTO &middot; Gene ... R. Reward-based selection. S. Santa Fe Trail problem &middot; Schema<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Category:Genetic_algorithms", 
+            "cacheId": "VL-9m5KOHvkJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Fitness proportionate selection", 
+                "safe": "off", 
+                "searchTerms": "Fitness proportionate selection", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "78"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Fitness proportionate selection", 
+                "safe": "off", 
+                "searchTerms": "Fitness proportionate selection", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "78"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.26", 
+        "formattedTotalResults": "78", 
+        "totalResults": "78", 
+        "searchTime": 0.26006
+    }
+}

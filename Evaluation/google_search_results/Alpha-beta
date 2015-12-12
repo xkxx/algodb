@@ -1,0 +1,249 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Alpha Beta - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Alpha Beta</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Alpha_Beta", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Alpha</b>_<b>Beta</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "172", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTd_2jjXWpTPCttN0QbiVV_04Qeq9BuPMC7iEjzB7TvpGx6witq2dSn-eA", 
+                        "height": "84"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/2/27/Alpha_Beta_Logo.PNG/215px-Alpha_Beta_Logo.PNG"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "category": "Subsidiary of American Stores", 
+                        "fn": "Alpha Beta"
+                    }
+                ]
+            }, 
+            "snippet": "Alpha Beta was a chain of supermarkets in the United States. Stores under this \nbrand existed between 1917 and 1995. Former Alpha Beta stores have all been\u00a0...", 
+            "htmlSnippet": "<b>Alpha Beta</b> was a chain of supermarkets in the United States. Stores under this <br>\nbrand existed between 1917 and 1995. Former <b>Alpha Beta</b> stores have all been&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Alpha_Beta", 
+            "cacheId": "VE07dyiEiCYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Alpha\u2013beta pruning - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Alpha</b>\u2013<b>beta</b> pruning - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Alpha\u2013beta_pruning", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Alpha</b>\u2013<b>beta</b>_pruning", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "315", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTRLE9aSDE5GuxxW9u7nN2_dzFjTiH5eIu0w6p3z7BTbVlmDLMuNL2Liuro", 
+                        "height": "160"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/AB_pruning.svg/400px-AB_pruning.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "Alpha\u2013beta pruning is a search algorithm that seeks to decrease the number of \nnodes that are evaluated by the minimax algorithm in its search tree. It is an\u00a0...", 
+            "htmlSnippet": "<b>Alpha</b>\u2013<b>beta</b> pruning is a search algorithm that seeks to decrease the number of <br>\nnodes that are evaluated by the minimax algorithm in its search tree. It is an&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Alpha%E2%80%93beta_pruning", 
+            "cacheId": "weKWoHabm_4J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Alphabeta (disambiguation) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Alphabeta</b> (disambiguation) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Alphabeta_(disambiguation)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Alphabeta</b>_(disambiguation)", 
+            "snippet": "Alphabeta or Alpha Beta may refer to: Alpha (\u0391\u03b1) and Beta (\u0392\u03b2) ... This \ndisambiguation page lists articles associated with the title Alphabeta. If an \ninternal link led\u00a0...", 
+            "htmlSnippet": "<b>Alphabeta</b> or <b>Alpha Beta</b> may refer to: Alpha (\u0391\u03b1) and Beta (\u0392\u03b2) ... This <br>\ndisambiguation page lists articles associated with the title <b>Alphabeta</b>. If an <br>\ninternal link led&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Alphabeta_(disambiguation)", 
+            "cacheId": "XkNWHCZzqSsJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Alphabeta - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Alphabeta</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Alphabeta", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Alphabeta</b>", 
+            "snippet": "Alphabeta were a group of Israeli singers who won the Eurovision Song Contest \nin 1978 with Izhar Cohen. The singers were Reuven Erez, Lisa Gold-Rubin,\u00a0...", 
+            "htmlSnippet": "<b>Alphabeta</b> were a group of Israeli singers who won the Eurovision Song Contest <br>\nin 1978 with Izhar Cohen. The singers were Reuven Erez, Lisa Gold-Rubin,&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Alphabeta", 
+            "cacheId": "DsfaFfVdCgQJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Alpha beta filter - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Alpha beta</b> filter - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Alpha_beta_filter", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Alpha</b>_<b>beta</b>_filter", 
+            "snippet": "An alpha beta filter (also called alpha-beta filter, f-g filter or g-h filter) is a \nsimplified form of observer for estimation, data smoothing and control \napplications.", 
+            "htmlSnippet": "An <b>alpha beta</b> filter (also called <b>alpha</b>-<b>beta</b> filter, f-g filter or g-h filter) is a <br>\nsimplified form of observer for estimation, data smoothing and control <br>\napplications.", 
+            "link": "https://en.wikipedia.org/wiki/Alpha_beta_filter", 
+            "cacheId": "fmvwz4cA0asJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Greek alphabet - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Greek alphabet - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Greek_alphabet", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Greek_<b>alpha</b>bet", 
+            "snippet": "Greek, Phoenician original, English, Greek (Ancient), Greek (Modern), English. \u0391, \n\u1f04\u03bb\u03c6\u03b1, aleph, alpha, [alp\u02b0a], [\u02c8alfa], Listen/\u02c8\u00e6lf\u0259/. \u0392, \u03b2\u1fc6\u03c4\u03b1, beth, beta, [b\u025b\u02d0ta]\u00a0...", 
+            "htmlSnippet": "Greek, Phoenician original, English, Greek (Ancient), Greek (Modern), English. \u0391, <br>\n\u1f04\u03bb\u03c6\u03b1, aleph, <b>alpha</b>, [alp\u02b0a], [\u02c8alfa], Listen/\u02c8\u00e6lf\u0259/. \u0392, \u03b2\u1fc6\u03c4\u03b1, beth, <b>beta</b>, [b\u025b\u02d0ta]&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Greek_alphabet", 
+            "cacheId": "jiVRv2wbkyQJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Software release life cycle - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Software release life cycle - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Software_release_life_cycle", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Software_release_life_cycle", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "154", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh2O8HPH6KWDYaxG5eJNFj5Rldp4Ih2fDH5QCi_xeoWSpOsO9b1C8SeQrT", 
+                        "height": "327"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Software_dev2.svg/250px-Software_dev2.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "Usage of the \"alpha/beta\" test terminology originated at IBM. As long ago as the \n1950s (and probably earlier), IBM used similar terminology for their hardware\u00a0...", 
+            "htmlSnippet": "Usage of the &quot;<b>alpha</b>/<b>beta</b>&quot; test terminology originated at IBM. As long ago as the <br>\n1950s (and probably earlier), IBM used similar terminology for their hardware&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Software_release_life_cycle", 
+            "cacheId": "0_LmzBkzbS4J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Alpha/beta hydrolase fold - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Alpha</b>/<b>beta</b> hydrolase fold - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Alpha/beta_hydrolase_fold", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Alpha</b>/<b>beta</b>_hydrolase_fold", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "200", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThZMI-uMvmXSLxZNbS9TSNrRgjE3RwVrZAy9AufGBEDuuta2cCCbV8G_E", 
+                        "height": "182"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/1qge_opm.png/250px-1qge_opm.png"
+                    }
+                ]
+            }, 
+            "snippet": "In molecular biology, the alpha/beta hydrolase fold is common to a number of \nhydrolytic enzymes of widely differing phylogenetic origin and catalytic function.", 
+            "htmlSnippet": "In molecular biology, the <b>alpha</b>/<b>beta</b> hydrolase fold is common to a number of <br>\nhydrolytic enzymes of widely differing phylogenetic origin and catalytic function.", 
+            "link": "https://en.wikipedia.org/wiki/Alpha/beta_hydrolase_fold", 
+            "cacheId": "a1stX5wFXcIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Alpha Beta Gaga - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Alpha Beta</b> Gaga - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Alpha_Beta_Gaga", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Alpha</b>_<b>Beta</b>_Gaga", 
+            "pagemap": {
+                "hcard": [
+                    {
+                        "fn": "Air"
+                    }
+                ]
+            }, 
+            "snippet": "\"Alpha Beta Gaga\" is an electronica song by Air from the album Talkie Walkie. ... \"\nAlpha Beta Gaga\" (Mark Ronson dub); \"Alpha Beta Gaga\" (Jackson remix).", 
+            "htmlSnippet": "&quot;<b>Alpha Beta</b> Gaga&quot; is an electronica song by Air from the album Talkie Walkie. ... &quot;<br>\n<b>Alpha Beta</b> Gaga&quot; (Mark Ronson dub); &quot;<b>Alpha Beta</b> Gaga&quot; (Jackson remix).", 
+            "link": "https://en.wikipedia.org/wiki/Alpha_Beta_Gaga", 
+            "cacheId": "sGbSpn0IK9wJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Alpha Beta Kappa - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Alpha Beta</b> Kappa - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Alpha_Beta_Kappa", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Alpha</b>_<b>Beta</b>_Kappa", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "52", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSxtwv3GKQrd1tmKyXYbZxJbcetqK89V0qBvEFKnou9rEK_ll8qiukO", 
+                        "height": "112"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/2/26/Abk-key.gif"
+                    }
+                ]
+            }, 
+            "snippet": "Alpha Beta Kappa (\u0391\u0392\u039a) is the only honor society recognizing excellence in the \narts, the sciences, the trades, business, and both technical and general studies.", 
+            "htmlSnippet": "<b>Alpha Beta</b> Kappa (\u0391\u0392\u039a) is the only honor society recognizing excellence in the <br>\narts, the sciences, the trades, business, and both technical and general studies.", 
+            "link": "https://en.wikipedia.org/wiki/Alpha_Beta_Kappa", 
+            "cacheId": "qgzy0nkCvn0J"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Alpha-beta", 
+                "safe": "off", 
+                "searchTerms": "Alpha-beta", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "32500"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Alpha-beta", 
+                "safe": "off", 
+                "searchTerms": "Alpha-beta", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "32500"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.47", 
+        "formattedTotalResults": "32,500", 
+        "totalResults": "32500", 
+        "searchTime": 0.47073
+    }
+}

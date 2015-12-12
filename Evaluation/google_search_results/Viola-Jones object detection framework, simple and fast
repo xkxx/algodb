@@ -1,0 +1,171 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Viola\u2013Jones object detection framework - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Viola</b>\u2013<b>Jones object detection framework</b> - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../Viola\u2013Jones_object_detection_framework", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../<b>Viola</b>\u2013<b>Jones</b>_<b>object</b>_<b>detection</b>_<b>framework</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI0-j88A9-uHyod2noF7Diz96bdXM_RnKjr_wjc22FkIlDu6i7GDUgpHzA", 
+                        "height": "176"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Prm_VJ_fig1_featureTypesWithAlpha.png/220px-Prm_VJ_fig1_featureTypesWithAlpha.png"
+                    }
+                ]
+            }, 
+            "snippet": "The Viola\u2013Jones object detection framework is the first object detection .... \nclassifier as a linear combination of weighted simple \u201cweak\u201d classifiers. ... by the \nlearning process can be done quickly, but it isn't fast enough to run in real-time. \nFor this\u00a0...", 
+            "htmlSnippet": "The <b>Viola</b>\u2013<b>Jones object detection framework</b> is the first <b>object detection</b> .... <br>\nclassifier as a linear combination of weighted <b>simple</b> \u201cweak\u201d classifiers. ... by the <br>\nlearning process can be done quickly, but it isn&#39;t <b>fast</b> enough to run in real-time. <br>\nFor this&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Viola%E2%80%93Jones_object_detection_framework", 
+            "cacheId": "zf3BJYxuGQoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Haar-like features - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Haar-like features - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Haar-like_features", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Haar-like_features", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRMsI6azPznVxcl_iW7RBgl8pCMQ6LGAvh0Fu5vlqvwuFKTcM0d6DybwbE", 
+                        "height": "132"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Prm_VJ_fig3_computeRectangleWithAlpha.png/220px-Prm_VJ_fig3_computeRectangleWithAlpha.png"
+                    }
+                ]
+            }, 
+            "snippet": "In the Viola\u2013Jones object detection framework, the Haar-like features are \ntherefore ... 1 Rectangular Haar-like features; 2 Fast computation of Haar-like \nfeatures ... A simple rectangular Haar-like feature can be defined as the \ndifference of the\u00a0...", 
+            "htmlSnippet": "In the <b>Viola</b>\u2013<b>Jones object detection framework</b>, the Haar-like features are <br>\ntherefore ... 1 Rectangular Haar-like features; 2 <b>Fast</b> computation of Haar-like <br>\nfeatures ... A <b>simple</b> rectangular Haar-like feature can be defined as the <br>\ndifference of the&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Haar-like_features", 
+            "cacheId": "-ydbbMqPmM4J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Boosting methods for object categorization - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Boosting methods for <b>object</b> categorization - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../Boosting_methods_for_object_categorization", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Boosting_methods_for_<b>object</b>_categorization", 
+            "snippet": "Simple classifiers built based on some image feature of the object tend to be ... A \ntypical application of AdaBoost as one of the popular boosting algorithms is fast \nface detection by P. Viola and M. Jones, Viola\u2013Jones object detection framework. \n... It takes a similar approach as the face detection work of Viola and Jones.", 
+            "htmlSnippet": "<b>Simple</b> classifiers built based on some image feature of the object tend to be ... A <br>\ntypical application of AdaBoost as one of the popular boosting algorithms is <b>fast</b> <br>\n<b>face detection</b> by P. Viola and M. Jones, <b>Viola</b>\u2013<b>Jones object detection framework</b>. <br>\n... It takes a similar approach as the <b>face detection</b> work of Viola and Jones.", 
+            "link": "https://en.wikipedia.org/wiki/Boosting_methods_for_object_categorization", 
+            "cacheId": "LyF8snbWSB0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "AdaBoost - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "AdaBoost - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/AdaBoost", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/AdaBoost", 
+            "snippet": "... Haar features, as used by the Viola\u2013Jones object detection framework, in a ... -\nlayer classifier will be positive if the sample is believed to be in the positive class \n..... NPatternRecognizer , a fast machine learning algorithm library written in C#.", 
+            "htmlSnippet": "... Haar features, as used by the <b>Viola</b>\u2013<b>Jones object detection framework</b>, in a ... -<br>\nlayer classifier will be positive if the <b>sample</b> is believed to be in the positive class <br>\n..... NPatternRecognizer , a <b>fast</b> machine learning algorithm library written in C#.", 
+            "link": "https://en.wikipedia.org/wiki/AdaBoost", 
+            "cacheId": "qVOTcl671_kJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Cascade Learning Based on Adaboost - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Cascade Learning Based on Adaboost - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Cascade_Learning_Based_on_Adaboost", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Cascade_Learning_Based_on_Adaboost", 
+            "snippet": "In Viola and Jones, Rapid Object Detection using a Boosted Cascade of Simple \nFeatures, just give a crude way to determine configuration: number of features in\n\u00a0...", 
+            "htmlSnippet": "In <b>Viola</b> and <b>Jones</b>, Rapid <b>Object Detection</b> using a Boosted Cascade of <b>Simple</b> <br>\nFeatures, just give a crude way to determine configuration: number of features in<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Cascade_Learning_Based_on_Adaboost", 
+            "cacheId": "HK-6_utAgm0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Summed area table - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Summed area table - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Summed_area_table", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Summed_area_table", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ60QGvzk0o3d7V2FGZH8M_QsH6A_1wyF-AQKoJNSH472l8AZ7joqiYt6av", 
+                        "height": "132"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Summed_area_table.png/220px-Summed_area_table.png"
+                    }
+                ]
+            }, 
+            "snippet": "In computer vision it was first prominently used within the Viola\u2013Jones object \ndetection framework in 2001. However, historically, this principle is very well \nknown\u00a0...", 
+            "htmlSnippet": "In computer vision it was first prominently used within the <b>Viola</b>\u2013<b>Jones object</b> <br>\n<b>detection framework</b> in 2001. However, historically, this principle is very well <br>\nknown&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Summed_area_table", 
+            "cacheId": "VymKmKYr7k8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Wikipedia talk:WikiProject Computer science/Archive 10 - Wikipedia ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Wikipedia talk:WikiProject Computer science/Archive 10 - Wikipedia <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Wikipedia_talk.../Archive_10", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Wikipedia_talk.../Archive_10", 
+            "snippet": "Please go to Talk:Fast inverse square root#Take out the F-bomb comment for a \n...... Well, without some sources showing notability (beyond simple definitions) the \n...... The Viola\u2013Jones object detection framework article has been seriously\u00a0...", 
+            "htmlSnippet": "Please go to Talk:<b>Fast</b> inverse square root#Take out the F-bomb comment for a <br>\n...... Well, without some sources showing notability (beyond <b>simple</b> definitions) the <br>\n...... The <b>Viola</b>\u2013<b>Jones object detection framework</b> article has been seriously&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Computer_science/Archive_10", 
+            "cacheId": "q-nyLyAzEWAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Wikipedia talk:WikiProject Computer science/Archive index ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Wikipedia talk:WikiProject Computer science/Archive index <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Wikipedia_talk.../Archive_index", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Wikipedia_talk.../Archive_index", 
+            "snippet": "Expert review: PHP Object Generator, 2, Wikipedia talk:WikiProject Computer ..... \nFast inverse square root \u2014 remove \"F-bomb\" expletive from quoted source code? \n1, Wikipedia .... Simple precedence parsing, 1, Wikipedia talk:WikiProject \nComputer .... Computer science/Archive 10#Viola\u2013Jones object detection \nframework.", 
+            "htmlSnippet": "Expert review: PHP Object Generator, 2, Wikipedia talk:WikiProject Computer ..... <br>\n<b>Fast</b> inverse square root \u2014 remove &quot;F-bomb&quot; expletive from quoted source code? <br>\n1, Wikipedia .... <b>Simple</b> precedence parsing, 1, Wikipedia talk:WikiProject <br>\nComputer .... Computer science/Archive 10#<b>Viola</b>\u2013<b>Jones object detection</b> <br>\n<b>framework</b>.", 
+            "link": "https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Computer_science/Archive_index", 
+            "cacheId": "ktmw1uUmMEUJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 8, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Viola-Jones object detection framework, simple and fast", 
+                "safe": "off", 
+                "searchTerms": "Viola-Jones object detection framework, simple and fast", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "8"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.39", 
+        "formattedTotalResults": "8", 
+        "totalResults": "8", 
+        "searchTime": 0.39321
+    }
+}

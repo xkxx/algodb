@@ -1,0 +1,194 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Non sequitur - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Non <b>sequitur</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Non_sequitur", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Non_<b>sequitur</b>", 
+            "snippet": "Non sequitur or sequitur may refer to: Non sequitur (literary device), an irrelevant, \noften humorous comment to a preceding topic or statement; Non sequitur\u00a0...", 
+            "htmlSnippet": "Non <b>sequitur</b> or <b>sequitur</b> may refer to: Non <b>sequitur</b> (literary device), an irrelevant, <br>\noften humorous comment to a preceding topic or statement; Non <b>sequitur</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Non_sequitur", 
+            "cacheId": "1FiaZNytqBQJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Non sequitur (logic) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Non <b>sequitur</b> (logic) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Non_sequitur_(logic)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Non_<b>sequitur</b>_(logic)", 
+            "snippet": "Non sequitur (Latin for \"it does not follow\"), in formal logic, is an argument in \nwhich its conclusion does not follow from its premises. In a non sequitur, the\u00a0...", 
+            "htmlSnippet": "Non <b>sequitur</b> (Latin for &quot;it does not follow&quot;), in formal logic, is an argument in <br>\nwhich its conclusion does not follow from its premises. In a non <b>sequitur</b>, the&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Non_sequitur_(logic)", 
+            "cacheId": "g1iVv-LQGvQJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Non sequitur (literary device) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Non <b>sequitur</b> (literary device) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Non_sequitur_(literary_device)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Non_<b>sequitur</b>_(literary_device)", 
+            "snippet": "A non sequitur is a conversational and literary device, often used for comedic \npurposes. It is something said that, because of its apparent lack of meaning \nrelative\u00a0...", 
+            "htmlSnippet": "A non <b>sequitur</b> is a conversational and literary device, often used for comedic <br>\npurposes. It is something said that, because of its apparent lack of meaning <br>\nrelative&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Non_sequitur_(literary_device)", 
+            "cacheId": "5eAscsWiXo0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Non Sequitur (comic strip) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Non <b>Sequitur</b> (comic strip) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Non_Sequitur_(comic_strip)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Non_<b>Sequitur</b>_(comic_strip)", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "168", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRMdWnIl4S6PxCqV81J9g4__zv0_M_guKABEgQJhE3Rr0xMpW1Wjp3Yxd0", 
+                        "height": "301"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/5/54/NonSequitur.png"
+                    }
+                ]
+            }, 
+            "snippet": "Non Sequitur is a comic strip created by Wiley Miller (usually credited as just \nWiley) in 1992 and syndicated by Universal Press Syndicate to over 700\u00a0...", 
+            "htmlSnippet": "Non <b>Sequitur</b> is a comic strip created by Wiley Miller (usually credited as just <br>\nWiley) in 1992 and syndicated by Universal Press Syndicate to over 700&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Non_Sequitur_(comic_strip)", 
+            "cacheId": "FIpR5YFY7bMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Sequitur algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Sequitur</b> algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Sequitur_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Sequitur</b>_algorithm", 
+            "snippet": "Sequitur (or Nevill-Manning algorithm) is a recursive algorithm developed by \nCraig Nevill-Manning and Ian H. Witten in 1997 that infers a hierarchical structure\n\u00a0...", 
+            "htmlSnippet": "<b>Sequitur</b> (or Nevill-Manning algorithm) is a recursive algorithm developed by <br>\nCraig Nevill-Manning and Ian H. Witten in 1997 that infers a hierarchical structure<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Sequitur_algorithm", 
+            "cacheId": "moCWCK_aXHEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Partus sequitur ventrem - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Partus <b>sequitur</b> ventrem - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Partus_sequitur_ventrem", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Partus_<b>sequitur</b>_ventrem", 
+            "snippet": "Partus sequitur ventrem, often abbreviated to partus, in the British North \nAmerican colonies and later in the United States, was a legal doctrine which the \nEnglish\u00a0...", 
+            "htmlSnippet": "Partus <b>sequitur</b> ventrem, often abbreviated to partus, in the British North <br>\nAmerican colonies and later in the United States, was a legal doctrine which the <br>\nEnglish&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Partus_sequitur_ventrem", 
+            "cacheId": "N-8rCkl0yDcJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Non Sequitur (Star Trek: Voyager) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Non <b>Sequitur</b> (Star Trek: Voyager) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Non_Sequitur_(Star_Trek:_Voyager)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Non_<b>Sequitur</b>_(Star_Trek:_Voyager)", 
+            "snippet": "\"Non Sequitur\" is the 21st episode of Star Trek: Voyager, the fifth episode in the \nsecond season. Plot[edit]. Harry Kim is aboard a shuttlecraft as it is shaking\u00a0...", 
+            "htmlSnippet": "&quot;Non <b>Sequitur</b>&quot; is the 21st episode of Star Trek: Voyager, the fifth episode in the <br>\nsecond season. Plot[edit]. Harry Kim is aboard a shuttlecraft as it is shaking&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Non_Sequitur_(Star_Trek:_Voyager)", 
+            "cacheId": "Q4T0BCiFSy8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Wiley Miller - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Wiley Miller - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Wiley_Miller", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Wiley_Miller", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "197", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTNu2VgObrpH63B4d9mjUXmfFGlNwRRdYQvIb1U6p2l8_sGN_MTrNVQsss", 
+                        "height": "255"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/0/08/Nonsequitur05.jpg/250px-Nonsequitur05.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "Non Sequitur is the only cartoon to win National Cartoonists Society Divisional \nAwards in both the comic strip and comic panel categories, and Miller is the only\n\u00a0...", 
+            "htmlSnippet": "Non <b>Sequitur</b> is the only cartoon to win National Cartoonists Society Divisional <br>\nAwards in both the comic strip and comic panel categories, and Miller is the only<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Wiley_Miller", 
+            "cacheId": "p-QnMhYSHkYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Principle of explosion - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Principle of explosion - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Principle_of_explosion", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Principle_of_explosion", 
+            "snippet": "The principle of explosion (Latin: ex falso (sequitur) quodlibet (EFQ), \"from \nfalsehood, anything (follows)\", or ex contradictione (sequitur) quodlibet (ECQ), \"\nfrom\u00a0...", 
+            "htmlSnippet": "The principle of explosion (Latin: ex falso (<b>sequitur</b>) quodlibet (EFQ), &quot;from <br>\nfalsehood, anything (follows)&quot;, or ex contradictione (<b>sequitur</b>) quodlibet (ECQ), &quot;<br>\nfrom&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Principle_of_explosion", 
+            "cacheId": "lk3H3wXNQFgJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Non sequitur (logic) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:Non <b>sequitur</b> (logic) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3ANon_sequitur_(logic)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3ANon_<b>sequitur</b>_(logic)", 
+            "snippet": "16 Eminem's Lyrics - Is this a good example for a non sequitur? 17 Examples - \nnormal speech; 18 Pronunciation Guide; 19 IF YOU HAVE TWO Non sequitur\u00a0...", 
+            "htmlSnippet": "16 Eminem&#39;s Lyrics - Is this a good example for a non <b>sequitur</b>? 17 Examples - <br>\nnormal speech; 18 Pronunciation Guide; 19 IF YOU HAVE TWO Non <b>sequitur</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3ANon_sequitur_(logic)", 
+            "cacheId": "tJOHHW6vHeYJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Sequitur", 
+                "safe": "off", 
+                "searchTerms": "Sequitur", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "26800"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Sequitur", 
+                "safe": "off", 
+                "searchTerms": "Sequitur", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "26800"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.45", 
+        "formattedTotalResults": "26,800", 
+        "totalResults": "26800", 
+        "searchTime": 0.451506
+    }
+}

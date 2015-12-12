@@ -1,0 +1,218 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Brotli - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Brotli</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Brotli", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Brotli</b>", 
+            "snippet": "Brotli is an open source data compression library developed by Jyrki Alakuijala \nand Zolt\u00e1n Szabadka. Brotli is based on a modern variant of the LZ77 algorithm,\n\u00a0...", 
+            "htmlSnippet": "<b>Brotli</b> is an open source data compression library developed by Jyrki Alakuijala <br>\nand Zolt\u00e1n Szabadka. <b>Brotli</b> is based on a modern variant of the LZ77 algorithm,<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Brotli", 
+            "cacheId": "kXxLRWSlW00J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Spanisch Br\u00f6tli - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Spanisch <b>Br\u00f6tli</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Spanisch_Br\u00f6tli", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Spanisch_<b>Br\u00f6tli</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "200", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSCqsuhKhSxDH-v6OmiPuaiA-s0odUrI4UbQSLW0CZZSa6XsTxnlWXghbIy", 
+                        "height": "185"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Spanischbroetli4.jpg/250px-Spanischbroetli4.jpg"
+                    }
+                ], 
+                "hrecipe": [
+                    {
+                        "fn": "Spanish Br\u00f6tli"
+                    }
+                ]
+            }, 
+            "snippet": "Spanisch Br\u00f6tli (Spanish bun, also known as Spanisch Br\u00f6dli, Spanischbr\u00f6tli or \nSpanischbr\u00f6dli) is a speciality pastry from Baden, Switzerland. Spanish Br\u00f6tli\u00a0...", 
+            "htmlSnippet": "Spanisch <b>Br\u00f6tli</b> (Spanish bun, also known as Spanisch Br\u00f6dli, Spanischbr\u00f6tli or <br>\nSpanischbr\u00f6dli) is a speciality pastry from Baden, Switzerland. Spanish <b>Br\u00f6tli</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Spanisch_Br%C3%B6tli", 
+            "cacheId": "4e5aam8UTT4J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Swiss Northern Railway - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Swiss Northern Railway - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Swiss_Northern_Railway", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Swiss_Northern_Railway", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "204", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTryuR5ZVgD45FjJOLn_IysakCELiqfQnYZjX_Ro3qhB-_lHqtNQ1CIwvQ", 
+                        "height": "247"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Plakat_Nordbahn_1847.jpg/300px-Plakat_Nordbahn_1847.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "The Swiss Northern Railway (German: Schweizerische Nordbahn, SNB), \ninformally known as the Spanisch-Br\u00f6tli-Bahn, opened the first railway line within\n\u00a0...", 
+            "htmlSnippet": "The Swiss Northern Railway (German: Schweizerische Nordbahn, SNB), <br>\ninformally known as the Spanisch-<b>Br\u00f6tli</b>-Bahn, opened the first railway line within<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Swiss_Northern_Railway", 
+            "cacheId": "Gn4S_ICoLi0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Wilhelm Reublin - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Wilhelm Reublin - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Wilhelm_Reublin", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Wilhelm_Reublin", 
+            "snippet": "Reublin proceeded to Hallau, with John Br\u00f6tli, who had been in the region of \nSchaffhausen since 1521. They soon establish a large Anabaptist congregation\u00a0...", 
+            "htmlSnippet": "Reublin proceeded to Hallau, with John <b>Br\u00f6tli</b>, who had been in the region of <br>\nSchaffhausen since 1521. They soon establish a large Anabaptist congregation&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Wilhelm_Reublin", 
+            "cacheId": "sPnpxxkTGKQJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Zopfli - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Zopfli - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Zopfli", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Zopfli", 
+            "snippet": "See also[edit]. Brotli. References[edit]. ^ Jump up to: \"google/zopfli \u00b7 GitHub\". \nGithub.com. Retrieved 2015-09-29. Jump up ^ \"Debian - Details of package zopfli \nin\u00a0...", 
+            "htmlSnippet": "See also[edit]. <b>Brotli</b>. References[edit]. ^ Jump up to: &quot;google/zopfli \u00b7 GitHub&quot;. <br>\nGithub.com. Retrieved 2015-09-29. Jump up ^ &quot;Debian - Details of package zopfli <br>\nin&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Zopfli", 
+            "cacheId": "MEs7zolFOv0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Zolt\u00e1n Szabadka - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Zolt\u00e1n Szabadka - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Zolt\u00e1n_Szabadka", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Zolt\u00e1n_Szabadka", 
+            "snippet": "He is the co-inventor of the Brotli Compression Algorithm, a new general purpose \ncompression algorithm. Other software tools that Szabadka has developed\u00a0...", 
+            "htmlSnippet": "He is the co-inventor of the <b>Brotli</b> Compression Algorithm, a new general purpose <br>\ncompression algorithm. Other software tools that Szabadka has developed&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Zolt%C3%A1n_Szabadka", 
+            "cacheId": "FlyReQ46XOsJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Web Open Font Format - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Web Open Font Format - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Web_Open_Font_Format", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Web_Open_Font_Format", 
+            "snippet": "WOFF 2.0, based on the Brotli compression algorithm and other improvements \nover WOFF 1.0 giving more than 30 % reduction in file size, is supported in\u00a0...", 
+            "htmlSnippet": "WOFF 2.0, based on the <b>Brotli</b> compression algorithm and other improvements <br>\nover WOFF 1.0 giving more than 30 % reduction in file size, is supported in&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Web_Open_Font_Format", 
+            "cacheId": "HnKe1XNaiLkJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Nathaniel B. Baker - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Nathaniel B. Baker - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Nathaniel_B._Baker", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Nathaniel_B._Baker", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQUIiqtqQYTvk0L0ziW4lodywJ-L3UTtUfVG2LOTBnQBxY6aiWMTRMoDg", 
+                        "height": "250"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Nathaniel_Bradley_Baker.jpg/220px-Nathaniel_Bradley_Baker.jpg"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "fn": "Nathaniel Bradley Baker"
+                    }
+                ]
+            }, 
+            "snippet": "Nathaniel Bradley Baker. Nathaniel Bradley Baker.jpg. 24th Governor of New \nHampshire. In office. June 8, 1854 \u2013 June 7, 1855. Preceded by, Noah Martin.", 
+            "htmlSnippet": "Nathaniel Bradley Baker. Nathaniel Bradley Baker.jpg. 24th Governor of New <br>\nHampshire. In office. June 8, 1854 \u2013 June 7, 1855. Preceded by, Noah Martin.", 
+            "link": "https://en.wikipedia.org/wiki/Nathaniel_B._Baker", 
+            "cacheId": "RK6khA2X_g4J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "HTTP compression - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "HTTP compression - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/HTTP_compression", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/HTTP_compression", 
+            "snippet": "brotli \u2013 A new open-sourced compression algorithm specifically designed for \nHTTP content encoding, in the process of implementation in Mozilla Firefox and\u00a0...", 
+            "htmlSnippet": "<b>brotli</b> \u2013 A new open-sourced compression algorithm specifically designed for <br>\nHTTP content encoding, in the process of implementation in Mozilla Firefox and&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/HTTP_compression", 
+            "cacheId": "3Tb3FrIuoPIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Category:Free computer libraries - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Category:Free computer libraries - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Category:Free_computer_libraries", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Category:Free_computer_libraries", 
+            "snippet": "B. Binary File Descriptor library \u00b7 Boost (C++ libraries) \u00b7 Brig (C++ libraries) \u00b7 Brotli\n. C. Cairo (graphics) \u00b7 CakePHP \u00b7 Camping (microframework) \u00b7 CAPD library\u00a0...", 
+            "htmlSnippet": "B. Binary File Descriptor library &middot; Boost (C++ libraries) &middot; Brig (C++ libraries) &middot; <b>Brotli</b><br>\n. C. Cairo (graphics) &middot; CakePHP &middot; Camping (microframework) &middot; CAPD library&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Category:Free_computer_libraries", 
+            "cacheId": "jIRfkpILaZwJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Brotli", 
+                "safe": "off", 
+                "searchTerms": "Brotli", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "30"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Brotli", 
+                "safe": "off", 
+                "searchTerms": "Brotli", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "30"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.15", 
+        "formattedTotalResults": "30", 
+        "totalResults": "30", 
+        "searchTime": 0.15422
+    }
+}

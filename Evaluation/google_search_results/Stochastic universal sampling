@@ -1,0 +1,194 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Stochastic universal sampling - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Stochastic universal sampling</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Stochastic_universal_sampling", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Stochastic</b>_<b>universal</b>_<b>sampling</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "216", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT-k_JNAnuThB60GzIUoteBSOSbSTkSkHwDRiUPvG08OohNZ_FkMsAsyg", 
+                        "height": "79"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Statistically_Uniform.png/270px-Statistically_Uniform.png"
+                    }
+                ]
+            }, 
+            "snippet": "Stochastic universal sampling (SUS) is a technique used in genetic algorithms for \nselecting potentially useful solutions for recombination. It was introduced by\u00a0...", 
+            "htmlSnippet": "<b>Stochastic universal sampling</b> (<b>SUS</b>) is a technique used in genetic algorithms for <br>\nselecting potentially useful solutions for recombination. It was introduced by&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Stochastic_universal_sampling", 
+            "cacheId": "_nPmXiOsREYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Stochastic universal sampling - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Stochastic universal sampling</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3AStochastic_universal_sampling", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>Stochastic</b>_<b>universal</b>_<b>sampling</b>", 
+            "snippet": "This is the talk page for discussing improvements to the Stochastic universal ... \nStochastic universal sampling is within the scope of WikiProject Robotics, which\u00a0...", 
+            "htmlSnippet": "This is the talk page for discussing improvements to the Stochastic universal ... <br>\n<b>Stochastic universal sampling</b> is within the scope of WikiProject Robotics, which&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3AStochastic_universal_sampling", 
+            "cacheId": "yo61ppuXrt4J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Fitness proportionate selection - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Fitness proportionate selection - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Fitness_proportionate_selection", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Fitness_proportionate_selection", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "216", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQFriSC0IGzsJHb_azdXtr0_fVk6nsdW8246sFOCGRNHx1gS55uaWRPVaQ", 
+                        "height": "68"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Fitness_proportionate_selection_example.png/270px-Fitness_proportionate_selection_example.png"
+                    }
+                ]
+            }, 
+            "snippet": "Other selection techniques, such as stochastic universal sampling or tournament \nselection, are often used in practice. This is because they have less stochastic\u00a0...", 
+            "htmlSnippet": "Other selection techniques, such as <b>stochastic universal sampling</b> or tournament <br>\nselection, are often used in practice. This is because they have less stochastic&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Fitness_proportionate_selection", 
+            "cacheId": "CinUVh_JAjMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Selection (genetic algorithm) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Selection (genetic algorithm) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Selection_(genetic_algorithm)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Selection_(genetic_algorithm)", 
+            "snippet": "... it is called stochastic universal sampling. Repeatedly selecting the best \nindividual of a randomly chosen subset is tournament selection. Taking the best \nhalf,\u00a0...", 
+            "htmlSnippet": "... it is called <b>stochastic universal sampling</b>. Repeatedly selecting the best <br>\nindividual of a randomly chosen subset is tournament selection. Taking the best <br>\nhalf,&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Selection_(genetic_algorithm)", 
+            "cacheId": "4zoVr716WioJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "SUS - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>SUS</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/SUS", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/SUS", 
+            "snippet": "SUS, Sus or SuS can refer to: ... Kingdom of Sus, a name for the southwestern \npart of Morocco from the 13th to 19th centuries; Sus, Azerbaijan, a village; Sus,\u00a0...", 
+            "htmlSnippet": "<b>SUS</b>, <b>Sus</b> or <b>SuS</b> can refer to: ... Kingdom of <b>Sus</b>, a name for the southwestern <br>\npart of Morocco from the 13th to 19th centuries; <b>Sus</b>, Azerbaijan, a village; <b>Sus</b>,&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/SUS", 
+            "cacheId": "oiHT5aMFQsEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Category:Stochastic algorithms - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Category:<b>Stochastic</b> algorithms - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Category:Stochastic_algorithms", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Category:<b>Stochastic</b>_algorithms", 
+            "snippet": "Stochastic optimization   (1 C, 18 P). Pages in category \"Stochastic algorithms\" ... \nneural network \u00b7 Stochastic programming \u00b7 Stochastic universal sampling.", 
+            "htmlSnippet": "Stochastic optimization   (1 C, 18 P). Pages in category &quot;Stochastic algorithms&quot; ... <br>\nneural network &middot; Stochastic programming &middot; <b>Stochastic universal sampling</b>.", 
+            "link": "https://en.wikipedia.org/wiki/Category:Stochastic_algorithms", 
+            "cacheId": "4t7nJs3549gJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Category:Genetic algorithms - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Category:Genetic algorithms - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Category:Genetic_algorithms", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Category:Genetic_algorithms", 
+            "snippet": "... (genetic algorithms) \u00b7 Search-based software engineering \u00b7 Selection (genetic \nalgorithm) \u00b7 Speciation (genetic algorithm) \u00b7 Stochastic universal sampling\u00a0...", 
+            "htmlSnippet": "... (genetic algorithms) &middot; Search-based software engineering &middot; Selection (genetic <br>\nalgorithm) &middot; Speciation (genetic algorithm) &middot; <b>Stochastic universal sampling</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Category:Genetic_algorithms", 
+            "cacheId": "VL-9m5KOHvkJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Reward-based selection - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Reward-based selection - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Reward-based_selection", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Reward-based_selection", 
+            "snippet": "See also[edit]. Selection (genetic algorithm) \u00b7 Fitness proportionate selection \u00b7 \nTournament selection \u00b7 Stochastic universal sampling\u00a0...", 
+            "htmlSnippet": "See also[edit]. Selection (genetic algorithm) &middot; Fitness proportionate selection &middot; <br>\nTournament selection &middot; <b>Stochastic universal sampling</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Reward-based_selection", 
+            "cacheId": "Y-6kPmZSFgYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "User:Netcse/Books/Algorithms - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "User:Netcse/Books/Algorithms - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/User:Netcse/Books/Algorithms", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/User:Netcse/Books/Algorithms", 
+            "snippet": "... Evolution strategy \u00b7 Gene expression programming \u00b7 Genetic algorithm \u00b7 Fitness \nproportionate selection \u00b7 Stochastic universal sampling \u00b7 Truncation selection\u00a0...", 
+            "htmlSnippet": "... Evolution strategy &middot; Gene expression programming &middot; Genetic algorithm &middot; Fitness <br>\nproportionate selection &middot; <b>Stochastic universal sampling</b> &middot; Truncation selection&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/User:Netcse/Books/Algorithms", 
+            "cacheId": "RnMwt4umlpoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Wikipedia:WikiProject Mathematics/List of mathematics articles (S\u2013U ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Wikipedia:WikiProject Mathematics/List of mathematics articles (S\u2013U <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/.../List_of_mathematics_articles_(S\u2013U)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/.../List_of_mathematics_articles_(S\u2013U)", 
+            "snippet": "Sammon mapping -- SAMPL -- Sample (material) -- Sample (statistics) ...... \nthinking -- Stochastic tunneling -- Stochastic universal sampling -- Stochastic \nvolatility\u00a0...", 
+            "htmlSnippet": "Sammon mapping -- SAMPL -- Sample (material) -- Sample (statistics) ...... <br>\nthinking -- Stochastic tunneling -- <b>Stochastic universal sampling</b> -- Stochastic <br>\nvolatility&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Mathematics/List_of_mathematics_articles_(S%E2%80%93U)", 
+            "cacheId": "y6hS-n5rU9MJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Stochastic universal sampling", 
+                "safe": "off", 
+                "searchTerms": "Stochastic universal sampling", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "268"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Stochastic universal sampling", 
+                "safe": "off", 
+                "searchTerms": "Stochastic universal sampling", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "268"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.25", 
+        "formattedTotalResults": "268", 
+        "totalResults": "268", 
+        "searchTime": 0.253287
+    }
+}

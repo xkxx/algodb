@@ -1,0 +1,278 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Entropy encoding - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Entropy encoding</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Entropy_encoding", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Entropy</b>_<b>encoding</b>", 
+            "snippet": "In information theory an entropy encoding is a lossless data compression \nscheme that is independent of the specific characteristics of the medium. One of \nthe\u00a0...", 
+            "htmlSnippet": "In information theory an <b>entropy encoding</b> is a lossless data compression <br>\nscheme that is independent of the specific characteristics of the medium. One of <br>\nthe&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Entropy_encoding", 
+            "cacheId": "aWEsMzC_z2YJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Arithmetic coding - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Arithmetic <b>coding</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Arithmetic_coding", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Arithmetic_<b>coding</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "267", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE2FPBajuHGMkRzSgn8uymrunAVu94zjV29aTgBiczTgVRJ9d1BmyWjJM", 
+                        "height": "189"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Arithmetic_coding_example.svg/400px-Arithmetic_coding_example.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "Arithmetic coding is a form of entropy encoding used in lossless data \ncompression. Normally, a string of characters such as the words \"hello there\" is\u00a0...", 
+            "htmlSnippet": "Arithmetic coding is a form of <b>entropy encoding</b> used in lossless data <br>\ncompression. Normally, a string of characters such as the words &quot;hello there&quot; is&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Arithmetic_coding", 
+            "cacheId": "ZGLchUwARykJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Context-adaptive binary arithmetic coding - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Context-adaptive binary arithmetic <b>coding</b> - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../Context-adaptive_binary_arithmetic_coding", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Context-adaptive_binary_arithmetic_<b>coding</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "381", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ6ZmFQmMcloqcDXINCh-BxoC4020Q_2Kb8VhzfhirRqGU_UHai-LSZh9s", 
+                        "height": "132"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/4/47/CABC_encoding_workflow_diagram.gif"
+                    }
+                ]
+            }, 
+            "snippet": "Context-adaptive binary arithmetic coding (CABAC) is a form of entropy encoding \nused in the H.264/MPEG-4 AVC and High Efficiency Video Coding (HEVC)\u00a0...", 
+            "htmlSnippet": "Context-adaptive binary arithmetic coding (CABAC) is a form of <b>entropy encoding</b> <br>\nused in the H.264/MPEG-4 AVC and High Efficiency Video Coding (HEVC)&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Context-adaptive_binary_arithmetic_coding", 
+            "cacheId": "ROlJLpOzziYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Context-adaptive variable-length coding - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Context-adaptive variable-length <b>coding</b> - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../Context-adaptive_variable-length_coding", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Context-adaptive_variable-length_<b>coding</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "152", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTbda9DZFJNUhidcxEd-NpRF9HPpJyXpHtmHzvRnRGj3x31f7vqAkbS6_s", 
+                        "height": "112"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/4x4CAVLC.svg/191px-4x4CAVLC.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "Context-adaptive variable-length coding (CAVLC) is a form of entropy coding \nused in H.264/MPEG-4 AVC video encoding. It is an inherently lossless\u00a0...", 
+            "htmlSnippet": "Context-adaptive variable-length coding (CAVLC) is a form of <b>entropy coding</b> <br>\nused in H.264/MPEG-4 AVC video encoding. It is an inherently lossless&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Context-adaptive_variable-length_coding", 
+            "cacheId": "0XIgH-wS6uYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Entropy (information theory) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Entropy</b> (information theory) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Entropy_(information_theory)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Entropy</b>_(information_theory)", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR5gcBHeoBl-fImQvyLvkMMu04wG1dFNRr5PGVD-_yD8Mo73Rungd9b5g", 
+                        "height": "103"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Entropy_flip_2_coins.jpg/220px-Entropy_flip_2_coins.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "The logarithm of the probability distribution is useful as a measure of entropy ... \nlimit on the best possible average length of lossless encoding or compression of\n\u00a0...", 
+            "htmlSnippet": "The logarithm of the probability distribution is useful as a measure of <b>entropy</b> ... <br>\nlimit on the best possible average length of lossless <b>encoding</b> or compression of<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Entropy_(information_theory)", 
+            "cacheId": "EKiG8iTkqHIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Entropy encoding - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Entropy encoding</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3AEntropy_encoding", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>Entropy</b>_<b>encoding</b>", 
+            "snippet": "Isn't \"entropy coding\" the same thing as \"lossless compression\"?[edit]. Remark: \nThis article contains some problems that appear not worth correcting because\u00a0...", 
+            "htmlSnippet": "Isn&#39;t &quot;<b>entropy coding</b>&quot; the same thing as &quot;lossless compression&quot;?[edit]. Remark: <br>\nThis article contains some problems that appear not worth correcting because&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3AEntropy_encoding", 
+            "cacheId": "pesnGjR2dekJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Huffman coding - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Huffman <b>coding</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Huffman_coding", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Huffman_<b>coding</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRYt7j1GzJ2J4MU-pW1eHPgyVexM8gIc3kPK7SfJuMfK8y87IiEYnZx6w", 
+                        "height": "113"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Huffman_tree_2.svg/220px-Huffman_tree_2.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "As in other entropy encoding methods, more common symbols are generally \nrepresented using fewer bits than less common symbols. Huffman's method can \nbe\u00a0...", 
+            "htmlSnippet": "As in other <b>entropy encoding</b> methods, more common symbols are generally <br>\nrepresented using fewer bits than less common symbols. Huffman&#39;s method can <br>\nbe&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Huffman_coding", 
+            "cacheId": "09-XufA259YJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Adaptive coding - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Adaptive <b>coding</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Adaptive_coding", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Adaptive_<b>coding</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "225", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLWUBfNc9Y8UxhVh6V6RvTq81xQqpvholirfJJ1ECxNU4a4Gjf8ani20qV", 
+                        "height": "225"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e7/Damaged_N00153918.jpg/450px-Damaged_N00153918.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "Adaptive coding refers to variants of entropy encoding methods of lossless data \ncompression. They are particularly suited to streaming data, as they adapt to\u00a0...", 
+            "htmlSnippet": "Adaptive coding refers to variants of <b>entropy encoding</b> methods of lossless data <br>\ncompression. They are particularly suited to streaming data, as they adapt to&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Adaptive_coding", 
+            "cacheId": "fCUtXmKfSQsJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Shannon's source coding theorem - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Shannon&#39;s source <b>coding</b> theorem - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Shannon's_source_coding_theorem", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Shannon&#39;s_source_<b>coding</b>_theorem", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "225", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQg8e-RKceVwsLNVLRxiXKsbwIHczV2sguyysUTR-CiYtoD_ooBiHBDg9s", 
+                        "height": "224"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/math/b/e/c/becaa3825d0fe306062415caa9f59f50.png"
+                    }
+                ]
+            }, 
+            "snippet": "In information theory, Shannon's source coding theorem (or noiseless coding ... N \ni.i.d. random variables each with entropy H(X) can be compressed into more\u00a0...", 
+            "htmlSnippet": "In information theory, Shannon&#39;s source <b>coding</b> theorem (or noiseless <b>coding</b> ... N <br>\ni.i.d. random variables each with <b>entropy</b> H(X) can be compressed into more&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Shannon's_source_coding_theorem", 
+            "cacheId": "ctQzuxX47YMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "JPEG - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "JPEG - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/JPEG", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/JPEG", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "192", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTq-iyOB0PFWQsUWB5mGJllR6TjydZA-guQaCqJkMPRXqQvX7kPcLnSV2_o", 
+                        "height": "221"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Felis_silvestris_silvestris_small_gradual_decrease_of_quality.png/240px-Felis_silvestris_silvestris_small_gradual_decrease_of_quality.png"
+                    }
+                ]
+            }, 
+            "snippet": "In the remainder of this section, the encoding and decoding processes are \ndescribed in more .... Entropy coding is a special form of lossless data \ncompression.", 
+            "htmlSnippet": "In the remainder of this section, the encoding and decoding processes are <br>\ndescribed in more .... <b>Entropy coding</b> is a special form of lossless data <br>\ncompression.", 
+            "link": "https://en.wikipedia.org/wiki/JPEG", 
+            "cacheId": "TGmLEuRGx64J"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Entropy encoding", 
+                "safe": "off", 
+                "searchTerms": "Entropy encoding", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "768"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Entropy encoding", 
+                "safe": "off", 
+                "searchTerms": "Entropy encoding", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "768"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.21", 
+        "formattedTotalResults": "768", 
+        "totalResults": "768", 
+        "searchTime": 0.206021
+    }
+}

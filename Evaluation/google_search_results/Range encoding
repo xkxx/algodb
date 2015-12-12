@@ -1,0 +1,236 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Range encoding - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Range encoding</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Range_encoding", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Range</b>_<b>encoding</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSD0F5lKRPPdrSOVp9NUHnCobfBDRtccDHtXwnckiUEdAX3xhPrpFQfvyk", 
+                        "height": "102"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Range_encoding.jpg/220px-Range_encoding.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "Range encoding is an entropy coding method defined by G. Nigel N. Martin in a \n1979 paper, which effectively rediscovered the FIFO arithmetic code first\u00a0...", 
+            "htmlSnippet": "<b>Range encoding</b> is an entropy coding method defined by G. Nigel N. Martin in a <br>\n1979 paper, which effectively rediscovered the FIFO arithmetic code first&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Range_encoding", 
+            "cacheId": "SEhzbzAk7uUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Range encoding - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Range encoding</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3ARange_encoding", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>Range</b>_<b>encoding</b>", 
+            "snippet": "This is the talk page for discussing improvements to the Range encoding article. \n... The difference between arithmetic and range encoding does not exist[edit].", 
+            "htmlSnippet": "This is the talk page for discussing improvements to the <b>Range encoding</b> article. <br>\n... The difference between arithmetic and <b>range encoding</b> does not exist[edit].", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3ARange_encoding", 
+            "cacheId": "3rI9Q2bmuXMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "File:Range encoding.jpg - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "File:<b>Range encoding</b>.jpg - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/File:Range_encoding.jpg", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/File:<b>Range</b>_<b>encoding</b>.jpg", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "294", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRzIMRvTGhXWrSjaZu71XK8P4th-Z45IKV1tdHHaPHHB1SJsvSGSfmD2Y0", 
+                        "height": "171"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Range_encoding.jpg/800px-Range_encoding.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "Graphical representation of an example of range encoding. The message being \nencoded here is \"AABA<EOM>\". Source. I (jasco (talk)) created this work entirely\n\u00a0...", 
+            "htmlSnippet": "Graphical representation of an example of <b>range encoding</b>. The message being <br>\nencoded here is &quot;AABA&lt;EOM&gt;&quot;. Source. I (jasco (talk)) created this work entirely<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/File:Range_encoding.jpg", 
+            "cacheId": "UCnTFtRn1r8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Arithmetic coding - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Arithmetic coding - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Arithmetic_coding", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Arithmetic_coding", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "267", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE2FPBajuHGMkRzSgn8uymrunAVu94zjV29aTgBiczTgVRJ9d1BmyWjJM", 
+                        "height": "189"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Arithmetic_coding_example.svg/400px-Arithmetic_coding_example.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "Arithmetic coding is a form of entropy encoding used in lossless data .... (as \nfractions), Interval reduced to eight-bit precision (in binary), Range in binary.", 
+            "htmlSnippet": "Arithmetic coding is a form of entropy <b>encoding</b> used in lossless data .... (as <br>\nfractions), Interval reduced to eight-bit precision (in binary), <b>Range</b> in binary.", 
+            "link": "https://en.wikipedia.org/wiki/Arithmetic_coding", 
+            "cacheId": "ZGLchUwARykJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Lempel\u2013Ziv\u2013Markov chain algorithm - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Lempel\u2013Ziv\u2013Markov chain algorithm - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Lempel\u2013Ziv\u2013Markov_chain_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Lempel\u2013Ziv\u2013Markov_chain_algorithm", 
+            "snippet": "In LZMA compression, the compressed stream is a stream of bits, encoded using \nan adaptive binary range coder. The stream is divided into packets, each\u00a0...", 
+            "htmlSnippet": "In LZMA compression, the compressed stream is a stream of bits, <b>encoded</b> using <br>\nan adaptive binary <b>range</b> coder. The stream is divided into packets, each&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Lempel%E2%80%93Ziv%E2%80%93Markov_chain_algorithm", 
+            "cacheId": "rmFjvBnL28AJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Multiscale Electrophysiology Format - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Multiscale Electrophysiology Format - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Multiscale_Electrophysiology_Format", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Multiscale_Electrophysiology_Format", 
+            "snippet": "MEF can store any time series data up to 24 bits in length, and employs lossless \nrange encoded difference compression. Subject identifying information in the\u00a0...", 
+            "htmlSnippet": "MEF can store any time series data up to 24 bits in length, and employs lossless <br>\n<b>range encoded</b> difference compression. Subject identifying information in the&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Multiscale_Electrophysiology_Format", 
+            "cacheId": "uf79ZwFky2cJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Context-adaptive binary arithmetic coding - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Context-adaptive binary arithmetic coding - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../Context-adaptive_binary_arithmetic_coding", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Context-adaptive_binary_arithmetic_coding", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "381", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ6ZmFQmMcloqcDXINCh-BxoC4020Q_2Kb8VhzfhirRqGU_UHai-LSZh9s", 
+                        "height": "132"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/4/47/CABC_encoding_workflow_diagram.gif"
+                    }
+                ]
+            }, 
+            "snippet": "It uses a multiplication-free range division by the use of quantized probability ... \nArithmetic encoding: An arithmetic coder encodes each bin according to the\u00a0...", 
+            "htmlSnippet": "It uses a multiplication-free <b>range</b> division by the use of quantized probability ... <br>\nArithmetic <b>encoding</b>: An arithmetic coder encodes each bin according to the&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Context-adaptive_binary_arithmetic_coding", 
+            "cacheId": "ROlJLpOzziYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "ASCII - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "ASCII - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/ASCII", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/ASCII", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "264", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSwcp3fOtlIHTftLVdoy8GvIjeH1jyLk4RCl7kz1S2kp0Ejf3-l0Z2QtYw", 
+                        "height": "191"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/ASCII_Code_Chart-Quick_ref_card.png/361px-ASCII_Code_Chart-Quick_ref_card.png"
+                    }
+                ]
+            }, 
+            "snippet": "ASCII was the most common character encoding on the World Wide Web until ..... \nincluding those that do not preserve ASCII's character-map in the 7-bit range.", 
+            "htmlSnippet": "ASCII was the most common character <b>encoding</b> on the World Wide Web until ..... <br>\nincluding those that do not preserve ASCII&#39;s character-map in the 7-bit <b>range</b>.", 
+            "link": "https://en.wikipedia.org/wiki/ASCII", 
+            "cacheId": "W0bMX2lmb8YJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "UTF-16 - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "UTF-16 - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/UTF-16", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/UTF-16", 
+            "snippet": "Both UTF-16 and UCS-2 encode code points in this range as single 16-bit code \nunits that are numerically equal to the corresponding code points. These code\u00a0...", 
+            "htmlSnippet": "Both UTF-16 and UCS-2 <b>encode</b> code points in this <b>range</b> as single 16-bit code <br>\nunits that are numerically equal to the corresponding code points. These code&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/UTF-16", 
+            "cacheId": "6OM0Kp1ZM_8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Big5 - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Big5 - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Big5", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Big5", 
+            "snippet": "Big-5 or Big5 is a Chinese character encoding method used in Taiwan, Hong ... \nfor example the HKSCS, use an expanded range for the lead byte including\u00a0...", 
+            "htmlSnippet": "Big-5 or Big5 is a Chinese character <b>encoding</b> method used in Taiwan, Hong ... <br>\nfor example the HKSCS, use an expanded <b>range</b> for the lead byte including&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Big5", 
+            "cacheId": "LIjKgI8pV_8J"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Range encoding", 
+                "safe": "off", 
+                "searchTerms": "Range encoding", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "113000"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Range encoding", 
+                "safe": "off", 
+                "searchTerms": "Range encoding", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "113000"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.33", 
+        "formattedTotalResults": "113,000", 
+        "totalResults": "113000", 
+        "searchTime": 0.331377
+    }
+}

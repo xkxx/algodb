@@ -1,0 +1,240 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Wilks Coefficient - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Wilks Coefficient - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Wilks_Coefficient", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Wilks_Coefficient", 
+            "snippet": "The Wilks formula, like its predecessors (the O'Carroll and Schwartz formulas), \nwas set up to address the imbalances whereby lighter lifters tend to have a\u00a0...", 
+            "htmlSnippet": "The Wilks formula, like its predecessors (the <b>O&#39;Carroll</b> and Schwartz formulas), <br>\nwas set up to address the imbalances whereby lighter lifters tend to have a&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Wilks_Coefficient", 
+            "cacheId": "KdqcSIUHbJYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Suicide terminology - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Suicide terminology - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Suicide_terminology", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Suicide_terminology", 
+            "snippet": "Columbia Classification Algorithm of Suicide Assessment (C-CASA): .... Cite uses \ndeprecated parameter |coauthors= (help); Jump up ^ O'Carroll, P.W.; Mercy,\u00a0...", 
+            "htmlSnippet": "Columbia Classification <b>Algorithm</b> of Suicide Assessment (C-CASA): .... Cite uses <br>\ndeprecated parameter |coauthors= (help); Jump up ^ <b>O&#39;Carroll</b>, P.W.; Mercy,&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Suicide_terminology", 
+            "cacheId": "87C2xmsRa2gJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Symphysiotomy - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Symphysiotomy - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Symphysiotomy", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Symphysiotomy", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "184", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQmOQn1nJ4vQ9U0jsqzGVaf81SV07i-RRxS-YJf-If1eviFWcHuOR_CCQ", 
+                        "height": "114"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Skeletal_pelvis-pubis.svg/230px-Skeletal_pelvis-pubis.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "... up ^ Homa Khaleeli (13 Dec 2014). \"Symphysiotomy \u2013 Ireland's brutal \nalternative to caesareans\". The Guardian. Jump up ^ Sinead O'Carroll (24 Jun \n2014).", 
+            "htmlSnippet": "... up ^ Homa Khaleeli (13 Dec 2014). &quot;Symphysiotomy \u2013 Ireland&#39;s brutal <br>\nalternative to caesareans&quot;. The Guardian. Jump up ^ Sinead <b>O&#39;Carroll</b> (24 Jun <br>\n2014).", 
+            "link": "https://en.wikipedia.org/wiki/Symphysiotomy", 
+            "cacheId": "1r45vMOswe0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Public health informatics - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Public health informatics - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Public_health_informatics", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Public_health_informatics", 
+            "snippet": "Finding new algorithms that will sort through large quantities of data quickly and \n... Public Health Informatics and Information Systems by Patrick W. O'Carroll,\u00a0...", 
+            "htmlSnippet": "Finding new <b>algorithms</b> that will sort through large quantities of data quickly and <br>\n... Public Health Informatics and Information Systems by Patrick W. <b>O&#39;Carroll</b>,&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Public_health_informatics", 
+            "cacheId": "s-u42z5g1PAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "QI - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "QI - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/QI", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/QI", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "200", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdTso1FJ1w-V3mSIrNEEVag9kuNcNZ2343IJ2aMafuDEEYjdpkmvHUuVg", 
+                        "height": "112"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5d/QI_Title_Card.jpg/250px-QI_Title_Card.jpg"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "fn": "Stephen Fry"
+                    }
+                ]
+            }, 
+            "snippet": "Tim Minchin \u00b7 Julia Morris \u00b7 Neil Mullarkey \u00b7 Al Murray \u00b7 Trevor Noah \u00b7 Brendan O'\nCarroll \u00b7 Claudia O'Doherty \u00b7 David O'Doherty \u00b7 Dermot O'Leary \u00b7 Andy Parsons\u00a0...", 
+            "htmlSnippet": "Tim Minchin &middot; Julia Morris &middot; Neil Mullarkey &middot; Al Murray &middot; Trevor Noah &middot; Brendan <b>O&#39;</b><br>\n<b>Carroll</b> &middot; Claudia O&#39;Doherty &middot; David O&#39;Doherty &middot; Dermot O&#39;Leary &middot; Andy Parsons&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/QI", 
+            "cacheId": "GRHLJx81UGUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "TV3 (Ireland) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "TV3 (Ireland) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/TV3_(Ireland)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/TV3_(Ireland)", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "80", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQYvpsVUmrl6ku7o6rHospWagD79GOOstg6h4BOgpzjtGqn6kp0hm5C", 
+                        "height": "80"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/TV3_Ireland.svg/100px-TV3_Ireland.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "... The Lie, The Algorithm with Ray Foley, and Jason Byrne's Snaptastic Show. .... \na makeover show hosted by Sinead O' Carroll; Dirty Money: The Story of the\u00a0...", 
+            "htmlSnippet": "... The Lie, The <b>Algorithm</b> with Ray Foley, and Jason Byrne&#39;s Snaptastic Show. .... <br>\na makeover show hosted by Sinead <b>O&#39; Carroll</b>; Dirty Money: The Story of the&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/TV3_(Ireland)", 
+            "cacheId": "oQ4kHoCLTdgJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Mona Lisa replicas and reinterpretations - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Mona Lisa replicas and reinterpretations - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../Mona_Lisa_replicas_and_reinterpretations", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Mona_Lisa_replicas_and_reinterpretations", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "208", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTy6hvPNJX4XLWbwQdZdscWMnkkOYhzwQ3Uqo_k6oqqauxL13yUE91m_Oo", 
+                        "height": "165"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Louis_Beroud_-_Mona_Lisa_au_Louvre_1911.jpg/260px-Louis_Beroud_-_Mona_Lisa_au_Louvre_1911.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "Jump up ^ Eoin O'Carroll (August 7, 2013). \"'Mini Lisa': Georgia Tech researchers \ncreate world's tiniest da Vinci reproduction\". Christian Science Monitor.", 
+            "htmlSnippet": "Jump up ^ Eoin <b>O&#39;Carroll</b> (August 7, 2013). &quot;&#39;Mini Lisa&#39;: Georgia Tech researchers <br>\ncreate world&#39;s tiniest da Vinci reproduction&quot;. Christian Science Monitor.", 
+            "link": "https://en.wikipedia.org/wiki/Mona_Lisa_replicas_and_reinterpretations", 
+            "cacheId": "k5u8G7W3o1kJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Vasopressin - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Vasopressin - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Vasopressin", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Vasopressin", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "200", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT3tD-A8REXZbxjqZltqSPPkaSrp6y38MdHBN9dHk_Uj2yaXhZorIAFS3c", 
+                        "height": "154"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Arginine_vasopressin3d.png/250px-Arginine_vasopressin3d.png"
+                    }
+                ]
+            }, 
+            "snippet": "... do not currently contain vasopressin as a part of the cardiac arrest algorithms. \n.... Jump up ^ Wersinger SR, Kelliher KR, Zufall F, Lolait SJ, O'Carroll AM,\u00a0...", 
+            "htmlSnippet": "... do not currently contain vasopressin as a part of the cardiac arrest <b>algorithms</b>. <br>\n.... Jump up ^ Wersinger SR, Kelliher KR, Zufall F, Lolait SJ, <b>O&#39;Carroll</b> AM,&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Vasopressin", 
+            "cacheId": "VQO2WlezebQJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Wikipedia talk:WikiProject Mathematics/Archive2012 - Wikipedia, the ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Wikipedia talk:WikiProject Mathematics/Archive2012 - Wikipedia, the <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject.../Archive2012", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject.../Archive2012", 
+            "snippet": "I may add that \"mathematical comparison of algorithms\" could contain interesting \npages comparing the complexity and the ...... Eoin O'Carroll (March 14, 2011).", 
+            "htmlSnippet": "I may add that &quot;mathematical comparison of <b>algorithms</b>&quot; could contain interesting <br>\npages comparing the complexity and the ...... Eoin <b>O&#39;Carroll</b> (March 14, 2011).", 
+            "link": "https://en.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Mathematics/Archive2012"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "List of Google Doodles in 2012 - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "List of Google Doodles in 2012 - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/List_of_Google_Doodles_in_2012", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/List_of_Google_Doodles_in_2012", 
+            "snippet": "CNN-IBN. Retrieved March 8, 2012. Jump up ^ Eoin O'Carroll (March 14, 2012). \"\nAkira Yoshizawa: Why origami matters\". CSMonitor. Retrieved May 26, 2012.", 
+            "htmlSnippet": "CNN-IBN. Retrieved March 8, 2012. Jump up ^ Eoin <b>O&#39;Carroll</b> (March 14, 2012). &quot;<br>\nAkira Yoshizawa: Why origami matters&quot;. CSMonitor. Retrieved May 26, 2012.", 
+            "link": "https://en.wikipedia.org/wiki/List_of_Google_Doodles_in_2012", 
+            "cacheId": "an5HQIDfmaIJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - O'Carroll algorithm", 
+                "safe": "off", 
+                "searchTerms": "O'Carroll algorithm", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "19"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - O'Carroll algorithm", 
+                "safe": "off", 
+                "searchTerms": "O'Carroll algorithm", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "19"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.23", 
+        "formattedTotalResults": "19", 
+        "totalResults": "19", 
+        "searchTime": 0.229056
+    }
+}

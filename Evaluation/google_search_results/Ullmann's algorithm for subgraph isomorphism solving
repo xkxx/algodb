@@ -1,0 +1,56 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Subgraph isomorphism problem - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Subgraph isomorphism</b> problem - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Subgraph_isomorphism_problem", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Subgraph</b>_<b>isomorphism</b>_problem", 
+            "snippet": "Algorithms[edit]. Ullmann (1976) describes a recursive backtracking procedure \nfor solving the subgraph isomorphism problem.", 
+            "htmlSnippet": "<b>Algorithms</b>[edit]. <b>Ullmann</b> (1976) describes a recursive backtracking procedure <br>\nfor <b>solving</b> the <b>subgraph isomorphism</b> problem.", 
+            "link": "https://en.wikipedia.org/wiki/Subgraph_isomorphism_problem", 
+            "cacheId": "rj0Qjdv7sFEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "User:Salih/MathRedlinks - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "User:Salih/MathRedlinks - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/User:Salih/MathRedlinks", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/User:Salih/MathRedlinks", 
+            "snippet": "Crystal (differential equation) -- Crystal Cathedral Ministries -- Crystal graph ...... \nFundamental solution matrix -- Fundamental theorem of Linear Programming\u00a0...", 
+            "htmlSnippet": "Crystal (differential equation) -- Crystal Cathedral Ministries -- Crystal <b>graph</b> ...... <br>\nFundamental <b>solution</b> matrix -- Fundamental theorem of Linear Programming&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/User:Salih/MathRedlinks"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 2, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Ullmann's algorithm for subgraph isomorphism solving", 
+                "safe": "off", 
+                "searchTerms": "Ullmann's algorithm for subgraph isomorphism solving", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "2"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.51", 
+        "formattedTotalResults": "2", 
+        "totalResults": "2", 
+        "searchTime": 0.50633
+    }
+}

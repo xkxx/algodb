@@ -1,0 +1,71 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Isotonic regression - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Isotonic regression - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Isotonic_regression", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Isotonic_regression", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "258", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJk8hbKBuHrnVLCU-IUuTa6rW1Etshud7aqiYWIh_GUkk3qPG2pLbIayQ", 
+                        "height": "195"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Isotonic_regression.svg/400px-Isotonic_regression.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "is a total order, a simple iterative algorithm for solving this QP is called the pool \nadjacent violators algorithm (PAVA). Best and Chakravarti (1990) have studied\u00a0...", 
+            "htmlSnippet": "is a total order, a simple iterative algorithm for solving this QP is called the <b>pool</b> <br>\n<b>adjacent violators algorithm</b> (<b>PAVA</b>). Best and Chakravarti (1990) have studied&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Isotonic_regression", 
+            "cacheId": "7fEANFkqQJkJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "PAVA - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>PAVA</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/PAVA", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>PAVA</b>", 
+            "snippet": "Pawapuri (or Pava), a holy site for Jains in Bihar, India, where Mahavira attained \n... PAVA), in Chevak, Alaska, United States; Pool adjacent violators algorithm,\u00a0...", 
+            "htmlSnippet": "Pawapuri (or <b>Pava</b>), a holy site for Jains in Bihar, India, where Mahavira attained <br>\n... <b>PAVA</b>), in Chevak, Alaska, United States; <b>Pool adjacent violators algorithm</b>,&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/PAVA", 
+            "cacheId": "9SYGISC1lt0J"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 2, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - PAVA (Pool-Adjacent-Violators Algorithm)", 
+                "safe": "off", 
+                "searchTerms": "PAVA (Pool-Adjacent-Violators Algorithm)", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "2"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.49", 
+        "formattedTotalResults": "2", 
+        "totalResults": "2", 
+        "searchTime": 0.491743
+    }
+}

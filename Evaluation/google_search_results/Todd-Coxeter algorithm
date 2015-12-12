@@ -1,0 +1,196 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Todd\u2013Coxeter algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Todd</b>\u2013<b>Coxeter algorithm</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Todd\u2013Coxeter_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Todd</b>\u2013<b>Coxeter</b>_<b>algorithm</b>", 
+            "snippet": "In group theory, the Todd\u2013Coxeter algorithm, created by J. A. Todd and H. S. M. \nCoxeter in 1936, is an algorithm for solving the coset enumeration problem.", 
+            "htmlSnippet": "In group theory, the <b>Todd</b>\u2013<b>Coxeter algorithm</b>, created by J. A. Todd and H. S. M. <br>\nCoxeter in 1936, is an algorithm for solving the coset enumeration problem.", 
+            "link": "https://en.wikipedia.org/wiki/Todd%E2%80%93Coxeter_algorithm", 
+            "cacheId": "U0uGoiQGhn8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Coset enumeration - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Coset enumeration - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Coset_enumeration", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Coset_enumeration", 
+            "snippet": "The original algorithm for coset enumeration was invented by John Arthur Todd \nand H. S. M. Coxeter. Various improvements to the original Todd\u2013Coxeter\u00a0...", 
+            "htmlSnippet": "The original <b>algorithm</b> for coset enumeration was invented by John Arthur Todd <br>\nand H. S. M. Coxeter. Various improvements to the original <b>Todd</b>\u2013<b>Coxeter</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Coset_enumeration", 
+            "cacheId": "o2HDH-YkdwYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "J. A. Todd - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "J. A. <b>Todd</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/J._A._Todd", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/J._A._<b>Todd</b>", 
+            "pagemap": {
+                "hcard": [
+                    {
+                        "bday": "1908-08-23", 
+                        "category": "Mathematician", 
+                        "fn": "J. A. Todd"
+                    }
+                ]
+            }, 
+            "snippet": "Jump to: navigation, search. For other people of the same name, see John Todd (\ndisambiguation). ... Todd\u2013Coxeter algorithm \u00b7 Chevalley\u2013Shephard\u2013Todd\u00a0...", 
+            "htmlSnippet": "Jump to: navigation, search. For other people of the same name, see John Todd (<br>\ndisambiguation). ... <b>Todd</b>\u2013<b>Coxeter algorithm</b> &middot; Chevalley\u2013Shephard\u2013Todd&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/J._A._Todd", 
+            "cacheId": "FXPB0qiGMpEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Word problem for groups - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Word problem for groups - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Word_problem_for_groups", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Word_problem_for_groups", 
+            "snippet": "In 1912 he gave an algorithm that solves both the word and conjugacy problem ... \nsee the Todd\u2013Coxeter algorithm and the Knuth\u2013Bendix completion algorithm.", 
+            "htmlSnippet": "In 1912 he gave an algorithm that solves both the word and conjugacy problem ... <br>\nsee the <b>Todd</b>\u2013<b>Coxeter algorithm</b> and the Knuth\u2013Bendix completion algorithm.", 
+            "link": "https://en.wikipedia.org/wiki/Word_problem_for_groups", 
+            "cacheId": "40fmWXPmM-oJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Computational group theory - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Computational group theory - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Computational_group_theory", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Computational_group_theory", 
+            "snippet": "... the Todd\u2013Coxeter algorithm and Knuth\u2013Bendix algorithm for coset \nenumeration; the product-replacement algorithm for finding random elements of a \ngroup.", 
+            "htmlSnippet": "... the <b>Todd</b>\u2013<b>Coxeter algorithm</b> and Knuth\u2013Bendix algorithm for coset <br>\nenumeration; the product-replacement algorithm for finding random elements of a <br>\ngroup.", 
+            "link": "https://en.wikipedia.org/wiki/Computational_group_theory", 
+            "cacheId": "60zUTCn842YJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Harold Scott MacDonald Coxeter - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Harold Scott MacDonald <b>Coxeter</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Harold_Scott_MacDonald_Coxeter", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Harold_Scott_MacDonald_<b>Coxeter</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "192", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSYYUAPWuOgodtLLsopFnUplQ2Nh_6IDlADoYJRn7C6F2XNJBerrENo_5Z_", 
+                        "height": "232"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Coxeter.jpg/240px-Coxeter.jpg"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "bday": "1907-02-09", 
+                        "category": "Geometry", 
+                        "fn": "Harold Scott MacDonald Coxeter"
+                    }
+                ]
+            }, 
+            "snippet": "Harold Scott MacDonald \"Donald\" Coxeter, FRS, FRSC, CC (February 9, .... of \ntangent circles \u00b7 LCF notation \u00b7 Todd\u2013Coxeter algorithm \u00b7 Tutte\u2013Coxeter graph\u00a0...", 
+            "htmlSnippet": "Harold Scott MacDonald &quot;Donald&quot; Coxeter, FRS, FRSC, CC (February 9, .... of <br>\ntangent circles &middot; LCF notation &middot; <b>Todd</b>\u2013<b>Coxeter algorithm</b> &middot; Tutte\u2013Coxeter graph&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Harold_Scott_MacDonald_Coxeter", 
+            "cacheId": "7tu2JFXvM-wJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Category:Computational group theory - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Category:Computational group theory - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Category:Computational_group_theory", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Category:Computational_group_theory", 
+            "snippet": "Knuth\u2013Bendix completion algorithm ... Schreier vector \u00b7 Schreier\u2013Sims algorithm \u00b7 \nCharles Sims (mathematician) \u00b7 Strong generating ... Todd\u2013Coxeter algorithm.", 
+            "htmlSnippet": "Knuth\u2013Bendix completion algorithm ... Schreier vector &middot; Schreier\u2013Sims algorithm &middot; <br>\nCharles Sims (mathematician) &middot; Strong generating ... <b>Todd</b>\u2013<b>Coxeter algorithm</b>.", 
+            "link": "https://en.wikipedia.org/wiki/Category:Computational_group_theory", 
+            "cacheId": "_1mi882w1ZAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Schreier coset graph - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Schreier coset graph - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Schreier_coset_graph", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Schreier_coset_graph", 
+            "snippet": "The graph is useful to understand coset enumeration and the Todd\u2013Coxeter \nalgorithm. Coset graphs can be used to form large permutation representations of\n\u00a0...", 
+            "htmlSnippet": "The graph is useful to understand coset enumeration and the <b>Todd</b>\u2013<b>Coxeter</b> <br>\n<b>algorithm</b>. Coset graphs can be used to form large permutation representations of<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Schreier_coset_graph", 
+            "cacheId": "15JidpYXNnkJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Book:List of Algorithms - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Book:List of Algorithms - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Book:List_of_Algorithms", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Book:List_of_<b>Algorithm</b>s", 
+            "snippet": "... group \u00b7 Todd\u2013Coxeter algorithm \u00b7 Symbolic computation \u00b7 Buchberger's \nalgorithm \u00b7 Cantor\u2013Zassenhaus algorithm \u00b7 Faug\u00e8re's F4 and F5 algorithms \u00b7 \nGosper's\u00a0...", 
+            "htmlSnippet": "... group &middot; <b>Todd</b>\u2013<b>Coxeter algorithm</b> &middot; Symbolic computation &middot; Buchberger&#39;s <br>\nalgorithm &middot; Cantor\u2013Zassenhaus algorithm &middot; Faug\u00e8re&#39;s F4 and F5 algorithms &middot; <br>\nGosper&#39;s&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Book:List_of_Algorithms", 
+            "cacheId": "aEsv0l7z6nEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "User:Manoj kumar regar/Books/Algorithms - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "User:Manoj kumar regar/Books/Algorithms - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/User:Manoj_kumar.../Algorithms", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/User:Manoj_kumar.../<b>Algorithm</b>s", 
+            "snippet": "... computational algos: Computational mathematics; abstract algebra: Abstract \nalgebra \u00b7 Chien search \u00b7 Schreier\u2013Sims algorithm \u00b7 Todd\u2013Coxeter algorithm\u00a0...", 
+            "htmlSnippet": "... computational algos: Computational mathematics; abstract algebra: Abstract <br>\nalgebra &middot; Chien search &middot; Schreier\u2013Sims algorithm &middot; <b>Todd</b>\u2013<b>Coxeter algorithm</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/User:Manoj_kumar_regar/Books/Algorithms", 
+            "cacheId": "AQNpcJA5SNIJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Todd-Coxeter algorithm", 
+                "safe": "off", 
+                "searchTerms": "Todd-Coxeter algorithm", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "37"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Todd-Coxeter algorithm", 
+                "safe": "off", 
+                "searchTerms": "Todd-Coxeter algorithm", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "37"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.26", 
+        "formattedTotalResults": "37", 
+        "totalResults": "37", 
+        "searchTime": 0.263688
+    }
+}

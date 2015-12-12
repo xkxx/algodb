@@ -1,0 +1,164 @@
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Maximum common subgraph isomorphism problem - Wikipedia, the ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Maximum common subgraph isomorphism problem</b> - Wikipedia, the <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../Maximum_common_subgraph_isomorphism_ problem", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../<b>Maximum</b>_<b>common</b>_<b>subgraph</b>_<b>isomorphism</b>_ <b>problem</b>", 
+            "snippet": "In complexity theory, maximum common subgraph-isomorphism (MCS) is an \noptimization ... One possible solution for this problem is to build a modular \nproduct graph, in which the largest clique ... You can help Wikipedia by \nexpanding it. ... in graph theory \u00b7 Algorithms and data structures stubs \u00b7 Computer \nscience stubs.", 
+            "htmlSnippet": "In complexity theory, <b>maximum common subgraph</b>-<b>isomorphism</b> (MCS) is an <br>\noptimization ... One possible solution for this <b>problem</b> is to build a <b>modular</b> <br>\n<b>product graph</b>, in which the largest clique ... You <b>can</b> help Wikipedia by <br>\nexpanding it. ... in <b>graph</b> theory &middot; Algorithms and data structures stubs &middot; <b>Computer</b> <br>\nscience stubs.", 
+            "link": "https://en.wikipedia.org/wiki/Maximum_common_subgraph_isomorphism_problem", 
+            "cacheId": "yVxMBAY-qUIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Network motif - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Network motif - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Network_motif", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Network_motif", 
+            "snippet": "Although network motifs may provide a deep insight into the network's functional \nabilities, their ... 4.7 Single-input modules (SIM); 4.8 Dense overlapping regulons \n(DOR) ... When G\u2033 \u2282 G and there exist an isomorphism between the sub-graph \nG\u2033 and a .... However, motif discovery problem comprises two main steps: first,\u00a0...", 
+            "htmlSnippet": "Although network motifs <b>may</b> provide a deep insight into the network&#39;s functional <br>\nabilities, their ... 4.7 Single-input <b>modules</b> (SIM); 4.8 Dense overlapping regulons <br>\n(DOR) ... When G\u2033 \u2282 G and there exist an <b>isomorphism</b> between the <b>sub-graph</b> <br>\nG\u2033 and a .... However, motif discovery <b>problem</b> comprises two main steps: first,&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Network_motif", 
+            "cacheId": "2XKiNWzv8bMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Book:Graph Theory - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Book:<b>Graph</b> Theory - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Book:Graph_Theory", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Book:<b>Graph</b>_Theory", 
+            "snippet": "This is a Wikipedia book, a collection of Wikipedia articles that can be easily \nsaved .... Maximum common edge subgraph problem \u00b7 Maximum common \nsubgraph\u00a0...", 
+            "htmlSnippet": "This is a Wikipedia book, a collection of Wikipedia articles that <b>can</b> be easily <br>\nsaved .... Maximum common edge subgraph <b>problem</b> &middot; <b>Maximum common</b> <br>\n<b>subgraph</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Book:Graph_Theory", 
+            "cacheId": "JfDhWh6kBxQJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Wikipedia:WikiProject Mathematics/List of mathematics articles (M ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Wikipedia:WikiProject Mathematics/List of mathematics articles (M <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/.../List_of_mathematics_articles_(M)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/.../List_of_mathematics_articles_(M)", 
+            "snippet": "... Mathematics and art -- Mathematics and Computer Education -- Mathematics \nand fiber ... Maximum common subgraph isomorphism problem -- Maximum \ncoverage problem ... May spectral sequence -- May's theorem -- Maya numerals -\n- Mayer .... product of graphs -- Modular representation theory -- Modular \nsubgroup\u00a0...", 
+            "htmlSnippet": "... Mathematics and art -- Mathematics and <b>Computer</b> Education -- Mathematics <br>\nand fiber ... <b>Maximum common subgraph isomorphism problem</b> -- Maximum <br>\ncoverage problem ... <b>May</b> spectral sequence -- <b>May&#39;s</b> theorem -- Maya numerals -<br>\n- Mayer .... <b>product</b> of <b>graphs</b> -- <b>Modular</b> representation theory -- <b>Modular</b> <br>\nsubgroup&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Mathematics/List_of_mathematics_articles_(M)", 
+            "cacheId": "heKDt_RoZYcJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Wikipedia:WikiProject Mathematics/List of mathematics articles (M\u2013O)", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Wikipedia:WikiProject Mathematics/List of mathematics articles (M\u2013O)", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/.../List_of_mathematics_articles_(M\u2013O)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/.../List_of_mathematics_articles_(M\u2013O)", 
+            "snippet": "... Mathematics and art -- Mathematics and Computer Education -- Mathematics \nand fiber ... Maximum common subgraph isomorphism problem -- Maximum \ncoverage problem ... May spectral sequence -- May's theorem -- Maya numerals -\n- Mayer .... product of graphs -- Modular representation theory -- Modular \nsubgroup\u00a0...", 
+            "htmlSnippet": "... Mathematics and art -- Mathematics and <b>Computer</b> Education -- Mathematics <br>\nand fiber ... <b>Maximum common subgraph isomorphism problem</b> -- Maximum <br>\ncoverage problem ... <b>May</b> spectral sequence -- <b>May&#39;s</b> theorem -- Maya numerals -<br>\n- Mayer .... <b>product</b> of <b>graphs</b> -- <b>Modular</b> representation theory -- <b>Modular</b> <br>\nsubgroup&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Mathematics/List_of_mathematics_articles_(M%E2%80%93O)", 
+            "cacheId": "W2nTaLMxzF0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "User:Tompw/Books/Mathematics (M) - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "User:Tompw/Books/Mathematics (M) - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/User:Tompw/Books/Mathematics_(M)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/User:Tompw/Books/Mathematics_(M)", 
+            "snippet": "This user book is a user-generated collection of Wikipedia articles that can be \neasily .... subgraph problem \u00b7 Maximum common subgraph isomorphism problem\n\u00a0...", 
+            "htmlSnippet": "This user book is a user-generated collection of Wikipedia articles that <b>can</b> be <br>\neasily .... subgraph problem &middot; <b>Maximum common subgraph isomorphism problem</b><br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/User:Tompw/Books/Mathematics_(M)", 
+            "cacheId": "ztPpFYpG4d8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Book talk:Graph Theory - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Book talk:<b>Graph</b> Theory - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Book_talk:Graph_Theory", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Book_talk:<b>Graph</b>_Theory", 
+            "snippet": "This is a Wikipedia Book, a collection of articles which can be downloaded ...... \nGraph cuts in computer vision \u00b7 Start-Class article Start ..... Maximum common \nsubgraph isomorphism problem \u00b7 Stub-Class article ...... Modular product of \ngraphs ?", 
+            "htmlSnippet": "This is a Wikipedia Book, a collection of articles which <b>can</b> be downloaded ...... <br>\n<b>Graph</b> cuts in <b>computer</b> vision &middot; Start-Class article Start ..... <b>Maximum common</b> <br>\n<b>subgraph isomorphism problem</b> &middot; Stub-Class article ...... <b>Modular product</b> of <br>\n<b>graphs</b> ?", 
+            "link": "https://en.wikipedia.org/wiki/Book_talk:Graph_Theory"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Wikipedia:WikiProject Mathematics/List of mathematics articles (S ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Wikipedia:WikiProject Mathematics/List of mathematics articles (S <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/.../List_of_mathematics_articles_(S)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/.../List_of_mathematics_articles_(S)", 
+            "snippet": "SKI combinator calculus -- Skinny triangle -- Skip counting -- Skip graph -- Sklar's \n... Smooth maximum -- Smooth morphism -- Smooth number -- Smooth scheme ... \nfor Mathematical Biology -- Society for Mathematics and Computation in Music ..... \nmethod -- Subgraph isomorphism problem -- Subgroup -- Subgroup analysis\u00a0...", 
+            "htmlSnippet": "SKI combinator calculus -- Skinny triangle -- Skip counting -- Skip <b>graph</b> -- Sklar&#39;s <br>\n... Smooth <b>maximum</b> -- Smooth morphism -- Smooth number -- Smooth scheme ... <br>\nfor Mathematical Biology -- Society for Mathematics and <b>Computation</b> in Music ..... <br>\nmethod -- <b>Subgraph isomorphism problem</b> -- Subgroup -- Subgroup analysis&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Mathematics/List_of_mathematics_articles_(S)", 
+            "cacheId": "vwRZdChntvwJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "User:Salih/MathRedlinks - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "User:Salih/MathRedlinks - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/User:Salih/MathRedlinks", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/User:Salih/MathRedlinks", 
+            "snippet": "Querenburg -- Bott-Duffin theorem -- Bottleneck assignment problem -- Bouguer \n.... Computer Science -- Centre for Experimental and Constructive Mathematics\u00a0...", 
+            "htmlSnippet": "Querenburg -- Bott-Duffin theorem -- Bottleneck assignment <b>problem</b> -- Bouguer <br>\n.... <b>Computer</b> Science -- Centre for Experimental and Constructive Mathematics&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/User:Salih/MathRedlinks"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Wikipedia:WikiProject Mathematics/List of mathematics articles (C ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Wikipedia:WikiProject Mathematics/List of mathematics articles (C <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/.../List_of_mathematics_articles_(C)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/.../List_of_mathematics_articles_(C)", 
+            "snippet": "Cap product -- Capable group -- Capacity of a set -- Capelli's identity -- Capped ... \ncategory -- Cartesian oval -- Cartesian product -- Cartesian product of graphs ... \nCategory of metric spaces -- Category of modules -- Category of preordered sets \n... Cauchy problem -- Cauchy process -- Cauchy product -- Cauchy\u2013Rassias\u00a0...", 
+            "htmlSnippet": "Cap <b>product</b> -- Capable group -- Capacity of a set -- Capelli&#39;s identity -- Capped ... <br>\ncategory -- Cartesian oval -- Cartesian <b>product</b> -- Cartesian <b>product</b> of <b>graphs</b> ... <br>\nCategory of metric spaces -- Category of <b>modules</b> -- Category of preordered sets <br>\n... Cauchy <b>problem</b> -- Cauchy process -- Cauchy <b>product</b> -- Cauchy\u2013Rassias&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Mathematics/List_of_mathematics_articles_(C)", 
+            "cacheId": "x2VuXE5marcJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - The maximum common subgraph isomorphism problem may be computed with a modular product graph", 
+                "safe": "off", 
+                "searchTerms": "The maximum common subgraph isomorphism problem may be computed with a modular product graph", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "18"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - The maximum common subgraph isomorphism problem may be computed with a modular product graph", 
+                "safe": "off", 
+                "searchTerms": "The maximum common subgraph isomorphism problem may be computed with a modular product graph", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "18"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.34", 
+        "formattedTotalResults": "18", 
+        "totalResults": "18", 
+        "searchTime": 0.33907
+    }
+}
