@@ -93,8 +93,8 @@ module.exports = {
               return impls.id === algorithm._id;
             })[0];
             algorithm.implementations = impls.hits.sort(function (a, b) {
-              var aLang = a._source.language;
-              var bLang = b._source.language;
+              var aLang = a._source.language.toLowerCase();
+              var bLang = b._source.language.toLowerCase();
               return (aLang > bLang) ? 1 : ((bLang > aLang) ? -1 : 0);
             });
 
@@ -109,7 +109,11 @@ module.exports = {
             // Add list of languages
             algorithm.implementationLanguages = unique(algorithm.implementations.map(function(impl) {
               return impl._source.language;
-            }).sort());
+            }).sort(function(a, b) {
+              a = a.toLowerCase();
+              b = b.toLowerCase();
+              return (a > b) ? 1 : ((b > a) ? -1 : 0);
+            }));
           }
 
           cb(error, res);
