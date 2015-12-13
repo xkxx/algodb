@@ -27,8 +27,8 @@ def get_text_content(pkg):
     for kw in keywords:
         if len(kw) > 2:
             results.append((kw, 2.0))
-    for kw in parsedKeywords:
-        results.append((kw, 1.6))
+    for (kw, score) in parsedKeywords:
+        results.append((kw, 1.6 * score))
     if len(desc) > 2:
         results.append((desc, 1.0))
     return results

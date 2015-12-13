@@ -11,30 +11,46 @@ FALSE_POSITIVE = 'False-Pos'
 TRUE_NEGATIVE = 'True-Neg'
 FALSE_NEGATIVE = 'False-Neg'
 
+def parse_prior(expected):
+    expectedCorrect = []
+    expectedWrong = []
+    for e in expected:
+        if e.startswith('!!'):
+            expectedWrong.append(e[2:])
+        else:
+            expectedCorrect.append(e)
+    return (expectedCorrect, expectedWrong)
+
 def checkPkg(pkgName, actual, expected, r, es):
+    (expectedCorrect, expectedWrong) = parse_prior(expected)
     for algo in actual:
-        if algo not in expected:
+        if algo in expectedWrong:
+            return FALSE_POSITIVE
+        # if algo in expectedCorrect, continue
+        if algo not in expectedCorrect:
             print "Detected:", algo
             if getUserInput("Correct?"):
                 r.sadd('%s:map' % pkgName, algo)
                 return TRUE_POSITIVE
             else:
+                r.sadd("%s:map" % pkgName, '!!%s' % algo)
                 return FALSE_POSITIVE
     if len(actual) != 0:
         return TRUE_POSITIVE
-    elif len(expected) != 0:
+    elif len(expectedCorrect) != 0: # can be linked, but not
         return FALSE_NEGATIVE
     else:
-        print "No Link Detected"
         pkg = get_npm_pkg(pkgName)
-        hints = get_links(pkg, es)
         print "NEL Hints:"
-        for hint in hints[:15]:
-            print '\t', hint
+        hints = get_links(pkg, es)
+        # for hint in hints[:15]:
+        #     print '\t', hint
         print '\n'
+        print "No Link Detected"
         if getUserInput("Correct?"):
             return TRUE_NEGATIVE
         else:
+            r.sadd('%s:map' % pkgName, '~~EXISTS~~')
             return FALSE_NEGATIVE
 
 def main():
@@ -54,6 +70,7 @@ def main():
         expected = r.smembers("%s:map" % pkgName)
 
         result = checkPkg(pkgName, actual, expected, r, es)
+        print result
 
         r.sadd('samples-%s' % result, pkgName)
         conditions[result] += 1
