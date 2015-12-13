@@ -78,7 +78,7 @@ exports.getDescForPkg = getDescForPkg;
 
 var moduleListAsync = bluebird.promisify(npmStat.list);
 var getAllPkgs = function() {
-  return fetch('http://localhost:5984/registry/_all_docs')
+  return fetch('http://localhost:5984/npm/_all_docs')
   .then((res) => res.json())
   .then(function(res) {
     return res.rows.map((item)=>item.key);

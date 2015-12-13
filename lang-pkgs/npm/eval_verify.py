@@ -48,7 +48,7 @@ def main():
         conditions[result] += 1
 
     for (k, v) in conditions.items():
-        print "%s: %s", % (k, v)
+        print "%s: %s" % (k, v)
 
     print "Precision:", 1.0 * conditions[TRUE_POSITIVE] / (conditions[TRUE_POSITIVE] + conditions[FALSE_POSITIVE])
     print "Recall:", 1.0 * conditions[TRUE_POSITIVE] / (conditions[TRUE_POSITIVE] + conditions[FALSE_NEGATIVE])
