@@ -10,6 +10,7 @@ from dateutil import parser as dateparser
 from datetime import datetime
 from collections import Counter
 from RAKE import Rake
+import requests
 
 rk = Rake('SmartStoplist.txt')
 
@@ -86,6 +87,10 @@ def index_package(line):
     impls = get_links(pkg, es)
     if len(impls) > 0:
         add_to_db(pkg, [impls[0]], es)
+
+def get_npm_pkg(pkgName):
+    res = requests.get('http://localhost:5984/npm/%s' % pkgName)
+    return res.json()
 
 def work():
     es = Elasticsearch([{'host': 'localhost', 'port': 9200}])

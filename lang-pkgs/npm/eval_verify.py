@@ -4,13 +4,14 @@ import redis
 import wikipedia as wiki
 from manual_tagger import printPkgContent, getUserInput, normalize
 from collections import Counter
+from index_pkg import get_links, get_npm_pkg
 
 TRUE_POSITIVE = 'True-Pos'
 FALSE_POSITIVE = 'False-Pos'
 TRUE_NEGATIVE = 'True-Neg'
 FALSE_NEGATIVE = 'False-Neg'
 
-def checkPkg(pkgName, actual, expected, r):
+def checkPkg(pkgName, actual, expected, r, es):
     for algo in actual:
         if algo not in expected:
             print "Detected:", algo
@@ -19,13 +20,22 @@ def checkPkg(pkgName, actual, expected, r):
                 return TRUE_POSITIVE
             else:
                 return FALSE_POSITIVE
-    # at this point, len(actual) != 0
-    if len(expected) != 0:
+    if len(actual) != 0:
+        return TRUE_POSITIVE
+    elif len(expected) != 0:
         return FALSE_NEGATIVE
     else:
-# FIXME
-        return TRUE_NEGATIVE
-
+        print "No Link Detected"
+        pkg = get_npm_pkg(pkgName)
+        hints = get_links(pkg, es)
+        print "NEL Hints:"
+        for hint in hints[:15]:
+            print '\t', hint
+        print '\n'
+        if getUserInput("Correct?"):
+            return TRUE_NEGATIVE
+        else:
+            return FALSE_NEGATIVE
 
 def main():
     es = Elasticsearch([{'host': 'localhost', 'port': 9200}])
@@ -43,7 +53,7 @@ def main():
             actual = []
         expected = r.smembers("%s:map" % pkgName)
 
-        result = checkPkg(pkgName, actual, expected, r)
+        result = checkPkg(pkgName, actual, expected, r, es)
 
         r.sadd('samples-%s' % result, pkgName)
         conditions[result] += 1
