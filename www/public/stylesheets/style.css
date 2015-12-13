@@ -11,11 +11,12 @@ a {
 /* Header */
 
 header {
-  overflow: hidden;
 }
 
 header .row {
   display: block;
+}
+header .row:first-child {
   overflow: hidden;
 }
 
@@ -35,6 +36,10 @@ h1.logo {
 }
 
 h1.logo .v2 .r { color: #F90101; }
+h1.logo .v2 .r:last-child {
+  transform: rotate(-11deg);
+  display: inline-block;
+}
 h1.logo .v2 .b { color: #0266C8; }
 h1.logo .v2 .y { color: #F2B50F; }
 h1.logo .v2 .g { color: #00933B; }
@@ -76,7 +81,6 @@ h1.logo .v2 .g { color: #00933B; }
   line-height: 18px;
   display: inline-block;
   border: 0;
-  vertical-align: top;
   margin: 0;
   padding: 10px 20px;
   cursor: pointer;
@@ -100,6 +104,24 @@ h1.logo .v2 .g { color: #00933B; }
   padding: 10px 10px;
   height: 30px;
   vertical-align: bottom;
+}
+
+.submit {
+  margin-right: 10px;
+}
+
+.language-select {
+  min-width: 300px;
+  display: inline-block;
+  vertical-align: bottom;
+}
+.selectize-input {
+  height: 40px;
+  padding: 10px;
+  vertical-align: bottom;
+}
+.selectize-control.multi .selectize-input > div.item {
+  padding: 4px 8px;
 }
 
 /* Results */

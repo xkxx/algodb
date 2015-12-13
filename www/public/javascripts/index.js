@@ -42,9 +42,27 @@ $(function() {
     $(this).toggleClass('expanded-all');
   });
 
+  // Scroll to language
   $('.lang-button').click(function() {
     var lang = ($(this).text()).replace(' ', '-');
     var $langImpl = $(this).closest('.see-more').find('.implementation' + '.' + lang);
     $('body').scrollTop($langImpl.offset().top);
+  });
+
+  // Filter languages
+  $('.language-select').selectize({
+    onChange: function(values) {
+      if (!values) {
+        // If no filter, show all
+        $('.implementation').show();
+      } else {
+        // Only show selected filter
+        $('.implementation').hide();
+        for (var i in values) {
+          var query = '.' + values[i].replace(' ', '-');
+          $('.implementation' + query).show();
+        }
+      }
+    }
   });
 });

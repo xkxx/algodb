@@ -25,6 +25,9 @@ block content
     form.row
       input.query-input(name='q' value=query placeholder='merge sort, md5, a*')
       input.submit.button(type='submit' value='Search!')
+      select.language-select(placeholder='Filter languages' multiple)
+        for l in languagesAlphabetical
+          option(value=l.language)= l.language
   .results
     if search.hits
       - var numResults = search.hits.length;
