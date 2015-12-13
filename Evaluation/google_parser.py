@@ -85,7 +85,13 @@ def folder_to_file():
             single = json.load(fp)
         for k, v in single.items():
             if v:
-                jdata[k] = v
+                res = []
+                for url in v:
+                    if "..." in url:
+                        res.append(url.replace("...", "wiki").replace(" ", ""))
+                    else:
+                        res.append(url)
+                jdata[k] = res       
     return jdata
 
 
