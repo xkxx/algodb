@@ -53,6 +53,11 @@ router.get('/', function(req, res, next) {
     // After doing all the queries in parallel, render the page!
 
     data.languages = languages;
+    data.languagesAlphabetical = data.languages.slice().sort(function(a,b) {
+      a = a.language.toLowerCase();
+      b = b.language.toLowerCase();
+      return (a > b) ? 1 : ((b > a) ? -1 : 0);
+    });
     data.query = query; // may be undefined
     // console.log('Render /index.html with the following data:');
     // if (data.search.hits) {
