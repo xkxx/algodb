@@ -1,0 +1,10 @@
+{
+    "Needleman-Wunsch": [
+        "https://en.wikipedia.org/wiki/Needleman\u2013Wunsch_algorithm", 
+        "https://en.wikipedia.org/wiki/Smith\u2013Waterman_algorithm", 
+        "https://en.wikipedia.org/wiki/Hirschberg's_algorithm", 
+        "https://en.wikipedia.org/wiki/Optimal_matching", 
+        "https://en.wikipedia.org/wiki/Gap_penalty", 
+        "https://en.wikipedia.org/wiki/Wagner\u2013Fischer_algorithm"
+    ]
+}

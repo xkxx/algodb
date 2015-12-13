@@ -7,7 +7,7 @@ Files:
 algolist_raw.txt: Raw text file of algorithm list website
 algolist.txt: List of algortihms parsed from raw file
 google_search_results: Google search results for each query in algolist in JSON format.
-google_filtered_results.json
+google_filtered_results.json: Google
 
 Code:
 create_algo_list.py: go from algolist_raw -> algolist

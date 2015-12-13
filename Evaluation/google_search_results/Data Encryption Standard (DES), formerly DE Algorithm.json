@@ -1,3 +1,246 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:10afa1552cdfe5e6a084b260e517b028ddb37ff54af47470e06854c52568d2b8
-size 18896
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Data Encryption Standard - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Data Encryption Standard</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Data_Encryption_Standard", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Data</b>_<b>Encryption</b>_<b>Standard</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "222", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT5O799necwaAlEK4ewEUS2FBWp6IUl2q-c-V9PjmElQhjIVrg5b6sF_OLI", 
+                        "height": "227"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Data_Encription_Standard_Flow_Diagram.svg/300px-Data_Encription_Standard_Flow_Diagram.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "The Data Encryption Standard (DES, /\u02ccdi\u02d0\u02cci\u02d0\u02c8\u025bs/ or /\u02c8d\u025bz/) was once a ... \nThe algorithm is believed to be practically secure in the form of Triple DES, \nalthough ... a standard by the National Institute of Standards and Technology (\nformerly the ..... Frontier Foundation; Biryukov, A, C. De Canniere and M. \nQuisquater (2004).", 
+            "htmlSnippet": "The <b>Data Encryption Standard</b> (<b>DES</b>, /\u02ccdi\u02d0\u02cci\u02d0\u02c8\u025bs/ or /\u02c8d\u025bz/) was once a ... <br>\nThe <b>algorithm</b> is believed to be practically secure in the form of Triple <b>DES</b>, <br>\nalthough ... a standard by the National Institute of Standards and Technology (<br>\n<b>formerly</b> the ..... Frontier Foundation; Biryukov, A, C. <b>De</b> Canniere and M. <br>\nQuisquater (2004).", 
+            "link": "https://en.wikipedia.org/wiki/Data_Encryption_Standard", 
+            "cacheId": "qyZnmWltesMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Export of cryptography from the United States - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Export of cryptography from the United States - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../Export_of_cryptography_from_the_United_States", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Export_of_cryptography_from_the_United_States", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRRKkt7CaEzaDzF4wcysviXvzOBIhTeeY2ipP1L2gMOf70VdoS9bUS58bWP", 
+                        "height": "202"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Munitions_T-shirt_(front).jpg/220px-Munitions_T-shirt_(front).jpg"
+                    }
+                ]
+            }, 
+            "snippet": "Export-restricted RSA encryption source code printed on a T-shirt made the T-\nshirt ... that cryptography beyond a certain strength (defined by algorithm and \nlength of ... The development, and public release, of Data Encryption Standard (\nDES) and .... previously contained six countries and was also called \"terrorist 6\" \nor T-6).", 
+            "htmlSnippet": "Export-restricted RSA encryption source code printed on a T-shirt made the T-<br>\nshirt ... that cryptography beyond a certain strength (defined by <b>algorithm</b> and <br>\nlength of ... The development, and public release, of <b>Data Encryption Standard</b> (<br>\n<b>DES</b>) and .... <b>previously</b> contained six countries and was also called &quot;terrorist 6&quot; <br>\nor T-6).", 
+            "link": "https://en.wikipedia.org/wiki/Export_of_cryptography_from_the_United_States", 
+            "cacheId": "WgmtbvHEmgkJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Block cipher - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Block cipher - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Block_cipher", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Block_cipher", 
+            "snippet": "Both differential and linear cryptanalysis arose out of studies on the DES design. \n... For example, a block cipher encryption algorithm might take a 128-bit block of \n... At the beginning and the end, the data is modified with key material (often with \nXOR ... Given one of the standard iterated block cipher design schemes, it is fairly\n\u00a0...", 
+            "htmlSnippet": "Both differential and linear cryptanalysis arose out of studies on the <b>DES</b> design. <br>\n... For example, a block cipher <b>encryption algorithm</b> might take a 128-bit block of <br>\n... At the beginning and the end, the <b>data</b> is modified with key material (often with <br>\nXOR ... Given one of the <b>standard</b> iterated block cipher design schemes, it is fairly<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Block_cipher", 
+            "cacheId": "6z2k4nedGZwJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "International Data Encryption Algorithm - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "International <b>Data Encryption Algorithm</b> - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../International_Data_Encryption_Algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../International_<b>Data</b>_<b>Encryption</b>_<b>Algorithm</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "221", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKE8uo0jyvfmlGJdeUcUnqGFpQfk6JwuR3j0nA2ODZPB9zl3Ze-srPgsIV", 
+                        "height": "228"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/International_Data_Encryption_Algorithm_InfoBox_Diagram.svg/280px-International_Data_Encryption_Algorithm_InfoBox_Diagram.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "In cryptography, the International Data Encryption Algorithm (IDEA), ... The \nalgorithm was intended as a replacement for the Data Encryption Standard (DES)\n. .... (official release on May 2005) IDEA NXT, which was previously called FOX. \n.... CS1 German-language sources (de) \u00b7 Pages containing links to subscription-\nonly\u00a0...", 
+            "htmlSnippet": "In cryptography, the International Data Encryption <b>Algorithm</b> (IDEA), ... The <br>\n<b>algorithm</b> was intended as a replacement for the <b>Data Encryption Standard</b> (<b>DES</b>)<br>\n. .... (official release on May 2005) IDEA NXT, which was <b>previously</b> called FOX. <br>\n.... CS1 German-language sources (<b>de</b>) &middot; Pages containing links to subscription-<br>\nonly&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/International_Data_Encryption_Algorithm", 
+            "cacheId": "uJmUi1ff0HYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Cryptography standards - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Cryptography standards - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Cryptography_standards", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Cryptography_<b>standard</b>s", 
+            "snippet": "Standard algorithms and protocols provide a focus for study; standards for ... and \nRisk Management 1974; FIPS PUB 46-3 Data Encryption Standard (DES) 1999 ... \naspects of public-key cryptography; Transport Layer Security (formerly SSL)\u00a0...", 
+            "htmlSnippet": "Standard <b>algorithms</b> and protocols provide a focus for study; standards for ... and <br>\nRisk Management 1974; FIPS PUB 46-3 <b>Data Encryption Standard</b> (<b>DES</b>) 1999 ... <br>\naspects of public-key cryptography; Transport Layer Security (<b>formerly</b> SSL)&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Cryptography_standards", 
+            "cacheId": "Bo-_8g4a7goJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Pretty Good Privacy - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Pretty Good Privacy - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Pretty_Good_Privacy", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Pretty_Good_Privacy", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "220", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ_8Z4rzuCctCECBO_TeImwyMUP6N3u5M4o2PjAfZyuZ2vMLSt49fjkMBY", 
+                        "height": "229"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/PGP_diagram.svg/500px-PGP_diagram.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "Pretty Good Privacy (PGP) is a data encryption and decryption computer program \n... follow the OpenPGP standard (RFC 4880) for encrypting and decrypting data. \n... The message is encrypted using a symmetric encryption algorithm, which ... \nintegrity property) and the former to determine whether it was actually sent by the\n\u00a0...", 
+            "htmlSnippet": "Pretty Good Privacy (PGP) is a <b>data encryption</b> and decryption computer program <br>\n... follow the OpenPGP <b>standard</b> (RFC 4880) for <b>encrypting</b> and decrypting <b>data</b>. <br>\n... The message is <b>encrypted</b> using a symmetric <b>encryption algorithm</b>, which ... <br>\nintegrity property) and the <b>former</b> to determine whether it was actually sent by the<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Pretty_Good_Privacy", 
+            "cacheId": "H5fhJsZo-48J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "RSA Security - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "RSA Security - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/RSA_Security", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/RSA_Security", 
+            "pagemap": {
+                "hcard": [
+                    {
+                        "url": "www.rsa.com", 
+                        "category": "Division of EMC Corporation", 
+                        "url_text": "www.rsa.com", 
+                        "fn": "RSA Security LLC"
+                    }
+                ]
+            }, 
+            "snippet": "The company then called Security Dynamics acquired RSA Data Security in July \n... led to the first public breaking of a message based on the Data Encryption \nStandard. ... used DES encryption was breakable by well-funded entities like the \nNSA. ... This algorithm is only one of multiple choices available within BSAFE \ntoolkits,\u00a0...", 
+            "htmlSnippet": "The company then called Security Dynamics <b>acquired</b> RSA Data Security in July <br>\n... led to the first public breaking of a message based on the <b>Data Encryption</b> <br>\n<b>Standard</b>. ... used <b>DES</b> encryption was breakable by well-funded entities like the <br>\nNSA. ... This <b>algorithm</b> is only one of multiple choices available within BSAFE <br>\ntoolkits,&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/RSA_Security", 
+            "cacheId": "5l5yRyAvm4EJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Key size - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Key size - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Key_size", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Key_size", 
+            "snippet": "An algorithm's key length is distinct from its original cryptographic security, which \nis ... For example, Triple DES has a key size of 168 bits but provides at most 112 \nbits of .... in 1974 as the base for what would become the Data Encryption \nStandard. ... The NSA previously specified that \"Elliptic Curve Public Key \nCryptography\u00a0...", 
+            "htmlSnippet": "An <b>algorithm&#39;s</b> key length is distinct from its original cryptographic security, which <br>\nis ... For example, Triple <b>DES</b> has a key size of 168 bits but provides at most 112 <br>\nbits of .... in 1974 as the base for what would become the <b>Data Encryption</b> <br>\n<b>Standard</b>. ... The NSA <b>previously</b> specified that &quot;Elliptic Curve Public Key <br>\nCryptography&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Key_size", 
+            "cacheId": "qvFDj7ibquMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Symmetric-key algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Symmetric-key <b>algorithm</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Symmetric-key_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Symmetric-key_<b>algorithm</b>", 
+            "snippet": "Symmetric-key encryption can use either stream ciphers or block ciphers. ... The \nAdvanced Encryption Standard (AES) algorithm approved by NIST in December\n\u00a0...", 
+            "htmlSnippet": "Symmetric-key <b>encryption</b> can use either stream ciphers or block ciphers. ... The <br>\nAdvanced <b>Encryption Standard</b> (AES) <b>algorithm</b> approved by NIST in December<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Symmetric-key_algorithm", 
+            "cacheId": "mNnaswFwG5IJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Cryptography - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Cryptography - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Cryptography", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Cryptography", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRmNd7sN8ZOAu56wTG5fOIr5eDcr7JpHpsPL4QxdVc0VItYT6bdSVxrnOg", 
+                        "height": "131"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Lorenz-SZ42-2.jpg/220px-Lorenz-SZ42-2.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "The detailed operation of a cipher is controlled both by the algorithm and in each \n.... Enciphered letter from Gabriel de Luetz d'Aramon, French Ambassador to the \n.... The Data Encryption Standard (DES) and the Advanced Encryption Standard (\nAES) are ..... Previously released as an MIT \"Technical Memo\" in April 1977, and\n\u00a0...", 
+            "htmlSnippet": "The detailed operation of a cipher is controlled both by the <b>algorithm</b> and in each <br>\n.... Enciphered letter from Gabriel <b>de</b> Luetz d&#39;Aramon, French Ambassador to the <br>\n.... The <b>Data Encryption Standard</b> (<b>DES</b>) and the Advanced Encryption Standard (<br>\nAES) are ..... <b>Previously</b> released as an MIT &quot;Technical Memo&quot; in April 1977, and<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Cryptography", 
+            "cacheId": "9ahp1kVO_NUJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Data Encryption Standard (DES), formerly DE Algorithm", 
+                "safe": "off", 
+                "searchTerms": "Data Encryption Standard (DES), formerly DE Algorithm", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "368"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Data Encryption Standard (DES), formerly DE Algorithm", 
+                "safe": "off", 
+                "searchTerms": "Data Encryption Standard (DES), formerly DE Algorithm", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "368"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.34", 
+        "formattedTotalResults": "368", 
+        "totalResults": "368", 
+        "searchTime": 0.34181
+    }
+}

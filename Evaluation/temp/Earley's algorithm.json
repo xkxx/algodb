@@ -1,0 +1,8 @@
+{
+    "Earley's algorithm": [
+        "https://en.wikipedia.org/wiki/Earley_parser", 
+        "https://en.wikipedia.org/wiki/CYK_algorithm", 
+        "https://en.wikipedia.org/wiki/GLR_parser", 
+        "https://en.wikipedia.org/wiki/Memoization"
+    ]
+}

@@ -1,3 +1,208 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4a3aa000ed6583e7cca2742d24da13a1dfc92a0a09afff85c533b5b19edf113d
-size 13860
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Golomb coding - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Golomb <b>coding</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Golomb_coding", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Golomb_<b>coding</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "259", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSVBuwhhRAb1RkbtB_V6RuIxZ2ukCM66YkytxN_spOY_5RmnRd7IKNSQmmU", 
+                        "height": "194"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/9/93/Golomb_coded_Rice_Algorithm_experiment_Compression_Ratios.png"
+                    }
+                ]
+            }, 
+            "snippet": "Rice coding (invented by Robert F. Rice) denotes using a subset of the family of \nGolomb codes to produce a simpler (but possibly suboptimal) prefix code. Rice\u00a0...", 
+            "htmlSnippet": "<b>Rice coding</b> (invented by Robert F. Rice) denotes using a subset of the family of <br>\nGolomb codes to produce a simpler (but possibly suboptimal) prefix code. Rice&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Golomb_coding", 
+            "cacheId": "NsihSekPjW8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Exponential-Golomb coding - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Exponential-Golomb <b>coding</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Exponential-Golomb_coding", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Exponential-Golomb_<b>coding</b>", 
+            "snippet": "An exponential-Golomb code (or just Exp-Golomb code) is a type of universal \ncode. To encode any nonnegative integer x using the exp-Golomb code:.", 
+            "htmlSnippet": "An exponential-Golomb <b>code</b> (or just Exp-Golomb <b>code</b>) is a type of universal <br>\n<b>code</b>. To encode any nonnegative integer x using the exp-Golomb <b>code</b>:.", 
+            "link": "https://en.wikipedia.org/wiki/Exponential-Golomb_coding", 
+            "cacheId": "vKGoxFXgSmsJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Entropy encoding - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Entropy encoding - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Entropy_encoding", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Entropy_en<b>coding</b>", 
+            "snippet": "These static codes include universal codes (such as Elias gamma coding or \nFibonacci coding) and Golomb codes (such as unary coding or Rice coding).", 
+            "htmlSnippet": "These static codes include universal codes (such as Elias gamma coding or <br>\nFibonacci coding) and Golomb codes (such as unary coding or <b>Rice coding</b>).", 
+            "link": "https://en.wikipedia.org/wiki/Entropy_encoding", 
+            "cacheId": "aWEsMzC_z2YJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Universal code (data compression) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Universal <b>code</b> (data compression) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Universal_code_(data_compression)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Universal_<b>code</b>_(data_compression)", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQdSTNoKyhVOQBf7kdC1SrbJ25ftK_6nSR3OdYYe9tTN9Sli5aSRAXpGx8", 
+                        "height": "117"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Fibonacci,_Elias_Gamma,_and_Elias_Delta_encoding_schemes.GIF/220px-Fibonacci,_Elias_Gamma,_and_Elias_Delta_encoding_schemes.GIF"
+                    }
+                ]
+            }, 
+            "snippet": "Fibonacci, Elias Gamma, and Elias Delta vs binary coding. Rice with k = 2, 3, 4, 5, \n8, 16 versus binary. In data compression, a universal code for integers is a\u00a0...", 
+            "htmlSnippet": "Fibonacci, Elias Gamma, and Elias Delta vs binary <b>coding</b>. <b>Rice</b> with k = 2, 3, 4, 5, <br>\n8, 16 versus binary. In data compression, a universal <b>code</b> for integers is a&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Universal_code_(data_compression)", 
+            "cacheId": "0yLdIxediM8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Unary coding - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Unary <b>coding</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Unary_coding", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Unary_<b>coding</b>", 
+            "snippet": "Unary coding, sometimes called thermometer code, is an entropy encoding that \n... In Golomb Rice code, unary encoding is used to encode the quotient part of\u00a0...", 
+            "htmlSnippet": "Unary coding, sometimes called thermometer code, is an entropy encoding that <br>\n... In Golomb <b>Rice code</b>, unary encoding is used to encode the quotient part of&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Unary_coding", 
+            "cacheId": "Hraff2Knnx0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Golomb coding - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:Golomb <b>coding</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3AGolomb_coding", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3AGolomb_<b>coding</b>", 
+            "snippet": "Or if Golomb coding does use 111110 as 5 and Unary coding uses 11110 as ... \nPeople call both Rice's method and his subset \"Rice coding,\" thus the confusion.", 
+            "htmlSnippet": "Or if Golomb coding does use 111110 as 5 and Unary coding uses 11110 as ... <br>\nPeople call both Rice&#39;s method and his subset &quot;<b>Rice coding</b>,&quot; thus the confusion.", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3AGolomb_coding", 
+            "cacheId": "ncxEf1GmdgAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Audio Lossless Coding - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Audio Lossless <b>Coding</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Audio_Lossless_Coding", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Audio_Lossless_<b>Coding</b>", 
+            "snippet": "The short-term predictor is similar to FLAC in its operation - it is a quantized LPC \npredictor with a losslessly coded residual using Golomb Rice Coding or Block\u00a0...", 
+            "htmlSnippet": "The short-term predictor is similar to FLAC in its operation - it is a quantized LPC <br>\npredictor with a losslessly coded residual using Golomb <b>Rice Coding</b> or Block&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Audio_Lossless_Coding", 
+            "cacheId": "lGsEo4XXaWsJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "FELICS - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "FELICS - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/FELICS", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/FELICS", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcScwI0nHn5vwoNqSiVCvDYaOecKmgLceFS7A8c_VfJkLHp2KEzSgOTI7umI", 
+                        "height": "172"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Pixel-prediction.svg/220px-Pixel-prediction.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "It is encoded using a Rice code with parameters chosen based on previous \nchoices. For each \u0394 and each possible Rice code parameter k, the algorithm \nkeeps\u00a0...", 
+            "htmlSnippet": "It is encoded using a <b>Rice code</b> with parameters chosen based on previous <br>\nchoices. For each \u0394 and each possible <b>Rice code</b> parameter k, the algorithm <br>\nkeeps&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/FELICS", 
+            "cacheId": "XFZ-w1FhHAIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "High Efficiency Video Coding - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "High Efficiency Video <b>Coding</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/High_Efficiency_Video_Coding", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/High_Efficiency_Video_<b>Coding</b>", 
+            "snippet": "High Efficiency Video Coding (HEVC) is a video compression standard, a \nsuccessor ...... Persistent Rice adaptation, using a Rice coding parameter \nderivation for\u00a0...", 
+            "htmlSnippet": "High Efficiency Video Coding (HEVC) is a video compression standard, a <br>\nsuccessor ...... Persistent Rice adaptation, using a <b>Rice coding</b> parameter <br>\nderivation for&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/High_Efficiency_Video_Coding", 
+            "cacheId": "Dz7l8siRdL8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Prefix code - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Prefix <b>code</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Prefix_code", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Prefix_<b>code</b>", 
+            "snippet": "A prefix code is a type of code system (typically a variable-length code) ... \nAlthough Huffman coding is just one of many algorithms for deriving prefix codes, \nprefix .... Fibonacci coding \u00b7 Levenshtein coding \u00b7 Unary coding \u00b7 Golomb Rice \ncode\u00a0...", 
+            "htmlSnippet": "A prefix code is a type of code system (typically a variable-length code) ... <br>\nAlthough Huffman coding is just one of many algorithms for deriving prefix codes, <br>\nprefix .... Fibonacci coding &middot; Levenshtein coding &middot; Unary coding &middot; Golomb <b>Rice</b> <br>\n<b>code</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Prefix_code", 
+            "cacheId": "_fS3RTtMcxUJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Rice coding", 
+                "safe": "off", 
+                "searchTerms": "Rice coding", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "3350"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Rice coding", 
+                "safe": "off", 
+                "searchTerms": "Rice coding", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "3350"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.26", 
+        "formattedTotalResults": "3,350", 
+        "totalResults": "3350", 
+        "searchTime": 0.26234
+    }
+}

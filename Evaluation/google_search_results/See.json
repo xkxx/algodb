@@ -1,3 +1,335 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7557033ca226f9a700ca6c935fac15635c91c048e45c9cc0987b447c93a04df8
-size 18405
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Episcopal see - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Episcopal <b>see</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Episcopal_see", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Episcopal_<b>see</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTw1tNOevJhDlTgd9YYr-ieCYGvPtw143di1AnfGgvlRcZM2kkiPpL4cQ", 
+                        "height": "123"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Roma-san_giovanni03.jpg/220px-Roma-san_giovanni03.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "The word \"see\" is derived from Latin sedes, which in its original or proper sense \ndenotes the seat or chair that, in the case of a bishop, is the earliest symbol of\u00a0...", 
+            "htmlSnippet": "The word &quot;<b>see</b>&quot; is derived from Latin sedes, which in its original or proper sense <br>\ndenotes the seat or chair that, in the case of a bishop, is the earliest symbol of&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Episcopal_see", 
+            "cacheId": "fHGLkrgAbw8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Holy See - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Holy <b>See</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Holy_See", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Holy_<b>See</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "80", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ3TpUOF7JL_dqO_zis6RwFiMQHMKedgMWBFkFSBjwBjzwPcBDxVx4R", 
+                        "height": "108"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Emblem_of_the_Papacy_SE.svg/100px-Emblem_of_the_Papacy_SE.svg.png"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "url": "Vatican.va", 
+                        "url_text": "Vatican.va", 
+                        "fn": "Holy See"
+                    }, 
+                    {
+                        "fn": "The Holy See"
+                    }
+                ]
+            }, 
+            "snippet": "The Holy See (Latin: Sancta Sedes; Ecclesiastical Latin: [\u02c8sa\u014bkta \u02c8sedes]) is the \necclesiastical jurisdiction of the Catholic Church in Rome, the episcopal see of\u00a0...", 
+            "htmlSnippet": "The Holy <b>See</b> (Latin: Sancta Sedes; Ecclesiastical Latin: [\u02c8sa\u014bkta \u02c8sedes]) is the <br>\necclesiastical jurisdiction of the Catholic Church in Rome, the episcopal <b>see</b> of&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Holy_See", 
+            "cacheId": "T7XNF0yMDZoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "See - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>See</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/See", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>See</b>", 
+            "snippet": "See or SEE may refer to: ... of a bishop; Holy See, the central government of the \nRoman Catholic Church; See ... 1 People; 2 Places; 3 Organisations; 4 See also\n\u00a0...", 
+            "htmlSnippet": "<b>See</b> or <b>SEE</b> may refer to: ... of a bishop; Holy <b>See</b>, the central government of the <br>\nRoman Catholic Church; <b>See</b> ... 1 People; 2 Places; 3 Organisations; 4 <b>See</b> also<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/See", 
+            "cacheId": "uNRiiCzfRwEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Now You See Me 2 - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Now You <b>See</b> Me 2 - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Now_You_See_Me_2", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Now_You_<b>See</b>_Me_2", 
+            "pagemap": {
+                "hcalendar": [
+                    {
+                        "dtstart": "2016-06-10", 
+                        "summary": "Now You See Me 2"
+                    }
+                ], 
+                "event": [
+                    {
+                        "dtstart": "2016-06-10", 
+                        "summary": "Now You See Me 2"
+                    }
+                ]
+            }, 
+            "snippet": "Now You See Me 2 (also known as: Now You See Me: The Second Act) is an \nupcoming American caper thriller film. It is the sequel to the 2013 film Now You\u00a0...", 
+            "htmlSnippet": "Now You <b>See</b> Me 2 (also known as: Now You <b>See</b> Me: The Second Act) is an <br>\nupcoming American caper thriller film. It is the sequel to the 2013 film Now You&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Now_You_See_Me_2", 
+            "cacheId": "_P7TpgcSBhUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Lisa See - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Lisa <b>See</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Lisa_See", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Lisa_<b>See</b>", 
+            "pagemap": {
+                "person": [
+                    {
+                        "role": "Novelist, Biographer, Writer, Community Leader"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSduQ4nD6ngEVu8XeCe_HhI3nIa3_rUqSVrxzq6ELSBZ8vcroN6H3rrAAqC", 
+                        "height": "254"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Lisa_See_in_Madrid_by_As%C3%ADs_G._Ayerbe.jpg/220px-Lisa_See_in_Madrid_by_As%C3%ADs_G._Ayerbe.jpg"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "bday": "1955-02-18", 
+                        "role": "Novelist, Biographer, Writer, Community Leader", 
+                        "fn": "Lisa See"
+                    }
+                ]
+            }, 
+            "snippet": "Lisa See is an American writer and novelist. Her paternal great-grandfather was \nChinese, which has had a great impact on her life and work. Her books include\u00a0...", 
+            "htmlSnippet": "Lisa <b>See</b> is an American writer and novelist. Her paternal great-grandfather was <br>\nChinese, which has had a great impact on her life and work. Her books include&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Lisa_See", 
+            "cacheId": "6BC5XaaTprMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Carolyn See - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Carolyn <b>See</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Carolyn_See", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Carolyn_<b>See</b>", 
+            "pagemap": {
+                "person": [
+                    {
+                        "role": "Novelist, Professor, Critic"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS13LyKCmm93JC4uFsrxxmMgNQAT7xLqWg5TCuddTsYvd38J7YPF2QT_etd", 
+                        "height": "173"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/CAROLYNSEE0109.jpg/220px-CAROLYNSEE0109.jpg"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "bday": "1934-01-13", 
+                        "role": "Novelist, Professor, Critic", 
+                        "fn": "Carolyn See"
+                    }
+                ]
+            }, 
+            "snippet": "Carolyn See (born Caroline Laws; January 13, 1934) is an adjunct professor of \nEnglish at the University of California, Los Angeles, and the author of nine books,\n\u00a0...", 
+            "htmlSnippet": "Carolyn <b>See</b> (born Caroline Laws; January 13, 1934) is an adjunct professor of <br>\nEnglish at the University of California, Los Angeles, and the author of nine books,<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Carolyn_See", 
+            "cacheId": "3kE-IX2th0oJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Long time no see - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Long time no <b>see</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Long_time_no_see", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Long_time_no_<b>see</b>", 
+            "snippet": "\"Long time no see\" is an English expression used as a greeting by people who \nhave not seen each other for a while. Its origins in American English appear to be\n\u00a0...", 
+            "htmlSnippet": "&quot;Long time no <b>see</b>&quot; is an English expression used as a greeting by people who <br>\nhave not seen each other for a while. Its origins in American English appear to be<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Long_time_no_see", 
+            "cacheId": "tRlowFqqmewJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "See You Next Wednesday - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>See</b> You Next Wednesday - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/See_You_Next_Wednesday", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>See</b>_You_Next_Wednesday", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "200", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRG8GvS_qBCV79mHOh-UK15oZ0aF2VH_hgh2kqxgf-SlTjw_EssGzNbN1Z8", 
+                        "height": "132"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/5/50/Synw.JPG/250px-Synw.JPG"
+                    }
+                ]
+            }, 
+            "snippet": "See You Next Wednesday is a recurring gag in most of the films directed by John \nLandis, usually referring to a fictional film that is rarely seen and never in its\u00a0...", 
+            "htmlSnippet": "<b>See</b> You Next Wednesday is a recurring gag in most of the films directed by John <br>\nLandis, usually referring to a fictional film that is rarely seen and never in its&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/See_You_Next_Wednesday", 
+            "cacheId": "F0MwCkCf_fcJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Elliot See - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Elliot <b>See</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Elliot_See", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Elliot_<b>See</b>", 
+            "pagemap": {
+                "person": [
+                    {
+                        "role": "Commander, USNR"
+                    }
+                ], 
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ5fBu0vA6tY2OcXf8t3oMBBx6u4cGePGo0ksahCuIK5w0lkqYSAU2U_y0", 
+                        "height": "253"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Elliot_See.jpg/220px-Elliot_See.jpg"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "category": "Deceased", 
+                        "title": "Commander, USNR", 
+                        "bday": "1927-07-23", 
+                        "role": "NASA Astronaut", 
+                        "nickname": "Elliot McKay See, Jr.", 
+                        "fn": "Elliot M. See, Jr."
+                    }
+                ]
+            }, 
+            "snippet": "Elliot McKay See, Jr. (July 23, 1927 \u2013 February 28, 1966), (Cmdr, USNR), was an \nAmerican engineer, naval aviator, test pilot, and NASA astronaut, selected in\u00a0...", 
+            "htmlSnippet": "Elliot McKay <b>See</b>, Jr. (July 23, 1927 \u2013 February 28, 1966), (Cmdr, USNR), was an <br>\nAmerican engineer, naval aviator, test pilot, and NASA astronaut, selected in&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Elliot_See", 
+            "cacheId": "VvLZOkmF7jsJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "See You Again (Wiz Khalifa song) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>See</b> You Again (Wiz Khalifa song) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/See_You_Again_(Wiz_Khalifa_song)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>See</b>_You_Again_(Wiz_Khalifa_song)", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkMcoknAvx0oCC_U8oBYq58LFl7CknJpl_TwyLONJBAWyLmWJJMUSO-yUp", 
+                        "height": "176"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/0/08/Wiz_Khalifa_Feat._Charlie_Puth_-_See_You_Again_(Official_Single_Cover).png/220px-Wiz_Khalifa_Feat._Charlie_Puth_-_See_You_Again_(Official_Single_Cover).png"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "fn": "Wiz Khalifa singles"
+                    }, 
+                    {
+                        "fn": "Charlie Puth"
+                    }
+                ]
+            }, 
+            "snippet": "\"See You Again\" is a song recorded by American rapper Wiz Khalifa featuring \nAmerican singer Charlie Puth. The track was commissioned for the soundtrack of\n\u00a0...", 
+            "htmlSnippet": "&quot;<b>See</b> You Again&quot; is a song recorded by American rapper Wiz Khalifa featuring <br>\nAmerican singer Charlie Puth. The track was commissioned for the soundtrack of<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/See_You_Again_(Wiz_Khalifa_song)", 
+            "cacheId": "EKIqZIDjazYJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - See", 
+                "safe": "off", 
+                "searchTerms": "See", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "13700000"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - See", 
+                "safe": "off", 
+                "searchTerms": "See", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "13700000"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.31", 
+        "formattedTotalResults": "13,700,000", 
+        "totalResults": "13700000", 
+        "searchTime": 0.306472
+    }
+}

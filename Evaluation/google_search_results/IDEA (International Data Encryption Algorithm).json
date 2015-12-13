@@ -1,3 +1,236 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:298f5052c621760dd99eeab203609eedd016465366d839c3335c6a76cefad757
-size 15400
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "International Data Encryption Algorithm - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>International Data Encryption Algorithm</b> - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../International_Data_Encryption_Algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../<b>International</b>_<b>Data</b>_<b>Encryption</b>_<b>Algorithm</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "221", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKE8uo0jyvfmlGJdeUcUnqGFpQfk6JwuR3j0nA2ODZPB9zl3Ze-srPgsIV", 
+                        "height": "228"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/International_Data_Encryption_Algorithm_InfoBox_Diagram.svg/280px-International_Data_Encryption_Algorithm_InfoBox_Diagram.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "In cryptography, the International Data Encryption Algorithm (IDEA), originally \ncalled Improved Proposed Encryption Standard (IPES), is a symmetric-key block\n\u00a0...", 
+            "htmlSnippet": "In cryptography, the <b>International Data Encryption Algorithm</b> (<b>IDEA</b>), originally <br>\ncalled Improved Proposed Encryption Standard (IPES), is a symmetric-key block<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/International_Data_Encryption_Algorithm", 
+            "cacheId": "uJmUi1ff0HYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "IDEA NXT - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>IDEA</b> NXT - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/IDEA_NXT", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>IDEA</b>_NXT", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "224", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1Ws3ds5PvdVeIufQ3wxw6_szoENN8mUOVeD8v0atstbUAZOBu8bwyzpRX", 
+                        "height": "220"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Foxround.png/280px-Foxround.png"
+                    }
+                ]
+            }, 
+            "snippet": "In cryptography, the IDEA NXT algorithm (previously known as FOX) is a block \ncipher designed by Pascal Junod and Serge Vaudenay of EPFL (Lausanne,\u00a0...", 
+            "htmlSnippet": "In cryptography, the <b>IDEA</b> NXT algorithm (previously known as FOX) is a block <br>\n<b>cipher</b> designed by Pascal Junod and Serge Vaudenay of EPFL (Lausanne,&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/IDEA_NXT", 
+            "cacheId": "zd8YdeYW1KMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:International Data Encryption Algorithm - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>International Data Encryption Algorithm</b> - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../Talk%3AInternational_Data_Encryption_ Algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Talk%3A<b>International</b>_<b>Data</b>_<b>Encryption</b>_ <b>Algorithm</b>", 
+            "snippet": "To-do list for International Data Encryption Algorithm: ... The IDEA applet link \ndoes not appear too useful, not in English and I saw no way to run a simulation.", 
+            "htmlSnippet": "To-do list for <b>International Data Encryption Algorithm</b>: ... The <b>IDEA</b> applet link <br>\ndoes not appear too useful, not in English and I saw no way to run a simulation.", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3AInternational_Data_Encryption_Algorithm", 
+            "cacheId": "hKyNNFim9tYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Block cipher - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Block <b>cipher</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Block_cipher", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Block_<b>cipher</b>", 
+            "snippet": "IDEA[edit]. The International Data Encryption Algorithm (IDEA) is a block cipher \ndesigned by James Massey of ETH Zurich and Xuejia Lai;\u00a0...", 
+            "htmlSnippet": "<b>IDEA</b>[edit]. The <b>International Data Encryption Algorithm</b> (<b>IDEA</b>) is a block <b>cipher</b> <br>\ndesigned by James Massey of ETH Zurich and Xuejia Lai;&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Block_cipher", 
+            "cacheId": "6z2k4nedGZwJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Blowfish (cipher) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Blowfish (<b>cipher</b>) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Blowfish_(cipher)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Blowfish_(<b>cipher</b>)", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "200", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRDh1xsTEkMgGkFeEGEV5zzgszputxkUJUlw8vn2ijlukdL5ESdV1YgaErW", 
+                        "height": "173"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/BlowfishFFunction.svg/250px-BlowfishFFunction.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "Blowfish is a symmetric-key block cipher, designed in 1993 by Bruce .... of the \nslow key schedule; the idea is that the extra computational effort required gives\u00a0...", 
+            "htmlSnippet": "Blowfish is a symmetric-key block <b>cipher</b>, designed in 1993 by Bruce .... of the <br>\nslow key schedule; the <b>idea</b> is that the extra computational effort required gives&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Blowfish_(cipher)", 
+            "cacheId": "sJhnlXfjff8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Data Encryption Standard - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Data Encryption</b> Standard - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Data_Encryption_Standard", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Data</b>_<b>Encryption</b>_Standard", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "222", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT5O799necwaAlEK4ewEUS2FBWp6IUl2q-c-V9PjmElQhjIVrg5b6sF_OLI", 
+                        "height": "227"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Data_Encription_Standard_Flow_Diagram.svg/300px-Data_Encription_Standard_Flow_Diagram.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "This section needs additional citations for verification. Please help improve this \narticle by adding citations to reliable\u00a0...", 
+            "htmlSnippet": "This section needs additional citations for verification. Please help improve this <br>\narticle by adding citations to reliable&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Data_Encryption_Standard", 
+            "cacheId": "qyZnmWltesMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Idea (disambiguation) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Idea</b> (disambiguation) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Idea_(disambiguation)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Idea</b>_(disambiguation)", 
+            "snippet": "Idea (disambiguation) ... An idea is an image existing or formed in the mind. Idea \nor IDEA ... International Data Encryption Algorithm, a block cipher; IntelliJ IDEA,\u00a0...", 
+            "htmlSnippet": "<b>Idea</b> (disambiguation) ... An <b>idea</b> is an image existing or formed in the mind. <b>Idea</b> <br>\nor <b>IDEA</b> ... <b>International Data Encryption Algorithm</b>, a block <b>cipher</b>; IntelliJ <b>IDEA</b>,&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Idea_(disambiguation)", 
+            "cacheId": "iFsz6ixQ8CYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Pretty Good Privacy - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Pretty Good Privacy - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Pretty_Good_Privacy", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Pretty_Good_Privacy", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "220", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ_8Z4rzuCctCECBO_TeImwyMUP6N3u5M4o2PjAfZyuZ2vMLSt49fjkMBY", 
+                        "height": "229"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/PGP_diagram.svg/500px-PGP_diagram.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "Pretty Good Privacy (PGP) is a data encryption and decryption computer .... \nSimilarly, the symmetric key algorithm used in PGP version 2 was IDEA, which \nmight ..... The standard was extended to support Camellia cipher by RFC 5581 in \n2009,\u00a0...", 
+            "htmlSnippet": "Pretty Good Privacy (PGP) is a data encryption and decryption computer .... <br>\nSimilarly, the symmetric key algorithm used in PGP version 2 was <b>IDEA</b>, which <br>\nmight ..... The standard was extended to support Camellia <b>cipher</b> by RFC 5581 in <br>\n2009,&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Pretty_Good_Privacy", 
+            "cacheId": "H5fhJsZo-48J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Category:Block ciphers - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Category:Block ciphers - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Category:Block_ciphers", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Category:Block_<b>cipher</b>s", 
+            "snippet": "Jump to: navigation, search. The main article for this category is Block cipher. ... \nBlock cipher modes of operation   (12 P). \u25bb Broken block ciphers   (2 C, 46 P)\u00a0...", 
+            "htmlSnippet": "Jump to: navigation, search. The main article for this category is Block <b>cipher</b>. ... <br>\nBlock <b>cipher</b> modes of operation   (12 P). \u25bb Broken block ciphers   (2 C, 46 P)&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Category:Block_ciphers", 
+            "cacheId": "9-elzk9VMagJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Camellia (cipher) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Camellia (<b>cipher</b>) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Camellia_(cipher)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Camellia_(<b>cipher</b>)", 
+            "snippet": "In cryptography, Camellia is a symmetric key block cipher with a block size of 128 \nbits and key sizes of 128, 192 and 256 bits. It was jointly developed by\u00a0...", 
+            "htmlSnippet": "In cryptography, Camellia is a symmetric key block <b>cipher</b> with a block size of 128 <br>\nbits and key sizes of 128, 192 and 256 bits. It was jointly developed by&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Camellia_(cipher)", 
+            "cacheId": "7TbYFuVu6FEJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - IDEA (International Data Encryption Algorithm)", 
+                "safe": "off", 
+                "searchTerms": "IDEA (International Data Encryption Algorithm)", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "581"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - IDEA (International Data Encryption Algorithm)", 
+                "safe": "off", 
+                "searchTerms": "IDEA (International Data Encryption Algorithm)", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "581"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.28", 
+        "formattedTotalResults": "581", 
+        "totalResults": "581", 
+        "searchTime": 0.284452
+    }
+}

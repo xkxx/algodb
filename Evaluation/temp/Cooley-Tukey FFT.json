@@ -1,0 +1,12 @@
+{
+    "Cooley-Tukey FFT": [
+        "https://en.wikipedia.org/wiki/Cooley\u2013Tukey_FFT_algorithm", 
+        "https://en.wikipedia.org/wiki/Fast_Fourier_transform", 
+        "https://en.wikipedia.org/wiki/James_Cooley", 
+        "https://en.wikipedia.org/wiki/Butterfly_diagram", 
+        "https://en.wikipedia.org/wiki/John_Tukey", 
+        "https://en.wikipedia.org/wiki/Rader's_FFT_algorithm", 
+        "https://en.wikipedia.org/wiki/Bruun's_FFT_algorithm", 
+        "https://en.wikipedia.org/wiki/Split-radix_FFT_algorithm"
+    ]
+}

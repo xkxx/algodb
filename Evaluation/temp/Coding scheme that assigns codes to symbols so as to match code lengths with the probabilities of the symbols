@@ -1,0 +1,7 @@
+{
+    "Coding scheme that assigns codes to symbols so as to match code lengths with the probabilities of the symbols": [
+        "https://en.wikipedia.org/wiki/Huffman_coding", 
+        "https://en.wikipedia.org/wiki/Lempel\u2013Ziv\u2013Welch", 
+        "https://en.wikipedia.org/wiki/Hamming(7,4)"
+    ]
+}

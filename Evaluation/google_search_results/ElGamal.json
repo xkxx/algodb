@@ -1,3 +1,282 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3d2f4ecad8076489556adc04d3545f839e9799054de0f6aa937a167dd1821b1f
-size 16051
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "ElGamal encryption - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>ElGamal</b> encryption - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/ElGamal_encryption", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>ElGamal</b>_encryption", 
+            "snippet": "In cryptography, the ElGamal encryption system is an asymmetric key encryption \nalgorithm for public-key cryptography which is based on the Diffie\u2013Hellman key\u00a0...", 
+            "htmlSnippet": "In cryptography, the <b>ElGamal</b> encryption system is an asymmetric key encryption <br>\nalgorithm for public-key cryptography which is based on the Diffie\u2013Hellman key&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/ElGamal_encryption", 
+            "cacheId": "Hvi6s6i24mYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "ElGamal signature scheme - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>ElGamal</b> signature scheme - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/ElGamal_signature_scheme", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>ElGamal</b>_signature_scheme", 
+            "snippet": "The ElGamal signature scheme is a digital signature scheme which is based on \nthe difficulty of computing discrete logarithms. It was described by Taher\u00a0...", 
+            "htmlSnippet": "The <b>ElGamal</b> signature scheme is a digital signature scheme which is based on <br>\nthe difficulty of computing discrete logarithms. It was described by Taher&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/ElGamal_signature_scheme", 
+            "cacheId": "5DH3PJos2xAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Taher Elgamal - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Taher <b>Elgamal</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Taher_Elgamal", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Taher_<b>Elgamal</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTHy2Y7GbbTFBvAKRGX8O29Ck66FDbCGah-ouv_HPRDvGnJALssh8DtfeI", 
+                        "height": "264"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Taher_Elgamal_it-sa_2010.jpg/220px-Taher_Elgamal_it-sa_2010.jpg"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "bday": "1955-08-18", 
+                        "category": "Cryptography", 
+                        "fn": "Taher A. Elgamal"
+                    }
+                ]
+            }, 
+            "snippet": "Taher Elgamal (Arabic: \u0637\u0627\u0647\u0631 \u0627\u0644\u062c\u0645\u0644) (born 18 August 1955) is an Egyptian \ncryptographer. Elgamal is sometimes written as El Gamal or ElGamal, but \nElgamal is\u00a0...", 
+            "htmlSnippet": "Taher <b>Elgamal</b> (Arabic: \u0637\u0627\u0647\u0631 \u0627\u0644\u062c\u0645\u0644) (born 18 August 1955) is an Egyptian <br>\ncryptographer. <b>Elgamal</b> is sometimes written as <b>El Gamal</b> or <b>ElGamal</b>, but <br>\n<b>Elgamal</b> is&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Taher_Elgamal", 
+            "cacheId": "ItpbNCMhRaUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Sharif El-Gamal - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Sharif <b>El-Gamal</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Sharif_El-Gamal", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Sharif_<b>El-Gamal</b>", 
+            "pagemap": {
+                "person": [
+                    {
+                        "role": "Real estate developer"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "bday": "1973-12-23", 
+                        "category": "American", 
+                        "role": "Real estate developer", 
+                        "fn": "Sharif El-Gamal"
+                    }
+                ]
+            }, 
+            "snippet": "Sharif El-Gamal (born December 23, 1973) is an American real estate developer. \nHe is the chairman and chief executive officer of Soho Properties,\u00a0...", 
+            "htmlSnippet": "Sharif <b>El-Gamal</b> (born December 23, 1973) is an American real estate developer. <br>\nHe is the chairman and chief executive officer of Soho Properties,&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Sharif_El-Gamal", 
+            "cacheId": "SZSRWQZ8TcgJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Elgamal - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Elgamal</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Elgamal", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Elgamal</b>", 
+            "snippet": "Elgamal may refer to: ElGamal encryption, an asymmetric key encryption \nalgorithm for public-key cryptography; ElGamal signature scheme, a digital \nsignature\u00a0...", 
+            "htmlSnippet": "<b>Elgamal</b> may refer to: <b>ElGamal</b> encryption, an asymmetric key encryption <br>\nalgorithm for public-key cryptography; <b>ElGamal</b> signature scheme, a digital <br>\nsignature&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Elgamal", 
+            "cacheId": "09YZmheGUYoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Abbas El Gamal - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Abbas <b>El Gamal</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Abbas_El_Gamal", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Abbas_<b>El_Gamal</b>", 
+            "snippet": "Abbas El Gamal received his B.Sc. Honors degree in Electrical Engineering from \nCairo University in 1972,and his M.S. in Statistics and Ph.D. in Electrical\u00a0...", 
+            "htmlSnippet": "Abbas <b>El Gamal</b> received his B.Sc. Honors degree in Electrical Engineering from <br>\nCairo University in 1972,and his M.S. in Statistics and Ph.D. in Electrical&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Abbas_El_Gamal", 
+            "cacheId": "dVAkgLWR8iYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Yehia El-Gamal - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Yehia <b>El-Gamal</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Yehia_El-Gamal", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Yehia_<b>El-Gamal</b>", 
+            "pagemap": {
+                "hcard": [
+                    {
+                        "bday": "1930-08-15", 
+                        "nickname": "\u064a\u062d\u064a\u0649 \u0627\u0644\u062c\u0645\u0644", 
+                        "fn": "Yehia El-Gamal", 
+                        "label": "Giza"
+                    }
+                ]
+            }, 
+            "snippet": "El Gamal was a minister of state and administrative reform from 1974 to 1975 \nunder the premiership of Abd El Aziz Muhammad Hegazi and the presidency of\u00a0...", 
+            "htmlSnippet": "<b>El Gamal</b> was a minister of state and administrative reform from 1974 to 1975 <br>\nunder the premiership of Abd El Aziz Muhammad Hegazi and the presidency of&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Yehia_El-Gamal", 
+            "cacheId": "zYtqrOKj5RkJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Hamza El-Gamal - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Hamza <b>El-Gamal</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Hamza_El-Gamal", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Hamza_<b>El-Gamal</b>", 
+            "pagemap": {
+                "person": [
+                    {
+                        "org": "Retired", 
+                        "role": "Defender"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "bday": "1970-03-02", 
+                        "role": "Defender", 
+                        "nickname": "Hamza El-Gamal", 
+                        "fn": "Hamza El-Gamal"
+                    }, 
+                    {
+                        "nickname": "Nader", 
+                        "fn": "Nader"
+                    }, 
+                    {
+                        "nickname": "Radwan", 
+                        "fn": "Radwan"
+                    }, 
+                    {
+                        "nickname": "Fawzi", 
+                        "fn": "Fawzi"
+                    }, 
+                    {
+                        "nickname": "Ramzy", 
+                        "fn": "Ramzy"
+                    }, 
+                    {
+                        "fn": "S. Kamouna"
+                    }, 
+                    {
+                        "nickname": "Abdelhady", 
+                        "fn": "Abdelhady"
+                    }, 
+                    {
+                        "fn": "M. Kamouna"
+                    }, 
+                    {
+                        "fn": "El-Gamal"
+                    }, 
+                    {
+                        "fn": "Abo Greisha"
+                    }
+                ]
+            }, 
+            "snippet": "Hamza El-Gamal (Arabic: \u062d\u0645\u0632\u0629 \u0627\u0644\u062c\u0645\u0644  ) is a retired Egyptian footballer. Career[edit]. \nEl-Gamal played club football for Ismaily. He was also part of the Egypt national\u00a0...", 
+            "htmlSnippet": "Hamza <b>El-Gamal</b> (Arabic: \u062d\u0645\u0632\u0629 \u0627\u0644\u062c\u0645\u0644  ) is a retired Egyptian footballer. Career[edit]. <br>\n<b>El-Gamal</b> played club football for Ismaily. He was also part of the Egypt national&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Hamza_El-Gamal", 
+            "cacheId": "8dERbMPuCTAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Yousry Saber Hussein El-Gamal - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Yousry Saber Hussein <b>El-Gamal</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Yousry_Saber_Hussein_El-Gamal", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Yousry_Saber_Hussein_<b>El-Gamal</b>", 
+            "pagemap": {
+                "hcard": [
+                    {
+                        "nickname": "Yousry Saber Hussein El-Gamal", 
+                        "fn": "Yousry El-Gamal"
+                    }
+                ]
+            }, 
+            "snippet": "Yousry Saber Hussein El-Gamal is a former Minister of Education for Egypt. He \nwas replaced on 3 January 2010 by Dr. Ahmed Zaki Badr.", 
+            "htmlSnippet": "Yousry Saber Hussein <b>El-Gamal</b> is a former Minister of Education for Egypt. He <br>\nwas replaced on 3 January 2010 by Dr. Ahmed Zaki Badr.", 
+            "link": "https://en.wikipedia.org/wiki/Yousry_Saber_Hussein_El-Gamal", 
+            "cacheId": "TgWZG9gpDCgJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Yehia El-Gamal (pediatrician) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Yehia <b>El-Gamal</b> (pediatrician) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Yehia_El-Gamal_(pediatrician)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Yehia_<b>El-Gamal</b>_(pediatrician)", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRIhuTM6FNOD0WYPfqDU5-p1tgLR99rQEWrsAhgt3gs1v_WKwc2ffVltWg", 
+                        "height": "252"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Prof._Yehia_El-Gamal,_Professor_of_Pediatrics,_Faculty_of_Medicine_,Ain_Shams_University.jpg/220px-Prof._Yehia_El-Gamal,_Professor_of_Pediatrics,_Faculty_of_Medicine_,Ain_Shams_University.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "Yehia El-Gamal is Professor of Pediatrics, Pediatric Allergy and Immunology Unit, \nand Ex-Chairman (1997-2001) of the Department of Pediatrics, Children's\u00a0...", 
+            "htmlSnippet": "Yehia <b>El-Gamal</b> is Professor of Pediatrics, Pediatric Allergy and Immunology Unit, <br>\nand Ex-Chairman (1997-2001) of the Department of Pediatrics, Children&#39;s&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Yehia_El-Gamal_(pediatrician)", 
+            "cacheId": "dLFLxHJ079kJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - ElGamal", 
+                "safe": "off", 
+                "searchTerms": "ElGamal", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "271"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - ElGamal", 
+                "safe": "off", 
+                "searchTerms": "ElGamal", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "271"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.17", 
+        "formattedTotalResults": "271", 
+        "totalResults": "271", 
+        "searchTime": 0.17327
+    }
+}

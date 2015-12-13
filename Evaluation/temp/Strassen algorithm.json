@@ -1,0 +1,10 @@
+{
+    "Strassen algorithm": [
+        "https://en.wikipedia.org/wiki/Strassen_algorithm", 
+        "https://en.wikipedia.org/wiki/Sch\u00f6nhage\u2013Strassen_algorithm", 
+        "https://en.wikipedia.org/wiki/Coppersmith\u2013Winograd_algorithm", 
+        "https://en.wikipedia.org/wiki/F\u00fcrer's_algorithm", 
+        "https://en.wikipedia.org/wiki/Karatsuba_algorithm", 
+        "https://en.wikipedia.org/wiki/Matrix_multiplication"
+    ]
+}

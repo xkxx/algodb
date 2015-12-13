@@ -1,3 +1,292 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:92b8617578edd6a83c90045e61d9dd356dc5eb312b866a0784b7c09b263da95d
-size 17580
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "A* search algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "A* <b>search</b> algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/A*_search_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/A*_<b>search</b>_algorithm", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "259", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQfEKtF0BKmWahyaJuzky8WNenoyEDowBUENpLFx28SGsSRAnKuBgkbKZ0j", 
+                        "height": "194"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/6/60/A*_Search_Example_on_North_American_Freight_Train_Network.gif"
+                    }
+                ]
+            }, 
+            "snippet": "A* uses a best-first search and finds a least-cost path from a given initial node to \none goal node ... As A* traverses the graph, it builds up a tree of partial paths.", 
+            "htmlSnippet": "A* uses a best-first <b>search</b> and finds a least-cost path from a given initial node to <br>\none goal node ... As A* traverses the graph, it builds up a <b>tree</b> of partial paths.", 
+            "link": "https://en.wikipedia.org/wiki/A*_search_algorithm", 
+            "cacheId": "YlqnN_QLnKMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Search tree - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Search tree</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Search_tree", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Search</b>_<b>tree</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlS0Xm-KiK0D7q6aIVIgHyhiaTUAV-u58uB_ivWdgCoNunfsexamAsE_8", 
+                        "height": "146"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Binary_search_tree.svg/220px-Binary_search_tree.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "In computer science, a search tree is a tree data structure used for locating \nspecific values from within a set. In order for a tree to function as a search tree, \nthe\u00a0...", 
+            "htmlSnippet": "In computer science, <b>a search tree</b> is a <b>tree</b> data structure used for locating <br>\nspecific values from within a set. In order for a <b>tree</b> to function as <b>a search tree</b>, <br>\nthe&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Search_tree", 
+            "cacheId": "l7WDOXqs81cJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Tree traversal - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Tree</b> traversal - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Tree_traversal", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Tree</b>_traversal", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMPW8TIJqnlvOKNUBZhf7W62EGbhfRSBoJqgI_a_vB_WJle6XrTN7xpn8", 
+                        "height": "150"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Sorted_binary_tree_preorder.svg/220px-Sorted_binary_tree_preorder.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "In computer science, tree traversal (also known as tree search) is a form of graph \ntraversal and refers to the process of visiting (examining and/or updating) each\u00a0...", 
+            "htmlSnippet": "In computer science, tree traversal (also known as <b>tree search</b>) is a form of graph <br>\ntraversal and refers to the process of visiting (examining and/or updating) each&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Tree_traversal", 
+            "cacheId": "BOGFRf8V_ysJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Binary search tree - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Binary <b>search tree</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Binary_search_tree", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Binary_<b>search</b>_<b>tree</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "160", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTnLIcOEBVEvzDSj028pdrlWii9bLhQ2IeVq9YZbaxtstuBjF1PFa5bhu4", 
+                        "height": "133"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Binary_search_tree.svg/200px-Binary_search_tree.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "Several variants of the binary search tree have been studied in computer science\n; this article deals primarily with the basic type, making references to more\u00a0...", 
+            "htmlSnippet": "Several variants of the binary <b>search tree</b> have been studied in computer science<br>\n; this article deals primarily with the basic type, making references to more&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Binary_search_tree", 
+            "cacheId": "t3LqHv2db0wJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Depth-first search - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Depth-first <b>search</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Depth-first_search", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Depth-first_<b>search</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "240", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAHyH6tRbpBEVFpm5MeihoL88S61Mw7Kg-XrNxgtDI-r8ly0ihddDd0ouA", 
+                        "height": "153"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Depth-first-tree.svg/300px-Depth-first-tree.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "Depth-first search (DFS) is an algorithm for traversing or searching tree or graph \ndata structures. One starts at the root (selecting some arbitrary node as the root\u00a0...", 
+            "htmlSnippet": "Depth-first <b>search</b> (DFS) is an algorithm for traversing or <b>searching tree</b> or graph <br>\ndata structures. One starts at the root (selecting some arbitrary node as the root&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Depth-first_search", 
+            "cacheId": "CMEdqxvhPk0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Tree (data structure) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Tree</b> (data structure) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Tree_(data_structure)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Tree</b>_(data_structure)", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT1rL56hRbypSKTNEgTEkCreqSbWExU_CwJGHCl80U9MOpOmbLKbZOKhOc", 
+                        "height": "146"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Binary_tree.svg/220px-Binary_tree.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "A tree that is not empty consists of a root node and potentially many levels of ..... \nEnumerating all the items; Enumerating a section of a tree; Searching for an item\n\u00a0...", 
+            "htmlSnippet": "A <b>tree</b> that is not empty consists of a root node and potentially many levels of ..... <br>\nEnumerating all the items; Enumerating a section of a <b>tree</b>; <b>Searching</b> for an item<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Tree_(data_structure)", 
+            "cacheId": "bGjq5Zzx9tAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Self-balancing binary search tree - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Self-balancing binary <b>search tree</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Self-balancing_binary_search_tree", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Self-balancing_binary_<b>search</b>_<b>tree</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "200", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSuEhMCvAhPGMFlJ1JJumOMVpYued2ABSO_8X3ihZ_hyIxVFRbo04kNPqM", 
+                        "height": "200"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Unbalanced_binary_tree.svg/251px-Unbalanced_binary_tree.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "In computer science, a self-balancing (or height-balanced) binary search tree is \nany node-based binary search tree that automatically keeps its height (maximal\u00a0...", 
+            "htmlSnippet": "In computer science, a self-balancing (or height-balanced) binary <b>search tree</b> is <br>\nany node-based binary <b>search tree</b> that automatically keeps its height (maximal&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Self-balancing_binary_search_tree", 
+            "cacheId": "Lvk38SyMqlEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Monte Carlo tree search - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Monte Carlo <b>tree search</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Monte_Carlo_tree_search", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Monte_Carlo_<b>tree</b>_<b>search</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "389", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTn48osI6nHNck_NaNzqAXkxIop0iKEMKWO1SxyuXNHSHnbigTMbHK6DKI", 
+                        "height": "130"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/MCTS_(English).svg/808px-MCTS_(English).svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "In computer science, Monte Carlo tree search (MCTS) is a heuristic search \nalgorithm of making decisions in some decision processes, most notably \nemployed in\u00a0...", 
+            "htmlSnippet": "In computer science, Monte Carlo <b>tree search</b> (MCTS) is a heuristic search <br>\nalgorithm of making decisions in some decision processes, most notably <br>\nemployed in&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Monte_Carlo_tree_search", 
+            "cacheId": "n6nEVzpvf5YJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Breadth-first search - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Breadth-first <b>search</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Breadth-first_search", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Breadth-first_<b>search</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "240", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSQLOoYuxzr5X74q9M9vGXyQJRtsTtmzh8TX45RZgGlXCuKA__-PgY-t88_", 
+                        "height": "153"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Breadth-first-tree.svg/300px-Breadth-first-tree.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "Breadth-first search (BFS) is an algorithm for traversing or searching tree or \ngraph data structures. It starts at the tree root (or some arbitrary node of a graph,\u00a0...", 
+            "htmlSnippet": "Breadth-first <b>search</b> (BFS) is an algorithm for traversing or <b>searching tree</b> or <br>\ngraph data structures. It starts at the <b>tree</b> root (or some arbitrary node of a graph,&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Breadth-first_search", 
+            "cacheId": "jEQeW6JwIN4J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Ternary search tree - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Ternary <b>search tree</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Ternary_search_tree", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Ternary_<b>search</b>_<b>tree</b>", 
+            "snippet": "In computer science, a ternary search tree is a type of trie (sometimes called a \nprefix tree) where nodes are arranged in a manner similar to a binary search tree,\n\u00a0...", 
+            "htmlSnippet": "In computer science, a ternary <b>search tree</b> is a type of trie (sometimes called <b>a</b> <br>\n<b>prefix tree</b>) where nodes are arranged in a manner similar to a binary <b>search tree</b>,<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Ternary_search_tree", 
+            "cacheId": "MiGpjmPkEHMJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - A* tree search", 
+                "safe": "off", 
+                "searchTerms": "A* tree search", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "13700000"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - A* tree search", 
+                "safe": "off", 
+                "searchTerms": "A* tree search", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "13700000"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.33", 
+        "formattedTotalResults": "13,700,000", 
+        "totalResults": "13700000", 
+        "searchTime": 0.328692
+    }
+}

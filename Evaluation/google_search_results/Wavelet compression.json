@@ -1,3 +1,222 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:548503f53f7208612963531cf2011d0e7c4fabbdf474238401f889a253533f56
-size 14337
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Wavelet transform - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Wavelet</b> transform - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Wavelet_transform", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Wavelet</b>_transform", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "225", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd5dWf4WMl0D6WvcG4q06Y7mmkfagV9QcsVMJysOVhg7jjySSVTFASYzDX", 
+                        "height": "225"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Jpeg2000_2-level_wavelet_transform-lichtenstein.png/300px-Jpeg2000_2-level_wavelet_transform-lichtenstein.png"
+                    }
+                ]
+            }, 
+            "snippet": "[edit]. Wavelet compression is a form of data compression well suited for image \ncompression (sometimes also video\u00a0...", 
+            "htmlSnippet": "[edit]. <b>Wavelet compression</b> is a form of data compression well suited for image <br>\ncompression (sometimes also video&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Wavelet_transform", 
+            "cacheId": "Snuq5A1SvIAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "ECW (file format) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "ECW (file format) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/ECW_(file_format)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/ECW_(file_format)", 
+            "snippet": "ECW (Enhanced Compression Wavelet) is a proprietary wavelet compression \nimage format optimized for aerial and satellite imagery. It was developed by Earth\n\u00a0...", 
+            "htmlSnippet": "ECW (Enhanced Compression Wavelet) is a proprietary <b>wavelet compression</b> <br>\nimage format optimized for aerial and satellite imagery. It was developed by Earth<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/ECW_(file_format)", 
+            "cacheId": "3q16cZuCtTcJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "JPEG 2000 - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "JPEG 2000 - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/JPEG_2000", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/JPEG_2000", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "232", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRobikoDVZ1zlp6GOLRKQSWJJL_OF6rsm2sDnh2bt3n8pYiyGRnTn7V9rc2", 
+                        "height": "217"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/JPEG_JFIF_and_2000_Comparison.png/300px-JPEG_JFIF_and_2000_Comparison.png"
+                    }
+                ]
+            }, 
+            "snippet": "JPEG 2000 (JP2) is an image compression standard and coding system. It was ... \nLossless compression is provided by the use of a reversible integer wavelet\u00a0...", 
+            "htmlSnippet": "JPEG 2000 (JP2) is an image <b>compression</b> standard and coding system. It was ... <br>\nLossless <b>compression</b> is provided by the use of a reversible integer <b>wavelet</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/JPEG_2000", 
+            "cacheId": "hpzItFwNqaIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Wavelet - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Wavelet</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Wavelet", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Wavelet</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "167", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTgcQtLd2SdVTKlGipXGuCtTRsZlWm1pTTfcYA_wx_XV9CGVv9l9f3oJ0s", 
+                        "height": "301"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Seismic_Wavelet.jpg/220px-Seismic_Wavelet.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "Thus, sets of complementary wavelets are useful in wavelet based compression/\ndecompression algorithms where it is desirable to recover the original\u00a0...", 
+            "htmlSnippet": "Thus, sets of complementary <b>wavelets</b> are useful in <b>wavelet</b> based <b>compression</b>/<br>\ndecompression algorithms where it is desirable to recover the original&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Wavelet", 
+            "cacheId": "nOSCVgGmz_wJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Discrete wavelet transform - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Discrete <b>wavelet</b> transform - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Discrete_wavelet_transform", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Discrete_<b>wavelet</b>_transform", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "225", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd5dWf4WMl0D6WvcG4q06Y7mmkfagV9QcsVMJysOVhg7jjySSVTFASYzDX", 
+                        "height": "225"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Jpeg2000_2-level_wavelet_transform-lichtenstein.png/300px-Jpeg2000_2-level_wavelet_transform-lichtenstein.png"
+                    }
+                ]
+            }, 
+            "snippet": "An example of the 2D discrete wavelet transform that is used in JPEG2000. ... \nsignal in a more redundant form, often as a preconditioning for data compression.", 
+            "htmlSnippet": "An example of the 2D discrete <b>wavelet</b> transform that is used in JPEG2000. ... <br>\nsignal in a more redundant form, often as a preconditioning for data <b>compression</b>.", 
+            "link": "https://en.wikipedia.org/wiki/Discrete_wavelet_transform", 
+            "cacheId": "a4UrhPoYNWYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Dirac (video compression format) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Dirac (video <b>compression</b> format) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Dirac_(video_compression_format)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Dirac_(video_<b>compression</b>_format)", 
+            "snippet": "Dirac employs wavelet compression, like the JPEG 2000 and PGF image formats \nand the Cineform professional video codec, instead of the discrete cosine\u00a0...", 
+            "htmlSnippet": "Dirac employs <b>wavelet compression</b>, like the JPEG 2000 and PGF image formats <br>\nand the Cineform professional video codec, instead of the discrete cosine&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Dirac_(video_compression_format)", 
+            "cacheId": "tvcMCW7_2cwJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Embedded Zerotrees of Wavelet transforms - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Embedded Zerotrees of <b>Wavelet</b> transforms - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../Embedded_Zerotrees_of_Wavelet_transforms", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Embedded_Zerotrees_of_<b>Wavelet</b>_transforms", 
+            "snippet": "Embedded Zerotrees of Wavelet transforms (EZW) is a lossy image compression \nalgorithm. At low bit rates, i.e. high compression ratios, most of the coefficients\u00a0...", 
+            "htmlSnippet": "Embedded Zerotrees of <b>Wavelet</b> transforms (EZW) is a lossy image <b>compression</b> <br>\nalgorithm. At low bit rates, i.e. high <b>compression</b> ratios, most of the coefficients&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Embedded_Zerotrees_of_Wavelet_transforms", 
+            "cacheId": "5p8CFg9oDFMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "OpenEXR - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "OpenEXR - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/OpenEXR", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/OpenEXR", 
+            "snippet": "This tends to be the most effective style of compression to use with rendered \nimages that do not have film grain applied. PIZ (wavelet compression): This uses \na\u00a0...", 
+            "htmlSnippet": "This tends to be the most effective style of compression to use with rendered <br>\nimages that do not have film grain applied. PIZ (<b>wavelet compression</b>): This uses <br>\na&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/OpenEXR", 
+            "cacheId": "_DsPgMORcOoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Wavelet scalar quantization - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Wavelet</b> scalar quantization - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Wavelet_scalar_quantization", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Wavelet</b>_scalar_quantization", 
+            "snippet": "The Wavelet Scalar Quantization algorithm (WSQ) is a compression algorithm \nused for gray-scale fingerprint images. It is based on wavelet theory and has\u00a0...", 
+            "htmlSnippet": "The <b>Wavelet</b> Scalar Quantization algorithm (WSQ) is a <b>compression</b> algorithm <br>\nused for gray-scale fingerprint images. It is based on <b>wavelet</b> theory and has&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Wavelet_scalar_quantization", 
+            "cacheId": "2oCpjGgF7KcJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Wavelet compression - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Wavelet compression</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3AWavelet_compression", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>Wavelet</b>_<b>compression</b>", 
+            "snippet": "\"This produces as many coefficients as there are pixels...\". This statement doesn't \nseem to be correct. A wavelet transform can produce any amount of\u00a0...", 
+            "htmlSnippet": "&quot;This produces as many coefficients as there are pixels...&quot;. This statement doesn&#39;t <br>\nseem to be correct. A <b>wavelet</b> transform can produce any amount of&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3AWavelet_compression", 
+            "cacheId": "Ky9FJYgAcwoJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Wavelet compression", 
+                "safe": "off", 
+                "searchTerms": "Wavelet compression", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "565"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Wavelet compression", 
+                "safe": "off", 
+                "searchTerms": "Wavelet compression", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "565"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.23", 
+        "formattedTotalResults": "565", 
+        "totalResults": "565", 
+        "searchTime": 0.228514
+    }
+}

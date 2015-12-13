@@ -1,3 +1,208 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3b878683d6aa2cf9ba45c92373ee669e5798e7b1219e078e54c5fba358fc2117
-size 14081
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Graph canonization - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Graph canonization</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Graph_canonization", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Graph</b>_<b>canonization</b>", 
+            "snippet": "In graph theory, a branch of mathematics, graph canonization is the problem \nfinding a canonical form of a given graph G. A canonical form is a labeled graph\u00a0...", 
+            "htmlSnippet": "In graph theory, a branch of mathematics, <b>graph canonization</b> is the problem <br>\nfinding a canonical form of a given graph G. A canonical form is a labeled graph&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Graph_canonization", 
+            "cacheId": "sMwTFoxvmwMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Graph canonization - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Graph canonization</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3AGraph_canonization", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>Graph</b>_<b>canonization</b>", 
+            "snippet": "I just undid the move from \"graph canonization\" to \"graph canonicalization\" \nperformed by Blaisorblade (talk \u00b7 contribs), who left a speedy deletion tag for an\u00a0...", 
+            "htmlSnippet": "I just undid the move from &quot;<b>graph canonization</b>&quot; to &quot;graph canonicalization&quot; <br>\nperformed by Blaisorblade (talk \u00b7 contribs), who left a speedy deletion tag for an&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3AGraph_canonization", 
+            "cacheId": "aGa906Q2iFkJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Canonical form - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Canonical form - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Canonical_form", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Canonical_form", 
+            "snippet": "... systems; 2.12 Lambda calculus; 2.13 Dynamical systems; 2.14 Graph theory; \n2.15 Differential forms; 2.16 Computing .... Main article: Graph canonization\u00a0...", 
+            "htmlSnippet": "... systems; 2.12 Lambda calculus; 2.13 Dynamical systems; 2.14 Graph theory; <br>\n2.15 Differential forms; 2.16 Computing .... Main article: <b>Graph canonization</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Canonical_form", 
+            "cacheId": "YSk8MEtwZlQJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Graph isomorphism problem - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Graph</b> isomorphism problem - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Graph_isomorphism_problem", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Graph</b>_isomorphism_problem", 
+            "snippet": "Chemical database search is an example of graphical data mining, where the \ngraph canonization approach is often used. In particular, a number of identifiers \nfor\u00a0...", 
+            "htmlSnippet": "Chemical database search is an example of graphical data mining, where the <br>\n<b>graph canonization</b> approach is often used. In particular, a number of identifiers <br>\nfor&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Graph_isomorphism_problem", 
+            "cacheId": "sHvxtSf8F0AJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Graph isomorphism problem - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Graph</b> isomorphism problem - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3AGraph_isomorphism_problem", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>Graph</b>_isomorphism_problem", 
+            "snippet": "\"Adding more information on molecular databases would degrade this article\" -- \nonly graph canonization approach is noted for chemistry in this section, it is\u00a0...", 
+            "htmlSnippet": "&quot;Adding more information on molecular databases would degrade this article&quot; -- <br>\nonly <b>graph canonization</b> approach is noted for chemistry in this section, it is&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3AGraph_isomorphism_problem", 
+            "cacheId": "2Dk6Szdfz_4J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Graph isomorphism - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Graph</b> isomorphism - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Graph_isomorphism", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Graph</b>_isomorphism", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "168", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9OVMVHLe1O9D4qi1zdV3fqQu8h1OVHaTPM02U2BuWRFW4-ZqiwlxSm1Wk", 
+                        "height": "168"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Graph_isomorphism_b.svg/210px-Graph_isomorphism_b.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "In graph theory, an isomorphism of graphs G and H is a bijection between the .... \nGraph homomorphism \u00b7 Graph automorphism problem \u00b7 Graph canonization\u00a0...", 
+            "htmlSnippet": "In graph theory, an isomorphism of graphs G and H is a bijection between the .... <br>\nGraph homomorphism &middot; Graph automorphism problem &middot; <b>Graph canonization</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Graph_isomorphism", 
+            "cacheId": "AUtU2y0IdqgJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "User:QuickHare/Books/Network and Graph Theory - Wikipedia, the ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "User:QuickHare/Books/Network and <b>Graph</b> Theory - Wikipedia, the <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/User.../Network_and_Graph_Theory", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/User.../Network_and_<b>Graph</b>_Theory", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "100", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSEQsHsPTHmDHChYL3z_imtgm1b5jsx45tEx5q2BZ0vekbdrKPKxpP-", 
+                        "height": "83"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Weighted_K4.svg/125px-Weighted_K4.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "User:QuickHare/Books/Network and Graph Theory ... equation \u00b7 Graph property \u00b7 \nGraph algebra \u00b7 Graph bandwidth \u00b7 Graph canonization \u00b7 Graph factorization\u00a0...", 
+            "htmlSnippet": "User:QuickHare/Books/Network and Graph Theory ... equation &middot; Graph property &middot; <br>\nGraph algebra &middot; Graph bandwidth &middot; <b>Graph canonization</b> &middot; Graph factorization&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/User:QuickHare/Books/Network_and_Graph_Theory", 
+            "cacheId": "_ltxcaTeIsAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Logic of graphs - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Logic of <b>graphs</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Logic_of_graphs", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Logic_of_<b>graphs</b>", 
+            "snippet": "In the mathematical fields of graph theory and finite model theory, the logic of .... a \ngraph canonization in polynomial time (with the exponent of the polynomial\u00a0...", 
+            "htmlSnippet": "In the mathematical fields of graph theory and finite model theory, the logic of .... a <br>\n<b>graph canonization</b> in polynomial time (with the exponent of the polynomial&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Logic_of_graphs", 
+            "cacheId": "bT2g6gmTUAQJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Book:Graph Algorithms - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Book:<b>Graph</b> Algorithms - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Book:Graph_Algorithms", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Book:<b>Graph</b>_Algorithms", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "100", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRCMmu7RZdfYXVq3agCN7sEmTTGtDiAnh0yih8exwvCjp7eBWsTsxWJ", 
+                        "height": "65"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Cube-maximal-independence.svg/125px-Cube-maximal-independence.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "Book:Graph Algorithms ... isomorphism: Graph isomorphism \u00b7 Graph isomorphism \nproblem \u00b7 Graph canonization \u00b7 Subgraph isomorphism problem \u00b7 Color-coding\u00a0...", 
+            "htmlSnippet": "Book:Graph Algorithms ... isomorphism: Graph isomorphism &middot; Graph isomorphism <br>\nproblem &middot; <b>Graph canonization</b> &middot; Subgraph isomorphism problem &middot; Color-coding&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Book:Graph_Algorithms", 
+            "cacheId": "lSSDWnbNJbIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "User:Manoj kumar regar/Books/Algorithms - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "User:Manoj kumar regar/Books/Algorithms - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/User:Manoj_kumar.../Algorithms", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/User:Manoj_kumar.../Algorithms", 
+            "snippet": "... (mathematics) \u00b7 Graph algebra \u00b7 Graph canonization \u00b7 Graph dynamical system \n\u00b7 Graph equation \u00b7 Graph factorization \u00b7 Graph homomorphism \u00b7 Graph property\u00a0...", 
+            "htmlSnippet": "... (mathematics) &middot; Graph algebra &middot; <b>Graph canonization</b> &middot; Graph dynamical system <br>\n&middot; Graph equation &middot; Graph factorization &middot; Graph homomorphism &middot; Graph property&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/User:Manoj_kumar_regar/Books/Algorithms", 
+            "cacheId": "AQNpcJA5SNIJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Graph canonization", 
+                "safe": "off", 
+                "searchTerms": "Graph canonization", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "97"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Graph canonization", 
+                "safe": "off", 
+                "searchTerms": "Graph canonization", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "97"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.24", 
+        "formattedTotalResults": "97", 
+        "totalResults": "97", 
+        "searchTime": 0.240586
+    }
+}

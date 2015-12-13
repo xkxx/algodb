@@ -1,3 +1,243 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4b1e487de0b768dd530bac5743e45e6b9c77798bd054a12ada9d30b804bb726c
-size 15386
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Bellman\u2013Ford algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Bellman</b>\u2013<b>Ford</b> algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Bellman\u2013Ford_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Bellman</b>\u2013<b>Ford</b>_algorithm", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVLoDrUYBsjQddwnoIkU2ja9Kk9Qq0nsiybgYQcDEMMEvBx3h_vZAlVvw", 
+                        "height": "188"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Bellman-Ford_worst-case_example.svg/220px-Bellman-Ford_worst-case_example.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "The Bellman\u2013Ford algorithm is an algorithm that computes shortest paths from a \nsingle source vertex to all of the other vertices in a weighted digraph. It is slower\u00a0...", 
+            "htmlSnippet": "The <b>Bellman</b>\u2013<b>Ford</b> algorithm is an algorithm that computes shortest paths from a <br>\nsingle source vertex to all of the other vertices in a weighted digraph. It is slower&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Bellman%E2%80%93Ford_algorithm", 
+            "cacheId": "HGn7_oMfMCkJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Richard E. Bellman - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Richard E. <b>Bellman</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Richard_E._Bellman", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Richard_E._<b>Bellman</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTGZKCHu8AIR90fpt-Kkq58Qgm0nPlzNABIduvg5RgXMLVtCSnlW1TlFh4", 
+                        "height": "220"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Richard_Ernest_Bellman.jpg/220px-Richard_Ernest_Bellman.jpg"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "bday": "1920-08-26", 
+                        "category": "Mathematics and Control theory", 
+                        "fn": "Richard E. Bellman"
+                    }
+                ]
+            }, 
+            "snippet": "[edit]. Though discovering the algorithm after Ford he is referred to in the Bellman\n\u2013Ford algorithm, also\u00a0...", 
+            "htmlSnippet": "[edit]. Though discovering the algorithm after Ford he is referred to in the <b>Bellman</b><br>\n\u2013<b>Ford</b> algorithm, also&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Richard_E._Bellman", 
+            "cacheId": "4EZ48TKFEQEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Bellman\u2013Ford algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Bellman</b>\u2013<b>Ford</b> algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3ABellman-Ford_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>Bellman</b>-<b>Ford</b>_algorithm", 
+            "snippet": "From what I understand, there may be many more than a single shortest path (\nthink of two equal routes), and Bellman-Ford is guaranteed to find one of them.", 
+            "htmlSnippet": "From what I understand, there may be many more than a single shortest path (<br>\nthink of two equal routes), and <b>Bellman</b>-<b>Ford</b> is guaranteed to find one of them.", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3ABellman-Ford_algorithm", 
+            "cacheId": "e_C3TO-8LDsJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Distance-vector routing protocol - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Distance-vector routing protocol - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Distance-vector_routing_protocol", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Distance-vector_routing_protocol", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "200", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTuDYc0HR2GYhWLuR6sb0CdNRXP8dUYIDhot3ba2mkH0uusweQE2ptmlRbZ", 
+                        "height": "219"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Networkabcd.svg/250px-Networkabcd.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "The Bellman\u2013Ford algorithm does not prevent routing loops from happening and \nsuffers from the count-to-infinity problem. The core of the count-to-infinity\u00a0...", 
+            "htmlSnippet": "The <b>Bellman</b>\u2013<b>Ford</b> algorithm does not prevent routing loops from happening and <br>\nsuffers from the count-to-infinity problem. The core of the count-to-infinity&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Distance-vector_routing_protocol", 
+            "cacheId": "aYs0mTraiEsJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Johnson's algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Johnson&#39;s algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Johnson's_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Johnson&#39;s_algorithm", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "356", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRppIqUlwvK2X665YuLuxwuH2rt-ypW16tG1QADFoqvbfFyfKnxty3h074", 
+                        "height": "141"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Johnson's_algorithm.svg/540px-Johnson's_algorithm.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "It works by using the Bellman\u2013Ford algorithm to compute a transformation of the \ninput graph that removes all negative weights, allowing Dijkstra's algorithm to be\n\u00a0...", 
+            "htmlSnippet": "It works by using the <b>Bellman</b>\u2013<b>Ford</b> algorithm to compute a transformation of the <br>\ninput graph that removes all negative weights, allowing Dijkstra&#39;s algorithm to be<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Johnson's_algorithm", 
+            "cacheId": "9QlkuiRAO10J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Shortest Path Faster Algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Shortest Path Faster Algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Shortest_Path_Faster_Algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Shortest_Path_Faster_Algorithm", 
+            "snippet": "The Shortest Path Faster Algorithm (SPFA) is an improvement of the Bellman\u2013\nFord algorithm which computes single-source shortest paths in a weighted\u00a0...", 
+            "htmlSnippet": "The Shortest Path Faster Algorithm (SPFA) is an improvement of the <b>Bellman</b>\u2013<br>\n<b>Ford</b> algorithm which computes single-source shortest paths in a weighted&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Shortest_Path_Faster_Algorithm", 
+            "cacheId": "85hbVed6UN8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "L. R. Ford, Jr. - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "L. R. <b>Ford</b>, Jr. - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/L._R._Ford,_Jr.", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/L._R._<b>Ford</b>,_Jr.", 
+            "snippet": "Lester Randolph Ford, Jr. (born September 23, 1927, Houston) is an American ... \nFord also developed the Bellman\u2013Ford algorithm for finding shortest paths in\u00a0...", 
+            "htmlSnippet": "Lester Randolph Ford, Jr. (born September 23, 1927, Houston) is an American ... <br>\nFord also developed the <b>Bellman</b>\u2013<b>Ford</b> algorithm for finding shortest paths in&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/L._R._Ford,_Jr.", 
+            "cacheId": "qfK_FZoHAOUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Diffusing update algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Diffusing update algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Diffusing_update_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Diffusing_update_algorithm", 
+            "snippet": "... that all traces of the problematic route are eliminated from the network. At \nwhich point the normal Bellman\u2013Ford algorithm is used to recover a new route.", 
+            "htmlSnippet": "... that all traces of the problematic route are eliminated from the network. At <br>\nwhich point the normal <b>Bellman</b>\u2013<b>Ford</b> algorithm is used to recover a new route.", 
+            "link": "https://en.wikipedia.org/wiki/Diffusing_update_algorithm", 
+            "cacheId": "H2jLsN17m9gJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Shortest path problem - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Shortest path problem - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Shortest_path_problem", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Shortest_path_problem", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQMpn1Rnz_E4TtCgOuILOpwSyXinNPw4gekHR0GUm8Oza4RCm6jgv6527Y", 
+                        "height": "116"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/6n-graf.svg/220px-6n-graf.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "Dijkstra's algorithm solves the single-source shortest path problem. Bellman\u2013\nFord algorithm solves the single-source problem if edge weights may be negative\n.", 
+            "htmlSnippet": "Dijkstra&#39;s algorithm solves the single-source shortest path problem. <b>Bellman</b>\u2013<br>\n<b>Ford</b> algorithm solves the single-source problem if edge weights may be negative<br>\n.", 
+            "link": "https://en.wikipedia.org/wiki/Shortest_path_problem", 
+            "cacheId": "p8nrvK-HScMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Category:Polynomial-time problems - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Category:Polynomial-time problems - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Category:Polynomial-time_problems", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Category:Polynomial-time_problems", 
+            "snippet": "This list may not reflect recent changes (learn more). 3. 3SUM. A. Assignment \nproblem. B. Bellman\u2013Ford algorithm. E. Edge cover \u00b7 Element distinctness \nproblem\u00a0...", 
+            "htmlSnippet": "This list may not reflect recent changes (learn more). 3. 3SUM. A. Assignment <br>\nproblem. B. <b>Bellman</b>\u2013<b>Ford</b> algorithm. E. Edge cover &middot; Element distinctness <br>\nproblem&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Category:Polynomial-time_problems", 
+            "cacheId": "z8hdnXzof7YJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Bellman-Ford", 
+                "safe": "off", 
+                "searchTerms": "Bellman-Ford", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "422"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Bellman-Ford", 
+                "safe": "off", 
+                "searchTerms": "Bellman-Ford", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "422"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.26", 
+        "formattedTotalResults": "422", 
+        "totalResults": "422", 
+        "searchTime": 0.261331
+    }
+}

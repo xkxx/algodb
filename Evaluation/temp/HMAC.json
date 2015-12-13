@@ -1,0 +1,9 @@
+{
+    "HMAC": [
+        "https://en.wikipedia.org/.../Hash-based_message_authentication_code", 
+        "https://en.wikipedia.org/.../HMAC-based_One-time_Password_Algorithm", 
+        "https://en.wikipedia.org/wiki/Message_authentication_code", 
+        "https://en.wikipedia.org/wiki/Length_extension_attack", 
+        "https://en.wikipedia.org/wiki/SHA-2"
+    ]
+}

@@ -1,3 +1,236 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:debf228a35e73170a0a9f0705423fdd89bc8135b85e1d49829fb8ac73bb0618d
-size 15267
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Triangulation - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Triangulation</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Triangulation", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Triangulation</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpwYm2jLSGbsSFs2HSbjWp0rMmZbXPAKw6rHOL_PUuK6T6Xb-eeGO1sE8", 
+                        "height": "264"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Theb1604_-_Flickr_-_NOAA_Photo_Library.jpg/220px-Theb1604_-_Flickr_-_NOAA_Photo_Library.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "In trigonometry and geometry, triangulation is the process of determining the \nlocation of a point by measuring angles to it from known points at either end of a\u00a0...", 
+            "htmlSnippet": "In trigonometry and geometry, <b>triangulation</b> is the process of determining the <br>\nlocation of a point by measuring angles to it from known points at either end of a&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Triangulation", 
+            "cacheId": "B3uMzPAxLEUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Triangulation (politics) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Triangulation</b> (politics) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Triangulation_(politics)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Triangulation</b>_(politics)", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "201", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcShITpS7R8r4WDSPuHb-XPxVIh6nMIplqkfB9Y7C3t0G49cQGh5RYIOOkQ", 
+                        "height": "251"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Conceptual_diagram_of_political_triangulation.png/300px-Conceptual_diagram_of_political_triangulation.png"
+                    }
+                ]
+            }, 
+            "snippet": "Triangulation is the term given to the act of a political candidate presenting their \nideology as being above or between the left and right sides (or \"wings\") of a\u00a0...", 
+            "htmlSnippet": "<b>Triangulation</b> is the term given to the act of a political candidate presenting their <br>\nideology as being above or between the left and right sides (or &quot;wings&quot;) of a&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Triangulation_(politics)", 
+            "cacheId": "dnHgyyFkjEMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Triangulation (psychology) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Triangulation</b> (psychology) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Triangulation_(psychology)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Triangulation</b>_(psychology)", 
+            "snippet": "Triangulation is a situation in which one family member will not communicate \ndirectly with another family member, but will communicate with a third family\u00a0...", 
+            "htmlSnippet": "<b>Triangulation</b> is a situation in which one family member will not communicate <br>\ndirectly with another family member, but will communicate with a third family&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Triangulation_(psychology)", 
+            "cacheId": "Ss9Y2LyGuXEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Triangulation (social science) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Triangulation</b> (social science) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Triangulation_(social_science)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Triangulation</b>_(social_science)", 
+            "snippet": "In the social sciences, triangulation is often used to indicate that two (or more) \nmethods are used in a study in order to check the results of one and the same\u00a0...", 
+            "htmlSnippet": "In the social sciences, <b>triangulation</b> is often used to indicate that two (or more) <br>\nmethods are used in a study in order to check the results of one and the same&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Triangulation_(social_science)", 
+            "cacheId": "n0PJEngkzDkJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Triangulation (geometry) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Triangulation</b> (geometry) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Triangulation_(geometry)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Triangulation</b>_(geometry)", 
+            "snippet": "In geometry, a triangulation of a planar object is a subdivision into triangles, and \nby extension the subdivision of higher-dimension geometric objects into\u00a0...", 
+            "htmlSnippet": "In geometry, a <b>triangulation</b> of a planar object is a subdivision into triangles, and <br>\nby extension the subdivision of higher-dimension geometric objects into&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Triangulation_(geometry)", 
+            "cacheId": "bxttbGj7ZjkJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Triangulation (topology) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Triangulation</b> (topology) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Triangulation_(topology)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Triangulation</b>_(topology)", 
+            "snippet": "Triangulation is useful in determining the properties of a topological space. For \nexample, one can compute homology and cohomology groups of a triangulated\u00a0...", 
+            "htmlSnippet": "<b>Triangulation</b> is useful in determining the properties of a topological space. For <br>\nexample, one can compute homology and cohomology groups of a triangulated&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Triangulation_(topology)", 
+            "cacheId": "d-C0hfpeYfIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Delaunay triangulation - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Delaunay <b>triangulation</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Delaunay_triangulation", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Delaunay_<b>triangulation</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "224", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTYd71tCGx5jXkMTuNXZhGFYw4yWaRmOQmTqI1Fkvqo0MjIh4_5xq5v2Wua", 
+                        "height": "224"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Delaunay_circumcircles_vectorial.svg/280px-Delaunay_circumcircles_vectorial.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "In mathematics and computational geometry, a Delaunay triangulation for a set P \nof points in a plane is a triangulation DT(P) such that no point in P is inside the\u00a0...", 
+            "htmlSnippet": "In mathematics and computational geometry, a Delaunay <b>triangulation</b> for a set P <br>\nof points in a plane is a <b>triangulation</b> DT(P) such that no point in P is inside the&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Delaunay_triangulation", 
+            "cacheId": "H3Gzi918NvEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Polygon triangulation - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Polygon <b>triangulation</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Polygon_triangulation", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Polygon_<b>triangulation</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTbN6HSKBECa-A1ieY9Am6wzzh4gahlhFEdRiCI_9635mC1e9vVEz8EIg", 
+                        "height": "122"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Polygon-ear.png/220px-Polygon-ear.png"
+                    }
+                ]
+            }, 
+            "snippet": "In computational geometry, polygon triangulation is the decomposition of a \npolygonal area (simple polygon) P into a set of triangles, i.e., finding a set of \ntriangles\u00a0...", 
+            "htmlSnippet": "In computational geometry, polygon <b>triangulation</b> is the decomposition of a <br>\npolygonal area (simple polygon) P into a set of triangles, i.e., finding a set of <br>\ntriangles&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Polygon_triangulation", 
+            "cacheId": "fYoMUSqsYi0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Triangulation (chess) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Triangulation</b> (chess) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Triangulation_(chess)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Triangulation</b>_(chess)", 
+            "snippet": "Triangulation is a tactic used in chess to put one's opponent in zugzwang. That is, \nit is a tactic, the goal of which is to return to the initial position in such a way\u00a0...", 
+            "htmlSnippet": "<b>Triangulation</b> is a tactic used in chess to put one&#39;s opponent in zugzwang. That is, <br>\nit is a tactic, the goal of which is to return to the initial position in such a way&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Triangulation_(chess)", 
+            "cacheId": "h2nSTZnay9MJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Triangulation (computer vision) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Triangulation</b> (computer vision) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Triangulation_(computer_vision)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Triangulation</b>_(computer_vision)", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "266", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtbw597T9pdGrAvvRMmBCXkrnETqhCdOnIwX991p-xPGwTOVRr4Noye8Gi", 
+                        "height": "190"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/TriangulationIdeal.svg/380px-TriangulationIdeal.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "In computer vision triangulation refers to the process of determining a point in 3D \nspace given its projections onto two, or more, images. In order to solve this\u00a0...", 
+            "htmlSnippet": "In computer vision <b>triangulation</b> refers to the process of determining a point in 3D <br>\nspace given its projections onto two, or more, images. In order to solve this&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Triangulation_(computer_vision)", 
+            "cacheId": "rkFyoEkYDW0J"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Triangulation", 
+                "safe": "off", 
+                "searchTerms": "Triangulation", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "11300"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Triangulation", 
+                "safe": "off", 
+                "searchTerms": "Triangulation", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "11300"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.29", 
+        "formattedTotalResults": "11,300", 
+        "totalResults": "11300", 
+        "searchTime": 0.290343
+    }
+}

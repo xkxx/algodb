@@ -1,3 +1,222 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:462e33111dcf820fa81c6b61970afdbf2f1214ae1b0b191bc927efc3921a8ba4
-size 13907
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "HMAC", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>HMAC</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../Hash-based_message_authentication_code", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Hash-based_message_authentication_code", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "260", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpPldLvJDFBfffho20A9U3BeSx8NxTKaDNf_offPFcng1-cJNzXnR7Of0", 
+                        "height": "194"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/SHAhmac.svg/400px-SHAhmac.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "In cryptography, a keyed-hash message authentication code (HMAC) is a specific \nconstruction for calculating a message authentication code (MAC) involving a\u00a0...", 
+            "htmlSnippet": "In cryptography, a keyed-<b>hash message authentication code</b> (<b>HMAC</b>) is a specific <br>\nconstruction for calculating a message authentication code (MAC) involving a&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Hash-based_message_authentication_code", 
+            "cacheId": "u7R4mcsmlC0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "HMAC-based One-time Password Algorithm - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>HMAC</b>-based One-time Password Algorithm - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../HMAC-based_One-time_Password_Algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../<b>HMAC</b>-based_One-time_Password_Algorithm", 
+            "snippet": "HOTP is an HMAC-based one-time password (OTP) algorithm. It is a ... C)) be an \nHMAC calculated with the SHA-1 cryptographic hash algorithm; Truncate be a\u00a0...", 
+            "htmlSnippet": "HOTP is an <b>HMAC</b>-based one-time password (OTP) algorithm. It is a ... C)) be an <br>\n<b>HMAC</b> calculated with the SHA-1 cryptographic hash algorithm; Truncate be a&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/HMAC-based_One-time_Password_Algorithm", 
+            "cacheId": "Bf8jk0ZvFFMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Message authentication code - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Message authentication code - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Message_authentication_code", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Message_authentication_code", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "286", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTBNr3CQVYnAJAqFyvHwhjMBcZqU94lKm0ODA1TbAUtf1OEPhGKGOstk5w", 
+                        "height": "176"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/MAC.svg/661px-MAC.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "MAC algorithms can be constructed from other cryptographic primitives, such as \ncryptographic hash functions (as in the case of HMAC) or from block cipher\u00a0...", 
+            "htmlSnippet": "MAC algorithms can be constructed from other cryptographic primitives, such as <br>\ncryptographic hash functions (as in the case of <b>HMAC</b>) or from block cipher&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Message_authentication_code", 
+            "cacheId": "6V1vezyKVRwJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Length extension attack - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Length extension attack - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Length_extension_attack", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Length_extension_attack", 
+            "snippet": "Note that since HMAC doesn't use the construction H(key \u2225 message), HMAC \nhashes using susceptible algorithms are not prone to length extension attacks.", 
+            "htmlSnippet": "Note that since <b>HMAC</b> doesn&#39;t use the construction H(key \u2225 message), <b>HMAC</b> <br>\nhashes using susceptible algorithms are not prone to length extension attacks.", 
+            "link": "https://en.wikipedia.org/wiki/Length_extension_attack", 
+            "cacheId": "mJa94V-RYO8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "File:Hmac.png - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "File:<b>Hmac</b>.png - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/File:Hmac.png", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/File:<b>Hmac</b>.png", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "252", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQuuH2AA2M4kinFmw1utAM0VG3jRUdGDDPSKqAjsCdsYDzSS7spZmRvRJft", 
+                        "height": "200"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/3/38/Hmac.png"
+                    }
+                ]
+            }, 
+            "snippet": "No higher resolution available. Hmac.png   (576 \u00d7 459 pixels, file size: 21 KB, \nMIME type: image/png). Open in Media ViewerConfiguration. Illustration of HMAC\n.", 
+            "htmlSnippet": "No higher resolution available. <b>Hmac</b>.png   (576 \u00d7 459 pixels, file size: 21 KB, <br>\nMIME type: image/png). Open in Media ViewerConfiguration. Illustration of <b>HMAC</b><br>\n.", 
+            "link": "https://en.wikipedia.org/wiki/File:Hmac.png", 
+            "cacheId": "qTrmNrxYur0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "PBKDF2 - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "PBKDF2 - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/PBKDF2", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/PBKDF2", 
+            "snippet": "PBKDF2 applies a pseudorandom function, such as a cryptographic hash, cipher, \nor HMAC to the input password or passphrase along with a salt value and\u00a0...", 
+            "htmlSnippet": "PBKDF2 applies a pseudorandom function, such as a cryptographic hash, cipher, <br>\nor <b>HMAC</b> to the input password or passphrase along with a salt value and&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/PBKDF2", 
+            "cacheId": "fyylBgsU2psJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Harrisburg Midtown Arts Center - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Harrisburg Midtown Arts Center</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Harrisburg_Midtown_Arts_Center", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Harrisburg_Midtown_Arts_Center", 
+            "snippet": "The Harrisburg Midtown Arts Center (HMAC) is a multidisciplinary arts and \ncultural center located in Midtown Harrisburg, Pennsylvania. It is located in the\u00a0...", 
+            "htmlSnippet": "The <b>Harrisburg Midtown Arts Center</b> (<b>HMAC</b>) is a multidisciplinary arts and <br>\ncultural center located in Midtown Harrisburg, Pennsylvania. It is located in the&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Harrisburg_Midtown_Arts_Center", 
+            "cacheId": "SSky2i6Jd6QJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Key derivation function - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Key derivation function - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Key_derivation_function", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Key_derivation_function", 
+            "snippet": "The \"HMAC-based Extract-and-Expand Key Derivation Function\" or \"HKDF\" \nspecified in RFC 5869 is a simple HMAC-based KDF, which can be used as a\u00a0...", 
+            "htmlSnippet": "The &quot;<b>HMAC</b>-based Extract-and-Expand Key Derivation Function&quot; or &quot;HKDF&quot; <br>\nspecified in RFC 5869 is a simple <b>HMAC</b>-based KDF, which can be used as a&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Key_derivation_function", 
+            "cacheId": "u0GRI5aTOlAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "SHA-2 - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "SHA-2 - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/SHA-2", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/SHA-2", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "267", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTgsHj5_xnEAH6cREDZb0tB04kyxRhyb9fmL9VBcsTXqbGFtbyzIcGfDEw9", 
+                        "height": "188"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/SHA-2.svg/400px-SHA-2.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "... SHA-3 competition; RFC 3874: A 224-bit One-way Hash Function: SHA-224. \nRFC 6234: US Secure Hash Algorithms SHA and SHA-based HMAC and HKDF.", 
+            "htmlSnippet": "... SHA-3 competition; RFC 3874: A 224-bit One-way Hash Function: SHA-224. <br>\nRFC 6234: US Secure Hash Algorithms SHA and SHA-based <b>HMAC</b> and HKDF.", 
+            "link": "https://en.wikipedia.org/wiki/SHA-2", 
+            "cacheId": "zTYkjX6VqaUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:HMAC/to do - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>HMAC</b>/to do - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3AHMAC/to_do", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>HMAC</b>/to_do", 
+            "snippet": "Describe the actual construction. Describe how the security of HMAC relates to \nthe underlying hash function. Describe the advantages of using HMAC over the\u00a0...", 
+            "htmlSnippet": "Describe the actual construction. Describe how the security of <b>HMAC</b> relates to <br>\nthe underlying hash function. Describe the advantages of using <b>HMAC</b> over the&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3AHMAC/to_do", 
+            "cacheId": "FPvNCK1MjEEJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - HMAC", 
+                "safe": "off", 
+                "searchTerms": "HMAC", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "413"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - HMAC", 
+                "safe": "off", 
+                "searchTerms": "HMAC", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "413"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.25", 
+        "formattedTotalResults": "413", 
+        "totalResults": "413", 
+        "searchTime": 0.250325
+    }
+}

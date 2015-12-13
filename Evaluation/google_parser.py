@@ -1,8 +1,15 @@
 import json
 import os
 import wikipedia
+import urllib
 
 def parse_google():
+    skip_file = os.listdir("temp")
+
+    json_temp_dirs = "temp"
+    if not os.path.exists(json_temp_dirs):
+        os.makedirs(json_temp_dirs)
+
     google_src = "google_search_results"
     google_filtered_data = {}
     filter_outs = ["Category:",
@@ -29,6 +36,9 @@ def parse_google():
                    "(book)",
                    "(pediatrician)"]
     for jsonfile in os.listdir(google_src):
+        if jsonfile in skip_file:
+            continue
+
         print(jsonfile)
         with open(os.path.join(google_src, jsonfile), 'r') as jfp:
             jdata = json.load(jfp)
@@ -50,20 +60,34 @@ def parse_google():
                 continue
 
             # Remaining links: remove entries where the first sentence does not contain "algorithm"
-            wikititle = title[:title.rfind(" - Wikipedia, the free")].strip()
+            formattedURL = result["formattedUrl"]
+            page_name = formattedURL[formattedURL.rfind("/")+1:]
+            page_name = urllib.unquote(page_name.replace("_", " "))
             try:
-                page = wikipedia.page(title=wikititle)
-            except wikipedia.exceptions.DisambiguationError:
+                first_para = wikipedia.summary(page_name)
+            except wikipedia.exceptions.WikipediaException:
                 continue
 
-            first_para = page.content
             if first_para.lower().find("algorithm") == -1:
                 continue
 
-            urls.append(result["formattedUrl"])
-
+            urls.append(formattedURL)
         google_filtered_data[algo_name] = urls
-    return google_filtered_data
+        tempjson = {algo_name: urls}
+
+        with open(os.path.join(json_temp_dirs, jsonfile), "w") as jfp:
+            json.dump(tempjson, jfp, indent=4)
+
+def folder_to_file():
+    jdata = {}
+    for jsonFile in os.listdir("temp"):
+        with open(os.path.join("temp", jsonFile)) as fp:
+            single = json.load(fp)
+        for k, v in single.items():
+            if v:
+                jdata[k] = v
+    return jdata
+
 
 def filter_invalid_search(google_data):
     invalid_names = ["Predictive search",
@@ -95,11 +119,12 @@ def filter_invalid_search(google_data):
     #   Deep Dense Face Detector
     return google_data
 
+
 def run():
-    google_data = parse_google()
+    parse_google()
+    google_data = folder_to_file()
     filtered = filter_invalid_search(google_data)
     with open("google_filtered_results.json", "w") as fp:
         json.dump(filtered, fp, indent=4)
-
 if __name__ == '__main__':
     run()

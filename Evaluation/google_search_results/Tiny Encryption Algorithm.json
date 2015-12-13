@@ -1,3 +1,252 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7f6efce5e662463eeac26898863d8e4fa41958bb86bbffb2b124c47bdb889a16
-size 15159
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Tiny Encryption Algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Tiny Encryption Algorithm</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Tiny_Encryption_Algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Tiny</b>_<b>Encryption</b>_<b>Algorithm</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "184", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTl6fodKf0C-9z6hW7fWuXwzbk4NHAIT4gxcbzXIEzPOtjKIx7FoflIZO5u", 
+                        "height": "274"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/a/a1/TEA_InfoBox_Diagram.png"
+                    }
+                ]
+            }, 
+            "snippet": "TEA operates on two 32-bit unsigned integers (could be derived from a 64-bit \ndata block) and uses a 128-bit key. It has a Feistel structure with a suggested 64\n\u00a0...", 
+            "htmlSnippet": "<b>TEA</b> operates on two 32-bit unsigned integers (could be derived from a 64-bit <br>\ndata block) and uses a 128-bit key. It has a Feistel structure with a suggested 64<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Tiny_Encryption_Algorithm", 
+            "cacheId": "nysgTFq-nGsJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "XTEA - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>XTEA</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/XTEA", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>XTEA</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "183", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTfaCekWa7eECfbT7m6rT8o0GIHiMBbKoW2jLlgLRNNP3u8vga_jmoQ4aI", 
+                        "height": "275"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/XTEA_InfoBox_Diagram.svg/300px-XTEA_InfoBox_Diagram.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "Like TEA, XTEA is a 64-bit block Feistel cipher with a 128-bit key and a \nsuggested 64 .... \"A Cryptanalysis of the Tiny Encryption Algorithm\", Masters \nthesis, The\u00a0...", 
+            "htmlSnippet": "Like TEA, XTEA is a 64-bit block Feistel cipher with a 128-bit key and a <br>\nsuggested 64 .... &quot;A Cryptanalysis of the <b>Tiny Encryption Algorithm</b>&quot;, Masters <br>\nthesis, The&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/XTEA", 
+            "cacheId": "rmtNFn4BXOAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Tea (disambiguation) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Tea</b> (disambiguation) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Tea_(disambiguation)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Tea_(disambiguation)", 
+            "snippet": "Tea or TEA can mean: Tea, a traditional beverage made from steeping the \nprocessed leaves, buds, or twigs of the tea bush (Camellia sinensis) in water.", 
+            "htmlSnippet": "<b>Tea</b> or <b>TEA</b> can mean: <b>Tea</b>, a traditional beverage made from steeping the <br>\nprocessed leaves, buds, or twigs of the <b>tea</b> bush (Camellia sinensis) in water.", 
+            "link": "https://en.wikipedia.org/wiki/Tea_(disambiguation)", 
+            "cacheId": "UgA3F1KWttMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Tiny Encryption Algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Tiny Encryption Algorithm</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3ATiny_Encryption_Algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>Tiny</b>_<b>Encryption</b>_<b>Algorithm</b>", 
+            "snippet": "Talk:Tiny Encryption Algorithm ... void encrypt(unsigned long* v, unsigned long* k\n) { unsigned long delta=0x9e3779b9, sum=0, i; /* a key schedule constant */ for\u00a0...", 
+            "htmlSnippet": "Talk:<b>Tiny Encryption Algorithm</b> ... void encrypt(unsigned long* v, unsigned long* k<br>\n) { unsigned long delta=0x9e3779b9, sum=0, i; /* a key schedule constant */ for&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3ATiny_Encryption_Algorithm", 
+            "cacheId": "4I8jwoAV4j4J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "XXTEA - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "XXTEA - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/XXTEA", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/X<b>XTEA</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "206", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR8HjiKaZufgZ0FD6Ier64nT-jkq37Y04ArkIKYLi0X8u3v9PkNNFNnJ9Cd", 
+                        "height": "244"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Algorithm_diagram_for_XXTEA_cipher.svg/391px-Algorithm_diagram_for_XXTEA_cipher.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "Algorithm diagram for XXTEA cipher.svg ... The original Block TEA applies the \nXTEA round function to each word in the block and combines it additively with its\n\u00a0...", 
+            "htmlSnippet": "<b>Algorithm</b> diagram for XXTEA cipher.svg ... The original Block TEA applies the <br>\n<b>XTEA</b> round function to each word in the block and combines it additively with its<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/XXTEA", 
+            "cacheId": "681HTrQyVW4J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "David Wheeler (British computer scientist) - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "David Wheeler (British computer scientist) - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../David_Wheeler_(British_computer_scientist)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../David_Wheeler_(British_computer_scientist)", 
+            "pagemap": {
+                "hcard": [
+                    {
+                        "bday": "1927-02-09", 
+                        "category": "Computer Science", 
+                        "fn": "David John Wheeler"
+                    }
+                ]
+            }, 
+            "snippet": "In cryptography, he was the designer of WAKE and the co-designer of the TEA \nand XTEA encryption algorithms together with Roger Needham. In 1950, along\u00a0...", 
+            "htmlSnippet": "In cryptography, he was the designer of WAKE and the co-designer of the TEA <br>\nand <b>XTEA encryption algorithms</b> together with Roger Needham. In 1950, along&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/David_Wheeler_(British_computer_scientist)", 
+            "cacheId": "CgPu6maRmOkJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "One-Net - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "One-Net - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/One-Net", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/One-Net", 
+            "snippet": "By default, ONE-NET uses the Extended Tiny Encryption Algorithm (XTEA) \nversion 2 with 32 iterations (XTEA2-32). The ONE-NET protocol provides \nextensions\u00a0...", 
+            "htmlSnippet": "By default, ONE-NET uses the Extended <b>Tiny Encryption Algorithm</b> (XTEA) <br>\nversion 2 with 32 iterations (XTEA2-32). The ONE-NET protocol provides <br>\nextensions&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/One-Net", 
+            "cacheId": "lzibRDqvVtEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "H2 (DBMS) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "H2 (DBMS) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/H2_(DBMS)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/H2_(DBMS)", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "108", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQP-qA061omnC6OOBIUutW1vIehZuYXWByT3KymW_wQBY1c14VJaTjyYg", 
+                        "height": "59"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/a/a1/H2_logo.png"
+                    }
+                ]
+            }, 
+            "snippet": "... of the database are: role based access rights, encryption of the password using \nSHA-256 and data using the AES or the Tiny Encryption Algorithm, XTEA.", 
+            "htmlSnippet": "... of the database are: role based access rights, encryption of the password using <br>\nSHA-256 and data using the AES or the <b>Tiny Encryption Algorithm</b>, XTEA.", 
+            "link": "https://en.wikipedia.org/wiki/H2_(DBMS)", 
+            "cacheId": "rxNd3bLqmXcJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Roger Needham - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Roger Needham - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Roger_Needham", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Roger_Needham", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTYLhCg5guIBjHWocdFve0reyima_uY9Aejy8eivgxsRGSo2_mw2nt36_Y", 
+                        "height": "176"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/7/70/Roger_Needham.jpg/220px-Roger_Needham.jpg"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "bday": "1935-02-09", 
+                        "category": "Computer science", 
+                        "fn": "Roger Needham"
+                    }
+                ]
+            }, 
+            "snippet": "Tiny Encryption Algorithm \u00b7 XTEA. Notable awards, Faraday ... He also \ncodesigned the TEA and XTEA encryption algorithms. He pioneered the \ntechnique of\u00a0...", 
+            "htmlSnippet": "<b>Tiny Encryption Algorithm</b> &middot; XTEA. Notable awards, Faraday ... He also <br>\ncodesigned the TEA and XTEA encryption algorithms. He pioneered the <br>\ntechnique of&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Roger_Needham", 
+            "cacheId": "RmKWvVn3aXoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Treyfer - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Treyfer - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Treyfer", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Treyfer", 
+            "snippet": "Aimed at smart card applications, the algorithm is extremely simple and compact; \nit can be implemented in just 29 bytes of 8051 ... Tiny Encryption Algorithm\u00a0...", 
+            "htmlSnippet": "Aimed at smart card applications, the algorithm is extremely simple and compact; <br>\nit can be implemented in just 29 bytes of 8051 ... <b>Tiny Encryption Algorithm</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Treyfer", 
+            "cacheId": "-tvAVQnJi2sJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Tiny Encryption Algorithm", 
+                "safe": "off", 
+                "searchTerms": "Tiny Encryption Algorithm", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "275"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Tiny Encryption Algorithm", 
+                "safe": "off", 
+                "searchTerms": "Tiny Encryption Algorithm", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "275"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.22", 
+        "formattedTotalResults": "275", 
+        "totalResults": "275", 
+        "searchTime": 0.220585
+    }
+}

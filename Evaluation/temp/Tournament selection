@@ -1,0 +1,10 @@
+{
+    "Tournament selection": [
+        "https://en.wikipedia.org/wiki/Tournament_selection", 
+        "https://en.wikipedia.org/wiki/Fitness_proportionate_selection", 
+        "https://en.wikipedia.org/wiki/Reward-based_selection", 
+        "https://en.wikipedia.org/wiki/Selection_(genetic_algorithm)", 
+        "https://en.wikipedia.org/wiki/Crossover_(genetic_algorithm)", 
+        "https://en.wikipedia.org/wiki/Tournament_sort"
+    ]
+}

@@ -1,3 +1,278 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e4c86d8b510b499ea870b3c697567d7472ae2693337facd196846b8770de3859
-size 16961
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Line segment intersection - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Line segment intersection</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Line_segment_intersection", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Line</b>_<b>segment</b>_<b>intersection</b>", 
+            "snippet": "In computational geometry, the line segment intersection problem supplies a list \nof line segments in the Euclidean plane and asks whether any two of them\u00a0...", 
+            "htmlSnippet": "In computational geometry, the <b>line segment intersection</b> problem supplies a list <br>\nof line segments in the Euclidean plane and asks whether any two of them&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Line_segment_intersection", 
+            "cacheId": "xgMwSNlaxZ8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Bentley\u2013Ottmann algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Bentley\u2013Ottmann algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Bentley\u2013Ottmann_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Bentley\u2013Ottmann_algorithm", 
+            "snippet": "In such a case, L will always intersect the input line segments in a set of points \nwhose vertical ordering changes only at a finite set of discrete events. Thus, the\u00a0...", 
+            "htmlSnippet": "In such a case, L will always <b>intersect</b> the input <b>line segments</b> in a set of points <br>\nwhose vertical ordering changes only at a finite set of discrete events. Thus, the&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Bentley%E2%80%93Ottmann_algorithm", 
+            "cacheId": "DsHySjVJl_sJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Line\u2013line intersection - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Line</b>\u2013<b>line intersection</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Line\u2013line_intersection", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Line</b>\u2013<b>line</b>_<b>intersection</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "305", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdf1QeffuGMHKhC8ja_uqn_nU4YHhWtMnZX3iT15AO-odxyU46J2QPRZQ", 
+                        "height": "165"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Line-Line_Intersection.png/400px-Line-Line_Intersection.png"
+                    }
+                ]
+            }, 
+            "snippet": "Note that the intersection point is for the infinitely long lines defined by the points, \nrather than the line segments between the points, and can produce an\u00a0...", 
+            "htmlSnippet": "Note that the <b>intersection</b> point is for the infinitely long lines defined by the points, <br>\nrather than the <b>line segments</b> between the points, and can produce an&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Line%E2%80%93line_intersection", 
+            "cacheId": "A8zgGDQfs-gJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Scheinerman's conjecture - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Scheinerman&#39;s conjecture - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Scheinerman's_conjecture", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Scheinerman&#39;s_conjecture", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "192", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr49_8nEtKU1d6xPDVrnEGufFaxV-l2lLNFO9L5wGIXi0zXthUgZmTswhv", 
+                        "height": "187"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Intersect1.png/240px-Intersect1.png"
+                    }
+                ]
+            }, 
+            "snippet": "In mathematics, Scheinerman's conjecture, now a theorem, states that every \nplanar graph is the intersection graph of a set of line segments in the plane.", 
+            "htmlSnippet": "In mathematics, Scheinerman&#39;s conjecture, now a theorem, states that every <br>\nplanar graph is the <b>intersection</b> graph of a set of <b>line segments</b> in the plane.", 
+            "link": "https://en.wikipedia.org/wiki/Scheinerman's_conjecture", 
+            "cacheId": "rxTUNufFxZkJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Intersection (Euclidean geometry) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Intersection</b> (Euclidean geometry) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Intersection_(Euclidean_geometry)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Intersection</b>_(Euclidean_geometry)", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "160", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ9BPeL6nb3IMGs1Yq01a0opULltwhiqobnVH1Z4568eNknJ9Y1wFYHjeMa", 
+                        "height": "158"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Schnittpunkt-2g.svg/200px-Schnittpunkt-2g.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "[edit]. Main article: Line segment intersection. intersection of two line segments. \nFor two non-parallel line segments (x_1,y_1)\u00a0...", 
+            "htmlSnippet": "[edit]. Main article: <b>Line segment intersection</b>. intersection of two line segments. <br>\nFor two non-parallel line segments (x_1,y_1)&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Intersection_(Euclidean_geometry)", 
+            "cacheId": "fUW9w1N72IQJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Line segment - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Line segment</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Line_segment", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Line</b>_<b>segment</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSQNJ39_wQwf7z7Vcm4-pPQ6qgGK_4y2PNbP7FRsqHO92kahDxZrN10P4w", 
+                        "height": "258"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Fotothek_df_tg_0003359_Geometrie_%5E_Konstruktion_%5E_Strecke_%5E_Messinstrument.jpg/220px-Fotothek_df_tg_0003359_Geometrie_%5E_Konstruktion_%5E_Strecke_%5E_Messinstrument.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "The geometric definition of a closed line segment: the intersection of all points at \nor ... When the end points both lie on a curve such as a circle, a line segment is\u00a0...", 
+            "htmlSnippet": "The geometric definition of a closed <b>line segment</b>: the <b>intersection</b> of all points at <br>\nor ... When the end points both lie on a curve such as a circle, a <b>line segment</b> is&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Line_segment", 
+            "cacheId": "bRMgoZ6hVagJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Sweep line algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Sweep <b>line</b> algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Sweep_line_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Sweep_<b>line</b>_algorithm", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "228", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSWOli3JD3TVHG85k-a3zd0GWT7_ZvdIypCXNeXRwZO23OFJEpEpRZwK5s", 
+                        "height": "181"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/2/25/Fortunes-algorithm.gif"
+                    }
+                ]
+            }, 
+            "snippet": "Animation of Fortune's algorithm, a sweep line technique for constructing ... and \nHoey presented algorithms for line segment intersection in the plane, and in\u00a0...", 
+            "htmlSnippet": "Animation of Fortune&#39;s algorithm, a sweep line technique for constructing ... and <br>\nHoey presented algorithms for <b>line segment intersection</b> in the plane, and in&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Sweep_line_algorithm", 
+            "cacheId": "zMICFurKZ8oJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Intersection - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Intersection</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Intersection", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Intersection</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT_qvaoxF_D0uX6DoDDkVRve1k_ZKanDtI6SPqBCRT-sZ8nLlxgljoZmg", 
+                        "height": "120"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Circle-line_intersection.svg/220px-Circle-line_intersection.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "This circle (black) intersects this line (purple) in two points ... intersection \u00b7 \nIntersection of a polyhedron with a line \u00b7 Line segment intersection \u00b7 Intersection \ncurve\u00a0...", 
+            "htmlSnippet": "This circle (black) intersects this line (purple) in two points ... intersection &middot; <br>\nIntersection of a polyhedron with a line &middot; <b>Line segment intersection</b> &middot; Intersection <br>\ncurve&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Intersection", 
+            "cacheId": "BYvytawiE44J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Intersection graph - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Intersection</b> graph - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Intersection_graph", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Intersection</b>_graph", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSddRvJhmORIx9lfzjvCGaHhBYLpnm5YW8hAwzTFRvsJary1LjrhD7Qgto", 
+                        "height": "132"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Intersection_graph.gif/220px-Intersection_graph.gif"
+                    }
+                ]
+            }, 
+            "snippet": "In the mathematical area of graph theory, an intersection graph is a graph that ... \nHowever, intersection graphs of line segments may be nonplanar as well, and\u00a0...", 
+            "htmlSnippet": "In the mathematical area of graph theory, an <b>intersection</b> graph is a graph that ... <br>\nHowever, <b>intersection</b> graphs of <b>line segments</b> may be nonplanar as well, and&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Intersection_graph", 
+            "cacheId": "TUu97r-zJwYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Bisection - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Bisection - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Bisection", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Bisection", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWEvLRuSEJZYdXp6ZToQpB7ML6U3ksM4X0Z4VAuEvU1B7o94WbGCufwNo", 
+                        "height": "88"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Bisectors.svg/220px-Bisectors.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "The line determined by the points of intersection of the two circles is the \nperpendicular bisector of the segment, since it crosses the segment at its center.", 
+            "htmlSnippet": "The <b>line</b> determined by the points of <b>intersection</b> of the two circles is the <br>\nperpendicular bisector of the <b>segment</b>, since it crosses the <b>segment</b> at its center.", 
+            "link": "https://en.wikipedia.org/wiki/Bisection", 
+            "cacheId": "ysPGIgGrV8MJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Line segment intersection", 
+                "safe": "off", 
+                "searchTerms": "Line segment intersection", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "6450"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Line segment intersection", 
+                "safe": "off", 
+                "searchTerms": "Line segment intersection", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "6450"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.44", 
+        "formattedTotalResults": "6,450", 
+        "totalResults": "6450", 
+        "searchTime": 0.435075
+    }
+}

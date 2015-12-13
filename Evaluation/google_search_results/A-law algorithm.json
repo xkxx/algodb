@@ -1,3 +1,208 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8dcdc87ea698f6038eaf0de04c5a838f9084176c6d1a6d66c4463fe53dd1763c
-size 13600
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "A-law algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>A</b>-<b>law algorithm</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/A-law_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>A</b>-<b>law</b>_<b>algorithm</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "259", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTpTrjjvplDa3diUDwQiWe_9aD_NghAae6F9IkJi1VhMprUznY_rkE0QSxb", 
+                        "height": "195"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Ulaw_alaw_db.svg/350px-Ulaw_alaw_db.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "An A-law algorithm is a standard companding algorithm, used in European 8-bit \nPCM digital communications systems to optimize, i.e., modify, the dynamic\u00a0...", 
+            "htmlSnippet": "An <b>A</b>-<b>law algorithm</b> is a standard companding algorithm, used in European 8-bit <br>\nPCM digital communications systems to optimize, i.e., modify, the dynamic&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/A-law_algorithm", 
+            "cacheId": "2j09mALgTCsJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "\u03bc-law algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "\u03bc-<b>law algorithm</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/\u039c-law_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u039c-<b>law</b>_<b>algorithm</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "259", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTpTrjjvplDa3diUDwQiWe_9aD_NghAae6F9IkJi1VhMprUznY_rkE0QSxb", 
+                        "height": "195"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Ulaw_alaw_db.svg/350px-Ulaw_alaw_db.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "[edit]. The \u00b5-law algorithm provides a slightly larger dynamic range than the A-\nlaw at the cost of worse\u00a0...", 
+            "htmlSnippet": "[edit]. The \u00b5-law <b>algorithm</b> provides a slightly larger dynamic range than the <b>A</b>-<br>\n<b>law</b> at the cost of worse&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/%CE%9C-law_algorithm", 
+            "cacheId": "LXaFVhcpU8QJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "G.711 - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "G.711 - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/G.711", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/G.711", 
+            "snippet": "G.711 defines two main companding algorithms, the \u00b5-law algorithm and A-law \nalgorithm. Both are logarithmic, but A-law was specifically designed to be simpler\n\u00a0...", 
+            "htmlSnippet": "G.711 defines two main companding algorithms, the \u00b5-law algorithm and <b>A</b>-<b>law</b> <br>\n<b>algorithm</b>. Both are logarithmic, but A-law was specifically designed to be simpler<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/G.711", 
+            "cacheId": "69CB714inNQJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:A-law algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>A</b>-<b>law algorithm</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3AA-law_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3AA-<b>law</b>_<b>algorithm</b>", 
+            "snippet": "how does the a-law algorithm look like? What's the difference to the ... I created \nan encoding table from \"unsigned linear 16 bit\" values into A-law 8 bit values.", 
+            "htmlSnippet": "how does the <b>a</b>-<b>law algorithm</b> look like? What&#39;s the difference to the ... I created <br>\nan encoding table from &quot;unsigned linear 16 bit&quot; values into A-law 8 bit values.", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3AA-law_algorithm", 
+            "cacheId": "1Xkzk7uyvkMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Pulse-code modulation - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Pulse-code modulation - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Pulse-code_modulation", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Pulse-code_modulation", 
+            "snippet": "This is in contrast to PCM encodings where quantization levels vary as a function \nof amplitude (as with the A-law algorithm or the \u03bc-law algorithm). Though PCM\u00a0...", 
+            "htmlSnippet": "This is in contrast to PCM encodings where quantization levels vary as a function <br>\nof amplitude (as with the <b>A</b>-<b>law algorithm</b> or the \u03bc-law algorithm). Though PCM&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Pulse-code_modulation", 
+            "cacheId": "QgUomQDz_ZgJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Companding - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Companding - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Companding", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Companding", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQnsHCv82HR9ut7zM_3-88NtbIgcf02n80J0lb1Fwu_xv_ht-LL-oy0gA", 
+                        "height": "79"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Waveformcompanded.png/220px-Waveformcompanded.png"
+                    }
+                ]
+            }, 
+            "snippet": "The use of companding allows signals with a large dynamic range to be ... to \nusing a non-linear ADC as in a T-carrier telephone system that implements A-law \nor\u00a0...", 
+            "htmlSnippet": "The use of companding allows signals with a large dynamic range to be ... to <br>\nusing a non-linear ADC as in a T-carrier telephone system that implements <b>A</b>-<b>law</b> <br>\nor&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Companding", 
+            "cacheId": "EkIaSDnnbVoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:\u03bc-law algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:\u03bc-<b>law algorithm</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3A\u039c-law_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A\u039c-<b>law</b>_<b>algorithm</b>", 
+            "snippet": "This article should be called \"\u03bc-law algorithm\" with a lower-case \u03bc. Unfortunately, \nthe software currently prevents this, capitalizing the mu. Capital mu looks just\u00a0...", 
+            "htmlSnippet": "This article should be called &quot;\u03bc-<b>law algorithm</b>&quot; with <b>a</b> lower-case \u03bc. Unfortunately, <br>\nthe software currently prevents this, capitalizing the mu. Capital mu looks just&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3A%CE%9C-law_algorithm", 
+            "cacheId": "0XoF1uXABF4J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "adpcm", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "adpcm", 
+            "formattedUrl": "https://en.wikipedia.org/.../Adaptive_differential_pulse-code_modulation", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Adaptive_differential_pulse-code_modulation", 
+            "snippet": "Adaptive differential pulse-code modulation (ADPCM) is a variant of differential ... \nAn ADPCM algorithm is used to map a series of 8 bit \u00b5-law (or a-law) PCM\u00a0...", 
+            "htmlSnippet": "Adaptive differential pulse-code modulation (ADPCM) is a variant of differential ... <br>\nAn ADPCM <b>algorithm</b> is used to map a series of 8 bit \u00b5-law (or <b>a</b>-<b>law</b>) PCM&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Adaptive_differential_pulse-code_modulation", 
+            "cacheId": "34fDPFbUzhcJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Speech coding - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Speech coding - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Speech_coding", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Speech_coding", 
+            "snippet": "From this viewpoint, the A-law and \u03bc-law algorithms (G.711) used in traditional \nPCM digital telephony can be seen as a very early precursor of speech encoding,\n\u00a0...", 
+            "htmlSnippet": "From this viewpoint, the <b>A</b>-<b>law</b> and \u03bc-law <b>algorithms</b> (G.711) used in traditional <br>\nPCM digital telephony can be seen as a very early precursor of speech encoding,<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Speech_coding", 
+            "cacheId": "Z9zQ6jTnztwJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Parker v. Flook - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Parker v. Flook - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Parker_v._Flook", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Parker_v._Flook", 
+            "snippet": "A mathematical algorithm is not patentable if its application is not novel. ... the \npatent claim under review was instead a claim to a \"principle\" or a \"law of nature\"\n\u00a0...", 
+            "htmlSnippet": "A mathematical <b>algorithm</b> is not patentable if its application is not novel. ... the <br>\npatent claim under review was instead a claim to a &quot;principle&quot; or <b>a</b> &quot;<b>law</b> of nature&quot;<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Parker_v._Flook", 
+            "cacheId": "TRhsnDSVkpcJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - A-law algorithm", 
+                "safe": "off", 
+                "searchTerms": "A-law algorithm", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "11900"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - A-law algorithm", 
+                "safe": "off", 
+                "searchTerms": "A-law algorithm", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "11900"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.31", 
+        "formattedTotalResults": "11,900", 
+        "totalResults": "11900", 
+        "searchTime": 0.31485
+    }
+}

@@ -1,3 +1,229 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d665e71dc6a2de6f3c3edb514f0b467c1f908028735f0a308ad6e580befe5b51
-size 14484
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Graham scan - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Graham scan</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Graham_scan", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Graham</b>_<b>scan</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "128", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRWO-SHYZ_ksiErdZLluFT9_i-bwcRo4N9_ZeGgMPX9-KpoXLlPEjPY6So", 
+                        "height": "352"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Graham_Scan.svg/160px-Graham_Scan.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "Graham's scan is a method of finding the convex hull of a finite set of points in the \nplane with time complexity O(n log n). It is named after Ronald Graham, who\u00a0...", 
+            "htmlSnippet": "<b>Graham&#39;s scan</b> is a method of finding the convex hull of a finite set of points in the <br>\nplane with time complexity O(n log n). It is named after Ronald Graham, who&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Graham_scan", 
+            "cacheId": "sKB77TL6on4J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Graham scan - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Graham scan</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3AGraham_scan", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>Graham</b>_<b>scan</b>", 
+            "snippet": "Graham scan was one of the good articles, but it has been removed from the list. \nThere are suggestions below for improving the article to meet the good article\u00a0...", 
+            "htmlSnippet": "<b>Graham scan</b> was one of the good articles, but it has been removed from the list. <br>\nThere are suggestions below for improving the article to meet the good article&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3AGraham_scan", 
+            "cacheId": "g0XKwJjIEzUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Convex hull algorithms - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Convex hull algorithms - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Convex_hull_algorithms", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Convex_hull_algorithms", 
+            "snippet": "The algorithm can be seen as a variant of Graham scan which sorts the points \nlexicographically by their coordinates. When the input is already sorted, the\u00a0...", 
+            "htmlSnippet": "The algorithm can be seen as a variant of <b>Graham scan</b> which sorts the points <br>\nlexicographically by their coordinates. When the input is already sorted, the&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Convex_hull_algorithms", 
+            "cacheId": "Xpet75KCteoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "File:GrahamScan.gif - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "File:GrahamScan.gif - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/File:GrahamScan.gif", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/File:<b>GrahamScan</b>.gif", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "204", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT-DyXeJUsyZe8nuNK9jGWsdmjBlqjba7haaTA1mWzLtdjMeyAuoqBw7DU", 
+                        "height": "204"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/b/b8/GrahamScan.gif"
+                    }
+                ]
+            }, 
+            "snippet": "Summary[edit]. Animating gif image of the Graham Scan algorithm for finding the \nconvex hull of a set of points. Licensing[edit]. I, the copyright holder of this work,\u00a0...", 
+            "htmlSnippet": "Summary[edit]. Animating gif image of the <b>Graham Scan</b> algorithm for finding the <br>\nconvex hull of a set of points. Licensing[edit]. I, the copyright holder of this work,&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/File:GrahamScan.gif", 
+            "cacheId": "Pia8Djy7g20J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Convex hull algorithms - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:Convex hull algorithms - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3AConvex_hull_algorithms", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3AConvex_hull_algorithms", 
+            "snippet": "The article should mention finding an approximation of the convex hull, on-line / \nreal-time algorithms, i.e. O(n^2) Graham scan modification, and Preparata's \"An\u00a0...", 
+            "htmlSnippet": "The article should mention finding an approximation of the convex hull, on-line / <br>\nreal-time algorithms, i.e. O(n^2) <b>Graham scan</b> modification, and Preparata&#39;s &quot;An&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3AConvex_hull_algorithms", 
+            "cacheId": "9K-fKYv97ToJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Gift wrapping algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Gift wrapping algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Gift_wrapping_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Gift_wrapping_algorithm", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6v7THbdn-zk97WiWd2UpD4pr_xt6wkYZq8hHtojnc8tN3ZUDeOTgRlwQ", 
+                        "height": "176"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Animation_depicting_the_gift_wrapping_algorithm.gif/220px-Animation_depicting_the_gift_wrapping_algorithm.gif"
+                    }
+                ]
+            }, 
+            "snippet": "algorithms such as Graham scan when the number h of hull vertices is smaller \nthan log n. Chan's algorithm, another convex hull algorithm, combines the\u00a0...", 
+            "htmlSnippet": "algorithms such as <b>Graham scan</b> when the number h of hull vertices is smaller <br>\nthan log n. Chan&#39;s algorithm, another convex hull algorithm, combines the&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Gift_wrapping_algorithm", 
+            "cacheId": "V5DwRBXy1d8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Chan's algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Chan&#39;s algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Chan's_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Chan&#39;s_algorithm", 
+            "snippet": "In the planar case, the algorithm combines an O(n log n) algorithm (Graham scan\n, for example) with Jarvis march, in order to obtain an optimal O(n log h) time.", 
+            "htmlSnippet": "In the planar case, the algorithm combines an O(n log n) algorithm (<b>Graham scan</b><br>\n, for example) with Jarvis march, in order to obtain an optimal O(n log h) time.", 
+            "link": "https://en.wikipedia.org/wiki/Chan's_algorithm", 
+            "cacheId": "bjk3CpikqsMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Ronald Graham - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Ronald <b>Graham</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Ronald_Graham", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Ronald_<b>Graham</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTFWz82rmuCCo1Wjh7VzmB95G13TMHPQjcYQGwSTFSAnee2fp6gMWRhv4w", 
+                        "height": "269"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Ronald_graham_writing.jpg/220px-Ronald_graham_writing.jpg"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "bday": "1935-10-31", 
+                        "category": "Mathematics", 
+                        "fn": "Ronald Graham"
+                    }
+                ]
+            }, 
+            "snippet": "Ronald (Ron) Lewis Graham (born October 31, 1935) is a mathematician \ncredited by the ... Coffman\u2013Graham algorithm \u00b7 Erd\u0151s\u2013Graham problem \u00b7 Graham \nscan\u00a0...", 
+            "htmlSnippet": "Ronald (Ron) Lewis Graham (born October 31, 1935) is a mathematician <br>\ncredited by the ... Coffman\u2013Graham algorithm &middot; Erd\u0151s\u2013Graham problem &middot; <b>Graham</b> <br>\n<b>scan</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Ronald_Graham", 
+            "cacheId": "VNG5FIdTo0gJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Graham - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Graham</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Graham", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Graham</b>", 
+            "snippet": "Graham and Graeme may refer to: ... seriously used in a mathematical proof; \nGraham scan, a method of computing a convex hull; Graham and Graham-Paige,\n\u00a0...", 
+            "htmlSnippet": "Graham and Graeme may refer to: ... seriously used in a mathematical proof; <br>\n<b>Graham scan</b>, a method of computing a convex hull; Graham and Graham-Paige,<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Graham", 
+            "cacheId": "KaBF7jJt578J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Category:Convex hull algorithms - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Category:Convex hull algorithms - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Category:Convex_hull_algorithms", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Category:Convex_hull_algorithms", 
+            "snippet": "... may not reflect recent changes (learn more). C. Chan's algorithm \u00b7 Convex hull \nalgorithms. D. Dynamic convex hull. G. Gift wrapping algorithm \u00b7 Graham scan\u00a0...", 
+            "htmlSnippet": "... may not reflect recent changes (learn more). C. Chan&#39;s algorithm &middot; Convex hull <br>\nalgorithms. D. Dynamic convex hull. G. Gift wrapping algorithm &middot; <b>Graham scan</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Category:Convex_hull_algorithms", 
+            "cacheId": "LpAmZatfQMMJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Graham scan", 
+                "safe": "off", 
+                "searchTerms": "Graham scan", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "21900"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Graham scan", 
+                "safe": "off", 
+                "searchTerms": "Graham scan", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "21900"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.28", 
+        "formattedTotalResults": "21,900", 
+        "totalResults": "21900", 
+        "searchTime": 0.278854
+    }
+}
