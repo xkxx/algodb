@@ -36,6 +36,10 @@ h1.logo {
 }
 
 h1.logo .v2 .r { color: #F90101; }
+h1.logo .v2 .r:last-child {
+  transform: rotate(-11deg);
+  display: inline-block;
+}
 h1.logo .v2 .b { color: #0266C8; }
 h1.logo .v2 .y { color: #F2B50F; }
 h1.logo .v2 .g { color: #00933B; }
