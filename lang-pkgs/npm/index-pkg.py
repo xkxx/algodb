@@ -7,7 +7,6 @@ import time
 import math
 import stringmatching_npm as stringmatch
 
-es = Elasticsearch([{'host': 'localhost', 'port': 9200}])
 
 def get_text_content(pkg):
     return [
@@ -25,7 +24,7 @@ def get_es_id(pkg):
 def compute_pkg_weight(pkg):
     return pkg['downloads'] * 1.0 / math.log(int(time.time() * 1000) - pkg['timeUpdated'])
 
-def add_to_db(pkg, impls):
+def add_to_db(pkg, impls, es):
     es.index(index='throwtable',
     doc_type='implementation',
     id=get_es_id(pkg),
@@ -43,25 +42,28 @@ def add_to_db(pkg, impls):
 
     })
 
-def get_links(pkg):
+def get_links(pkg, es):
     texts = get_text_content(pkg)
     impls = []
     for (text, weight) in texts:
         result = stringmatch.link_algorithm(text, es)
+        print result
         for (algo, score) in result:
             if match_valid(algo, score, weight):
                 impls.append(algo)
+    return impls
 
 def index_package(line):
     pkg = json.loads(line)
-    impls = get_links(pkg)
+    impls = get_links(pkg, es)
     if len(impls) > 0:
-        add_to_db(pkg, impls)
+        add_to_db(pkg, impls, es)
 
 def work():
+    es = Elasticsearch([{'host': 'localhost', 'port': 9200}])
     dump = open('results.json')
     for line in dump:
-        index_package(line)
+        index_package(line, es)
 
 def test_query(desp):
     from pprint import pprint
@@ -71,10 +73,11 @@ if __name__ == "__main__":
     if len(sys.argv) == 1:
         work()
     else:
+        es = Elasticsearch([{'host': 'localhost', 'port': 9200}])
         from subprocess import check_output
         from pprint import pprint
         line = check_output(["node", "get-desc.js", sys.argv[1]])
         print line
         pkg = json.loads(line)
-        impls = get_links(pkg)
+        impls = get_links(pkg, es)
         pprint(impls, width=1)

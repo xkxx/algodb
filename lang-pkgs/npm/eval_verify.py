@@ -10,7 +10,7 @@ FALSE_POSITIVE = 'False-Pos'
 TRUE_NEGATIVE = 'True-Neg'
 FALSE_NEGATIVE = 'False-Neg'
 
-def checkPkg(actual, expected, r):
+def checkPkg(pkgName, actual, expected, r):
     for algo in actual:
         if algo not in expected:
             print "Detected:", algo
@@ -23,6 +23,7 @@ def checkPkg(actual, expected, r):
     if len(expected) != 0:
         return FALSE_NEGATIVE
     else:
+# FIXME
         return TRUE_NEGATIVE
 
 
@@ -33,18 +34,18 @@ def main():
     conditions = Counter()
     for pkgName in samples:
         print '================'
-        printPkgContent()
+        printPkgContent(pkgName)
 
         doc = es.get(id="npm:%s:js" % pkgName, index='throwtable', doc_type="implementation", ignore=404)
-        if result['_found']:
-            actual = sum(doc['_source']['algorithms'], [])
+        if doc['found']:
+            actual = sum(doc['_source']['algorithm'], [])
         else:
             actual = []
         expected = r.smembers("%s:map" % pkgName)
 
-        result = checkPkg(actual, expected, r)
+        result = checkPkg(pkgName, actual, expected, r)
 
-        redis.sadd('samples-%s' % result, pkgName)
+        r.sadd('samples-%s' % result, pkgName)
         conditions[result] += 1
 
     for (k, v) in conditions.items():
