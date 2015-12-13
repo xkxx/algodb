@@ -10,10 +10,10 @@ def normalize(str):
 def printPkgContent(pkgName):
     pkg = requests.get("http://localhost:5984/npm/" + pkgName).json()
     print 'Package Name: ', pkg['name']
-    print 'Desc:', pkg.get('description', '[NONE')
+    print 'Desc:', pkg.get('description', '[NONE]')
     print 'keywords:', pkg.get('keywords', [])
     print 'Readme:\n'
-    print pkg.get('readme', '[NONE]')
+    print '\n'.join(pkg.get('readme', '[NONE]').split('\n')[:15])
 
 def getUserInput(prompt):
     result = raw_input(prompt)

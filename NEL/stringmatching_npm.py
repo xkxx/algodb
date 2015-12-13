@@ -31,7 +31,7 @@ def link_algorithm(description, es):
         }
     })
 
-    return [(hit['_score'], hit['_id']) for hit in response['hits']['hits']]
+    return [(hit['_id'], hit['_score']) for hit in response['hits']['hits']]
 
 def run_elastic_search(algolist, takeMax):
     mapping = {}

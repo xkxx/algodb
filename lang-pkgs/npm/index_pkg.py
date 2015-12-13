@@ -6,10 +6,11 @@ import json
 import time
 import math
 import stringmatching_npm as stringmatch
-from dateutil import parse as parsedate
+from dateutil import parser as dateparser
 from datetime import datetime
 from collections import Counter
 from RAKE import Rake
+import requests
 
 rk = Rake('SmartStoplist.txt')
 
@@ -20,18 +21,19 @@ def get_text_content(pkg):
     if type(readme) != str:
         readme = ''
     readmeLines = readme.split('\n')
-    parsedKeywords = rk.run(readme)
+    parsedKeywords = rk.run('redis')
+    print parsedKeywords
     results = []
     for kw in keywords:
         if len(kw) > 2:
             results.append((kw, 2.0))
-    for kw in parsedKeywords:
-        results.append((kw, 1.6))
+    for (kw, score) in parsedKeywords:
+        results.append((kw, 1.6 * score))
     if len(desc) > 2:
         results.append((desc, 1.0))
     return results
 
-def match_valid(algo, score, weight):
+def match_valid(algo, score):
     if score > 1.0:
         return True
 
@@ -41,7 +43,7 @@ def get_es_id(pkg):
 def compute_pkg_weight(pkg):
     return pkg['downloads'] * 1.0 / math.log(
         (datetime.utcnow() -
-            parsedate(pkg['timeUpdated'], ignoretz=True)).days)
+            dateparser.parse(pkg['timeUpdated'], ignoretz=True)).days)
 
 def add_to_db(pkg, impls, es):
     es.index(index='throwtable',
@@ -75,6 +77,7 @@ def get_links(pkg, es):
 
     impls = []
     for (algo, score) in cands.most_common():
+        print algo, score
         if match_valid(algo, score):
             impls.append(algo)
     return impls
@@ -84,6 +87,10 @@ def index_package(line):
     impls = get_links(pkg, es)
     if len(impls) > 0:
         add_to_db(pkg, [impls[0]], es)
+
+def get_npm_pkg(pkgName):
+    res = requests.get('http://localhost:5984/npm/%s' % pkgName)
+    return res.json()
 
 def work():
     es = Elasticsearch([{'host': 'localhost', 'port': 9200}])
