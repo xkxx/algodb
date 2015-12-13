@@ -22,7 +22,7 @@ def parse_single_algo(algo, response, takeMax=1):
     return res
 
 def link_algorithm(description, es):
-    return es.search(index='throwtable', doc_type='algorithm', body={
+    response = es.search(index='throwtable', doc_type='algorithm', body={
         "query": {
             "multi_match": {
                 "query": description,
@@ -31,6 +31,7 @@ def link_algorithm(description, es):
         }
     })
 
+    return [(hit['_score'], hit['_id']) for hit in response['hits']['hits']]
 
 def run_elastic_search(algolist, takeMax):
     mapping = {}
