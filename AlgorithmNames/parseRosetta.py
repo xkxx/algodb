@@ -20,7 +20,7 @@ class Task:
     """
     def _parse_language_from_header(self, title):
         # e.g. '{{header|8th}}'
-        matchHeader = re.compile(r"\{\{header\|(.+)\}\}")
+        matchHeader = re.compile(r"\{\{header\|(.+?)\}\}")
         result = matchHeader.match(title)
         return result and result.group(1)
 
