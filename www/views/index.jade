@@ -1,41 +1,65 @@
 extends layout
 
 block content
-  h1.logo AlgoDB
-  .stats
-    h3
-      strong= count_summary.algorithm
-      span  algorithms
-    h3
-      strong= count_summary.category
-      span  categories
-    h3
-      strong= count_summary.implementation
-      span  implemenatations
-  form
-    input.query-input(name='q' value=query)
+  header
+    .row
+      h1.logo
+        span.v1 AlgoDB
+        span.v2.hidden
+          span.b A
+          span.r l
+          span.y g
+          span.b o
+          span.g D
+          span.r B
+      .stats
+        h3
+          strong= count_summary.algorithm
+          span  algorithms
+        h3
+          strong= count_summary.category
+          span  categories
+        h3
+          strong= count_summary.implementation
+          span  implemenatations
+    form.row
+      input.query-input(name='q' value=query placeholder='merge sort, md5, a*')
+      input.submit.button(type='submit' value='Search!')
   .results
     if search.hits
       - var numResults = search.hits.length;
       if numResults
         - var resultsTitle = numResults + ' Result' + (numResults === 1 ? '' : 's');
-        h2.results.title= resultsTitle
+        h2.results
+          span.title= resultsTitle
+          span.time= '(' + requestTime + ' seconds)'
+          span.small.button.expand-hide Expand all
         for h in search.hits
           - var hit = h._source;
           .result
             .name= hit.name
             p.description= hit.description
-            h3.categories.title Categories
-            ul.categories
-              for c in hit.categories
-                li.category= c
-            if h.implementations.length
-              h3.implementations.title Implementations
-              ul.implementations
-                for i in h.implementations
-                  include ./implementation
-            else
-              h3.implementations.title No Implementations Found
+            button.button.see-more-button.top See more
+            .see-more.hidden
+              h3.categories.title Categories
+              ul.categories
+                for c in hit.categories
+                  li.category= c
+              if h.implementations.length
+                h3.implementations.title
+                  span Implementations
+                  span= ' ('
+                  span.langs
+                    for l in h.implementationLanguages
+                      span.lang
+                        a.lang-button= l
+                  span= ')'
+                ul.implementations
+                  for i in h.implementations
+                    include ./implementation
+              else
+                h3.implementations.title No Implementations Found
+              button.button.see-more-button See more
       else
         h2.results.title.empty= 'No search results for "' + query + '"!'
     else
@@ -48,9 +72,10 @@ block content
           li.lang(style='color:'+l.color)
             span.title= l.language
             span.count= ' (' + l.count + ')'
-    p Made with 💖by
-    ul
-      li: a(href='http://github.com/grant') grant
-      li: a(href='http://github.com/gupta-ak') gupta-ak
-      li: a(href='http://github.com/MinjingZhu') minjingzhu
-      li: a(href='http://github.com/xkxx') xkxx
+    .authors
+      p Made with 💖by
+      ul
+        li: a(href='http://github.com/grant') grant
+        li: a(href='http://github.com/gupta-ak') gupta-ak
+        li: a(href='http://github.com/MinjingZhu') minjingzhu
+        li: a(href='http://github.com/xkxx') xkxx

@@ -1,6 +1,7 @@
 body {
-  padding: 50px;
+  padding: 20px;
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  color: rgb(48, 48, 48);
 }
 
 a {
@@ -9,14 +10,38 @@ a {
 
 /* Header */
 
+header {
+  overflow: hidden;
+}
+
+header .row {
+  display: block;
+  overflow: hidden;
+}
+
 h1.logo {
   font-size: 40px;
   font-weight: 700;
-  margin: 20px 0;
+  display: inline-block;
+  margin: 10px 0;
+  padding-right: 20px;
+  float: left;
+  cursor: pointer;
+
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
 }
+
+h1.logo .v2 .r { color: #F90101; }
+h1.logo .v2 .b { color: #0266C8; }
+h1.logo .v2 .y { color: #F2B50F; }
+h1.logo .v2 .g { color: #00933B; }
 
 .stats {
   margin: 10px 0;
+  float: left;
 }
 .stats strong {
   font-weight: 700;
@@ -25,9 +50,9 @@ h1.logo {
 /* Languages */
 
 .languages .list {
-  -webkit-columns: 6 70px;
-     -moz-columns: 6 70px;
-          columns: 6 70px;
+  -webkit-columns: 6 150px;
+     -moz-columns: 6 150px;
+          columns: 6 150px;
 }
 
 .languages .list .count {
@@ -41,16 +66,59 @@ h1.logo {
   width: 320px;
   font-size: 22px;
   padding: 6px;
+  border: 1px solid rgb(240, 240, 240);
+  border-radius: 2px;
+  margin-right: 10px;
+}
+
+.button {
+  font-size: 18px;
+  line-height: 18px;
+  display: inline-block;
+  border: 0;
+  vertical-align: top;
+  margin: 0;
+  padding: 10px 20px;
+  cursor: pointer;
+  height: 40px;
+  background-color: rgb(61, 134, 247);
+  color: white;
+  font-weight: 100;
+  border-radius: 2px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+.button:hover {
+  background-color: rgb(81, 164, 255);
+}
+
+.button.small {
+  font-size: 12px;
+  line-height: 12px;
+  padding: 10px 10px;
+  height: 30px;
+  vertical-align: bottom;
 }
 
 /* Results */
 
-.results.title {
-  font-size: 30px;
-  font-weight: 700;
+.results {
   margin: 20px 0;
 }
-.results.title.empty {
+.results > .title {
+  font-size: 30px;
+  font-weight: 700;
+  margin-right: 10px;
+}
+.results > .time {
+  color: rgb(200, 200, 200);
+  font-size: 12px;
+  font-weight: 100;
+  margin-right: 10px;
+}
+.results .title.empty {
   color: #C52A20;
   margin: 60px 0;
 }
@@ -83,6 +151,14 @@ h1.logo {
   margin: 10px;
 }
 
+.see-more {
+  margin-top: 20px;
+}
+
+.hidden {
+  display: none;
+}
+
 li {
   list-style-type: disc;
   margin-left: 20px;
@@ -90,8 +166,25 @@ li {
 
 /* Implementation */
 
+.implementations {
+  margin-bottom: 20px;
+}
+
 .implementations li {
   list-style-type: none;
+}
+
+.implementations.title .langs {
+  font-weight: 100;
+}
+.implementations.title .langs .lang:after {
+  content: ', ';
+}
+.implementations.title .langs .lang:last-child:after {
+  content: '';
+}
+.implementations.title .lang-button {
+  cursor: pointer;
 }
 
 .implementation .source .name {
@@ -103,7 +196,7 @@ li {
 .source-code {
   color: green;
 }
-.source-code .code {
+code {
   font-family: 'Source Code Pro';
   font-size: 12px;
   padding: 10px;
@@ -115,8 +208,115 @@ li {
   padding: 10px;
 }
 
+/* NPM markdown */
+
+.npm {
+  margin-left: 20px;
+}
+
+.markdown {
+  margin: 0;
+}
+.markdown > h1 {
+  margin: 0;
+  padding: 20px 0 5px 0;
+  text-align: left;
+  line-height: 1.2;
+  white-space: normal;
+  overflow-y: hidden;
+  text-transform: none;
+}
+.markdown > h1 a {
+  color: rgba(0,0,0,0.8);
+  text-decoration: none;
+}
+.markdown >h2,
+.markdown h3,
+.markdown h4,
+.markdown h5,
+.markdown h6 {
+  color: rgba(0,0,0,0.8);
+  font-weight: 700;
+  padding: 10px 0;
+}
+.markdown >h2 a,
+.markdown h3 a,
+.markdown h4 a,
+.markdown h5 a,
+.markdown h6 a {
+  font-weight: 700;
+  color: rgba(0,0,0,0.8);
+  text-decoration: none;
+}
+.markdown >h2.deep-link a:before,
+.markdown h3.deep-link a:before,
+.markdown h4.deep-link a:before,
+.markdown h5.deep-link a:before,
+.markdown h6.deep-link a:before {
+  display: inline-block;
+  content: "#";
+  color: #fff;
+  margin-left: -20px;
+  width: 20px;
+  transition: all 0.2s;
+}
+@media only screen and (max-width: 767px) {
+  .markdown >h2.deep-link a:before,
+  .markdown h3.deep-link a:before,
+  .markdown h4.deep-link a:before,
+  .markdown h5.deep-link a:before,
+  .markdown h6.deep-link a:before {
+    display: none;
+  }
+}
+.markdown >h2.deep-link a:hover:before,
+.markdown h3.deep-link a:hover:before,
+.markdown h4.deep-link a:hover:before,
+.markdown h5.deep-link a:hover:before,
+.markdown h6.deep-link a:hover:before {
+  color: rgba(0,0,0,0.8);
+}
+.markdown h3 {
+  font-size: 20px;
+}
+.markdown h4,
+.markdown h5,
+.markdown h6 {
+  font-size: 18px;
+}
+.markdown ol ol,
+.markdown ul ol,
+.markdown ol ul,
+.markdown ul ul {
+  margin: 0 0 0 20px;
+}
+.markdown p,
+.markdown li {
+  font-size: 16px;
+}
+.markdown p a,
+.markdown li a {
+  font-weight: 600;
+}
+.markdown th {
+  font-weight: bold;
+}
+.markdown td,
+.markdown th {
+  padding: 0 5px;
+  background: #f5f5f5;
+}
+.markdown img {
+  max-width: 100%;
+}
+
+
 /* End formatting for source code */
 
 footer {
   margin-top: 100px;
+}
+
+footer .authors {
+  margin-top: 20px;
 }

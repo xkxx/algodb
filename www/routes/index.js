@@ -37,6 +37,7 @@ db.get_languages(function(err, langs) {
 
 /* GET home page. */
 router.get('/', function(req, res, next) {
+  var requestStart = +new Date;
   var query = req.query.q;
 
   // Send the queries to the db.
@@ -53,12 +54,15 @@ router.get('/', function(req, res, next) {
 
     data.languages = languages;
     data.query = query; // may be undefined
-    console.log('Render /index.html with the following data:');
-    if (data.search.hits) {
-      for (var i = 0; i < data.search.hits.length; ++i) {
-        console.log(data.search.hits[i].implementations[0]);
-      }
-    }
+    // console.log('Render /index.html with the following data:');
+    // if (data.search.hits) {
+    //   for (var i = 0; i < data.search.hits.length; ++i) {
+    //     console.log(data.search.hits[i].implementations[0]);
+    //   }
+    // }
+    var requestEnd = +new Date;
+    var requestTime = requestEnd - requestStart;
+    data.requestTime = requestTime / 1000;
     res.render('index', data);
   });
 });

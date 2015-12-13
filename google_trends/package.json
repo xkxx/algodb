@@ -1,0 +1,16 @@
+{
+  "name": "google_trends",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jsonfile": "^2.2.3",
+    "request": "^2.67.0"
+  }
+}
