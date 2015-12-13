@@ -1,3 +1,203 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a05c6a0d111cb59196a28f9a359f959ed8a7db810d091dbbb2cbe6c4a864d344
-size 13222
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Golomb coding - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Golomb coding</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Golomb_coding", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Golomb</b>_<b>coding</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "259", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSVBuwhhRAb1RkbtB_V6RuIxZ2ukCM66YkytxN_spOY_5RmnRd7IKNSQmmU", 
+                        "height": "194"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/9/93/Golomb_coded_Rice_Algorithm_experiment_Compression_Ratios.png"
+                    }
+                ]
+            }, 
+            "snippet": "Golomb coding is a lossless data compression method using a family of data \ncompression codes invented by Solomon W. Golomb in the 1960s. Alphabets\u00a0...", 
+            "htmlSnippet": "<b>Golomb coding</b> is a lossless data compression method using a family of data <br>\ncompression codes invented by Solomon W. Golomb in the 1960s. Alphabets&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Golomb_coding", 
+            "cacheId": "NsihSekPjW8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Exponential-Golomb coding - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Exponential-<b>Golomb coding</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Exponential-Golomb_coding", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Exponential-<b>Golomb</b>_<b>coding</b>", 
+            "snippet": "An exponential-Golomb code (or just Exp-Golomb code) is a type of universal \ncode. To encode any nonnegative integer x using the exp-Golomb code:.", 
+            "htmlSnippet": "An exponential-<b>Golomb code</b> (or just Exp-<b>Golomb code</b>) is a type of universal <br>\ncode. To encode any nonnegative integer x using the exp-<b>Golomb code</b>:.", 
+            "link": "https://en.wikipedia.org/wiki/Exponential-Golomb_coding", 
+            "cacheId": "vKGoxFXgSmsJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Universal code (data compression) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Universal <b>code</b> (data compression) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Universal_code_(data_compression)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Universal_<b>code</b>_(data_compression)", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQdSTNoKyhVOQBf7kdC1SrbJ25ftK_6nSR3OdYYe9tTN9Sli5aSRAXpGx8", 
+                        "height": "117"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Fibonacci,_Elias_Gamma,_and_Elias_Delta_encoding_schemes.GIF/220px-Fibonacci,_Elias_Gamma,_and_Elias_Delta_encoding_schemes.GIF"
+                    }
+                ]
+            }, 
+            "snippet": "In data compression, a universal code for integers is a prefix code that maps the \n... Exp-Golomb coding *, which has Elias gamma coding as a special case.", 
+            "htmlSnippet": "In data compression, a universal code for integers is a prefix code that maps the <br>\n... Exp-<b>Golomb coding</b> *, which has Elias gamma coding as a special case.", 
+            "link": "https://en.wikipedia.org/wiki/Universal_code_(data_compression)", 
+            "cacheId": "0yLdIxediM8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Golomb coding - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Golomb coding</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3AGolomb_coding", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>Golomb</b>_<b>coding</b>", 
+            "snippet": "Where is the mistake? Or if Golomb coding does use 111110 as 5 and Unary \ncoding uses 11110 as 5, then was it a mistake to say that Golomb uses Unary?", 
+            "htmlSnippet": "Where is the mistake? Or if <b>Golomb coding</b> does use 111110 as 5 and Unary <br>\ncoding uses 11110 as 5, then was it a mistake to say that Golomb uses Unary?", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3AGolomb_coding", 
+            "cacheId": "ncxEf1GmdgAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Unary coding - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Unary <b>coding</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Unary_coding", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Unary_<b>coding</b>", 
+            "snippet": "Although it is the optimal symbol-by-symbol coding for such probability \ndistributions, Golomb coding achieves better compression capability for the \ngeometric\u00a0...", 
+            "htmlSnippet": "Although it is the optimal symbol-by-symbol coding for such probability <br>\ndistributions, <b>Golomb coding</b> achieves better compression capability for the <br>\ngeometric&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Unary_coding", 
+            "cacheId": "Hraff2Knnx0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Exponential-Golomb coding - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:Exponential-<b>Golomb coding</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3AExponential-Golomb_coding", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3AExponential-<b>Golomb</b>_<b>coding</b>", 
+            "snippet": "This article is within the scope of WikiProject Computer science, a collaborative \neffort to improve the coverage of Computer science related articles on Wikipedia.", 
+            "htmlSnippet": "This article is within the scope of WikiProject Computer science, a collaborative <br>\neffort to improve the coverage of Computer science related articles on Wikipedia.", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3AExponential-Golomb_coding", 
+            "cacheId": "7FymxV2aPZAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Solomon W. Golomb - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Solomon W. <b>Golomb</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Solomon_W._Golomb", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Solomon_W._<b>Golomb</b>", 
+            "pagemap": {
+                "hcard": [
+                    {
+                        "bday": "1932-05-30", 
+                        "category": "Mathematics, engineering", 
+                        "fn": "Solomon W. Golomb"
+                    }
+                ]
+            }, 
+            "snippet": "Golomb was the inventor of Golomb coding, a form of entropy encoding. Golomb \nrulers, used in astronomy and in data encryption, are also named for him, as is\u00a0...", 
+            "htmlSnippet": "Golomb was the inventor of <b>Golomb coding</b>, a form of entropy encoding. Golomb <br>\nrulers, used in astronomy and in data encryption, are also named for him, as is&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Solomon_W._Golomb", 
+            "cacheId": "soSER4YaLsAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Elias gamma coding - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Elias gamma <b>coding</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Elias_gamma_coding", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Elias_gamma_<b>coding</b>", 
+            "snippet": "Elias gamma code is a universal code encoding positive integers developed by \n... Exponential-Golomb coding generalizes the gamma code to integers with a\u00a0...", 
+            "htmlSnippet": "Elias gamma code is a universal code encoding positive integers developed by <br>\n... Exponential-<b>Golomb coding</b> generalizes the gamma code to integers with a&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Elias_gamma_coding", 
+            "cacheId": "wSAUZgygYxUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Entropy encoding - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Entropy encoding - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Entropy_encoding", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Entropy_en<b>coding</b>", 
+            "snippet": "These static codes include universal codes (such as Elias gamma coding or \nFibonacci coding) and Golomb codes (such as unary coding or Rice coding).", 
+            "htmlSnippet": "These static codes include universal codes (such as Elias gamma coding or <br>\nFibonacci coding) and <b>Golomb codes</b> (such as unary coding or Rice coding).", 
+            "link": "https://en.wikipedia.org/wiki/Entropy_encoding", 
+            "cacheId": "aWEsMzC_z2YJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Golomb - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Golomb</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Golomb", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Golomb</b>", 
+            "snippet": "Golomb is a surname derived from a phonetical approximation of the Polish word \nGo\u0142\u0105b (meaning ... Golomb ruler and Golomb coding are named after him.", 
+            "htmlSnippet": "Golomb is a surname derived from a phonetical approximation of the Polish word <br>\nGo\u0142\u0105b (meaning ... Golomb ruler and <b>Golomb coding</b> are named after him.", 
+            "link": "https://en.wikipedia.org/wiki/Golomb", 
+            "cacheId": "q3I6tZgr7OoJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Golomb coding", 
+                "safe": "off", 
+                "searchTerms": "Golomb coding", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "322"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Golomb coding", 
+                "safe": "off", 
+                "searchTerms": "Golomb coding", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "322"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.32", 
+        "formattedTotalResults": "322", 
+        "totalResults": "322", 
+        "searchTime": 0.320595
+    }
+}

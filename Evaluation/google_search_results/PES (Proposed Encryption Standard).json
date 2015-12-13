@@ -1,3 +1,222 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d6282124f0ed7c9aad4adbad0aa6a17fab7dbb87465c2f42db12b9e5a2f4bbef
-size 15384
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "International Data Encryption Algorithm - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "International Data <b>Encryption Algorithm</b> - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../International_Data_Encryption_Algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../International_Data_<b>Encryption</b>_<b>Algorithm</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "221", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKE8uo0jyvfmlGJdeUcUnqGFpQfk6JwuR3j0nA2ODZPB9zl3Ze-srPgsIV", 
+                        "height": "228"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/International_Data_Encryption_Algorithm_InfoBox_Diagram.svg/280px-International_Data_Encryption_Algorithm_InfoBox_Diagram.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "IDEA is a minor revision of an earlier cipher, Proposed Encryption Standard (PES\n). The cipher was designed under a research contract with the Hasler\u00a0...", 
+            "htmlSnippet": "IDEA is a minor revision of an earlier cipher, <b>Proposed Encryption Standard</b> (<b>PES</b><br>\n). The cipher was designed under a research contract with the Hasler&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/International_Data_Encryption_Algorithm", 
+            "cacheId": "uJmUi1ff0HYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "PES - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>PES</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/PES", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>PES</b>", 
+            "snippet": "Look up PES or pes in Wiktionary, the free dictionary. ... Proposed Encryption \nStandard; PSTN Emulation System for IP Multimedia Subsystem (IMS); \nPsychiatric\u00a0...", 
+            "htmlSnippet": "Look up <b>PES</b> or <b>pes</b> in Wiktionary, the free dictionary. ... <b>Proposed Encryption</b> <br>\n<b>Standard</b>; PSTN Emulation System for IP Multimedia Subsystem (IMS); <br>\nPsychiatric&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/PES", 
+            "cacheId": "ImFZ1dBNgZYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "High-bandwidth Digital Content Protection - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "High-bandwidth Digital Content Protection - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../High-bandwidth_Digital_Content_Protection", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../High-bandwidth_Digital_Content_Protection", 
+            "snippet": "The system is meant to stop HDCP-encrypted content from being played on \nunauthorized .... Bochum revealed he had broken the HDCP 1.3 encryption \nstandard. ... Engadget said the attacker may have used the method proposed by \nCrosby in 2001 ... or uncompressed video (only specified for compressed over \nPES though).", 
+            "htmlSnippet": "The system is meant to stop HDCP-encrypted content from being played on <br>\nunauthorized .... Bochum revealed he had broken the HDCP 1.3 <b>encryption</b> <br>\n<b>standard</b>. ... Engadget said the attacker may have used the method <b>proposed</b> by <br>\nCrosby in 2001 ... or uncompressed video (only specified for compressed over <br>\n<b>PES</b> though).", 
+            "link": "https://en.wikipedia.org/wiki/High-bandwidth_Digital_Content_Protection", 
+            "cacheId": "pueINQVrjrcJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Pro Evolution Soccer - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Pro Evolution Soccer</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Pro_Evolution_Soccer", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Pro_Evolution_Soccer</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "240", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTvx1lpNfbtB-dV70GfEhwrKmUJmZAW6IZ9v4_DcoviT7-xD_fTLgkqXwA", 
+                        "height": "71"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/0/06/Pro_Evolution_Soccer_(series)_logo.png"
+                    }
+                ]
+            }, 
+            "snippet": "For the first game in the series, see Pro Evolution Soccer (video game). ... the \nuser the option to change the settings and choose to play with default players. ... \nHowever, fan communities invariably find ways to crack this encryption, and \npatches\u00a0...", 
+            "htmlSnippet": "For the first game in the series, see <b>Pro Evolution Soccer</b> (video game). ... the <br>\nuser the option to change the settings and choose to play with <b>default</b> players. ... <br>\nHowever, fan communities invariably find ways to crack this <b>encryption</b>, and <br>\npatches&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Pro_Evolution_Soccer", 
+            "cacheId": "Va2KEcKwo2AJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "CCMP - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "CCMP - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/CCMP", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/CCMP", 
+            "snippet": "Counter Mode Cipher Block Chaining Message Authentication Code ... CCMP is \nthe standard encryption protocol for use with the WPA2 standard and is much\u00a0...", 
+            "htmlSnippet": "Counter Mode <b>Cipher</b> Block Chaining Message Authentication Code ... CCMP is <br>\nthe <b>standard encryption</b> protocol for use with the WPA2 <b>standard</b> and is much&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/CCMP", 
+            "cacheId": "3U39Z4bJ6z8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Logical volume management - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Logical volume management - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Logical_volume", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Logical_volume", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "276", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5UFLae1AmZ4cxv1w5TuJBOCVQtbO4DfzmgV4_QVjASqJXLJNmgrrRdAVA", 
+                        "height": "182"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/LVM1.svg/500px-LVM1.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "Normally, PEs simply map one-to-one to logical extents (LEs). ... If the snapshot \nvolume was made smaller than its origin, which is a common practice, this ... \nallow for full disk encryption, as well as Fusion Drive, which is merely a multi-PV \nLVG.", 
+            "htmlSnippet": "Normally, <b>PEs</b> simply map one-to-one to logical extents (LEs). ... If the snapshot <br>\nvolume was made smaller than its origin, which is a <b>common</b> practice, this ... <br>\nallow for full disk <b>encryption</b>, as well as Fusion Drive, which is merely a multi-PV <br>\nLVG.", 
+            "link": "https://en.wikipedia.org/wiki/Logical_volume", 
+            "cacheId": "cKXcqnRtifMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "IP Multimedia Subsystem - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "IP Multimedia Subsystem - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/IP_Multimedia_Subsystem", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/IP_Multimedia_Subsystem", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "259", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTTOgMKKkZlW8_HSL7oox-sIUNJccMaciZM9HqvfF423_uuh-KTq95MePIa", 
+                        "height": "194"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/6/60/Ims_overview.png"
+                    }
+                ]
+            }, 
+            "snippet": "2.3 NGN interconnection; 2.4 Charging; 2.5 IMS-Based PES Architecture ... 3GPP \n/ TISPAN IMS architectural overview \u2013 HSS in IMS layer (as by standard) .... the \ninternal network from the outside world (encrypting parts of the SIP message),\u00a0...", 
+            "htmlSnippet": "2.3 NGN interconnection; 2.4 Charging; 2.5 IMS-Based <b>PES</b> Architecture ... 3GPP <br>\n/ TISPAN IMS architectural overview \u2013 HSS in IMS layer (as by <b>standard</b>) .... the <br>\ninternal network from the outside world (<b>encrypting</b> parts of the SIP message),&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/IP_Multimedia_Subsystem", 
+            "cacheId": "ISJo4tUmJ9wJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Virtual Private LAN Service - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Virtual Private LAN Service - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Virtual_Private_LAN_Service", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Virtual_Private_LAN_Service", 
+            "snippet": "The PWs constitute the \"data plane\", whereby PEs send customer VPN/VPLS \ntraffic ... In regular Ethernet deployments, Spanning Tree Protocol is used for this.", 
+            "htmlSnippet": "The PWs constitute the &quot;data plane&quot;, whereby <b>PEs</b> send customer VPN/VPLS <br>\ntraffic ... In <b>regular</b> Ethernet deployments, Spanning Tree Protocol is used for this.", 
+            "link": "https://en.wikipedia.org/wiki/Virtual_Private_LAN_Service", 
+            "cacheId": "WGNnGiMhRBEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Program-specific information - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Program-specific information - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Program-specific_information", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Program-specific_information", 
+            "snippet": "The streams themselves are contained in PES packets with user-defined PIDs .... \nan ECM (entitlement control messages) stream for any other stream that is \nencrypted. ... The is used by a network provider to maintain regular key updates.", 
+            "htmlSnippet": "The streams themselves are contained in <b>PES</b> packets with user-defined PIDs .... <br>\nan ECM (entitlement control messages) stream for any other stream that is <br>\n<b>encrypted</b>. ... The is used by a network provider to maintain <b>regular</b> key updates.", 
+            "link": "https://en.wikipedia.org/wiki/Program-specific_information", 
+            "cacheId": "kslOGC7ddL8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "VOB - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "VOB - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/VOB", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/VOB", 
+            "snippet": "VOB files are a very strict subset of the MPEG program stream standard. ... If \nsomeone is trying to copy the contents of an encrypted DVD-Video (e.g., VOB \nfiles)\u00a0...", 
+            "htmlSnippet": "VOB files are a very strict subset of the MPEG program stream <b>standard</b>. ... If <br>\nsomeone is trying to copy the contents of an <b>encrypted</b> DVD-Video (e.g., VOB <br>\nfiles)&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/VOB", 
+            "cacheId": "7_da0jS_53AJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - PES (Proposed Encryption Standard)", 
+                "safe": "off", 
+                "searchTerms": "PES (Proposed Encryption Standard)", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "93"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - PES (Proposed Encryption Standard)", 
+                "safe": "off", 
+                "searchTerms": "PES (Proposed Encryption Standard)", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "93"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.28", 
+        "formattedTotalResults": "93", 
+        "totalResults": "93", 
+        "searchTime": 0.279207
+    }
+}

@@ -1,3 +1,264 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0123c916c17e7e9e901409d2317a89564d1cc335524f1c047de8203843855962
-size 16553
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "SHA-1 - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>SHA</b>-<b>1</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/SHA-1", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>SHA</b>-<b>1</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "220", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQuhVjoSuxAB_GXNIhizzgjALnHyPVfw4vSFEj548Lh9GWspbi5zpl0o2c", 
+                        "height": "229"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/SHA-1.svg/300px-SHA-1.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "One iteration within the SHA-1 compression function: A, B, C, D ... The original \nspecification of the algorithm was published in 1993 under the title Secure Hash \nStandard, FIPS PUB 180, by U.S.\u00a0...", 
+            "htmlSnippet": "One iteration within the <b>SHA</b>-<b>1</b> compression function: A, B, C, D ... The original <br>\nspecification of the <b>algorithm</b> was published in 1993 under the title <b>Secure Hash</b> <br>\nStandard, FIPS PUB 180, by U.S.&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/SHA-1", 
+            "cacheId": "xlDqMRlzSR4J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Secure Hash Algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Secure Hash Algorithm</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Secure_Hash_Algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Secure</b>_<b>Hash</b>_<b>Algorithm</b>", 
+            "snippet": "SHA-1: A 160-bit hash function which resembles the earlier MD5 algorithm. This \nwas designed by the National Security Agency (NSA) to be part of the Digital\u00a0...", 
+            "htmlSnippet": "<b>SHA</b>-<b>1</b>: A 160-bit <b>hash</b> function which resembles the earlier MD5 <b>algorithm</b>. This <br>\nwas designed by the National Security Agency (NSA) to be part of the Digital&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Secure_Hash_Algorithm", 
+            "cacheId": "BhetYHGwuFoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "SHA-2 - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>SHA</b>-2 - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/SHA-2", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>SHA</b>-2", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "267", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTgsHj5_xnEAH6cREDZb0tB04kyxRhyb9fmL9VBcsTXqbGFtbyzIcGfDEw9", 
+                        "height": "188"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/SHA-2.svg/400px-SHA-2.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "The updated standard included the original SHA-1 algorithm, with ... PUB 180-4, \nadding the hash functions SHA-512/224 and SHA-512/256, and ... which \nprovides guidance for cryptographic key management.", 
+            "htmlSnippet": "The updated standard included the original <b>SHA</b>-<b>1 algorithm</b>, with ... PUB 180-4, <br>\nadding the <b>hash</b> functions SHA-512/224 and SHA-512/256, and ... which <br>\nprovides guidance for <b>cryptographic</b> key management.", 
+            "link": "https://en.wikipedia.org/wiki/SHA-2", 
+            "cacheId": "zTYkjX6VqaUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Cryptographic hash function - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Cryptographic hash</b> function - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Cryptographic_hash_function", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Cryptographic</b>_<b>hash</b>_function", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "264", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSwR18oouRGMEL39Aa-0zdkyKGL6-Ayeuw_0YAQaayM5bRFmCEeYGfQ8CE", 
+                        "height": "191"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Cryptographic_Hash_Function.svg/375px-Cryptographic_Hash_Function.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "A cryptographic hash function (specifically, SHA-1) at work. .... For example, an \nexponential time algorithm can sometimes still be fast enough to make a feasible\n\u00a0...", 
+            "htmlSnippet": "A <b>cryptographic hash</b> function (specifically, <b>SHA</b>-<b>1</b>) at work. .... For example, an <br>\nexponential time <b>algorithm</b> can sometimes still be fast enough to make a feasible<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Cryptographic_hash_function", 
+            "cacheId": "3NAYEb52tOMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "SHA-3 - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>SHA</b>-3 - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/SHA-3", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>SHA</b>-3", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "240", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZLhtHyPpKEbpWD7YKyIGQP6LOv_HtUguadX097wquyIMWo47SnsBKyw", 
+                        "height": "108"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/SpongeConstruction.svg/300px-SpongeConstruction.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "The Keccak algorithm is the work of Guido Bertoni, Joan Daemen (who ... for an \nalternative, dissimilar cryptographic hash, which became SHA-3.", 
+            "htmlSnippet": "The Keccak <b>algorithm</b> is the work of Guido Bertoni, Joan Daemen (who ... for an <br>\nalternative, dissimilar <b>cryptographic hash</b>, which became <b>SHA</b>-3.", 
+            "link": "https://en.wikipedia.org/wiki/SHA-3", 
+            "cacheId": "7rUd18FvYpUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Hash-based message authentication code - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Hash</b>-based message authentication code - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../Hash-based_message_authentication_code", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../<b>Hash</b>-based_message_authentication_code", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "260", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpPldLvJDFBfffho20A9U3BeSx8NxTKaDNf_offPFcng1-cJNzXnR7Of0", 
+                        "height": "194"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/SHAhmac.svg/400px-SHAhmac.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "Any cryptographic hash function, such as MD5 or SHA-1, may be used in the \ncalculation of an HMAC; the resulting MAC algorithm is termed HMAC-MD5 or\u00a0...", 
+            "htmlSnippet": "Any <b>cryptographic hash</b> function, such as MD5 or <b>SHA</b>-<b>1</b>, may be used in the <br>\ncalculation of an HMAC; the resulting MAC <b>algorithm</b> is termed HMAC-MD5 or&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Hash-based_message_authentication_code", 
+            "cacheId": "u7R4mcsmlC0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "MD5 - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "MD5 - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/MD5", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/MD5", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "213", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbR61O5nVt5ATdn437t53HyZUfzUJQSb-k5niYiahx3KH0m7jXiwWItIQA", 
+                        "height": "236"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/CPT-Hashing-File-Transmission.svg/350px-CPT-Hashing-File-Transmission.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "The MD5 message-digest algorithm is a widely used cryptographic hash function \n... such as SHA-1\u2014which has since been found to be vulnerable as well.", 
+            "htmlSnippet": "The MD5 message-digest <b>algorithm</b> is a widely used <b>cryptographic hash</b> function <br>\n... such as <b>SHA</b>-<b>1</b>\u2014which has since been found to be vulnerable as well.", 
+            "link": "https://en.wikipedia.org/wiki/MD5", 
+            "cacheId": "aBhG5qlLQP0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Secure Hash Standard - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Secure Hash</b> Standard - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Secure_Hash_Standard", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Secure</b>_<b>Hash</b>_Standard", 
+            "snippet": "The current version of the SHS standard is the document NIST FIPS 180-4, which \nspecifies seven Secure Hash Algorithms: SHA-1, SHA-224, SHA-256,\u00a0...", 
+            "htmlSnippet": "The current version of the SHS standard is the document NIST FIPS 180-4, which <br>\nspecifies seven <b>Secure Hash</b> Algorithms: <b>SHA</b>-<b>1</b>, SHA-224, SHA-256,&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Secure_Hash_Standard", 
+            "cacheId": "lGihIosLBLIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Hash function - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Hash</b> function - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Hash_function", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Hash</b>_function", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "192", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRCWEX46m4wOS10u7TXP4pU4WgSdQUGQvK8e0xkw26VPvT5kkbnFZBmFmDM", 
+                        "height": "147"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Hash_table_4_1_1_0_0_1_0_LL.svg/240px-Hash_table_4_1_1_0_0_1_0_LL.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "For example, SHA-1, one of the most widely used cryptographic hash ... The \nRabin\u2013Karp algorithm is a relatively fast string searching algorithm that works in\u00a0...", 
+            "htmlSnippet": "For example, <b>SHA</b>-<b>1</b>, one of the most widely used <b>cryptographic hash</b> ... The <br>\nRabin\u2013Karp <b>algorithm</b> is a relatively fast string searching <b>algorithm</b> that works in&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Hash_function", 
+            "cacheId": "P0QYCyD4M9oJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Salt (cryptography) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Salt (cryptography) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Salt_(cryptography)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Salt_(cryptography)", 
+            "snippet": "1 Unix implementations; 2 Web application implementations; 3 Benefits; 4 \nAdditional benefits ... Some additional references for using a salt to secure \npassword hashes in specific languages (PHP, . ... the security of the password \nhashing algorithm, including the generation of unique salt values, is adequate. ... \nSHA-3 finalists.", 
+            "htmlSnippet": "<b>1</b> Unix implementations; 2 Web application implementations; 3 Benefits; 4 <br>\nAdditional benefits ... Some additional references for using a salt to <b>secure</b> <br>\npassword hashes in specific languages (PHP, . ... the security of the password <br>\n<b>hashing algorithm</b>, including the generation of unique salt values, is adequate. ... <br>\n<b>SHA</b>-3 finalists.", 
+            "link": "https://en.wikipedia.org/wiki/Salt_(cryptography)", 
+            "cacheId": "yYqOldXZev4J"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - SHA-1 (Secure Hash Algorithm 1)", 
+                "safe": "off", 
+                "searchTerms": "SHA-1 (Secure Hash Algorithm 1)", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "546"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - SHA-1 (Secure Hash Algorithm 1)", 
+                "safe": "off", 
+                "searchTerms": "SHA-1 (Secure Hash Algorithm 1)", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "546"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.29", 
+        "formattedTotalResults": "546", 
+        "totalResults": "546", 
+        "searchTime": 0.287892
+    }
+}

@@ -1,3 +1,166 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6d9aa4ab396a3ef13a21f9f28a3825e7ecdfe0cbb579080dbaf000fff17307d7
-size 12126
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "NTRUEncrypt - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>NTRUEncrypt</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/NTRUEncrypt", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>NTRUEncrypt</b>", 
+            "snippet": "The NTRUEncrypt public key cryptosystem, also known as the NTRU encryption \nalgorithm, is a lattice-based alternative to RSA and ECC and is based on the\u00a0...", 
+            "htmlSnippet": "The <b>NTRUEncrypt</b> public key cryptosystem, also known as the NTRU encryption <br>\nalgorithm, is a lattice-based alternative to RSA and ECC and is based on the&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/NTRUEncrypt", 
+            "cacheId": "OG97afPcwy4J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "NTRU - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "NTRU - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/NTRU", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/NTRU", 
+            "snippet": "It consists of two algorithms: NTRUEncrypt, which is used for encryption, and \nNTRUSign, which is used for digital signatures. Unlike other popular public-key\u00a0...", 
+            "htmlSnippet": "It consists of two algorithms: <b>NTRUEncrypt</b>, which is used for encryption, and <br>\nNTRUSign, which is used for digital signatures. Unlike other popular public-key&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/NTRU", 
+            "cacheId": "-7cvga5S3cMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:NTRUEncrypt - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>NTRUEncrypt</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3ANTRUEncrypt", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>NTRUEncrypt</b>", 
+            "snippet": "Talk:NTRUEncrypt. From Wikipedia, the free encyclopedia. Jump to: navigation, \nsearch. WikiProject Cryptography / Computer science, [hide](Rated C-class,\u00a0...", 
+            "htmlSnippet": "Talk:<b>NTRUEncrypt</b>. From Wikipedia, the free encyclopedia. Jump to: navigation, <br>\nsearch. WikiProject Cryptography / Computer science, [hide](Rated C-class,&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3ANTRUEncrypt", 
+            "cacheId": "TUOM3Kky2swJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "NTRUSign - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "NTRUSign - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/NTRUSign", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/NTRUSign", 
+            "snippet": "... and solving the close vector problem in a lattice closely related to the \nNTRUEncrypt lattice. This lattice has the property that a private 2N-dimensional \nbasis for\u00a0...", 
+            "htmlSnippet": "... and solving the close vector problem in a lattice closely related to the <br>\n<b>NTRUEncrypt</b> lattice. This lattice has the property that a private 2N-dimensional <br>\nbasis for&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/NTRUSign", 
+            "cacheId": "FKKsyCE7EzsJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "NTRU Cryptosystems, Inc. - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "NTRU Cryptosystems, Inc. - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/NTRU_Cryptosystems,_Inc.", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/NTRU_Cryptosystems,_Inc.", 
+            "snippet": "Ntru's Cryptosystem provides for both encryption and digital signature called \nNTRUEncrypt and NTRUSign respectively. Alternative definitions for the acronym\n\u00a0...", 
+            "htmlSnippet": "Ntru&#39;s Cryptosystem provides for both encryption and digital signature called <br>\n<b>NTRUEncrypt</b> and NTRUSign respectively. Alternative definitions for the acronym<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/NTRU_Cryptosystems,_Inc.", 
+            "cacheId": "82VP8L37H_EJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Private information retrieval - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Private information retrieval - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Private_information_retrieval", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Private_information_retrieval", 
+            "snippet": "In cryptography, a private information retrieval (PIR) protocol allows a user to \nretrieve an item from a server in possession of a database without revealing \nwhich\u00a0...", 
+            "htmlSnippet": "In cryptography, a private information retrieval (PIR) protocol allows a user to <br>\nretrieve an item from a server in possession of a database without revealing <br>\nwhich&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Private_information_retrieval", 
+            "cacheId": "OcGzUKE5KgIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Template:Cryptography public-key - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Template:Cryptography public-key - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Template:Cryptography_public-key", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Template:Cryptography_public-key", 
+            "snippet": "CEILIDH \u00b7 EPOC \u00b7 HFE \u00b7 IES \u00b7 Lamport \u00b7 McEliece \u00b7 Merkle\u2013Hellman \u00b7 Naccache\u2013\nStern \u00b7 Naccache\u2013Stern knapsack cryptosystem \u00b7 NTRUEncrypt \u00b7 NTRUSign\u00a0...", 
+            "htmlSnippet": "CEILIDH &middot; EPOC &middot; HFE &middot; IES &middot; Lamport &middot; McEliece &middot; Merkle\u2013Hellman &middot; Naccache\u2013<br>\nStern &middot; Naccache\u2013Stern knapsack cryptosystem &middot; <b>NTRUEncrypt</b> &middot; NTRUSign&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Template:Cryptography_public-key", 
+            "cacheId": "DUmns28amWUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Category:Lattice-based cryptography - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Category:Lattice-based cryptography - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Category:Lattice-based_cryptography", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Category:Lattice-based_cryptography", 
+            "snippet": "NTRU \u00b7 NTRUEncrypt \u00b7 NTRUSign. Retrieved from \"https://en.wikipedia.org/w/\nindex.php?title=Category:Lattice-based_cryptography&oldid=487174828\".", 
+            "htmlSnippet": "NTRU &middot; <b>NTRUEncrypt</b> &middot; NTRUSign. Retrieved from &quot;https://en.wikipedia.org/w/<br>\nindex.php?title=Category:Lattice-based_cryptography&amp;oldid=487174828&quot;.", 
+            "link": "https://en.wikipedia.org/wiki/Category:Lattice-based_cryptography", 
+            "cacheId": "9LJhkWlDp6wJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Sub-group hiding - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Sub-group hiding - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Sub-group_hiding", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Sub-group_hiding", 
+            "snippet": "CEILIDH \u00b7 EPOC \u00b7 HFE \u00b7 IES \u00b7 Lamport \u00b7 McEliece \u00b7 Merkle\u2013Hellman \u00b7 Naccache\u2013\nStern \u00b7 Naccache\u2013Stern knapsack cryptosystem \u00b7 NTRUEncrypt \u00b7 NTRUSign\u00a0...", 
+            "htmlSnippet": "CEILIDH &middot; EPOC &middot; HFE &middot; IES &middot; Lamport &middot; McEliece &middot; Merkle\u2013Hellman &middot; Naccache\u2013<br>\nStern &middot; Naccache\u2013Stern knapsack cryptosystem &middot; <b>NTRUEncrypt</b> &middot; NTRUSign&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Sub-group_hiding", 
+            "cacheId": "LCX5Em0uVGwJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Schmidt-Samoa cryptosystem - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Schmidt-Samoa cryptosystem - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Schmidt-Samoa_cryptosystem", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Schmidt-Samoa_cryptosystem", 
+            "snippet": "CEILIDH \u00b7 EPOC \u00b7 HFE \u00b7 IES \u00b7 Lamport \u00b7 McEliece \u00b7 Merkle\u2013Hellman \u00b7 Naccache\u2013\nStern \u00b7 Naccache\u2013Stern knapsack cryptosystem \u00b7 NTRUEncrypt \u00b7 NTRUSign\u00a0...", 
+            "htmlSnippet": "CEILIDH &middot; EPOC &middot; HFE &middot; IES &middot; Lamport &middot; McEliece &middot; Merkle\u2013Hellman &middot; Naccache\u2013<br>\nStern &middot; Naccache\u2013Stern knapsack cryptosystem &middot; <b>NTRUEncrypt</b> &middot; NTRUSign&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Schmidt-Samoa_cryptosystem", 
+            "cacheId": "BpKPa9zxojwJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - NTRUEncrypt", 
+                "safe": "off", 
+                "searchTerms": "NTRUEncrypt", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "114"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - NTRUEncrypt", 
+                "safe": "off", 
+                "searchTerms": "NTRUEncrypt", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "114"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.25", 
+        "formattedTotalResults": "114", 
+        "totalResults": "114", 
+        "searchTime": 0.245166
+    }
+}

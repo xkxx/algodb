@@ -1,3 +1,208 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b9b2909e5dad89db53963ed5794386bf5fbea32c60dc8e27a0ec133f0a789475
-size 13318
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "RC4 - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>RC4</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/RC4", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>RC4</b>", 
+            "snippet": "In cryptography, RC4 (Rivest Cipher 4 also known as ARC4 or ARCFOUR \nmeaning Alleged RC4, see below) is a stream cipher. While remarkable for its\u00a0...", 
+            "htmlSnippet": "In cryptography, <b>RC4</b> (Rivest Cipher 4 also known as <b>ARC4</b> or ARCFOUR <br>\nmeaning Alleged <b>RC4</b>, see below) is a stream cipher. While remarkable for its&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/RC4", 
+            "cacheId": "0o0rn0woJrYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Temporal Key Integrity Protocol - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Temporal Key Integrity Protocol - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Temporal_Key_Integrity_Protocol", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Temporal_Key_Integrity_Protocol", 
+            "snippet": "First, TKIP implements a key mixing function that combines the secret root key \nwith the initialization vector before passing it to the RC4 initialization. WEP, in\u00a0...", 
+            "htmlSnippet": "First, TKIP implements a key mixing function that combines the secret root key <br>\nwith the initialization vector before passing it to the <b>RC4</b> initialization. WEP, in&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Temporal_Key_Integrity_Protocol", 
+            "cacheId": "fnQNUctJw-YJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Apple Software Update - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Apple Software Update - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Apple_Software_Update", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Apple_Software_Update", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR8QoxM430b9K5Euflp4e13jVeoW0Bl49PASj7kbAt5pPtqx3a1UlLY8PvU", 
+                        "height": "212"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2f/Software_Update_on_Mac_OS_X_10.7.3.png/220px-Software_Update_on_Mac_OS_X_10.7.3.png"
+                    }
+                ]
+            }, 
+            "snippet": "Performing test connections using openssl s_client showed the server would \nagree to RC4-MD5. In fact, ARC4-MD5 was the server's preferred cipher.", 
+            "htmlSnippet": "Performing test connections using openssl s_client showed the server would <br>\nagree to <b>RC4</b>-MD5. In fact, <b>ARC4</b>-MD5 was the server&#39;s preferred cipher.", 
+            "link": "https://en.wikipedia.org/wiki/Apple_Software_Update", 
+            "cacheId": "Bf2egBmmrTQJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "40-bit encryption - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "40-bit encryption - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/40-bit_encryption", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/40-bit_encryption", 
+            "snippet": "40-bit encryption was common in software released before 1999, especially \nthose based on the RC2 and RC4 algorithms, when algorithms with larger key\u00a0...", 
+            "htmlSnippet": "40-bit encryption was common in software released before 1999, especially <br>\nthose based on the RC2 and <b>RC4</b> algorithms, when algorithms with larger key&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/40-bit_encryption", 
+            "cacheId": "QGWP4G9Y3FEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Initialization vector - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Initialization vector - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Initialization_vector", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Initialization_vector", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "156", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcToq44AVfD3ieQGx8fD663rJuJlPJavf3QpmWlASn42VC27H4_ilx8sz-oi", 
+                        "height": "172"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Tux_ecb.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "Traditional stream ciphers such as RC4 do not support an explicit IV as input, and \na custom solution for incorporating an IV into the cipher's key or internal state\u00a0...", 
+            "htmlSnippet": "Traditional stream ciphers such as <b>RC4</b> do not support an explicit IV as input, and <br>\na custom solution for incorporating an IV into the cipher&#39;s key or internal state&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Initialization_vector", 
+            "cacheId": "l_t3jHjsekEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "/dev/random - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "/dev/random - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki//dev/random", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki//dev/random", 
+            "snippet": "... use an algorithm based on RC4 but renamed, for licensing purposes, ARC4. ... \nuses system entropy gathered in several ways, the ARC4 algorithm provides a\u00a0...", 
+            "htmlSnippet": "... use an algorithm based on <b>RC4</b> but renamed, for licensing purposes, <b>ARC4</b>. ... <br>\nuses system entropy gathered in several ways, the <b>ARC4</b> algorithm provides a&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki//dev/random", 
+            "cacheId": "fZu2AJmbswYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Random are numbers", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Random are numbers", 
+            "formattedUrl": "https://en.wikipedia.org/.../Cryptographically_secure_pseudorandom_number _generator", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Cryptographically_secure_pseudorandom_number _generator", 
+            "snippet": "The cipher can only be secure if the original stream is a good CSPRNG, although \nthis is not necessarily the case (see the RC4 cipher). Again, the initial state\u00a0...", 
+            "htmlSnippet": "The cipher can only be secure if the original stream is a good CSPRNG, although <br>\nthis is not necessarily the case (see the <b>RC4</b> cipher). Again, the initial state&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Cryptographically_secure_pseudorandom_number_generator", 
+            "cacheId": "FugoEZjYIP8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Stream cipher - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Stream cipher - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Stream_cipher", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Stream_cipher", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "224", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkyCWfNH1qeGqJ4SwHOuEjZNA81w1PA3hgw3HawUBTuUCLIN_8k7MPfBWD", 
+                        "height": "144"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/A5-1_GSM_cipher.svg/280px-A5-1_GSM_cipher.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "Some applications using the stream cipher RC4 are attackable because of \nweaknesses in RC4's key setup routine; new applications should either avoid \nRC4 or\u00a0...", 
+            "htmlSnippet": "Some applications using the stream cipher <b>RC4</b> are attackable because of <br>\nweaknesses in <b>RC4&#39;s</b> key setup routine; new applications should either avoid <br>\n<b>RC4</b> or&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Stream_cipher", 
+            "cacheId": "ZCYJuECwVaEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "HC-256 - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "HC-256 - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/HC-256", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/HC-256", 
+            "snippet": "Stream ciphers. Widely used ciphers. RC4 \u00b7 Block ciphers in stream mode \u00b7 \nChaCha \u00b7 eSTREAM Portfolio. Software. HC-256; Rabbit \u00b7 Salsa20 \u00b7 \nSOSEMANUK.", 
+            "htmlSnippet": "Stream ciphers. Widely used ciphers. <b>RC4</b> &middot; Block ciphers in stream mode &middot; <br>\nChaCha &middot; eSTREAM Portfolio. Software. HC-256; Rabbit &middot; Salsa20 &middot; <br>\nSOSEMANUK.", 
+            "link": "https://en.wikipedia.org/wiki/HC-256", 
+            "cacheId": "mO5Jr48T5yIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "wolfSSL - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "wolfSSL - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/WolfSSL", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/WolfSSL", 
+            "snippet": "In addition, it's not known to be vulnerable to quantum attacks. Several cipher \nsuites utilizing NTRU are available with CyaSSL+ including AES-256, RC4, and\u00a0...", 
+            "htmlSnippet": "In addition, it&#39;s not known to be vulnerable to quantum attacks. Several cipher <br>\nsuites utilizing NTRU are available with CyaSSL+ including AES-256, <b>RC4</b>, and&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/WolfSSL", 
+            "cacheId": "aW1zu7qk-u4J"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - RC4 or ARC4", 
+                "safe": "off", 
+                "searchTerms": "RC4 or ARC4", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "19"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - RC4 or ARC4", 
+                "safe": "off", 
+                "searchTerms": "RC4 or ARC4", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "19"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.25", 
+        "formattedTotalResults": "19", 
+        "totalResults": "19", 
+        "searchTime": 0.245324
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "Nelder-Mead method (downhill simplex method)": [
+        "https://en.wikipedia.org/wiki/Nelder\u2013Mead_method", 
+        "https://en.wikipedia.org/wiki/CMA-ES", 
+        "https://en.wikipedia.org/wiki/Graph_algorithm", 
+        "https://en.wikipedia.org/wiki/Gauss\u2013Newton_algorithm", 
+        "https://en.wikipedia.org/wiki/Hill_climbing"
+    ]
+}

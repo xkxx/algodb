@@ -1,0 +1,11 @@
+{
+    "Richardson eigenvector algorithm": [
+        "https://en.wikipedia.org/wiki/Richardson\u2013Lucy_deconvolution", 
+        "https://en.wikipedia.org/wiki/Jacobi_eigenvalue_algorithm", 
+        "https://en.wikipedia.org/wiki/Eigenvalue_algorithm", 
+        "https://en.wikipedia.org/.../Divide-and-conquer_eigenvalue_algorithm", 
+        "https://en.wikipedia.org/wiki/PageRank", 
+        "https://en.wikipedia.org/wiki/Power_iteration", 
+        "https://en.wikipedia.org/wiki/Lanczos_algorithm"
+    ]
+}

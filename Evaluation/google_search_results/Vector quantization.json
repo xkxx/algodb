@@ -1,3 +1,194 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:57bc71cbc04a7a4b6279d021a207e898a36cb124e588aa64791ed11647197f34
-size 13335
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Vector quantization - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Vector quantization</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Vector_quantization", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Vector</b>_<b>quantization</b>", 
+            "snippet": "Vector quantization (VQ) is a classical quantization technique from signal \nprocessing that allows the modeling of probability density functions by the \ndistribution\u00a0...", 
+            "htmlSnippet": "<b>Vector quantization</b> (<b>VQ</b>) is a classical quantization technique from signal <br>\nprocessing that allows the modeling of probability density functions by the <br>\ndistribution&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Vector_quantization", 
+            "cacheId": "itm0s2TPfSwJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Learning vector quantization - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Learning <b>vector quantization</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Learning_vector_quantization", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Learning_<b>vector</b>_<b>quantization</b>", 
+            "snippet": "In computer science, learning vector quantization (LVQ), is a prototype-based \nsupervised classification algorithm. LVQ is the supervised counterpart of vector\u00a0...", 
+            "htmlSnippet": "In computer science, learning <b>vector quantization</b> (LVQ), is a prototype-based <br>\nsupervised classification algorithm. LVQ is the supervised counterpart of vector&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Learning_vector_quantization", 
+            "cacheId": "hLeAS5Qc2qcJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Twin vector quantization - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Twin <b>vector quantization</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Twin_vector_quantization", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Twin_<b>vector</b>_<b>quantization</b>", 
+            "snippet": "In data compression, twin vector quantization is related to vector quantization, but \nthe speed of the quantization is doubled by the secondary vector analyzer.", 
+            "htmlSnippet": "In data compression, twin <b>vector quantization</b> is related to <b>vector quantization</b>, but <br>\nthe speed of the quantization is doubled by the secondary vector analyzer.", 
+            "link": "https://en.wikipedia.org/wiki/Twin_vector_quantization", 
+            "cacheId": "zGqaTJ8IJx8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Linde\u2013Buzo\u2013Gray algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Linde\u2013Buzo\u2013Gray algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Linde\u2013Buzo\u2013Gray_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Linde\u2013Buzo\u2013Gray_algorithm", 
+            "snippet": "The Linde\u2013Buzo\u2013Gray algorithm (introduced by Yoseph Linde, Andr\u00e9s Buzo and \nRobert M. Gray in 1980) is a vector quantization algorithm to derive a good\u00a0...", 
+            "htmlSnippet": "The Linde\u2013Buzo\u2013Gray algorithm (introduced by Yoseph Linde, Andr\u00e9s Buzo and <br>\nRobert M. Gray in 1980) is a <b>vector quantization</b> algorithm to derive a good&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Linde%E2%80%93Buzo%E2%80%93Gray_algorithm", 
+            "cacheId": "dyp0M54tiLEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Quantization (signal processing) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Quantization</b> (signal processing) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Quantization_(signal_processing)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Quantization</b>_(signal_processing)", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "385", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSSnZ3YGsMdm6KqKDrK86LsNhLY2fMQUmo5wQ6PPiCTtCOVbbGGkhjBs2w", 
+                        "height": "131"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Quantization_error.png/500px-Quantization_error.png"
+                    }
+                ]
+            }, 
+            "snippet": "The input and output sets involved in quantization can be defined in a rather \ngeneral way. For example, vector quantization is the application of quantization \nto\u00a0...", 
+            "htmlSnippet": "The input and output sets involved in quantization can be defined in a rather <br>\ngeneral way. For example, <b>vector quantization</b> is the application of quantization <br>\nto&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Quantization_(signal_processing)", 
+            "cacheId": "sDfgWlpbwA0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Vector quantization - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Vector quantization</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3AVector_quantization", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>Vector</b>_<b>quantization</b>", 
+            "snippet": "'Some math'. An expression occurring in existential sentences. \"For some x\" is the \nsame as \" exists x.\" Unlike in everyday language, it is does not necessarily\u00a0...", 
+            "htmlSnippet": "&#39;Some math&#39;. An expression occurring in existential sentences. &quot;For some x&quot; is the <br>\nsame as &quot; exists x.&quot; Unlike in everyday language, it is does not necessarily&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3AVector_quantization", 
+            "cacheId": "Dpo-zxKZ3QsJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Twin vector quantization - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:Twin <b>vector quantization</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3ATwin_vector_quantization", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3ATwin_<b>vector</b>_<b>quantization</b>", 
+            "snippet": "This article is within the scope of WikiProject Computing, a collaborative effort to \nimprove the coverage of computers, computing, and information technology on\u00a0...", 
+            "htmlSnippet": "This article is within the scope of WikiProject Computing, a collaborative effort to <br>\nimprove the coverage of computers, computing, and information technology on&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3ATwin_vector_quantization", 
+            "cacheId": "_52TLOE0jfQJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Lloyd's algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Lloyd&#39;s algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Lloyd's_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Lloyd&#39;s_algorithm", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "160", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRNo0gIFxxgTJldzeSA2iYaZUnFbZhcnIP9iTDTfe8vCJixiIeWd0P-j0o", 
+                        "height": "160"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/LloydsMethod1.svg/200px-LloydsMethod1.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "Lloyd's method was originally used for scalar quantization, but it is clear that the \nmethod extends for vector quantization as well. As such, it is extensively used in\u00a0...", 
+            "htmlSnippet": "Lloyd&#39;s method was originally used for scalar quantization, but it is clear that the <br>\nmethod extends for <b>vector quantization</b> as well. As such, it is extensively used in&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Lloyd's_algorithm", 
+            "cacheId": "nHiEV6LboXkJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "TwinVQ - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "TwinVQ - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/TwinVQ", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/TwinVQ", 
+            "snippet": "TwinVQ (transform-domain weighted interleave vector quantization) is an audio \ncompression technique developed by Nippon Telegraph and Telephone\u00a0...", 
+            "htmlSnippet": "TwinVQ (transform-domain weighted interleave <b>vector quantization</b>) is an audio <br>\ncompression technique developed by Nippon Telegraph and Telephone&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/TwinVQ", 
+            "cacheId": "0aBNp3XtSasJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "k-means clustering - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "k-means clustering - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/K-means_clustering", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/K-means_clustering", 
+            "snippet": "k-means clustering is a method of vector quantization, originally from signal \nprocessing, that is popular for cluster analysis in data mining. k-means clustering\n\u00a0...", 
+            "htmlSnippet": "k-means clustering is a method of <b>vector quantization</b>, originally from signal <br>\nprocessing, that is popular for cluster analysis in data mining. k-means clustering<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/K-means_clustering", 
+            "cacheId": "sqhrmgwEfQcJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Vector quantization", 
+                "safe": "off", 
+                "searchTerms": "Vector quantization", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "1010"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Vector quantization", 
+                "safe": "off", 
+                "searchTerms": "Vector quantization", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "1010"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.26", 
+        "formattedTotalResults": "1,010", 
+        "totalResults": "1010", 
+        "searchTime": 0.261102
+    }
+}

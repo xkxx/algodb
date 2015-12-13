@@ -1,0 +1,9 @@
+{
+    "Delta encoding": [
+        "https://en.wikipedia.org/wiki/Incremental_encoding", 
+        "https://en.wikipedia.org/wiki/Data_differencing", 
+        "https://en.wikipedia.org/wiki/VCDIFF", 
+        "https://en.wikipedia.org/wiki/Xdelta", 
+        "https://en.wikipedia.org/wiki/Rsync"
+    ]
+}

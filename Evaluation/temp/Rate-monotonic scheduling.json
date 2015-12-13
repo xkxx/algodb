@@ -1,0 +1,9 @@
+{
+    "Rate-monotonic scheduling": [
+        "https://en.wikipedia.org/wiki/Rate-monotonic_scheduling", 
+        "https://en.wikipedia.org/wiki/Earliest_deadline_first_scheduling", 
+        "https://en.wikipedia.org/wiki/Deadline-monotonic_scheduling", 
+        "https://en.wikipedia.org/wiki/Least_slack_time_scheduling", 
+        "https://en.wikipedia.org/wiki/Real-time_operating_system"
+    ]
+}

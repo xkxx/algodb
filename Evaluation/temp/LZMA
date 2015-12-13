@@ -1,0 +1,9 @@
+{
+    "LZMA": [
+        "https://en.wikipedia.org/wiki/Lempel\u2013Ziv\u2013Markov_chain_algorithm", 
+        "https://en.wikipedia.org/wiki/Xz", 
+        "https://en.wikipedia.org/wiki/Lzip", 
+        "https://en.wikipedia.org/wiki/7z", 
+        "https://en.wikipedia.org/wiki/7-Zip"
+    ]
+}

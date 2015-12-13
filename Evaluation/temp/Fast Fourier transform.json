@@ -1,0 +1,10 @@
+{
+    "Fast Fourier transform": [
+        "https://en.wikipedia.org/wiki/Fast_Fourier_transform", 
+        "https://en.wikipedia.org/wiki/Cooley\u2013Tukey_FFT_algorithm", 
+        "https://en.wikipedia.org/wiki/Fourier_transform", 
+        "https://en.wikipedia.org/wiki/Cyclotomic_fast_Fourier_transform", 
+        "https://en.wikipedia.org/wiki/Discrete_Fourier_transform", 
+        "https://en.wikipedia.org/wiki/Prime-factor_FFT_algorithm"
+    ]
+}

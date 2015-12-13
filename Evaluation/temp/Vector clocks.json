@@ -1,0 +1,9 @@
+{
+    "Vector clocks": [
+        "https://en.wikipedia.org/wiki/Vector_clock", 
+        "https://en.wikipedia.org/wiki/Logical_clock", 
+        "https://en.wikipedia.org/wiki/Lamport_timestamps", 
+        "https://en.wikipedia.org/wiki/Happened-before", 
+        "https://en.wikipedia.org/wiki/Friedemann_Mattern"
+    ]
+}

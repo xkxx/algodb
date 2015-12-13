@@ -3,7 +3,7 @@ var fetch = require('node-fetch');
 fetch.Promise = bluebird;
 var path = require('path');
 var downloadUrl = "https://api.npmjs.org/downloads/point/last-month/";
-var npmStat = require('npm-stats')('http://127.0.0.1:5984/');
+var npmStat = require('npm-stats')('http://127.0.0.1:5984/', {modules: 'npm'});
 var fs = bluebird.promisifyAll(require('fs'));
 
 var matchGithub = /github.com\/([\w\d-_]*)\/([\w\d-_]*)/;
@@ -78,7 +78,7 @@ exports.getDescForPkg = getDescForPkg;
 
 var moduleListAsync = bluebird.promisify(npmStat.list);
 var getAllPkgs = function() {
-  return fetch('http://localhost:5984/registry/_all_docs')
+  return fetch('http://localhost:5984/npm/_all_docs')
   .then((res) => res.json())
   .then(function(res) {
     return res.rows.map((item)=>item.key);

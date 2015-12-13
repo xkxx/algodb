@@ -1,3 +1,208 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:410908c75275cd58493d1a2ea3de8a1f6957f212ccabee0525fc28266afed14f
-size 13773
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Subset sum problem - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Subset sum</b> problem - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Subset_sum_problem", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Subset</b>_<b>sum</b>_problem", 
+            "snippet": "In computer science, the subset sum problem is one of the important problems in \ncomplexity theory and cryptography. The problem is this: given a set (or\u00a0...", 
+            "htmlSnippet": "In computer science, the <b>subset sum</b> problem is one of the important problems in <br>\ncomplexity theory and cryptography. The problem is this: given a set (or&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Subset_sum_problem", 
+            "cacheId": "0ELQSjIpqdoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Partition problem - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Partition problem - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Partition_problem", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Partition_problem", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "194", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQxxLknHUINZJ-c7qZz1sB0cQcw1gD8krBUAh-2l7lV20a6wfHMMaj7qnk", 
+                        "height": "259"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Partition_Problem_DP_table_showing_dependencies.png/300px-Partition_Problem_DP_table_showing_dependencies.png"
+                    }
+                ]
+            }, 
+            "snippet": "There is an optimization version of the partition problem, which is to partition the \nmultiset S into two subsets S1, S2 such that the difference between the sum of\u00a0...", 
+            "htmlSnippet": "There is an optimization version of the partition problem, which is to partition the <br>\nmultiset S into two <b>subsets</b> S1, S2 such that the difference between the <b>sum</b> of&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Partition_problem", 
+            "cacheId": "QGgKFN3ezq4J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "NP-equivalent - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "NP-equivalent - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/NP-equivalent", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/NP-equivalent", 
+            "snippet": "For example, the problem FIND-SUBSET-SUM is in NP-equivalent. Given a set of \nintegers, FIND-SUBSET-SUM is the problem of finding some nonempty subset\u00a0...", 
+            "htmlSnippet": "For example, the problem FIND-<b>SUBSET</b>-<b>SUM</b> is in NP-equivalent. Given a set of <br>\nintegers, FIND-<b>SUBSET</b>-<b>SUM</b> is the problem of finding some nonempty subset&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/NP-equivalent", 
+            "cacheId": "K4pTHBDSkT4J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Knapsack problem - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Knapsack problem - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Knapsack_problem", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Knapsack_problem", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "200", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR0KNJjJk6CP_oGNwwcLXH2I7wmE8tRWm1R2wJ67TuEUuVi7VeRjQzZYr2D", 
+                        "height": "173"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Knapsack.svg/250px-Knapsack.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "Of the possible subsets of problems whose total point values add up to 100, ..... \nThe subset sum problem is a special case of the decision and 0-1 problems\u00a0...", 
+            "htmlSnippet": "Of the possible subsets of problems whose total point values add up to 100, ..... <br>\nThe <b>subset sum</b> problem is a special case of the decision and 0-1 problems&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Knapsack_problem", 
+            "cacheId": "3t1xbYebNPgJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Merkle\u2013Hellman knapsack cryptosystem - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Merkle\u2013Hellman knapsack cryptosystem - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../Merkle\u2013Hellman_knapsack_cryptosystem", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Merkle\u2013Hellman_knapsack_cryptosystem", 
+            "snippet": "The Merkle-Hellman system is based on the subset sum problem (a special case \nof the knapsack problem). The problem is as follows: given a set of numbers A\u00a0...", 
+            "htmlSnippet": "The Merkle-Hellman system is based on the <b>subset sum</b> problem (a special case <br>\nof the knapsack problem). The problem is as follows: given a set of numbers A&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Merkle%E2%80%93Hellman_knapsack_cryptosystem", 
+            "cacheId": "zOkK4YeM_u4J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Subset sum problem - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Subset sum</b> problem - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3ASubset_sum_problem", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>Subset</b>_<b>sum</b>_problem", 
+            "snippet": "The Subset Sum problem is a good one for addressing the NP-complete class of \nproblems. There are three reasons for this. - It is an exact, and not an optimal\u00a0...", 
+            "htmlSnippet": "The <b>Subset Sum</b> problem is a good one for addressing the NP-complete class of <br>\nproblems. There are three reasons for this. - It is an exact, and not an optimal&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3ASubset_sum_problem", 
+            "cacheId": "_W8UZykd6ioJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Maximum subarray problem - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Maximum subarray problem - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Maximum_subarray_problem", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Maximum_subarray_problem", 
+            "snippet": "This subarray is either empty (in which case its sum is zero) or consists of one \nmore element than the maximum subarray ending at the ... Subset sum problem\u00a0...", 
+            "htmlSnippet": "This subarray is either empty (in which case its sum is zero) or consists of one <br>\nmore element than the maximum subarray ending at the ... <b>Subset sum</b> problem&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Maximum_subarray_problem", 
+            "cacheId": "GdE74gRWaKIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Category:Weakly NP-complete problems - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Category:Weakly NP-complete problems - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../Category:Weakly_NP-complete_problems", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Category:Weakly_NP-complete_problems", 
+            "snippet": "This list may not reflect recent changes (learn more). 0. 0-1 knapsack problem. K. \nKnapsack problem. P. Partition problem. S. Subset sum problem. W. Weak NP-\u00a0...", 
+            "htmlSnippet": "This list may not reflect recent changes (learn more). 0. 0-1 knapsack problem. K. <br>\nKnapsack problem. P. Partition problem. S. <b>Subset sum</b> problem. W. Weak NP-&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Category:Weakly_NP-complete_problems", 
+            "cacheId": "r2cyVz-XKLkJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Zero-sum problem - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Zero-<b>sum</b> problem - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Zero-sum_problem", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Zero-<b>sum</b>_problem", 
+            "snippet": "... multiset of 2n \u2212 1 integers has a subset of size n the sum of whose elements is \na multiple of n. This result is known as the Erd\u0151s\u2013Ginzburg\u2013Ziv theorem after its\u00a0...", 
+            "htmlSnippet": "... multiset of 2n \u2212 1 integers has a <b>subset</b> of size n the <b>sum</b> of whose elements is <br>\na multiple of n. This result is known as the Erd\u0151s\u2013Ginzburg\u2013Ziv theorem after its&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Zero-sum_problem", 
+            "cacheId": "AqG4WBcqcdMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "P versus NP problem - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "P versus NP problem - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/P_versus_NP_problem", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/P_versus_NP_problem", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "200", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQjw6tLt8_26X1cOKWp-GppSATMpvGoMpoYy43_lQ4v5_pZVFctYIubtw", 
+                        "height": "123"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Complexity_classes.svg/250px-Complexity_classes.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "Consider the subset sum problem, an example of a problem that is easy to verify, \nbut whose answer may be difficult to compute. Given a set of integers, does\u00a0...", 
+            "htmlSnippet": "Consider the <b>subset sum</b> problem, an example of a problem that is easy to verify, <br>\nbut whose answer may be difficult to compute. Given a set of integers, does&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/P_versus_NP_problem", 
+            "cacheId": "iLMSTAn9F0wJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Subset sum", 
+                "safe": "off", 
+                "searchTerms": "Subset sum", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "4970"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Subset sum", 
+                "safe": "off", 
+                "searchTerms": "Subset sum", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "4970"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.27", 
+        "formattedTotalResults": "4,970", 
+        "totalResults": "4970", 
+        "searchTime": 0.272897
+    }
+}

@@ -1,3 +1,208 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:355507a5eea4c5fa0607373c9d7045ba22971c68246cdb0aebb35178c85faf6f
-size 13582
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Fractal compression - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Fractal compression</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Fractal_compression", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Fractal</b>_<b>compression</b>", 
+            "snippet": "Fractal compression is a lossy compression method for digital images, based on \nfractals. The method is best suited for textures and natural images, relying on\u00a0...", 
+            "htmlSnippet": "<b>Fractal compression</b> is a lossy compression method for digital images, based on <br>\nfractals. The method is best suited for textures and natural images, relying on&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Fractal_compression", 
+            "cacheId": "NkepQHrFo8kJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Michael Barnsley - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Michael Barnsley - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Michael_Barnsley", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Michael_Barnsley", 
+            "snippet": "Michael Fielding Barnsley, born in 1946, is a British mathematician, researcher \nand an entrepreneur who has worked on fractal compression; he holds several\u00a0...", 
+            "htmlSnippet": "Michael Fielding Barnsley, born in 1946, is a British mathematician, researcher <br>\nand an entrepreneur who has worked on <b>fractal compression</b>; he holds several&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Michael_Barnsley", 
+            "cacheId": "opup5XsFuDIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Fractal transform - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Fractal</b> transform - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Fractal_transform", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Fractal</b>_transform", 
+            "snippet": "[edit]. Start with a digital image A1. Downsample it by a factor of 2 to produce \nimage A2. Now, for each\u00a0...", 
+            "htmlSnippet": "[edit]. Start with a digital image A1. Downsample it by a factor of 2 to produce <br>\nimage A2. Now, for each&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Fractal_transform", 
+            "cacheId": "OU0h1VQQjrkJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "User:Editor5435 - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "User:Editor5435 - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/User:Editor5435", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/User:Editor5435", 
+            "snippet": "I am interest in fractal compression and would like to clarify myths and wild \nspeculation about this technology. There are new developments taking place and \nI\u00a0...", 
+            "htmlSnippet": "I am interest in <b>fractal compression</b> and would like to clarify myths and wild <br>\nspeculation about this technology. There are new developments taking place and <br>\nI&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/User:Editor5435", 
+            "cacheId": "LELOKJ6Yjt4J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Fractal compression - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Fractal compression</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3AFractal_compression", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>Fractal</b>_<b>compression</b>", 
+            "snippet": "Ya, it's kinda a horse a piece. fractal compression is \"resolution independent\" in \nthe same way a vector graphic is. and while fractal scaling can be used as a\u00a0...", 
+            "htmlSnippet": "Ya, it&#39;s kinda a horse a piece. <b>fractal compression</b> is &quot;resolution independent&quot; in <br>\nthe same way a vector graphic is. and while fractal scaling can be used as a&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3AFractal_compression", 
+            "cacheId": "xqc8ZmEDghQJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Fractal - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Fractal</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Fractal", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Fractal</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "146", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSbKRMLq5wJgP-K-y2df-aKrvSH2M4Z_GgJy08b0lr3Cr_pYAfNVK0nig", 
+                        "height": "93"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Mandelbrot-similar-x6.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "The same fractal as above, magnified a 2000-fold, where the Mandelbrot set ..... \nGeneration of new music \u00b7 Signal and image compression; Creation of digital\u00a0...", 
+            "htmlSnippet": "The same <b>fractal</b> as above, magnified a 2000-fold, where the Mandelbrot set ..... <br>\nGeneration of new music &middot; Signal and image <b>compression</b>; Creation of digital&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Fractal", 
+            "cacheId": "6HY3z9TP84MJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Fractal image compression - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Fractal</b> image <b>compression</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3AFractal_image_compression", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>Fractal</b>_image_<b>compression</b>", 
+            "snippet": "... navigation, search. Please do not delete this page! It represents a genuine \neffort from the student community to spread the word on fractal image \ncompression.", 
+            "htmlSnippet": "... navigation, search. Please do not delete this page! It represents a genuine <br>\neffort from the student community to spread the word on <b>fractal</b> image <br>\n<b>compression</b>.", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3AFractal_image_compression", 
+            "cacheId": "5JS214Un4mYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Collage theorem - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Collage theorem - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Collage_theorem", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Collage_theorem", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "150", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRF9dCD9KRUVUqBc4S0cGECdq_58SUhuvgdOGMNtgRTBJXsAQZjOlD6mOo", 
+                        "height": "42"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/math/9/c/a/9ca2832bb877325c26d44f297482db23.png"
+                    }
+                ]
+            }, 
+            "snippet": "... arbitrarily close to the given set. It is typically used in fractal compression. ... to \napproximate real images. Expository Paper on Fractals and Collage theorem\u00a0...", 
+            "htmlSnippet": "... arbitrarily close to the given set. It is typically used in <b>fractal compression</b>. ... to <br>\napproximate real images. Expository Paper on Fractals and Collage theorem&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Collage_theorem", 
+            "cacheId": "NogN1RpPQHsJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Image compression - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Image <b>compression</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Image_compression", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Image_<b>compression</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "200", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSFZd0UVRBBFJs4lU2hQdFAnPZju5jA1rddleJUkgS6JzfI7jKaHsfBVtg", 
+                        "height": "166"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Quality_comparison_jpg_vs_saveforweb.jpg/250px-Quality_comparison_jpg_vs_saveforweb.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "1 Lossy and lossless Image compression; 2 Other properties; 3 Notes and \nreferences ... Image compression may be lossy or lossless. ... Fractal \ncompression.", 
+            "htmlSnippet": "1 Lossy and lossless Image compression; 2 Other properties; 3 Notes and <br>\nreferences ... Image compression may be lossy or lossless. ... <b>Fractal</b> <br>\n<b>compression</b>.", 
+            "link": "https://en.wikipedia.org/wiki/Image_compression", 
+            "cacheId": "ZjvKi3jn3x0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Wikipedia:Administrators' noticeboard/Incidents/Editor5435 & Spot ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Wikipedia:Administrators&#39; noticeboard/Incidents/Editor5435 &amp; Spot <b>...</b>", 
+            "formattedUrl": "en.wikipedia.org/wiki/Wikipedia.../Editor5435_%26_Spot", 
+            "htmlFormattedUrl": "en.wikipedia.org/wiki/Wikipedia.../Editor5435_%26_Spot", 
+            "snippet": "Spot's unscrupulous methods to bring my contributions into question and to \ndiscredit fractal compression are obvious and transparent. If you read the fractal\u00a0...", 
+            "htmlSnippet": "Spot&#39;s unscrupulous methods to bring my contributions into question and to <br>\ndiscredit <b>fractal compression</b> are obvious and transparent. If you read the fractal&nbsp;...", 
+            "link": "http://en.wikipedia.org/wiki/Wikipedia:Administrators'_noticeboard/Incidents/Editor5435_%26_Spot", 
+            "cacheId": "rpSa9k16QbsJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Fractal compression", 
+                "safe": "off", 
+                "searchTerms": "Fractal compression", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "691"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Fractal compression", 
+                "safe": "off", 
+                "searchTerms": "Fractal compression", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "691"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.22", 
+        "formattedTotalResults": "691", 
+        "totalResults": "691", 
+        "searchTime": 0.218966
+    }
+}

@@ -1,3 +1,243 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b9fb41d56964d58b62b8aef5cf4e7f8c075353742847e739d561afc9cc0b62e3
-size 15546
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Gift wrapping - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Gift wrapping</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Gift_wrapping", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Gift</b>_<b>wrapping</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTavdscUmOnlQdvoO_ZoNJYURgo8ZpaBHvGbyLgmK9bORJZtnA6637MwJY", 
+                        "height": "132"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Traditional_Japanese_wrapping_cloth,huroshiki,katori-city,japan.JPG/220px-Traditional_Japanese_wrapping_cloth,huroshiki,katori-city,japan.JPG"
+                    }
+                ]
+            }, 
+            "snippet": "Gift wrapping is the act of enclosing a gift in some sort of material. Wrapping \npaper is a kind of paper designed for gift wrapping. Gifts may also be wrapped in \na\u00a0...", 
+            "htmlSnippet": "<b>Gift wrapping</b> is the act of enclosing a gift in some sort of material. Wrapping <br>\npaper is a kind of paper designed for <b>gift wrapping</b>. Gifts may also be wrapped in <br>\na&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Gift_wrapping", 
+            "cacheId": "8F77CM-pOdYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Gift wrapping algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Gift wrapping</b> algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Gift_wrapping_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Gift</b>_<b>wrapping</b>_algorithm", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6v7THbdn-zk97WiWd2UpD4pr_xt6wkYZq8hHtojnc8tN3ZUDeOTgRlwQ", 
+                        "height": "176"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Animation_depicting_the_gift_wrapping_algorithm.gif/220px-Animation_depicting_the_gift_wrapping_algorithm.gif"
+                    }
+                ]
+            }, 
+            "snippet": "Animation of the gift wrapping algorithm. The red lines are already placed lines, \nthe Black line is the current best guess for the new line, and the green line is the\u00a0...", 
+            "htmlSnippet": "Animation of the <b>gift wrapping</b> algorithm. The red lines are already placed lines, <br>\nthe Black line is the current best guess for the new line, and the green line is the&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Gift_wrapping_algorithm", 
+            "cacheId": "V5DwRBXy1d8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Bojagi - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Bojagi - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Bojagi", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Bojagi", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRmzB8eLBf9akuOEhk4pEm52FeGajBfYBGlbR6szj51w-13gvWaaeW1RHKZ", 
+                        "height": "132"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Korea-Joseon-Bojagi-01.jpg/220px-Korea-Joseon-Bojagi-01.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "Bojagi have many uses, including as gift wrapping, in weddings, and in Buddhist \nrites. The \"Korean Beauty\" postage stamp series included a stamp in 1997 to\u00a0...", 
+            "htmlSnippet": "Bojagi have many uses, including as <b>gift wrapping</b>, in weddings, and in Buddhist <br>\nrites. The &quot;Korean Beauty&quot; postage stamp series included a stamp in 1997 to&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Bojagi", 
+            "cacheId": "62VevM5H8OwJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Furoshiki - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Furoshiki - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Furoshiki", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Furoshiki", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSuEPwvw1bqzH_QOcmddROW6cYfc3Yz4PiKO3In_g5vBIif4Z65wlwDrmqy", 
+                        "height": "132"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Furoshiki_designed_by_Friedensreich_Hundertwasser_for_'Fernw%C3%A4rme_Wien'_AG.jpg/220px-Furoshiki_designed_by_Friedensreich_Hundertwasser_for_'Fernw%C3%A4rme_Wien'_AG.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "Furoshiki (\u98a8\u5442\u6577) are a type of traditional Japanese wrapping cloth traditionally \nused to transport clothes, gifts, or other goods. Furoshiki began to be used in the\n\u00a0...", 
+            "htmlSnippet": "Furoshiki (\u98a8\u5442\u6577) are a type of traditional Japanese <b>wrapping</b> cloth traditionally <br>\nused to transport clothes, <b>gifts</b>, or other goods. Furoshiki began to be used in the<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Furoshiki", 
+            "cacheId": "yFzji8nNup8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Gift wrapping algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Gift wrapping</b> algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3AGift_wrapping_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>Gift</b>_<b>wrapping</b>_algorithm", 
+            "snippet": "I think this article needs an explanation why it's supposedly O(NK). I don't see \nwhy that would be the case. It seems O(N\u00b2K) to me. -- Timwi 22:07, 9 Feb 2004\u00a0...", 
+            "htmlSnippet": "I think this article needs an explanation why it&#39;s supposedly O(NK). I don&#39;t see <br>\nwhy that would be the case. It seems O(N\u00b2K) to me. -- Timwi 22:07, 9 Feb 2004&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3AGift_wrapping_algorithm", 
+            "cacheId": "GEoJm56opVoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "The Manor (Los Angeles) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "The Manor (Los Angeles) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/The_Manor_(Los_Angeles)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/The_Manor_(Los_Angeles)", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "200", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTFXjGZn5bgB4_XCNvY7GyYFe6G8OnVfsQdvoiEbPjZdHyGZHZBH71NlChj", 
+                        "height": "132"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/The_Manor,_Holmby_Hills,_Los_Angeles,_in_2008.jpg/250px-The_Manor,_Holmby_Hills,_Los_Angeles,_in_2008.jpg"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "category": "House", 
+                        "fn": "The Manor", 
+                        "label": "594 S Mapleton Drive Holmby Hills, Los Angeles, California"
+                    }
+                ]
+            }, 
+            "snippet": "Across the street from Aaron Spelling.\" In the sitcom Will & Grace several \nepisodes of season five make reference to \"a gift-wrapping room like Candy \nSpelling\u00a0...", 
+            "htmlSnippet": "Across the street from Aaron Spelling.&quot; In the sitcom Will &amp; Grace several <br>\nepisodes of season five make reference to &quot;a <b>gift</b>-<b>wrapping</b> room like Candy <br>\nSpelling&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/The_Manor_(Los_Angeles)", 
+            "cacheId": "bzdYRnRflxUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Packing and wrapping paper - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Packing and <b>wrapping</b> paper - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Packing_and_wrapping_paper", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Packing_and_<b>wrapping</b>_paper", 
+            "snippet": "Packing and Wrapping Paper broadly refers to any sort of papers which are used \nfor ... Printed Glossy Paper around 80-90 GSM is used to pack Gifts/ Boxes and\u00a0...", 
+            "htmlSnippet": "Packing and <b>Wrapping</b> Paper broadly refers to any sort of papers which are used <br>\nfor ... Printed Glossy Paper around 80-90 GSM is used to pack <b>Gifts</b>/ Boxes and&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Packing_and_wrapping_paper", 
+            "cacheId": "P_pqU5Wj3xAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Nuptial gift - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Nuptial <b>gift</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Nuptial_gift", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Nuptial_<b>gift</b>", 
+            "snippet": "In some species of insects such as katydids, the nuptial gift is packaged with the \n... The silk wrapping facilitates male handling and control over the gift, as it\u00a0...", 
+            "htmlSnippet": "In some species of insects such as katydids, the nuptial <b>gift</b> is packaged with the <br>\n... The silk <b>wrapping</b> facilitates male handling and control over the <b>gift</b>, as it&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Nuptial_gift", 
+            "cacheId": "qEOEHpsHGsoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Convex hull algorithms - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Convex hull algorithms - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Convex_hull_algorithms", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Convex_hull_algorithms", 
+            "snippet": "Gift wrapping aka Jarvis march \u2014 O(nh) One of the simplest (although not the \nmost time efficient in the worst case) planar algorithms. Discovered \nindependently\u00a0...", 
+            "htmlSnippet": "<b>Gift wrapping</b> aka Jarvis march \u2014 O(nh) One of the simplest (although not the <br>\nmost time efficient in the worst case) planar algorithms. Discovered <br>\nindependently&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Convex_hull_algorithms", 
+            "cacheId": "Xpet75KCteoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Wrapping - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Wrapping</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Wrapping", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Wrapping</b>", 
+            "snippet": "Buddy wrapping, the act of bandaging a damaged (particularly a fractured) ... \nWrapping paper, paper used for wrapping a gift; \"Wrapping\", an episode of the\u00a0...", 
+            "htmlSnippet": "Buddy <b>wrapping</b>, the act of bandaging a damaged (particularly a fractured) ... <br>\n<b>Wrapping</b> paper, paper used for <b>wrapping</b> a <b>gift</b>; &quot;<b>Wrapping</b>&quot;, an episode of the&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Wrapping", 
+            "cacheId": "bXmBvt9KgjsJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Gift wrapping", 
+                "safe": "off", 
+                "searchTerms": "Gift wrapping", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "4030"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Gift wrapping", 
+                "safe": "off", 
+                "searchTerms": "Gift wrapping", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "4030"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.30", 
+        "formattedTotalResults": "4,030", 
+        "totalResults": "4030", 
+        "searchTime": 0.298284
+    }
+}

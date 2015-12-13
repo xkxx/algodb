@@ -1,3 +1,229 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:bd5410af3b9a6a812be31c266cab4fb3f6905ad35e4a0d98d023ca3cef570a63
-size 16150
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Advanced Encryption Standard - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Advanced Encryption Standard</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Advanced_Encryption_Standard", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Advanced</b>_<b>Encryption</b>_<b>Standard</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "224", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSJJRdOwzowlOAR9rCLNetjCiRcy2BstPzOcxqi1UI4gpkYRj-twzgeKA", 
+                        "height": "116"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/AES-SubBytes.svg/280px-AES-SubBytes.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "During the AES process, developers of competing algorithms wrote of Rijndael, ... \nsuccessful academic attacks on Rijndael would be developed someday, ... Also, \nthe authors calculate the best attack using their\u00a0...", 
+            "htmlSnippet": "During the <b>AES</b> process, developers of competing algorithms wrote of <b>Rijndael</b>, ... <br>\nsuccessful academic attacks on <b>Rijndael</b> would be developed someday, ... <b>Also</b>, <br>\nthe authors calculate the best attack using their&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Advanced_Encryption_Standard", 
+            "cacheId": "DS79YZACPasJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Advanced Encryption Standard process - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Advanced Encryption Standard</b> process - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../Advanced_Encryption_Standard_process", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../<b>Advanced</b>_<b>Encryption</b>_<b>Standard</b>_process", 
+            "snippet": "The Advanced Encryption Standard (AES), the symmetric block cipher ratified ... \nHPC, LOKI97, MAGENTA, MARS, RC6, Rijndael, SAFER+, Serpent, and Twofish. \n... All five algorithms, commonly referred to as \"AES finalists\", were designed by\u00a0...", 
+            "htmlSnippet": "The <b>Advanced Encryption Standard</b> (<b>AES</b>), the symmetric block cipher ratified ... <br>\nHPC, LOKI97, MAGENTA, MARS, RC6, <b>Rijndael</b>, SAFER+, Serpent, and Twofish. <br>\n... All five algorithms, commonly <b>referred to</b> as &quot;<b>AES</b> finalists&quot;, were designed by&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Advanced_Encryption_Standard_process", 
+            "cacheId": "qOs9QxXJGNwJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "AES implementations - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>AES</b> implementations - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/AES_implementations", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>AES</b>_implementations", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "240", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSItve-g0r14R2lp3lPAOclzfJlyn0n7aZnMoL0qUz8EgzBUdP7fIpeZKU", 
+                        "height": "168"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/Cbc128192256.jpg/300px-Cbc128192256.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "... of the Advanced Encryption Standard, also known as Rijndael. ... The Microsoft \nAES Cryptographic Provider was introduced in Windows XP and can be used\u00a0...", 
+            "htmlSnippet": "... of the <b>Advanced Encryption Standard</b>, <b>also known as Rijndael</b>. ... The Microsoft <br>\n<b>AES</b> Cryptographic Provider was introduced in Windows XP and can be used&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/AES_implementations", 
+            "cacheId": "nLWQVbfM0YMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "XSL attack - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "XSL attack - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/XSL_attack", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/XSL_attack", 
+            "snippet": "It has caused some controversy as it was claimed to have the potential to break \nthe Advanced Encryption Standard (AES) cipher, also known as Rijndael, faster\u00a0...", 
+            "htmlSnippet": "It has caused some controversy as it was claimed to have the potential to break <br>\nthe <b>Advanced Encryption Standard</b> (<b>AES</b>) cipher, <b>also known as Rijndael</b>, faster&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/XSL_attack", 
+            "cacheId": "FfIK_3VUcyAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Symmetric-key algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Symmetric-key <b>algorithm</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Symmetric-key_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Symmetric-key_<b>algorithm</b>", 
+            "snippet": "The Advanced Encryption Standard (AES) algorithm approved by NIST in \nDecember ... A reciprocal cipher is also sometimes referred as self-reciprocal \ncipher.", 
+            "htmlSnippet": "The <b>Advanced Encryption Standard</b> (<b>AES</b>) algorithm approved by NIST in <br>\nDecember ... A reciprocal cipher is <b>also</b> sometimes <b>referred</b> as self-reciprocal <br>\ncipher.", 
+            "link": "https://en.wikipedia.org/wiki/Symmetric-key_algorithm", 
+            "cacheId": "mNnaswFwG5IJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Serpent (cipher) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Serpent (<b>cipher</b>) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Serpent_(cipher)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Serpent_(<b>cipher</b>)", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "159", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT6WavFHlD-9y_c00O-0CAkLG3AVxeyJ0GyuhQIoPz7UYrxN2nuKH6l7d1K", 
+                        "height": "317"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Serpent-linearfunction.svg/200px-Serpent-linearfunction.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "The other attack requires 2116 known plaintexts and 2121 memory but also ... \nkey block cipher that was a finalist in the Advanced Encryption Standard (AES) \ncontest, ... Rijndael is a substitution-linear transformation network with ten, twelve\n,\u00a0...", 
+            "htmlSnippet": "The other attack requires 2<sup>116</sup> <b>known</b> plaintexts and 2<sup>121</sup> memory but <b>also</b> ... <br>\nkey block cipher that was a finalist in the <b>Advanced Encryption Standard</b> (<b>AES</b>) <br>\ncontest, ... <b>Rijndael</b> is a substitution-linear transformation network with ten, twelve<br>\n,&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Serpent_(cipher)", 
+            "cacheId": "0tXT142hntYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Rijndael key schedule - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Rijndael</b> key schedule - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Rijndael_key_schedule", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Rijndael</b>_key_schedule", 
+            "snippet": "AES (Rijndael) uses a key schedule to expand a short key into a number of \nseparate round keys. This is known as the Rijndael key schedule. The three AES \n... description. 3 References; 4 See also .... also[edit]. Advanced Encryption \nStandard.", 
+            "htmlSnippet": "<b>AES</b> (<b>Rijndael</b>) uses a key schedule to expand a short key into a number of <br>\nseparate round keys. This is <b>known</b> as the <b>Rijndael</b> key schedule. The three <b>AES</b> <br>\n... description. 3 References; 4 See <b>also</b> .... <b>also</b>[edit]. <b>Advanced Encryption</b> <br>\n<b>Standard</b>.", 
+            "link": "https://en.wikipedia.org/wiki/Rijndael_key_schedule", 
+            "cacheId": "SNUkIwEY6cgJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Vincent Rijmen - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Vincent Rijmen - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Vincent_Rijmen", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Vincent_Rijmen", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSeibNh1-QWuVhgR3Slwy2w6Dv7t95YP03rwl1JKIVtfAbGGhFs2d6T10UR", 
+                        "height": "228"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Vincent-Rijmen.jpg/220px-Vincent-Rijmen.jpg"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "bday": "1970-10-16", 
+                        "category": "Cryptography", 
+                        "fn": "Vincent Rijmen"
+                    }
+                ]
+            }, 
+            "snippet": "Rijmen is also the co-designer of the WHIRLPOOL cryptographic hash ... One of \ntheir joint projects resulted in the algorithm Rijndael, which in October 2000 was \n... and Technology (NIST) to become the Advanced Encryption Standard (AES). ... \nIn 2002, he was named to the MIT Technology Review TR100 as one of the top\u00a0...", 
+            "htmlSnippet": "Rijmen is <b>also</b> the co-designer of the WHIRLPOOL cryptographic hash ... One of <br>\ntheir joint projects resulted in the algorithm <b>Rijndael</b>, which in October 2000 was <br>\n... and Technology (NIST) to become the <b>Advanced Encryption Standard</b> (<b>AES</b>). ... <br>\nIn 2002, he was <b>named</b> to the MIT Technology Review TR100 as one of the top&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Vincent_Rijmen", 
+            "cacheId": "zUZRD06-sYQJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Block cipher - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Block <b>cipher</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Block_cipher", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Block_<b>cipher</b>", 
+            "snippet": "However, block ciphers may also be used as building blocks in other \ncryptographic ... 8.1 Lucifer / DES; 8.2 IDEA; 8.3 RC5; 8.4 Rijndael / AES; 8.5 \nBlowfish ... which takes as input a key K of bit length k, called the key size, and a \nbit string P of ... For example, a block cipher encryption algorithm might take a \n128-bit block of\u00a0...", 
+            "htmlSnippet": "However, block ciphers may <b>also</b> be used as building blocks in other <br>\ncryptographic ... 8.1 Lucifer / DES; 8.2 IDEA; 8.3 RC5; 8.4 <b>Rijndael</b> / <b>AES</b>; 8.5 <br>\nBlowfish ... which takes as input a key K of bit length k, <b>called</b> the key size, and a <br>\nbit string P of ... For example, a block <b>cipher encryption algorithm</b> might take a <br>\n128-bit block of&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Block_cipher", 
+            "cacheId": "6z2k4nedGZwJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "AES - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>AES</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/AES", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>AES</b>", 
+            "snippet": "Look up AES or aes in Wiktionary, the free dictionary. ... Computing[edit]. \nAdvanced Encryption Standard, a specification for the encryption of electronic \ndata.", 
+            "htmlSnippet": "Look up <b>AES</b> or <b>aes</b> in Wiktionary, the free dictionary. ... Computing[edit]. <br>\n<b>Advanced Encryption Standard</b>, a specification for the encryption of electronic <br>\ndata.", 
+            "link": "https://en.wikipedia.org/wiki/AES", 
+            "cacheId": "ajjVizs0xmYJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Advanced Encryption Standard (AES), also known as Rijndael", 
+                "safe": "off", 
+                "searchTerms": "Advanced Encryption Standard (AES), also known as Rijndael", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "82"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Advanced Encryption Standard (AES), also known as Rijndael", 
+                "safe": "off", 
+                "searchTerms": "Advanced Encryption Standard (AES), also known as Rijndael", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "82"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.25", 
+        "formattedTotalResults": "82", 
+        "totalResults": "82", 
+        "searchTime": 0.253087
+    }
+}

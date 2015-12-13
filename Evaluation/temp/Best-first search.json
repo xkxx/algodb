@@ -1,0 +1,12 @@
+{
+    "Best-first search": [
+        "https://en.wikipedia.org/wiki/Best-first_search", 
+        "https://en.wikipedia.org/wiki/A*_search_algorithm", 
+        "https://en.wikipedia.org/wiki/Beam_search", 
+        "https://en.wikipedia.org/wiki/Breadth-first_search", 
+        "https://en.wikipedia.org/wiki/Dijkstra's_algorithm", 
+        "https://en.wikipedia.org/wiki/Heuristic_function", 
+        "https://en.wikipedia.org/wiki/Depth-first_search", 
+        "https://en.wikipedia.org/wiki/Iterative_deepening_A*"
+    ]
+}

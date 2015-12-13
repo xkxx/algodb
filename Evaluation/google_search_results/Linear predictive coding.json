@@ -1,3 +1,194 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d8d549c8a85ba53ee5c0dc1328829b31fc5192013cb72a067763c7c58db59b64
-size 13311
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Linear predictive coding - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Linear predictive coding</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Linear_predictive_coding", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Linear</b>_<b>predictive</b>_<b>coding</b>", 
+            "snippet": "Linear predictive coding (LPC) is a tool used mostly in audio signal processing \nand speech processing for representing the spectral envelope of a digital signal\u00a0...", 
+            "htmlSnippet": "<b>Linear predictive coding</b> (<b>LPC</b>) is a tool used mostly in audio signal processing <br>\nand speech processing for representing the spectral envelope of a digital signal&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Linear_predictive_coding", 
+            "cacheId": "ac7_mYFuNs0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Linear prediction - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Linear</b> prediction - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Linear_prediction", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Linear</b>_prediction", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "149", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR_m_PobG8YbJpYu1id3GMxKIxN7RG7_I9BAdrNypuY6m3JXBPdYnrux1o", 
+                        "height": "41"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/math/2/9/8/298ffd65763de57f54b00265e4eab093.png"
+                    }
+                ]
+            }, 
+            "snippet": "In digital signal processing, linear prediction is often called linear predictive \ncoding (LPC) and can thus be viewed as a subset of filter theory. In system \nanalysis\u00a0...", 
+            "htmlSnippet": "In digital signal processing, linear prediction is often called <b>linear predictive</b> <br>\n<b>coding</b> (<b>LPC</b>) and can thus be viewed as a subset of filter theory. In system <br>\nanalysis&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Linear_prediction", 
+            "cacheId": "u0n3Hxq3YkQJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Warped linear predictive coding - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Warped <b>linear predictive coding</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Warped_linear_predictive_coding", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Warped_<b>linear</b>_<b>predictive</b>_<b>coding</b>", 
+            "snippet": "Warped linear predictive coding (warped LPC or WLPC) is a variant of linear \npredictive coding in which the spectral representation of the system is modified,\u00a0...", 
+            "htmlSnippet": "Warped <b>linear predictive coding</b> (warped LPC or WLPC) is a variant of <b>linear</b> <br>\n<b>predictive coding</b> in which the spectral representation of the system is modified,&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Warped_linear_predictive_coding", 
+            "cacheId": "eaBVckySYVMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Linear predictive analysis - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Linear predictive</b> analysis - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Linear_predictive_analysis", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Linear</b>_<b>predictive</b>_analysis", 
+            "snippet": "One use of this is in Linear predictive coding which can be used as a method of \nreducing the amount of data needed to approximately encode a series. Suppose\n\u00a0...", 
+            "htmlSnippet": "One use of this is in <b>Linear predictive coding</b> which can be used as a method of <br>\nreducing the amount of data needed to approximately encode a series. Suppose<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Linear_predictive_analysis", 
+            "cacheId": "zsA88stER50J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Adaptive predictive coding - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Adaptive <b>predictive coding</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Adaptive_predictive_coding", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Adaptive_<b>predictive</b>_<b>coding</b>", 
+            "snippet": "APC is related to linear predictive coding (LPC) in that both use adaptive \npredictors. However, APC uses fewer prediction coefficients, thus requiring a \nhigher\u00a0...", 
+            "htmlSnippet": "APC is related to <b>linear predictive coding</b> (LPC) in that both use adaptive <br>\npredictors. However, APC uses fewer prediction coefficients, thus requiring a <br>\nhigher&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Adaptive_predictive_coding", 
+            "cacheId": "oH8bxR19cRwJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Code-excited linear prediction - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Code-excited <b>linear</b> prediction - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Code-excited_linear_prediction", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Code-excited_<b>linear</b>_prediction", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "240", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRWdAVy8k4QGAfW3rIC_JJv6p_BN2GvZGBi1ZYJrL8VUJNQ3AxLbO1eJQ", 
+                        "height": "165"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Celp_decoder.svg/300px-Celp_decoder.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "At the time, it provided significantly better quality than existing low bit-rate \nalgorithms, such as residual-excited linear prediction and linear predictive coding\n\u00a0...", 
+            "htmlSnippet": "At the time, it provided significantly better quality than existing low bit-rate <br>\nalgorithms, such as residual-excited linear prediction and <b>linear predictive coding</b><br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Code-excited_linear_prediction", 
+            "cacheId": "3e-pQYFK544J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Generalized filtering - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Generalized filtering - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Generalized_filtering", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Generalized_filtering", 
+            "snippet": "4 Relationship to Bayesian filtering and predictive coding .... This is known as \ngeneralized predictive coding [11], with linear predictive coding as a special case\n.", 
+            "htmlSnippet": "4 Relationship to Bayesian filtering and predictive coding .... This is known as <br>\ngeneralized predictive coding [11], with <b>linear predictive coding</b> as a special case<br>\n.", 
+            "link": "https://en.wikipedia.org/wiki/Generalized_filtering", 
+            "cacheId": "UyrbMEYymV0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Harmonic Vector Excitation Coding - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Harmonic Vector Excitation <b>Coding</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Harmonic_Vector_Excitation_Coding", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Harmonic_Vector_Excitation_<b>Coding</b>", 
+            "snippet": "[edit]. HVXC uses Linear predictive coding (LPC) with block-wise adaptation \nevery 20ms. The LPC parameters are\u00a0...", 
+            "htmlSnippet": "[edit]. HVXC uses <b>Linear predictive coding</b> (LPC) with block-wise adaptation <br>\nevery 20ms. The LPC parameters are&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Harmonic_Vector_Excitation_Coding", 
+            "cacheId": "2kcOF-UNK1AJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "FS-1015 - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "FS-1015 - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/FS-1015", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/FS-1015", 
+            "snippet": "The algorithm used is a linear predictive coding vocoder. The vocoder enables \nunderstandable speech, but the quality is very unnatural and synthetic.", 
+            "htmlSnippet": "The algorithm used is a <b>linear predictive coding</b> vocoder. The vocoder enables <br>\nunderstandable speech, but the quality is very unnatural and synthetic.", 
+            "link": "https://en.wikipedia.org/wiki/FS-1015", 
+            "cacheId": "lFFvLWlGnKMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Mixed-excitation linear prediction - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Mixed-excitation <b>linear</b> prediction - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Mixed-excitation_linear_prediction", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Mixed-excitation_<b>linear</b>_prediction", 
+            "snippet": "Mixed-excitation linear prediction (MELP) is a United States Department of \nDefense ... eXcitation) and Turkey's SB-LPC (Split-Band Linear Predictive Coding\n),\u00a0...", 
+            "htmlSnippet": "Mixed-excitation linear prediction (MELP) is a United States Department of <br>\nDefense ... eXcitation) and Turkey&#39;s SB-LPC (Split-Band <b>Linear Predictive Coding</b><br>\n),&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Mixed-excitation_linear_prediction", 
+            "cacheId": "Pp6onkS5xtYJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Linear predictive coding", 
+                "safe": "off", 
+                "searchTerms": "Linear predictive coding", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "507"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Linear predictive coding", 
+                "safe": "off", 
+                "searchTerms": "Linear predictive coding", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "507"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.18", 
+        "formattedTotalResults": "507", 
+        "totalResults": "507", 
+        "searchTime": 0.183819
+    }
+}

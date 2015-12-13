@@ -1,3 +1,292 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:575ae0ce9820d9ff0d6708512795298f50f96f743526730c9dd0b88bf5338f4b
-size 17438
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "M\u00f6ller\u2013Trumbore intersection algorithm - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "M\u00f6ller\u2013Trumbore <b>intersection</b> algorithm - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../M\u00f6ller\u2013Trumbore_intersection_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../M\u00f6ller\u2013Trumbore_<b>intersection</b>_algorithm", 
+            "snippet": "The M\u00f6ller\u2013Trumbore ray-triangle intersection algorithm, named after its \ninventors Tomas M\u00f6ller and Ben Trumbore, is a fast method for calculating the\u00a0...", 
+            "htmlSnippet": "The M\u00f6ller\u2013Trumbore ray-<b>triangle intersection</b> algorithm, named after its <br>\ninventors Tomas M\u00f6ller and Ben Trumbore, is a fast method for calculating the&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/M%C3%B6ller%E2%80%93Trumbore_intersection_algorithm", 
+            "cacheId": "k957hNOb1YIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Altitude (triangle) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Altitude (<b>triangle</b>) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Altitude_(triangle)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Altitude_(<b>triangle</b>)", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTATXITba1uqqzzrr6VlLDJvQvaUBciwQ2HAF6dsiTbkE6x5k0BmV4rup0-", 
+                        "height": "140"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Triangle.Orthocenter.svg/220px-Triangle.Orthocenter.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "In geometry, an altitude of a triangle is a line segment through a vertex and ... The \nintersection between the extended base and the altitude is called the foot of\u00a0...", 
+            "htmlSnippet": "In geometry, an altitude of a <b>triangle</b> is a <b>line</b> segment through a vertex and ... The <br>\n<b>intersection</b> between the extended base and the altitude is called the foot of&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Altitude_(triangle)", 
+            "cacheId": "wT6kVQf7KhIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Median (geometry) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Median (geometry) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Median_(geometry)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Median_(geometry)", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ0U80er6_8QJ0nWmP6Ov1zvlCVAaJ9tee-fEE4moPkuPccXiXk01imPXQ", 
+                        "height": "142"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Triangle.Centroid.svg/220px-Triangle.Centroid.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "In geometry, a median of a triangle is a line segment joining a vertex to the ... one \nfrom each vertex, and they all intersect each other at the triangle's centroid.", 
+            "htmlSnippet": "In geometry, a median of a <b>triangle</b> is a <b>line</b> segment joining a vertex to the ... one <br>\nfrom each vertex, and they all <b>intersect</b> each other at the <b>triangle&#39;s</b> centroid.", 
+            "link": "https://en.wikipedia.org/wiki/Median_(geometry)", 
+            "cacheId": "i1ELzS9LQH4J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Bisection - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Bisection - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Bisection", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Bisection", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWEvLRuSEJZYdXp6ZToQpB7ML6U3ksM4X0Z4VAuEvU1B7o94WbGCufwNo", 
+                        "height": "88"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Bisectors.svg/220px-Bisectors.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "The line determined by the points of intersection of the two circles is the ... The \ninterior angle bisectors of a triangle are concurrent in a point called the incenter \nof\u00a0...", 
+            "htmlSnippet": "The <b>line</b> determined by the points of <b>intersection</b> of the two circles is the ... The <br>\ninterior angle bisectors of a <b>triangle</b> are concurrent in a point called the incenter <br>\nof&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Bisection", 
+            "cacheId": "ysPGIgGrV8MJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Line\u2013plane intersection - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Line</b>\u2013plane <b>intersection</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Line\u2013plane_intersection", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Line</b>\u2013plane_<b>intersection</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "280", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQa76fcXzaH0kH2MqvXcsmbc2MVA3pI8Z-H60IA2uYWe2kpA7GBcl_k7Z8", 
+                        "height": "98"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Plane-line_intersection.svg/350px-Plane-line_intersection.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "In analytic geometry, the intersection of a line and a plane can be the empty set, \n... then the intersection point is in the plane inside the triangle spanned by the\u00a0...", 
+            "htmlSnippet": "In analytic geometry, the <b>intersection</b> of a <b>line</b> and a plane can be the empty set, <br>\n... then the <b>intersection</b> point is in the plane inside the <b>triangle</b> spanned by the&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Line%E2%80%93plane_intersection", 
+            "cacheId": "VlpPTZYcu9sJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Midpoint - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Midpoint - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Midpoint", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Midpoint", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "225", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSDet41AaVvLfwqjPQdETAS7uFYrbXastlx8MMtNcWHGqc3sZbTymPYOfQ", 
+                        "height": "92"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Midpoint.svg/282px-Midpoint.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "In geometry, the midpoint is the middle point of a line segment. ... The three \nmedians of a triangle intersect at the triangle's centroid (the point on which the\u00a0...", 
+            "htmlSnippet": "In geometry, the midpoint is the middle point of a <b>line</b> segment. ... The three <br>\nmedians of a <b>triangle intersect</b> at the triangle&#39;s centroid (the point on which the&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Midpoint", 
+            "cacheId": "lJiusi6itb8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Thales' theorem - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Thales&#39; theorem - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Thales'_theorem", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Thales&#39;_theorem", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "160", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR44NY0ppupCFvYrfYmkQrJVGF34zMafYH-N2OKZjNBLUsefGNsmKIioaEl", 
+                        "height": "140"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Thales'_Theorem_Simple.svg/200px-Thales'_Theorem_Simple.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "The perpendicular bisectors of any two sides of a triangle intersect in exactly one \n... Let there be a right angle \u2220ABC, r a line parallel to BC passing by A and s a\u00a0...", 
+            "htmlSnippet": "The perpendicular bisectors of any two sides of a <b>triangle intersect</b> in exactly one <br>\n... Let there be a right angle \u2220ABC, r a <b>line</b> parallel to BC passing by A and s a&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Thales'_theorem", 
+            "cacheId": "aitVHx3BGEYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Incenter - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Incenter - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Incenter", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Incenter", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "192", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQD77xXHfTYy7tkcoDIq4ivfQTWzGfhyFOqyCDDsKRGWHFy2FFmBmmvOTY", 
+                        "height": "132"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Incircle.svg/240px-Incircle.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "The incenter lies at equal distances from the three line segments forming the \nsides of the triangle, and also from the three lines containing those segments.", 
+            "htmlSnippet": "The incenter lies at equal distances from the three <b>line</b> segments forming the <br>\nsides of the <b>triangle</b>, and also from the three lines containing those segments.", 
+            "link": "https://en.wikipedia.org/wiki/Incenter", 
+            "cacheId": "QdewoCLGDAIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Angle bisector theorem - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Angle bisector theorem - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Angle_bisector_theorem", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Angle_bisector_theorem", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "192", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRWPIVCDl867KclfnSAIkCUxeX6Zp7oGbxK74JNebnzSFD0oukVrJ9-Cd1s", 
+                        "height": "156"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Triangle_ABC_with_bisector_AD.svg/240px-Triangle_ABC_with_bisector_AD.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "... that a triangle's side is divided into by a line that bisects the opposite angle. ... \nLet the angle bisector of angle A intersect side BC at a point D between B and\u00a0...", 
+            "htmlSnippet": "... that a <b>triangle</b>&#39;s side is divided into by a <b>line</b> that bisects the opposite angle. ... <br>\nLet the angle bisector of angle A <b>intersect</b> side BC at a point D between B and&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Angle_bisector_theorem", 
+            "cacheId": "JjZeZ--KUOIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Centroid - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Centroid - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Centroid", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Centroid", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ0U80er6_8QJ0nWmP6Ov1zvlCVAaJ9tee-fEE4moPkuPccXiXk01imPXQ", 
+                        "height": "142"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Triangle.Centroid.svg/220px-Triangle.Centroid.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "3.1 Plumb line method; 3.2 Balancing method; 3.3 Of a finite set of points; 3.4 By \n... The centroid of a triangle is the intersection of the three medians of the\u00a0...", 
+            "htmlSnippet": "3.1 Plumb <b>line</b> method; 3.2 Balancing method; 3.3 Of a finite set of points; 3.4 By <br>\n... The centroid of a <b>triangle</b> is the <b>intersection</b> of the three medians of the&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Centroid", 
+            "cacheId": "l6TXlpIXAnQJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Line Triangle intersection", 
+                "safe": "off", 
+                "searchTerms": "Line Triangle intersection", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "6390"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Line Triangle intersection", 
+                "safe": "off", 
+                "searchTerms": "Line Triangle intersection", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "6390"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.33", 
+        "formattedTotalResults": "6,390", 
+        "totalResults": "6390", 
+        "searchTime": 0.329971
+    }
+}

@@ -1,3 +1,208 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7c7d69d5a05c0c9644fd2d2189911072c78cfd3e9728cbefa29aa56fc692685f
-size 13928
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Transform coding - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Transform coding</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Transform_coding", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Transform</b>_<b>coding</b>", 
+            "snippet": "Transform coding is a type of data compression for \"natural\" data like audio \nsignals or photographic images. The transformation is typically lossy, resulting in \na\u00a0...", 
+            "htmlSnippet": "<b>Transform coding</b> is a type of data compression for &quot;natural&quot; data like audio <br>\nsignals or photographic images. The transformation is typically lossy, resulting in <br>\na&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Transform_coding", 
+            "cacheId": "xAVpmeEUlNwJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Sub-band coding - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Sub-band <b>coding</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Sub-band_coding", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Sub-band_<b>coding</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "300", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS0ypw0y1dsFwEpW_18Vu2lv6W31KSzMIcduWZjpdNJGeacttaFZpRbOtFa", 
+                        "height": "168"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/SubBandCoding.svg/666px-SubBandCoding.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "In signal processing, Sub-band coding (SBC) is any form of transform coding that \nbreaks a signal into a number of different frequency bands and encodes each\u00a0...", 
+            "htmlSnippet": "In signal processing, Sub-band coding (SBC) is any form of <b>transform coding</b> that <br>\nbreaks a signal into a number of different frequency bands and encodes each&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Sub-band_coding", 
+            "cacheId": "oYjBletMtoQJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Vector quantization - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Vector quantization - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Vector_quantization", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Vector_quantization", 
+            "snippet": "The transformation is usually done by projection or by using a codebook. ... of \nthose based on motion compensated prediction combined with transform coding,\n\u00a0...", 
+            "htmlSnippet": "The transformation is usually done by projection or by using a codebook. ... of <br>\nthose based on motion compensated prediction combined with <b>transform coding</b>,<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Vector_quantization", 
+            "cacheId": "itm0s2TPfSwJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Adaptive Transform Acoustic Coding - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Adaptive <b>Transform</b> Acoustic <b>Coding</b> - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Adaptive_Transform_Acoustic_Coding", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Adaptive_<b>Transform</b>_Acoustic_<b>Coding</b>", 
+            "snippet": "Adaptive Transform Acoustic Coding (ATRAC) is a family of proprietary audio \ncompression algorithms developed by Sony. MiniDisc was the first commercial\u00a0...", 
+            "htmlSnippet": "Adaptive <b>Transform</b> Acoustic <b>Coding</b> (ATRAC) is a family of proprietary audio <br>\ncompression algorithms developed by Sony. MiniDisc was the first commercial&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Adaptive_Transform_Acoustic_Coding", 
+            "cacheId": "BmFVSTvA1PwJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Wavelet transform - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Wavelet <b>transform</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Wavelet_transform", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Wavelet_<b>transform</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "225", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd5dWf4WMl0D6WvcG4q06Y7mmkfagV9QcsVMJysOVhg7jjySSVTFASYzDX", 
+                        "height": "225"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Jpeg2000_2-level_wavelet_transform-lichtenstein.png/300px-Jpeg2000_2-level_wavelet_transform-lichtenstein.png"
+                    }
+                ]
+            }, 
+            "snippet": "An example of the 2D discrete wavelet transform that is used in JPEG2000. In \nmathematics, a wavelet .... This principle is called transform coding. After that, the\n\u00a0...", 
+            "htmlSnippet": "An example of the 2D discrete wavelet transform that is used in JPEG2000. In <br>\nmathematics, a wavelet .... This principle is called <b>transform coding</b>. After that, the<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Wavelet_transform", 
+            "cacheId": "Snuq5A1SvIAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Lossless Transform Audio Compression - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Lossless <b>Transform</b> Audio Compression - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../Lossless_Transform_Audio_Compression", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Lossless_<b>Transform</b>_Audio_Compression", 
+            "snippet": "This makes it much faster than LTAC and even leads to better compression \nresults. LPAC has become official standard as MPEG-4 Audio Lossless Coding.", 
+            "htmlSnippet": "This makes it much faster than LTAC and even leads to better compression <br>\nresults. LPAC has become official standard as MPEG-4 Audio Lossless <b>Coding</b>.", 
+            "link": "https://en.wikipedia.org/wiki/Lossless_Transform_Audio_Compression", 
+            "cacheId": "PCUohtaasyoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Lapped transform - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Lapped <b>transform</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Lapped_transform", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Lapped_<b>transform</b>", 
+            "snippet": "Lapped transforms substantially reduce the blocking artifacts that otherwise occur \nwith block transform coding techniques, in particular those using the discrete\u00a0...", 
+            "htmlSnippet": "Lapped transforms substantially reduce the blocking artifacts that otherwise occur <br>\nwith block <b>transform coding</b> techniques, in particular those using the discrete&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Lapped_transform", 
+            "cacheId": "OwyYrIjWkFYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Lossy compression - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Lossy compression - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Lossy_compression", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Lossy_compression", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "240", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTihc317hDmlEQKVufGvydXcuE_kkN450h9x2nDyovSCaHDRdlRbaJe8tw", 
+                        "height": "160"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Ruby-LowCompression-Tiny.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "1 Lossy and lossless compression; 2 Transform coding; 3 Information loss ... case \nof multimedia data, perceptual coding: it transforms the raw data to a domain\u00a0...", 
+            "htmlSnippet": "1 Lossy and lossless compression; 2 <b>Transform coding</b>; 3 Information loss ... case <br>\nof multimedia data, perceptual coding: it transforms the raw data to a domain&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Lossy_compression", 
+            "cacheId": "-q50Hgiv15YJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Extended Adaptive Multi-Rate \u2013 Wideband - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Extended Adaptive Multi-Rate \u2013 Wideband - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../Extended_Adaptive_Multi-Rate_\u2013_Wideband", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Extended_Adaptive_Multi-Rate_\u2013_Wideband", 
+            "snippet": "Another main improvement is the use of transform coding (transform coded \nexcitation - TCX) additionally to ACELP. This greatly improves the generic audio\n\u00a0...", 
+            "htmlSnippet": "Another main improvement is the use of <b>transform coding</b> (transform coded <br>\nexcitation - TCX) additionally to ACELP. This greatly improves the generic audio<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Extended_Adaptive_Multi-Rate_%E2%80%93_Wideband", 
+            "cacheId": "R6ENMfdyBUMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Anil K. Jain (electrical engineer, born 1946) - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Anil K. Jain (electrical engineer, born 1946) - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../Anil_K._Jain_(electrical_engineer,_born_1946)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Anil_K._Jain_(electrical_engineer,_born_1946)", 
+            "snippet": "1 Biography; 2 Work. 2.1 Image processing textbook; 2.2 Video compression; 2.3 \nOptivision and its transform coding products. 3 References; 4 External links\u00a0...", 
+            "htmlSnippet": "1 Biography; 2 Work. 2.1 Image processing textbook; 2.2 Video compression; 2.3 <br>\nOptivision and its <b>transform coding</b> products. 3 References; 4 External links&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Anil_K._Jain_(electrical_engineer,_born_1946)", 
+            "cacheId": "ifDcF6fbljwJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Transform coding", 
+                "safe": "off", 
+                "searchTerms": "Transform coding", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "5580"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Transform coding", 
+                "safe": "off", 
+                "searchTerms": "Transform coding", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "5580"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.32", 
+        "formattedTotalResults": "5,580", 
+        "totalResults": "5580", 
+        "searchTime": 0.318983
+    }
+}

@@ -10,10 +10,10 @@ def normalize(str):
 def printPkgContent(pkgName):
     pkg = requests.get("http://localhost:5984/npm/" + pkgName).json()
     print 'Package Name: ', pkg['name']
-    print 'Desc:', pkg['description']
+    print 'Desc:', pkg.get('description', '[NONE')
     print 'keywords:', pkg.get('keywords', [])
     print 'Readme:\n'
-    print pkg.get('readme', '')
+    print pkg.get('readme', '[NONE]')
 
 def getUserInput(prompt):
     result = raw_input(prompt)
@@ -38,8 +38,9 @@ def main():
     samples = r.srandmember('pkgs', 100)
     for pkgName in samples:
         r.sadd('samples', pkgName)
+        continue
         print '================'
-        printPkgContent()
+        printPkgContent(pkgName)
         result = []
         while True:
             answer = getUserInput("Article? ")
@@ -50,7 +51,8 @@ def main():
             if answer is True:
                 result.append(page)
                 break
-        redis.sadd('%s:map' % pkgName, *result)
+        if len(result) != 0:
+            r.sadd('%s:map' % pkgName, *result)
 
 if __name__ == '__main__':
     main()

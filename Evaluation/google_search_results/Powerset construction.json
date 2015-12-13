@@ -1,3 +1,236 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2f4836d6295155f3f9ab5fd7312ec142cdc8c9439cf1ea8177c187e6639ed98a
-size 15333
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Powerset construction - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Powerset construction</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Powerset_construction", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Powerset</b>_<b>construction</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "219", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTqtfxvPIxintVLfPBVHF-vS1VaKHo73IpJyt9HfR9qrVCuhcwsynErP8ER", 
+                        "height": "230"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/NFA_with_exponential_blown-up_DFA.gif/400px-NFA_with_exponential_blown-up_DFA.gif"
+                    }
+                ]
+            }, 
+            "snippet": "In the theory of computation and automata theory, the powerset construction or \nsubset construction is a standard method for converting a nondeterministic finite\u00a0...", 
+            "htmlSnippet": "In the theory of computation and automata theory, the <b>powerset construction</b> or <br>\nsubset construction is a standard method for converting a nondeterministic finite&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Powerset_construction", 
+            "cacheId": "1zw-voGcJRoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Powerset construction - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Powerset construction</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3APowerset_construction", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>Powerset</b>_<b>construction</b>", 
+            "snippet": "Talk:Powerset construction. From Wikipedia, the ... 4 Construction section; 5 \nworst-case runtime complexity for constructing the DFA from an NFA via Rabin-\nScott\u00a0...", 
+            "htmlSnippet": "Talk:<b>Powerset construction</b>. From Wikipedia, the ... 4 Construction section; 5 <br>\nworst-case runtime complexity for constructing the DFA from an NFA via Rabin-<br>\nScott&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3APowerset_construction", 
+            "cacheId": "f18Jjh2DRksJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Nondeterministic finite automaton - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Nondeterministic finite automaton - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Nondeterministic_finite_automaton", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Nondeterministic_finite_automaton", 
+            "snippet": "Thus, in the formal definition, the next state is an element of the power set of the \nstates, which is .... The DFA can be constructed using the powerset construction.", 
+            "htmlSnippet": "Thus, in the formal definition, the next state is an element of the power set of the <br>\nstates, which is .... The DFA can be constructed using the <b>powerset construction</b>.", 
+            "link": "https://en.wikipedia.org/wiki/Nondeterministic_finite_automaton", 
+            "cacheId": "vt8U9ralO2oJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Nondeterministic finite automaton with \u03b5-moves - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Nondeterministic finite automaton with \u03b5-moves - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../Nondeterministic_finite_automaton_with_\u03b5-moves", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Nondeterministic_finite_automaton_with_\u03b5-moves", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "200", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRFt76ICdEX5bg82ILaj2rV0f2iUcGRFC14_WRyeMMMFIbpx1lIN7p5PU", 
+                        "height": "184"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/NFAexample.svg/250px-NFAexample.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "Equivalently, one may imagine that the NFA is in state 1 and 2 'at the same time' \nand this gives an informal hint of the powerset construction that translates an\u00a0...", 
+            "htmlSnippet": "Equivalently, one may imagine that the NFA is in state 1 and 2 &#39;at the same time&#39; <br>\nand this gives an informal hint of the <b>powerset construction</b> that translates an&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Nondeterministic_finite_automaton_with_%CE%B5-moves", 
+            "cacheId": "nWvPMKAZKJ8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Automata construction - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Automata <b>construction</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Automata_construction", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Automata_<b>construction</b>", 
+            "snippet": "Powerset construction is an algorithm to construct a deterministic finite automaton \nfrom a ... An automata construction is called optimal if there is an input to the\u00a0...", 
+            "htmlSnippet": "<b>Powerset construction</b> is an algorithm to construct a deterministic finite automaton <br>\nfrom a ... An automata construction is called optimal if there is an input to the&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Automata_construction", 
+            "cacheId": "ec0jDNaEIPcJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Power domains - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Power domains - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Power_domains", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Power_domains", 
+            "snippet": "Just as the finite-powerset construction is the free semilattice, the powerdomain \nconstructions should be understood abstractly as free models of theories of\u00a0...", 
+            "htmlSnippet": "Just as the finite-<b>powerset construction</b> is the free semilattice, the powerdomain <br>\nconstructions should be understood abstractly as free models of theories of&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Power_domains", 
+            "cacheId": "YLo8UJy52mEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Thompson's construction algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Thompson&#39;s <b>construction</b> algorithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Thompson's_construction_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Thompson&#39;s_<b>construction</b>_algorithm", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "275", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQNS1bOmLBq3FWO0pUHlB7g12rSMWRqO0mNGttehj04qoZriYNla11j-z8", 
+                        "height": "184"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Thompson-or.svg/453px-Thompson-or.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "A thus obtained automaton can be made deterministic by the powerset \nconstruction and then be minimized to get an optimal automaton corresponding \nto the\u00a0...", 
+            "htmlSnippet": "A thus obtained automaton can be made deterministic by the <b>powerset</b> <br>\n<b>construction</b> and then be minimized to get an optimal automaton corresponding <br>\nto the&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Thompson's_construction_algorithm", 
+            "cacheId": "NODT1kWTGb0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Analytic combinatorics - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Analytic combinatorics - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Analytic_combinatorics", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Analytic_combinatorics", 
+            "snippet": "The set (or powerset) construction, denoted by \\mathcal{A} = \\mathfrak{P}\\{\\\nmathcal{ is defined as. \\mathfrak{P}\\{\\mathcal{B}\\} = \\. which leads to the relation.", 
+            "htmlSnippet": "The set (or <b>powerset</b>) <b>construction</b>, denoted by \\mathcal{A} = \\mathfrak{P}\\{\\<br>\nmathcal{ is defined as. \\mathfrak{P}\\{\\mathcal{B}\\} = \\. which leads to the relation.", 
+            "link": "https://en.wikipedia.org/wiki/Analytic_combinatorics", 
+            "cacheId": "7gk4HBqdgCEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Cantor's theorem - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Cantor&#39;s theorem - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Cantor's_theorem", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Cantor&#39;s_theorem", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "200", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSt3HjcdSXX3HzItpuZ9MOsh1rltLHXJn573W68O6pZGQtFbhn97KnjReY", 
+                        "height": "151"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Hasse_diagram_of_powerset_of_3.svg/250px-Hasse_diagram_of_powerset_of_3.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "In particular, the power set of a countably infinite set is uncountably infinite. ... \nSuch a subset is given by the following construction, sometimes called the Cantor\n\u00a0...", 
+            "htmlSnippet": "In particular, the <b>power set</b> of a countably infinite set is uncountably infinite. ... <br>\nSuch a subset is given by the following <b>construction</b>, sometimes called the Cantor<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Cantor's_theorem", 
+            "cacheId": "rdcIGWxvFhIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Deterministic finite automaton - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Deterministic finite automaton - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Deterministic_finite_automaton", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Deterministic_finite_automaton", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "200", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz8i1NytYMgNJgTEe__lZjaKo9OgBwN-cWHv40JHrbi0MQRkt8zU8WVQY", 
+                        "height": "84"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/DFA_example_multiplies_of_3.svg/250px-DFA_example_multiplies_of_3.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "The construction can also be reversed: given a \\widehat\\delta ... Also, given an \nNFA, using the powerset construction one can build a DFA that recognizes the\u00a0...", 
+            "htmlSnippet": "The construction can also be reversed: given a \\widehat\\delta ... Also, given an <br>\nNFA, using the <b>powerset construction</b> one can build a DFA that recognizes the&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Deterministic_finite_automaton", 
+            "cacheId": "f6aLlqd7zowJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Powerset construction", 
+                "safe": "off", 
+                "searchTerms": "Powerset construction", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "690"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Powerset construction", 
+                "safe": "off", 
+                "searchTerms": "Powerset construction", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "690"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.15", 
+        "formattedTotalResults": "690", 
+        "totalResults": "690", 
+        "searchTime": 0.154072
+    }
+}

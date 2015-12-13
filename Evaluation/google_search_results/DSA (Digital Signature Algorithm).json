@@ -1,3 +1,194 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:68e0acb7e855372daeb502c0225ffdb800416c8b76e01aa8ab686ffbb62558d5
-size 13104
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Digital Signature Algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Digital Signature Algorithm</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Digital_Signature_Algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Digital</b>_<b>Signature</b>_<b>Algorithm</b>", 
+            "snippet": "The Digital Signature Algorithm (DSA) is a Federal Information Processing \nStandard for digital signatures. It was proposed by the National Institute of \nStandards\u00a0...", 
+            "htmlSnippet": "The <b>Digital Signature Algorithm</b> (<b>DSA</b>) is a Federal Information Processing <br>\nStandard for <b>digital signatures</b>. It was proposed by the National Institute of <br>\nStandards&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Digital_Signature_Algorithm", 
+            "cacheId": "HOPbrkeFD58J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Elliptic Curve Digital Signature Algorithm - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Elliptic Curve <b>Digital Signature Algorithm</b> - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../Elliptic_Curve_Digital_Signature_Algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Elliptic_Curve_<b>Digital</b>_<b>Signature</b>_<b>Algorithm</b>", 
+            "snippet": "[edit]. As with elliptic-curve cryptography in general, the bit size of the public key \nbelieved to\u00a0...", 
+            "htmlSnippet": "[edit]. As with elliptic-curve cryptography in general, the bit size of the public key <br>\nbelieved to&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Elliptic_Curve_Digital_Signature_Algorithm", 
+            "cacheId": "rB3g6uQPc9UJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Digital signature - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Digital signature</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Digital_signature", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Digital</b>_<b>signature</b>", 
+            "snippet": "[edit]. RSA-based signature schemes, such as RSA-PSS \u00b7 DSA and its elliptic \ncurve variant ECDSA \u00b7 ElGamal\u00a0...", 
+            "htmlSnippet": "[edit]. RSA-based <b>signature</b> schemes, such as RSA-PSS &middot; <b>DSA</b> and its elliptic <br>\ncurve variant ECDSA &middot; ElGamal&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Digital_signature", 
+            "cacheId": "oCvbVPJb39wJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Digital Signature Algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Digital Signature Algorithm</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3ADigital_Signature_Algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>Digital</b>_<b>Signature</b>_<b>Algorithm</b>", 
+            "snippet": "[edit]. Recently removed from the article: It was designed at the NSA as part of the \nFederal Government's attempt to control\u00a0...", 
+            "htmlSnippet": "[edit]. Recently removed from the article: It was designed at the NSA as part of the <br>\nFederal Government&#39;s attempt to control&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3ADigital_Signature_Algorithm", 
+            "cacheId": "A60E-ydaaiUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "ElGamal signature scheme - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "ElGamal <b>signature</b> scheme - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/ElGamal_signature_scheme", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/ElGamal_<b>signature</b>_scheme", 
+            "snippet": "The ElGamal signature algorithm described in this article is rarely used in \npractice. A variant developed at NSA and known as the Digital Signature \nAlgorithm is\u00a0...", 
+            "htmlSnippet": "The ElGamal signature <b>algorithm</b> described in this article is rarely used in <br>\npractice. A variant developed at NSA and known as the <b>Digital Signature</b> <br>\n<b>Algorithm</b> is&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/ElGamal_signature_scheme", 
+            "cacheId": "5DH3PJos2xAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Subliminal channel - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Subliminal channel - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Subliminal_channel", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Subliminal_channel", 
+            "snippet": "Simmons describes how the dilemma can be solved through parameter \nsubstitution in digital signature algorithms. Signature algorithms like ElGamal and \nDSA\u00a0...", 
+            "htmlSnippet": "Simmons describes how the dilemma can be solved through parameter <br>\nsubstitution in <b>digital signature algorithms</b>. Signature <b>algorithms</b> like ElGamal and <br>\n<b>DSA</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Subliminal_channel", 
+            "cacheId": "S1xBXaJSlk8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Cryptography standards - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Cryptography standards - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Cryptography_standards", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Cryptography_standards", 
+            "snippet": "1 Encryption standards; 2 Hash standards; 3 Digital signature standards ... Digital \nSignature Standard (DSS), based on the Digital Signature Algorithm (DSA)\u00a0...", 
+            "htmlSnippet": "1 Encryption standards; 2 Hash standards; 3 <b>Digital signature</b> standards ... <b>Digital</b> <br>\n<b>Signature</b> Standard (DSS), based on the <b>Digital Signature Algorithm</b> (<b>DSA</b>)&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Cryptography_standards", 
+            "cacheId": "Bo-_8g4a7goJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "DSA - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>DSA</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/DSA", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>DSA</b>", 
+            "snippet": "DSA may refer to: ... security-related problems to users of the Debian GNU/Linux \noperative system; Digital Signature Algorithm, a standard for digital signatures\u00a0...", 
+            "htmlSnippet": "<b>DSA</b> may refer to: ... security-related problems to users of the Debian GNU/Linux <br>\noperative system; <b>Digital Signature Algorithm</b>, a standard for <b>digital signatures</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/DSA", 
+            "cacheId": "atPcsejt3g4J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Public-key cryptography - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Public-key cryptography - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Public-key_cryptography", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Public-key_cryptography", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "200", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTavfkFToJj_Ch97s2qIF-fDbLeuZPG6zM99bv49f-vvAte91-qXIvZXuc", 
+                        "height": "200"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Public-key-crypto-1.svg/250px-Public-key-crypto-1.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "For example, a key pair used for digital signatures consists of a private .... In other \ncases (e.g., DSA), each algorithm can only be used for one specific purpose.", 
+            "htmlSnippet": "For example, a key pair used for <b>digital signatures</b> consists of a private .... In other <br>\ncases (e.g., <b>DSA</b>), each <b>algorithm</b> can only be used for one specific purpose.", 
+            "link": "https://en.wikipedia.org/wiki/Public-key_cryptography", 
+            "cacheId": "ZDLFv9r6uC4J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Pretty Good Privacy - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Pretty Good Privacy - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Pretty_Good_Privacy", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Pretty_Good_Privacy", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "220", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ_8Z4rzuCctCECBO_TeImwyMUP6N3u5M4o2PjAfZyuZ2vMLSt49fjkMBY", 
+                        "height": "229"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/PGP_diagram.svg/500px-PGP_diagram.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "The sender uses PGP to create a digital signature for the message with either the \nRSA or DSA algorithms. To do so, PGP computes a hash (also called a\u00a0...", 
+            "htmlSnippet": "The sender uses PGP to create a <b>digital signature</b> for the message with either the <br>\nRSA or <b>DSA algorithms</b>. To do so, PGP computes a hash (also called a&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Pretty_Good_Privacy", 
+            "cacheId": "H5fhJsZo-48J"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - DSA (Digital Signature Algorithm)", 
+                "safe": "off", 
+                "searchTerms": "DSA (Digital Signature Algorithm)", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "194"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - DSA (Digital Signature Algorithm)", 
+                "safe": "off", 
+                "searchTerms": "DSA (Digital Signature Algorithm)", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "194"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.29", 
+        "formattedTotalResults": "194", 
+        "totalResults": "194", 
+        "searchTime": 0.294074
+    }
+}
