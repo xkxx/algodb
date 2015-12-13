@@ -35,8 +35,11 @@ def main():
         print '================'
         printPkgContent()
 
-        doc = es.get(id="npm:%s:js" % pkgName, index='throwtable', doc_type="implementation")
-        actual = sum(doc['_source']['algorithms'], [])
+        doc = es.get(id="npm:%s:js" % pkgName, index='throwtable', doc_type="implementation", ignore=404)
+        if result['_found']:
+            actual = sum(doc['_source']['algorithms'], [])
+        else:
+            actual = []
         expected = r.smembers("%s:map" % pkgName)
 
         result = checkPkg(actual, expected, r)
