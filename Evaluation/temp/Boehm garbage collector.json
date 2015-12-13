@@ -1,0 +1,6 @@
+{
+    "Boehm garbage collector": [
+        "https://en.wikipedia.org/wiki/Mark-compact_algorithm", 
+        "https://en.wikipedia.org/wiki/Reference_counting"
+    ]
+}

@@ -1,0 +1,8 @@
+{
+    "Bluestein's FFT": [
+        "https://en.wikipedia.org/wiki/Rader's_FFT_algorithm", 
+        "https://en.wikipedia.org/wiki/FFTW", 
+        "https://en.wikipedia.org/wiki/Fractional_Fourier_transform", 
+        "https://en.wikipedia.org/wiki/Cooley\u2013Tukey_FFT_algorithm"
+    ]
+}

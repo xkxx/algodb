@@ -1,3 +1,271 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:554af2ffdae0130bc92e264d80f2a500ab50e081ee2a9cabf594ab3d90b5076b
-size 16556
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Dijkstra's algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Dijkstra&#39;s algorithm</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Dijkstra's_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Dijkstra&#39;s</b>_<b>algorithm</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "226", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7l2TIvp9Wa492c9Rcz22YNA1enA9GetarZ6XBCDXGMTP9PArL8dzhy2EW", 
+                        "height": "177"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/5/57/Dijkstra_Animation.gif"
+                    }
+                ]
+            }, 
+            "snippet": "Dijkstra's algorithm. It picks the unvisited vertex with the lowest-distance, \ncalculates the distance through it to each unvisited neighbor, and updates the\u00a0...", 
+            "htmlSnippet": "<b>Dijkstra&#39;s algorithm</b>. It picks the unvisited vertex with the lowest-distance, <br>\ncalculates the distance through it to each unvisited neighbor, and updates the&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Dijkstra's_algorithm", 
+            "cacheId": "aJ7q_2Gm80YJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Dijkstra - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Dijkstra</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Dijkstra", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Dijkstra</b>", 
+            "snippet": "For a graph search algorithm, see Dijkstra's algorithm. Dijkstra (pronounced [\n\u02c8d\u025bikstr\u0251] or [\u02c8dikstr\u0251]) is a Dutch family name of West Frisian origin. Notable\u00a0...", 
+            "htmlSnippet": "For a graph search algorithm, see <b>Dijkstra&#39;s algorithm</b>. Dijkstra (pronounced [<br>\n\u02c8d\u025bikstr\u0251] or [\u02c8dikstr\u0251]) is a Dutch family name of West Frisian origin. Notable&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Dijkstra", 
+            "cacheId": "LaLdnSjKDtEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Dykstra's projection algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Dykstra&#39;s projection <b>algorithm</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Dykstra's_projection_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Dykstra&#39;s_projection_<b>algorithm</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "274", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRUnkrYF4--j72haZryOPHUw8slK5jEC79MHSICb4Rt5ahRF0ge1kM0DmY", 
+                        "height": "184"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Dykstra_algorithm.svg/400px-Dykstra_algorithm.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "Not to be confused with Dijkstra's algorithm. Dykstra's algorithm is a method that \ncomputes a point in the intersection of convex sets, and is a variant of the\u00a0...", 
+            "htmlSnippet": "Not to be confused with <b>Dijkstra&#39;s algorithm</b>. Dykstra&#39;s algorithm is a method that <br>\ncomputes a point in the intersection of convex sets, and is a variant of the&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Dykstra's_projection_algorithm", 
+            "cacheId": "r5a0m9kIr3wJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Edsger W. Dijkstra - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Edsger W. <b>Dijkstra</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Edsger_W._Dijkstra", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Edsger_W._<b>Dijkstra</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRqynTK7EiSESiZ2MaZ0gsk5d4lP3w17qHaHGkiEnqnJzNzSH7rRAyD5jQ", 
+                        "height": "234"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Edsger_Wybe_Dijkstra.jpg/220px-Edsger_Wybe_Dijkstra.jpg"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "bday": "1930-05-11", 
+                        "category": "Computing science Theoretical computer science", 
+                        "fn": "Edsger Wybe Dijkstra"
+                    }
+                ]
+            }, 
+            "snippet": "Dijkstra was an early theoretical pioneer in many research areas of computing \nscience, including algorithm design, programming methodology, and software\u00a0...", 
+            "htmlSnippet": "<b>Dijkstra</b> was an early theoretical pioneer in many research areas of computing <br>\nscience, including <b>algorithm</b> design, programming methodology, and software&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Edsger_W._Dijkstra", 
+            "cacheId": "_6uyKRDdCiEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Bidirectional search - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Bidirectional search - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Bidirectional_search", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Bidirectional_search", 
+            "snippet": "Bidirectional search is a graph search algorithm that finds a shortest path from an \n... termination conditions for the bidirectional version of Dijkstra's Algorithm.", 
+            "htmlSnippet": "Bidirectional search is a graph search algorithm that finds a shortest path from an <br>\n... termination conditions for the bidirectional version of <b>Dijkstra&#39;s Algorithm</b>.", 
+            "link": "https://en.wikipedia.org/wiki/Bidirectional_search", 
+            "cacheId": "ZadzKWB8hkoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Shunting-yard algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Shunting-yard <b>algorithm</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Shunting-yard_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Shunting-yard_<b>algorithm</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "211", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS8r_6XdBk9SxE4CHv4e3u0U5yL7DQNDORt9Qnnlf4gjD_m8TL7y5QyLMc", 
+                        "height": "239"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Shunting_yard.svg/400px-Shunting_yard.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "The algorithm was invented by Edsger Dijkstra and named the \"shunting yard\" \nalgorithm because its operation resembles that of a railroad shunting yard.", 
+            "htmlSnippet": "The <b>algorithm</b> was invented by Edsger <b>Dijkstra</b> and named the &quot;shunting yard&quot; <br>\n<b>algorithm</b> because its operation resembles that of a railroad shunting yard.", 
+            "link": "https://en.wikipedia.org/wiki/Shunting-yard_algorithm", 
+            "cacheId": "cS8MjzgkuKEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Johnson's algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Johnson&#39;s <b>algorithm</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Johnson's_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Johnson&#39;s_<b>algorithm</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "356", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRppIqUlwvK2X665YuLuxwuH2rt-ypW16tG1QADFoqvbfFyfKnxty3h074", 
+                        "height": "141"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Johnson's_algorithm.svg/540px-Johnson's_algorithm.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "It works by using the Bellman\u2013Ford algorithm to compute a transformation of the \ninput graph that removes all negative weights, allowing Dijkstra's algorithm to be\n\u00a0...", 
+            "htmlSnippet": "It works by using the Bellman\u2013Ford algorithm to compute a transformation of the <br>\ninput graph that removes all negative weights, allowing <b>Dijkstra&#39;s algorithm</b> to be<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Johnson's_algorithm", 
+            "cacheId": "9QlkuiRAO10J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Dijkstra\u2013Scholten algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Dijkstra</b>\u2013Scholten <b>algorithm</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Dijkstra\u2013Scholten_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Dijkstra</b>\u2013Scholten_<b>algorithm</b>", 
+            "snippet": "The Dijkstra\u2013Scholten algorithm (named after Edsger W. Dijkstra and Carel S. \nScholten) is an algorithm for detecting termination in a distributed system.", 
+            "htmlSnippet": "The <b>Dijkstra</b>\u2013Scholten <b>algorithm</b> (named after Edsger W. <b>Dijkstra</b> and Carel S. <br>\nScholten) is an <b>algorithm</b> for detecting termination in a distributed system.", 
+            "link": "https://en.wikipedia.org/wiki/Dijkstra%E2%80%93Scholten_algorithm", 
+            "cacheId": "JuFYchdr8SEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Suurballe's algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Suurballe&#39;s <b>algorithm</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Suurballe's_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Suurballe&#39;s_<b>algorithm</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "258", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ4-DFpBjIdfi1EI05WYMIQ5h1CIUPxJRwY4JtysFgFJGmdVvDzsfNcpfDA", 
+                        "height": "196"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/First_graph.jpg/900px-First_graph.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "The algorithm was conceived by J. W. Suurballe and published in 1974. The \nmain idea of Suurballe's algorithm is to use Dijkstra's algorithm to find one path,\u00a0...", 
+            "htmlSnippet": "The algorithm was conceived by J. W. Suurballe and published in 1974. The <br>\nmain idea of Suurballe&#39;s algorithm is to use <b>Dijkstra&#39;s algorithm</b> to find one path,&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Suurballe's_algorithm", 
+            "cacheId": "yPkAnoj-fK4J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Shortest path problem - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Shortest path problem - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Shortest_path_problem", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Shortest_path_problem", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQMpn1Rnz_E4TtCgOuILOpwSyXinNPw4gekHR0GUm8Oza4RCm6jgv6527Y", 
+                        "height": "116"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/6n-graf.svg/220px-6n-graf.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "Dijkstra's algorithm solves the single-source shortest path problem. ... Johnson's \nalgorithm solves all pairs shortest paths, and may be faster than Floyd\u2013Warshall\n\u00a0...", 
+            "htmlSnippet": "<b>Dijkstra&#39;s algorithm</b> solves the single-source shortest path problem. ... Johnson&#39;s <br>\nalgorithm solves all pairs shortest paths, and may be faster than Floyd\u2013Warshall<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Shortest_path_problem", 
+            "cacheId": "p8nrvK-HScMJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Dijkstra's algorithm", 
+                "safe": "off", 
+                "searchTerms": "Dijkstra's algorithm", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "918"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Dijkstra's algorithm", 
+                "safe": "off", 
+                "searchTerms": "Dijkstra's algorithm", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "918"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.30", 
+        "formattedTotalResults": "918", 
+        "totalResults": "918", 
+        "searchTime": 0.296202
+    }
+}

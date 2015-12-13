@@ -1,0 +1,11 @@
+{
+    "Prime-factor FFT": [
+        "https://en.wikipedia.org/wiki/Prime-factor_FFT_algorithm", 
+        "https://en.wikipedia.org/wiki/Rader's_FFT_algorithm", 
+        "https://en.wikipedia.org/wiki/Cooley\u2013Tukey_FFT_algorithm", 
+        "https://en.wikipedia.org/wiki/Fast_Fourier_transform", 
+        "https://en.wikipedia.org/wiki/Twiddle_factor", 
+        "https://en.wikipedia.org/wiki/FFTW", 
+        "https://en.wikipedia.org/wiki/Discrete_Hartley_transform"
+    ]
+}

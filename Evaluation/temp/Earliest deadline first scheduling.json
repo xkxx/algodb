@@ -1,0 +1,11 @@
+{
+    "Earliest deadline first scheduling": [
+        "https://en.wikipedia.org/wiki/Earliest_deadline_first_scheduling", 
+        "https://en.wikipedia.org/wiki/SCHED_DEADLINE", 
+        "https://en.wikipedia.org/wiki/Least_slack_time_scheduling", 
+        "https://en.wikipedia.org/wiki/Rate-monotonic_scheduling", 
+        "https://en.wikipedia.org/wiki/Dynamic_priority_scheduling", 
+        "https://en.wikipedia.org/wiki/Interval_scheduling", 
+        "https://en.wikipedia.org/wiki/Real-time_operating_system"
+    ]
+}

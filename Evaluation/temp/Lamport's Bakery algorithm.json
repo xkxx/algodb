@@ -1,0 +1,11 @@
+{
+    "Lamport's Bakery algorithm": [
+        "https://en.wikipedia.org/wiki/Lamport's_bakery_algorithm", 
+        "https://en.wikipedia.org/.../Lamport's_distributed_mutual_exclusion_ algorithm", 
+        "https://en.wikipedia.org/wiki/Leslie_Lamport", 
+        "https://en.wikipedia.org/wiki/Szyma\u0144ski's_algorithm", 
+        "https://en.wikipedia.org/wiki/Ricart\u2013Agrawala_algorithm", 
+        "https://en.wikipedia.org/wiki/Raymond's_algorithm", 
+        "https://en.wikipedia.org/wiki/Ticket_lock"
+    ]
+}

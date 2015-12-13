@@ -1,0 +1,10 @@
+{
+    "Diffie-Hellman (Merkle) key exchange (or exponential key exchange)": [
+        "https://en.wikipedia.org/wiki/Diffie\u2013Hellman_key_exchange", 
+        "https://en.wikipedia.org/wiki/Whitfield_Diffie", 
+        "https://en.wikipedia.org/wiki/ElGamal_encryption", 
+        "https://en.wikipedia.org/wiki/RSA_(cryptosystem)", 
+        "https://en.wikipedia.org/wiki/Three-pass_protocol", 
+        "https://en.wikipedia.org/wiki/Discrete_logarithm"
+    ]
+}

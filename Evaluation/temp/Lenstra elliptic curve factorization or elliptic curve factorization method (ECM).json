@@ -1,0 +1,13 @@
+{
+    "Lenstra elliptic curve factorization or elliptic curve factorization method (ECM)": [
+        "https://en.wikipedia.org/wiki/Lenstra_elliptic_curve_factorization", 
+        "https://en.wikipedia.org/wiki/Quadratic_sieve", 
+        "https://en.wikipedia.org/wiki/Elliptic_curve_primality", 
+        "https://en.wikipedia.org/wiki/Integer_factorization", 
+        "https://en.wikipedia.org/wiki/Continued_fraction_factorization", 
+        "https://en.wikipedia.org/wiki/Pollard's_p_\u2212_1_algorithm", 
+        "https://en.wikipedia.org/wiki/Sch\u00f6nhage\u2013Strassen_algorithm", 
+        "https://en.wikipedia.org/wiki/Pollard's_rho_algorithm", 
+        "https://en.wikipedia.org/wiki/Shanks'_square_forms_factorization"
+    ]
+}

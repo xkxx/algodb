@@ -1,3 +1,250 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0802d64057cb7864c8aca4a85ac17a80c47542d4b204ee7f82a3ad40d03a539f
-size 14914
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "MD5 - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>MD5</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/MD5", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>MD5</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "213", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbR61O5nVt5ATdn437t53HyZUfzUJQSb-k5niYiahx3KH0m7jXiwWItIQA", 
+                        "height": "236"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/CPT-Hashing-File-Transmission.svg/350px-CPT-Hashing-File-Transmission.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "The MD5 message-digest algorithm is a widely used cryptographic hash function \nproducing a 128-bit (16-byte) hash value, typically expressed in text format as\u00a0...", 
+            "htmlSnippet": "The <b>MD5</b> message-digest algorithm is a widely used cryptographic hash function <br>\nproducing a 128-bit (16-byte) hash value, typically expressed in text format as&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/MD5", 
+            "cacheId": "aBhG5qlLQP0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "md5sum - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "md5sum - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Md5sum", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Md5</b>sum", 
+            "snippet": "md5sum is a computer program that calculates and verifies 128-bit MD5 hashes, \nas described in RFC 1321. The MD5 hash (or checksum) functions as a\u00a0...", 
+            "htmlSnippet": "md5sum is a computer program that calculates and verifies 128-bit <b>MD5</b> hashes, <br>\nas described in RFC 1321. The <b>MD5</b> hash (or checksum) functions as a&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Md5sum", 
+            "cacheId": "HHF2j6VamZsJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "CRAM-MD5 - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "CRAM-<b>MD5</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/CRAM-MD5", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/CRAM-<b>MD5</b>", 
+            "snippet": "In cryptography, CRAM-MD5 is a challenge-response authentication mechanism \n(CRAM) based on the HMAC-MD5 algorithm. As one of the mechanisms\u00a0...", 
+            "htmlSnippet": "In cryptography, CRAM-<b>MD5</b> is a challenge-response authentication mechanism <br>\n(CRAM) based on the HMAC-<b>MD5</b> algorithm. As one of the mechanisms&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/CRAM-MD5", 
+            "cacheId": "mRPsHxcHwU0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Digest access authentication - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Digest access authentication - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Digest_access_authentication", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Digest_access_authentication", 
+            "snippet": "Technically, digest authentication is an application of MD5 cryptographic hashing \nwith usage of nonce values to prevent replay attacks. It uses the HTTP protocol\u00a0...", 
+            "htmlSnippet": "Technically, digest authentication is an application of <b>MD5</b> cryptographic hashing <br>\nwith usage of nonce values to prevent replay attacks. It uses the HTTP protocol&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Digest_access_authentication", 
+            "cacheId": "JATHIM673vkJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Collision attack - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Collision attack - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Collision_attack", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Collision_attack", 
+            "snippet": "The NIST hash function competition was largely induced by published collision \nattacks against two very commonly used hash functions, MD5 and SHA-1.", 
+            "htmlSnippet": "The NIST hash function competition was largely induced by published collision <br>\nattacks against two very commonly used hash functions, <b>MD5</b> and SHA-1.", 
+            "link": "https://en.wikipedia.org/wiki/Collision_attack", 
+            "cacheId": "8AzhridAVEsJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "MD5CRK - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "MD5CRK - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/MD5CRK", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>MD5</b>CRK", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "256", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQLw4D4H-C-H7gsOwvbL7bfc1OT5ps3KW8_r2JT5DGi2V7x2zIYyvJIB1I", 
+                        "height": "197"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/MD5CRK-Pollard.svg/350px-MD5CRK-Pollard.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "The project ended on August 24, 2004 after researchers independently \ndemonstrated a technique for generating collisions in MD5 using analytical \nmethods by\u00a0...", 
+            "htmlSnippet": "The project ended on August 24, 2004 after researchers independently <br>\ndemonstrated a technique for generating collisions in <b>MD5</b> using analytical <br>\nmethods by&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/MD5CRK", 
+            "cacheId": "8BWsCvaWIY0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Hash-based message authentication code - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Hash-based message authentication code - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../Hash-based_message_authentication_code", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Hash-based_message_authentication_code", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "260", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpPldLvJDFBfffho20A9U3BeSx8NxTKaDNf_offPFcng1-cJNzXnR7Of0", 
+                        "height": "194"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/SHAhmac.svg/400px-SHAhmac.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "Any cryptographic hash function, such as MD5 or SHA-1, may be used in the \ncalculation of an HMAC; the resulting MAC algorithm is termed HMAC-MD5 or\u00a0...", 
+            "htmlSnippet": "Any cryptographic hash function, such as <b>MD5</b> or SHA-1, may be used in the <br>\ncalculation of an HMAC; the resulting MAC algorithm is termed HMAC-<b>MD5</b> or&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Hash-based_message_authentication_code", 
+            "cacheId": "u7R4mcsmlC0J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Cryptographic hash function - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Cryptographic hash function - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Cryptographic_hash_function", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Cryptographic_hash_function", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "264", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSwR18oouRGMEL39Aa-0zdkyKGL6-Ayeuw_0YAQaayM5bRFmCEeYGfQ8CE", 
+                        "height": "191"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Cryptographic_Hash_Function.svg/375px-Cryptographic_Hash_Function.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "Verifying the authenticity of a hashed digest of the message is considered proof \nthat the message itself is authentic. MD5, SHA1, or SHA2 hashes are sometimes\n\u00a0...", 
+            "htmlSnippet": "Verifying the authenticity of a hashed digest of the message is considered proof <br>\nthat the message itself is authentic. <b>MD5</b>, SHA1, or SHA2 hashes are sometimes<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Cryptographic_hash_function", 
+            "cacheId": "3NAYEb52tOMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Checksum - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Checksum - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Checksum", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Checksum", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "225", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf_A-DOIazGoUXeNm0kmwkRo2T4KZQ2IPG8gi8QVN8nZFHIThdGuUvHEw", 
+                        "height": "224"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Checksum.svg/330px-Checksum.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "MD5 Hash Generator & MD5 Checksum of File Online Generate the MD5 \nchecksum for any file or string in browser without uploading it. Retrieved from\u00a0...", 
+            "htmlSnippet": "<b>MD5</b> Hash Generator &amp; <b>MD5</b> Checksum of File Online Generate the <b>MD5</b> <br>\nchecksum for any file or string in browser without uploading it. Retrieved from&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Checksum", 
+            "cacheId": "zYYX0MKSvOoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "MD4 - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "MD4 - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/MD4", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/MD4", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "214", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTh7mk2yUpucse--X8WBiOwLzyscz89OKDQqcQJXNUMJuprs_v4a1UI0bE", 
+                        "height": "235"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/MD4.svg/300px-MD4.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "In August 2004, Wang et al. found a very efficient collision attack, alongside \nattacks on later hash function designs in the MD4/MD5/SHA-1/RIPEMD family.", 
+            "htmlSnippet": "In August 2004, Wang et al. found a very efficient collision attack, alongside <br>\nattacks on later hash function designs in the MD4/<b>MD5</b>/SHA-1/RIPEMD family.", 
+            "link": "https://en.wikipedia.org/wiki/MD4", 
+            "cacheId": "jAWND4wX1hoJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - MD5", 
+                "safe": "off", 
+                "searchTerms": "MD5", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "3230"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - MD5", 
+                "safe": "off", 
+                "searchTerms": "MD5", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "3230"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.28", 
+        "formattedTotalResults": "3,230", 
+        "totalResults": "3230", 
+        "searchTime": 0.280134
+    }
+}

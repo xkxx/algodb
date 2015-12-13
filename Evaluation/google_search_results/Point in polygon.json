@@ -1,3 +1,292 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:53ba525007da6f981351d060b0d833af99d854103c5379819c8ddbb170ca711c
-size 16917
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Point in polygon - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Point in polygon</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Point_in_polygon", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Point_in_polygon</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQzPFo0CA5qENwsQDEVAlk2xK0eZT07bAWbwo5Bvht5j4_mowarubYq0DM", 
+                        "height": "156"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Simple_polygon.svg/220px-Simple_polygon.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "In computational geometry, the point-in-polygon (PIP) problem asks whether a \ngiven point in the plane lies inside, outside, or on the boundary of a polygon.", 
+            "htmlSnippet": "In computational geometry, the <b>point-in-polygon</b> (PIP) problem asks whether a <br>\ngiven point in the plane lies inside, outside, or on the boundary of a polygon.", 
+            "link": "https://en.wikipedia.org/wiki/Point_in_polygon", 
+            "cacheId": "Jwk2cfvvk5kJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Point location - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Point</b> location - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Point_location", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Point</b>_location", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "200", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcToV9dWWg9FbvVj6YNWso3cbLuLQsWARSuhoKvxvtCpVJDyujX41BGVBixv", 
+                        "height": "200"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Point_location1.png/250px-Point_location1.png"
+                    }
+                ]
+            }, 
+            "snippet": "A simple special case is the point in polygon problem. In this case, we need to \ndetermine whether the point is inside, outside, or on the boundary of a single\u00a0...", 
+            "htmlSnippet": "A simple special case is the <b>point in polygon</b> problem. In this case, we need to <br>\ndetermine whether the point is inside, outside, or on the boundary of a single&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Point_location", 
+            "cacheId": "OlhdVhfuWY8J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Centroid - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Centroid - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Centroid", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Centroid", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ0U80er6_8QJ0nWmP6Ov1zvlCVAaJ9tee-fEE4moPkuPccXiXk01imPXQ", 
+                        "height": "142"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Triangle.Centroid.svg/220px-Triangle.Centroid.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "Informally, it is the point at which an infinitesimally thin cutout of the shape ... 3.7 \nOf triangle and tetrahedron; 3.8 Centroid of polygon; 3.9 Centroid of cone or\u00a0...", 
+            "htmlSnippet": "Informally, it is the <b>point</b> at which an infinitesimally thin cutout of the shape ... 3.7 <br>\nOf triangle and tetrahedron; 3.8 Centroid of <b>polygon</b>; 3.9 Centroid of cone or&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Centroid", 
+            "cacheId": "l6TXlpIXAnQJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Point in polygon - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:<b>Point in polygon</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3APoint_in_polygon", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A<b>Point_in_polygon</b>", 
+            "snippet": "For example, consider the unit square polygon and a test point (0.5,0.5). The \nalgorithm will terminate with either L=0,R=2 or L=2,R=0 (depending on which \nway\u00a0...", 
+            "htmlSnippet": "For example, consider the unit square <b>polygon</b> and a test <b>point</b> (0.5,0.5). The <br>\nalgorithm will terminate with either L=0,R=2 or L=2,R=0 (depending on which <br>\nway&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3APoint_in_polygon", 
+            "cacheId": "GR_7DWLosm4J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Monotone polygon - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Monotone <b>polygon</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Monotone_polygon", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Monotone_<b>polygon</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ06p4BjZRVGP7pXzEKmYF8oROhnFQiDlMyRtlA24E9Ae7Nvk4uHu4zYYU", 
+                        "height": "248"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/M-polygon.svg/220px-M-polygon.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "Point in polygon queries with respect to a monotone polygon may be answered \nin logarithmic time after linear time preprocessing (to find the leftmost and\u00a0...", 
+            "htmlSnippet": "<b>Point in polygon</b> queries with respect to a monotone polygon may be answered <br>\nin logarithmic time after linear time preprocessing (to find the leftmost and&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Monotone_polygon", 
+            "cacheId": "H2ygsK99wQkJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Visibility polygon - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Visibility <b>polygon</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Visibility_polygon", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Visibility_<b>polygon</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTu4VSUQwdb5Ng4IMkOw5kMDQDV0NyepF4d-eFdqvvA12ATubOn-RDRiIo", 
+                        "height": "176"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Visibility_polygon.svg/220px-Visibility_polygon.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "[edit]. A visibility polygon for a point in the center (shown in white) inside a simple\n\u00a0...", 
+            "htmlSnippet": "[edit]. A visibility <b>polygon</b> for a <b>point</b> in the center (shown in white) inside a simple<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Visibility_polygon", 
+            "cacheId": "Yg8n4HvMv7YJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Star-shaped polygon - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Star-shaped <b>polygon</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Star-shaped_polygon", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Star-shaped_<b>polygon</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "142", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwNJUMsq2k-FPwDx8hMr0eEesY3-u_-IeqxpXi7cZZgS3aVOKOtd616Ryd", 
+                        "height": "355"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Star-kernel.svg/200px-Star-kernel.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "A star-shaped polygon (not to be confused with star polygon) is a polygonal \nregion in the plane that is a star domain, that is, a polygon that contains a point \nfrom\u00a0...", 
+            "htmlSnippet": "A star-shaped <b>polygon</b> (not to be confused with star <b>polygon</b>) is a polygonal <br>\nregion in the plane that is a star domain, that is, a <b>polygon</b> that contains a <b>point</b> <br>\nfrom&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Star-shaped_polygon", 
+            "cacheId": "ErrtDAutK5kJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Vertex (geometry) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Vertex (geometry) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Vertex_(geometry)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Vertex_(geometry)", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOxYO7Jq7970_gPUHtKB3Kf62rUbqp8KrKNNELm7LvPbu-8sGJ_ornQpQL", 
+                        "height": "132"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Two_rays_and_one_vertex.png/220px-Two_rays_and_one_vertex.png"
+                    }
+                ]
+            }, 
+            "snippet": "A vertex is a corner point of a polygon, polyhedron, or other higher-dimensional \npolytope, formed by the intersection of edges, faces or facets of the object.", 
+            "htmlSnippet": "A vertex is a corner <b>point</b> of a <b>polygon</b>, polyhedron, or other higher-dimensional <br>\npolytope, formed by the intersection of edges, faces or facets of the object.", 
+            "link": "https://en.wikipedia.org/wiki/Vertex_(geometry)", 
+            "cacheId": "JXE9FnTXqIoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Polygon - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Polygon</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Polygon", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Polygon</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "240", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQFrvU5ptMK06noIF2cUb9hWeM36A6GvPavbO0nOspp8ULxGGj0WMNkaDS0", 
+                        "height": "201"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Polygon_types.svg/300px-Polygon_types.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "Star-shaped: the whole interior is visible from a single point, without crossing any \nedge. The polygon must be simple, and may be convex or concave.", 
+            "htmlSnippet": "Star-shaped: the whole interior is visible from a single <b>point</b>, without crossing any <br>\nedge. The <b>polygon</b> must be simple, and may be convex or concave.", 
+            "link": "https://en.wikipedia.org/wiki/Polygon", 
+            "cacheId": "rEpCdBsHYQwJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Simple polygon - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Simple <b>polygon</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Simple_polygon", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Simple_<b>polygon</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJOb4ME74HQ_I8xu65cbEhWs0t77BCNuimbiCQdbR-WpQ5MVp7gkFZMAw", 
+                        "height": "80"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Polygons_Examples_of_polygons.png/220px-Polygons_Examples_of_polygons.png"
+                    }
+                ]
+            }, 
+            "snippet": "The line segments that make-up a polygon (called sides or edges) meet only at ... \nPoint in polygon testing involves determining, for a simple polygon P and a\u00a0...", 
+            "htmlSnippet": "The line segments that make-up a polygon (called sides or edges) meet only at ... <br>\n<b>Point in polygon</b> testing involves determining, for a simple polygon P and a&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Simple_polygon", 
+            "cacheId": "18QFLIF8rfoJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Point in polygon", 
+                "safe": "off", 
+                "searchTerms": "Point in polygon", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "53400"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Point in polygon", 
+                "safe": "off", 
+                "searchTerms": "Point in polygon", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "53400"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.27", 
+        "formattedTotalResults": "53,400", 
+        "totalResults": "53400", 
+        "searchTime": 0.265288
+    }
+}

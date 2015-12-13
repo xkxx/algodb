@@ -1,3 +1,201 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a7df4db91e6d5a8c7478fc7f43696cdd2eafcaf8f4126b1d1d74700d18d0df95
-size 15910
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Diffie\u2013Hellman key exchange - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Diffie</b>\u2013<b>Hellman key exchange</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Diffie\u2013Hellman_key_exchange", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Diffie</b>\u2013<b>Hellman</b>_<b>key</b>_<b>exchange</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQoWsLG1Z1S2jZcp73jbd9i2-jVyIFHFfyK7GEJ0yjtSFU_C86CtY2Mug", 
+                        "height": "123"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Enigma_keylist_3_rotor.jpg/220px-Enigma_keylist_3_rotor.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "The Diffie\u2013Hellman key exchange method allows two parties that have no prior ... \nbe called Diffie\u2013Hellman\u2013Merkle key exchange in recognition of Ralph Merkle's \n.... value to every participant's private exponent once, in any order (the first such\u00a0...", 
+            "htmlSnippet": "The <b>Diffie</b>\u2013<b>Hellman key exchange</b> method allows two parties that have no prior ... <br>\nbe called <b>Diffie</b>\u2013<b>Hellman</b>\u2013<b>Merkle key exchange</b> in recognition of Ralph Merkle&#39;s <br>\n.... value to every participant&#39;s private <b>exponent</b> once, in any order (the first such&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Diffie%E2%80%93Hellman_key_exchange", 
+            "cacheId": "w3BRKkbW_moJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Merkle's Puzzles - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Merkle&#39;s</b> Puzzles - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Merkle's_Puzzles", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Merkle&#39;s</b>_Puzzles", 
+            "snippet": "In cryptography, Merkle's puzzles is an early construction for a public-key ... and \nwas an inspiration for the Diffie-Hellman key exchange protocol, which has\u00a0...", 
+            "htmlSnippet": "In cryptography, <b>Merkle&#39;s</b> puzzles is an early construction for a public-<b>key</b> ... and <br>\nwas an inspiration for the <b>Diffie</b>-<b>Hellman key exchange</b> protocol, which has&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Merkle's_Puzzles", 
+            "cacheId": "Pd1UhrOtzSUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "SPEKE (cryptography) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "SPEKE (cryptography) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/SPEKE_(cryptography)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/SPEKE_(cryptography)", 
+            "snippet": "SPEKE (Simple Password Exponential Key Exchange) is a cryptographic ... The \nprotocol consists of little more than a Diffie-Hellman key exchange where the\u00a0...", 
+            "htmlSnippet": "SPEKE (Simple Password <b>Exponential Key Exchange</b>) is a cryptographic ... The <br>\nprotocol consists of little more than a <b>Diffie</b>-<b>Hellman key exchange</b> where the&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/SPEKE_(cryptography)", 
+            "cacheId": "wCsQDOByBzQJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Whitfield Diffie - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Whitfield <b>Diffie</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Whitfield_Diffie", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Whitfield_<b>Diffie</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "160", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrcpl8wiQvTWf6ZVuMKmpBcrdb5Iiabhv9EqVaOjOkhj83yHPBBPKSNiyX", 
+                        "height": "223"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Whitfield_Diffie.png/200px-Whitfield_Diffie.png"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "bday": "1944-06-05", 
+                        "category": "Cryptography", 
+                        "fn": "Whitfield Diffie"
+                    }
+                ]
+            }, 
+            "snippet": "It has become known as Diffie\u2013Hellman key exchange. ... History Museum \"for his \nwork, with Martin Hellman and Ralph Merkle, on public key cryptography.\" .... As \nChief Security Officer, Diffie is the chief exponent of Sun's security vision and\u00a0...", 
+            "htmlSnippet": "It has become known as <b>Diffie</b>\u2013<b>Hellman key exchange</b>. ... History Museum &quot;for his <br>\nwork, with Martin Hellman and Ralph <b>Merkle</b>, on public <b>key</b> cryptography.&quot; .... As <br>\nChief Security Officer, Diffie is the chief <b>exponent</b> of Sun&#39;s security vision and&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Whitfield_Diffie", 
+            "cacheId": "wpchBZ9bjwQJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Station-to-Station protocol - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Station-to-Station protocol - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Station-to-Station_protocol", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Station-to-Station_protocol", 
+            "snippet": "In public-key cryptography, the Station-to-Station (STS) protocol is a ... on classic \nDiffie\u2013Hellman that provides mutual key and entity authentication. ... Alice \ngenerates a random number x and computes and sends the exponential gx to \nBob. ... of authentication and key exchange protocols\", Proceedings of the 30th \nAnnual\u00a0...", 
+            "htmlSnippet": "In public-<b>key</b> cryptography, the Station-to-Station (STS) protocol is a ... on classic <br>\n<b>Diffie</b>\u2013<b>Hellman</b> that provides mutual <b>key</b> and entity authentication. ... Alice <br>\ngenerates a random number x and computes and sends the <b>exponential</b> g<sup>x</sup> to <br>\nBob. ... of authentication and <b>key exchange</b> protocols&quot;, Proceedings of the 30th <br>\nAnnual&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Station-to-Station_protocol", 
+            "cacheId": "61tmbdcin9kJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "ElGamal encryption - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "ElGamal encryption - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/ElGamal_encryption", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/ElGamal_encryption", 
+            "snippet": "In cryptography, the ElGamal encryption system is an asymmetric key ... for public\n-key cryptography which is based on the Diffie\u2013Hellman key exchange.", 
+            "htmlSnippet": "In cryptography, the ElGamal encryption system is an asymmetric <b>key</b> ... for public<br>\n-<b>key</b> cryptography which is based on the <b>Diffie</b>\u2013<b>Hellman key exchange</b>.", 
+            "link": "https://en.wikipedia.org/wiki/ElGamal_encryption", 
+            "cacheId": "Hvi6s6i24mYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "RSA (cryptosystem) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "RSA (cryptosystem) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/RSA_(cryptosystem)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/RSA_(cryptosystem)", 
+            "snippet": "In such a cryptosystem, the encryption key is public and differs from the \ndecryption ... public-private key cryptosystem is attributed to Diffie and Hellman, \nwho .... The private key consists of the modulus n and the private (or decryption) \nexponent d, ..... Diffie\u2013Hellman key exchange \u00b7 Key management \u00b7 Cryptographic \nkey length\u00a0...", 
+            "htmlSnippet": "In such a cryptosystem, the encryption <b>key</b> is public and differs from the <br>\ndecryption ... public-private <b>key</b> cryptosystem is attributed to Diffie and Hellman, <br>\nwho .... The private <b>key</b> consists of the modulus n and the private (or decryption) <br>\n<b>exponent</b> d, ..... <b>Diffie</b>\u2013<b>Hellman key exchange</b> &middot; <b>Key</b> management &middot; Cryptographic <br>\n<b>key</b> length&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/RSA_(cryptosystem)", 
+            "cacheId": "WlBXqIboIVYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Decisional Diffie\u2013Hellman assumption - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Decisional <b>Diffie</b>\u2013<b>Hellman</b> assumption - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Decisional_Diffie\u2013Hellman_assumption", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Decisional_<b>Diffie</b>\u2013<b>Hellman</b>_assumption", 
+            "snippet": "The decisional Diffie\u2013Hellman (DDH) assumption is a computational hardness ... \nDiffie\u2013Hellman problem \u00b7 Diffie\u2013Hellman key exchange \u00b7 Computational\u00a0...", 
+            "htmlSnippet": "The decisional <b>Diffie</b>\u2013<b>Hellman</b> (DDH) assumption is a computational hardness ... <br>\n<b>Diffie</b>\u2013<b>Hellman</b> problem &middot; <b>Diffie</b>\u2013<b>Hellman key exchange</b> &middot; Computational&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Decisional_Diffie%E2%80%93Hellman_assumption", 
+            "cacheId": "QSgPSmphjCkJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Three-pass protocol - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Three-pass protocol - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Three-pass_protocol", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Three-pass_protocol", 
+            "snippet": "Corresponding to each encryption key e there is a decryption key d which allows \n... the sender and the receiver do not exchange any keys, however the protocol ... \nThe corresponding decryption exponent d is chosen such that de \u2261 1 (mod p-1). \n... Massey-Omura cryptosystem is equivalent to the Diffie-Hellman assumption.", 
+            "htmlSnippet": "Corresponding to each encryption <b>key</b> e there is a decryption <b>key</b> d which allows <br>\n... the sender and the receiver do not <b>exchange</b> any <b>keys</b>, however the protocol ... <br>\nThe corresponding decryption <b>exponent</b> d is chosen such that de \u2261 1 (mod p-1). <br>\n... Massey-Omura cryptosystem is equivalent to the <b>Diffie</b>-<b>Hellman</b> assumption.", 
+            "link": "https://en.wikipedia.org/wiki/Three-pass_protocol", 
+            "cacheId": "BCiqi_IinJkJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Discrete logarithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Discrete logarithm - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Discrete_logarithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Discrete_logarithm", 
+            "snippet": "Several important algorithms in public-key cryptography base their security on ... \nof the group G and thus exponential in the number of digits in the size of the \ngroup. ... the cyclic groups (Zp)\u00d7 (e.g. ElGamal encryption, Diffie\u2013Hellman key \nexchange, ... McEliece \u00b7 Merkle\u2013Hellman \u00b7 Naccache\u2013Stern \u00b7 Naccache\u2013Stern \nknapsack\u00a0...", 
+            "htmlSnippet": "Several important algorithms in public-<b>key</b> cryptography base their security on ... <br>\nof the group G and thus <b>exponential</b> in the number of digits in the size of the <br>\ngroup. ... the cyclic groups (Zp)<sup>\u00d7</sup> (e.g. ElGamal encryption, <b>Diffie</b>\u2013<b>Hellman key</b> <br>\n<b>exchange</b>, ... McEliece &middot; <b>Merkle</b>\u2013Hellman &middot; Naccache\u2013Stern &middot; Naccache\u2013Stern <br>\nknapsack&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Discrete_logarithm", 
+            "cacheId": "7imu4Vf2ay0J"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Diffie-Hellman (Merkle) key exchange (or exponential key exchange)", 
+                "safe": "off", 
+                "searchTerms": "Diffie-Hellman (Merkle) key exchange (or exponential key exchange)", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "16"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Diffie-Hellman (Merkle) key exchange (or exponential key exchange)", 
+                "safe": "off", 
+                "searchTerms": "Diffie-Hellman (Merkle) key exchange (or exponential key exchange)", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "16"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.23", 
+        "formattedTotalResults": "16", 
+        "totalResults": "16", 
+        "searchTime": 0.227027
+    }
+}

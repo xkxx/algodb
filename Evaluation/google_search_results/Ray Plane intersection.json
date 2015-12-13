@@ -1,3 +1,250 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:772138507b543e121d8988a227ae9cf185924f40b184e0d5cea889cdcd27f5f6
-size 16794
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Line\u2013plane intersection - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Line\u2013<b>plane intersection</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Line\u2013plane_intersection", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Line\u2013<b>plane</b>_<b>intersection</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "280", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQa76fcXzaH0kH2MqvXcsmbc2MVA3pI8Z-H60IA2uYWe2kpA7GBcl_k7Z8", 
+                        "height": "98"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Plane-line_intersection.svg/350px-Plane-line_intersection.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "In analytic geometry, the intersection of a line and a plane can be the empty ... In \nthe ray tracing method of computer graphics a surface can be represented as a\u00a0...", 
+            "htmlSnippet": "In analytic geometry, the <b>intersection</b> of a line and a <b>plane</b> can be the empty ... In <br>\nthe <b>ray</b> tracing method of computer graphics a surface can be represented as a&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Line%E2%80%93plane_intersection", 
+            "cacheId": "VlpPTZYcu9sJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "M\u00f6ller\u2013Trumbore intersection algorithm - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "M\u00f6ller\u2013Trumbore <b>intersection</b> algorithm - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../M\u00f6ller\u2013Trumbore_intersection_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../M\u00f6ller\u2013Trumbore_<b>intersection</b>_algorithm", 
+            "snippet": "The M\u00f6ller\u2013Trumbore ray-triangle intersection algorithm, named after its \ninventors ... precomputation of the plane equation of the plane containing the \ntriangle.", 
+            "htmlSnippet": "The M\u00f6ller\u2013Trumbore <b>ray</b>-triangle <b>intersection</b> algorithm, named after its <br>\ninventors ... precomputation of the <b>plane</b> equation of the <b>plane</b> containing the <br>\ntriangle.", 
+            "link": "https://en.wikipedia.org/wiki/M%C3%B6ller%E2%80%93Trumbore_intersection_algorithm", 
+            "cacheId": "k957hNOb1YIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Line\u2013sphere intersection - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Line\u2013sphere <b>intersection</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Line\u2013sphere_intersection", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Line\u2013sphere_<b>intersection</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "280", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_S7Pn6aih5g9dzgyRnklXsXJTQNNKi_2V9RMeKnKt2oZVHnr9O5cFeDs", 
+                        "height": "125"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/6/67/Line-Sphere_Intersection_Cropped.png/350px-Line-Sphere_Intersection_Cropped.png"
+                    }
+                ]
+            }, 
+            "snippet": "In analytic geometry, a line and a sphere can intersect in three ways: no ... this is \na common calculation to perform during ray tracing (Eberly 2006:698). ... Analytic \ngeometry \u00b7 Line-plane intersection \u00b7 Line of intersection between two planes\u00a0...", 
+            "htmlSnippet": "In analytic geometry, a line and a sphere can <b>intersect</b> in three ways: no ... this is <br>\na common calculation to perform during <b>ray</b> tracing (Eberly 2006:698). ... Analytic <br>\ngeometry &middot; Line-<b>plane intersection</b> &middot; Line of <b>intersection</b> between two <b>planes</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Line%E2%80%93sphere_intersection", 
+            "cacheId": "K0SH6ysDRUkJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Ray (optics) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Ray</b> (optics) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Ray_(optics)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Ray</b>_(optics)", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "280", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRDEmUd10lFJU4sDH_Z2COM70bCEMvm13I-S4xRiHedJUMPQ9GYIh-DkaFN", 
+                        "height": "177"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Ray_optics_diagram_incidence_reflection_and_refraction.svg/350px-Ray_optics_diagram_incidence_reflection_and_refraction.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "A meridional ray or tangential ray is a ray that is confined to the plane ... z axis, \nand the meridional plane is the y-z plane, sagittal rays intersect the pupil at yp=0.", 
+            "htmlSnippet": "A meridional <b>ray</b> or tangential <b>ray</b> is a <b>ray</b> that is confined to the <b>plane</b> ... z axis, <br>\nand the meridional <b>plane</b> is the y-z <b>plane</b>, sagittal rays <b>intersect</b> the pupil at yp=0.", 
+            "link": "https://en.wikipedia.org/wiki/Ray_(optics)", 
+            "cacheId": "1IgXDZy3DLQJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Intersection of a polyhedron with a line - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Intersection</b> of a polyhedron with a line - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../Intersection_of_a_polyhedron_with_a_line", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../<b>Intersection</b>_of_a_polyhedron_with_a_line", 
+            "snippet": "If the polyhedron is given as the intersection of a finite number of halfspaces, then \n... of the halfplane boundary planes and choosing the intersection point that is\u00a0...", 
+            "htmlSnippet": "If the polyhedron is given as the <b>intersection</b> of a finite number of halfspaces, then <br>\n... of the <b>halfplane</b> boundary <b>planes</b> and choosing the <b>intersection</b> point that is&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Intersection_of_a_polyhedron_with_a_line", 
+            "cacheId": "8Tt9u4XkY3kJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Space partitioning - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Space partitioning - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Space_partitioning", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Space_partitioning", 
+            "snippet": "Recursively partitioning space using planes in this way produces a BSP tree, one \nof the ... Performing a ray/polygon intersection test with each would be a very\u00a0...", 
+            "htmlSnippet": "Recursively partitioning space using <b>planes</b> in this way produces a BSP tree, one <br>\nof the ... Performing a <b>ray</b>/polygon <b>intersection</b> test with each would be a very&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Space_partitioning", 
+            "cacheId": "5tJcASfc7HgJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Point in polygon - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Point in polygon - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Point_in_polygon", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Point_in_polygon", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQzPFo0CA5qENwsQDEVAlk2xK0eZT07bAWbwo5Bvht5j4_mowarubYq0DM", 
+                        "height": "156"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Simple_polygon.svg/220px-Simple_polygon.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "... a given point in the plane lies inside, outside, or on the boundary of a polygon. \n... If the point is on the outside of the polygon the ray will intersect its edge an\u00a0...", 
+            "htmlSnippet": "... a given point in the <b>plane</b> lies inside, outside, or on the boundary of a polygon. <br>\n... If the point is on the outside of the polygon the <b>ray</b> will <b>intersect</b> its edge an&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Point_in_polygon", 
+            "cacheId": "Jwk2cfvvk5kJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Ray tracing (graphics) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Ray</b> tracing (graphics) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Ray_tracing_(graphics)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Ray</b>_tracing_(graphics)", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "200", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRrR46LQhv3yKRlFKotOG1Kd5BzSEVUJ1mmX6cxY0yvbT5xXXxUPLltvcE", 
+                        "height": "200"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Recursive_raytrace_of_a_sphere.png/250px-Recursive_raytrace_of_a_sphere.png"
+                    }
+                ]
+            }, 
+            "snippet": "... in an image plane and simulating the effects of its encounters with virtual \nobjects. ... The ray tracing algorithm builds an image by extending rays into a \nscene. ... Typically, each ray must be tested for intersection with some subset of \nall the\u00a0...", 
+            "htmlSnippet": "... in an image <b>plane</b> and simulating the effects of its encounters with virtual <br>\nobjects. ... The <b>ray</b> tracing algorithm builds an image by extending rays into a <br>\nscene. ... Typically, each <b>ray</b> must be tested for <b>intersection</b> with some subset of <br>\nall the&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Ray_tracing_(graphics)", 
+            "cacheId": "Otc2ZDa3llUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Pl\u00fccker coordinates - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Pl\u00fccker coordinates - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Pl\u00fccker_coordinates", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Pl\u00fccker_coordinates", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvpJB8You4V_cqU0GSRHqEdnjRfvDOVtpfuGgwfVdrcP9t2mOzw6Zw-YA", 
+                        "height": "124"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Pl%C3%BCcker_line_coordinate_geometry.png/220px-Pl%C3%BCcker_line_coordinate_geometry.png"
+                    }
+                ]
+            }, 
+            "snippet": "Alternatively, a line can be described as the intersection of two planes. Let L be a \n.... to Pluecker Coordinates written for the Ray Tracing forum by Thouis Jones.", 
+            "htmlSnippet": "Alternatively, a line can be described as the <b>intersection</b> of two <b>planes</b>. Let L be a <br>\n.... to Pluecker Coordinates written for the <b>Ray</b> Tracing forum by Thouis Jones.", 
+            "link": "https://en.wikipedia.org/wiki/Pl%C3%BCcker_coordinates", 
+            "cacheId": "pDmqiodFGaAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Half-space (geometry) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Half-space (geometry) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Half-space_(geometry)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Half-space_(geometry)", 
+            "snippet": "In geometry, a half-space is either of the two parts into which a plane divides the \nthree-dimensional ... connecting a point in one set to a point in the other must \nintersect the hyperplane. ... A half-space in a one-dimensional space is called a \nray.", 
+            "htmlSnippet": "In geometry, a half-space is either of the two parts into which a <b>plane</b> divides the <br>\nthree-dimensional ... connecting a point in one set to a point in the other must <br>\n<b>intersect</b> the <b>hyperplane</b>. ... A half-space in a one-dimensional space is called a <br>\n<b>ray</b>.", 
+            "link": "https://en.wikipedia.org/wiki/Half-space_(geometry)", 
+            "cacheId": "w621WuFAA7wJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Ray Plane intersection", 
+                "safe": "off", 
+                "searchTerms": "Ray Plane intersection", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "1360"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Ray Plane intersection", 
+                "safe": "off", 
+                "searchTerms": "Ray Plane intersection", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "1360"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.28", 
+        "formattedTotalResults": "1,360", 
+        "totalResults": "1360", 
+        "searchTime": 0.28467
+    }
+}

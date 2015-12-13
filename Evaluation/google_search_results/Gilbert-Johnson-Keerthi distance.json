@@ -1,3 +1,194 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:317698de787d67752783ac7279e2df7ef3f84fd75eafaa9f8a692cf4c7201f73
-size 14289
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Gilbert\u2013Johnson\u2013Keerthi distance algorithm - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Gilbert</b>\u2013<b>Johnson</b>\u2013<b>Keerthi distance</b> algorithm - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/.../Gilbert\u2013Johnson\u2013Keerthi_distance_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../<b>Gilbert</b>\u2013<b>Johnson</b>\u2013<b>Keerthi</b>_<b>distance</b>_algorithm", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "247", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQm0Op2HaGmdV1jtuzkSHhs3YSIgrtUqSyuap7Y9Sp9e3rghM82VP59vHI", 
+                        "height": "204"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Two_types_of_collisions_and_corresponding_CSO_faces.svg/550px-Two_types_of_collisions_and_corresponding_CSO_faces.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "The Gilbert\u2013Johnson\u2013Keerthi distance algorithm is a method of determining the \nminimum distance between two convex sets. Unlike many other distance\u00a0...", 
+            "htmlSnippet": "The <b>Gilbert</b>\u2013<b>Johnson</b>\u2013<b>Keerthi distance</b> algorithm is a method of determining the <br>\nminimum distance between two convex sets. Unlike many other distance&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Gilbert%E2%80%93Johnson%E2%80%93Keerthi_distance_algorithm", 
+            "cacheId": "BKVloR-M5wgJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Category:Convex geometry - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Category:Convex geometry - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Category:Convex_geometry", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Category:Convex_geometry", 
+            "snippet": "G. Geombinatorics \u00b7 Gilbert\u2013Johnson\u2013Keerthi distance algorithm \u00b7 Gordan's \nlemma. J. John ellipsoid. K. Klee\u2013Minty cube. L. List of convexity topics. M.", 
+            "htmlSnippet": "G. Geombinatorics &middot; <b>Gilbert</b>\u2013<b>Johnson</b>\u2013<b>Keerthi distance</b> algorithm &middot; Gordan&#39;s <br>\nlemma. J. John ellipsoid. K. Klee\u2013Minty cube. L. List of convexity topics. M.", 
+            "link": "https://en.wikipedia.org/wiki/Category:Convex_geometry", 
+            "cacheId": "xa2PC_sjIvUJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Category:Applied mathematics stubs - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Category:Applied mathematics stubs - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Category:Applied_mathematics_stubs", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Category:Applied_mathematics_stubs", 
+            "snippet": "... Geometrically and materially nonlinear analysis with imperfections included \u00b7 \nGibbs state \u00b7 Gilbert\u2013Johnson\u2013Keerthi distance algorithm \u00b7 Gingerbreadman map\n\u00a0...", 
+            "htmlSnippet": "... Geometrically and materially nonlinear analysis with imperfections included &middot; <br>\nGibbs state &middot; <b>Gilbert</b>\u2013<b>Johnson</b>\u2013<b>Keerthi distance</b> algorithm &middot; Gingerbreadman map<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Category:Applied_mathematics_stubs", 
+            "cacheId": "8HZRvfbPLxwJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Collision detection - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Collision detection - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Collision_detection", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Collision_detection", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "160", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS-tF3ywXx2zHXPNwzGdMsuPJ5wz-OmkvJGAsEO8N6m3VxxyrIBCP3l3BQ", 
+                        "height": "120"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Billiards_balls.jpg/200px-Billiards_balls.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "The Gilbert-Johnson-Keerthi distance algorithm has superseded that approach. \nThese algorithms approach constant time when applied repeatedly to pairs of\u00a0...", 
+            "htmlSnippet": "The <b>Gilbert</b>-<b>Johnson</b>-<b>Keerthi distance</b> algorithm has superseded that approach. <br>\nThese algorithms approach constant time when applied repeatedly to pairs of&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Collision_detection", 
+            "cacheId": "yn2pIAH8fv4J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "User:Aniruddha22Paranjpye/Books/Classical Geometry - Wikipedia ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "User:Aniruddha22Paranjpye/Books/Classical Geometry - Wikipedia <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/User.../Books/Classical_Geometry", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/User.../Books/Classical_Geometry", 
+            "snippet": "... Finetti's theorem \u00b7 Dual cone and polar cone \u00b7 Equichordal point problem \u00b7 Face \n(geometry) \u00b7 Geodesic convexity \u00b7 Gilbert\u2013Johnson\u2013Keerthi distance algorithm\u00a0...", 
+            "htmlSnippet": "... Finetti&#39;s theorem &middot; Dual cone and polar cone &middot; Equichordal point problem &middot; Face <br>\n(geometry) &middot; Geodesic convexity &middot; <b>Gilbert</b>\u2013<b>Johnson</b>\u2013<b>Keerthi distance</b> algorithm&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/User:Aniruddha22Paranjpye/Books/Classical_Geometry", 
+            "cacheId": "ZcjX_vrOoWQJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Book:List of Algorithms - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Book:List of Algorithms - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Book:List_of_Algorithms", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Book:List_of_Algorithms", 
+            "snippet": "... wrapping algorithm \u00b7 Chan's algorithm \u00b7 Kirkpatrick\u2013Seidel algorithm \u00b7 Distance \ntransform \u00b7 Geometric hashing \u00b7 Gilbert\u2013Johnson\u2013Keerthi distance algorithm\u00a0...", 
+            "htmlSnippet": "... wrapping algorithm &middot; Chan&#39;s algorithm &middot; Kirkpatrick\u2013Seidel algorithm &middot; Distance <br>\ntransform &middot; Geometric hashing &middot; <b>Gilbert</b>\u2013<b>Johnson</b>\u2013<b>Keerthi distance</b> algorithm&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Book:List_of_Algorithms", 
+            "cacheId": "aEsv0l7z6nEJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Wikipedia:WikiProject Mathematics/List of mathematics articles (G ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Wikipedia:WikiProject Mathematics/List of mathematics articles (G <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/.../List_of_mathematics_articles_(G)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/.../List_of_mathematics_articles_(G)", 
+            "snippet": "... residual method -- Generalized minimum-distance decoding -- Generalized ... \nprime -- Gilbert\u2013Johnson\u2013Keerthi distance algorithm -- Gilbert\u2013Shannon\u2013Reeds\n\u00a0...", 
+            "htmlSnippet": "... residual method -- Generalized minimum-distance decoding -- Generalized ... <br>\nprime -- <b>Gilbert</b>\u2013<b>Johnson</b>\u2013<b>Keerthi distance</b> algorithm -- Gilbert\u2013Shannon\u2013Reeds<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Mathematics/List_of_mathematics_articles_(G)", 
+            "cacheId": "mvn4ehceP34J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Category:Geometric algorithms - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Category:Geometric algorithms - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Category:Geometric_algorithms", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Category:Geometric_algorithms", 
+            "snippet": "F. Fixed-radius near neighbors \u00b7 Fr\u00e9chet distance \u00b7 Function representation ... \nGeometric primitive \u00b7 Geometric spanner \u00b7 Gilbert\u2013Johnson\u2013Keerthi distance\u00a0...", 
+            "htmlSnippet": "F. Fixed-radius near neighbors &middot; Fr\u00e9chet distance &middot; Function representation ... <br>\nGeometric primitive &middot; Geometric spanner &middot; <b>Gilbert</b>\u2013<b>Johnson</b>\u2013<b>Keerthi distance</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Category:Geometric_algorithms", 
+            "cacheId": "QhgBDwg-JZIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "User:Manoj kumar regar/Books/Algorithms - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "User:Manoj kumar regar/Books/Algorithms - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/User:Manoj_kumar.../Algorithms", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/User:Manoj_kumar.../Algorithms", 
+            "snippet": "... Geometric design \u00b7 Geometric median \u00b7 Geometric modeling \u00b7 Geometric \nprimitive \u00b7 Geometric spanner \u00b7 Gilbert\u2013Johnson\u2013Keerthi distance algorithm \u00b7 \nGradient\u00a0...", 
+            "htmlSnippet": "... Geometric design &middot; Geometric median &middot; Geometric modeling &middot; Geometric <br>\nprimitive &middot; Geometric spanner &middot; <b>Gilbert</b>\u2013<b>Johnson</b>\u2013<b>Keerthi distance</b> algorithm &middot; <br>\nGradient&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/User:Manoj_kumar_regar/Books/Algorithms", 
+            "cacheId": "AQNpcJA5SNIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Collision detection - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:Collision detection - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3ACollision_detection", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3ACollision_detection", 
+            "snippet": "Added a link to the GJK algorithm, the best algorithm known for distance between \nconvex polytopes. I've been doing some work on the ragdoll physics article\u00a0...", 
+            "htmlSnippet": "Added a link to the <b>GJK</b> algorithm, the best algorithm known for distance between <br>\nconvex polytopes. I&#39;ve been doing some work on the ragdoll physics article&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3ACollision_detection", 
+            "cacheId": "qrH6HeBl8swJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Gilbert-Johnson-Keerthi distance", 
+                "safe": "off", 
+                "searchTerms": "Gilbert-Johnson-Keerthi distance", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "25"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Gilbert-Johnson-Keerthi distance", 
+                "safe": "off", 
+                "searchTerms": "Gilbert-Johnson-Keerthi distance", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "25"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.28", 
+        "formattedTotalResults": "25", 
+        "totalResults": "25", 
+        "searchTime": 0.275955
+    }
+}

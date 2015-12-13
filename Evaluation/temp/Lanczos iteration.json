@@ -1,0 +1,9 @@
+{
+    "Lanczos iteration": [
+        "https://en.wikipedia.org/wiki/Lanczos_algorithm", 
+        "https://en.wikipedia.org/wiki/Arnoldi_iteration", 
+        "https://en.wikipedia.org/wiki/Block_Lanczos_algorithm", 
+        "https://en.wikipedia.org/wiki/Conjugate_gradient_method", 
+        "https://en.wikipedia.org/wiki/Power_iteration"
+    ]
+}

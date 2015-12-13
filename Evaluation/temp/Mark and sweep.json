@@ -1,0 +1,7 @@
+{
+    "Mark and sweep": [
+        "https://en.wikipedia.org/wiki/Tracing_garbage_collection", 
+        "https://en.wikipedia.org/wiki/Mark-compact_algorithm", 
+        "https://en.wikipedia.org/wiki/Sweep_and_prune"
+    ]
+}

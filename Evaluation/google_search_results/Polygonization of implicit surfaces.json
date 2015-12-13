@@ -1,3 +1,175 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7685fa443b26815c644f179faf8fc1e2577dd680ef5b7ac2a72d11d306c1c93b
-size 10970
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Surface triangulation - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Surface</b> triangulation - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Surface_triangulation", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Surface</b>_triangulation", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "240", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRoPN9SUt5U7lUsXbth0QsITVXES1ODFeccXq5VNi2QMcBzGZUpXkpDzqq_", 
+                        "height": "204"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Tri-brezel.svg/300px-Tri-brezel.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "Triangulation of an implicit surface of genus 3 ... 95\u2013108; Jump up ^ S. Akkouche \n& E Galin: Adaptive Implicit Surface Polygonization Using Marching Triangles,\u00a0...", 
+            "htmlSnippet": "Triangulation of an <b>implicit surface</b> of genus 3 ... 95\u2013108; Jump up ^ S. Akkouche <br>\n&amp; E Galin: Adaptive <b>Implicit Surface Polygonization</b> Using Marching Triangles,&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Surface_triangulation", 
+            "cacheId": "h6_OS8l1kpwJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Isosurface - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Isosurface - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Isosurface", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Iso<b>surface</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRn4CPE7gAazhO3NZYnxnjCJQvCgpqpcMoZU643y1V3kJjl2Zy1vAi8lCTw", 
+                        "height": "234"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CFD_simulation_showing_vorticity_isosurfaces_behind_propeller.png/220px-CFD_simulation_showing_vorticity_isosurfaces_behind_propeller.png"
+                    }
+                ]
+            }, 
+            "snippet": "It is a surface that represents points of a constant value (e.g. pressure, \ntemperature ... Isosurfaces tend to be a popular form of visualization for volume \ndatasets since they ... Triangulation (geometry) \u00b7 Implicit surface ... Isosurface \nPolygonization.", 
+            "htmlSnippet": "It is a <b>surface</b> that represents points of a constant value (e.g. pressure, <br>\ntemperature ... <b>Isosurfaces</b> tend to be a popular form of visualization for volume <br>\ndatasets since they ... Triangulation (geometry) &middot; <b>Implicit surface</b> ... Isosurface <br>\n<b>Polygonization</b>.", 
+            "link": "https://en.wikipedia.org/wiki/Isosurface", 
+            "cacheId": "OQYX6XwUVmAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Point cloud - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Point cloud - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Point_cloud", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Point_cloud", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKe4Xg32yVUmAso_sNv0c3VkyQJ73DCOAmJJ8y33KjsyRLxFa0L_ievPg", 
+                        "height": "176"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Point_cloud_torus.gif/220px-Point_cloud_torus.gif"
+                    }
+                ]
+            }, 
+            "snippet": "These devices measure a large number of points on an object's surface, and ... \ninto a volumetric distance field and reconstruct the implicit surface so defined\u00a0...", 
+            "htmlSnippet": "These devices measure a large number of points on an object&#39;s <b>surface</b>, and ... <br>\ninto a volumetric distance field and reconstruct the <b>implicit surface</b> so defined&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Point_cloud", 
+            "cacheId": "GgtQT3EXPOkJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Solid modeling - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Solid modeling - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Solid_modeling", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Solid_modeling", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "144", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT_6e5pgj3FZSGE9mm16cV5_oYsU4X1KOJ9FSTNiMjmElxLFduMRjaKkBM", 
+                        "height": "219"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Jack-in-cube_solid_model,_light_background.gif"
+                    }
+                ]
+            }, 
+            "snippet": "Similar to boundary representation, the surface of the object is represented. \nHowever ... Implicit representation[edit] ... can be converted to a boundary \nrepresentation using polygonization algorithms, for example, the marching cubes \nalgorithm.", 
+            "htmlSnippet": "Similar to boundary representation, the <b>surface</b> of the object is represented. <br>\nHowever ... <b>Implicit</b> representation[edit] ... can be converted to a boundary <br>\nrepresentation using <b>polygonization</b> algorithms, for example, the marching cubes <br>\nalgorithm.", 
+            "link": "https://en.wikipedia.org/wiki/Solid_modeling", 
+            "cacheId": "fMELDreEbaQJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Euler characteristic - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Euler characteristic - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Euler_characteristic", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Euler_characteristic", 
+            "snippet": "The surfaces of nonconvex polyhedra can have various Euler characteristics; ... \nThis viewpoint is implicit in Cauchy's proof of Euler's formula given below. .... \neasily for general surfaces by finding a polygonization of the surface (that is,\u00a0...", 
+            "htmlSnippet": "The <b>surfaces</b> of nonconvex polyhedra can have various Euler characteristics; ... <br>\nThis viewpoint is <b>implicit</b> in Cauchy&#39;s proof of Euler&#39;s formula given below. .... <br>\neasily for general <b>surfaces</b> by finding a <b>polygonization</b> of the <b>surface</b> (that is,&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Euler_characteristic", 
+            "cacheId": "9dPKgFL_AToJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Octree - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Octree - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Octree", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Octree", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "296", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSR0E5WPVhn_MjP9w6JhDM7h77bWgVQwU1w6dqi5_RMDsfPENGhiFpqLZun", 
+                        "height": "170"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Octree2.svg/400px-Octree2.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "... represent a finite bounded space so that the implicit centers are well-defined. ... \nthe nodes are to be traversed and only required surfaces are to be viewed.", 
+            "htmlSnippet": "... represent a finite bounded space so that the <b>implicit</b> centers are well-defined. ... <br>\nthe nodes are to be traversed and only required <b>surfaces</b> are to be viewed.", 
+            "link": "https://en.wikipedia.org/wiki/Octree", 
+            "cacheId": "wBmNbySDF8QJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 6, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Polygonization of implicit surfaces", 
+                "safe": "off", 
+                "searchTerms": "Polygonization of implicit surfaces", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "6"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.32", 
+        "formattedTotalResults": "6", 
+        "totalResults": "6", 
+        "searchTime": 0.321002
+    }
+}

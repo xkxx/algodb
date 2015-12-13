@@ -1,3 +1,208 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c0666df8bb03d7b89c52e67aec04478d2c50d3a0438084c04547d58d09df8cf6
-size 13758
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "\u03bc-law algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "\u03bc-<b>law algorithm</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/\u039c-law_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u039c-<b>law</b>_<b>algorithm</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "259", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTpTrjjvplDa3diUDwQiWe_9aD_NghAae6F9IkJi1VhMprUznY_rkE0QSxb", 
+                        "height": "195"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Ulaw_alaw_db.svg/350px-Ulaw_alaw_db.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "The \u00b5-law algorithm (sometimes written \"mu-law\", often approximated as \"u-law\") \nis a companding algorithm, primarily used in 8-bit PCM digital\u00a0...", 
+            "htmlSnippet": "The \u00b5-law <b>algorithm</b> (sometimes written &quot;<b>mu</b>-<b>law</b>&quot;, often approximated as &quot;<b>u</b>-<b>law</b>&quot;) <br>\nis a companding <b>algorithm</b>, primarily used in 8-bit PCM digital&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/%CE%9C-law_algorithm", 
+            "cacheId": "LXaFVhcpU8QJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "A-law algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "A-<b>law algorithm</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/A-law_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/A-<b>law</b>_<b>algorithm</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "259", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTpTrjjvplDa3diUDwQiWe_9aD_NghAae6F9IkJi1VhMprUznY_rkE0QSxb", 
+                        "height": "195"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Ulaw_alaw_db.svg/350px-Ulaw_alaw_db.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "An A-law algorithm is a standard companding algorithm, used in European 8-bit \nPCM digital communications systems to optimize, i.e., modify, the dynamic\u00a0...", 
+            "htmlSnippet": "An A-<b>law algorithm</b> is a standard companding <b>algorithm</b>, used in European 8-bit <br>\nPCM digital communications systems to optimize, i.e., modify, the dynamic&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/A-law_algorithm", 
+            "cacheId": "2j09mALgTCsJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "G.711 - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "G.711 - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/G.711", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/G.711", 
+            "snippet": "G.711 defines two main companding algorithms, the \u00b5-law algorithm and A-law \nalgorithm. Both are logarithmic, but A-law was specifically designed to be simpler\n\u00a0...", 
+            "htmlSnippet": "G.711 defines two main companding <b>algorithms</b>, the \u00b5-<b>law algorithm</b> and A-<b>law</b> <br>\n<b>algorithm</b>. Both are logarithmic, but A-<b>law</b> was specifically designed to be simpler<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/G.711", 
+            "cacheId": "69CB714inNQJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:\u03bc-law algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:\u03bc-<b>law algorithm</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3A\u039c-law_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3A\u039c-<b>law</b>_<b>algorithm</b>", 
+            "snippet": "This article should be called \"\u03bc-law algorithm\" with a lower-case \u03bc. Unfortunately, \nthe software currently prevents this, capitalizing the mu. Capital mu looks just\u00a0...", 
+            "htmlSnippet": "This article should be called &quot;\u03bc-<b>law algorithm</b>&quot; with a lower-case \u03bc. Unfortunately, <br>\nthe software currently prevents this, capitalizing the <b>mu</b>. Capital <b>mu</b> looks just&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3A%CE%9C-law_algorithm", 
+            "cacheId": "0XoF1uXABF4J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:A-law algorithm - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:A-<b>law algorithm</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3AA-law_algorithm", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3AA-<b>law</b>_<b>algorithm</b>", 
+            "snippet": "What's the difference to the mu-law algorithm? --Abdull 17:08, 4 ... e.g. The UK \nuses A-Law for their standard companding, the USA uses u-Law. Hence because\n\u00a0...", 
+            "htmlSnippet": "What&#39;s the difference to the <b>mu</b>-<b>law algorithm</b>? --Abdull 17:08, 4 ... e.g. The UK <br>\nuses A-Law for their standard companding, the USA uses u-Law. Hence because<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3AA-law_algorithm", 
+            "cacheId": "1Xkzk7uyvkMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "adpcm", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "adpcm", 
+            "formattedUrl": "https://en.wikipedia.org/.../Adaptive_differential_pulse-code_modulation", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/.../Adaptive_differential_pulse-code_modulation", 
+            "snippet": "The default signal compression encoding on a DS0 is either \u03bc-law (mu-law) PCM \n... An ADPCM algorithm is used to map a series of 8 bit \u00b5-law (or a-law) PCM\u00a0...", 
+            "htmlSnippet": "The default signal compression encoding on a DS0 is either \u03bc-law (<b>mu</b>-<b>law</b>) PCM <br>\n... An ADPCM <b>algorithm</b> is used to map a series of 8 bit \u00b5-law (or a-law) PCM&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Adaptive_differential_pulse-code_modulation", 
+            "cacheId": "34fDPFbUzhcJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Pulse-code modulation - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Pulse-code modulation - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Pulse-code_modulation", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Pulse-code_modulation", 
+            "snippet": "The default signal compression encoding on a DS0 is either \u03bc-law (mu-law) PCM \n... An ADPCM algorithm is used to map a series of 8-bit \u00b5-law or A-law PCM\u00a0...", 
+            "htmlSnippet": "The default signal compression encoding on a DS0 is either \u03bc-law (<b>mu</b>-<b>law</b>) PCM <br>\n... An ADPCM <b>algorithm</b> is used to map a series of 8-bit \u00b5-law or A-law PCM&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Pulse-code_modulation", 
+            "cacheId": "QgUomQDz_ZgJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Sub-band coding - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Sub-band coding - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Sub-band_coding", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Sub-band_coding", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "300", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS0ypw0y1dsFwEpW_18Vu2lv6W31KSzMIcduWZjpdNJGeacttaFZpRbOtFa", 
+                        "height": "168"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/SubBandCoding.svg/666px-SubBandCoding.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "A classic method is nonlinear PCM, such as mu-law encoding (named after a \nperceptual curve in auditory perception research). Small signals are digitized \nwith\u00a0...", 
+            "htmlSnippet": "A classic method is nonlinear PCM, such as <b>mu</b>-<b>law</b> encoding (named after a <br>\nperceptual curve in auditory perception research). Small signals are digitized <br>\nwith&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Sub-band_coding", 
+            "cacheId": "oYjBletMtoQJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:G.711 - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:G.711 - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3AG.711", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3AG.711", 
+            "snippet": "u - law compresses Linear value 8197 to 0x01 Linear value 0 to 0x7F Linear \nvalue ... Same goes for the algorithm for computing each codec that Alf Boggis \ntalks\u00a0...", 
+            "htmlSnippet": "<b>u</b> - <b>law</b> compresses Linear value 8197 to 0x01 Linear value 0 to 0x7F Linear <br>\nvalue ... Same goes for the <b>algorithm</b> for computing each codec that Alf Boggis <br>\ntalks&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3AG.711", 
+            "cacheId": "RAqyKzZDT_AJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "User:Mramalho/Draft G.711.0 Article - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "User:Mramalho/Draft G.711.0 Article - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/User:Mramalho/Draft_G.711.0_Article", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/User:Mramalho/Draft_G.711.0_Article", 
+            "snippet": "In essence, G.711.0 a data compression algorithm tailored for the G.711 symbol \n... G.711.0 compresses both A-law and Mu-law G.711 payloads and has been\u00a0...", 
+            "htmlSnippet": "In essence, G.711.0 a data compression <b>algorithm</b> tailored for the G.711 symbol <br>\n... G.711.0 compresses both A-law and <b>Mu</b>-<b>law</b> G.711 payloads and has been&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/User:Mramalho/Draft_G.711.0_Article", 
+            "cacheId": "jo67_MMgsoMJ"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Mu-law algorithm", 
+                "safe": "off", 
+                "searchTerms": "Mu-law algorithm", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "924"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Mu-law algorithm", 
+                "safe": "off", 
+                "searchTerms": "Mu-law algorithm", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "924"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.35", 
+        "formattedTotalResults": "924", 
+        "totalResults": "924", 
+        "searchTime": 0.353432
+    }
+}

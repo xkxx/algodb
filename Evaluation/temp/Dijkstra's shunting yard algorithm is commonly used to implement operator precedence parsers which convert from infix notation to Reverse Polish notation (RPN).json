@@ -1,0 +1,7 @@
+{
+    "Dijkstra's shunting yard algorithm is commonly used to implement operator precedence parsers which convert from infix notation to Reverse Polish notation (RPN)": [
+        "https://en.wikipedia.org/wiki/Operator-precedence_parser", 
+        "https://en.wikipedia.org/wiki/Shunting-yard_algorithm", 
+        "https://en.wikipedia.org/wiki/Reverse_Polish_notation"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "DE (Differential evolution)": [
+        "https://en.wikipedia.org/wiki/Evolutionary_algorithm", 
+        "https://en.wikipedia.org/wiki/Evolutionary_computation", 
+        "https://en.wikipedia.org/wiki/Grey_wolf_optimizer", 
+        "https://en.wikipedia.org/wiki/DEAP_(software)", 
+        "https://en.wikipedia.org/wiki/Swarm_intelligence", 
+        "https://en.wikipedia.org/wiki/CMA-ES"
+    ]
+}

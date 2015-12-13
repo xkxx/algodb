@@ -1,3 +1,277 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:34cac89c5e587a9c5d87dee3bb3d74b17de7cc1e21457273bb6f1975dd948d1b
-size 16346
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "RSA (cryptosystem) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>RSA</b> (cryptosystem) - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/RSA_(cryptosystem)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>RSA</b>_(cryptosystem)", 
+            "snippet": "RSA is made of the initial letters of the surnames of Ron Rivest, Adi Shamir, and \nLeonard Adleman, who first publicly described the algorithm in 1977.", 
+            "htmlSnippet": "<b>RSA</b> is made of the initial letters of the surnames of Ron <b>Rivest</b>, Adi <b>Shamir</b>, and <br>\nLeonard <b>Adleman</b>, who first publicly described the algorithm in 1977.", 
+            "link": "https://en.wikipedia.org/wiki/RSA_(cryptosystem)", 
+            "cacheId": "WlBXqIboIVYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Ron Rivest - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Ron <b>Rivest</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Ron_Rivest", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Ron_<b>Rivest</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "200", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSg9nTr65qD4JrwprSszMEtHPmdCxtIAeul3z_TSOqJJ86XxeIL-HlwFK1S", 
+                        "height": "200"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Ronald_L_Rivest_photo.jpg/250px-Ronald_L_Rivest_photo.jpg"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "bday": "1947-05-06", 
+                        "category": "Cryptography", 
+                        "fn": "Ronald L. Rivest"
+                    }
+                ]
+            }, 
+            "snippet": "Rivest is one of the inventors of the RSA algorithm (along with Adi Shamir and \nLen Adleman). He is the inventor of the symmetric key encryption algorithms RC2\n,\u00a0...", 
+            "htmlSnippet": "<b>Rivest</b> is one of the inventors of the <b>RSA</b> algorithm (along with Adi <b>Shamir</b> and <br>\nLen <b>Adleman</b>). He is the inventor of the symmetric key encryption algorithms RC2<br>\n,&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Ron_Rivest", 
+            "cacheId": "e9jcxmFb4qMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "RSA - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>RSA</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/RSA", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>RSA</b>", 
+            "snippet": "Look up RSA in Wiktionary, the free dictionary. RSA may refer to: ... RSA (\ncryptosystem), the Rivest-Shamir-Adleman cryptosystem, a cryptosystem for \npublic-key\u00a0...", 
+            "htmlSnippet": "Look up <b>RSA</b> in Wiktionary, the free dictionary. <b>RSA</b> may refer to: ... <b>RSA</b> (<br>\ncryptosystem), the <b>Rivest</b>-<b>Shamir</b>-<b>Adleman</b> cryptosystem, a cryptosystem for <br>\npublic-key&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/RSA", 
+            "cacheId": "tGQja-psoeIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "RSA Security - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>RSA</b> Security - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/RSA_Security", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>RSA</b>_Security", 
+            "pagemap": {
+                "hcard": [
+                    {
+                        "url": "www.rsa.com", 
+                        "category": "Division of EMC Corporation", 
+                        "url_text": "www.rsa.com", 
+                        "fn": "RSA Security LLC"
+                    }
+                ]
+            }, 
+            "snippet": "RSA was named after the initials of its co-founders, Ron Rivest, Adi Shamir and \nLen Adleman, after whom the RSA public key cryptography algorithm was also\u00a0...", 
+            "htmlSnippet": "<b>RSA</b> was named after the initials of its co-founders, Ron <b>Rivest</b>, Adi <b>Shamir</b> and <br>\nLen <b>Adleman</b>, after whom the <b>RSA</b> public key cryptography algorithm was also&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/RSA_Security", 
+            "cacheId": "5l5yRyAvm4EJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Leonard Adleman - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Leonard <b>Adleman</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Leonard_Adleman", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Leonard_<b>Adleman</b>", 
+            "pagemap": {
+                "hcard": [
+                    {
+                        "bday": "1945-12-31", 
+                        "category": "American", 
+                        "nickname": "Leonard Max Adleman", 
+                        "fn": "Leonard Adleman"
+                    }
+                ]
+            }, 
+            "snippet": "Leonard Adleman is an American computer scientist, known for creating the RSA \n... of the RSA cryptosystem, Adleman, along with Ron Rivest and Adi Shamir,\u00a0...", 
+            "htmlSnippet": "Leonard <b>Adleman</b> is an American computer scientist, known for creating the <b>RSA</b> <br>\n... of the <b>RSA</b> cryptosystem, <b>Adleman</b>, along with Ron <b>Rivest</b> and Adi <b>Shamir</b>,&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Leonard_Adleman", 
+            "cacheId": "nY2OAb85zXAJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Adi Shamir - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Adi <b>Shamir</b> - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Adi_Shamir", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Adi_<b>Shamir</b>", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "160", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRaV_SlHCSYPouuWruSKrLQ5mc-JbHbWgUrLemZnQ6J_0wmBcD3yfOF14E", 
+                        "height": "234"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Adi_Shamir_2009_crop.jpg/200px-Adi_Shamir_2009_crop.jpg"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "bday": "1952-07-06", 
+                        "category": "Cryptography", 
+                        "fn": "Adi Shamir"
+                    }
+                ]
+            }, 
+            "snippet": "Adi Shamir (Hebrew: \u05e2\u05d3\u05d9 \u05e9\u05de\u05d9\u05e8  ; born July 6, 1952) is an Israeli cryptographer. He \nis a co-inventor of the RSA algorithm (along with Ron Rivest and Len Adleman),\u00a0...", 
+            "htmlSnippet": "Adi <b>Shamir</b> (Hebrew: \u05e2\u05d3\u05d9 \u05e9\u05de\u05d9\u05e8  ; born July 6, 1952) is an Israeli cryptographer. He <br>\nis a co-inventor of the <b>RSA</b> algorithm (along with Ron <b>Rivest</b> and Len <b>Adleman</b>),&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Adi_Shamir", 
+            "cacheId": "va279HPfAmYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Clifford Cocks - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Clifford Cocks - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Clifford_Cocks", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Clifford_Cocks", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT3hcwoRhxETvYb09zcucbL0Hcw6H7CW7BgrBZ5syLr81LRqqCXyuB53At4", 
+                        "height": "264"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Clifford-Cocks-FRS.jpg/220px-Clifford-Cocks-FRS.jpg"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "bday": "1950-12-28", 
+                        "category": "Cryptography", 
+                        "fn": "Clifford Cocks"
+                    }
+                ]
+            }, 
+            "snippet": "RSA encryption; Public-key cryptography \u00b7 Cocks IBE scheme ... rediscovered by \nRonald Rivest, Adi Shamir, and Leonard Adleman at MIT which won them the\u00a0...", 
+            "htmlSnippet": "<b>RSA</b> encryption; Public-key cryptography &middot; Cocks IBE scheme ... rediscovered by <br>\nRonald <b>Rivest</b>, Adi <b>Shamir</b>, and Leonard <b>Adleman</b> at MIT which won them the&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Clifford_Cocks", 
+            "cacheId": "Q3rNK6xCC20J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Public-key cryptography - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Public-key cryptography - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Public-key_cryptography", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Public-key_cryptography", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "200", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTavfkFToJj_Ch97s2qIF-fDbLeuZPG6zM99bv49f-vvAte91-qXIvZXuc", 
+                        "height": "200"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Public-key-crypto-1.svg/250px-Public-key-crypto-1.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "... by Ron Rivest, Adi Shamir and Leonard Adleman, all then at MIT. The latter \nauthors published their work in 1978, and the algorithm came to be known as \nRSA\u00a0...", 
+            "htmlSnippet": "... by Ron <b>Rivest</b>, Adi <b>Shamir</b> and Leonard <b>Adleman</b>, all then at MIT. The latter <br>\nauthors published their work in 1978, and the algorithm came to be known as <br>\n<b>RSA</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Public-key_cryptography", 
+            "cacheId": "ZDLFv9r6uC4J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Talk:Smart key - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Talk:Smart key - Wikipedia, the free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Talk%3AAdvanced_Key", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Talk%3AAdvanced_Key", 
+            "snippet": "... 3 :I moved it to electronic key; 4 Possible merge? 5 SMART KEYS ARE NOT \nSO SMART; 6 Requested move; 7 RSA \u2260 Rivest-Shamir-Adleman encryption!", 
+            "htmlSnippet": "... 3 :I moved it to electronic key; 4 Possible merge? 5 SMART KEYS ARE NOT <br>\nSO SMART; 6 Requested move; 7 <b>RSA</b> \u2260 <b>Rivest</b>-<b>Shamir</b>-<b>Adleman</b> encryption!", 
+            "link": "https://en.wikipedia.org/wiki/Talk%3AAdvanced_Key", 
+            "cacheId": "18aqUjB3TxoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Portal:Nanotechnology/Selected biography/1 - Wikipedia, the free ...", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Portal:Nanotechnology/Selected biography/1 - Wikipedia, the free <b>...</b>", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Portal:Nanotechnology/Selected.../1", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Portal:Nanotechnology/Selected.../1", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "120", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcREe9D4eu5ZnZfjiix7kYJxTCt2dlOsbHLykXantbSNSnyaCbZ3_-PdVA", 
+                        "height": "188"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Len-mankin-pic.jpg/150px-Len-mankin-pic.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "Leonard Max Adleman is an American theoretical computer scientist and \nprofessor ... He is known for being a co-inventor of the RSA (Rivest-Shamir-\nAdleman)\u00a0...", 
+            "htmlSnippet": "Leonard Max Adleman is an American theoretical computer scientist and <br>\nprofessor ... He is known for being a co-inventor of the <b>RSA</b> (<b>Rivest</b>-<b>Shamir-</b><br>\n<b>Adleman</b>)&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Portal:Nanotechnology/Selected_biography/1", 
+            "cacheId": "a-B1dKf6aG0J"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - RSA (Rivest, Shamir, Adleman)", 
+                "safe": "off", 
+                "searchTerms": "RSA (Rivest, Shamir, Adleman)", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "81"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - RSA (Rivest, Shamir, Adleman)", 
+                "safe": "off", 
+                "searchTerms": "RSA (Rivest, Shamir, Adleman)", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "81"
+            }
+        ]
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.27", 
+        "formattedTotalResults": "81", 
+        "totalResults": "81", 
+        "searchTime": 0.271112
+    }
+}

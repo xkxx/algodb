@@ -1,3 +1,264 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5a9b058914a8e145ea5fdb86f6b361c061a9ca303331b0ecf9ccba572e63f090
-size 15812
+{
+    "kind": "customsearch#search", 
+    "url": {
+        "type": "application/json", 
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    }, 
+    "items": [
+        {
+            "kind": "customsearch#result", 
+            "title": "Tiger (cryptography) - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>Tiger</b> (cryptography) - Wikipedia, <b>the</b> free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Tiger_(cryptography)", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Tiger</b>_(cryptography)", 
+            "snippet": "In cryptography, Tiger is a cryptographic hash function designed by Ross \nAnderson and Eli Biham in 1995 for efficiency on 64-bit platforms. The size of a \nTiger\u00a0...", 
+            "htmlSnippet": "In cryptography, <b>Tiger</b> is a cryptographic hash function designed by Ross <br>\nAnderson and Eli Biham in 1995 for efficiency on 64-bit platforms. <b>The</b> size of a <br>\n<b>Tiger</b>&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Tiger_(cryptography)", 
+            "cacheId": "6EaqBQdV5rIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Merkle tree - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Merkle tree - Wikipedia, <b>the</b> free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Merkle_tree", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Merkle_tree", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "248", 
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRx-unBLvfOjwATZkBytlmYpT_vGaMM7zEcCYU6vk8Phxr4DUK5KKaq2o1a", 
+                        "height": "157"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Hash_Tree.svg/310px-Hash_Tree.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "[edit]. The Tiger tree hash is a widely used form of hash tree. It uses a binary hash \ntree (two child nodes under each node),\u00a0...", 
+            "htmlSnippet": "[edit]. <b>The Tiger</b> tree hash is a widely used form of hash tree. It uses a binary hash <br>\ntree (two child nodes under each node),&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Merkle_tree", 
+            "cacheId": "eLOU9OgIKSoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Triumph Tiger Cub - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Triumph <b>Tiger</b> Cub - Wikipedia, <b>the</b> free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Triumph_Tiger_Cub", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Triumph_<b>Tiger</b>_Cub", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "200", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSqbST6bhAJ6fXag4RGpdfMjkk-cJUjhnLfN-ijwKpNR7aEVCPFi6l9Ij8", 
+                        "height": "150"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Triumph_Tiger_Cub_200_T20.jpg/250px-Triumph_Tiger_Cub_200_T20.jpg"
+                    }
+                ], 
+                "hproduct": [
+                    {
+                        "fn": "Triumph Tiger Cub"
+                    }
+                ]
+            }, 
+            "snippet": "The Triumph Tiger Cub was a 200 cc single-cylinder British motorcycle made by \nTriumph Motorcycles at their Meriden factory. Based on the Triumph T15 Terrier\u00a0...", 
+            "htmlSnippet": "<b>The</b> Triumph <b>Tiger</b> Cub was a 200 cc single-cylinder British motorcycle made by <br>\nTriumph Motorcycles at their Meriden factory. Based on <b>the</b> Triumph T15 Terrier&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Triumph_Tiger_Cub", 
+            "cacheId": "DuFzGHsh5PYJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "TTH - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "<b>TTH</b> - Wikipedia, <b>the</b> free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/TTH", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>TTH</b>", 
+            "snippet": "Tiger tree hash in programming; Taylor, Taylor and Hobson, an optical ... Tom \nand Jerry cartoon .224 TTH (Texas Trophy Hunter), a Wildcat firearm cartridge\u00a0...", 
+            "htmlSnippet": "<b>Tiger</b> tree hash in programming; Taylor, Taylor and Hobson, an optical ... Tom <br>\nand Jerry cartoon .224 <b>TTH</b> (Texas Trophy Hunter), a Wildcat firearm cartridge&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/TTH", 
+            "cacheId": "34i27EA7uAkJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Magnet URI scheme - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Magnet URI scheme - Wikipedia, <b>the</b> free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Magnet_URI_scheme", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Magnet_URI_scheme", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "102", 
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNqan2WrU0VW2ZvVVDkhoM8iAfUOWQ5pKVOf0Fi8jVpInj3avIdjo6", 
+                        "height": "102"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Magnet_icon.svg/128px-Magnet_icon.svg.png"
+                    }
+                ]
+            }, 
+            "snippet": "The Magnet URI scheme, defines the format of magnet links, a de facto standard \nfor identifying files by their content, via .... xt=urn:tree:tiger:[ TTH Hash (Base32) ].", 
+            "htmlSnippet": "The Magnet URI scheme, defines the format of magnet links, a de facto standard <br>\nfor identifying files by their content, via .... xt=urn:tree:<b>tiger</b>:[ <b>TTH</b> Hash (Base32) ].", 
+            "link": "https://en.wikipedia.org/wiki/Magnet_URI_scheme", 
+            "cacheId": "hbxpxclObksJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "List of Australian Army aircraft - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "List of Australian Army aircraft - Wikipedia, <b>the</b> free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/List_of_Australian_Army_aircraft", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/List_of_Australian_Army_aircraft", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTWHcn1766UIF7sC8hxqlnTg1-mi5eUXC49nRzK_Cx6qjxpyG8kCj2m1LNW", 
+                        "height": "132"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Australian_Army_ARH_Tiger_front_view.jpg/220px-Australian_Army_ARH_Tiger_front_view.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "This is a list of all aircraft operated by the Australian Army since its formation. ... \nTo be partially replaced by the Eurocopter Tiger. Boeing CH-47 Chinook \u00b7 United\n\u00a0...", 
+            "htmlSnippet": "This is a list of all aircraft operated by <b>the</b> Australian Army since its formation. ... <br>\nTo be partially replaced by <b>the</b> Eurocopter <b>Tiger</b>. Boeing CH-47 Chinook &middot; United<br>\n&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/List_of_Australian_Army_aircraft", 
+            "cacheId": "edq8mW_YcMMJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Hash tree - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Hash tree - Wikipedia, <b>the</b> free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Hash_tree", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Hash_tree", 
+            "snippet": "Look up hash tree in Wiktionary, the free dictionary. ... If an internal link led you \nhere, you may wish to change the link to point directly to the intended article.", 
+            "htmlSnippet": "Look up hash tree in Wiktionary, <b>the</b> free dictionary. ... If an internal link led you <br>\nhere, you may wish to change <b>the</b> link to point directly to <b>the</b> intended article.", 
+            "link": "https://en.wikipedia.org/wiki/Hash_tree", 
+            "cacheId": "VQJMicI3phIJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Music @ Work - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Music @ Work - Wikipedia, <b>the</b> free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Music_@_Work", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Music_@_Work", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "176", 
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRNNxpdG_zKBk3UlppMSpsK2PePILDmgW_7xeRfc_PKJpfmTvxj0pt1sfnb", 
+                        "height": "176"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/en/thumb/5/59/TTH_Music_at_Work.jpg/220px-TTH_Music_at_Work.jpg"
+                    }
+                ], 
+                "hcard": [
+                    {
+                        "fn": "The Tragically Hip"
+                    }
+                ]
+            }, 
+            "snippet": "Music @ Work is the seventh full-length album by Canadian rock band The \nTragically ... \"My Music at Work\" \u2013 3:06; \"Tiger the Lion\" \u2013 5:30; \"Lake Fever\" \u2013 4:\n34\u00a0...", 
+            "htmlSnippet": "Music @ Work is the seventh full-length album by Canadian rock band The <br>\nTragically ... &quot;My Music at Work&quot; \u2013 3:06; &quot;<b>Tiger the</b> Lion&quot; \u2013 5:30; &quot;Lake Fever&quot; \u2013 4:<br>\n34&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Music_@_Work", 
+            "cacheId": "DMinkp_ppeoJ"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "Airline codes-T - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "Airline codes-T - Wikipedia, <b>the</b> free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/Airline_codes-T", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Airline_codes-T", 
+            "snippet": "The table lists the IATA airline designators, the ICAO airline designators and the \nairline call signs (telephony designator). Historical assignments are also\u00a0...", 
+            "htmlSnippet": "<b>The</b> table lists <b>the</b> IATA airline designators, <b>the</b> ICAO airline designators and <b>the</b> <br>\nairline call signs (telephony designator). Historical assignments are also&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/Airline_codes-T", 
+            "cacheId": "NSULMhC1qG4J"
+        }, 
+        {
+            "kind": "customsearch#result", 
+            "title": "NHIndustries NH90 - Wikipedia, the free encyclopedia", 
+            "displayLink": "en.wikipedia.org", 
+            "htmlTitle": "NHIndustries NH90 - Wikipedia, <b>the</b> free encyclopedia", 
+            "formattedUrl": "https://en.wikipedia.org/wiki/NHIndustries_NH90", 
+            "htmlFormattedUrl": "https://en.wikipedia.org/wiki/NHIndustries_NH90", 
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "width": "240", 
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRAEJrgNmn52lt0ylbQeLEL7ZKxvtg_lhJytxq7_IpHdbcEJhG10VKfmVog", 
+                        "height": "148"
+                    }
+                ], 
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/NH-90_ILA-2006_2.jpg/300px-NH-90_ILA-2006_2.jpg"
+                    }
+                ]
+            }, 
+            "snippet": "There are two main variants, the Tactical Transport Helicopter (TTH) for Army ..... \ndeclared that the order for a combined 202 NH90 and Tiger helicopters were to\u00a0...", 
+            "htmlSnippet": "There are two main variants, <b>the</b> Tactical Transport Helicopter (<b>TTH</b>) for Army ..... <br>\ndeclared that <b>the</b> order for a combined 202 NH90 and <b>Tiger</b> helicopters were to&nbsp;...", 
+            "link": "https://en.wikipedia.org/wiki/NHIndustries_NH90", 
+            "cacheId": "ToHL2Qq63M4J"
+        }
+    ], 
+    "context": {
+        "title": "Algo Search"
+    }, 
+    "queries": {
+        "request": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Tiger (TTH)", 
+                "safe": "off", 
+                "searchTerms": "Tiger (TTH)", 
+                "startIndex": 1, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "111"
+            }
+        ], 
+        "nextPage": [
+            {
+                "count": 10, 
+                "outputEncoding": "utf8", 
+                "title": "Google Custom Search - Tiger (TTH)", 
+                "safe": "off", 
+                "searchTerms": "Tiger (TTH)", 
+                "startIndex": 11, 
+                "cx": "016575028638610389147:5wbwpqg1878", 
+                "inputEncoding": "utf8", 
+                "totalResults": "111"
+            }
+        ]
+    }, 
+    "spelling": {
+        "correctedQuery": "Tiger (TEETH)", 
+        "htmlCorrectedQuery": "Tiger (<b><i>TEETH</i></b>)"
+    }, 
+    "searchInformation": {
+        "formattedSearchTime": "0.19", 
+        "formattedTotalResults": "111", 
+        "totalResults": "111", 
+        "searchTime": 0.187335
+    }
+}
