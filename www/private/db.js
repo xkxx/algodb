@@ -5,6 +5,18 @@
 var async = require('async');
 var request = require('request');
 var map = require('objmap');
+var marked = require('marked');
+marked.setOptions({
+  renderer: new marked.Renderer(),
+  gfm: true,
+  tables: true,
+  breaks: false,
+  pedantic: false,
+  sanitize: true,
+  smartLists: true,
+  smartypants: false
+});
+var unique = require('array-unique');
 
 var ELASTIC_SEARCH_URL = 'http://localhost:9200/throwtable/';
 var ELASTIC_SCROLL_URL = 'http://localhost:9200/';
@@ -40,7 +52,9 @@ module.exports = {
           fields: ['name^3', 'tag_line^1.5', 'description'],
           fuzziness: 'AUTO'
         }
-      }
+      },
+      min_score: 1,
+      size: 50,
     };
     request({
       url: url,
@@ -78,8 +92,30 @@ module.exports = {
             var impls = implQueryData.filter(function(impls) {
               return impls.id === algorithm._id;
             })[0];
-            algorithm.implementations = impls.hits;
+            algorithm.implementations = impls.hits.sort(function (a, b) {
+              var aLang = a._source.language.toLowerCase();
+              var bLang = b._source.language.toLowerCase();
+              return (aLang > bLang) ? 1 : ((bLang > aLang) ? -1 : 0);
+            });
+
+            // Convert npm markdown to html
+            for (var j = 0; j < algorithm.implementations.length; ++j) {
+              if (algorithm.implementations[j]._source.source === 'npm') {
+                var instruction = algorithm.implementations[j]._source.instruction;
+                instruction.html = marked(instruction.content);
+              }
+            }
+
+            // Add list of languages
+            algorithm.implementationLanguages = unique(algorithm.implementations.map(function(impl) {
+              return impl._source.language;
+            }).sort(function(a, b) {
+              a = a.toLowerCase();
+              b = b.toLowerCase();
+              return (a > b) ? 1 : ((b > a) ? -1 : 0);
+            }));
           }
+
           cb(error, res);
         });
       } else {
