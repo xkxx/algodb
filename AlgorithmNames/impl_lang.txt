@@ -173,7 +173,7 @@ J
 JAMES II/Rule-based Cellular Automata
 Java	java
 JavaFX Script
-JavaScript	Javascript	js
+JavaScript	Javascript	js	javascript
 JotaCode
 Joy
 Julia

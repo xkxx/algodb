@@ -31,7 +31,7 @@ def add_lang_mapping_from_file(filename):
         tokens = line.split('\t')
         if len(tokens) > 1:
             for alternative in tokens[1:]:
-                index_language_mapping(rd, alternative, tokens[0])
+                index_language_mapping(rd, alternative.strip(), tokens[0])
 
 # index one language mapping to redis
 def index_language_mapping(rd, alternative, lang):
@@ -49,17 +49,27 @@ def reindex_language():
     for impl in result['hits']['hits']:
         language = impl['_source']['language']
         if rd.hexists('rosetta-language-mapping', language):
-            print impl['_id']
+            print impl['_id'],
             language = rd.hget('rosetta-language-mapping', language)
+            print '->', language
+            print 'new id = ', replace_lang_from_id(impl['_id'],
+                language.decode('utf8'))
+            source = impl['_source']
+            source['language'] = language.decode('utf8')
             es.index(index='throwtable', doc_type='implementation',
                 id=replace_lang_from_id(impl['_id'], language.decode('utf8')),
-                body=impl['_source'])
+                body=source)
             es.delete(index='throwtable', doc_type='implementation',
                 id=impl['_id'])
+
+def get_standardized_lang(lang, rd):
+    if rd.hexists('rosetta-language-mapping', lang):
+        return rd.hget('rosetta-language-mapping', lang)
+    return lang
 
 def replace_lang_from_id(id, replacement):
     return ':'.join(id.split(':')[0:2] + [replacement])
 
 if __name__ == '__main__':
-    # add_lang_mapping_from_file('impl_lang.txt')
+    add_lang_mapping_from_file('impl_lang.txt')
     reindex_language()

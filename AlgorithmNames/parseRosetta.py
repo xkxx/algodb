@@ -3,10 +3,13 @@ import unicodecsv as csv
 import json
 import mwparserfromhell as parser
 import re
+from impl_languages_deduplication import get_standardized_lang
+import redis
 
 site = mw.Site('rosettacode.org', path='/mw/')
 search_pattern = re.compile(r"([\s\S]*?)<lang (\w+)>([\s\S]+?)<\/lang>")
 trim_pattern = re.compile(r"{{.+?}}")
+rd = redis.StrictRedis(host='localhost', port=6379, db=0)
 
 class Task:
     """
@@ -66,7 +69,7 @@ class Task:
                 if current_solution is not None:
                     self.solutions.append(current_solution)
                 current_solution = dict()
-                current_solution['language'] = lang
+                current_solution['language'] = get_standardized_lang(lang, rd)
                 current_solution['content'] = list()
             if type(node) is parser.nodes.tag.Tag and node.tag == 'lang':
                 current_solution['content'].append({'type': 'code',

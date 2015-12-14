@@ -7,6 +7,7 @@ from index_elasticsearch_wikipedia import INDEX_NAME, normalize, \
     load_visited, rd, index_wiki_algorithm_entry
 
 from parseWikipedia import get_wiki_page, is_algorithm_page
+from impl_languages_deduplication import get_standardized_lang
 
 import json
 from cassandra.cluster import Cluster
@@ -61,7 +62,8 @@ def index_rosetta_page(page, algo_ids):
 
         es.index(index=INDEX_NAME, doc_type='implementation',
             id='rosetta:' + normalize(pagetask.task_name) + ':' +
-            impl['language'].decode('utf8'), body=body)
+            get_standardized_lang(impl['language'].decode('utf8'), rd),
+            body=body)
 
 def get_sorted_similar_links(taskname, links):
     taskname = taskname.encode('utf8')
