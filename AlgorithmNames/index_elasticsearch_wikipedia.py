@@ -5,11 +5,18 @@ import redis
 
 import parseWikipedia as pw
 
+from cassandra.cluster import Cluster
+
+cluster = Cluster(['127.0.0.1'])  # localhost
+session = cluster.connect()  # default key space
+session.set_keyspace('crosswikis')
+
 es = Elasticsearch([{'host': 'localhost', 'port': 9200}])
 rd = redis.StrictRedis(host='localhost', port=6379, db=0)
 
+
 # MAX_CATEGORY_DEPTH is set in parseWikipedia.py
-UPDATING_WIKI = False
+UPDATING_WIKI = True
 INDEX_NAME = 'throwtable'
 
 def normalize(str):
@@ -77,9 +84,17 @@ def index_wiki_algorithm_entry(page, title, visited):
         # TODO second iteration to parse related algorithm
     }
 
+    body['alt_names'] = list()
+
     # add alternate algo name
     if page.title != title:
-        body['alt_names'] = [title]
+        body['alt_names'].append(title)
+
+    query = "SELECT cprob, entity FROM queries WHERE anchor = %s"
+    suggested_wikilinks = list(session.execute(query, [page.title]))
+    sorted(suggested_wikilinks, key=lambda tup: tup[0])
+    if len(suggested_wikilinks) > 0:
+        body['alt_names'].append(suggested_wikilinks[0][1])
 
     retval = es.index(index=INDEX_NAME, doc_type='algorithm',
         id=normalize(page.title), body=body)

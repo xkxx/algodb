@@ -20,7 +20,7 @@ cluster = Cluster(['127.0.0.1'])  # localhost
 session = cluster.connect()  # default key space
 session.set_keyspace('crosswikis')
 
-FUZZY_THRESHOLD = 79
+FUZZY_THRESHOLD = 50
 
 UPDATING = True
 

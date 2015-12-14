@@ -1,0 +1,5 @@
+First iteration of database:
+URL match at topK:
+1 0.108452262626
+2 0.111389066651
+3 0.116332675735
