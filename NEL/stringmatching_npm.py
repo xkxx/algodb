@@ -25,7 +25,9 @@ def link_algorithm(description, es):
     response = es.search(index='throwtable', doc_type='algorithm', body={
         "query": {
             "multi_match": {
-                "query": description,
+                "query": description.replace(' ', ''),
+                "type": "most_fields",
+                "fuzziness": 'AUTO',
                 "fields": ['name^3', 'tag_line^1.5', 'description']
             }
         }

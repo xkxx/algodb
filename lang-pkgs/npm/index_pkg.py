@@ -21,8 +21,8 @@ def get_text_content(pkg):
     if type(readme) != str:
         readme = ''
     readmeLines = readme.split('\n')
-    parsedKeywords = rk.run('redis')
-    print parsedKeywords
+    parsedKeywords = rk.run(readme)
+    print 'rake', parsedKeywords
     results = []
     for kw in keywords:
         if len(kw) > 2:
