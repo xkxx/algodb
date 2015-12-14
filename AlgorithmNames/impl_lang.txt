@@ -1,0 +1,409 @@
+LabVIEW
+0815
+360 Assembly
+6502 Assembly
+68000 Assembly
+8th
+ABAP
+ACL2
+ALGOL 60
+ALGOL 68
+ALGOL W
+ANTLR
+APL
+ARM Assembly
+ATS
+AWK
+ActionScript
+Ada
+AdvPL
+Agda
+Agena
+Aikido
+Aime
+Alore
+AmigaE
+AppleScript
+Applesoft BASIC
+Arc
+Arendelle
+Argile
+Assembly
+Asymptote
+AutoHotkey
+AutoIt
+Axe
+Axiom
+BASIC
+BASIC256
+BBC BASIC
+BCPL
+Babel
+Bash	bash	BASH (feat. sed & tr)
+Batch File
+Battlestar
+Befunge
+Befunge 93
+BlitzMax
+Bob
+Bori
+Brace
+Bracmat
+Brainf***
+Brat
+Burlesque
+C
+C Shell
+C#	C sharp|C#	C sharp	c sharp|C#	C_sharp|C#
+C++
+C1R
+CLIPS
+CMake
+COBOL
+Caché ObjectScript
+Cat
+Ceylon
+Chapel
+Chef
+ChucK
+Clay
+Clean
+Clipper
+Clipper/XBase++
+Clojure	Clojure|Clojure	clojure|Clojure
+Cobra
+Coco
+CoffeeScript
+ColdFusion
+Commodore BASIC
+Common Lisp
+Component Pascal
+Coq
+Creative Basic
+Cubescript
+Curry
+D
+DCL
+DEC BASIC-PLUS
+DWScript
+Dao
+Dart
+DC	Dc
+Delphi
+Dylan
+Déjà Vu
+E
+ECL
+EGL
+ELLA
+ERRE
+EchoLisp
+Eero
+Efene
+Egison
+Eiffel
+Ela
+Elena
+Elisa
+Elixir
+Emacs Lisp
+Erlang
+Euler Math Toolbox
+Euphoria
+Excel
+Excel VBA
+Ezhil
+F#	F Sharp	F Sharp|F#	F sharp|F#	F_Sharp|F#
+FALSE
+FBSL
+FPr
+Factor
+Falcon
+Fan
+Fancy
+Fantom
+Felix
+Fexl
+Fish
+FormulaOne
+Forth
+Fortran
+Free Pascal
+FreeBASIC
+Frege
+Frink
+FunL
+GAP
+GDL
+GEORGE
+GLBasic
+GLSL
+GML
+GUISS
+GW-BASIC
+Gambas
+Gecho
+Gema
+Genyris
+Glagol
+Go
+Golfscript
+Gri
+GridScript
+Groovy
+HQ9+
+HTML
+Harbour
+Haskell
+Haxe
+Heron
+HicEst
+Hoon
+Hope
+Hy
+IDL
+IWBASIC
+Icon
+Inform 6
+Inform 7
+Integer BASIC
+Io
+Ioke
+J
+JAMES II/Rule-based Cellular Automata
+Java	java
+JavaFX Script
+JavaScript	Javascript	js
+JotaCode
+Joy
+Julia
+K	k
+K4
+Kdf9 Usercode
+KonsolScript
+Korn Shell
+Kotlin
+L++
+LFE
+LOLCODE
+LSL
+LaTeX
+LabVIEW
+Lang5	lang5
+Lasso
+Liberty BASIC
+Limbo
+Lisaac
+Lisp
+LiveCode
+Locomotive Basic
+Logo
+Logtalk
+LotusScript
+Lua
+Lucid
+Luck
+Lush
+M4
+MATLAB	Matlab
+MAXScript
+MIPS Assembly
+MIXAL
+ML
+ML/I
+mLite	MLite
+MMIX
+MUMPS
+Make
+Maple
+Mathematica
+Mathprog
+Maude
+Maxima
+Mercury
+Metafont
+Mirah
+Modula-2
+Modula-3
+Monicelli
+Monte
+Moonscript
+Morfa
+MySQL
+MyrtleScript
+NASM
+NSIS
+Neko
+Nemerle
+NetRexx
+NewLISP	newLISP
+Nial
+Nim
+Nirod
+Niue
+OCaml
+OOC
+OOCalc
+OPL
+OS/8 BASIC
+Oberon-2
+Objeck
+Object Pascal
+Objective-C
+Octave
+Oforth
+OoRexx	ooRexx
+OpenEdge/Progress
+Order
+OxygenBasic
+Oz
+PARI/GP
+PHL
+PHP
+PIR
+PL/I
+PL/SQL
+POV-Ray
+Panda
+Pascal
+Perl
+Perl 6
+Phix
+PicoLisp
+Piet
+Pike
+PlainTeX	plainTeX
+Pop11
+PostScript	PostScript|Post Script
+Potion
+PowerBASIC
+PowerShell	Powershell
+Powerbuilder
+ProDOS
+Processing
+Prolog
+Protium
+Pure
+Pure Data
+PureBasic
+Purity
+Python
+Q	q
+Qi
+R
+REALbasic
+REBOL
+REXX
+RLaB
+RPG
+RPN (HP-15c)
+Ra
+Racket
+RapidQ
+Rapira
+Rascal
+Raven
+Rebol
+Retro
+Ruby
+Run BASIC	Run Basic
+Rust
+SAS
+SETL
+SIMPOL
+SMEQL
+SNOBOL4
+SNUSP
+SPARK
+SQL
+SVG
+Salmon
+Sass/SCSS
+Sather
+Scala	Scala (Alternate version)
+Scheme	scheme
+Scilab
+Scratch
+Seed7
+Self
+SequenceL
+Shen
+Shiny
+Sidef
+Simula
+Sisal
+Slate
+Small BASIC
+Smalltalk
+Softbridge BASIC
+Sparkling
+Standard ML
+StreamIt
+Suneido
+SuperCollider
+Swift
+Swym
+SystemVerilog
+TI-83 BASIC
+TI-89 BASIC
+TIScript
+TSE SAL
+TUSCRIPT
+TXR
+Tcl
+TeX
+Toka
+TorqueScript
+Transact-SQL
+Trith
+Turing
+TypeScript
+UBASIC
+UNIX Shell
+Unicon
+UnixPipes
+Unlambda
+Ursala
+V
+VBA
+VBScript
+VHDL
+Vala
+Vedit macro language
+Vim Script
+Visual Basic
+Visual Basic .NET
+Visual FoxPro
+Visual Prolog
+Vorpal
+Wart
+Whitespace
+Wortel
+Wrapl
+X++
+x86 Assembly	X86 Assembly
+XL
+XPL0
+XQuery
+XSLT
+Xanadu
+Xfractint
+Yacas
+Yorick
+Z80 Assembly
+ZED
+ZX Spectrum Basic
+bc
+eC
+embedded C for AVR MCU
+es
+friendly interactive shell
+gnuplot
+jq
+mIRC Scripting Language
+sed
+tsql
+uBasic/4tH
+xEec
+zkl
+МК-61/52
