@@ -49,8 +49,10 @@ def main():
     r = redis.StrictRedis()
     samples = r.smembers('samples')
     conditions = Counter()
+    counter = 0
     for taskName in samples:
-        print '================'
+        print 'task # %d ================' % counter
+        counter += 1
         printTaskContent(taskName, site)
 
         impl_id = r.hget('rosetta-id-taskname-mapping', normalize(taskName))
