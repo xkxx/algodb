@@ -1,3 +1,25 @@
+# Cassandra Schema
+
+Keyspace: crosswikis
+Tables: queries, altnames
+
+## queries
+
+Columns
+- anchor: query
+- cprob: confidence level
+- entity: the corresponding wikipedia page
+
+## altnames
+
+Inverted index of queries
+
+Columns
+
+- entity: wikipedia page
+- cprob: confidence level
+- anchor: the corresponding queries
+
 # Files
 
 ## index_ardb_crosswikis.py
@@ -8,7 +30,6 @@ Failed because it's unstable.
 ## index_cassandra_crosswikis.py
 
 Indexing crosswikis dictionary into Cassandra.
-It's running....
 
 ## smallset
 
