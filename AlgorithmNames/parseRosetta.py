@@ -25,7 +25,7 @@ class Task:
         # e.g. '{{header|8th}}'
         matchHeader = re.compile(r"\{\{header\|(.+?)\}\}")
         result = matchHeader.match(title)
-        return result and result.group(1).trim()
+        return result and result.group(1).strip()
 
     # find the first commentary block and the first code block,
     # if match found, return (commentary, code, entirematch),

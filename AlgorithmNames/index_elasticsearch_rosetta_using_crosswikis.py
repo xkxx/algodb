@@ -21,7 +21,7 @@ cluster = Cluster(['127.0.0.1'])  # localhost
 session = cluster.connect()  # default key space
 session.set_keyspace('crosswikis')
 
-FUZZY_THRESHOLD = 50
+FUZZY_THRESHOLD = 79
 
 UPDATING = True
 
@@ -140,28 +140,28 @@ def get_corres_wikipedia_algo_id(page):
         print '--first'
         return [id]
 
-    # then, use crosswikis dictionary to get the most possible wiki link
-    query = "SELECT cprob, entity FROM queries WHERE anchor = %s"
-    suggested_wikilinks = list(session.execute(query, [page.page_title]))
-    sorted(suggested_wikilinks, key=lambda tup: tup[0])
-    if len(suggested_wikilinks) > 0:
-        toplink = suggested_wikilinks[0][1]
-        wikipage = get_wiki_page(toplink)
-        if wikipage is not None:
-            # check if indexed
-            id = get_id_of_corresponding_algorithm(toplink, page.page_title)
-            if id is None:
-                # try to index this algorithm
-                id = index_corresponding_algorithm(wikipage, toplink,
-                    page.page_title)
-                if id is not None:
-                    rd.hset('rosetta-mapping-success', page.page_title,
-                        json.dumps([id]))
-                    rd.sadd('rosetta-mapping-success-crosswikis',
-                        page.page_title)
-                    print id,
-                    print '--second'
-                    return [id]
+    # # then, use crosswikis dictionary to get the most possible wiki link
+    # query = "SELECT cprob, entity FROM queries WHERE anchor = %s"
+    # suggested_wikilinks = list(session.execute(query, [page.page_title]))
+    # sorted(suggested_wikilinks, key=lambda tup: tup[0])
+    # if len(suggested_wikilinks) > 0:
+    #     toplink = suggested_wikilinks[0][1]
+    #     wikipage = get_wiki_page(toplink)
+    #     if wikipage is not None:
+    #         # check if indexed
+    #         id = get_id_of_corresponding_algorithm(toplink, page.page_title)
+    #         if id is None:
+    #             # try to index this algorithm
+    #             id = index_corresponding_algorithm(wikipage, toplink,
+    #                 page.page_title)
+    #             if id is not None:
+    #                 rd.hset('rosetta-mapping-success', page.page_title,
+    #                     json.dumps([id]))
+    #                 rd.sadd('rosetta-mapping-success-crosswikis',
+    #                     page.page_title)
+    #                 print id,
+    #                 print '--second'
+    #                 return [id]
 
     # finally, if none of the links is similar to the task name,
     # 1, store the task description

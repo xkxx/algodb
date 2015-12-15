@@ -51,6 +51,9 @@ Adjusted fuzziness
 Fixed another rosetta code language parsing bug
 Deduplication of programming language of all implementations
 
+## version 3.3
+
+Used crosswikis as a source for Algorithms' associated queries
 
 ## Other scripts
 
