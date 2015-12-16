@@ -70,11 +70,17 @@ block content
 
   footer
     .languages
+      h2.title Languages
       ul.list
         for l in languages
           li.lang(style='color:'+l.color)
             span.title= l.language
             span.count= ' (' + l.count + ')'
+    .algorithmNames
+      ul.list
+        for a in algorithmNames
+          li.lang
+            span.title= a
     .authors
       p Made with 💖by
       ul

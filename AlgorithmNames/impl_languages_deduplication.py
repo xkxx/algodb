@@ -44,7 +44,7 @@ def reindex_language():
 
     body = {'query': {'match_all': {}}}
     result = es.search(index='throwtable', doc_type='implementation',
-        body=body, size=15000)
+        body=body, size=34589)
 
     for impl in result['hits']['hits']:
         language = impl['_source']['language']
