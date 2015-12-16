@@ -10,27 +10,21 @@
         "https://en.wikipedia.org/wiki/Symmetric-key_algorithm", 
         "https://en.wikipedia.org/wiki/Cryptography"
     ], 
-    "Skip list": [
-        "https://en.wikipedia.org/wiki/Skip_graph", 
-        "https://en.wikipedia.org/wiki/Bloom_filter"
+    "PSO, Particle swarm optimization": [
+        "https://en.wikipedia.org/wiki/Particle_swarm_optimization", 
+        "https://en.wikipedia.org/wiki/Swarm_intelligence", 
+        "https://en.wikipedia.org/wiki/James_Kennedy_(social_psychologist)", 
+        "https://en.wikipedia.org/wiki/Firefly_algorithm", 
+        "https://en.wikipedia.org/wiki/Crystal_structure_prediction"
     ], 
-    "Vector clocks": [
-        "https://en.wikipedia.org/wiki/Vector_clock", 
-        "https://en.wikipedia.org/wiki/Logical_clock", 
-        "https://en.wikipedia.org/wiki/Lamport_timestamps", 
-        "https://en.wikipedia.org/wiki/Happened-before", 
-        "https://en.wikipedia.org/wiki/Friedemann_Mattern"
-    ], 
-    "Gerchberg Saxton": [
-        "https://en.wikipedia.org/wiki/Gerchberg\u2013Saxton_algorithm", 
-        "https://en.wikipedia.org/wiki/Phase_retrieval", 
-        "https://en.wikipedia.org/wiki/Adaptive-additive_algorithm", 
-        "https://en.wikipedia.org/wiki/Defocus_aberration"
-    ], 
-    "BFGS (Broyden-Fletcher-Goldfarb-Shanno method)": [
-        "https://en.wikipedia.org/wiki/Broyden\u2013Fletcher\u2013Goldfarb\u2013Shanno_algorithm", 
-        "https://en.wikipedia.org/wiki/Limited-memory_BFGS", 
-        "https://en.wikipedia.org/wiki/Nelder\u2013Mead_method"
+    "Pollard's rho": [
+        "https://en.wikipedia.org/wiki/Pollard's_rho_algorithm", 
+        "https://en.wikipedia.org/wiki/Pollard's_rho_algorithm_for_logarithms", 
+        "https://en.wikipedia.org/wiki/Pollard's_p_\u2212_1_algorithm", 
+        "https://en.wikipedia.org/wiki/Pollard's_kangaroo_algorithm", 
+        "https://en.wikipedia.org/wiki/Cycle_detection", 
+        "https://en.wikipedia.org/wiki/MD5CRK", 
+        "https://en.wikipedia.org/wiki/Pohlig\u2013Hellman_algorithm"
     ], 
     "Secant method": [
         "https://en.wikipedia.org/wiki/Secant_method", 
@@ -40,35 +34,20 @@
         "https://en.wikipedia.org/wiki/Muller's_method", 
         "https://en.wikipedia.org/wiki/Inverse_quadratic_interpolation"
     ], 
-    "PES (Proposed Encryption Standard)": [
-        "https://en.wikipedia.org/wiki/International_Data_Encryption_Algorithm"
+    "RSA (Rivest, Shamir, Adleman)": [
+        "https://en.wikipedia.org/wiki/RSA_(cryptosystem)", 
+        "https://en.wikipedia.org/wiki/Ron_Rivest", 
+        "https://en.wikipedia.org/wiki/RSA_Security", 
+        "https://en.wikipedia.org/wiki/Adi_Shamir", 
+        "https://en.wikipedia.org/wiki/Clifford_Cocks", 
+        "https://en.wikipedia.org/wiki/Public-key_cryptography"
     ], 
-    "Boehm garbage collector": [
-        "https://en.wikipedia.org/wiki/Mark-compact_algorithm", 
-        "https://en.wikipedia.org/wiki/Reference_counting"
-    ], 
-    "Earley's algorithm": [
-        "https://en.wikipedia.org/wiki/Earley_parser", 
-        "https://en.wikipedia.org/wiki/CYK_algorithm", 
-        "https://en.wikipedia.org/wiki/GLR_parser", 
-        "https://en.wikipedia.org/wiki/Memoization"
-    ], 
-    "Viola-Jones object detection framework, simple and fast": [
-        "https://en.wikipedia.org/wiki/Viola\u2013Jones_object_detection_framework", 
-        "https://en.wikipedia.org/wiki/AdaBoost", 
-        "https://en.wikipedia.org/wiki/Cascade_Learning_Based_on_Adaboost", 
-        "https://en.wikipedia.org/wiki/Summed_area_table"
-    ], 
-    "Fractal compression": [
-        "https://en.wikipedia.org/wiki/Fractal_compression", 
-        "https://en.wikipedia.org/wiki/Michael_Barnsley"
-    ], 
-    "Shortest seek first": [
-        "https://en.wikipedia.org/wiki/Shortest_seek_first", 
-        "https://en.wikipedia.org/wiki/I/O_scheduling", 
-        "https://en.wikipedia.org/wiki/Elevator_algorithm", 
-        "https://en.wikipedia.org/wiki/LOOK_algorithm", 
-        "https://en.wikipedia.org/wiki/Shortest_remaining_time"
+    "PageRank": [
+        "https://en.wikipedia.org/wiki/PageRank", 
+        "https://en.wikipedia.org/wiki/Topic-Sensitive_PageRank", 
+        "https://en.wikipedia.org/wiki/Google_matrix", 
+        "https://en.wikipedia.org/wiki/Nofollow", 
+        "https://en.wikipedia.org/wiki/PageRank_algorithm_in_biochemistry"
     ], 
     "Richardson eigenvector algorithm": [
         "https://en.wikipedia.org/wiki/Richardson\u2013Lucy_deconvolution", 
@@ -78,9 +57,6 @@
         "https://en.wikipedia.org/wiki/PageRank", 
         "https://en.wikipedia.org/wiki/Power_iteration", 
         "https://en.wikipedia.org/wiki/Lanczos_algorithm"
-    ], 
-    "Gilbert-Johnson-Keerthi distance": [
-        "https://en.wikipedia.org/wiki/Gilbert\u2013Johnson\u2013Keerthi_distance_algorithm"
     ], 
     "Lenstra elliptic curve factorization or elliptic curve factorization method (ECM)": [
         "https://en.wikipedia.org/wiki/Lenstra_elliptic_curve_factorization", 
@@ -93,53 +69,23 @@
         "https://en.wikipedia.org/wiki/Pollard's_rho_algorithm", 
         "https://en.wikipedia.org/wiki/Shanks'_square_forms_factorization"
     ], 
-    "Robinson-Schensted": [
-        "https://en.wikipedia.org/wiki/Robinson\u2013Schensted_correspondence", 
-        "https://en.wikipedia.org/wiki/Robinson\u2013Schensted\u2013Knuth_correspondence", 
-        "https://en.wikipedia.org/wiki/Craige_Schensted", 
-        "https://en.wikipedia.org/wiki/Gilbert_de_Beauregard_Robinson"
+    "DE (Differential evolution)": [
+        "https://en.wikipedia.org/wiki/Evolutionary_algorithm", 
+        "https://en.wikipedia.org/wiki/Evolutionary_computation", 
+        "https://en.wikipedia.org/wiki/Grey_wolf_optimizer", 
+        "https://en.wikipedia.org/wiki/DEAP_(software)", 
+        "https://en.wikipedia.org/wiki/Swarm_intelligence", 
+        "https://en.wikipedia.org/wiki/CMA-ES"
     ], 
-    "k-way Merge sort (or p-way": [
-        "https://en.wikipedia.org/wiki/Merge_algorithm", 
-        "https://en.wikipedia.org/wiki/External_sorting", 
-        "https://en.wikipedia.org/wiki/Polyphase_merge_sort", 
-        "https://en.wikipedia.org/wiki/Sorting_algorithm"
-    ], 
-    "Resynthesizer": [
-        "https://en.wikipedia.org/wiki/Inpainting", 
-        "https://en.wikipedia.org/wiki/Patch-based_texture_synthesis"
-    ], 
-    "A-law algorithm": [
-        "https://en.wikipedia.org/wiki/A-law_algorithm", 
-        "https://en.wikipedia.org/wiki/\u039c-law_algorithm", 
-        "https://en.wikipedia.org/wiki/Pulse-code_modulation", 
-        "https://en.wikipedia.org/wiki/Speech_coding", 
-        "https://en.wikipedia.org/wiki/Parker_v._Flook"
-    ], 
-    "Evolution strategy": [
-        "https://en.wikipedia.org/wiki/CMA-ES", 
-        "https://en.wikipedia.org/wiki/Natural_evolution_strategy", 
-        "https://en.wikipedia.org/wiki/Hans-Paul_Schwefel"
-    ], 
-    "Fermat's factorization method": [
-        "https://en.wikipedia.org/wiki/Euler's_factorization_method", 
-        "https://en.wikipedia.org/wiki/Integer_factorization", 
-        "https://en.wikipedia.org/wiki/Shanks'_square_forms_factorization", 
-        "https://en.wikipedia.org/wiki/Dixon's_factorization_method", 
-        "https://en.wikipedia.org/wiki/Quadratic_sieve"
-    ], 
-    "Branch and bound": [
-        "https://en.wikipedia.org/wiki/Branch_and_bound", 
-        "https://en.wikipedia.org/wiki/Branch_and_cut", 
-        "https://en.wikipedia.org/wiki/Joint_Compatibility_Branch_and_Bound", 
-        "https://en.wikipedia.org/wiki/Set_inversion", 
-        "https://en.wikipedia.org/wiki/Travelling_salesman_problem", 
-        "https://en.wikipedia.org/wiki/Alpha\u2013beta_pruning", 
-        "https://en.wikipedia.org/wiki/Computational_phylogenetics"
-    ], 
-    "Incremental encoding": [
-        "https://en.wikipedia.org/wiki/Incremental_encoding", 
-        "https://en.wikipedia.org/wiki/Encoder"
+    "Grover's algorithm": [
+        "https://en.wikipedia.org/wiki/Grover's_algorithm", 
+        "https://en.wikipedia.org/wiki/Quantum_algorithm", 
+        "https://en.wikipedia.org/wiki/BHT_algorithm", 
+        "https://en.wikipedia.org/wiki/Amplitude_amplification", 
+        "https://en.wikipedia.org/wiki/Post-quantum_cryptography", 
+        "https://en.wikipedia.org/wiki/Deutsch\u2013Jozsa_algorithm", 
+        "https://en.wikipedia.org/wiki/Quantum_computing", 
+        "https://en.wikipedia.org/wiki/Key_size"
     ], 
     "Rate-monotonic scheduling": [
         "https://en.wikipedia.org/wiki/Rate-monotonic_scheduling", 
@@ -156,15 +102,13 @@
         "https://en.wikipedia.org/wiki/Bees_algorithm", 
         "https://en.wikipedia.org/wiki/Metaheuristic"
     ], 
-    "Tiny Encryption Algorithm": [
-        "https://en.wikipedia.org/wiki/Tiny_Encryption_Algorithm", 
-        "https://en.wikipedia.org/wiki/XTEA", 
-        "https://en.wikipedia.org/wiki/XXTEA", 
-        "https://en.wikipedia.org/wiki/Treyfer"
-    ], 
-    "Multi level feedback queue": [
-        "https://en.wikipedia.org/wiki/Multilevel_feedback_queue", 
-        "https://en.wikipedia.org/wiki/Multilevel_queue"
+    "Lamport ordering": [
+        "https://en.wikipedia.org/wiki/Lamport_timestamps", 
+        "https://en.wikipedia.org/wiki/Happened-before", 
+        "https://en.wikipedia.org/wiki/Vector_clock", 
+        "https://en.wikipedia.org/wiki/Logical_clock", 
+        "https://en.wikipedia.org/wiki/Leslie_Lamport", 
+        "https://en.wikipedia.org/wiki/Paxos_(computer_science)"
     ], 
     "Best-first search": [
         "https://en.wikipedia.org/wiki/Best-first_search", 
@@ -176,24 +120,13 @@
         "https://en.wikipedia.org/wiki/Depth-first_search", 
         "https://en.wikipedia.org/wiki/Iterative_deepening_A*"
     ], 
-    "Unicode Collation": [
-        "https://en.wikipedia.org/wiki/Unicode_collation_algorithm", 
-        "https://en.wikipedia.org/wiki/Collation", 
-        "https://en.wikipedia.org/wiki/ISO_14651"
-    ], 
-    "Conjugate gradient method": [
-        "https://en.wikipedia.org/wiki/Conjugate_gradient_method", 
-        "https://en.wikipedia.org/wiki/Nonlinear_conjugate_gradient_method", 
-        "https://en.wikipedia.org/wiki/Biconjugate_gradient_method", 
-        "https://en.wikipedia.org/wiki/Conjugate_residual_method", 
-        "https://en.wikipedia.org/wiki/Gradient_descent", 
-        "https://en.wikipedia.org/wiki/Gradient_method"
-    ], 
-    "Bitap (or shift-or, shift-and, Baeza-Yates-Gonnet)": [
-        "https://en.wikipedia.org/wiki/Bitap_algorithm", 
-        "https://en.wikipedia.org/wiki/String_searching_algorithm", 
-        "https://en.wikipedia.org/wiki/Ricardo_Baeza-Yates", 
-        "https://en.wikipedia.org/wiki/Suffix_array"
+    "Sieve of Atkin": [
+        "https://en.wikipedia.org/wiki/Sieve_of_Atkin", 
+        "https://en.wikipedia.org/wiki/A._O._L._Atkin", 
+        "https://en.wikipedia.org/wiki/Sieve_of_Sundaram", 
+        "https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes", 
+        "https://en.wikipedia.org/wiki/Generating_primes", 
+        "https://en.wikipedia.org/wiki/Wheel_factorization"
     ], 
     "Bucket sort": [
         "https://en.wikipedia.org/wiki/Bucket_sort", 
@@ -206,26 +139,6 @@
         "https://en.wikipedia.org/wiki/Integer_sorting", 
         "https://en.wikipedia.org/wiki/Radix_sort"
     ], 
-    "Trust search": [
-        "https://en.wikipedia.org/wiki/TrustRank"
-    ], 
-    "Subset sum": [
-        "https://en.wikipedia.org/wiki/Maximum_subarray_problem", 
-        "https://en.wikipedia.org/wiki/P_versus_NP_problem"
-    ], 
-    "Latent Dirichlet Allocation (LDA)": [
-        "https://en.wikipedia.org/wiki/Pachinko_allocation", 
-        "https://en.wikipedia.org/wiki/Gensim"
-    ], 
-    "Slope-intercept algorithm": [
-        "https://en.wikipedia.org/wiki/Line_drawing_algorithm", 
-        "https://en.wikipedia.org/wiki/Bresenham's_line_algorithm", 
-        "https://en.wikipedia.org/wiki/Hough_transform", 
-        "https://en.wikipedia.org/wiki/Digital_differential_analyzer_(graphics_algorithm)"
-    ], 
-    "EZW (Embedded Zerotree Wavelet)": [
-        "https://en.wikipedia.org/wiki/Embedded_Zerotrees_of_Wavelet_transforms"
-    ], 
     "Rabin-Karp string search": [
         "https://en.wikipedia.org/wiki/Rabin\u2013Karp_algorithm", 
         "https://en.wikipedia.org/wiki/Rolling_hash", 
@@ -234,39 +147,6 @@
         "https://en.wikipedia.org/wiki/Aho\u2013Corasick_algorithm", 
         "https://en.wikipedia.org/wiki/Richard_M._Karp", 
         "https://en.wikipedia.org/wiki/Apostolico\u2013Giancarlo_algorithm"
-    ], 
-    "Stochastic tunneling": [
-        "https://en.wikipedia.org/wiki/Simulated_annealing"
-    ], 
-    "DDA line algorithm": [
-        "https://en.wikipedia.org/wiki/Digital_differential_analyzer_(graphics_algorithm)", 
-        "https://en.wikipedia.org/wiki/Bresenham's_line_algorithm", 
-        "https://en.wikipedia.org/wiki/Line_drawing_algorithm", 
-        "https://en.wikipedia.org/wiki/Xiaolin_Wu's_line_algorithm"
-    ], 
-    "Global illumination": [
-        "https://en.wikipedia.org/wiki/Global_illumination", 
-        "https://en.wikipedia.org/wiki/Radiosity_(computer_graphics)", 
-        "https://en.wikipedia.org/wiki/Photon_mapping", 
-        "https://en.wikipedia.org/wiki/Path_tracing"
-    ], 
-    "Rutishauser": [
-        "https://en.wikipedia.org/wiki/ALGOL", 
-        "https://en.wikipedia.org/wiki/Klaus_Samelson"
-    ], 
-    "RSA (Rivest, Shamir, Adleman)": [
-        "https://en.wikipedia.org/wiki/RSA_(cryptosystem)", 
-        "https://en.wikipedia.org/wiki/Ron_Rivest", 
-        "https://en.wikipedia.org/wiki/RSA_Security", 
-        "https://en.wikipedia.org/wiki/Adi_Shamir", 
-        "https://en.wikipedia.org/wiki/Clifford_Cocks", 
-        "https://en.wikipedia.org/wiki/Public-key_cryptography"
-    ], 
-    "Spline interpolation": [
-        "https://en.wikipedia.org/wiki/Bicubic_interpolation"
-    ], 
-    "Alpha-beta": [
-        "https://en.wikipedia.org/wiki/Alpha\u2013beta_pruning"
     ], 
     "Shell sort": [
         "https://en.wikipedia.org/wiki/Donald_Shell", 
@@ -292,61 +172,14 @@
         "https://en.wikipedia.org/wiki/Adaptive_sort", 
         "https://en.wikipedia.org/wiki/Mainframe_sort_merge"
     ], 
-    "Risch algorithm": [
-        "https://en.wikipedia.org/wiki/Risch_algorithm", 
-        "https://en.wikipedia.org/wiki/Computer_algebra_system", 
-        "https://en.wikipedia.org/wiki/Timeline_of_algorithms"
-    ], 
-    "Exponentiating by squaring": [
-        "https://en.wikipedia.org/wiki/Exponentiation_by_squaring", 
-        "https://en.wikipedia.org/wiki/Modular_exponentiation", 
-        "https://en.wikipedia.org/wiki/Computational_complexity_of_mathematical_operations", 
-        "https://en.wikipedia.org/wiki/Discrete_logarithm"
-    ], 
-    "LALR (Look-ahead LR)": [
-        "https://en.wikipedia.org/wiki/LALR_parser", 
-        "https://en.wikipedia.org/wiki/LR_parser", 
-        "https://en.wikipedia.org/wiki/Simple_LR_parser", 
-        "https://en.wikipedia.org/wiki/LALR_parser_generator"
-    ], 
-    "Metropolis-Hastings": [
-        "https://en.wikipedia.org/wiki/Metropolis\u2013Hastings_algorithm", 
-        "https://en.wikipedia.org/wiki/W._K._Hastings", 
-        "https://en.wikipedia.org/wiki/Simulated_annealing", 
-        "https://en.wikipedia.org/wiki/Metropolis_light_transport", 
-        "https://en.wikipedia.org/wiki/Markov_chain_Monte_Carlo", 
-        "https://en.wikipedia.org/wiki/Gibbs_sampling"
-    ], 
-    "Nearest neighbour": [
-        "https://en.wikipedia.org/wiki/Nearest_neighbour_algorithm", 
-        "https://en.wikipedia.org/wiki/Nearest_neighbor", 
-        "https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm", 
-        "https://en.wikipedia.org/wiki/Nearest-neighbor_interpolation", 
-        "https://en.wikipedia.org/wiki/Nearest_neighbor_graph", 
-        "https://en.wikipedia.org/wiki/Large_margin_nearest_neighbor", 
-        "https://en.wikipedia.org/wiki/Nearest-neighbor_chain_algorithm"
-    ], 
-    "Graham scan": [
-        "https://en.wikipedia.org/wiki/Graham_scan", 
-        "https://en.wikipedia.org/wiki/Convex_hull_algorithms", 
-        "https://en.wikipedia.org/wiki/Gift_wrapping_algorithm", 
-        "https://en.wikipedia.org/wiki/Chan's_algorithm"
-    ], 
-    "Gradient descent": [
-        "https://en.wikipedia.org/wiki/Gradient_descent", 
-        "https://en.wikipedia.org/wiki/Conjugate_gradient_method", 
-        "https://en.wikipedia.org/wiki/Delta_rule", 
-        "https://en.wikipedia.org/wiki/Gradient_method", 
-        "https://en.wikipedia.org/wiki/Coordinate_descent", 
-        "https://en.wikipedia.org/wiki/Nonlinear_conjugate_gradient_method"
-    ], 
-    "Generational garbage collector": [
-        "https://en.wikipedia.org/wiki/Tracing_garbage_collection", 
-        "https://en.wikipedia.org/wiki/Reference_counting"
-    ], 
-    "Square root": [
-        "https://en.wikipedia.org/wiki/Methods_of_computing_square_roots", 
-        "https://en.wikipedia.org/wiki/Fast_inverse_square_root"
+    "Branch and bound": [
+        "https://en.wikipedia.org/wiki/Branch_and_bound", 
+        "https://en.wikipedia.org/wiki/Branch_and_cut", 
+        "https://en.wikipedia.org/wiki/Joint_Compatibility_Branch_and_Bound", 
+        "https://en.wikipedia.org/wiki/Set_inversion", 
+        "https://en.wikipedia.org/wiki/Travelling_salesman_problem", 
+        "https://en.wikipedia.org/wiki/Alpha\u2013beta_pruning", 
+        "https://en.wikipedia.org/wiki/Computational_phylogenetics"
     ], 
     "Selection sort": [
         "https://en.wikipedia.org/wiki/Selection_sort", 
@@ -358,29 +191,13 @@
         "https://en.wikipedia.org/wiki/Comparison_sort", 
         "https://en.wikipedia.org/wiki/Best,_worst_and_average_case"
     ], 
-    "Gift wrapping": [
-        "https://en.wikipedia.org/wiki/Gift_wrapping_algorithm", 
-        "https://en.wikipedia.org/wiki/Convex_hull_algorithms"
-    ], 
-    "Predictive search": [
-        "https://en.wikipedia.org/wiki/Autocomplete", 
-        "https://en.wikipedia.org/wiki/Predictive_behavioral_targeting", 
-        "https://en.wikipedia.org/wiki/Precision_and_recall"
-    ], 
-    "Burrows Wheeler transform": [
-        "https://en.wikipedia.org/wiki/Burrows\u2013Wheeler_transform", 
-        "https://en.wikipedia.org/wiki/Move-to-front_transform", 
-        "https://en.wikipedia.org/wiki/Bzip2"
-    ], 
-    "Binary multiplication (Peasant or Egyptian multiplication)": [
-        "https://en.wikipedia.org/wiki/Ancient_Egyptian_multiplication", 
-        "https://en.wikipedia.org/wiki/Multiplication_algorithm"
-    ], 
-    "Newton's method in optimization": [
-        "https://en.wikipedia.org/wiki/Gauss\u2013Newton_algorithm", 
-        "https://en.wikipedia.org/wiki/Broyden\u2013Fletcher\u2013Goldfarb\u2013Shanno_algorithm", 
-        "https://en.wikipedia.org/wiki/Newton's_method", 
-        "https://en.wikipedia.org/wiki/Truncated_Newton_method"
+    "Gradient descent": [
+        "https://en.wikipedia.org/wiki/Gradient_descent", 
+        "https://en.wikipedia.org/wiki/Conjugate_gradient_method", 
+        "https://en.wikipedia.org/wiki/Delta_rule", 
+        "https://en.wikipedia.org/wiki/Gradient_method", 
+        "https://en.wikipedia.org/wiki/Coordinate_descent", 
+        "https://en.wikipedia.org/wiki/Nonlinear_conjugate_gradient_method"
     ], 
     "Baum-Welch": [
         "https://en.wikipedia.org/wiki/Baum\u2013Welch_algorithm", 
@@ -404,53 +221,12 @@
         "https://en.wikipedia.org/wiki/Travelling_salesman_problem", 
         "https://en.wikipedia.org/wiki/Bees_algorithm"
     ], 
-    "Special number field sieve": [
-        "https://en.wikipedia.org/wiki/Special_number_field_sieve", 
-        "https://en.wikipedia.org/wiki/General_number_field_sieve", 
-        "https://en.wikipedia.org/wiki/Rational_sieve", 
-        "https://en.wikipedia.org/wiki/Quadratic_sieve", 
-        "https://en.wikipedia.org/wiki/Discrete_logarithm", 
-        "https://en.wikipedia.org/wiki/Integer_factorization"
-    ], 
-    "Rainflow-counting algorithm": [
-        "https://en.wikipedia.org/wiki/Rainflow-counting_algorithm", 
-        "https://en.wikipedia.org/wiki/Tatsuo_Endo", 
-        "https://en.wikipedia.org/wiki/Vibration_fatigue", 
-        "https://en.wikipedia.org/wiki/FlexPro"
-    ], 
-    "Stochastic universal sampling": [
-        "https://en.wikipedia.org/wiki/Stochastic_universal_sampling", 
-        "https://en.wikipedia.org/wiki/Fitness_proportionate_selection", 
-        "https://en.wikipedia.org/wiki/Selection_(genetic_algorithm)", 
-        "https://en.wikipedia.org/wiki/Reward-based_selection"
-    ], 
     "IDEA (International Data Encryption Algorithm)": [
         "https://en.wikipedia.org/wiki/International_Data_Encryption_Algorithm", 
         "https://en.wikipedia.org/wiki/IDEA_NXT", 
         "https://en.wikipedia.org/wiki/Block_cipher", 
         "https://en.wikipedia.org/wiki/Blowfish_(cipher)", 
         "https://en.wikipedia.org/wiki/Data_Encryption_Standard"
-    ], 
-    "Elser Difference-Map": [
-        "https://en.wikipedia.org/wiki/Difference-map_algorithm"
-    ], 
-    "Brotli": [
-        "https://en.wikipedia.org/wiki/Brotli", 
-        "https://en.wikipedia.org/wiki/Zopfli", 
-        "https://en.wikipedia.org/wiki/Zolt\u00e1n_Szabadka"
-    ], 
-    "Yarrow algorithm": [
-        "https://en.wikipedia.org/wiki/Yarrow_algorithm", 
-        "https://en.wikipedia.org/wiki/Random_number_generation", 
-        "https://en.wikipedia.org/wiki/Niels_Ferguson"
-    ], 
-    "Inverse iteration": [
-        "https://en.wikipedia.org/wiki/Inverse_iteration", 
-        "https://en.wikipedia.org/wiki/Rayleigh_quotient_iteration", 
-        "https://en.wikipedia.org/wiki/Power_iteration", 
-        "https://en.wikipedia.org/wiki/Eigenvalue_algorithm", 
-        "https://en.wikipedia.org/wiki/Iterative_reconstruction", 
-        "https://en.wikipedia.org/wiki/Landweber_iteration"
     ], 
     "Line search": [
         "https://en.wikipedia.org/wiki/Wolfe_conditions", 
@@ -459,64 +235,12 @@
         "https://en.wikipedia.org/wiki/Gradient_descent", 
         "https://en.wikipedia.org/wiki/Broyden\u2013Fletcher\u2013Goldfarb\u2013Shanno_algorithm"
     ], 
-    "Xiaolin Wu's line algorithm": [
-        "https://en.wikipedia.org/wiki/Xiaolin_Wu's_line_algorithm", 
-        "https://en.wikipedia.org/wiki/Line_drawing_algorithm", 
-        "https://en.wikipedia.org/wiki/Bresenham's_line_algorithm", 
-        "https://en.wikipedia.org/wiki/Digital_differential_analyzer_(graphics_algorithm)"
-    ], 
-    "PageRank": [
-        "https://en.wikipedia.org/wiki/PageRank", 
-        "https://en.wikipedia.org/wiki/Topic-Sensitive_PageRank", 
-        "https://en.wikipedia.org/wiki/Google_matrix", 
-        "https://en.wikipedia.org/wiki/Nofollow", 
-        "https://en.wikipedia.org/wiki/PageRank_algorithm_in_biochemistry"
-    ], 
-    "Simple Merge": [
-        "https://en.wikipedia.org/wiki/Sorting_algorithm", 
-        "https://en.wikipedia.org/wiki/Sort-merge_join", 
-        "https://en.wikipedia.org/wiki/Merge_algorithm", 
-        "https://en.wikipedia.org/wiki/Timsort"
-    ], 
-    "NTRUEncrypt": [
-        "https://en.wikipedia.org/wiki/NTRUEncrypt", 
-        "https://en.wikipedia.org/wiki/NTRU", 
-        "https://en.wikipedia.org/wiki/NTRUSign", 
-        "https://en.wikipedia.org/wiki/Schmidt-Samoa_cryptosystem"
-    ], 
-    "Coding scheme that assigns codes to symbols so as to match code lengths with the probabilities of the symbols": [
-        "https://en.wikipedia.org/wiki/Huffman_coding", 
-        "https://en.wikipedia.org/wiki/Lempel\u2013Ziv\u2013Welch", 
-        "https://en.wikipedia.org/wiki/Hamming(7,4)"
-    ], 
-    "Zha's algorithm": [
-        "https://en.wikipedia.org/wiki/K-means_clustering", 
-        "https://en.wikipedia.org/wiki/Nonlinear_dimensionality_reduction", 
-        "https://en.wikipedia.org/wiki/Image_segmentation"
-    ], 
-    "Topological sort": [
-        "https://en.wikipedia.org/wiki/Topological_sorting", 
-        "https://en.wikipedia.org/wiki/Directed_acyclic_graph", 
-        "https://en.wikipedia.org/wiki/Tarjan's_strongly_connected_components_algorithm"
-    ], 
-    "Tracking-Learning Detection": [
-        "https://en.wikipedia.org/wiki/Viola\u2013Jones_object_detection_framework", 
-        "https://en.wikipedia.org/wiki/Pattern_recognition", 
-        "https://en.wikipedia.org/wiki/Geometric_feature_learning"
-    ], 
-    "Congruence of squares": [
-        "https://en.wikipedia.org/wiki/Congruence_of_squares", 
-        "https://en.wikipedia.org/wiki/Dixon's_factorization_method", 
-        "https://en.wikipedia.org/wiki/Quadratic_sieve"
-    ], 
-    "Shortest remaining time": [
-        "https://en.wikipedia.org/wiki/Shortest_remaining_time", 
-        "https://en.wikipedia.org/wiki/Shortest_job_next"
-    ], 
-    "Arithmetic coding": [
-        "https://en.wikipedia.org/wiki/Context-adaptive_binary_arithmetic_coding", 
-        "https://en.wikipedia.org/wiki/Dynamic_Markov_compression", 
-        "https://en.wikipedia.org/wiki/Huffman_coding"
+    "Shortest seek first": [
+        "https://en.wikipedia.org/wiki/Shortest_seek_first", 
+        "https://en.wikipedia.org/wiki/I/O_scheduling", 
+        "https://en.wikipedia.org/wiki/Elevator_algorithm", 
+        "https://en.wikipedia.org/wiki/LOOK_algorithm", 
+        "https://en.wikipedia.org/wiki/Shortest_remaining_time"
     ], 
     "Radix sort": [
         "https://en.wikipedia.org/wiki/Radix_sort", 
@@ -527,19 +251,6 @@
         "https://en.wikipedia.org/wiki/Burstsort", 
         "https://en.wikipedia.org/wiki/Bucket_sort", 
         "https://en.wikipedia.org/wiki/Spreadsort"
-    ], 
-    "Round-Robin scheduling": [
-        "https://en.wikipedia.org/wiki/Round-robin_scheduling", 
-        "https://en.wikipedia.org/wiki/Deficit_round_robin", 
-        "https://en.wikipedia.org/wiki/Fair_queuing", 
-        "https://en.wikipedia.org/wiki/Fair-share_scheduling"
-    ], 
-    "CORDIC": [
-        "https://en.wikipedia.org/wiki/CORDIC", 
-        "https://en.wikipedia.org/wiki/BKM_algorithm"
-    ], 
-    "RIPEMD (RACE Integrity Primitives Evaluation Message Digest)": [
-        "https://en.wikipedia.org/wiki/RIPEMD"
     ], 
     "Comb sort": [
         "https://en.wikipedia.org/wiki/Comb_sort", 
@@ -557,38 +268,12 @@
         "https://en.wikipedia.org/wiki/Bidirectional_search", 
         "https://en.wikipedia.org/wiki/Jump_point_search"
     ], 
-    "Floyd-Warshall": [
-        "https://en.wikipedia.org/wiki/Floyd\u2013Warshall_algorithm", 
-        "https://en.wikipedia.org/wiki/Robert_W._Floyd", 
-        "https://en.wikipedia.org/wiki/Widest_path_problem", 
-        "https://en.wikipedia.org/wiki/Johnson's_algorithm", 
-        "https://en.wikipedia.org/wiki/Bellman\u2013Ford_algorithm"
-    ], 
-    "Doomsday": [
-        "https://en.wikipedia.org/wiki/Doomsday_rule"
-    ], 
-    "Sequitur": [
-        "https://en.wikipedia.org/wiki/Sequitur_algorithm"
-    ], 
     "Coloring algorithm": [
         "https://en.wikipedia.org/wiki/Greedy_coloring", 
         "https://en.wikipedia.org/wiki/Misra_%26_Gries_edge_coloring_algorithm", 
         "https://en.wikipedia.org/wiki/Chaitin's_algorithm", 
         "https://en.wikipedia.org/wiki/Edge_coloring", 
         "https://en.wikipedia.org/wiki/Five_color_theorem"
-    ], 
-    "Lagged Fibonacci generator": [
-        "https://en.wikipedia.org/wiki/Lagged_Fibonacci_generator", 
-        "https://en.wikipedia.org/wiki/Linear_congruential_generator", 
-        "https://en.wikipedia.org/wiki/Combined_Linear_Congruential_Generator"
-    ], 
-    "DE (Differential evolution)": [
-        "https://en.wikipedia.org/wiki/Evolutionary_algorithm", 
-        "https://en.wikipedia.org/wiki/Evolutionary_computation", 
-        "https://en.wikipedia.org/wiki/Grey_wolf_optimizer", 
-        "https://en.wikipedia.org/wiki/DEAP_(software)", 
-        "https://en.wikipedia.org/wiki/Swarm_intelligence", 
-        "https://en.wikipedia.org/wiki/CMA-ES"
     ], 
     "Knuth-Bendix completion": [
         "https://en.wikipedia.org/wiki/Knuth\u2013Bendix_completion_algorithm", 
@@ -598,14 +283,6 @@
         "https://en.wikipedia.org/wiki/Path_ordering_(term_rewriting)", 
         "https://en.wikipedia.org/wiki/Donald_Knuth"
     ], 
-    "Unary coding": [
-        "https://en.wikipedia.org/wiki/Prefix_code"
-    ], 
-    "Postman sort": [
-        "https://en.wikipedia.org/wiki/Bucket_sort", 
-        "https://en.wikipedia.org/wiki/Radix_sort", 
-        "https://en.wikipedia.org/wiki/Sorting_algorithm"
-    ], 
     "Depth-first search": [
         "https://en.wikipedia.org/wiki/Depth-first_search", 
         "https://en.wikipedia.org/wiki/Maze_generation_algorithm", 
@@ -614,15 +291,6 @@
         "https://en.wikipedia.org/wiki/Tree_traversal", 
         "https://en.wikipedia.org/wiki/Breadth-first_search"
     ], 
-    "Point in polygon": [
-        "https://en.wikipedia.org/wiki/Visibility_polygon"
-    ], 
-    "Bluestein's FFT": [
-        "https://en.wikipedia.org/wiki/Rader's_FFT_algorithm", 
-        "https://en.wikipedia.org/wiki/FFTW", 
-        "https://en.wikipedia.org/wiki/Fractional_Fourier_transform", 
-        "https://en.wikipedia.org/wiki/Cooley\u2013Tukey_FFT_algorithm"
-    ], 
     "Delta encoding": [
         "https://en.wikipedia.org/wiki/Incremental_encoding", 
         "https://en.wikipedia.org/wiki/Data_differencing", 
@@ -630,48 +298,19 @@
         "https://en.wikipedia.org/wiki/Xdelta", 
         "https://en.wikipedia.org/wiki/Rsync"
     ], 
-    "Spring based": [
-        "https://en.wikipedia.org/wiki/Force-directed_graph_drawing"
+    "A-law algorithm": [
+        "https://en.wikipedia.org/wiki/A-law_algorithm", 
+        "https://en.wikipedia.org/wiki/\u039c-law_algorithm", 
+        "https://en.wikipedia.org/wiki/Pulse-code_modulation", 
+        "https://en.wikipedia.org/wiki/Speech_coding", 
+        "https://en.wikipedia.org/wiki/Parker_v._Flook"
     ], 
-    "Blum Blum Shub": [
-        "https://en.wikipedia.org/wiki/Blum_Blum_Shub", 
-        "https://en.wikipedia.org/wiki/Michael_Shub", 
-        "https://en.wikipedia.org/wiki/Blum\u2013Micali_algorithm", 
-        "https://en.wikipedia.org/wiki/Blum\u2013Goldwasser_cryptosystem", 
-        "https://en.wikipedia.org/wiki/Quadratic_residuosity_problem"
-    ], 
-    "Symbolic Cholesky decomposition": [
-        "https://en.wikipedia.org/wiki/Symbolic_Cholesky_decomposition", 
-        "https://en.wikipedia.org/wiki/Sparse_matrix", 
-        "https://en.wikipedia.org/wiki/Automatic_differentiation"
-    ], 
-    "NYSIIS": [
-        "https://en.wikipedia.org/wiki/New_York_State_Identification_and_Intelligence_System", 
-        "https://en.wikipedia.org/wiki/Soundex", 
-        "https://en.wikipedia.org/wiki/Phonetic_algorithm", 
-        "https://en.wikipedia.org/wiki/Match_rating_approach"
-    ], 
-    "Dekker": [
-        "https://en.wikipedia.org/wiki/Dekker's_algorithm"
-    ], 
-    "Splay tree": [
-        "https://en.wikipedia.org/wiki/Splay_tree", 
-        "https://en.wikipedia.org/wiki/Splaysort", 
-        "https://en.wikipedia.org/wiki/Optimal_binary_search_tree", 
-        "https://en.wikipedia.org/wiki/Daniel_Sleator", 
-        "https://en.wikipedia.org/wiki/Geometry_of_binary_search_trees"
-    ], 
-    "Truncation selection": [
-        "https://en.wikipedia.org/wiki/Truncation_selection", 
-        "https://en.wikipedia.org/wiki/Selection_(genetic_algorithm)", 
-        "https://en.wikipedia.org/wiki/Fitness_proportionate_selection", 
-        "https://en.wikipedia.org/wiki/Crossover_(genetic_algorithm)"
-    ], 
-    "Miller-Rabin primality test": [
-        "https://en.wikipedia.org/wiki/Miller\u2013Rabin_primality_test", 
-        "https://en.wikipedia.org/wiki/Primality_test", 
-        "https://en.wikipedia.org/wiki/Baillie\u2013PSW_primality_test", 
-        "https://en.wikipedia.org/wiki/Gary_Miller_(computer_scientist)"
+    "Vector clocks": [
+        "https://en.wikipedia.org/wiki/Vector_clock", 
+        "https://en.wikipedia.org/wiki/Logical_clock", 
+        "https://en.wikipedia.org/wiki/Lamport_timestamps", 
+        "https://en.wikipedia.org/wiki/Happened-before", 
+        "https://en.wikipedia.org/wiki/Friedemann_Mattern"
     ], 
     "Nelder-Mead method (downhill simplex method)": [
         "https://en.wikipedia.org/wiki/Nelder\u2013Mead_method", 
@@ -679,10 +318,6 @@
         "https://en.wikipedia.org/wiki/Graph_algorithm", 
         "https://en.wikipedia.org/wiki/Gauss\u2013Newton_algorithm", 
         "https://en.wikipedia.org/wiki/Hill_climbing"
-    ], 
-    "Computation useful in healthcare": [
-        "https://en.wikipedia.org/wiki/Medical_algorithm", 
-        "https://en.wikipedia.org/wiki/Computational_finance"
     ], 
     "Rayleigh quotient iteration": [
         "https://en.wikipedia.org/wiki/Rayleigh_quotient_iteration", 
@@ -707,15 +342,6 @@
         "https://en.wikipedia.org/wiki/MD5", 
         "https://en.wikipedia.org/wiki/Secure_Hash_Standard"
     ], 
-    "QR algorithm": [
-        "https://en.wikipedia.org/wiki/QR_algorithm", 
-        "https://en.wikipedia.org/wiki/QR_decomposition", 
-        "https://en.wikipedia.org/wiki/John_G._F._Francis", 
-        "https://en.wikipedia.org/wiki/Vera_Kublanovskaya", 
-        "https://en.wikipedia.org/wiki/Divide-and-conquer_eigenvalue_algorithm", 
-        "https://en.wikipedia.org/wiki/Jenkins\u2013Traub_algorithm", 
-        "https://en.wikipedia.org/wiki/Eigenvalue_algorithm"
-    ], 
     "Bellman-Ford": [
         "https://en.wikipedia.org/wiki/Bellman\u2013Ford_algorithm", 
         "https://en.wikipedia.org/wiki/Distance-vector_routing_protocol", 
@@ -724,58 +350,12 @@
         "https://en.wikipedia.org/wiki/L._R._Ford,_Jr.", 
         "https://en.wikipedia.org/wiki/Diffusing_update_algorithm"
     ], 
-    "Median search": [
-        "https://en.wikipedia.org/wiki/Selection_algorithm", 
-        "https://en.wikipedia.org/wiki/Median_of_medians"
-    ], 
-    "Matrix chain multiplication": [
-        "https://en.wikipedia.org/wiki/Matrix_multiplication", 
-        "https://en.wikipedia.org/wiki/Dynamic_programming", 
-        "https://en.wikipedia.org/wiki/Matrix_multiplication_algorithm", 
-        "https://en.wikipedia.org/wiki/Strassen_algorithm"
-    ], 
-    "Fibonacci": [
-        "https://en.wikipedia.org/wiki/Fibonacci_number", 
-        "https://en.wikipedia.org/wiki/Fibonacci_heap", 
-        "https://en.wikipedia.org/wiki/Fibonacci_search_technique"
-    ], 
-    "PPM (Prediction by Partial Matching)": [
-        "https://en.wikipedia.org/wiki/Prediction_by_partial_matching", 
-        "https://en.wikipedia.org/wiki/Dynamic_Markov_compression", 
-        "https://en.wikipedia.org/wiki/7z"
-    ], 
-    "Mersenne twister": [
-        "https://en.wikipedia.org/wiki/Mersenne_Twister", 
-        "https://en.wikipedia.org/wiki/George_Marsaglia", 
-        "https://en.wikipedia.org/wiki/Pseudorandom_number_generator", 
-        "https://en.wikipedia.org/wiki/Lagged_Fibonacci_generator"
-    ], 
-    "Booth's multiplication": [
-        "https://en.wikipedia.org/wiki/Booth's_multiplication_algorithm", 
-        "https://en.wikipedia.org/wiki/Andrew_Donald_Booth", 
-        "https://en.wikipedia.org/wiki/Wallace_tree"
-    ], 
-    "Discrete Fourier transform": [
-        "https://en.wikipedia.org/wiki/Discrete_Fourier_transform", 
-        "https://en.wikipedia.org/wiki/Discrete-time_Fourier_transform", 
-        "https://en.wikipedia.org/wiki/Fast_Fourier_transform", 
-        "https://en.wikipedia.org/wiki/Fourier_transform"
-    ], 
-    "ElGamal": [
-        "https://en.wikipedia.org/wiki/ElGamal_encryption", 
-        "https://en.wikipedia.org/wiki/ElGamal_signature_scheme", 
-        "https://en.wikipedia.org/wiki/Taher_Elgamal", 
-        "https://en.wikipedia.org/wiki/Elgamal"
-    ], 
-    "Toom-Cook (Toom3)": [
-        "https://en.wikipedia.org/wiki/Toom\u2013Cook_multiplication", 
-        "https://en.wikipedia.org/wiki/Multiplication_algorithm", 
-        "https://en.wikipedia.org/wiki/Karatsuba_algorithm"
-    ], 
-    "Wavelet compression": [
-        "https://en.wikipedia.org/wiki/Wavelet", 
-        "https://en.wikipedia.org/wiki/Embedded_Zerotrees_of_Wavelet_transforms", 
-        "https://en.wikipedia.org/wiki/Wavelet_scalar_quantization"
+    "Blum Blum Shub": [
+        "https://en.wikipedia.org/wiki/Blum_Blum_Shub", 
+        "https://en.wikipedia.org/wiki/Michael_Shub", 
+        "https://en.wikipedia.org/wiki/Blum\u2013Micali_algorithm", 
+        "https://en.wikipedia.org/wiki/Blum\u2013Goldwasser_cryptosystem", 
+        "https://en.wikipedia.org/wiki/Quadratic_residuosity_problem"
     ], 
     "Viterbi": [
         "https://en.wikipedia.org/wiki/Viterbi_algorithm", 
@@ -784,16 +364,6 @@
         "https://en.wikipedia.org/wiki/Iterative_Viterbi_decoding", 
         "https://en.wikipedia.org/wiki/Viterbi", 
         "https://en.wikipedia.org/wiki/Soft_output_Viterbi_algorithm"
-    ], 
-    "Grover's algorithm": [
-        "https://en.wikipedia.org/wiki/Grover's_algorithm", 
-        "https://en.wikipedia.org/wiki/Quantum_algorithm", 
-        "https://en.wikipedia.org/wiki/BHT_algorithm", 
-        "https://en.wikipedia.org/wiki/Amplitude_amplification", 
-        "https://en.wikipedia.org/wiki/Post-quantum_cryptography", 
-        "https://en.wikipedia.org/wiki/Deutsch\u2013Jozsa_algorithm", 
-        "https://en.wikipedia.org/wiki/Quantum_computing", 
-        "https://en.wikipedia.org/wiki/Key_size"
     ], 
     "Dancing Links": [
         "https://en.wikipedia.org/wiki/Dancing_Links", 
@@ -809,18 +379,12 @@
         "https://en.wikipedia.org/wiki/Fast_Walsh\u2013Hadamard_transform", 
         "https://en.wikipedia.org/wiki/Closest_pair_of_points_problem"
     ], 
-    "Mark and sweep": [
-        "https://en.wikipedia.org/wiki/Tracing_garbage_collection", 
-        "https://en.wikipedia.org/wiki/Mark-compact_algorithm", 
-        "https://en.wikipedia.org/wiki/Sweep_and_prune"
-    ], 
-    "Solovay-Strassen primality test": [
-        "https://en.wikipedia.org/wiki/Miller\u2013Rabin_primality_test", 
-        "https://en.wikipedia.org/wiki/Primality_test", 
-        "https://en.wikipedia.org/wiki/Monte_Carlo_algorithm"
-    ], 
-    "Algorithms for Recovery and Isolation Exploiting Semantics": [
-        "https://en.wikipedia.org/wiki/Algorithms_for_Recovery_and_Isolation_Exploiting_Semantics"
+    "Backpropagation": [
+        "https://en.wikipedia.org/wiki/Neural_backpropagation", 
+        "https://en.wikipedia.org/wiki/Backpropagation_through_time", 
+        "https://en.wikipedia.org/wiki/Rprop", 
+        "https://en.wikipedia.org/wiki/Digital_back-propagation", 
+        "https://en.wikipedia.org/wiki/Almeida\u2013Pineda_recurrent_backpropagation"
     ], 
     "Metaphone": [
         "https://en.wikipedia.org/wiki/Metaphone", 
@@ -829,33 +393,12 @@
         "https://en.wikipedia.org/wiki/Caverphone", 
         "https://en.wikipedia.org/wiki/Rhyme_Genie"
     ], 
-    "Rader's FFT": [
-        "https://en.wikipedia.org/wiki/Rader's_FFT_algorithm", 
-        "https://en.wikipedia.org/wiki/Prime-factor_FFT_algorithm", 
-        "https://en.wikipedia.org/wiki/Fast_Fourier_transform", 
-        "https://en.wikipedia.org/wiki/FFTW"
-    ], 
-    "Hopfield net": [
-        "https://en.wikipedia.org/wiki/Boltzmann_machine", 
-        "https://en.wikipedia.org/wiki/Types_of_artificial_neural_networks"
-    ], 
-    "Interpolated search": [
-        "https://en.wikipedia.org/wiki/Interpolation_search", 
-        "https://en.wikipedia.org/wiki/Bicubic_interpolation", 
-        "https://en.wikipedia.org/wiki/Binary_search_algorithm"
-    ], 
     "LZMA": [
         "https://en.wikipedia.org/wiki/Lempel\u2013Ziv\u2013Markov_chain_algorithm", 
         "https://en.wikipedia.org/wiki/Xz", 
         "https://en.wikipedia.org/wiki/Lzip", 
         "https://en.wikipedia.org/wiki/7z", 
         "https://en.wikipedia.org/wiki/7-Zip"
-    ], 
-    "Arnoldi iteration": [
-        "https://en.wikipedia.org/wiki/Arnoldi_iteration", 
-        "https://en.wikipedia.org/wiki/Walter_Edwin_Arnoldi", 
-        "https://en.wikipedia.org/wiki/Eigenvalue_algorithm", 
-        "https://en.wikipedia.org/wiki/Orthogonalization"
     ], 
     "Davis\u2013Putnam algorithm": [
         "https://en.wikipedia.org/wiki/Davis\u2013Putnam_algorithm", 
@@ -875,31 +418,12 @@
         "https://en.wikipedia.org/wiki/Hidden_subgroup_problem", 
         "https://en.wikipedia.org/wiki/Integer_factorization"
     ], 
-    "Backpropagation": [
-        "https://en.wikipedia.org/wiki/Neural_backpropagation", 
-        "https://en.wikipedia.org/wiki/Backpropagation_through_time", 
-        "https://en.wikipedia.org/wiki/Rprop", 
-        "https://en.wikipedia.org/wiki/Digital_back-propagation", 
-        "https://en.wikipedia.org/wiki/Almeida\u2013Pineda_recurrent_backpropagation"
-    ], 
     "LZW": [
         "https://en.wikipedia.org/wiki/Lempel\u2013Ziv\u2013Welch", 
         "https://en.wikipedia.org/wiki/Compress", 
         "https://en.wikipedia.org/wiki/Terry_Welch", 
         "https://en.wikipedia.org/wiki/LZ77_and_LZ78", 
         "https://en.wikipedia.org/wiki/Lossless_compression"
-    ], 
-    "Abrams and Lloyd eigenvector algorithm": [
-        "https://en.wikipedia.org/wiki/Quantum_algorithm"
-    ], 
-    "The maximum common subgraph isomorphism problem may be computed with a modular product graph": [
-        "https://en.wikipedia.org/wiki/Maximum_common_subgraph_isomorphism_problem"
-    ], 
-    "Tarjan's off-line least common ancestors algorithm": [
-        "https://en.wikipedia.org/wiki/Tarjan's_off-line_lowest_common_ancestors_algorithm", 
-        "https://en.wikipedia.org/wiki/Lowest_common_ancestor", 
-        "https://en.wikipedia.org/wiki/Robert_Tarjan", 
-        "https://en.wikipedia.org/wiki/Widest_path_problem"
     ], 
     "Bresenham's line algorithm": [
         "https://en.wikipedia.org/wiki/Bresenham's_line_algorithm", 
@@ -908,17 +432,24 @@
         "https://en.wikipedia.org/wiki/Midpoint_circle_algorithm", 
         "https://en.wikipedia.org/wiki/Digital_differential_analyzer_(graphics_algorithm)"
     ], 
-    "Gauss-Jordan elimination": [
-        "https://en.wikipedia.org/wiki/Gaussian_elimination", 
-        "https://en.wikipedia.org/wiki/System_of_linear_equations"
+    "QR algorithm": [
+        "https://en.wikipedia.org/wiki/QR_algorithm", 
+        "https://en.wikipedia.org/wiki/QR_decomposition", 
+        "https://en.wikipedia.org/wiki/John_G._F._Francis", 
+        "https://en.wikipedia.org/wiki/Vera_Kublanovskaya", 
+        "https://en.wikipedia.org/wiki/Divide-and-conquer_eigenvalue_algorithm", 
+        "https://en.wikipedia.org/wiki/Jenkins\u2013Traub_algorithm", 
+        "https://en.wikipedia.org/wiki/Eigenvalue_algorithm"
     ], 
-    "Lamport ordering": [
-        "https://en.wikipedia.org/wiki/Lamport_timestamps", 
-        "https://en.wikipedia.org/wiki/Happened-before", 
-        "https://en.wikipedia.org/wiki/Vector_clock", 
-        "https://en.wikipedia.org/wiki/Logical_clock", 
-        "https://en.wikipedia.org/wiki/Leslie_Lamport", 
-        "https://en.wikipedia.org/wiki/Paxos_(computer_science)"
+    "Quadratic sieve": [
+        "https://en.wikipedia.org/wiki/Quadratic_sieve", 
+        "https://en.wikipedia.org/wiki/General_number_field_sieve", 
+        "https://en.wikipedia.org/wiki/Congruence_of_squares", 
+        "https://en.wikipedia.org/wiki/Rational_sieve", 
+        "https://en.wikipedia.org/wiki/Dixon's_factorization_method", 
+        "https://en.wikipedia.org/wiki/L-notation", 
+        "https://en.wikipedia.org/wiki/Sieve_of_Atkin", 
+        "https://en.wikipedia.org/wiki/Tonelli\u2013Shanks_algorithm"
     ], 
     "Simplex algorithm": [
         "https://en.wikipedia.org/wiki/Simplex_algorithm", 
@@ -930,26 +461,15 @@
         "https://en.wikipedia.org/wiki/Big_M_method", 
         "https://en.wikipedia.org/wiki/George_Dantzig"
     ], 
-    "Counting objects in an image": [
-        "https://en.wikipedia.org/wiki/Connected-component_labeling"
-    ], 
-    "Luhn": [
-        "https://en.wikipedia.org/wiki/Luhn_algorithm", 
-        "https://en.wikipedia.org/wiki/Hans_Peter_Luhn", 
-        "https://en.wikipedia.org/wiki/Luhn_mod_N_algorithm"
-    ], 
-    "Dixon's factorization method": [
-        "https://en.wikipedia.org/wiki/Dixon's_factorization_method", 
-        "https://en.wikipedia.org/wiki/Congruence_of_squares", 
-        "https://en.wikipedia.org/wiki/Quadratic_sieve", 
-        "https://en.wikipedia.org/wiki/Continued_fraction_factorization"
-    ], 
-    "Fourier transform multiplication": [
-        "https://en.wikipedia.org/wiki/Convolution_theorem", 
-        "https://en.wikipedia.org/wiki/Multiplication_algorithm", 
-        "https://en.wikipedia.org/wiki/Fourier_transform", 
-        "https://en.wikipedia.org/wiki/Discrete_Fourier_transform", 
-        "https://en.wikipedia.org/wiki/Sch\u00f6nhage\u2013Strassen_algorithm"
+    "Selection algorithm": [
+        "https://en.wikipedia.org/wiki/Selection_algorithm", 
+        "https://en.wikipedia.org/wiki/Quickselect", 
+        "https://en.wikipedia.org/wiki/Clonal_Selection_Algorithm", 
+        "https://en.wikipedia.org/wiki/Median_of_medians", 
+        "https://en.wikipedia.org/wiki/Selection_sort", 
+        "https://en.wikipedia.org/wiki/Floyd\u2013Rivest_algorithm", 
+        "https://en.wikipedia.org/wiki/Selection_(genetic_algorithm)", 
+        "https://en.wikipedia.org/wiki/Fitness_proportionate_selection"
     ], 
     "Pigeonhole sort": [
         "https://en.wikipedia.org/wiki/Pigeonhole_sort", 
@@ -966,21 +486,13 @@
         "https://en.wikipedia.org/wiki/Computational_group_theory", 
         "https://en.wikipedia.org/wiki/Base_(group_theory)"
     ], 
-    "Trial division": [
-        "https://en.wikipedia.org/wiki/Trial_division", 
-        "https://en.wikipedia.org/wiki/Prime_number"
-    ], 
-    "Longest common subsequence problem": [
-        "https://en.wikipedia.org/wiki/Longest_increasing_subsequence", 
-        "https://en.wikipedia.org/wiki/Hunt\u2013McIlroy_algorithm", 
-        "https://en.wikipedia.org/wiki/Dan_Hirschberg"
-    ], 
-    "Reference counting": [
-        "https://en.wikipedia.org/wiki/Reference_counting", 
-        "https://en.wikipedia.org/wiki/Tracing_garbage_collection"
-    ], 
-    "Deep Dense Face Detector": [
-        "https://en.wikipedia.org/wiki/Deep_learning"
+    "Index calculus algorithm": [
+        "https://en.wikipedia.org/wiki/Index_calculus_algorithm", 
+        "https://en.wikipedia.org/wiki/Discrete_logarithm_records", 
+        "https://en.wikipedia.org/wiki/Discrete_logarithm", 
+        "https://en.wikipedia.org/wiki/Pollard's_kangaroo_algorithm", 
+        "https://en.wikipedia.org/wiki/Factor_base", 
+        "https://en.wikipedia.org/wiki/Pollard's_rho_algorithm_for_logarithms"
     ], 
     "De Boor algorithm": [
         "https://en.wikipedia.org/wiki/De_Boor's_algorithm", 
@@ -990,16 +502,21 @@
         "https://en.wikipedia.org/wiki/Paul_de_Casteljau", 
         "https://en.wikipedia.org/wiki/Horner's_method"
     ], 
-    "Sieve of Atkin": [
-        "https://en.wikipedia.org/wiki/Sieve_of_Atkin", 
-        "https://en.wikipedia.org/wiki/A._O._L._Atkin", 
-        "https://en.wikipedia.org/wiki/Sieve_of_Sundaram", 
-        "https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes", 
-        "https://en.wikipedia.org/wiki/Generating_primes", 
-        "https://en.wikipedia.org/wiki/Wheel_factorization"
+    "Conjugate gradient method": [
+        "https://en.wikipedia.org/wiki/Conjugate_gradient_method", 
+        "https://en.wikipedia.org/wiki/Nonlinear_conjugate_gradient_method", 
+        "https://en.wikipedia.org/wiki/Biconjugate_gradient_method", 
+        "https://en.wikipedia.org/wiki/Conjugate_residual_method", 
+        "https://en.wikipedia.org/wiki/Gradient_descent", 
+        "https://en.wikipedia.org/wiki/Gradient_method"
     ], 
-    "Create bit mask": [
-        "https://en.wikipedia.org/wiki/Bit_manipulation"
+    "Special number field sieve": [
+        "https://en.wikipedia.org/wiki/Special_number_field_sieve", 
+        "https://en.wikipedia.org/wiki/General_number_field_sieve", 
+        "https://en.wikipedia.org/wiki/Rational_sieve", 
+        "https://en.wikipedia.org/wiki/Quadratic_sieve", 
+        "https://en.wikipedia.org/wiki/Discrete_logarithm", 
+        "https://en.wikipedia.org/wiki/Integer_factorization"
     ], 
     "Karatsuba multiplication": [
         "https://en.wikipedia.org/wiki/Karatsuba_algorithm", 
@@ -1010,9 +527,13 @@
         "https://en.wikipedia.org/wiki/F\u00fcrer's_algorithm", 
         "https://en.wikipedia.org/wiki/Ancient_Egyptian_multiplication"
     ], 
-    "Polygonization of implicit surfaces": [
-        "https://en.wikipedia.org/wiki/Surface_triangulation", 
-        "https://en.wikipedia.org/wiki/Point_cloud"
+    "Metropolis-Hastings": [
+        "https://en.wikipedia.org/wiki/Metropolis\u2013Hastings_algorithm", 
+        "https://en.wikipedia.org/wiki/W._K._Hastings", 
+        "https://en.wikipedia.org/wiki/Simulated_annealing", 
+        "https://en.wikipedia.org/wiki/Metropolis_light_transport", 
+        "https://en.wikipedia.org/wiki/Markov_chain_Monte_Carlo", 
+        "https://en.wikipedia.org/wiki/Gibbs_sampling"
     ], 
     "Introsort": [
         "https://en.wikipedia.org/wiki/Introsort", 
@@ -1024,10 +545,6 @@
         "https://en.wikipedia.org/wiki/Flashsort", 
         "https://en.wikipedia.org/wiki/Insertion_sort", 
         "https://en.wikipedia.org/wiki/Heapsort"
-    ], 
-    "Rice coding": [
-        "https://en.wikipedia.org/wiki/FELICS", 
-        "https://en.wikipedia.org/wiki/Prefix_code"
     ], 
     "Page replacement": [
         "https://en.wikipedia.org/wiki/Page_replacement_algorithm", 
@@ -1044,33 +561,12 @@
         "https://en.wikipedia.org/wiki/Ford\u2013Fulkerson_algorithm", 
         "https://en.wikipedia.org/wiki/Hopcroft\u2013Karp_algorithm"
     ], 
-    "Stemming": [
-        "https://en.wikipedia.org/wiki/Stemming", 
-        "https://en.wikipedia.org/wiki/Lemmatisation", 
-        "https://en.wikipedia.org/wiki/Snowball_(programming_language)"
-    ], 
     "Sieve of Eratosthenes": [
         "https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes", 
         "https://en.wikipedia.org/wiki/Generating_primes", 
         "https://en.wikipedia.org/wiki/Sieve_of_Sundaram", 
         "https://en.wikipedia.org/wiki/Sieve_of_Atkin", 
         "https://en.wikipedia.org/wiki/Wheel_factorization"
-    ], 
-    "Index calculus algorithm": [
-        "https://en.wikipedia.org/wiki/Index_calculus_algorithm", 
-        "https://en.wikipedia.org/wiki/Discrete_logarithm_records", 
-        "https://en.wikipedia.org/wiki/Discrete_logarithm", 
-        "https://en.wikipedia.org/wiki/Pollard's_kangaroo_algorithm", 
-        "https://en.wikipedia.org/wiki/Factor_base", 
-        "https://en.wikipedia.org/wiki/Pollard's_rho_algorithm_for_logarithms"
-    ], 
-    "Pancake sort": [
-        "https://en.wikipedia.org/wiki/Pancake_sorting", 
-        "https://en.wikipedia.org/wiki/Selection_sort", 
-        "https://en.wikipedia.org/wiki/Bogosort"
-    ], 
-    "GLR": [
-        "https://en.wikipedia.org/wiki/GLR_parser"
     ], 
     "Kahan summation": [
         "https://en.wikipedia.org/wiki/Kahan_summation_algorithm", 
@@ -1086,22 +582,6 @@
         "https://en.wikipedia.org/wiki/Vaughan_Pratt", 
         "https://en.wikipedia.org/wiki/Donald_Knuth", 
         "https://en.wikipedia.org/wiki/Rabin\u2013Karp_algorithm"
-    ], 
-    "Bruun's FFT": [
-        "https://en.wikipedia.org/wiki/Bruun's_FFT_algorithm", 
-        "https://en.wikipedia.org/wiki/Fast_Fourier_transform", 
-        "https://en.wikipedia.org/wiki/Discrete_Hartley_transform"
-    ], 
-    "Simulated annealing": [
-        "https://en.wikipedia.org/wiki/Simulated_annealing", 
-        "https://en.wikipedia.org/wiki/Adaptive_simulated_annealing", 
-        "https://en.wikipedia.org/wiki/Local_search_(constraint_satisfaction)", 
-        "https://en.wikipedia.org/wiki/Hill_climbing"
-    ], 
-    "Levenshtein distance (or edit distance)": [
-        "https://en.wikipedia.org/wiki/Wagner\u2013Fischer_algorithm", 
-        "https://en.wikipedia.org/wiki/String_metric", 
-        "https://en.wikipedia.org/wiki/Vladimir_Levenshtein"
     ], 
     "Pollard's rho algorithm for logarithms": [
         "https://en.wikipedia.org/wiki/Pollard's_rho_algorithm_for_logarithms", 
@@ -1122,10 +602,6 @@
         "https://en.wikipedia.org/wiki/Bruun's_FFT_algorithm", 
         "https://en.wikipedia.org/wiki/Split-radix_FFT_algorithm"
     ], 
-    "Paxos": [
-        "https://en.wikipedia.org/wiki/Paxos_(computer_science)", 
-        "https://en.wikipedia.org/wiki/Raft_(computer_science)"
-    ], 
     "Heapsort": [
         "https://en.wikipedia.org/wiki/Heapsort", 
         "https://en.wikipedia.org/wiki/Adaptive_heap_sort", 
@@ -1135,12 +611,6 @@
         "https://en.wikipedia.org/wiki/Tournament_sort", 
         "https://en.wikipedia.org/wiki/Comparison_sort"
     ], 
-    "Scanline rendering": [
-        "https://en.wikipedia.org/wiki/Scanline_rendering", 
-        "https://en.wikipedia.org/wiki/Scan_line", 
-        "https://en.wikipedia.org/wiki/Rasterisation", 
-        "https://en.wikipedia.org/wiki/Path_tracing"
-    ], 
     "Fast Fourier transform": [
         "https://en.wikipedia.org/wiki/Fast_Fourier_transform", 
         "https://en.wikipedia.org/wiki/Cooley\u2013Tukey_FFT_algorithm", 
@@ -1148,15 +618,6 @@
         "https://en.wikipedia.org/wiki/Cyclotomic_fast_Fourier_transform", 
         "https://en.wikipedia.org/wiki/Discrete_Fourier_transform", 
         "https://en.wikipedia.org/wiki/Prime-factor_FFT_algorithm"
-    ], 
-    "Lamport's Bakery algorithm": [
-        "https://en.wikipedia.org/wiki/Lamport's_bakery_algorithm", 
-        "https://en.wikipedia.org/wiki/Lamport's_distributed_mutual_exclusion_algorithm", 
-        "https://en.wikipedia.org/wiki/Leslie_Lamport", 
-        "https://en.wikipedia.org/wiki/Szyma\u0144ski's_algorithm", 
-        "https://en.wikipedia.org/wiki/Ricart\u2013Agrawala_algorithm", 
-        "https://en.wikipedia.org/wiki/Raymond's_algorithm", 
-        "https://en.wikipedia.org/wiki/Ticket_lock"
     ], 
     "Gnome sort": [
         "https://en.wikipedia.org/wiki/Gnome_sort", 
@@ -1188,11 +649,14 @@
         "https://en.wikipedia.org/wiki/Raita_Algorithm", 
         "https://en.wikipedia.org/wiki/Boyer\u2013Moore_string_search_algorithm"
     ], 
-    "List scheduling": [
-        "https://en.wikipedia.org/wiki/List_scheduling", 
-        "https://en.wikipedia.org/wiki/Heterogeneous_Earliest_Finish_Time", 
-        "https://en.wikipedia.org/wiki/Job_shop_scheduling", 
-        "https://en.wikipedia.org/wiki/Critical_path_method"
+    "Lamport's Bakery algorithm": [
+        "https://en.wikipedia.org/wiki/Lamport's_bakery_algorithm", 
+        "https://en.wikipedia.org/wiki/Lamport's_distributed_mutual_exclusion_algorithm", 
+        "https://en.wikipedia.org/wiki/Leslie_Lamport", 
+        "https://en.wikipedia.org/wiki/Szyma\u0144ski's_algorithm", 
+        "https://en.wikipedia.org/wiki/Ricart\u2013Agrawala_algorithm", 
+        "https://en.wikipedia.org/wiki/Raymond's_algorithm", 
+        "https://en.wikipedia.org/wiki/Ticket_lock"
     ], 
     "Fitness proportionate selection": [
         "https://en.wikipedia.org/wiki/Fitness_proportionate_selection", 
@@ -1210,38 +674,30 @@
         "https://en.wikipedia.org/wiki/Conjugate_gradient_method", 
         "https://en.wikipedia.org/wiki/Hill_climbing"
     ], 
-    "False position method": [
-        "https://en.wikipedia.org/wiki/Ridders'_method", 
-        "https://en.wikipedia.org/wiki/Secant_method", 
-        "https://en.wikipedia.org/wiki/Root-finding_algorithm"
+    "AKS primality test (Agrawal-Kayal-Saxena)": [
+        "https://en.wikipedia.org/wiki/AKS_primality_test", 
+        "https://en.wikipedia.org/wiki/Nitin_Saxena", 
+        "https://en.wikipedia.org/wiki/Neeraj_Kayal", 
+        "https://en.wikipedia.org/wiki/Primality_test", 
+        "https://en.wikipedia.org/wiki/G\u00f6del_Prize"
     ], 
-    "Boruvka": [
-        "https://en.wikipedia.org/wiki/Bor\u016fvka's_algorithm", 
-        "https://en.wikipedia.org/wiki/Expected_linear_time_MST_algorithm", 
-        "https://en.wikipedia.org/wiki/Kruskal's_algorithm", 
-        "https://en.wikipedia.org/wiki/Distributed_minimum_spanning_tree"
+    "Buchberger's algorithm": [
+        "https://en.wikipedia.org/wiki/Buchberger's_algorithm", 
+        "https://en.wikipedia.org/wiki/Gr\u00f6bner_basis", 
+        "https://en.wikipedia.org/wiki/Faug\u00e8re's_F4_and_F5_algorithms", 
+        "https://en.wikipedia.org/wiki/Buchberger", 
+        "https://en.wikipedia.org/wiki/Knuth\u2013Bendix_completion_algorithm", 
+        "https://en.wikipedia.org/wiki/Quine\u2013McCluskey_algorithm", 
+        "https://en.wikipedia.org/wiki/Syzygy_(mathematics)"
     ], 
-    "Run-length encoding": [
-        "https://en.wikipedia.org/wiki/Huffman_coding", 
-        "https://en.wikipedia.org/wiki/Adaptive_coding"
-    ], 
-    "Parity control": [
-        "https://en.wikipedia.org/wiki/Checksum", 
-        "https://en.wikipedia.org/wiki/Parity-check_matrix"
-    ], 
-    "Biconjugate gradient method": [
-        "https://en.wikipedia.org/wiki/Biconjugate_gradient_method", 
-        "https://en.wikipedia.org/wiki/Conjugate_gradient_method", 
-        "https://en.wikipedia.org/wiki/Gradient_method"
-    ], 
-    "Elias delta, gamma, omega coding": [
-        "https://en.wikipedia.org/wiki/Prefix_code"
-    ], 
-    "Todd-Coxeter algorithm": [
-        "https://en.wikipedia.org/wiki/Todd\u2013Coxeter_algorithm", 
-        "https://en.wikipedia.org/wiki/Coset_enumeration", 
-        "https://en.wikipedia.org/wiki/Word_problem_for_groups", 
-        "https://en.wikipedia.org/wiki/Computational_group_theory"
+    "Prime-factor FFT": [
+        "https://en.wikipedia.org/wiki/Prime-factor_FFT_algorithm", 
+        "https://en.wikipedia.org/wiki/Rader's_FFT_algorithm", 
+        "https://en.wikipedia.org/wiki/Cooley\u2013Tukey_FFT_algorithm", 
+        "https://en.wikipedia.org/wiki/Fast_Fourier_transform", 
+        "https://en.wikipedia.org/wiki/Twiddle_factor", 
+        "https://en.wikipedia.org/wiki/FFTW", 
+        "https://en.wikipedia.org/wiki/Discrete_Hartley_transform"
     ], 
     "Euclidean algorithm": [
         "https://en.wikipedia.org/wiki/Euclidean_algorithm", 
@@ -1279,17 +735,6 @@
         "https://en.wikipedia.org/wiki/Raita_Algorithm", 
         "https://en.wikipedia.org/wiki/Commentz-Walter_algorithm"
     ], 
-    "Burrows-Wheeler transform": [
-        "https://en.wikipedia.org/wiki/Burrows\u2013Wheeler_transform", 
-        "https://en.wikipedia.org/wiki/Move-to-front_transform", 
-        "https://en.wikipedia.org/wiki/Bzip2"
-    ], 
-    "Truncated binary": [
-        "https://en.wikipedia.org/wiki/Exponential_backoff"
-    ], 
-    "Gauss-Legendre": [
-        "https://en.wikipedia.org/wiki/Gauss\u2013Legendre_algorithm"
-    ], 
     "A* tree search": [
         "https://en.wikipedia.org/wiki/A*_search_algorithm", 
         "https://en.wikipedia.org/wiki/Tree_traversal", 
@@ -1297,68 +742,13 @@
         "https://en.wikipedia.org/wiki/Monte_Carlo_tree_search", 
         "https://en.wikipedia.org/wiki/Breadth-first_search"
     ], 
-    "Xor swap": [
-        "https://en.wikipedia.org/wiki/XOR_swap_algorithm"
-    ], 
-    "Huffman coding": [
-        "https://en.wikipedia.org/wiki/Huffman_coding", 
-        "https://en.wikipedia.org/wiki/Canonical_Huffman_code", 
-        "https://en.wikipedia.org/wiki/Prefix_code", 
-        "https://en.wikipedia.org/wiki/DEFLATE"
-    ], 
-    "Binary GCD algorithm": [
-        "https://en.wikipedia.org/wiki/Binary_GCD_algorithm", 
-        "https://en.wikipedia.org/wiki/Euclidean_algorithm", 
-        "https://en.wikipedia.org/wiki/Lehmer's_GCD_algorithm", 
-        "https://en.wikipedia.org/wiki/Computational_complexity_of_mathematical_operations"
-    ], 
-    "Ford-Fulkerson": [
-        "https://en.wikipedia.org/wiki/Ford\u2013Fulkerson_algorithm", 
-        "https://en.wikipedia.org/wiki/Edmonds\u2013Karp_algorithm", 
-        "https://en.wikipedia.org/wiki/D._R._Fulkerson", 
-        "https://en.wikipedia.org/wiki/L._R._Ford,_Jr.", 
-        "https://en.wikipedia.org/wiki/Dinic's_algorithm", 
-        "https://en.wikipedia.org/wiki/Fulkerson"
-    ], 
-    "Snapshot": [
-        "https://en.wikipedia.org/wiki/Snapshot_algorithm"
-    ], 
-    "Ray Plane intersection": [
-        "https://en.wikipedia.org/wiki/M\u00f6ller\u2013Trumbore_intersection_algorithm", 
-        "https://en.wikipedia.org/wiki/Intersection_of_a_polyhedron_with_a_line"
-    ], 
-    "Hash table": [
-        "https://en.wikipedia.org/wiki/Linear_hashing", 
-        "https://en.wikipedia.org/wiki/Open_addressing", 
-        "https://en.wikipedia.org/wiki/Coalesced_hashing", 
-        "https://en.wikipedia.org/wiki/Quadratic_probing"
-    ], 
-    "Packrat parser": [
-        "https://en.wikipedia.org/wiki/Parsing_expression_grammar", 
-        "https://en.wikipedia.org/wiki/Memoization"
-    ], 
-    "Rounding functions": [
-        "https://en.wikipedia.org/wiki/Quantization_(signal_processing)", 
-        "https://en.wikipedia.org/wiki/Gal's_accurate_tables"
-    ], 
-    "Smith-Waterman": [
-        "https://en.wikipedia.org/wiki/Smith\u2013Waterman_algorithm", 
-        "https://en.wikipedia.org/wiki/Temple_F._Smith", 
-        "https://en.wikipedia.org/wiki/Michael_Waterman", 
-        "https://en.wikipedia.org/wiki/BLAST", 
-        "https://en.wikipedia.org/wiki/Gap_penalty"
-    ], 
-    "Pollard's rho": [
-        "https://en.wikipedia.org/wiki/Pollard's_rho_algorithm", 
-        "https://en.wikipedia.org/wiki/Pollard's_rho_algorithm_for_logarithms", 
-        "https://en.wikipedia.org/wiki/Pollard's_p_\u2212_1_algorithm", 
-        "https://en.wikipedia.org/wiki/Pollard's_kangaroo_algorithm", 
-        "https://en.wikipedia.org/wiki/Cycle_detection", 
-        "https://en.wikipedia.org/wiki/MD5CRK", 
-        "https://en.wikipedia.org/wiki/Pohlig\u2013Hellman_algorithm"
-    ], 
-    "Buddy memory allocation": [
-        "https://en.wikipedia.org/wiki/Buddy_memory_allocation"
+    "CYK (Cocke-Younger-Kasami)": [
+        "https://en.wikipedia.org/wiki/CYK_algorithm", 
+        "https://en.wikipedia.org/wiki/Stochastic_context-free_grammar", 
+        "https://en.wikipedia.org/wiki/Timeline_of_algorithms", 
+        "https://en.wikipedia.org/wiki/Tadao_Kasami", 
+        "https://en.wikipedia.org/wiki/Memoization", 
+        "https://en.wikipedia.org/wiki/Dynamic_programming"
     ], 
     "MD5": [
         "https://en.wikipedia.org/wiki/MD5", 
@@ -1378,72 +768,13 @@
         "https://en.wikipedia.org/wiki/Divide_and_conquer_algorithms", 
         "https://en.wikipedia.org/wiki/Optimal_binary_search_tree"
     ], 
-    "Disjoint-set data structure and algorithm": [
-        "https://en.wikipedia.org/wiki/Kruskal's_algorithm", 
-        "https://en.wikipedia.org/wiki/Partition_refinement", 
-        "https://en.wikipedia.org/wiki/Tarjan's_off-line_lowest_common_ancestors_algorithm", 
-        "https://en.wikipedia.org/wiki/Connected-component_labeling"
-    ], 
-    "Blakley's secret sharing scheme": [
-        "https://en.wikipedia.org/wiki/Shamir's_Secret_Sharing"
-    ], 
-    "Gram-Schmidt process": [
-        "https://en.wikipedia.org/wiki/QR_decomposition", 
-        "https://en.wikipedia.org/wiki/Orthogonalization", 
-        "https://en.wikipedia.org/wiki/Arnoldi_iteration"
-    ], 
-    "Hypertext Induced Topic Selection (HITS, patent in 1997)": [
-        "https://en.wikipedia.org/wiki/HITS_algorithm"
-    ], 
-    "Bogosort": [
-        "https://en.wikipedia.org/wiki/Bogosort", 
-        "https://en.wikipedia.org/wiki/Gnome_sort"
-    ], 
-    "Inside-outside": [
-        "https://en.wikipedia.org/wiki/Inside\u2013outside_algorithm"
-    ], 
-    "Multiplicative Weights": [
-        "https://en.wikipedia.org/wiki/Winnow_(algorithm)", 
-        "https://en.wikipedia.org/wiki/Geometric_Set_Cover_Problem", 
-        "https://en.wikipedia.org/wiki/Oja's_rule"
-    ], 
-    "Borwein's algorithm": [
-        "https://en.wikipedia.org/wiki/Borwein's_algorithm", 
-        "https://en.wikipedia.org/wiki/Bailey\u2013Borwein\u2013Plouffe_formula", 
-        "https://en.wikipedia.org/wiki/Peter_Borwein", 
-        "https://en.wikipedia.org/wiki/Gauss\u2013Legendre_algorithm"
-    ], 
-    "Goertzel algorithm": [
-        "https://en.wikipedia.org/wiki/Goertzel_algorithm", 
-        "https://en.wikipedia.org/wiki/Gerald_Goertzel"
-    ], 
-    "Sentiment analysis": [
-        "https://en.wikipedia.org/wiki/News_analytics"
-    ], 
-    "Shamir's secret sharing scheme": [
-        "https://en.wikipedia.org/wiki/Shamir's_Secret_Sharing", 
-        "https://en.wikipedia.org/wiki/Adi_Shamir", 
-        "https://en.wikipedia.org/wiki/Homomorphic_secret_sharing"
-    ], 
-    "Buchberger's algorithm": [
-        "https://en.wikipedia.org/wiki/Buchberger's_algorithm", 
-        "https://en.wikipedia.org/wiki/Gr\u00f6bner_basis", 
-        "https://en.wikipedia.org/wiki/Faug\u00e8re's_F4_and_F5_algorithms", 
-        "https://en.wikipedia.org/wiki/Buchberger", 
-        "https://en.wikipedia.org/wiki/Knuth\u2013Bendix_completion_algorithm", 
-        "https://en.wikipedia.org/wiki/Quine\u2013McCluskey_algorithm", 
-        "https://en.wikipedia.org/wiki/Syzygy_(mathematics)"
-    ], 
-    "Transform coding": [
-        "https://en.wikipedia.org/wiki/Vector_quantization", 
-        "https://en.wikipedia.org/wiki/Adaptive_Transform_Acoustic_Coding", 
-        "https://en.wikipedia.org/wiki/Lossless_Transform_Audio_Compression", 
-        "https://en.wikipedia.org/wiki/Anil_K._Jain_(electrical_engineer,_born_1946)"
-    ], 
-    "Longest increasing subsequence problem": [
-        "https://en.wikipedia.org/wiki/Longest_increasing_subsequence", 
-        "https://en.wikipedia.org/wiki/Patience_sorting", 
-        "https://en.wikipedia.org/wiki/Optimal_substructure"
+    "Ford-Fulkerson": [
+        "https://en.wikipedia.org/wiki/Ford\u2013Fulkerson_algorithm", 
+        "https://en.wikipedia.org/wiki/Edmonds\u2013Karp_algorithm", 
+        "https://en.wikipedia.org/wiki/D._R._Fulkerson", 
+        "https://en.wikipedia.org/wiki/L._R._Ford,_Jr.", 
+        "https://en.wikipedia.org/wiki/Dinic's_algorithm", 
+        "https://en.wikipedia.org/wiki/Fulkerson"
     ], 
     "Bubble sort": [
         "https://en.wikipedia.org/wiki/Bubble_sort", 
@@ -1451,30 +782,6 @@
         "https://en.wikipedia.org/wiki/Sorting_algorithm", 
         "https://en.wikipedia.org/wiki/Comb_sort", 
         "https://en.wikipedia.org/wiki/Odd\u2013even_sort"
-    ], 
-    "Prime-factor FFT": [
-        "https://en.wikipedia.org/wiki/Prime-factor_FFT_algorithm", 
-        "https://en.wikipedia.org/wiki/Rader's_FFT_algorithm", 
-        "https://en.wikipedia.org/wiki/Cooley\u2013Tukey_FFT_algorithm", 
-        "https://en.wikipedia.org/wiki/Fast_Fourier_transform", 
-        "https://en.wikipedia.org/wiki/Twiddle_factor", 
-        "https://en.wikipedia.org/wiki/FFTW", 
-        "https://en.wikipedia.org/wiki/Discrete_Hartley_transform"
-    ], 
-    "Dijkstra's shunting yard algorithm is commonly used to implement operator precedence parsers which convert from infix notation to Reverse Polish notation (RPN)": [
-        "https://en.wikipedia.org/wiki/Operator-precedence_parser", 
-        "https://en.wikipedia.org/wiki/Shunting-yard_algorithm", 
-        "https://en.wikipedia.org/wiki/Reverse_Polish_notation"
-    ], 
-    "Selection algorithm": [
-        "https://en.wikipedia.org/wiki/Selection_algorithm", 
-        "https://en.wikipedia.org/wiki/Quickselect", 
-        "https://en.wikipedia.org/wiki/Clonal_Selection_Algorithm", 
-        "https://en.wikipedia.org/wiki/Median_of_medians", 
-        "https://en.wikipedia.org/wiki/Selection_sort", 
-        "https://en.wikipedia.org/wiki/Floyd\u2013Rivest_algorithm", 
-        "https://en.wikipedia.org/wiki/Selection_(genetic_algorithm)", 
-        "https://en.wikipedia.org/wiki/Fitness_proportionate_selection"
     ], 
     "Diffie-Hellman (Merkle) key exchange (or exponential key exchange)": [
         "https://en.wikipedia.org/wiki/Diffie\u2013Hellman_key_exchange", 
@@ -1506,14 +813,6 @@
         "https://en.wikipedia.org/wiki/Cryptography_standards", 
         "https://en.wikipedia.org/wiki/Public-key_cryptography"
     ], 
-    "Vector quantization": [
-        "https://en.wikipedia.org/wiki/Vector_quantization", 
-        "https://en.wikipedia.org/wiki/Learning_vector_quantization", 
-        "https://en.wikipedia.org/wiki/Linde\u2013Buzo\u2013Gray_algorithm", 
-        "https://en.wikipedia.org/wiki/Quantization_(signal_processing)", 
-        "https://en.wikipedia.org/wiki/Lloyd's_algorithm", 
-        "https://en.wikipedia.org/wiki/K-means_clustering"
-    ], 
     "Quicksort": [
         "https://en.wikipedia.org/wiki/Quicksort", 
         "https://en.wikipedia.org/wiki/Multi-key_quicksort", 
@@ -1523,14 +822,6 @@
         "https://en.wikipedia.org/wiki/Burstsort", 
         "https://en.wikipedia.org/wiki/Tony_Hoare"
     ], 
-    "Jacobi method": [
-        "https://en.wikipedia.org/wiki/Jacobi_method", 
-        "https://en.wikipedia.org/wiki/Jacobi_eigenvalue_algorithm"
-    ], 
-    "Stochastic sort": [
-        "https://en.wikipedia.org/wiki/Algorithmic_composition", 
-        "https://en.wikipedia.org/wiki/Selection_(genetic_algorithm)"
-    ], 
     "Fair-share scheduling": [
         "https://en.wikipedia.org/wiki/Fair-share_scheduling", 
         "https://en.wikipedia.org/wiki/Max-min_fairness", 
@@ -1539,54 +830,14 @@
         "https://en.wikipedia.org/wiki/Multilevel_feedback_queue", 
         "https://en.wikipedia.org/wiki/Multilevel_queue"
     ], 
-    "Bisection": [
-        "https://en.wikipedia.org/wiki/Bisection_bandwidth", 
-        "https://en.wikipedia.org/wiki/Root-finding_algorithm", 
-        "https://en.wikipedia.org/wiki/Binary_search_algorithm"
-    ], 
-    "Painter's algorithm": [
-        "https://en.wikipedia.org/wiki/Painter's_algorithm", 
-        "https://en.wikipedia.org/wiki/Newell's_algorithm", 
-        "https://en.wikipedia.org/wiki/Z-buffering", 
-        "https://en.wikipedia.org/wiki/Scanline_rendering"
-    ], 
-    "Nonblocking Minimal Spanning Switch": [
-        "https://en.wikipedia.org/wiki/Non-blocking_algorithm"
-    ], 
-    "General number field sieve (GNS)": [
-        "https://en.wikipedia.org/wiki/General_number_field_sieve", 
-        "https://en.wikipedia.org/wiki/Quadratic_sieve"
-    ], 
-    "PSO, Particle swarm optimization": [
-        "https://en.wikipedia.org/wiki/Particle_swarm_optimization", 
-        "https://en.wikipedia.org/wiki/Swarm_intelligence", 
-        "https://en.wikipedia.org/wiki/James_Kennedy_(social_psychologist)", 
-        "https://en.wikipedia.org/wiki/Firefly_algorithm", 
-        "https://en.wikipedia.org/wiki/Crystal_structure_prediction"
-    ], 
-    "Canonical LR parser or LR(1) parser": [
-        "https://en.wikipedia.org/wiki/LR_parser", 
-        "https://en.wikipedia.org/wiki/LALR_parser_generator", 
-        "https://en.wikipedia.org/wiki/LALR_parser", 
-        "https://en.wikipedia.org/wiki/Simple_LR_parser"
-    ], 
-    "Entropy encoding": [
-        "https://en.wikipedia.org/wiki/Context-adaptive_binary_arithmetic_coding", 
-        "https://en.wikipedia.org/wiki/Huffman_coding", 
-        "https://en.wikipedia.org/wiki/Adaptive_coding"
-    ], 
-    "Interpolation": [
-        "https://en.wikipedia.org/wiki/Bicubic_interpolation"
-    ], 
-    "Prim's": [
-        "https://en.wikipedia.org/wiki/Prim's_algorithm", 
-        "https://en.wikipedia.org/wiki/Maze_generation_algorithm", 
-        "https://en.wikipedia.org/wiki/Robert_C._Prim"
-    ], 
-    "Linear predictive coding": [
-        "https://en.wikipedia.org/wiki/Code-excited_linear_prediction", 
-        "https://en.wikipedia.org/wiki/Harmonic_Vector_Excitation_Coding", 
-        "https://en.wikipedia.org/wiki/FS-1015"
+    "Nearest neighbour": [
+        "https://en.wikipedia.org/wiki/Nearest_neighbour_algorithm", 
+        "https://en.wikipedia.org/wiki/Nearest_neighbor", 
+        "https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm", 
+        "https://en.wikipedia.org/wiki/Nearest-neighbor_interpolation", 
+        "https://en.wikipedia.org/wiki/Nearest_neighbor_graph", 
+        "https://en.wikipedia.org/wiki/Large_margin_nearest_neighbor", 
+        "https://en.wikipedia.org/wiki/Nearest-neighbor_chain_algorithm"
     ], 
     "Local search": [
         "https://en.wikipedia.org/wiki/Local_search_(optimization)", 
@@ -1594,15 +845,6 @@
         "https://en.wikipedia.org/wiki/Guided_Local_Search", 
         "https://en.wikipedia.org/wiki/Taganode_Local_Search_Engine", 
         "https://en.wikipedia.org/wiki/Tabu_search"
-    ], 
-    "PAVA (Pool-Adjacent-Violators Algorithm)": [
-        "https://en.wikipedia.org/wiki/Isotonic_regression"
-    ], 
-    "Adaptive Huffman coding": [
-        "https://en.wikipedia.org/wiki/Huffman_coding", 
-        "https://en.wikipedia.org/wiki/Adaptive_coding", 
-        "https://en.wikipedia.org/wiki/Newton_Faller", 
-        "https://en.wikipedia.org/wiki/Adaptive_algorithm"
     ], 
     "LZ77 and 78": [
         "https://en.wikipedia.org/wiki/LZ77_and_LZ78", 
@@ -1613,17 +855,13 @@
         "https://en.wikipedia.org/wiki/Abraham_Lempel", 
         "https://en.wikipedia.org/wiki/Liblzg"
     ], 
-    "Ray tracing": [
-        "https://en.wikipedia.org/wiki/Wolfenstein:_Ray_Traced", 
-        "https://en.wikipedia.org/wiki/Quake_Wars:_Ray_Traced"
-    ], 
-    "Kruskal": [
-        "https://en.wikipedia.org/wiki/Kruskal's_algorithm", 
-        "https://en.wikipedia.org/wiki/Joseph_Kruskal", 
-        "https://en.wikipedia.org/wiki/Clyde_Kruskal"
-    ], 
-    "Max-Plus": [
-        "https://en.wikipedia.org/wiki/Alpha_max_plus_beta_min_algorithm"
+    "Vector quantization": [
+        "https://en.wikipedia.org/wiki/Vector_quantization", 
+        "https://en.wikipedia.org/wiki/Learning_vector_quantization", 
+        "https://en.wikipedia.org/wiki/Linde\u2013Buzo\u2013Gray_algorithm", 
+        "https://en.wikipedia.org/wiki/Quantization_(signal_processing)", 
+        "https://en.wikipedia.org/wiki/Lloyd's_algorithm", 
+        "https://en.wikipedia.org/wiki/K-means_clustering"
     ], 
     "Extended Euclidean algorithm": [
         "https://en.wikipedia.org/wiki/Extended_Euclidean_algorithm", 
@@ -1641,12 +879,12 @@
         "https://en.wikipedia.org/wiki/Zlib", 
         "https://en.wikipedia.org/wiki/AdvanceCOMP"
     ], 
-    "Cyclic redundancy check": [
-        "https://en.wikipedia.org/wiki/Cyclic_redundancy_check", 
-        "https://en.wikipedia.org/wiki/Computation_of_cyclic_redundancy_checks"
-    ], 
-    "Triangulation": [
-        "https://en.wikipedia.org/wiki/Triangulation_(geometry)"
+    "Fermat's factorization method": [
+        "https://en.wikipedia.org/wiki/Euler's_factorization_method", 
+        "https://en.wikipedia.org/wiki/Integer_factorization", 
+        "https://en.wikipedia.org/wiki/Shanks'_square_forms_factorization", 
+        "https://en.wikipedia.org/wiki/Dixon's_factorization_method", 
+        "https://en.wikipedia.org/wiki/Quadratic_sieve"
     ], 
     "Dijkstra's algorithm": [
         "https://en.wikipedia.org/wiki/Dijkstra's_algorithm", 
@@ -1658,16 +896,19 @@
         "https://en.wikipedia.org/wiki/Dijkstra\u2013Scholten_algorithm", 
         "https://en.wikipedia.org/wiki/Suurballe's_algorithm"
     ], 
-    "Shannon-Fano coding": [
-        "https://en.wikipedia.org/wiki/Huffman_coding"
+    "Splay tree": [
+        "https://en.wikipedia.org/wiki/Splay_tree", 
+        "https://en.wikipedia.org/wiki/Splaysort", 
+        "https://en.wikipedia.org/wiki/Optimal_binary_search_tree", 
+        "https://en.wikipedia.org/wiki/Daniel_Sleator", 
+        "https://en.wikipedia.org/wiki/Geometry_of_binary_search_trees"
     ], 
-    "Powerset construction": [
-        "https://en.wikipedia.org/wiki/Nondeterministic_finite_automaton", 
-        "https://en.wikipedia.org/wiki/Automata_construction", 
-        "https://en.wikipedia.org/wiki/Thompson's_construction_algorithm"
-    ], 
-    "Almost Linear Max Flow": [
-        "https://en.wikipedia.org/wiki/Widest_path_problem"
+    "Floyd-Warshall": [
+        "https://en.wikipedia.org/wiki/Floyd\u2013Warshall_algorithm", 
+        "https://en.wikipedia.org/wiki/Robert_W._Floyd", 
+        "https://en.wikipedia.org/wiki/Widest_path_problem", 
+        "https://en.wikipedia.org/wiki/Johnson's_algorithm", 
+        "https://en.wikipedia.org/wiki/Bellman\u2013Ford_algorithm"
     ], 
     "Needleman-Wunsch": [
         "https://en.wikipedia.org/wiki/Needleman\u2013Wunsch_algorithm", 
@@ -1676,9 +917,6 @@
         "https://en.wikipedia.org/wiki/Optimal_matching", 
         "https://en.wikipedia.org/wiki/Gap_penalty", 
         "https://en.wikipedia.org/wiki/Wagner\u2013Fischer_algorithm"
-    ], 
-    "Graph canonization": [
-        "https://en.wikipedia.org/wiki/Logic_of_graphs"
     ], 
     "Floyd's cycle-finding": [
         "https://en.wikipedia.org/wiki/Cycle_detection", 
@@ -1689,12 +927,13 @@
         "https://en.wikipedia.org/wiki/Pollard's_rho_algorithm_for_logarithms", 
         "https://en.wikipedia.org/wiki/Bellman\u2013Ford_algorithm"
     ], 
-    "Richardson-Lucy deconvolution": [
-        "https://en.wikipedia.org/wiki/Richardson\u2013Lucy_deconvolution", 
-        "https://en.wikipedia.org/wiki/Deconvolution"
-    ], 
-    "Blowfish": [
-        "https://en.wikipedia.org/wiki/Blowfish_(cipher)"
+    "Soundex": [
+        "https://en.wikipedia.org/wiki/Soundex", 
+        "https://en.wikipedia.org/wiki/Daitch\u2013Mokotoff_Soundex", 
+        "https://en.wikipedia.org/wiki/Phonetic_algorithm", 
+        "https://en.wikipedia.org/wiki/Metaphone", 
+        "https://en.wikipedia.org/wiki/New_York_State_Identification_and_Intelligence_System", 
+        "https://en.wikipedia.org/wiki/Rhyme_Genie"
     ], 
     "Insertion sort": [
         "https://en.wikipedia.org/wiki/Insertion_sort", 
@@ -1706,21 +945,6 @@
         "https://en.wikipedia.org/wiki/Library_sort", 
         "https://en.wikipedia.org/wiki/Introsort"
     ], 
-    "Shortest job next (or first)": [
-        "https://en.wikipedia.org/wiki/Shortest_job_next", 
-        "https://en.wikipedia.org/wiki/Shortest_remaining_time", 
-        "https://en.wikipedia.org/wiki/Round-robin_scheduling"
-    ], 
-    "LZO": [
-        "https://en.wikipedia.org/wiki/Lempel\u2013Ziv\u2013Oberhumer", 
-        "https://en.wikipedia.org/wiki/LZO", 
-        "https://en.wikipedia.org/wiki/LZ4_(compression_algorithm)"
-    ], 
-    "Mu-law algorithm": [
-        "https://en.wikipedia.org/wiki/\u039c-law_algorithm", 
-        "https://en.wikipedia.org/wiki/A-law_algorithm", 
-        "https://en.wikipedia.org/wiki/Pulse-code_modulation"
-    ], 
     "Binary tree sort": [
         "https://en.wikipedia.org/wiki/Tree_sort", 
         "https://en.wikipedia.org/wiki/Sorting_algorithm", 
@@ -1728,11 +952,12 @@
         "https://en.wikipedia.org/wiki/Heapsort", 
         "https://en.wikipedia.org/wiki/AVL_tree"
     ], 
-    "Hopcroft\u2013Karp algorithm": [
-        "https://en.wikipedia.org/wiki/Hopcroft\u2013Karp_algorithm", 
-        "https://en.wikipedia.org/wiki/Richard_M._Karp", 
-        "https://en.wikipedia.org/wiki/Dinic's_algorithm", 
-        "https://en.wikipedia.org/wiki/Edmonds\u2013Karp_algorithm"
+    "Smith-Waterman": [
+        "https://en.wikipedia.org/wiki/Smith\u2013Waterman_algorithm", 
+        "https://en.wikipedia.org/wiki/Temple_F._Smith", 
+        "https://en.wikipedia.org/wiki/Michael_Waterman", 
+        "https://en.wikipedia.org/wiki/BLAST", 
+        "https://en.wikipedia.org/wiki/Gap_penalty"
     ], 
     "De Casteljau's algorithm": [
         "https://en.wikipedia.org/wiki/De_Casteljau's_algorithm", 
@@ -1742,46 +967,12 @@
         "https://en.wikipedia.org/wiki/Bernstein_polynomial", 
         "https://en.wikipedia.org/wiki/Clenshaw_algorithm"
     ], 
-    "Quadratic sieve": [
-        "https://en.wikipedia.org/wiki/Quadratic_sieve", 
-        "https://en.wikipedia.org/wiki/General_number_field_sieve", 
-        "https://en.wikipedia.org/wiki/Congruence_of_squares", 
-        "https://en.wikipedia.org/wiki/Rational_sieve", 
-        "https://en.wikipedia.org/wiki/Dixon's_factorization_method", 
-        "https://en.wikipedia.org/wiki/L-notation", 
-        "https://en.wikipedia.org/wiki/Sieve_of_Atkin", 
-        "https://en.wikipedia.org/wiki/Tonelli\u2013Shanks_algorithm"
-    ], 
-    "Fibonacci coding": [
-        "https://en.wikipedia.org/wiki/Fibonacci_number", 
-        "https://en.wikipedia.org/wiki/Zeckendorf's_theorem"
-    ], 
-    "Line segment intersection": [
-        "https://en.wikipedia.org/wiki/Line_segment_intersection", 
-        "https://en.wikipedia.org/wiki/Bentley\u2013Ottmann_algorithm", 
-        "https://en.wikipedia.org/wiki/Sweep_line_algorithm"
-    ], 
-    "Soundex": [
-        "https://en.wikipedia.org/wiki/Soundex", 
-        "https://en.wikipedia.org/wiki/Daitch\u2013Mokotoff_Soundex", 
-        "https://en.wikipedia.org/wiki/Phonetic_algorithm", 
-        "https://en.wikipedia.org/wiki/Metaphone", 
-        "https://en.wikipedia.org/wiki/New_York_State_Identification_and_Intelligence_System", 
-        "https://en.wikipedia.org/wiki/Rhyme_Genie"
-    ], 
     "Linear congruential generator": [
         "https://en.wikipedia.org/wiki/Linear_congruential_generator", 
         "https://en.wikipedia.org/wiki/Combined_Linear_Congruential_Generator", 
         "https://en.wikipedia.org/wiki/Full_cycle", 
         "https://en.wikipedia.org/wiki/Pseudorandom_number_generator", 
         "https://en.wikipedia.org/wiki/Lagged_Fibonacci_generator"
-    ], 
-    "Flood fill": [
-        "https://en.wikipedia.org/wiki/Flood_fill"
-    ], 
-    "Marzullo": [
-        "https://en.wikipedia.org/wiki/Marzullo's_algorithm", 
-        "https://en.wikipedia.org/wiki/Keith_Marzullo"
     ], 
     "Aho-Corasick": [
         "https://en.wikipedia.org/wiki/Aho\u2013Corasick_algorithm", 
@@ -1816,46 +1007,13 @@
         "https://en.wikipedia.org/wiki/Comparison_sort", 
         "https://en.wikipedia.org/wiki/Heapsort"
     ], 
-    "CYK (Cocke-Younger-Kasami)": [
-        "https://en.wikipedia.org/wiki/CYK_algorithm", 
-        "https://en.wikipedia.org/wiki/Stochastic_context-free_grammar", 
-        "https://en.wikipedia.org/wiki/Timeline_of_algorithms", 
-        "https://en.wikipedia.org/wiki/Tadao_Kasami", 
-        "https://en.wikipedia.org/wiki/Memoization", 
-        "https://en.wikipedia.org/wiki/Dynamic_programming"
-    ], 
-    "Fermat primality test": [
-        "https://en.wikipedia.org/wiki/Primality_test", 
-        "https://en.wikipedia.org/wiki/Miller\u2013Rabin_primality_test", 
-        "https://en.wikipedia.org/wiki/Baillie\u2013PSW_primality_test"
-    ], 
-    "AKS primality test (Agrawal-Kayal-Saxena)": [
-        "https://en.wikipedia.org/wiki/AKS_primality_test", 
-        "https://en.wikipedia.org/wiki/Nitin_Saxena", 
-        "https://en.wikipedia.org/wiki/Neeraj_Kayal", 
-        "https://en.wikipedia.org/wiki/Primality_test", 
-        "https://en.wikipedia.org/wiki/G\u00f6del_Prize"
-    ], 
-    "Random-restart hill climbing": [
-        "https://en.wikipedia.org/wiki/Hill_climbing", 
-        "https://en.wikipedia.org/wiki/Simulated_annealing", 
-        "https://en.wikipedia.org/wiki/Eagle_strategy", 
-        "https://en.wikipedia.org/wiki/Local_search_(optimization)"
-    ], 
-    "Shifting nth-root": [
-        "https://en.wikipedia.org/wiki/Shifting_nth_root_algorithm", 
-        "https://en.wikipedia.org/wiki/Methods_of_computing_square_roots"
-    ], 
-    "Linear feedback shift register": [
-        "https://en.wikipedia.org/wiki/Nonlinear_feedback_shift_register", 
-        "https://en.wikipedia.org/wiki/Feedback_with_Carry_Shift_Registers", 
-        "https://en.wikipedia.org/wiki/Berlekamp\u2013Massey_algorithm"
-    ], 
-    "SLR (Simple LR) parser": [
-        "https://en.wikipedia.org/wiki/Simple_LR_parser", 
-        "https://en.wikipedia.org/wiki/LR_parser", 
-        "https://en.wikipedia.org/wiki/LALR_parser", 
-        "https://en.wikipedia.org/wiki/LALR_parser_generator"
+    "Inverse iteration": [
+        "https://en.wikipedia.org/wiki/Inverse_iteration", 
+        "https://en.wikipedia.org/wiki/Rayleigh_quotient_iteration", 
+        "https://en.wikipedia.org/wiki/Power_iteration", 
+        "https://en.wikipedia.org/wiki/Eigenvalue_algorithm", 
+        "https://en.wikipedia.org/wiki/Iterative_reconstruction", 
+        "https://en.wikipedia.org/wiki/Landweber_iteration"
     ], 
     "Counting sort": [
         "https://en.wikipedia.org/wiki/Counting_sort", 
@@ -1866,9 +1024,6 @@
         "https://en.wikipedia.org/wiki/Integer_sorting", 
         "https://en.wikipedia.org/wiki/Radix_sort", 
         "https://en.wikipedia.org/wiki/Comparison_sort"
-    ], 
-    "Line Triangle intersection": [
-        "https://en.wikipedia.org/wiki/M\u00f6ller\u2013Trumbore_intersection_algorithm"
     ], 
     "Newton's method": [
         "https://en.wikipedia.org/wiki/Newton's_method", 
@@ -1885,18 +1040,12 @@
         "https://en.wikipedia.org/wiki/Simon's_problem", 
         "https://en.wikipedia.org/wiki/Grover's_algorithm"
     ], 
-    "Range encoding": [
-        "https://en.wikipedia.org/wiki/Lempel\u2013Ziv\u2013Markov_chain_algorithm", 
-        "https://en.wikipedia.org/wiki/Context-adaptive_binary_arithmetic_coding"
-    ], 
-    "Gauss-Newton": [
-        "https://en.wikipedia.org/wiki/Gauss\u2013Newton_algorithm", 
-        "https://en.wikipedia.org/wiki/Levenberg\u2013Marquardt_algorithm"
-    ], 
-    "Multivariate division": [
-        "https://en.wikipedia.org/wiki/Multivariate_division_algorithm", 
-        "https://en.wikipedia.org/wiki/Polynomial_greatest_common_divisor", 
-        "https://en.wikipedia.org/wiki/Buchberger's_algorithm"
+    "Fourier transform multiplication": [
+        "https://en.wikipedia.org/wiki/Convolution_theorem", 
+        "https://en.wikipedia.org/wiki/Multiplication_algorithm", 
+        "https://en.wikipedia.org/wiki/Fourier_transform", 
+        "https://en.wikipedia.org/wiki/Discrete_Fourier_transform", 
+        "https://en.wikipedia.org/wiki/Sch\u00f6nhage\u2013Strassen_algorithm"
     ], 
     "Pohlig-Hellman algorithm": [
         "https://en.wikipedia.org/wiki/Pohlig\u2013Hellman_algorithm", 
@@ -1915,28 +1064,11 @@
         "https://en.wikipedia.org/wiki/Vincent_Rijmen", 
         "https://en.wikipedia.org/wiki/Block_cipher"
     ], 
-    "RC4 or ARC4": [
-        "https://en.wikipedia.org/wiki/HC-256"
-    ], 
-    "Zopfli": [
-        "https://en.wikipedia.org/wiki/Zopfli", 
-        "https://en.wikipedia.org/wiki/Brotli", 
-        "https://en.wikipedia.org/wiki/DEFLATE", 
-        "https://en.wikipedia.org/wiki/AdvanceCOMP"
-    ], 
     "HMAC": [
         "https://en.wikipedia.org/wiki/Hash-based_message_authentication_code", 
         "https://en.wikipedia.org/wiki/HMAC-based_One-time_Password_Algorithm", 
         "https://en.wikipedia.org/wiki/Message_authentication_code", 
         "https://en.wikipedia.org/wiki/Length_extension_attack", 
         "https://en.wikipedia.org/wiki/SHA-2"
-    ], 
-    "Least slack time scheduling or Least Laxity First": [
-        "https://en.wikipedia.org/wiki/Least_slack_time_scheduling"
-    ], 
-    "Dictionary search": [
-        "https://en.wikipedia.org/wiki/Trie", 
-        "https://en.wikipedia.org/wiki/Aho\u2013Corasick_algorithm", 
-        "https://en.wikipedia.org/wiki/Associative_array"
     ]
 }
