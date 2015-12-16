@@ -55,6 +55,20 @@ Deduplication of programming language of all implementations
 
 Used crosswikis as a source for Algorithms' associated queries
 
+## version 4.0
+
+Fuzzy string match wikipedia link titles
+then use wikipedia api auto-suggest given the task name
+then use crosswikis
+then match all algo link in description
+(all linkings must link to wikipedia page detected to be algorithm)
+
+## version 4.1
+
+Strategies are the same as v4.0, but since algorithm page detection has
+a significant number of false negatives, now linkings are not checked for
+whether it is an algorithm page.
+
 ## Other scripts
 
 Backup all the tables in elasticsearch into a json file
