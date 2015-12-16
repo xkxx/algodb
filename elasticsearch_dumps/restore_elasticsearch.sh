@@ -1,16 +1,16 @@
 # please modify the path to throwtable
 elasticdump \
-  --input=elasticsearch_algorithm_v3.0.json \
+  --input=version3.3/elasticsearch_algorithm_v3.3.json \
   --output=http://localhost:9200/throwtable \
   --type=data
 
 elasticdump \
-  --input=elasticsearch_category_v3.0.json\
+  --input=version3.3/elasticsearch_category_v3.3.json\
   --output=http://localhost:9200/throwtable \
   --type=data
 
 elasticdump \
-  --input=elasticsearch_implementation_v3.0.json \
+  --input=version3.3/elasticsearch_implementation_v3.3.json \
   --output=http://localhost:9200/throwtable \
   --type=data
 

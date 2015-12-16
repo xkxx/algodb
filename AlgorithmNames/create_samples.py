@@ -3,11 +3,10 @@ import redis
 import random
 from elasticsearch import Elasticsearch
 
-es = Elasticsearch([{'host': 'localhost', 'port': 9200}])
-site = mw.Site('rosettacode.org', path='/mw/')
 r = redis.StrictRedis()
 
 def get_sample():
+    site = mw.Site('rosettacode.org', path='/mw/')
     pages = list(site.Pages['Category:Programming Tasks'])
 
     sample = random.sample(pages, 100)
@@ -16,6 +15,8 @@ def get_sample():
         r.sadd('samples', page.page_title)
 
 def get_sample_ids():
+    es = Elasticsearch([{'host': 'localhost', 'port': 9200}])
+
     body = {'query': {'match_all': {}}}
     result = es.search(index='throwtable', doc_type='implementation',
         body=body, size=15000)

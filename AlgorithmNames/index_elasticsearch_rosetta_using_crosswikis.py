@@ -7,6 +7,7 @@ from index_elasticsearch_wikipedia import INDEX_NAME, normalize, \
     load_visited, rd, index_wiki_algorithm_entry
 
 from parseWikipedia import get_wiki_page, is_algorithm_page
+from impl_languages_deduplication import get_standardized_lang
 
 import json
 from cassandra.cluster import Cluster
@@ -61,7 +62,8 @@ def index_rosetta_page(page, algo_ids):
 
         es.index(index=INDEX_NAME, doc_type='implementation',
             id='rosetta:' + normalize(pagetask.task_name) + ':' +
-            impl['language'].decode('utf8'), body=body)
+            get_standardized_lang(impl['language'].decode('utf8'), rd),
+            body=body)
 
 def get_sorted_similar_links(taskname, links):
     taskname = taskname.encode('utf8')
@@ -138,28 +140,28 @@ def get_corres_wikipedia_algo_id(page):
         print '--first'
         return [id]
 
-    # then, use crosswikis dictionary to get the most possible wiki link
-    query = "SELECT cprob, entity FROM queries WHERE anchor = %s"
-    suggested_wikilinks = list(session.execute(query, [page.page_title]))
-    sorted(suggested_wikilinks, key=lambda tup: tup[0])
-    if len(suggested_wikilinks) > 0:
-        toplink = suggested_wikilinks[0][1]
-        wikipage = get_wiki_page(toplink)
-        if wikipage is not None:
-            # check if indexed
-            id = get_id_of_corresponding_algorithm(toplink, page.page_title)
-            if id is None:
-                # try to index this algorithm
-                id = index_corresponding_algorithm(wikipage, toplink,
-                    page.page_title)
-                if id is not None:
-                    rd.hset('rosetta-mapping-success', page.page_title,
-                        json.dumps([id]))
-                    rd.sadd('rosetta-mapping-success-crosswikis',
-                        page.page_title)
-                    print id,
-                    print '--second'
-                    return [id]
+    # # then, use crosswikis dictionary to get the most possible wiki link
+    # query = "SELECT cprob, entity FROM queries WHERE anchor = %s"
+    # suggested_wikilinks = list(session.execute(query, [page.page_title]))
+    # sorted(suggested_wikilinks, key=lambda tup: tup[0])
+    # if len(suggested_wikilinks) > 0:
+    #     toplink = suggested_wikilinks[0][1]
+    #     wikipage = get_wiki_page(toplink)
+    #     if wikipage is not None:
+    #         # check if indexed
+    #         id = get_id_of_corresponding_algorithm(toplink, page.page_title)
+    #         if id is None:
+    #             # try to index this algorithm
+    #             id = index_corresponding_algorithm(wikipage, toplink,
+    #                 page.page_title)
+    #             if id is not None:
+    #                 rd.hset('rosetta-mapping-success', page.page_title,
+    #                     json.dumps([id]))
+    #                 rd.sadd('rosetta-mapping-success-crosswikis',
+    #                     page.page_title)
+    #                 print id,
+    #                 print '--second'
+    #                 return [id]
 
     # finally, if none of the links is similar to the task name,
     # 1, store the task description

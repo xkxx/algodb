@@ -5,11 +5,19 @@ import redis
 
 import parseWikipedia as pw
 
+from cassandra.cluster import Cluster
+
+cluster = Cluster(['127.0.0.1'])  # localhost
+session = cluster.connect()  # default key space
+session.set_keyspace('crosswikis')
+
 es = Elasticsearch([{'host': 'localhost', 'port': 9200}])
 rd = redis.StrictRedis(host='localhost', port=6379, db=0)
 
+CPROB_THRESHOLD = 0.8
+
 # MAX_CATEGORY_DEPTH is set in parseWikipedia.py
-UPDATING_WIKI = False
+UPDATING_WIKI = True
 INDEX_NAME = 'throwtable'
 
 def normalize(str):
@@ -77,9 +85,18 @@ def index_wiki_algorithm_entry(page, title, visited):
         # TODO second iteration to parse related algorithm
     }
 
+    body['alt_names'] = list()
+
     # add alternate algo name
     if page.title != title:
-        body['alt_names'] = [title]
+        body['alt_names'].append(title)
+
+    query = "SELECT cprob, anchor FROM altnames WHERE entity = %s"
+    results = list(session.execute(query, [page.title.replace(' ', '_')]))
+    altnames = [anchor for (cprob, anchor) in results
+        if float(cprob) > CPROB_THRESHOLD]
+    body['alt_names'].extend(altnames)
+    print 'altnames =', altnames
 
     retval = es.index(index=INDEX_NAME, doc_type='algorithm',
         id=normalize(page.title), body=body)
@@ -102,7 +119,7 @@ def get_ids_of_visited_wiki_page(title):
     return (algo_id, cate_id)
 
 def index_wiki_page(title, depth, visited):
-    print 'looking at page:', title
+    print 'looking at page %s, at depth %d:' % (title, depth)
 
     algo_id = -1
     cate_id = -1
