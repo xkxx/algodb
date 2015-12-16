@@ -84,7 +84,7 @@ def folder_to_file():
         with open(os.path.join("temp", jsonFile)) as fp:
             single = json.load(fp)
         for k, v in single.items():
-            if v:
+            if v and len(v) >= 5:
                 res = []
                 for url in v:
                     if "..." in url:
@@ -94,8 +94,9 @@ def folder_to_file():
                 jdata[k] = res       
     return jdata
 
-
 def filter_invalid_search(google_data):
+
+    # Need to change:
     invalid_names = ["Predictive search",
                      "Deep Dense Face Detector",
                      "Zha's algorithm",
@@ -112,7 +113,6 @@ def filter_invalid_search(google_data):
                      "Positions of Moon or other celestial objects"
 
                      ]
-    # Need to change:
     #   Peterson's [+Algorithm]
     #   Banker's [+Algorithm]
     #   Cocktail sort [-(or bidirectional bubble, shaker, ripple, shuttle, happy hour sort)]

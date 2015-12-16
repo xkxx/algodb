@@ -24,6 +24,9 @@ TRUE_NEGATIVE = 'True-Neg'
 FALSE_NEGATIVE = 'False-Neg'
 
 def checkPkg(taskName, actual, expected, r):
+    if len(actual) > 0 and type(actual[0]) == list:
+        actual = [algo for algo in actual[0] if algo is not None]
+    print actual
     for algo in actual:
         if algo not in expected:
             print "Detected:", algo

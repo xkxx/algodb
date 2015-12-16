@@ -10,10 +10,15 @@ def is_algorithm_page(page):
         if 'Algorithm' in category or 'algorithm' in category:
             category_match = True
 
-    summary_match = ('algorithm' in page.summary
-        or 'Algorithm' in page.summary)
+    # summary_match = ('algorithm' in page.summary
+    #     or 'Algorithm' in page.summary)
+    #
+    # return category_match and summary_match
 
-    return category_match and summary_match
+    content_match = (page.content.find('algorithm') != -1
+        or page.content.find('Algorithm') != -1)
+
+    return category_match and content_match
 
 def get_wiki_page(title):
     try:
