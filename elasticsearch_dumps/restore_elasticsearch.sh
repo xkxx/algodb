@@ -1,4 +1,5 @@
-# please modify the path to throwtable
+curl -XDELETE 'http://localhost:9200/throwtable'
+
 elasticdump \
   --input=version3.3/elasticsearch_algorithm_v3.3.json \
   --output=http://localhost:9200/throwtable \
