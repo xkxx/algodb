@@ -9,7 +9,13 @@ The data dumps are generated in ../elasticsearch_dumps, but in case you want to 
 
 2. Open another terminal in your elasticsearch folder, and run elasticsearch
 
-3. run the script
+3. run
+
+```
+pip install -r requirements.txt
+```
+
+4. run the script
 
 
 ## Scripts
