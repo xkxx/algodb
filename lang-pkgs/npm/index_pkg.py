@@ -11,6 +11,7 @@ from datetime import datetime
 from collections import Counter
 from RAKE import Rake
 import requests
+from markdown_extract import extractText
 
 rk = Rake('SmartStoplist.txt')
 
@@ -18,23 +19,26 @@ def get_text_content(pkg):
     desc = pkg.get('desc', '')
     keywords = pkg.get('keywords', [])
     readme = pkg.get('readme', '') or ''
-    if type(readme) != str:
+    if type(readme) != str and type(readme) != unicode:
+        print '!!!!!'
         readme = ''
-    readmeLines = readme.split('\n')
-    parsedKeywords = rk.run(readme)
+    readmeText = extractText(readme)
+    print 'readme', readmeText
+    parsedKeywords = rk.run(readmeText)
     print 'rake', parsedKeywords
     results = []
     for kw in keywords:
         if len(kw) > 2:
             results.append((kw, 2.0))
     for (kw, score) in parsedKeywords:
-        results.append((kw, 1.6 * score))
+        if score > 3:
+          results.append((kw, 1.2 * math.log(score, 4)))
     if len(desc) > 2:
         results.append((desc, 1.0))
     return results
 
 def match_valid(algo, score):
-    if score > 1.0:
+    if score > 5.0:
         return True
 
 def get_es_id(pkg):
@@ -110,7 +114,6 @@ if __name__ == "__main__":
         from subprocess import check_output
         from pprint import pprint
         line = check_output(["node", "get-desc.js", sys.argv[1]])
-        print line
         pkg = json.loads(line)
         impls = get_links(pkg, es)
         pprint(impls, width=1)

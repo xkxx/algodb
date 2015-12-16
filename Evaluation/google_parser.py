@@ -94,43 +94,28 @@ def folder_to_file():
                 jdata[k] = res       
     return jdata
 
-def filter_invalid_search(google_data):
+def add_removed(google_data):
+    google_src = "google_search_results"
+    for fname in os.listdir(google_src):
+        with open(os.path.join(google_src, fname)) as f:
+            jdata = json.load(f)
 
-    # Need to change:
-    invalid_names = ["Predictive search",
-                     "Deep Dense Face Detector",
-                     "Zha's algorithm",
-                     "Parity Control",
-                     "Ephmerides",
-                     "Trust search",
-                     "Epitome",
-                     "Help to diagnosis",
-                     "Hungarian",
-                     "Woodhouse-Sharp",
-                     "Coding scheme that assigns codes to symbols so as to match code lengths with the probabilities of the symbols",
-                     "O'Carroll algorithm",
-                     "Computation useful in healthcare",
-                     "Positions of Moon or other celestial objects"
+        algo_name = jsonfile.split(".")[0]
+        if "items" not in jdata:
+            continue
 
-                     ]
-    #   Peterson's [+Algorithm]
-    #   Banker's [+Algorithm]
-    #   Cocktail sort [-(or bidirectional bubble, shaker, ripple, shuttle, happy hour sort)]
-    #   Hungarian [+Algorithm]
-    #
-    # Algorithms not in wikipedia:
-    #   Woodhouse-Sharp Algorithm
-    #   Zha's algorithm
-    #   O'Carroll algorithm
-    #   Deep Dense Face Detector
+        items = jdata["items"]
+        urls = []
+
+
     return google_data
 
 
 def run():
     parse_google()
     google_data = folder_to_file()
-    filtered = filter_invalid_search(google_data)
+    fixed = add_removed(google_data)
     with open("google_filtered_results.json", "w") as fp:
-        json.dump(filtered, fp, indent=4)
+        json.dump(fixed, fp, indent=4)
 if __name__ == '__main__':
     run()
