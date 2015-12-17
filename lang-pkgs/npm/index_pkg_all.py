@@ -36,7 +36,7 @@ def add_to_db(pkg, es):
         readme = ''
     plaintextRM = extractText(readme)
 
-    es.index(index='throwtable',
+    es.index(index='temp',
     doc_type='implementation',
     id=get_es_id(pkg),
     body={

@@ -1,4 +1,5 @@
 from elasticsearch import Elasticsearch
+from elasticsearch.helpers import scan
 import requests
 import redis
 import wikipedia as wiki
@@ -13,7 +14,11 @@ def printPkgContent(pkgName):
     print 'Desc:', pkg.get('description', '[NONE]')
     print 'keywords:', pkg.get('keywords', [])
     print 'Readme:\n'
-    print '\n'.join(pkg.get('readme', '[NONE]').split('\n')[:15])
+    readme = pkg.get('readme', '[NONE]')
+    if type(readme) == str or type(readme) == unicode:
+        readme = ''
+    readme = readme or ''
+    print '\n'.join(readme.split('\n')[:15])
 
 def getUserInput(prompt):
     result = raw_input(prompt)
@@ -35,6 +40,12 @@ def queryWikipedia(concept):
 def main():
     es = Elasticsearch([{'host': 'localhost', 'port': 9200}])
     r = redis.StrictRedis()
+
+    body = {'query': {'match_all': {}}}
+    result = scan(es, index='throwtable', doc_type='implementation',
+        query=body)
+    for p in result:
+        r.sadd('pkgs', p['_source']['instruction']['package'])
     samples = r.srandmember('pkgs', 100)
     for pkgName in samples:
         r.sadd('samples', pkgName)

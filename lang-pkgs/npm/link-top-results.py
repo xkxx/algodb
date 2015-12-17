@@ -2,24 +2,28 @@ from elasticsearch import Elasticsearch
 from elasticsearch.helpers import scan
 from unicodedata import normalize
 
-def index_top_results(doc, es):
+def index_top_results(doc, docid, es):
     query = {'query': { 'multi_match': {
         "query": doc['name'],
         "type": "phrase",
         "fields": ["description", "plaintext-readme"]
     }}}
-    res = es.search(index='throwtable', doc_type='algorithm', body=query, size=10)
+    res = es.search(index='temp', doc_type='implementation', body=query, size=10)
     hits = res['hits']['hits']
     for hit in hits:
         print hit["_id"], hit["_score"]
-        if hit["_score"] > 2.0:
-            id = hit['_id']
-            pkg = hit['_source']
+        print '-------------------'
+        pkgid = hit['_id']
+        pkg = hit['_source']
+        print pkg['plaintext-readme']
+        if hit["_score"] > 1.0:
             impls = hit.get('algorithm', [])
-            impls.append(doc['_id'])
+            if docid not in impls:
+                impls.append(docid)
             pkg['algorithm'] = impls
-            print "Adding: ", id, impls
-            es.index(id=id, index='throwtable', doc_type='implementation', body=pkg)
+            print "Adding: ", pkgid, impls
+            es.index(id=pkgid, index='throwtable', doc_type='implementation', body=pkg)
+            es.index(id=pkgid, index='temp', doc_type='implementation', body=pkg)
 
 def scan_algorithm(es):
     body = {'query': {'match_all': {}}}
@@ -32,7 +36,7 @@ def scan_algorithm(es):
         print hit['_id']
         doc = hit['_source']
         name = doc['name']
-        index_top_results(doc, es)
+        index_top_results(doc, hit['_id'], es)
 
 if __name__ == '__main__':
     es = Elasticsearch([{'host': 'localhost', 'port': 9200}])
