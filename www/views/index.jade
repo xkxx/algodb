@@ -67,6 +67,18 @@ block content
         h2.results.title.empty= 'No search results for "' + query + '"!'
     else
       h2.results.title Please enter a query.
+      .suggestions
+        h3.title Example queries
+        ul
+          li: a(href='/?q=quick sort') quick sort
+          li: a(href='/?q=md5') md5
+          li: a(href='/?q=rot13') rot13
+          li: a(href='/?q=tournament selection') tournament selection
+          li: a(href='/?q=connect edges') connect edges
+          li: a(href='/?q=matrix') matrix
+        .ps
+          em P.S.
+          span  Don't worry about spelling, we will find results with the closest spelling!
 
   footer
     .languages

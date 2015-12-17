@@ -8,6 +8,10 @@ a {
   color: #00B7FF;
 }
 
+em {
+  font-style: italic;
+}
+
 /* Header */
 
 header {
@@ -50,6 +54,15 @@ h1.logo .v2 .g { color: #00933B; }
 }
 .stats strong {
   font-weight: 700;
+}
+
+.suggestions .title {
+  padding: 10px 0;
+  font-size: 16px;
+}
+
+.suggestions .ps {
+  padding: 10px 0;
 }
 
 /* Languages / Algorithm names */
