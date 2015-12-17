@@ -52,7 +52,11 @@ router.get('/', function(req, res, next) {
       db.count_summary(cb);
     },
     search: function(cb) {
-      db.search(query, cb);
+      if (lang && !query) {
+        db.search_by_language(lang, cb);
+      } else {
+        db.search(query, cb);
+      }
     }
   }, function(err, data) {
     // After doing all the queries in parallel, render the page!

@@ -5,6 +5,7 @@
 var async = require('async');
 var request = require('request');
 var map = require('objmap');
+var isarray = require('isarray');
 var marked = require('marked');
 marked.setOptions({
   renderer: new marked.Renderer(),
@@ -87,7 +88,7 @@ module.exports = {
   /**
    * Returns organized search results
    * @param {String[]} ids A list of algorithm ids
-   * @param {Object} res (res = {}, res.hits = body.hits.hits;)
+   * @param {Object} res (res = {}, res.hits = body.hits.hits; res.hasLang:Boolean)
    * @param {Callback} cb The callback
    */
   get_search_results_from_algorithm_ids: function(ids, res, cb) {
@@ -95,10 +96,16 @@ module.exports = {
     var self = this;
     var algorithmImplementationQueries = ids.map(function(id) {
       return function(queryCb) {
-        self.get_implementations(id, function(err, impls) {
+        var options = {
+          id: id
+        };
+        if (res.language) {
+          options.language = res.language;
+        }
+        self.get_implementations(options, function(err, impls) {
           queryCb(err, {
             id: id,
-            hits: impls.hits
+            hits: impls
           });
         });
       };
@@ -133,6 +140,13 @@ module.exports = {
           b = b.toLowerCase();
           return (a > b) ? 1 : ((b > a) ? -1 : 0);
         }));
+
+        // Remove implementations that aren't in the queried language
+        if (res.language) {
+          algorithm.implementations = algorithm.implementations.filter(function(impl) {
+            return impl._source.language.toLowerCase() === res.language.toLowerCase();
+          });
+        }
       }
 
       cb(null, res);
@@ -165,12 +179,21 @@ module.exports = {
         var algorithmIds = hits.map(function(hit) {
           return hit._source.algorithm[0];
         });
+
+        // Fix Kexiang's bug with npm double arrays
+        if (isarray(algorithmIds[0])) {
+          algorithmIds = algorithmIds.map(function(id) {
+            return id[0];
+          });
+        }
+
         self.get_algorithms_by_ids(algorithmIds, function(err, algorithms) {
           var res = {
-            hits: algorithms
+            hits: algorithms,
+            language: language
           };
-          self.get_search_results_from_algorithm_ids(algorithmIds, res, function(err, result) {
-            console.log(result);
+          self.get_search_results_from_algorithm_ids(algorithmIds, res, function(err, results) {
+            cb(err, results);
           });
         });
       } else {
@@ -191,15 +214,17 @@ module.exports = {
         terms: {
           _id: algorithmIds
         }
-      }
+      },
+      size: MAX_RESULTS_PER_PAGE
     };
     request({
       url: url,
       body: body,
       json: true
     }, function(error, response, body) {
+      var hits;
       if (!error && response.statusCode === 200) {
-        var hits = body.hits.hits;
+        hits = body.hits.hits;
       }
       cb(error, hits);
     });
@@ -291,28 +316,33 @@ module.exports = {
    * @return {Object} res.error The error
    * @return {Object} res.hits The hits
    */
-  get_implementations: function(algorithmId, cb) {
+  get_implementations: function(options, cb) {
     var url = ELASTIC_SEARCH_URL + 'implementation/_search';
+    var algorithmId = options.id;
+    var language = options.language;
     var body = {
       query: {
-        match: {
-          algorithm: algorithmId
+        bool: {
+          must: [{
+            match: {
+              algorithm: algorithmId
+            }
+          }]
         }
-      }
+      },
+      size: 1000
     };
     request({
       url: url,
       body: body,
       json: true,
     }, function(error, response, body) {
-      var res = {};
-      res.error = error;
-
+      var hits;
       if (!error && response.statusCode === 200) {
-        res.hits = body.hits.hits;
+        hits = body.hits.hits;
       }
 
-      cb(error, res);
+      cb(error, hits);
     });
   },
 

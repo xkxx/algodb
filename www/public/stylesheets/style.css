@@ -58,6 +58,8 @@ h1.logo .v2 .g { color: #00933B; }
   -webkit-columns: 6 150px;
      -moz-columns: 6 150px;
           columns: 6 150px;
+
+  padding-bottom: 10px;
 }
 
 .languages .list .count {
@@ -69,6 +71,13 @@ h1.logo .v2 .g { color: #00933B; }
   font-weight: 700;
   margin: 20px 0;
   text-transform: uppercase;
+}
+
+.languages .link {
+  text-decoration: none;
+  border-bottom: 2px dotted rgb(230, 230, 230);
+  margin-bottom: 2px;
+  overflow: hidden;
 }
 
 .algorithmNames {

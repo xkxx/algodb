@@ -73,9 +73,10 @@ block content
       h2.title Languages
       ul.list
         for l in languages
-          li.lang(style='color:'+l.color)
-            span.title= l.language
-            span.count= ' (' + l.count + ')'
+          li.lang
+            a.link(href='/?lang=' + l.language style='color:'+l.color)
+              span.title= l.language
+              span.count= ' (' + l.count + ')'
     .algorithmNames
       ul.list
         for a in algorithmNames

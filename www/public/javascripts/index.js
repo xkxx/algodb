@@ -46,7 +46,9 @@ $(function() {
   $('.lang-button').click(function() {
     var lang = ($(this).text()).replace(' ', '-');
     var $langImpl = $(this).closest('.see-more').find('.implementation' + '.' + lang);
-    $('body').scrollTop($langImpl.offset().top);
+    if ($langImpl) {
+      $('body').scrollTop($langImpl.offset().top);
+    }
   });
 
   // Filter languages
