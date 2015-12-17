@@ -54,7 +54,7 @@ def add_to_db(pkg, impls, es):
     doc_type='implementation',
     id=get_es_id(pkg),
     body={
-        'language': 'js',
+        'language': 'JavaScript',
         'algorithm': impls,
         'source': 'npm',
         'description': pkg.get('desc', ''),
@@ -90,7 +90,7 @@ def index_package(line, es):
     pkg = json.loads(line)
     impls = get_links(pkg, es)
     if len(impls) > 0:
-        add_to_db(pkg, [impls[0]], es)
+        add_to_db(pkg, impls[:1], es)
 
 def get_npm_pkg(pkgName):
     res = requests.get('http://localhost:5984/npm/%s' % pkgName)
