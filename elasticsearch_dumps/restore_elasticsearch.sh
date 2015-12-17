@@ -1,17 +1,17 @@
 curl -XDELETE 'http://localhost:9200/throwtable'
 
 elasticdump \
-  --input=version3.3/elasticsearch_algorithm_v3.3.json \
+  --input=version4.3/elasticsearch_algorithm_v4.3.json \
   --output=http://localhost:9200/throwtable \
   --type=data
 
 elasticdump \
-  --input=version3.3/elasticsearch_category_v3.3.json\
+  --input=version4.3/elasticsearch_category_v4.3.json\
   --output=http://localhost:9200/throwtable \
   --type=data
 
 elasticdump \
-  --input=version3.3/elasticsearch_implementation_v3.3.json \
+  --input=version4.3/elasticsearch_implementation_v4.3.json \
   --output=http://localhost:9200/throwtable \
   --type=data
 
