@@ -35,6 +35,20 @@ def link_algorithm(description, es):
 
     return [(hit['_id'], hit['_score']) for hit in response['hits']['hits']]
 
+def link_algorithm_cw(description, es):
+    response = es.search(index='throwtable', doc_type='algorithm', body={
+        "query": {
+            "multi_match": {
+                "query": description.replace(' ', ' '),
+                "type": "most_fields",
+                "fuzziness": 'AUTO',
+                "fields": ['name^8', 'tag_line^1.5', 'alt_names^4', 'description^0.5']
+            }
+        }
+    })
+
+    return [(hit['_id'], hit['_score']) for hit in response['hits']['hits']]
+
 def run_elastic_search(algolist, takeMax):
     mapping = {}
     url = "http://localhost:9200/throwtable/algorithm/_search"
