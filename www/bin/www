@@ -93,5 +93,5 @@ function onListening() {
   console.log('Running on ' + url);
   setTimeout(function() {
     shell.exec('open ' + url);
-  }, 500);
+  }, 1000);
 }

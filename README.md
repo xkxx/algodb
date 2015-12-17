@@ -31,3 +31,5 @@ Finds algortihm names in plain text
 ### www
 The website search engine of the database.
 
+### google_trends
+An experiment on using google trends to rank equal-score search results

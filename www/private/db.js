@@ -56,7 +56,7 @@ module.exports = {
           fuzziness: 'AUTO'
         }
       },
-      min_score: 1,
+      min_score: 0.5,
       size: MAX_RESULTS_PER_PAGE,
     };
     request({
