@@ -6,12 +6,12 @@ class PlaintextExtract(Renderer):
     # TODO: extract usable comment
     return ""
   def block_quote(self, text):
-    print "Block Quote: ", text
+    # print "Block Quote: ", text
     return ""
   def block_html(self, html):
     return ""
   def header(self, text, level, raw=None):
-    print "Header Lvl #%d: " % level, text
+    # print "Header Lvl #%d: " % level, text
     return ""
   def hrule(self):
     return ""
@@ -39,10 +39,10 @@ class PlaintextExtract(Renderer):
   def image(self, src, title, alt_text):
     return "%s %s" % (title or "", alt_text or "")
   def linkbreak(self):
-    print "Line break"
+    # print "Line break"
     return ""
   def newline(self):
-    print "New line"
+    # print "New line"
     return ""
   def link(self, link, title, content):
     return content or ""
@@ -51,7 +51,7 @@ class PlaintextExtract(Renderer):
   def text(self, text):
     return text
   def inline_html(self, text):
-    print "Inline HTML"
+    # print "Inline HTML"
     return ""
   def footnote_ref(self, key, index):
     return ""
@@ -68,7 +68,7 @@ def getParser():
   return __parser[0]
 
 def extractText(md):
-  print "Original", md
+  # print "Original", md
   return getParser()(md)
 
 if __name__ == '__main__':
