@@ -50,6 +50,7 @@
         "https://en.wikipedia.org/wiki/PageRank_algorithm_in_biochemistry"
     ], 
     "Richardson eigenvector algorithm": [
+        "https://en.wikipedia.org/wiki/Modified_Richardson_iteration", 
         "https://en.wikipedia.org/wiki/Richardson\u2013Lucy_deconvolution", 
         "https://en.wikipedia.org/wiki/Jacobi_eigenvalue_algorithm", 
         "https://en.wikipedia.org/wiki/Eigenvalue_algorithm", 
@@ -70,6 +71,7 @@
         "https://en.wikipedia.org/wiki/Shanks'_square_forms_factorization"
     ], 
     "DE (Differential evolution)": [
+        "https://en.wikipedia.org/wiki/Differential_evolution", 
         "https://en.wikipedia.org/wiki/Evolutionary_algorithm", 
         "https://en.wikipedia.org/wiki/Evolutionary_computation", 
         "https://en.wikipedia.org/wiki/Grey_wolf_optimizer", 
@@ -93,14 +95,6 @@
         "https://en.wikipedia.org/wiki/Deadline-monotonic_scheduling", 
         "https://en.wikipedia.org/wiki/Least_slack_time_scheduling", 
         "https://en.wikipedia.org/wiki/Real-time_operating_system"
-    ], 
-    "Ant colony optimization": [
-        "https://en.wikipedia.org/wiki/Ant_colony_optimization_algorithms", 
-        "https://en.wikipedia.org/wiki/Swarm_intelligence", 
-        "https://en.wikipedia.org/wiki/Travelling_salesman_problem", 
-        "https://en.wikipedia.org/wiki/Artificial_ants", 
-        "https://en.wikipedia.org/wiki/Bees_algorithm", 
-        "https://en.wikipedia.org/wiki/Metaheuristic"
     ], 
     "Lamport ordering": [
         "https://en.wikipedia.org/wiki/Lamport_timestamps", 
@@ -149,6 +143,7 @@
         "https://en.wikipedia.org/wiki/Apostolico\u2013Giancarlo_algorithm"
     ], 
     "Shell sort": [
+        "https://en.wikipedia.org/wiki/Shellsort", 
         "https://en.wikipedia.org/wiki/Donald_Shell", 
         "https://en.wikipedia.org/wiki/Sorting_algorithm", 
         "https://en.wikipedia.org/wiki/Comb_sort", 
@@ -157,6 +152,7 @@
         "https://en.wikipedia.org/wiki/Gnome_sort"
     ], 
     "Self-organizing map (Kohonen map)": [
+        "https://en.wikipedia.org/wiki/Self-organizing_map", 
         "https://en.wikipedia.org/wiki/Teuvo_Kohonen", 
         "https://en.wikipedia.org/wiki/Nonlinear_dimensionality_reduction", 
         "https://en.wikipedia.org/wiki/Generative_topographic_map", 
@@ -172,14 +168,15 @@
         "https://en.wikipedia.org/wiki/Adaptive_sort", 
         "https://en.wikipedia.org/wiki/Mainframe_sort_merge"
     ], 
-    "Branch and bound": [
-        "https://en.wikipedia.org/wiki/Branch_and_bound", 
-        "https://en.wikipedia.org/wiki/Branch_and_cut", 
-        "https://en.wikipedia.org/wiki/Joint_Compatibility_Branch_and_Bound", 
-        "https://en.wikipedia.org/wiki/Set_inversion", 
-        "https://en.wikipedia.org/wiki/Travelling_salesman_problem", 
-        "https://en.wikipedia.org/wiki/Alpha\u2013beta_pruning", 
-        "https://en.wikipedia.org/wiki/Computational_phylogenetics"
+    "Insertion sort": [
+        "https://en.wikipedia.org/wiki/Insertion_sort", 
+        "https://en.wikipedia.org/wiki/Adaptive_sort", 
+        "https://en.wikipedia.org/wiki/Gnome_sort", 
+        "https://en.wikipedia.org/wiki/Timsort", 
+        "https://en.wikipedia.org/wiki/Sorting_algorithm", 
+        "https://en.wikipedia.org/wiki/Online_algorithm", 
+        "https://en.wikipedia.org/wiki/Library_sort", 
+        "https://en.wikipedia.org/wiki/Introsort"
     ], 
     "Selection sort": [
         "https://en.wikipedia.org/wiki/Selection_sort", 
@@ -214,13 +211,6 @@
         "https://en.wikipedia.org/wiki/Pollard's_rho_algorithm_for_logarithms", 
         "https://en.wikipedia.org/wiki/Discrete_logarithm"
     ], 
-    "Ant-algorithms": [
-        "https://en.wikipedia.org/wiki/Ant_colony_optimization_algorithms", 
-        "https://en.wikipedia.org/wiki/Swarm_intelligence", 
-        "https://en.wikipedia.org/wiki/Artificial_ants", 
-        "https://en.wikipedia.org/wiki/Travelling_salesman_problem", 
-        "https://en.wikipedia.org/wiki/Bees_algorithm"
-    ], 
     "IDEA (International Data Encryption Algorithm)": [
         "https://en.wikipedia.org/wiki/International_Data_Encryption_Algorithm", 
         "https://en.wikipedia.org/wiki/IDEA_NXT", 
@@ -229,6 +219,7 @@
         "https://en.wikipedia.org/wiki/Data_Encryption_Standard"
     ], 
     "Line search": [
+        "https://en.wikipedia.org/wiki/Line_search", 
         "https://en.wikipedia.org/wiki/Wolfe_conditions", 
         "https://en.wikipedia.org/wiki/Golden_section_search", 
         "https://en.wikipedia.org/wiki/Nonlinear_conjugate_gradient_method", 
@@ -268,13 +259,6 @@
         "https://en.wikipedia.org/wiki/Bidirectional_search", 
         "https://en.wikipedia.org/wiki/Jump_point_search"
     ], 
-    "Coloring algorithm": [
-        "https://en.wikipedia.org/wiki/Greedy_coloring", 
-        "https://en.wikipedia.org/wiki/Misra_%26_Gries_edge_coloring_algorithm", 
-        "https://en.wikipedia.org/wiki/Chaitin's_algorithm", 
-        "https://en.wikipedia.org/wiki/Edge_coloring", 
-        "https://en.wikipedia.org/wiki/Five_color_theorem"
-    ], 
     "Knuth-Bendix completion": [
         "https://en.wikipedia.org/wiki/Knuth\u2013Bendix_completion_algorithm", 
         "https://en.wikipedia.org/wiki/Word_problem_(mathematics)", 
@@ -292,6 +276,7 @@
         "https://en.wikipedia.org/wiki/Breadth-first_search"
     ], 
     "Delta encoding": [
+        "https://en.wikipedia.org/wiki/Delta_encoding", 
         "https://en.wikipedia.org/wiki/Incremental_encoding", 
         "https://en.wikipedia.org/wiki/Data_differencing", 
         "https://en.wikipedia.org/wiki/VCDIFF", 
@@ -371,13 +356,6 @@
         "https://en.wikipedia.org/wiki/Exact_cover", 
         "https://en.wikipedia.org/wiki/The_Art_of_Computer_Programming", 
         "https://en.wikipedia.org/wiki/Dancing_tree"
-    ], 
-    "Divide-and-conquer": [
-        "https://en.wikipedia.org/wiki/Divide_and_conquer_algorithms", 
-        "https://en.wikipedia.org/wiki/Divide-and-conquer_eigenvalue_algorithm", 
-        "https://en.wikipedia.org/wiki/Matrix_multiplication_algorithm", 
-        "https://en.wikipedia.org/wiki/Fast_Walsh\u2013Hadamard_transform", 
-        "https://en.wikipedia.org/wiki/Closest_pair_of_points_problem"
     ], 
     "Backpropagation": [
         "https://en.wikipedia.org/wiki/Neural_backpropagation", 
@@ -461,16 +439,6 @@
         "https://en.wikipedia.org/wiki/Big_M_method", 
         "https://en.wikipedia.org/wiki/George_Dantzig"
     ], 
-    "Selection algorithm": [
-        "https://en.wikipedia.org/wiki/Selection_algorithm", 
-        "https://en.wikipedia.org/wiki/Quickselect", 
-        "https://en.wikipedia.org/wiki/Clonal_Selection_Algorithm", 
-        "https://en.wikipedia.org/wiki/Median_of_medians", 
-        "https://en.wikipedia.org/wiki/Selection_sort", 
-        "https://en.wikipedia.org/wiki/Floyd\u2013Rivest_algorithm", 
-        "https://en.wikipedia.org/wiki/Selection_(genetic_algorithm)", 
-        "https://en.wikipedia.org/wiki/Fitness_proportionate_selection"
-    ], 
     "Pigeonhole sort": [
         "https://en.wikipedia.org/wiki/Pigeonhole_sort", 
         "https://en.wikipedia.org/wiki/Bucket_sort", 
@@ -545,14 +513,6 @@
         "https://en.wikipedia.org/wiki/Flashsort", 
         "https://en.wikipedia.org/wiki/Insertion_sort", 
         "https://en.wikipedia.org/wiki/Heapsort"
-    ], 
-    "Page replacement": [
-        "https://en.wikipedia.org/wiki/Page_replacement_algorithm", 
-        "https://en.wikipedia.org/wiki/B\u00e9l\u00e1dy's_anomaly", 
-        "https://en.wikipedia.org/wiki/Adaptive_replacement_cache", 
-        "https://en.wikipedia.org/wiki/Cache_algorithms", 
-        "https://en.wikipedia.org/wiki/Least_frequently_used", 
-        "https://en.wikipedia.org/wiki/LIRS_caching_algorithm"
     ], 
     "Edmonds-Karp": [
         "https://en.wikipedia.org/wiki/Edmonds\u2013Karp_algorithm", 
@@ -896,13 +856,6 @@
         "https://en.wikipedia.org/wiki/Dijkstra\u2013Scholten_algorithm", 
         "https://en.wikipedia.org/wiki/Suurballe's_algorithm"
     ], 
-    "Splay tree": [
-        "https://en.wikipedia.org/wiki/Splay_tree", 
-        "https://en.wikipedia.org/wiki/Splaysort", 
-        "https://en.wikipedia.org/wiki/Optimal_binary_search_tree", 
-        "https://en.wikipedia.org/wiki/Daniel_Sleator", 
-        "https://en.wikipedia.org/wiki/Geometry_of_binary_search_trees"
-    ], 
     "Floyd-Warshall": [
         "https://en.wikipedia.org/wiki/Floyd\u2013Warshall_algorithm", 
         "https://en.wikipedia.org/wiki/Robert_W._Floyd", 
@@ -934,16 +887,6 @@
         "https://en.wikipedia.org/wiki/Metaphone", 
         "https://en.wikipedia.org/wiki/New_York_State_Identification_and_Intelligence_System", 
         "https://en.wikipedia.org/wiki/Rhyme_Genie"
-    ], 
-    "Insertion sort": [
-        "https://en.wikipedia.org/wiki/Insertion_sort", 
-        "https://en.wikipedia.org/wiki/Adaptive_sort", 
-        "https://en.wikipedia.org/wiki/Gnome_sort", 
-        "https://en.wikipedia.org/wiki/Timsort", 
-        "https://en.wikipedia.org/wiki/Sorting_algorithm", 
-        "https://en.wikipedia.org/wiki/Online_algorithm", 
-        "https://en.wikipedia.org/wiki/Library_sort", 
-        "https://en.wikipedia.org/wiki/Introsort"
     ], 
     "Binary tree sort": [
         "https://en.wikipedia.org/wiki/Tree_sort", 
@@ -1039,13 +982,6 @@
         "https://en.wikipedia.org/wiki/Quantum_algorithm", 
         "https://en.wikipedia.org/wiki/Simon's_problem", 
         "https://en.wikipedia.org/wiki/Grover's_algorithm"
-    ], 
-    "Fourier transform multiplication": [
-        "https://en.wikipedia.org/wiki/Convolution_theorem", 
-        "https://en.wikipedia.org/wiki/Multiplication_algorithm", 
-        "https://en.wikipedia.org/wiki/Fourier_transform", 
-        "https://en.wikipedia.org/wiki/Discrete_Fourier_transform", 
-        "https://en.wikipedia.org/wiki/Sch\u00f6nhage\u2013Strassen_algorithm"
     ], 
     "Pohlig-Hellman algorithm": [
         "https://en.wikipedia.org/wiki/Pohlig\u2013Hellman_algorithm", 

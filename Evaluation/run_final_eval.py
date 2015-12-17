@@ -2,8 +2,8 @@ import metrics
 import json
 import requests
 
-topK = [1, 3, 5] # Eval on top k entries
-EVAL_FUNC = metrics.mean_average_precision
+topK = [1, 3, 5, -1] # Eval on top k entries,
+EVAL_FUNC = metrics.ndcg
 def run_eval():
     with open("google_filtered_results.json") as fp:
         jdata = json.load(fp)
@@ -52,10 +52,14 @@ def run_eval_singleK(google_results, our_results, k):
         k_google_single = []
         k_ours_single = []
 
-        for j in range(k):
+        end = k
+        if k == -1:
+            end = len(google_results[i])
+
+        for j in range(min(end, len(google_results[i]))):
             k_google_single.append(google_results[i][j])
 
-        for j in range(min(k, len(our_results[i]))):
+        for j in range(min(end, len(our_results[i]))):
             k_ours_single.append(our_results[i][j])
 
         k_google.append(k_google_single)

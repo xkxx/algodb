@@ -149,4 +149,4 @@ def _dcg_single_query(expected, actual):
     if idcg == 0:
         return 0
     else:
-        return dcg / idcg
+        return 1.0 * dcg / idcg
