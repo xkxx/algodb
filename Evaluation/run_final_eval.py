@@ -2,7 +2,7 @@ import metrics
 import json
 import requests
 
-topK = [1, 3, 5, -1] # Eval on top k entries,
+topK = [1, 2, 3, 5, -1] # Eval on top k entries,
 EVAL_FUNC = metrics.mean_reciprocal_rank
 
 def run_eval():
