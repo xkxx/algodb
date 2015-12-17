@@ -23,9 +23,9 @@ def get_text_content(pkg):
         # print 'No Readme Found'
         readme = ''
     readmeText = extractText(readme)
-    # print 'readme', readmeText
+    print 'readme', readmeText
     parsedKeywords = rk.run(readmeText)
-    # print 'rake', parsedKeywords
+    print 'rake', parsedKeywords
     results = []
     for kw in keywords:
         if len(kw) > 2:
@@ -54,7 +54,7 @@ def add_to_db(pkg, impls, es):
     doc_type='implementation',
     id=get_es_id(pkg),
     body={
-        'language': 'js',
+        'language': 'JavaScript',
         'algorithm': impls,
         'source': 'npm',
         'description': pkg.get('desc', ''),
@@ -69,19 +69,19 @@ def add_to_db(pkg, impls, es):
 
 def get_links(pkg, es):
     texts = get_text_content(pkg)
-    # print texts
+    print texts
     cands = Counter()
     for (text, weight) in texts:
-        # print "Weight:", weight
-        # print "Text:", text, '\n'
-        result = stringmatch.link_algorithm(text, es)
-        # print result
+        print "Weight:", weight
+        print "Text:", text, '\n'
+        result = stringmatch.link_algorithm_cw(text, es)
+        print result
         for (algo, score) in result:
             cands[algo] += score * weight
 
     impls = []
     for (algo, score) in cands.most_common():
-        # print algo, score
+        print algo, score
         if match_valid(algo, score):
             impls.append(algo)
     return impls
@@ -90,7 +90,7 @@ def index_package(line, es):
     pkg = json.loads(line)
     impls = get_links(pkg, es)
     if len(impls) > 0:
-        add_to_db(pkg, [impls[0]], es)
+        add_to_db(pkg, impls[:1], es)
 
 def get_npm_pkg(pkgName):
     res = requests.get('http://localhost:5984/npm/%s' % pkgName)
