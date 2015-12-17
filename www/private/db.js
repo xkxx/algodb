@@ -183,11 +183,16 @@ module.exports = {
         });
 
         // Fix Kexiang's bug with npm double arrays
-        if (isarray(algorithmIds[0])) {
-          algorithmIds = algorithmIds.map(function(id) {
+        algorithmIds = algorithmIds.map(function(id) {
+          if (isarray(id)) {
             return id[0];
-          });
-        }
+          } else {
+            return id;
+          }
+        }).filter(function(id) {
+          // Some of the values are [[null, null]] (!!!)
+          return !!id;
+        });
 
         self.get_algorithms_by_ids(algorithmIds, function(err, algorithms) {
           var res = {
