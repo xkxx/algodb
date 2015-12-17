@@ -88,7 +88,7 @@ module.exports = {
   /**
    * Returns organized search results
    * @param {String[]} ids A list of algorithm ids
-   * @param {Object} res (res = {}, res.hits = body.hits.hits; res.hasLang:Boolean)
+   * @param {Object} res (res = {}, res.hits = body.hits.hits;)
    * @param {Callback} cb The callback
    */
   get_search_results_from_algorithm_ids: function(ids, res, cb) {
@@ -114,6 +114,8 @@ module.exports = {
     async.parallel(algorithmImplementationQueries, function(queryErr, implQueryData) {
       for (var i = 0; i < res.hits.length; ++i) {
         var algorithm = res.hits[i];
+
+        algorithm.url = '/' + algorithm._id;
 
         var impls = implQueryData.filter(function(impls) {
           return impls.id === algorithm._id;
@@ -203,6 +205,22 @@ module.exports = {
   },
 
   /**
+   * Search by algorithm ID
+   * @param {String} algorithmId The id of the algorithm
+   * @param {Callback} cb The callback
+   */
+  search_by_algorithm_id: function(algorithmId, cb) {
+    var self = this;
+    self.get_algorithms_by_ids([algorithmId], function(err, algorithms) {
+      var res = {};
+      res.hits = algorithms;
+      self.get_search_results_from_algorithm_ids([algorithmId], res, function(err, results) {
+        cb(err, results);
+      });
+    });
+  },
+
+  /**
    * Gets algorithm hits for all ids
    * @param {String[]} algorithmIds A list of algorithm ids
    * @param {Callback} cb The callback
@@ -253,7 +271,10 @@ module.exports = {
       if (!error && response.statusCode === 200) {
         var hits = body.hits.hits;
         names = hits.map(function(hit) {
-          return hit.fields.name;
+          return {
+            name: hit.fields.name[0],
+            id: hit._id
+          };
         });
       }
       cb(error, names);

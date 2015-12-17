@@ -24,6 +24,10 @@ header .row:first-child {
   overflow: hidden;
 }
 
+.logo.row {
+  color: inherit;
+}
+
 h1.logo {
   font-size: 40px;
   font-weight: 700;
@@ -227,6 +231,7 @@ li {
 /* Implementation */
 
 .implementations {
+  margin-top: 20px;
   margin-bottom: 20px;
 }
 
