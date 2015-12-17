@@ -3,7 +3,8 @@ import json
 import requests
 
 topK = [1, 3, 5, -1] # Eval on top k entries,
-EVAL_FUNC = metrics.ndcg
+EVAL_FUNC = metrics.mean_reciprocal_rank
+
 def run_eval():
     with open("google_filtered_results.json") as fp:
         jdata = json.load(fp)
