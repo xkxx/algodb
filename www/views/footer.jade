@@ -1,0 +1,17 @@
+footer
+  .languages
+    h2.title Languages
+    ul.list
+      for l in languages
+        li.lang
+          a.link(href='/?lang=' + l.language style='color:'+l.color)
+            span.title= l.language
+            span.count= ' (' + l.count + ')'
+  a(href='/algorithms') List of algorithms
+  .authors
+    p Made with 💖by
+    ul
+      li: a(href='http://github.com/grant') grant
+      li: a(href='http://github.com/gupta-ak') gupta-ak
+      li: a(href='http://github.com/MinjingZhu') minjingzhu
+      li: a(href='http://github.com/xkxx') xkxx

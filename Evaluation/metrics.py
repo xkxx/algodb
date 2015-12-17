@@ -88,6 +88,10 @@ def mean_reciprocal_rank(expected, actual):
 
         if rank != 0:
             mrr += 1.0 / rank
+        #else:
+            #print("MISSED: " + correct)
+            #print("GOT: " + str(actual[i]))
+            #print ""	
     return mrr / len(expected)
 
 

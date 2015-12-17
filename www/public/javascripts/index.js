@@ -1,14 +1,14 @@
 $(function() {
   // Toggle logo color
-  $('.logo').click(function() {
-    if ($('.logo .v1').hasClass('hidden')) {
-      $('.logo .v1').removeClass('hidden');
-      $('.logo .v2').addClass('hidden');
-    } else {
-      $('.logo .v2').removeClass('hidden');
-      $('.logo .v1').addClass('hidden');
-    }
-  });
+  // $('.logo.row').click(function() {
+  //   if ($('.logo .v1').hasClass('hidden')) {
+  //     $('.logo .v1').removeClass('hidden');
+  //     $('.logo .v2').addClass('hidden');
+  //   } else {
+  //     $('.logo .v2').removeClass('hidden');
+  //     $('.logo .v1').addClass('hidden');
+  //   }
+  // });
 
   // Toggle see more expand/collapse
   $('.see-more-button').click(function() {
@@ -46,7 +46,9 @@ $(function() {
   $('.lang-button').click(function() {
     var lang = ($(this).text()).replace(' ', '-');
     var $langImpl = $(this).closest('.see-more').find('.implementation' + '.' + lang);
-    $('body').scrollTop($langImpl.offset().top);
+    if ($langImpl) {
+      $('body').scrollTop($langImpl.offset().top);
+    }
   });
 
   // Filter languages

@@ -100,8 +100,7 @@ def index_corresponding_algorithm(wikipage, linktitle, page_title):
 
 # returns the algo id if find the algorithm already indexed,
 # None otherwise
-def get_id_of_corresponding_algorithm(linktitle, page_title,
-    fuzzy=False):
+def get_id_of_corresponding_algorithm(linktitle, page_title, fuzzy=False):
     id = convert_to_id(linktitle)
     result = es.get(index=INDEX_NAME, doc_type='algorithm',
         id=id, ignore=404)
@@ -144,7 +143,7 @@ def get_corres_wikipedia_algo_id(page):
 
     # then use wikipedia api's auto-suggest to find corresponding
     # wikipedia page
-    id = nel_title_suggest(page.page_title)
+    id = nel_title_suggest(page.page_title, False)
     if id is not None:
         return [id]
 
@@ -159,13 +158,13 @@ def get_corres_wikipedia_algo_id(page):
     if id is not None:
         return [id]
 
-    # finally, if none of the links is similar to the task name,
-    # 1, store the task description
-    # 2, relate the implementation with ALL wiki algorithms pages
-    #    mentioned in description
-    ids = nel_wikilinks_match_all(wikilinks, page.page_title)
-    if len(ids) > 0:
-        return ids
+    # # finally, if none of the links is similar to the task name,
+    # # 1, store the task description
+    # # 2, relate the implementation with ALL wiki algorithms pages
+    # #    mentioned in description
+    # ids = nel_wikilinks_match_all(wikilinks, page.page_title)
+    # if len(ids) > 0:
+    #     return ids
 
     rd.sadd('rosetta-mapping-error-undefinable-wikilinks', page.page_title)
     print ''
@@ -196,8 +195,8 @@ def nel_wikilinks_fuzzy(wikilinks, page_title):
                 print '--first'
                 return [id]
 
-def nel_title_suggest(page_title):
-    wikipage = get_wiki_page(page_title)
+def nel_title_suggest(page_title, auto_suggest=True):
+    wikipage = get_wiki_page(page_title, auto_suggest)
     if wikipage is not None:
         # check if indexed
         id = get_id_of_corresponding_algorithm(page_title, page_title)
@@ -215,7 +214,7 @@ def nel_title_suggest(page_title):
             return [id]
 
 def nel_title_elasticsearch(page_title):
-    id = get_id_of_corresponding_algorithm(page_title, page_title, fuzzy=True)
+    # TODO search on name and alt_name
     if id is not None:
         rd.hset('rosetta-mapping-success', page_title, json.dumps([id]))
         rd.sadd('rosetta-mapping-success-wikipedia-autosuggest',
@@ -264,11 +263,11 @@ def nel_wikilinks_match_all(wikilinks, page_title):
                     continue
             ids.append(id)
     if len(ids) > 0:
-        rd.hset('rosetta-mapping-success', page.page_title,
+        rd.hset('rosetta-mapping-success', page_title,
             json.dumps(ids))
         rd.sadd('rosetta-mapping-success-all-algo-links', page_title)
         safe_print(ids)
-        print '--forth'
+        print '--all-link'
 
     return ids
 

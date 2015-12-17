@@ -26,7 +26,7 @@ try:
     for doc_type in ['category', 'algorithm', 'implementation']:
         print '# of lines in %s: (remember to substract 2)' % doc_type
         call(["sed", "-n", "$=",
-            "../elasticsearch_dumps/elasticsearch_%s_v4.0.json" % doc_type])
+            "../elasticsearch_dumps/elasticsearch_%s_v4.4.json" % doc_type])
 
     for key in ['rosetta-mapping-similars-success',
     'rosetta-mapping-success-wikipedia-autosuggest',

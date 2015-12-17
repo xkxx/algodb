@@ -1,0 +1,30 @@
+header
+  .logo.row
+    a(href='/')
+      h1.logo
+        span.v1.hidden AlgoDB
+        span.v2
+          span.b A
+          span.r l
+          span.y g
+          span.b o
+          span.g D
+          span.r B
+    .stats
+      h3
+        strong= count_summary.algorithm
+        span  algorithms
+      h3
+        strong= count_summary.category
+        span  categories
+      h3
+        strong= count_summary.implementation
+        span  implemenatations
+  form.row.query-form(action='/')
+    input.query-input(name='q' value=query placeholder='merge sort, md5, a*')
+    input.submit.button(type='submit' value='Search!')
+    select.language-select(placeholder='Filter languages' multiple)
+      for l in languagesAlphabetical
+        option(value=l.language)= l.language
+  a(href='/random')
+    input.random.button(type='submit' value="???")

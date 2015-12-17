@@ -1,0 +1,11 @@
+extends layout
+
+block content
+  include header
+  .algorithmNames
+    h2.title List of all algorithms
+    ul.list
+      for a in algorithmNames
+        li.lang
+          a.title(href='/' + a.id)= a.name
+  include footer

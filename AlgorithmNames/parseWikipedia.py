@@ -20,18 +20,19 @@ def is_algorithm_page(page):
 
     return category_match and content_match
 
-def get_wiki_page(title):
+def get_wiki_page(title, auto_suggest=True):
     try:
         # disable auto_suggest to get the correct page
         # (e.g. auto_suggest will turn 'B*' into 'Bacteria')
         return wiki.page(title, auto_suggest=False)
     except:
-        try:
-            # if there's no exact matching page,
-            # try the auto_suggest before giving up
-            return wiki.page(title)
-        except:
-            return None
+        if auto_suggest:
+            try:
+                # if there's no exact matching page,
+                # try the auto_suggest before giving up
+                return wiki.page(title)
+            except:
+                return None
 
 def write_output_from_page(output, page):
     json.dump(

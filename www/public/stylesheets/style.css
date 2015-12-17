@@ -8,6 +8,10 @@ a {
   color: #00B7FF;
 }
 
+em {
+  font-style: italic;
+}
+
 /* Header */
 
 header {
@@ -16,8 +20,27 @@ header {
 header .row {
   display: block;
 }
+header .row.query-form {
+  display: inline-block;
+}
 header .row:first-child {
   overflow: hidden;
+}
+header input {
+  vertical-align: top;
+}
+.selectize-control {
+  margin-right: 10px;
+}
+header .random {
+  background-color: rgb(240, 240, 240);
+}
+header .random:hover {
+  background-color: rgb(220, 220, 220);
+}
+
+.logo.row {
+  color: inherit;
 }
 
 h1.logo {
@@ -52,12 +75,23 @@ h1.logo .v2 .g { color: #00933B; }
   font-weight: 700;
 }
 
+.suggestions .title {
+  padding: 10px 0;
+  font-size: 16px;
+}
+
+.suggestions .ps {
+  padding: 10px 0;
+}
+
 /* Languages / Algorithm names */
 
 .languages .list {
   -webkit-columns: 6 150px;
      -moz-columns: 6 150px;
           columns: 6 150px;
+
+  padding-bottom: 10px;
 }
 
 .languages .list .count {
@@ -71,13 +105,25 @@ h1.logo .v2 .g { color: #00933B; }
   text-transform: uppercase;
 }
 
+.languages .link {
+  text-decoration: none;
+  border-bottom: 2px dotted rgb(230, 230, 230);
+  margin-bottom: 2px;
+  overflow: hidden;
+}
+
 .algorithmNames {
-  font-size: 4px;
+  margin: 20px 0;
+}
+.algorithmNames > .title {
+  font-size: 18px;
+  font-weight: 700;
+  padding: 10px 0 20px 0;
 }
 .algorithmNames .list {
-  -webkit-columns: 12 50px;
-     -moz-columns: 12 50px;
-          columns: 12 50px;
+  -webkit-columns: 6 150px;
+     -moz-columns: 6 150px;
+          columns: 6 150px;
 }
 
 /* Query */
@@ -205,6 +251,7 @@ li {
 /* Implementation */
 
 .implementations {
+  margin-top: 20px;
   margin-bottom: 20px;
 }
 
@@ -356,5 +403,5 @@ footer {
 }
 
 footer .authors {
-  margin-top: 20px;
+  margin-top: 10px;
 }

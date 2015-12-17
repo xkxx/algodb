@@ -5,6 +5,7 @@
 var async = require('async');
 var request = require('request');
 var map = require('objmap');
+var isarray = require('isarray');
 var marked = require('marked');
 marked.setOptions({
   renderer: new marked.Renderer(),
@@ -95,10 +96,16 @@ module.exports = {
     var self = this;
     var algorithmImplementationQueries = ids.map(function(id) {
       return function(queryCb) {
-        self.get_implementations(id, function(err, impls) {
+        var options = {
+          id: id
+        };
+        if (res.language) {
+          options.language = res.language;
+        }
+        self.get_implementations(options, function(err, impls) {
           queryCb(err, {
             id: id,
-            hits: impls.hits
+            hits: impls
           });
         });
       };
@@ -107,6 +114,8 @@ module.exports = {
     async.parallel(algorithmImplementationQueries, function(queryErr, implQueryData) {
       for (var i = 0; i < res.hits.length; ++i) {
         var algorithm = res.hits[i];
+
+        algorithm.url = '/' + algorithm._id;
 
         var impls = implQueryData.filter(function(impls) {
           return impls.id === algorithm._id;
@@ -133,6 +142,13 @@ module.exports = {
           b = b.toLowerCase();
           return (a > b) ? 1 : ((b > a) ? -1 : 0);
         }));
+
+        // Remove implementations that aren't in the queried language
+        if (res.language) {
+          algorithm.implementations = algorithm.implementations.filter(function(impl) {
+            return impl._source.language.toLowerCase() === res.language.toLowerCase();
+          });
+        }
       }
 
       cb(null, res);
@@ -165,17 +181,47 @@ module.exports = {
         var algorithmIds = hits.map(function(hit) {
           return hit._source.algorithm[0];
         });
+
+        // Fix Kexiang's bug with npm double arrays
+        algorithmIds = algorithmIds.map(function(id) {
+          if (isarray(id)) {
+            return id[0];
+          } else {
+            return id;
+          }
+        }).filter(function(id) {
+          // Some of the values are [[null, null]] (!!!)
+          return !!id;
+        });
+
         self.get_algorithms_by_ids(algorithmIds, function(err, algorithms) {
           var res = {
-            hits: algorithms
+            hits: algorithms,
+            language: language
           };
-          self.get_search_results_from_algorithm_ids(algorithmIds, res, function(err, result) {
-            console.log(result);
+          self.get_search_results_from_algorithm_ids(algorithmIds, res, function(err, results) {
+            cb(err, results);
           });
         });
       } else {
         cb(error);
       }
+    });
+  },
+
+  /**
+   * Search by algorithm ID
+   * @param {String} algorithmId The id of the algorithm
+   * @param {Callback} cb The callback
+   */
+  search_by_algorithm_id: function(algorithmId, cb) {
+    var self = this;
+    self.get_algorithms_by_ids([algorithmId], function(err, algorithms) {
+      var res = {};
+      res.hits = algorithms;
+      self.get_search_results_from_algorithm_ids([algorithmId], res, function(err, results) {
+        cb(err, results);
+      });
     });
   },
 
@@ -191,15 +237,17 @@ module.exports = {
         terms: {
           _id: algorithmIds
         }
-      }
+      },
+      size: MAX_RESULTS_PER_PAGE
     };
     request({
       url: url,
       body: body,
       json: true
     }, function(error, response, body) {
+      var hits;
       if (!error && response.statusCode === 200) {
-        var hits = body.hits.hits;
+        hits = body.hits.hits;
       }
       cb(error, hits);
     });
@@ -228,7 +276,10 @@ module.exports = {
       if (!error && response.statusCode === 200) {
         var hits = body.hits.hits;
         names = hits.map(function(hit) {
-          return hit.fields.name;
+          return {
+            name: hit.fields.name[0],
+            id: hit._id
+          };
         });
       }
       cb(error, names);
@@ -291,28 +342,63 @@ module.exports = {
    * @return {Object} res.error The error
    * @return {Object} res.hits The hits
    */
-  get_implementations: function(algorithmId, cb) {
+  get_implementations: function(options, cb) {
     var url = ELASTIC_SEARCH_URL + 'implementation/_search';
+    var algorithmId = options.id;
+    var language = options.language;
     var body = {
       query: {
-        match: {
-          algorithm: algorithmId
+        bool: {
+          must: [{
+            match: {
+              algorithm: algorithmId
+            }
+          }]
         }
-      }
+      },
+      size: 1000
     };
     request({
       url: url,
       body: body,
       json: true,
     }, function(error, response, body) {
-      var res = {};
-      res.error = error;
-
+      var hits;
       if (!error && response.statusCode === 200) {
-        res.hits = body.hits.hits;
+        hits = body.hits.hits;
       }
 
-      cb(error, res);
+      cb(error, hits);
+    });
+  },
+
+  /**
+   * Gets a random algorithm id
+   * @param {Callback} cb The callback
+   */
+  get_random_algorithm: function(cb) {
+    var url = ELASTIC_SEARCH_URL + 'algorithm/_search';
+    var body = {
+      size: 1,
+      query: {
+        function_score: {
+          query: {
+            match_all: {}
+          },
+          random_score: {}
+        }
+      }
+    };
+    request({
+      url: url,
+      body: body,
+      json: true
+    }, function(error, response, body) {
+      var hits;
+      if (!error && response.statusCode === 200) {
+        hits = body.hits.hits;
+      }
+      cb(error, hits[0]._id);
     });
   },
 

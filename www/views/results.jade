@@ -1,0 +1,34 @@
+.results
+  for h in search.hits
+    - var hit = h._source;
+    .result
+      a.name(href=h.url)= hit.name
+      p.description= hit.description
+      if !fullResult
+        button.button.see-more-button.top See more
+      .see-more(class=fullResult ? '' : 'hidden')
+        h3.categories.title Categories
+        ul.categories
+          for c in hit.categories
+            li.category= c
+        if h.implementations.length
+          h3.implementations.title
+            span Implementations
+            span= ' ('
+            span.langs
+              for l in h.implementationLanguages
+                span.lang
+                  a.lang-button= l
+            span= ')'
+          ul.implementations
+            for i in h.implementations
+              include ./implementation
+        else
+          h3.implementations.title No Implementations Found
+        if !fullResult
+          button.button.see-more-button See more
+  else
+    if query
+      h2.results.title.empty= 'No search results for "' + query + '"!'
+    else
+      h2.results.title.empty= 'No search results for algorithm "' + algorithmId + '"!'
