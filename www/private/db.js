@@ -76,6 +76,8 @@ module.exports = {
           return alg._id;
         });
 
+        res.limitImpls = true;
+
         self.get_search_results_from_algorithm_ids(ids, res, function(err, results) {
           cb(error, res);
         });
@@ -97,7 +99,8 @@ module.exports = {
     var algorithmImplementationQueries = ids.map(function(id) {
       return function(queryCb) {
         var options = {
-          id: id
+          id: id,
+          // limitImpls: res.limitImpls
         };
         if (res.language) {
           options.language = res.language;
@@ -142,6 +145,10 @@ module.exports = {
           b = b.toLowerCase();
           return (a > b) ? 1 : ((b > a) ? -1 : 0);
         }));
+
+        if (res.limitImpls) {
+          algorithm.implementations = algorithm.implementations.splice(0, 5);
+        }
 
         // Remove implementations that aren't in the queried language
         if (res.language) {
@@ -356,7 +363,7 @@ module.exports = {
           }]
         }
       },
-      size: 1000
+      size: (options.limitImpls ? 5 : 1000)
     };
     request({
       url: url,
@@ -399,6 +406,27 @@ module.exports = {
         hits = body.hits.hits;
       }
       cb(error, hits[0]._id);
+    });
+  },
+
+  get_categories: function(cb) {
+    var url = ELASTIC_SEARCH_URL + 'category/_search';
+    var body = {
+      size: 1000,
+      query: {
+        match_all: {}
+      }
+    };
+    request({
+      url: url,
+      body: body,
+      json: true
+    }, function(error, response, body) {
+      var hits;
+      if (!error && response.statusCode === 200) {
+        hits = body.hits.hits;
+      }
+      cb(error, hits);
     });
   },
 
