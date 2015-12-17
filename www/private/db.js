@@ -368,6 +368,36 @@ module.exports = {
   },
 
   /**
+   * Gets a random algorithm id
+   * @param {Callback} cb The callback
+   */
+  get_random_algorithm: function(cb) {
+    var url = ELASTIC_SEARCH_URL + 'algorithm/_search';
+    var body = {
+      size: 1,
+      query: {
+        function_score: {
+          query: {
+            match_all: {}
+          },
+          random_score: {}
+        }
+      }
+    };
+    request({
+      url: url,
+      body: body,
+      json: true
+    }, function(error, response, body) {
+      var hits;
+      if (!error && response.statusCode === 200) {
+        hits = body.hits.hits;
+      }
+      cb(error, hits[0]._id);
+    });
+  },
+
+  /**
    * Gets the counts of the "algorithm", "category", and "implementation" mappings.
    * Assumes never fails.
    * @param  {Callback} cb The response callback

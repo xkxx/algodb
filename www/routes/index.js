@@ -72,6 +72,26 @@ router.get('/', function(req, res, next) {
   });
 });
 
+// Redirect to a random algorithm
+router.get('/random', function(req, res, next) {
+  db.get_random_algorithm(function(err, id) {
+    res.redirect('/' + id);
+  });
+});
+
+// List of all algorithms
+router.get('/algorithms', function(req, res, next) {
+  async.parallel({
+    count_summary: function(cb) {
+      db.count_summary(cb);
+    },
+  }, function(err, data) {
+    data.algorithmNames = algorithmNames;
+    addExtraData(data);
+    res.render('algorithms', data);
+  });
+});
+
 /* GET result page */
 router.get('/:algorithmId', function(req, res, next) {
   var requestStart = +new Date;
@@ -93,7 +113,6 @@ router.get('/:algorithmId', function(req, res, next) {
 
 function addExtraData (data) {
   data.languages = languages;
-  data.algorithmNames = algorithmNames;
   data.languagesAlphabetical = data.languages.slice().sort(function(a,b) {
     a = a.language.toLowerCase();
     b = b.language.toLowerCase();

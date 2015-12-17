@@ -7,11 +7,7 @@ footer
           a.link(href='/?lang=' + l.language style='color:'+l.color)
             span.title= l.language
             span.count= ' (' + l.count + ')'
-  .algorithmNames
-    ul.list
-      for a in algorithmNames
-        li.lang
-          a.title(href='/' + a.id)= a.name
+  a(href='/algorithms') List of algorithms
   .authors
     p Made with 💖by
     ul
