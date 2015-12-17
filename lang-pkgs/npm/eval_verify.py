@@ -4,7 +4,7 @@ import redis
 import wikipedia as wiki
 from manual_tagger import printPkgContent, getUserInput, normalize
 from collections import Counter
-from index_pkg import get_links, get_npm_pkg
+from index_pkg_cw import get_links, get_npm_pkg
 
 TRUE_POSITIVE = 'True-Pos'
 FALSE_POSITIVE = 'False-Pos'
@@ -21,8 +21,14 @@ def parse_prior(expected):
             expectedCorrect.append(e)
     return (expectedCorrect, expectedWrong)
 
-def checkPkg(pkgName, actual, expected, r, es):
+def checkPkg(pkgName, expected, r, es):
     (expectedCorrect, expectedWrong) = parse_prior(expected)
+    # try link pkg
+    pkg = get_npm_pkg(pkgName)
+    hints = get_links(pkg, es)
+    print '================'
+    printPkgContent(pkgName)
+    actual = hints[:1]
     for algo in actual:
         if algo in expectedWrong:
             return FALSE_POSITIVE
@@ -40,11 +46,9 @@ def checkPkg(pkgName, actual, expected, r, es):
     elif len(expectedCorrect) != 0: # can be linked, but not
         return FALSE_NEGATIVE
     else:
-        pkg = get_npm_pkg(pkgName)
         print "NEL Hints:"
-        hints = get_links(pkg, es)
-        # for hint in hints[:15]:
-        #     print '\t', hint
+        for hint in hints[:15]:
+            print '\t', hint
         print '\n'
         print "No Link Detected"
         if getUserInput("Correct?"):
@@ -59,17 +63,8 @@ def main():
     samples = r.smembers('samples')
     conditions = Counter()
     for pkgName in samples:
-        print '================'
-        printPkgContent(pkgName)
-
-        doc = es.get(id="npm:%s:js" % pkgName, index='throwtable', doc_type="implementation", ignore=404)
-        if doc['found']:
-            actual = sum(doc['_source']['algorithm'], [])
-        else:
-            actual = []
         expected = r.smembers("%s:map" % pkgName)
-
-        result = checkPkg(pkgName, actual, expected, r, es)
+        result = checkPkg(pkgName, expected, r, es)
         print result
 
         r.sadd('samples-%s' % result, pkgName)

@@ -33,7 +33,7 @@ def get_text_content(pkg):
     for (kw, score) in parsedKeywords:
         if score > 3:
           results.append((kw, 1.2 * math.log(score, 4)))
-    if len(desc) > 2:
+    if 2 < len(desc) < 512:
         results.append((desc, 1.0))
     return results
 
@@ -81,7 +81,7 @@ def get_links(pkg, es):
 
     impls = []
     for (algo, score) in cands.most_common():
-        # print algo, score
+        print algo, score
         if match_valid(algo, score):
             impls.append(algo)
     return impls

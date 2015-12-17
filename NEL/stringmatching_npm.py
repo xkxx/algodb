@@ -39,10 +39,11 @@ def link_algorithm_cw(description, es):
     response = es.search(index='throwtable', doc_type='algorithm', body={
         "query": {
             "multi_match": {
-                "query": description.replace(' ', ' '),
+                "query": description,
                 "type": "most_fields",
                 "fuzziness": 'AUTO',
-                "fields": ['name^8', 'tag_line^1.5', 'alt_names^4', 'description^0.5']
+               # "minimum_should_match": "2<70%",
+                "fields": ['name^8', 'tag_line^1.5', 'alt_names^3', 'description^0.5']
             }
         }
     })
