@@ -2,8 +2,9 @@ import metrics
 import json
 import requests
 
-topK = [1, 3, 5] # Eval on top k entries
-EVAL_FUNC = metrics.precision_recall
+topK = [1, 3, 5, -1] # Eval on top k entries,
+EVAL_FUNC = metrics.mean_reciprocal_rank
+
 def run_eval():
     with open("google_filtered_results.json") as fp:
         jdata = json.load(fp)
@@ -51,16 +52,19 @@ def run_eval_singleK(google_results, our_results, k):
     for i in range(len(google_results)):
         k_google_single = []
         k_ours_single = []
-        if len(our_results[i]) < k:
-            continue
 
-        for j in range(k):
+        end = k
+        if k == -1:
+            end = len(google_results[i])
+
+        for j in range(min(end, len(google_results[i]))):
             k_google_single.append(google_results[i][j])
+
+        for j in range(min(end, len(our_results[i]))):
             k_ours_single.append(our_results[i][j])
+
         k_google.append(k_google_single)
         k_ours.append(k_ours_single)
-    print len(k_google)
-    print len(k_ours)
     return EVAL_FUNC(k_google, k_ours)
 
 if __name__ == '__main__':

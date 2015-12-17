@@ -3,6 +3,7 @@ import os
 import wikipedia
 import urllib
 
+
 def parse_google():
     skip_file = os.listdir("temp")
 
@@ -78,59 +79,52 @@ def parse_google():
         with open(os.path.join(json_temp_dirs, jsonfile), "w") as jfp:
             json.dump(tempjson, jfp, indent=4)
 
+
 def folder_to_file():
+    missing_best = {
+        "Richardson eigenvector algorithm": "https://en.wikipedia.org/wiki/Modified_Richardson_iteration",
+        "DE (Differential evolution)": "https://en.wikipedia.org/wiki/Differential_evolution",
+        "Shell sort": "https://en.wikipedia.org/wiki/Shellsort",
+        "Line search": "https://en.wikipedia.org/wiki/Line_search",
+        "Delta encoding": "https://en.wikipedia.org/wiki/Delta_encoding",
+        "Self-organizing map (Kohonen map)": "https://en.wikipedia.org/wiki/Self-organizing_map"
+    }
+
+    remove_non_algos = [
+        "Ant colony optimization",          # Vague
+        "Branch and bound",                 # Vague
+        "Ant-algorithms",                   # Dup entry
+        "Coloring algorithm",               # Vague
+        "Divide-and-conquer",               # Vague
+        "Selection algorithm",              # Vague
+        "Page replacement",                 # Vague
+        "Splay tree",                       # Data structure not algorithm
+        "Fourier transform multiplication"  # Ground truth doesn't have correct links
+    ]
+
     jdata = {}
     for jsonFile in os.listdir("temp"):
         with open(os.path.join("temp", jsonFile)) as fp:
             single = json.load(fp)
         for k, v in single.items():
-            if v and len(v) >= 5:
+            if len(v) >= 5 and k not in remove_non_algos:
                 res = []
+                if k in missing_best:
+                    res.append(missing_best[k])
                 for url in v:
                     if "..." in url:
                         res.append(url.replace("...", "wiki").replace(" ", ""))
                     else:
                         res.append(url)
-                jdata[k] = res       
+                jdata[k] = res
     return jdata
-
-def filter_invalid_search(google_data):
-
-    # Need to change:
-    invalid_names = ["Predictive search",
-                     "Deep Dense Face Detector",
-                     "Zha's algorithm",
-                     "Parity Control",
-                     "Ephmerides",
-                     "Trust search",
-                     "Epitome",
-                     "Help to diagnosis",
-                     "Hungarian",
-                     "Woodhouse-Sharp",
-                     "Coding scheme that assigns codes to symbols so as to match code lengths with the probabilities of the symbols",
-                     "O'Carroll algorithm",
-                     "Computation useful in healthcare",
-                     "Positions of Moon or other celestial objects"
-
-                     ]
-    #   Peterson's [+Algorithm]
-    #   Banker's [+Algorithm]
-    #   Cocktail sort [-(or bidirectional bubble, shaker, ripple, shuttle, happy hour sort)]
-    #   Hungarian [+Algorithm]
-    #
-    # Algorithms not in wikipedia:
-    #   Woodhouse-Sharp Algorithm
-    #   Zha's algorithm
-    #   O'Carroll algorithm
-    #   Deep Dense Face Detector
-    return google_data
 
 
 def run():
     parse_google()
     google_data = folder_to_file()
-    filtered = filter_invalid_search(google_data)
+    print(len(google_data))
     with open("google_filtered_results.json", "w") as fp:
-        json.dump(filtered, fp, indent=4)
+        json.dump(google_data, fp, indent=4)
 if __name__ == '__main__':
     run()

@@ -52,7 +52,7 @@ h1.logo .v2 .g { color: #00933B; }
   font-weight: 700;
 }
 
-/* Languages */
+/* Languages / Algorithm names */
 
 .languages .list {
   -webkit-columns: 6 150px;
@@ -62,6 +62,22 @@ h1.logo .v2 .g { color: #00933B; }
 
 .languages .list .count {
   color: rgb(200, 200, 200);
+}
+
+.languages > .title {
+  font-size: 16px;
+  font-weight: 700;
+  margin: 20px 0;
+  text-transform: uppercase;
+}
+
+.algorithmNames {
+  font-size: 4px;
+}
+.algorithmNames .list {
+  -webkit-columns: 12 50px;
+     -moz-columns: 12 50px;
+          columns: 12 50px;
 }
 
 /* Query */

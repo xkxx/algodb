@@ -18,6 +18,8 @@ marked.setOptions({
 });
 var unique = require('array-unique');
 
+var MAX_RESULTS_PER_PAGE = 50;
+
 var ELASTIC_SEARCH_URL = 'http://localhost:9200/throwtable/';
 var ELASTIC_SCROLL_URL = 'http://localhost:9200/';
 
@@ -54,7 +56,7 @@ module.exports = {
         }
       },
       min_score: 1,
-      size: 50,
+      size: MAX_RESULTS_PER_PAGE,
     };
     request({
       url: url,
@@ -73,54 +75,163 @@ module.exports = {
           return alg._id;
         });
 
-        // Prepare the implemenatation queries
-        var algorithmImplementationQueries = ids.map(function(id) {
-          return function(queryCb) {
-            self.get_implementations(id, function(err, impls) {
-              queryCb(err, {
-                id: id,
-                hits: impls.hits
-              });
-            });
-          };
-        });
-        // Execute the queries in parallel
-        async.parallel(algorithmImplementationQueries, function(queryErr, implQueryData) {
-          for (var i = 0; i < res.hits.length; ++i) {
-            var algorithm = res.hits[i];
-
-            var impls = implQueryData.filter(function(impls) {
-              return impls.id === algorithm._id;
-            })[0];
-            algorithm.implementations = impls.hits.sort(function (a, b) {
-              var aLang = a._source.language.toLowerCase();
-              var bLang = b._source.language.toLowerCase();
-              return (aLang > bLang) ? 1 : ((bLang > aLang) ? -1 : 0);
-            });
-
-            // Convert npm markdown to html
-            for (var j = 0; j < algorithm.implementations.length; ++j) {
-              if (algorithm.implementations[j]._source.source === 'npm') {
-                var instruction = algorithm.implementations[j]._source.instruction;
-                instruction.html = marked(instruction.content);
-              }
-            }
-
-            // Add list of languages
-            algorithm.implementationLanguages = unique(algorithm.implementations.map(function(impl) {
-              return impl._source.language;
-            }).sort(function(a, b) {
-              a = a.toLowerCase();
-              b = b.toLowerCase();
-              return (a > b) ? 1 : ((b > a) ? -1 : 0);
-            }));
-          }
-
+        self.get_search_results_from_algorithm_ids(ids, res, function(err, results) {
           cb(error, res);
         });
       } else {
         cb(error, res);
       }
+    });
+  },
+
+  /**
+   * Returns organized search results
+   * @param {String[]} ids A list of algorithm ids
+   * @param {Object} res (res = {}, res.hits = body.hits.hits;)
+   * @param {Callback} cb The callback
+   */
+  get_search_results_from_algorithm_ids: function(ids, res, cb) {
+    // Prepare the implemenatation queries
+    var self = this;
+    var algorithmImplementationQueries = ids.map(function(id) {
+      return function(queryCb) {
+        self.get_implementations(id, function(err, impls) {
+          queryCb(err, {
+            id: id,
+            hits: impls.hits
+          });
+        });
+      };
+    });
+    // Execute the queries in parallel
+    async.parallel(algorithmImplementationQueries, function(queryErr, implQueryData) {
+      for (var i = 0; i < res.hits.length; ++i) {
+        var algorithm = res.hits[i];
+
+        var impls = implQueryData.filter(function(impls) {
+          return impls.id === algorithm._id;
+        })[0];
+        algorithm.implementations = impls.hits.sort(function (a, b) {
+          var aLang = a._source.language.toLowerCase();
+          var bLang = b._source.language.toLowerCase();
+          return (aLang > bLang) ? 1 : ((bLang > aLang) ? -1 : 0);
+        });
+
+        // Convert npm markdown to html
+        for (var j = 0; j < algorithm.implementations.length; ++j) {
+          if (algorithm.implementations[j]._source.source === 'npm') {
+            var instruction = algorithm.implementations[j]._source.instruction;
+            instruction.html = marked(instruction.content);
+          }
+        }
+
+        // Add list of languages
+        algorithm.implementationLanguages = unique(algorithm.implementations.map(function(impl) {
+          return impl._source.language;
+        }).sort(function(a, b) {
+          a = a.toLowerCase();
+          b = b.toLowerCase();
+          return (a > b) ? 1 : ((b > a) ? -1 : 0);
+        }));
+      }
+
+      cb(null, res);
+    });
+  },
+
+  /**
+   * Gets results by programming language.
+   * @param {String} language A language
+   * @param {Callback} cb The callback
+   */
+  search_by_language: function(language, cb) {
+    var self = this;
+    var url = ELASTIC_SEARCH_URL + 'implementation/_search';
+    var body = {
+      query: {
+        match: {
+          language: language
+        }
+      },
+      size: MAX_RESULTS_PER_PAGE
+    };
+    request({
+      url: url,
+      body: body,
+      json: true
+    }, function(error, response, body) {
+      if (!error && response.statusCode === 200) {
+        var hits = body.hits.hits;
+        var algorithmIds = hits.map(function(hit) {
+          return hit._source.algorithm[0];
+        });
+        self.get_algorithms_by_ids(algorithmIds, function(err, algorithms) {
+          var res = {
+            hits: algorithms
+          };
+          self.get_search_results_from_algorithm_ids(algorithmIds, res, function(err, result) {
+            console.log(result);
+          });
+        });
+      } else {
+        cb(error);
+      }
+    });
+  },
+
+  /**
+   * Gets algorithm hits for all ids
+   * @param {String[]} algorithmIds A list of algorithm ids
+   * @param {Callback} cb The callback
+   */
+  get_algorithms_by_ids: function(algorithmIds, cb) {
+    var url = ELASTIC_SEARCH_URL + 'algorithm/_search';
+    var body = {
+      query: {
+        terms: {
+          _id: algorithmIds
+        }
+      }
+    };
+    request({
+      url: url,
+      body: body,
+      json: true
+    }, function(error, response, body) {
+      if (!error && response.statusCode === 200) {
+        var hits = body.hits.hits;
+      }
+      cb(error, hits);
+    });
+  },
+
+  /**
+   * Gets all algorithm names in the database
+   * @param  {Callback} cb The callback
+   * @return {String[]} A list of algorithm names
+   */
+  get_algorithms: function(cb) {
+    var url = ELASTIC_SEARCH_URL + 'algorithm/_search';
+    var body = {
+      fields: ['name'],
+      size: 10000,
+      query: {
+        match_all: {}
+      }
+    };
+    request({
+      url: url,
+      body: body,
+      json: true
+    }, function(error, response, body) {
+      var names;
+      if (!error && response.statusCode === 200) {
+        var hits = body.hits.hits;
+        names = hits.map(function(hit) {
+          return hit.fields.name;
+        });
+      }
+      cb(error, names);
     });
   },
 
@@ -174,7 +285,7 @@ module.exports = {
 
   /**
    * Gets all the implementation documents for a given algorithm id
-   * @param {String} algorithmIds The algorithm id
+   * @param {String} algorithmId The algorithm id
    * @param {Function} cb The response callback
    * @return {Object} res A list of implementations
    * @return {Object} res.error The error
