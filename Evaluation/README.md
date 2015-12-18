@@ -18,6 +18,10 @@ Code:
   * run_final_eval.py: Runs the evaluation on the end to end system using metric in EVAL_FUNC
 
 Usage:  
+Only final evaluation:  
+python run_final_eval.py
+
+Entire process:  
 python create_algo_list.py  
 Add key + start into get_google_results.py  
 python get_google_results.py  

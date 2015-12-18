@@ -2,10 +2,14 @@
 
 Mad (╯°□°)╯'ing.
 
+A search engine for algorithms.
+
+<img width="1435" alt="screen shot 2015-12-17 at 3 12 00 pm" src="https://cloud.githubusercontent.com/assets/744973/11888391/ae4567f4-a4f1-11e5-88d2-4acdef598df6.png">
+
 ## Setup
 
-1. Run the DB by following the instructions in `elasticsearch_dumps`
-2. Run the web server in `www`
+1. Run the DB by following the README instructions in `elasticsearch_dumps`
+2. Run the web server README in `www`
 
 ## Parts
 
