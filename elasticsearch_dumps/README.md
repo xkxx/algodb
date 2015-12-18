@@ -2,6 +2,7 @@
 
 ## Install
 
+Make sure you have [brew](http://brew.sh/) and [node](https://nodejs.org/en/download/) installed.
 Install redis and elastic search.
 
 ```
@@ -22,7 +23,6 @@ Restore data from json data dump (only one time to load data into db)
 ./restore_elasticsearch.sh
 ```
 
-
 # Database
 
 ## version 1
@@ -40,6 +40,7 @@ Fixed rosetta code commentary parsing bug
 ## version 3.0
 
 Fuzzy string match wikipedia link titles, then crosswikis, then match all algo link in description
+
 Fixed rosetta code language parsing bug
 
 ## version 3.1
@@ -49,6 +50,7 @@ Adjusted fuzziness
 ## version 3.2
 
 Fixed another rosetta code language parsing bug
+
 Deduplication of programming language of all implementations
 
 ## version 3.3
@@ -58,9 +60,13 @@ Used crosswikis as a source for Algorithms' associated queries
 ## version 4.0
 
 Fuzzy string match wikipedia link titles
+
 then use wikipedia api auto-suggest given the task name
+
 then use crosswikis
+
 then match all algo link in description
+
 (all linkings must link to wikipedia page detected to be algorithm)
 
 ## version 4.1
@@ -68,6 +74,20 @@ then match all algo link in description
 Strategies are the same as v4.0, but since algorithm page detection has
 a significant number of false negatives, now linkings are not checked for
 whether it is an algorithm page.
+
+## version 4.2
+
+Fuzzy string match
+
+Wikipedia auto-suggest
+
+## version 4.3
+
+Fuzzy string match
+
+Wikipedia auto-suggest (with lower fuzziness)
+
+Crosswikis
 
 ## Other scripts
 
