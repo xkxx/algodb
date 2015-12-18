@@ -2,6 +2,7 @@
 
 ## Install
 
+Make sure you have [brew](http://brew.sh/) and [node](https://nodejs.org/en/download/) installed.
 Install redis and elastic search.
 
 ```
@@ -21,7 +22,6 @@ Restore data from json data dump (only one time to load data into db)
 ```
 ./restore_elasticsearch.sh
 ```
-
 
 # Database
 
