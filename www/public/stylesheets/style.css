@@ -219,9 +219,6 @@ h1.logo .v2 .g { color: #00933B; }
 }
 .result .description {
   margin: 10px;
-  max-height: 150px;
-  overflow: hidden;
-  text-overflow: ellipsis;
 }
 .result .description:first-letter {
   float: left;
