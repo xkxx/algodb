@@ -69,6 +69,17 @@ Strategies are the same as v4.0, but since algorithm page detection has
 a significant number of false negatives, now linkings are not checked for
 whether it is an algorithm page.
 
+## version 4.2
+
+Fuzzy string match
+Wikipedia auto-suggest
+
+## version 4.3
+
+Fuzzy string match
+Wikipedia auto-suggest (with lower fuzziness)
+Crosswikis
+
 ## Other scripts
 
 Backup all the tables in elasticsearch into a json file
