@@ -40,6 +40,7 @@ Fixed rosetta code commentary parsing bug
 ## version 3.0
 
 Fuzzy string match wikipedia link titles, then crosswikis, then match all algo link in description
+
 Fixed rosetta code language parsing bug
 
 ## version 3.1
@@ -49,6 +50,7 @@ Adjusted fuzziness
 ## version 3.2
 
 Fixed another rosetta code language parsing bug
+
 Deduplication of programming language of all implementations
 
 ## version 3.3
@@ -58,9 +60,13 @@ Used crosswikis as a source for Algorithms' associated queries
 ## version 4.0
 
 Fuzzy string match wikipedia link titles
+
 then use wikipedia api auto-suggest given the task name
+
 then use crosswikis
+
 then match all algo link in description
+
 (all linkings must link to wikipedia page detected to be algorithm)
 
 ## version 4.1
@@ -72,12 +78,15 @@ whether it is an algorithm page.
 ## version 4.2
 
 Fuzzy string match
+
 Wikipedia auto-suggest
 
 ## version 4.3
 
 Fuzzy string match
+
 Wikipedia auto-suggest (with lower fuzziness)
+
 Crosswikis
 
 ## Other scripts
