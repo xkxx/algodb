@@ -16,6 +16,6 @@ elasticdump \
   --type=data
 
 elasticdump \
-  --input=elasticsearch_npm.json \
+  --input=elasticsearch_implementation_npm_inv_1.json \
   --output=http://localhost:9200/throwtable \
   --type=data
