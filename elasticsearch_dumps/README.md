@@ -25,13 +25,17 @@ Restore data from json data dump (only one time to load data into db)
 
 # Database
 
+Explanation of the NEL strategies that each versions use, the bugs fixed, or the new features.
+
 ## version 1
 
 Exact string match
 
 ## version 2.0
 
-Fuzzy string match wikipedia link titles, then match all algo link in description
+Fuzzy string match
+
+Match all algo link in description (for debugging purpose)
 
 ## version 2.1
 
@@ -39,7 +43,11 @@ Fixed rosetta code commentary parsing bug
 
 ## version 3.0
 
-Fuzzy string match wikipedia link titles, then crosswikis, then match all algo link in description
+Fuzzy string match wikipedia link titles
+
+Crosswikis
+
+Match all algo link in description (for debugging purpose)
 
 Fixed rosetta code language parsing bug
 
@@ -61,11 +69,11 @@ Used crosswikis as a source for Algorithms' associated queries
 
 Fuzzy string match wikipedia link titles
 
-then use wikipedia api auto-suggest given the task name
+Wikipedia api auto-suggest given the task name
 
-then use crosswikis
+Crosswikis
 
-then match all algo link in description
+Match all algo link in description
 
 (all linkings must link to wikipedia page detected to be algorithm)
 
@@ -85,7 +93,7 @@ Wikipedia auto-suggest
 
 Fuzzy string match
 
-Wikipedia auto-suggest (with lower fuzziness)
+Wikipedia auto-suggest (with lower fuzziness, works better!)
 
 Crosswikis
 
