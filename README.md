@@ -1,4 +1,4 @@
-# throwtable
+# AlgoDB
 
 Mad (╯°□°)╯'ing.
 
