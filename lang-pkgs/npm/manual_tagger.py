@@ -2,7 +2,9 @@ from elasticsearch import Elasticsearch
 from elasticsearch.helpers import scan
 import requests
 import redis
+import json
 import wikipedia as wiki
+from sys import argv
 
 def normalize(str):
     str = ''.join(e for e in str.lower())
@@ -37,15 +39,21 @@ def queryWikipedia(concept):
     page = wiki.page(concept, auto_suggest=autoSuggest)
     return page.title
 
-def main():
+def main(flag):
     es = Elasticsearch([{'host': 'localhost', 'port': 9200}])
     r = redis.StrictRedis()
 
-    body = {'query': {'match_all': {}}}
-    result = scan(es, index='throwtable', doc_type='implementation',
-        query=body)
-    for p in result:
-        r.sadd('pkgs', p['_source']['instruction']['package'])
+    if flag == '1':
+        body = {'query': {'match_all': {}}}
+        result = scan(es, index='throwtable', doc_type='implementation',
+            query=body)
+        for p in result:
+            r.sadd('pkgs', p['_source']['instruction']['package'])
+    else:
+        result = json.load(open('list.json'))
+        for p in result:
+            r.sadd('pmgs', p)
+
     samples = r.srandmember('pkgs', 100)
     for pkgName in samples:
         r.sadd('samples', pkgName)
@@ -66,4 +74,4 @@ def main():
             r.sadd('%s:map' % pkgName, *result)
 
 if __name__ == '__main__':
-    main()
+    main(argv[1])

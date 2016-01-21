@@ -1,6 +1,4 @@
-# throwtable
-
-Mad (╯°□°)╯'ing.
+# AlgoDB
 
 A search engine for algorithms.
 

@@ -107,7 +107,10 @@ def get_npm_pkg(pkgName):
 def work():
     es = Elasticsearch([{'host': 'localhost', 'port': 9200}])
     dump = open('results.json')
+    ctr = 0
     for line in dump:
+        print(ctr)
+        ctr += 1
         index_package(line, es)
 
 def test_query(desp):

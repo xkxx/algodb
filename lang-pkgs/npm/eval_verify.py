@@ -4,7 +4,7 @@ import redis
 import wikipedia as wiki
 from manual_tagger import printPkgContent, getUserInput, normalize
 from collections import Counter
-from index_pkg_cw import get_links, get_npm_pkg
+from index_pkg import get_links, get_npm_pkg
 
 TRUE_POSITIVE = 'True-Pos'
 FALSE_POSITIVE = 'False-Pos'
