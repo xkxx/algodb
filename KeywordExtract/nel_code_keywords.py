@@ -15,10 +15,11 @@ def link_implementation(kws, es):
     results = Counter()
     for func in func_names:
         for (id, score) in search_by_func(func, es):
+            print (id, score)
             if score > PER_KW_CUTOFF:
                 results[id] += score
 
-    for id in results:
+    for id in results.keys()
         if results[id] < TOTAL_CUTOFF:
             del results[id]
     if len(results) == 0 or len(results) > 3:
