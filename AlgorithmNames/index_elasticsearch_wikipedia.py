@@ -96,7 +96,7 @@ def index_wiki_algorithm_entry(page, title, visited):
     altnames = [anchor for (cprob, anchor) in results
         if float(cprob) > CPROB_THRESHOLD]
     body['alt_names'].extend(altnames)
-    print 'altnames =', altnames
+    # print 'altnames =', altnames
 
     retval = es.index(index=INDEX_NAME, doc_type='algorithm',
         id=normalize(page.title), body=body)

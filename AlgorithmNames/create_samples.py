@@ -22,7 +22,24 @@ def get_sample_ids():
         body=body, size=15000)
 
     for impl in result['hits']['hits']:
-        if impl['_id'].split(':')[0] == 'rosetta':
+        tokens = impl['_id'].split(':')
+        if tokens[0] == 'rosetta':
+            print impl['_id']
+            task_name = impl['_id'].split(':')[1]
+            if r.hexists('rosetta-id-taskname-mapping', task_name):
+                continue
+            r.hset('rosetta-id-taskname-mapping', task_name, impl['_id'])
+
+def get_sample_ids_language_specified(lang):
+    es = Elasticsearch([{'host': 'localhost', 'port': 9200}])
+
+    body = {'query': {'match_all': {}}}
+    result = es.search(index='throwtable', doc_type='implementation',
+        body=body, size=15000)
+
+    for impl in result['hits']['hits']:
+        tokens = impl['_id'].split(':')
+        if tokens[0] == 'rosetta' and tokens[-1] == 'python':
             print impl['_id']
             task_name = impl['_id'].split(':')[1]
             if r.hexists('rosetta-id-taskname-mapping', task_name):
@@ -36,4 +53,4 @@ if __name__ == '__main__':
     else:
         if r.exists('rosetta-id-taskname-mapping'):
             r.delete('rosetta-id-taskname-mapping')
-        get_sample_ids()
+        get_sample_ids_language_specified('python')

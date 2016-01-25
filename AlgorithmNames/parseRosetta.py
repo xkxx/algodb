@@ -125,15 +125,18 @@ def parse_rosetta_task_names():
         csv_writer.writerow([page.name])
 
 def parse_rosetta_task_pages():
-    output = open('rosetta_task_pages.json', 'w+')
+    output = open('rosetta.json', 'w+')
 
     category = site.Pages['Category:Programming Tasks']
+    i = 0
     for page in category:
+        print '#', i
+        print page.page_title
         output.write(Task(page).toJson())
         output.write('\n')
+        i += 1
 
 if __name__ == '__main__':
-    # parse_rosetta_task_pages()
-    page = site.Pages['fractran']
-
-    print Task(page).solutions
+    parse_rosetta_task_pages()
+    # page = site.Pages['fractran']
+    # print Task(page).toJson()

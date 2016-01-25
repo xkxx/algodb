@@ -1,7 +1,4 @@
-# Delete
-curl -XDELETE 'http://localhost:9200/throwtable'
-
-# Restore
+# Backup
 elasticdump \
   --input=http://localhost:9200/throwtable/algorithm \
   --output=elasticsearch_algorithm_v4.3.json \
