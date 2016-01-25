@@ -21,7 +21,7 @@ def link_implementation(kws, es):
     for id in results:
         if results[id] < TOTAL_CUTOFF:
             del results[id]
-    if len(results) > 3:
+    if len(results) == 0 or len(results) > 3:
         print 'return 2'
         return None
 
