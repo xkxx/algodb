@@ -59,6 +59,7 @@ def index_rosetta():
                          algo_id = link_implementation(keywords, es)
                          if algo_id is not None:
                              rd.hset('keywords-mapping', pagetask.task_name, algo_id)
+                             algo_ids = list()
                              algo_ids.append(algo_id)
                          break
 
