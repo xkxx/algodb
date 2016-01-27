@@ -2,6 +2,7 @@ import mwclient as mw
 import redis
 import random
 from elasticsearch import Elasticsearch
+from elasticsearch.helpers import scan
 
 r = redis.StrictRedis()
 
@@ -18,10 +19,10 @@ def get_sample_ids():
     es = Elasticsearch([{'host': 'localhost', 'port': 9200}])
 
     body = {'query': {'match_all': {}}}
-    result = es.search(index='throwtable', doc_type='implementation',
-        body=body, size=15000)
+    result = scan(es, index='throwtable', doc_type='implementation',
+        body=body, scroll='5m')
 
-    for impl in result['hits']['hits']:
+    for impl in result:
         tokens = impl['_id'].split(':')
         if tokens[0] == 'rosetta':
             print impl['_id']
