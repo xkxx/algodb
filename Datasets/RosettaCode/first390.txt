@@ -1,0 +1,390 @@
+Guess the number/With feedback (player)
+Loops/Break
+Guess the number/With feedback
+Abstract type
+Benford's law
+Jensen's Device
+Perfect numbers
+First-class functions/Use numbers analogously
+K-d tree
+CSV to HTML translation
+Canny edge detector
+MD5
+Bitwise operations
+Fibonacci n-step number sequences
+Call an object method
+Infinity
+Machine code
+Pascal's triangle/Puzzle
+Binary digits
+List comprehensions
+Amb
+Count the coins
+Magic squares of odd order
+Extend your language
+Narcissist
+First class environments
+Dragon curve
+Formal power series
+Empty string
+Combinations and permutations
+MD4
+OpenGL
+Permutations by swapping
+HTTPS/Authenticated
+Matrix-exponentiation operator
+Jump anywhere
+Exponentiation operator
+Pernicious numbers
+Compare a list of strings
+First-class functions
+Metered concurrency
+Command-line arguments
+Bitwise IO
+Permutations/Rank of a permutation
+Dynamic variable names
+HTTPS/Client-authenticated
+Currying
+K-means++ clustering
+Hickerson series of almost integers
+Logical operations
+Bitcoin/address validation
+I before E except after C
+Bitcoin/public point to address
+Modular inverse
+Carmichael 3 strong pseudoprimes
+Bitmap/Bresenham's line algorithm
+Mutual recursion
+Bitmap/Write a PPM file
+Address of a variable
+Create a two-dimensional array at runtime
+Collections
+Bitmap
+Hash from two arrays
+Apply a callback to an array
+Flatten a list
+Bitmap/Bézier curves/Cubic
+Haversine formula
+Parsing/Shunting-yard algorithm
+Generator/Exponential
+Loops/Infinite
+Loops/For
+Bernoulli numbers
+One-dimensional cellular automata
+Empty program
+Null object
+Conway's Game of Life
+Host introspection
+Hough transform
+Find limit of recursion
+Inverted index
+Deconvolution/2D+
+Average loop length
+Arithmetic/Rational
+Naming conventions
+Compare sorting algorithms' performance
+Events
+Memory allocation
+Fractran
+Natural sorting
+Continued fraction/Arithmetic/Construct from rational number
+Extensible prime generator
+Plot coordinate pairs
+Named parameters
+Multiple regression
+Add a variable to a class instance at runtime
+Odd word problem
+Pig the dice game
+Function definition
+Maximum triangle path sum
+Order disjoint list items
+LU decomposition
+AKS test for primes
+Check Machin-like formulas
+Arithmetic-geometric mean/Calculate Pi
+Horizontal sundial calculations
+Numerical integration/Gauss-Legendre Quadrature
+Knight's tour
+Miller–Rabin primality test
+Go Fish
+Knapsack problem/Unbounded
+Spiral matrix
+Read a specific line from a file
+Time a function
+SEDOLs
+Real constants and functions
+Rate counter
+Zeckendorf arithmetic
+Tic-tac-toe
+Rosetta Code/Fix code tags
+Ranking methods
+Write language name in 3D ASCII
+Solve the no connection puzzle
+Sorting algorithms/Radix sort
+Zeckendorf number representation
+Variables
+RCRPG
+Sort an array of composite structures
+Voronoi diagram
+Terminal control/Dimensions
+Runtime evaluation
+Runtime evaluation/In an environment
+SQL-based authentication
+Window management
+Seven-sided dice from five-sided dice
+Sort stability
+Unbias a random generator
+Probabilistic choice
+System time
+Statistics/Basic
+Rendezvous
+String matching
+QR decomposition
+SOAP
+Self-describing numbers
+Xiaolin Wu's line algorithm
+Table creation/Postal addresses
+URL decoding
+URL encoding
+Sorting algorithms/Sleep sort
+Resistor mesh
+Set
+Sorting algorithms/Comb sort
+Total circles area
+Rosetta Code/Find bare lang tags
+Short-circuit evaluation
+Sierpinski triangle
+Sorting algorithms/Bogosort
+Sorting algorithms/Permutation sort
+Rename a file
+Primes - allocate descendants to their ancestors
+The ISAAC Cipher
+Sudoku
+Price fraction
+Sequence of primes by Trial Division
+Simple windowed application
+Ray-casting algorithm
+Remove lines from a file
+Zero to the zero power
+Sorting algorithms/Selection sort
+Pythagorean triples
+Subleq
+Window creation
+SHA-256
+Web scraping
+Subtractive generator
+Speech synthesis
+Sorting algorithms/Quicksort
+Sleep
+Set of real numbers
+User input/Graphical
+User input/Text
+Roots of unity
+Take notes on the command line
+Primality by trial division
+Rot-13
+Solve a Numbrix puzzle
+Solve a Hopido puzzle
+String length
+String interpolation (included)
+Set puzzle
+Zhang-Suen thinning algorithm
+Priority queue
+XML/Output
+XML/Input
+Sorting algorithms/Cocktail sort
+Strip a set of characters from a string
+Roots of a quadratic function
+Tokenize a string
+Sorting algorithms/Counting sort
+String append
+SHA-1
+RSA code
+Sum of squares
+Sparkline in unicode
+Terminal control/Preserve screen
+Terminal control/Clear the screen
+Shell one-liner
+Walk a directory/Recursively
+Roman numerals/Encode
+Tree traversal
+Safe addition
+Yahoo! search interface
+Word wrap
+Sieve of Eratosthenes
+Soundex
+Secure temporary file
+RIPEMD-160
+Twelve statements
+Sorting algorithms/Heapsort
+Temperature conversion
+Sockets
+Stack traces
+Sorting algorithms/Strand sort
+Trigonometric functions
+String case
+Simple database
+String concatenation
+Synchronous concurrency
+Reduced row echelon form
+Rosetta Code/Rank languages by popularity
+Read entire file
+Reverse a string
+The Twelve Days of Christmas
+Sailors, coconuts and a monkey problem
+Remove duplicate elements
+Zebra puzzle
+Simulate input/Keyboard
+XML/XPath
+Write entire file
+Stable marriage problem
+Sort an integer array
+Set consolidation
+Sequence of non-squares
+Yin and yang
+Read a file line by line
+Quickselect algorithm
+Sum and product of an array
+Pragmatic directives
+Wireworld
+Sorting algorithms/Stooge sort
+Sierpinski triangle/Graphical
+Substring
+Run-length encoding
+Update a configuration file
+Video display modes
+Terminal control/Ringing the terminal bell
+State name puzzle
+Return multiple values
+Symmetric difference
+Read a configuration file
+Roots of a function
+Vigenère cipher/Cryptanalysis
+Show the epoch
+Ternary logic
+Stern-Brocot sequence
+Sorting algorithms/Bead sort
+Sort using a custom comparator
+Send email
+String comparison
+Quaternion type
+Strip control codes and extended characters from a string
+World Cup group stage
+Rock-paper-scissors
+Variable size/Set
+Sum multiples of 3 and 5
+Power set
+Program termination
+Truncate a file
+Rosetta Code/Count examples
+Variadic function
+Write float arrays to a text file
+Topic variable
+Ulam spiral (for primes)
+Stack
+Terminal control/Display an extended character
+Terminal control/Inverse video
+Terminal control/Hiding the cursor
+Sum of a series
+Universal Turing machine
+Test a function
+Send an unknown method call
+Vogel's approximation method
+Trabb Pardo–Knuth algorithm
+Singly-linked list/Traversal
+Roman numerals/Decode
+Program name
+Queue/Definition
+String prepend
+Strip whitespace from a string/Top and tail
+Special variables
+Sorting algorithms/Pancake sort
+Quine
+Top rank per group
+Verify distribution uniformity/Naive
+Sorting algorithms/Insertion sort
+Sorting algorithms/Bubble sort
+Verify distribution uniformity/Chi-squared test
+Random numbers
+XML/DOM serialization
+Terminal control/Coloured text
+Vigenère cipher
+Text processing/2
+Visualize a tree
+Unicode strings
+Textonyms
+Same Fringe
+Primorial numbers
+Sorting algorithms/Shell sort
+S-Expressions
+Sierpinski carpet
+Scope modifiers
+Sorting algorithms/Gnome sort
+Van der Corput sequence
+Text processing/Max licenses in use
+Unicode variable names
+Polynomial regression
+Standard deviation
+Thiele's interpolation formula
+Runge-Kutta method
+Sum digits of an integer
+Random number generator (device)
+Self-referential sequence
+Record sound
+Stem-and-leaf plot
+URL parser
+Scope/Function names and labels
+Polymorphism
+Solve a Hidato puzzle
+Unix/ls
+Stair-climbing puzzle
+Text processing/1
+Special characters
+Rep-string
+Truncatable primes
+Semordnilap
+Semiprime
+Range expansion
+Range extraction
+Regular expressions
+Vector products
+Prime decomposition
+Singleton
+Variable size/Get
+Sort disjoint sublist
+Start from a main routine
+Respond to an unknown method call
+Reverse words in a string
+Simulate input/Mouse
+Terminal control/Cursor movement
+Zig-zag matrix
+Rosetta Code/Find unimplemented tasks
+Terminal control/Positional read
+Problem of Apollonius
+Topological sort
+Terminal control/Cursor positioning
+Search a list
+Terminal control/Unicode output
+Sutherland-Hodgman polygon clipping
+Solve a Holy Knight's tour
+Window creation/X11
+Vampire number
+Use another language to call a function
+Random number generator (included)
+Towers of Hanoi
+Repeat a string
+Sokoban
+Polynomial long division
+Queue/Usage
+Undefined values
+Y combinator
+Singly-linked list/Element insertion
+Substring/Top and tail
+Singly-linked list/Element definition
+Variable-length quantity
+Write to Windows event log
+Strip block comments
+Sorting algorithms/Merge sort
+Walk a directory/Non-recursively
+Strip comments from a string
+Topswops

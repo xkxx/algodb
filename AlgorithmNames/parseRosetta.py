@@ -122,7 +122,7 @@ def parse_rosetta_task_names():
 
     category = site.Pages['Category:Programming Tasks']
     for page in category:
-        csv_writer.writerow([page.name])
+        csv_writer.writerow([page.page_title])
 
 def parse_rosetta_task_pages():
     output = open('rosetta.json', 'w+')

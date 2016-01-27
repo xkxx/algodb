@@ -35,11 +35,11 @@ def get_sample_ids_language_specified(lang):
 
     body = {'query': {'match_all': {}}}
     result = es.search(index='throwtable', doc_type='implementation',
-        body=body, size=15000)
+        body=body, size=10000)
 
     for impl in result['hits']['hits']:
         tokens = impl['_id'].split(':')
-        if tokens[0] == 'rosetta' and tokens[-1] == 'python':
+        if tokens[0] == 'rosetta' and tokens[-1] == 'Python':
             print impl['_id']
             task_name = tokens[1]
             if r.hexists('rosetta-id-taskname-mapping', task_name):
