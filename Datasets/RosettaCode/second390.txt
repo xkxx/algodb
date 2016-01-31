@@ -1,342 +1,342 @@
-Enforced immutability
-Color quantization
-Deepcopy
-Averages/Mean angle
-Identity matrix
-Averages/Mean time of day
-Arena storage pool
-Fibonacci word
-Pascal matrix generation
-Happy numbers
-Closest-pair problem
-Call a function in a shared library
-Long multiplication
-Count occurrences of a substring
-Function composition
-Four bit adder
-Longest common subsequence
-Averages/Root mean square
-Literals/Integer
-Digital root
-Averages/Pythagorean means
-CRC-32
-Factors of an integer
-Parsing/RPN calculator algorithm
-Comments
-Percolation/Mean cluster density
-Execute a Markov algorithm
-Abundant, deficient and perfect number classifications
-Forest fire
-Constrained random points on a circle
-Parsing/RPN to infix conversion
-Atomic updates
-Almost prime
-Longest increasing subsequence
-Loop over multiple arrays simultaneously
-Empty directory
-Flipping bits game
-Loops/Do-while
-Pascal's triangle
-Ludic numbers
-Loops/While
-Loops/Foreach
-Matrix transposition
-Factorial
-Active Directory/Connect
-LZW compression
-FTP
-Continued fraction
-Hofstadter Q sequence
-Knuth shuffle
-Hofstadter Figure-Figure sequences
-Knuth's algorithm S
-Ordered words
-Distributed programming
-Non-decimal radices/Input
-Documentation
-Last Friday of each month
-Classes
-Polymorphic copy
-Cut a rectangle
-Dining philosophers
-Active object
-OLE Automation
-Inheritance/Single
-Hostname
-Hello world/Newbie
-Permutations/Derangements
-Anagrams/Deranged anagrams
-Here document
-Hello world/Standard error
-Modular exponentiation
-Operator precedence
-Arithmetic/Complex
-Loops/Downward for
-Non-decimal radices/Convert
-Largest int from concatenated ints
-Pinstripe/Display
-Pinstripe/Printer
-Colour bars/Display
-Gamma function
-Colour pinstripe/Printer
-Colour pinstripe/Display
-Break OO privacy
-Memory layout of a data structure
-Define a primitive data type
-Object serialization
-Determine if a string is numeric
-Introspection
-Call a function
-Binary strings
-Palindrome detection
-JortSort
-Greatest element of a list
-Fractal tree
-Generate lower case ASCII alphabet
-Arrays
-Literals/String
-Deconvolution/1D
-Convert seconds to compound duration
-Munching squares
-Higher-order functions
-Menu
-Left factorials
-Middle three digits
-Digital root/Multiplicative digital root
-Make directory path
-Catalan numbers/Pascal's triangle
-Comma quibbling
-Animate a pendulum
-Character codes
-Align columns
-Percentage difference between images
-CSV data manipulation
-Greatest subsequential sum
-Knapsack problem/0-1
-Number names
-Globally replace text in several files
-Arbitrary-precision integers (included)
-Multiplication tables
-Permutation test
-Hello world/Line printer
-Maze solving
-Parallel calculations
-Optional parameters
-Calendar - for "REAL" programmers
-Animation
-Combinations
-FizzBuzz
-100 doors
-Multiplicative order
-Balanced ternary
-DNS query
-Hailstone sequence
-Hofstadter-Conway $10,000 sequence
-Matrix multiplication
-Langton's ant
-Compile-time calculation
-Interactive programming
-Huffman coding
-Mandelbrot set
-Function prototype
-Bitmap/Flood fill
-Day of the week
-Arithmetic-geometric mean
-Factors of a Mersenne number
-Bitmap/Read an image through a pipe
-Floyd's triangle
-Casting out nines
-Chat server
-Best shuffle
-Draw a cuboid
-Find largest left truncatable prime in a given base
-Maze generation
-Matrix arithmetic
-Circles of given radius through two points
-Count in factors
-Paraffins
-Accumulator factory
-JSON
-Draw a sphere
-Formatted numeric output
-Percolation/Bond percolation
-Nth root
-Iterated digits squaring
-Holidays related to Easter
-Playing cards
-Loops/Continue
-Leap year
-Discordian date
-Constrained genericity
-One of n lines in a file
-Penney's game
-Brownian tree
-Hello world/Graphical
-Minesweeper game
-Integer sequence
-Mouse position
-Detect division by zero
-Keyboard macros
-Longest string challenge
-Lucas-Lehmer test
-Color of a screen pixel
-Bitmap/Midpoint circle algorithm
-GUI enabling/disabling of controls
-GUI component interaction
-Input loop
-Hamming numbers
-Catalan numbers
-Last letter-first letter
-Count in octal
-Create an object at a given address
-Evaluate binomial coefficients
-Brace expansion
-Chinese remainder theorem
-Checkpoint synchronization
-Doubly-linked list/Element definition
-24 game/Solve
-Execute a system command
-Generic swap
-Knapsack problem/Bounded
-Least common multiple
-Death Star
-Cholesky decomposition
-Hello world/Newline omission
-Image noise
-Create an HTML table
-Permutations
-Conjugate transpose
-Fast Fourier transform
-Concurrent computing
-Image convolution
-Josephus problem
-General FizzBuzz
-Multifactorial
-Luhn test of credit card numbers
-Check that file exists
-Create a file
-File size
-Delete a file
-Loops/N plus one half
-Multisplit
-Execute HQ9+
-A+B
-Number reversal game
-N'th
-Greyscale bars/Display
-Parse an IP Address
-Median filter
-Euler method
-Copy a string
-Increment a numerical string
-Enumerations
-Element-wise operations
-Kaprekar numbers
-GUI/Maximum window dimensions
-Heronian triangles
-Anonymous recursion
-Hash join
-Entropy
-Nautical bell
-Assertions
-Monty Hall problem
-Active Directory/Search for a user
-HTTP
-Anagrams
-Ackermann function
-Monte Carlo methods
-Call a foreign-language function
-Guess the number
-Doubly-linked list/Element insertion
-Ethiopian multiplication
-Date format
-Draw a clock
-Metaprogramming
-Literals/Floating point
-Determine if only one instance is running
-Doubly-linked list/Traversal
-Keyboard input/Flush the keyboard buffer
-Keyboard input/Obtain a Y or N response
-Keyboard input/Keypress check
-Executable library
-Balanced brackets
-Gray code
-Create a file on magnetic tape
-History variables
-Inverted syntax
-Evolutionary algorithm
-Averages/Simple moving average
-Parametrized SQL statement
-Find the last Sunday of each month
-Arithmetic/Integer
-Averages/Arithmetic mean
-Arithmetic evaluation
-Dot product
-Delegates
-Fork
-Doubly-linked list/Definition
-Handle a signal
-Environment variables
-Closures/Value capture
-Caesar cipher
-Convert decimal number to rational
-HTTPS
-Bulls and cows
-Fibonacci sequence
-Honeycombs
-9 billion names of God the integer
-Catamorphism
-99 Bottles of Beer
-Dutch national flag problem
-Boolean values
-Aliquot sequence classifications
-IBAN
-Deal cards for FreeCell
-Horner's rule for polynomial evaluation
-Letter frequency
-Play recorded sounds
-Multiple distinct objects
-Filter
-Pi
-Partial function application
-Associative array/Creation
-Find the missing permutation
-Box the compass
+Enforced immutability		n
+Color quantization	Color quantization	y
+Deepcopy	Object copying	n
+Averages/Mean angle			n
+Identity matrix			n
+Averages/Mean time of day		n
+Arena storage pool		n
+Fibonacci word	Fibonacci word	y
+Pascal matrix generation	Pascal matrix	y
+Happy numbers	Happy number	y
+Closest-pair problem	Closest pair of points problem	y
+Call a function in a shared library		n
+Long multiplication	Multiplication algorithm	y
+Count occurrences of a substring		n
+Function composition	Function composition (computer science)	n
+Four bit adder	Adder (electronics)	y
+Longest common subsequence	Longest common subsequence problem	y
+Averages/Root mean square	Root mean square	y
+Literals/Integer	Integer	n
+Digital root	Digital root	y
+Averages/Pythagorean means	Pythagorean means	y
+CRC-32	Cyclic redundancy check	y
+Factors of an integer	Integer factorization	y
+Parsing/RPN calculator algorithm	Reverse Polish notation	y
+Comments	Comment (computer programming)	n
+Percolation/Mean cluster density		y
+Execute a Markov algorithm	Markov algorithm	y
+Abundant, deficient and perfect number classifications		n
+Forest fire	Forest-fire model	y
+Constrained random points on a circle		n
+Parsing/RPN to infix conversion		n
+Atomic updates		n
+Almost prime		n
+Longest increasing subsequence	Longest increasing subsequence	y
+Loop over multiple arrays simultaneously		n
+Empty directory		n
+Flipping bits game	Penney's game	y
+Loops/Do-while	Do while loop	n
+Pascal's triangle	Pascal's triangle	y
+Ludic numbers		y
+Loops/While	While loop	n
+Loops/Foreach	Foreach loop	n
+Matrix transposition	Transpose	y
+Factorial	Factorial	y
+Active Directory/Connect	Active Directory	n
+LZW compression	Lempel–Ziv–Welch	y
+FTP	File Transfer Protocol	n
+Continued fraction	Continued fraction	y
+Hofstadter Q sequence	Hofstadter sequence	y
+Knuth shuffle	Fisher–Yates shuffle	y
+Hofstadter Figure-Figure sequences	Hofstadter sequence	y
+Knuth's algorithm S		y
+Ordered words		n
+Distributed programming		n
+Non-decimal radices/Input		n
+Documentation	Documentation	n
+Last Friday of each month		n
+Classes	Class (computer programming)	n
+Polymorphic copy		n
+Cut a rectangle		n
+Dining philosophers	Dining philosophers problem	y
+Active object	Active object	n
+OLE Automation	OLE Automation	y
+Inheritance/Single		n
+Hostname	Hostname	n
+Hello world/Newbie	"Hello, World!" program	y
+Permutations/Derangements	Permutation	y
+Anagrams/Deranged anagrams	Anagrams	y
+Here document	Here document	n
+Hello world/Standard error		n
+Modular exponentiation	Modular exponentiation	y
+Operator precedence		n
+Arithmetic/Complex		n
+Loops/Downward for		n
+Non-decimal radices/Convert		n
+Largest int from concatenated ints	n
+Pinstripe/Display		n
+Pinstripe/Printer		n
+Colour bars/Display		n
+Gamma function	Gamma function	y
+Colour pinstripe/Printer	n
+Colour pinstripe/Display	n
+Break OO privacy		n
+Memory layout of a data structure		n
+Define a primitive data type		n
+Object serialization	Serialization	n
+Determine if a string is numeric		n
+Introspection		n
+Call a function		n
+Binary strings		n
+Palindrome detection	Palindrome	y
+JortSort		n
+Greatest element of a list	Greatest element	y
+Fractal tree	Fractal tree index	y
+Generate lower case ASCII alphabet		n
+Arrays	Array	n
+Literals/String	String (computer science)	n
+Deconvolution/1D	One-dimensional space	n
+Convert seconds to compound duration		n
+Munching squares	Munching square	y
+Higher-order functions		n
+Menu		n
+Left factorials		y
+Middle three digits		n
+Digital root/Multiplicative digital root	Digital root	y
+Make directory path		n
+Catalan numbers/Pascal's triangle	Pascal's triangle	y
+Comma quibbling		y
+Animate a pendulum		n
+Character codes		n
+Align columns	n
+Percentage difference between images		y
+CSV data manipulation		n
+Greatest subsequential sum	Maximum subarray problem	y
+Knapsack problem/0-1	Knapsack problem	y
+Number names		n
+Globally replace text in several files		n
+Arbitrary-precision integers (included)		n
+Multiplication tables	Multiplication table	n
+Permutation test	Resampling (statistics)	y
+Hello world/Line printer		n
+Maze solving	Maze solving algorithm	y
+Parallel calculations		n
+Optional parameters		n
+Calendar - for "REAL" programmers		n
+Animation	Animation	n
+Combinations	Combination	y
+FizzBuzz	Fizz buzz	y
+100 doors		n
+Multiplicative order	Multiplicative order	y
+Balanced ternary	Balanced ternary	y
+DNS query		n
+Hailstone sequence	Hofstadter sequence	y
+Hofstadter-Conway $10,000 sequence	Hofstadter sequence	y
+Matrix multiplication	Matrix multiplication	y
+Langton's ant	Langton's ant	y
+Compile-time calculation		n
+Interactive programming		n
+Huffman coding	Huffman coding	y
+Mandelbrot set	Mandelbrot set	y
+Function prototype		n
+Bitmap/Flood fill	Flood fill	y
+Day of the week		n
+Arithmetic-geometric mean	Arithmetic–geometric mean	y
+Factors of a Mersenne number	Mersenne prime	y
+Bitmap/Read an image through a pipe		n
+Floyd's triangle	Floyd's triangle	y
+Casting out nines	Casting out nines	n
+Chat server		n
+Best shuffle	Shuffling	y
+Draw a cuboid	Cuboid	n
+Find largest left truncatable prime in a given base		n
+Maze generation	Maze generation algorithm	y
+Matrix arithmetic		y
+Circles of given radius through two points		n
+Count in factors		n
+Paraffins	Alkane	n
+Accumulator factory		n
+JSON		n
+Draw a sphere		n
+Formatted numeric output		n
+Percolation/Bond percolation		n
+Nth root	Nth root	y
+Iterated digits squaring		y
+Holidays related to Easter		n
+Playing cards	Playing card	n
+Loops/Continue	Control flow	n
+Leap year	Leap year	n
+Discordian date	Discordian calendar	n
+Constrained genericity	Bounded quantification	n
+One of n lines in a file		n
+Penney's game	Penney's game	y
+Brownian tree	Brownian tree	y
+Hello world/Graphical		n
+Minesweeper game	Minesweeper (video game)	n
+Integer sequence	Integer sequence	y
+Mouse position		n
+Detect division by zero	Division by zero	y
+Keyboard macros		n
+Longest string challenge	Longest common substring problem	y
+Lucas-Lehmer test	Lucas primality test	y
+Color of a screen pixel		n
+Bitmap/Midpoint circle algorithm	Midpoint circle algorithm	y
+GUI enabling/disabling of controls		n
+GUI component interaction		n
+Input loop		n
+Hamming numbers	Regular number	y
+Catalan numbers	Catalan number	y
+Last letter-first letter		n
+Count in octal		n
+Create an object at a given address		n
+Evaluate binomial coefficients	Binomial coefficient	n
+Brace expansion		y
+Chinese remainder theorem	Chinese remainder theorem	y
+Checkpoint synchronization		n
+Doubly-linked list/Element definition		n
+24 game/Solve	24 Game	y
+Execute a system command	Command (computing)	n
+Generic swap	Swap (computer science)	y
+Knapsack problem/Bounded	Knapsack problem	y
+Least common multiple	Least common multiple	y
+Death Star	Death Star	n
+Cholesky decomposition	Cholesky decomposition	y
+Hello world/Newline omission		n
+Image noise	Image noise	n
+Create an HTML table	HTML element	n
+Permutations	Permutation	y
+Conjugate transpose	Conjugate transpose	y
+Fast Fourier transform	Fast Fourier transform	y
+Concurrent computing	Concurrent computing	n
+Image convolution		y
+Josephus problem	Josephus problem	y
+General FizzBuzz	Fizz buzz	y
+Multifactorial	Factorial	y
+Luhn test of credit card numbers	Luhn algorithm	y
+Check that file exists		n
+Create a file		n
+File size	File size	n
+Delete a file		n
+Loops/N plus one half		n
+Multisplit		n
+Execute HQ9+		n
+A+B		n
+Number reversal game		n
+N'th		n
+Greyscale bars/Display	Grayscale	n
+Parse an IP Address	IP address	y
+Median filter	Median filter	y
+Euler method	Euler method	y
+Copy a string		n
+Increment a numerical string		n
+Enumerations	Enumeration	y
+Element-wise operations		y
+Kaprekar numbers	Kaprekar number	y
+GUI/Maximum window dimensions		n
+Heronian triangles	Heronian triangle	y
+Anonymous recursion	Anonymous recursion	n
+Hash join	Hash join	y
+Entropy	Entropy (computing)	y
+Nautical bell		n
+Assertions	Assertion (software development)	n
+Monty Hall problem	Monty Hall problem	y
+Active Directory/Search for a user	Active Directory	n
+HTTP	Hypertext Transfer Protocol	n
+Anagrams	Anagrams	y
+Ackermann function	Ackermann function	y
+Monte Carlo methods	Monte Carlo method	y
+Call a foreign-language function	Foreign function interface	n
+Guess the number		y
+Doubly-linked list/Element insertion	Doubly linked list	y
+Ethiopian multiplication	Ancient Egyptian multiplication	y
+Date format		n
+Draw a clock		n
+Metaprogramming	Metaprogramming	n
+Literals/Floating point	loating point	n
+Determine if only one instance is running		n
+Doubly-linked list/Traversal	Doubly linked list	y
+Keyboard input/Flush the keyboard buffer	Keyboard buffer	n
+Keyboard input/Obtain a Y or N response		n
+Keyboard input/Keypress check		n
+Executable library		n
+Balanced brackets		y
+Gray code	Gray code	y
+Create a file on magnetic tape		n
+History variables		n
+Inverted syntax		n
+Evolutionary algorithm	Evolutionary algorithm	y
+Averages/Simple moving average	Moving average	y
+Parametrized SQL statement		n
+Find the last Sunday of each month		n
+Arithmetic/Integer	Integer (computer science)	n
+Averages/Arithmetic mean	Mean	y
+Arithmetic evaluation		y
+Dot product	Dot product	y
+Delegates	Delegation (programming)	n
+Fork	Fork (system call)	n
+Doubly-linked list/Definition	Doubly linked list	n
+Handle a signal		n
+Environment variables	Environment variable	n
+Closures/Value capture	Closure (computer programming)	y
+Caesar cipher	Caesar cipher	y
+Convert decimal number to rational		n
+HTTPS	HTTPS	n
+Bulls and cows	Bulls and Cows	y
+Fibonacci sequence	Fibonacci number	y
+Honeycombs	Honeycomb (geometry)	n
+9 billion names of God the integer	The Nine Billion Names of God	y
+Catamorphism	Catamorphism	n
+99 Bottles of Beer	99 Bottles of Beer	y
+Dutch national flag problem	Dutch national flag problem	y
+Boolean values	Boolean data type	n
+Aliquot sequence classifications	Aliquot sequence	y
+IBAN	International Bank Account Number	y
+Deal cards for FreeCell	FreeCell	y
+Horner's rule for polynomial evaluation	Horner's method	y
+Letter frequency	Letter frequency	y
+Play recorded sounds		n
+Multiple distinct objects		n
+Filter		n
+Pi	Pi	y
+Partial function application	Partial function	y
+Associative array/Creation	Associative array	n
+Find the missing permutation		y
+Box the compass	Points of the compass	
 Dinesman's multiple-dwelling problem
-Percolation/Site percolation
-Even or odd
-Move-to-front algorithm
-Combinations with repetitions
-Associative array/Iteration
-Pattern matching
-Integer overflow
-Bitmap/PPM conversion through a pipe
-Binary search
-Phrase reversals
-Parametric polymorphism
-Array length
-Integer comparison
-Narcissistic decimal number
-Loops/For with a specified step
+Percolation/Site percolation	Percolation	y
+Even or odd	Parity (mathematics)	y
+Move-to-front algorithm	Move-to-front transform	y
+Combinations with repetitions	Combination	y
+Associative array/Iteration	Associative array	n
+Pattern matching	Pattern matching	y
+Integer overflow	Integer overflow	n
+Bitmap/PPM conversion through a pipe	Bitmap	n
+Binary search	Binary search algorithm	y
+Phrase reversals		y
+Parametric polymorphism	Parametric polymorphism	n
+Array length		n
+Integer comparison		n
+Narcissistic decimal number	Narcissistic decimal number	y
+Loops/For with a specified step		n
 Numerical integration
 Levenshtein distance
 Forward difference
 Greatest common divisor
 Look-and-say sequence
 Man or boy test
-Old lady swallowed a fly
-Loops/Nested
-Averages/Median
-Averages/Mode
-N-queens problem
-24 game
-Array concatenation
-Main step of GOST 28147-89
-Hello world/Text
-Non-continuous subsequences
-File input/output
-Equilibrium index
-Hello world/Web server
+Old lady swallowed a fly	There Was an Old Lady Who Swallowed a Fly	y
+Loops/Nested		n
+Averages/Median	Median	y
+Averages/Mode	Mode	y
+N-queens problem	Eight queens puzzle	y
+24 game	24 Game	y
+Array concatenation		n
+Main step of GOST 28147-89	GOST (block cipher)	y
+Hello world/Text		n
+Non-continuous subsequences		n
+File input/output		n
+Equilibrium index		y
+Hello world/Web server	Web server	n
 Linear congruential generator
 MD5/Implementation
 Bitmap/Bézier curves/Quadratic
