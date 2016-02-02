@@ -1,97 +1,96 @@
-Guess the number/With feedback (player)
-Loops/Break
-Guess the number/With feedback
-Abstract type
-Benford's law
-Jensen's Device
-Perfect numbers
-First-class functions/Use numbers analogously
-K-d tree
-CSV to HTML translation
-Canny edge detector
-MD5
-Bitwise operations
-Fibonacci n-step number sequences
-Call an object method
-Infinity
-Machine code
-Pascal's triangle/Puzzle
-Binary digits
-List comprehensions
-Amb
-Count the coins
-Magic squares of odd order
-Extend your language
-Narcissist
-First class environments
-Dragon curve
-Formal power series
-Empty string
-Combinations and permutations
-MD4
-OpenGL
-Permutations by swapping
-HTTPS/Authenticated
-Matrix-exponentiation operator
-Jump anywhere
-Exponentiation operator
-Pernicious numbers
-Compare a list of strings
-First-class functions
-Metered concurrency
-Command-line arguments
-Bitwise IO
-Permutations/Rank of a permutation
-Dynamic variable names
-HTTPS/Client-authenticated
-Currying
-K-means++ clustering
-Hickerson series of almost integers
-Logical operations
-Bitcoin/address validation
-I before E except after C
-Bitcoin/public point to address
-Modular inverse
-Carmichael 3 strong pseudoprimes
-Bitmap/Bresenham's line algorithm
-Mutual recursion
-Bitmap/Write a PPM file
-Address of a variable
-Create a two-dimensional array at runtime
-Collections
-Bitmap
-Hash from two arrays
-Apply a callback to an array
-Flatten a list
-Bitmap/Bézier curves/Cubic
-Haversine formula
-Parsing/Shunting-yard algorithm
-Generator/Exponential
-Loops/Infinite
-Loops/For
-Bernoulli numbers
-One-dimensional cellular automata
-Empty program
-Null object
-Conway's Game of Life
-Host introspection
-Hough transform
-Find limit of recursion
-Inverted index
-Deconvolution/2D+
-Average loop length
-Arithmetic/Rational
-Naming conventions
-Compare sorting algorithms' performance
-Events
-Memory allocation
-Fractran
-Natural sorting
-Continued fraction/Arithmetic/Construct from rational number
-Extensible prime generator
-Plot coordinate pairs
-Named parameters
-Multiple regression
+Guess the number/With feedback (player)	False	None
+Loops/Break	False	Break_statement
+Guess the number/With feedback	False	None
+Abstract type	False	Abstract_type
+Benford's law	True	Benford%27s_law
+Jensen's Device	True	Jensen%27s_Device
+Perfect numbers	True	Perfect_number
+First-class functions/Use numbers analogously	False	None
+K-d tree	True	K-d_tree
+CSV to HTML translation	False	None
+Canny edge detector	True	Canny_edge_detector
+MD5	True	MD5
+Bitwise operations	False	Bitwise_operation
+Fibonacci n-step number sequences	True	Fibonacci_number
+Call an object method	False	Object-oriented_programming
+Infinity	False	Infinity
+Machine code	False	Machine_code
+Pascal's triangle/Puzzle	True	Pascal%27s_triangle
+Binary digits	True	Bit
+List comprehensions	False	List_comprehension
+Amb	True	None
+Count the coins	False	None
+Magic squares of odd order	True	Magic_square
+Extend your language	False	None
+Narcissist	False	None
+First class environments	True	Closure_(computer_programming)
+Dragon curve	True	Dragon_curve
+Formal power series	True	Formal_power_series
+Empty string	False	Empty_string
+Combinations and permutations	True	Combinations_and_permutations
+MD4	True	MD4
+OpenGL	True	OpenGL
+Permutations by swapping	True	Permutation
+HTTPS/Authenticated	True	HTTPS
+Matrix-exponentiation operator	True	Matrix_exponential
+Jump anywhere	False	Branch_(computer_science)
+Exponentiation operator	True	Exponentiation
+Pernicious numbers	True	Pernicious_number
+Compare a list of strings	False	None
+First-class functions	True	First-class_function
+Metered concurrency	True	Semaphore_(programming)
+Command-line arguments	False	Command_line_arguments
+Bitwise IO	False	None
+Permutations/Rank of a permutation	True	Permutation
+Dynamic variable names	False	None
+HTTPS/Client-authenticated	True	HTTPS
+Currying	True	Currying
+K-means++ clustering	True	K-means%2B%2B
+Hickerson series of almost integers	True	None
+Logical operations	True	Logical_connective
+Bitcoin/address validation	True	Bitcoin
+I before E except after C	True	I_before_E_except_after_C
+Bitcoin/public point to address	True	Bitcoin
+Modular inverse	True	Modular_multiplicative_inverse
+Carmichael 3 strong pseudoprimes	True	Carmichael_number
+Bitmap/Bresenham's line algorithm	True	Bresenham%27s_line_algorithm
+Mutual recursion	True	Mutual_recursion
+Bitmap/Write a PPM file	True	Netpbm
+Address of a variable	False	Pointer_(computer_programming)
+Create a two-dimensional array at runtime	False	Two-dimensional_array
+Collections	True	Data_structure
+Bitmap	True	Bitmap
+Hash from two arrays	True	Hash_table
+Apply a callback to an array	True	MapReduce
+Flatten a list	True	None
+Bitmap/Bézier curves/Cubic	True	Bézier_curve
+Haversine formula	True	Haversine_formula
+Parsing/Shunting-yard algorithm	True	Shunting-yard_algorithm
+Generator/Exponential	False	None
+Loops/Infinite	False	Infinite_loop
+Loops/For	False	For_loop
+Bernoulli numbers	True	Bernoulli_number
+One-dimensional cellular automata	True	Cellular_automaton
+Empty program	False	None
+Null object	False	Null_Object_pattern
+Conway's Game of Life	True	Conway%27s_Game_of_Life
+Host introspection	False	None
+Hough transform	True	Hough_transform
+Find limit of recursion	False	None
+Inverted index	True	Inverted_index
+Deconvolution/2D+	True	Deconvolution
+Average loop length	False	None
+Arithmetic/Rational	True	Rational_data_type
+Naming conventions	False	Naming_convention
+Compare sorting algorithms' performance	False	Sorting_algorithm
+Events	True	Event_(computing)
+Memory allocation	False	Memory_allocation
+Natural sorting	True	Natural_sort_order
+Continued fraction/Arithmetic/Construct from rational number	True	Continued_fraction
+Extensible prime generator	True	Formula_for_primes
+Plot coordinate pairs	False	Coordinate_system
+Named parameters	True	Named_parameter
+Multiple regression	True	Multiple_regression
 Add a variable to a class instance at runtime
 Odd word problem
 Pig the dice game
@@ -373,11 +372,11 @@ Use another language to call a function
 Random number generator (included)
 Towers of Hanoi
 Repeat a string
-Sokoban
-Polynomial long division
+Sokoban	False	Sokoban
+Polynomial long division	True	Polynomial_long_division
 Queue/Usage
 Undefined values
-Y combinator
+Y combinator	True	Fixed-point_combinator
 Singly-linked list/Element insertion
 Substring/Top and tail
 Singly-linked list/Element definition
