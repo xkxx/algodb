@@ -186,5 +186,15 @@ def load_visited():
     # load from redis
     return set(rd.smembers('visited'))
 
+def index_algorithms_from_labels():
+    visited = load_visited()
+    for task_name in rd.smembers('rosettacode-label-isalgo'): # all tasks that are algorithms
+        algo_name = rd.hget('rosettacode-label-algoname', task_name)
+        if algo_name == '': # tasks does not have corresponding wiki page
+            continue
+        page = pw.get_wiki_page(algo_name)
+        index_wiki_algorithm_entry(page, algo_name, visited)
+
 if __name__ == '__main__':
-    index_wiki_category('Category:Algorithms')
+    # index_wiki_category('Category:Algorithms')
+    index_algorithms_from_labels()
