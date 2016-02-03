@@ -91,39 +91,39 @@ Extensible prime generator	True	Formula_for_primes
 Plot coordinate pairs	False	Coordinate_system
 Named parameters	True	Named_parameter
 Multiple regression	True	Multiple_regression
-Add a variable to a class instance at runtime
-Odd word problem
-Pig the dice game
-Function definition
-Maximum triangle path sum
-Order disjoint list items
-LU decomposition
-AKS test for primes
-Check Machin-like formulas
-Arithmetic-geometric mean/Calculate Pi
-Horizontal sundial calculations
-Numerical integration/Gauss-Legendre Quadrature
-Knight's tour
-Miller–Rabin primality test
-Go Fish
-Knapsack problem/Unbounded
-Spiral matrix
-Read a specific line from a file
-Time a function
-SEDOLs
-Real constants and functions
-Rate counter
-Zeckendorf arithmetic
-Tic-tac-toe
-Rosetta Code/Fix code tags
-Ranking methods
-Write language name in 3D ASCII
-Solve the no connection puzzle
-Sorting algorithms/Radix sort
-Zeckendorf number representation
-Variables
-RCRPG
-Sort an array of composite structures
+Add a variable to a class instance at runtime	False	None
+Odd word problem	True	None
+Pig the dice game	False	Pig_(dice_game)
+Function definition	False	Subroutine
+Maximum triangle path sum	False	None
+Order disjoint list items	False	None
+LU decomposition	True	LU_decomposition
+AKS test for primes	True	AKS_primality_test
+Check Machin-like formulas	False	Machin-like_formula
+Arithmetic-geometric mean/Calculate Pi	True	Approximations_of_pi
+Horizontal sundial calculations	True	Sundial
+Numerical integration/Gauss-Legendre Quadrature	True	Gaussian_quadrature
+Knight's tour	True	Knight%27s_tour
+Miller–Rabin primality test	True	Miller-Rabin_primality_test
+Go Fish	False	Go_Fish
+Knapsack problem/Unbounded	True	Knapsack_problem
+Spiral matrix	True	None
+Read a specific line from a file	False	None
+Time a function	False	False	None
+SEDOLs	False	SEDOL
+Real constants and functions	False	None
+Rate counter	True	None
+Zeckendorf arithmetic	True	Zeckendorf%27s_theorem
+Tic-tac-toe	True	Tic-tac-toe
+Rosetta Code/Fix code tags	False	None
+Ranking methods	True	Ranking
+Write language name in 3D ASCII	False	None
+Solve the no connection puzzle	True	None
+Sorting algorithms/Radix sort	True	Radix_sort
+Zeckendorf number representation	True	Zeckendorf%27s_theorem
+Variables	False	Variable_(computer_science)
+RCRPG	False	None
+Sort an array of composite structures	True	Sorting_algorithm
 Voronoi diagram
 Terminal control/Dimensions
 Runtime evaluation
