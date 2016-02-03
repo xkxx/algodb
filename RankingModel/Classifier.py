@@ -14,6 +14,10 @@ clf = svm.LinearSVR()
 # for randomly sampling negative training example
 import random
 
+# feature extract
+from fuzzywuzzy import fuzz
+from simhash import Simhash
+
 def train():
     CORRESPONDING = 1.0
     NON_CORRESPONDING = 0.0
@@ -60,14 +64,14 @@ def train():
 
         # positive:negative = 1:1
         # positive training example
-        feature_vector.extend(mock_extractor(task_name, algo_name))
-        score_vector.extend(CORRESPONDING)
+        feature_vector.append(mock_extractor(task_name, algo_name))
+        score_vector.append(CORRESPONDING)
         # negative training example
         random_algo = random.choice(algo_names)
         while (random_algo == algo_name): # until we get a negative example
             random_algo = random.choice(algo_names)
-        feature_vector.extend(mock_extractor(task_name, random_algo))
-        score_vector.extend(NON_CORRESPONDING)
+        feature_vector.append(mock_extractor(task_name, random_algo))
+        score_vector.append(NON_CORRESPONDING)
 
     # train
     clf.fit(feature_vector, score_vector)
@@ -76,3 +80,10 @@ def train():
 # returns a list of
 def classify(samples_features):
     return predict(samples_features)
+
+def mock_extractor(title1, title2):
+    features = list()
+    features.append(fuzz.ratio(title1, title2))
+    features.append(fuzz.partial_ratio(title1, title2))
+    features.append(Simhash(title1).distance(Simhash(title2)))
+    return features
