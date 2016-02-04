@@ -109,7 +109,7 @@ Go Fish	False	Go_Fish
 Knapsack problem/Unbounded	True	Knapsack_problem
 Spiral matrix	True	None
 Read a specific line from a file	False	None
-Time a function	False	False	None
+Time a function	False	None
 SEDOLs	False	SEDOL
 Real constants and functions	False	None
 Rate counter	True	None
@@ -226,11 +226,11 @@ Simple database	True	Database
 String concatenation	True	Concatenation
 Synchronous concurrency	True	Synchronization_(computer_science)
 Reduced row echelon form	True	Reduced row echelon form
-Rosetta Code/Rank languages by popularity
-Read entire file
-Reverse a string
-The Twelve Days of Christmas
-Sailors, coconuts and a monkey problem
+Rosetta Code/Rank languages by popularity	False	None
+Read entire file	False	None
+Reverse a string	False	None
+The Twelve Days of Christmas	False	The_Twelve_Days_of_Christmas_(song)
+Sailors, coconuts and a monkey problem	False	None
 Remove duplicate elements
 Zebra puzzle
 Simulate input/Keyboard

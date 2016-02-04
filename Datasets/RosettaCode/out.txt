@@ -109,3 +109,125 @@ Go Fish	Go_Fish	n
 Knapsack problem/Unbounded	Knapsack_problem	n
 Spiral matrix		n
 Read a specific line from a file		n
+Time a function		n
+SEDOLs	SEDOL	n
+Real constants and functions		n
+Rate counter		n
+Zeckendorf arithmetic	Zeckendorf%27s_theorem	n
+Tic-tac-toe	Tic-tac-toe	n
+Rosetta Code/Fix code tags		n
+Ranking methods	Ranking	n
+Write language name in 3D ASCII		n
+Solve the no connection puzzle		n
+Sorting algorithms/Radix sort	Radix_sort	n
+Zeckendorf number representation	Zeckendorf%27s_theorem	n
+Variables	Variable_(computer_science)	n
+RCRPG		n
+Sort an array of composite structures	Sorting_algorithm	n
+Voronoi diagram	Voronoi_diagram	n
+Terminal control/Dimensions	Terminal_emulator	n
+Runtime evaluation	Dynamic_programming_language	n
+Runtime evaluation/In an environment	Dynamic_programming_language	n
+SQL-based authentication		n
+Window management	Window_manager	n
+Seven-sided dice from five-sided dice		n
+Sort stability	Stable_sort	n
+Unbias a random generator		n
+Probabilistic choice		n
+System time	System_time	n
+Statistics/Basic	Statistics	n
+Rendezvous	Synchronous rendezvous	n
+String matching	String searching algorithm	n
+QR decomposition	QR decomposition	n
+SOAP	SOAP	n
+Self-describing numbers	Self-descriptive_number	n
+Xiaolin Wu's line algorithm	Xiaolin Wu's line algorithm	n
+Table creation/Postal addresses		n
+URL decoding	URL encoding	n
+URL encoding	URL encoding	n
+Sorting algorithms/Sleep sort		n
+Resistor mesh		n
+Set	Set (computer science)	n
+Sorting algorithms/Comb sort	Comb_sort	n
+Total circles area		n
+Rosetta Code/Find bare lang tags	False	n
+Short-circuit evaluation	Short-circuit_evaluation	n
+Sierpinski triangle	Sierpinski triangle	n
+Sorting algorithms/Bogosort	Sierpinski triangle	n
+Sorting algorithms/Permutation sort	Bogosort	n
+Rename a file		n
+Primes - allocate descendants to their ancestors		n
+The ISAAC Cipher	ISAAC_(cipher)	n
+Sudoku	Sudoku	n
+Price fraction		n
+Sequence of primes by Trial Division	Trial_division	n
+Simple windowed application		n
+Ray-casting algorithm	Ray_tracing_(graphics)	n
+Remove lines from a file		n
+Zero to the zero power	Zero to the zero power	n
+Sorting algorithms/Selection sort	Selection_sort	n
+Pythagorean triples	Pythagorean_triple	n
+Subleq	Subleq	n
+Window creation	Window_management	n
+SHA-256	SHA-2	n
+Web scraping	Web_scraping	n
+Subtractive generator	Random_number_generation	n
+Speech synthesis	Speech_synthesis	n
+Sorting algorithms/Quicksort	Quicksort	n
+Sleep	Sleep_(system_call)	n
+Set of real numbers	Real_number	n
+User input/Graphical	User_input	n
+User input/Text	User_input	n
+Roots of unity	Root_of_unity	n
+Take notes on the command line		n
+Primality by trial division	Trial_division	n
+Rot-13	ROT13	n
+Solve a Numbrix puzzle		n
+Solve a Hopido puzzle		n
+String length	String_(computer_science)	n
+String interpolation (included)	String_literal	n
+Set puzzle		n
+Zhang-Suen thinning algorithm		n
+Priority queue	Priority_queue	n
+XML/Output	XML	n
+XML/Input	XML	n
+Sorting algorithms/Cocktail sort	Cocktail_sort	n
+Strip a set of characters from a string		n
+Roots of a quadratic function	Quadratic_function	n
+Tokenize a string	Tokenize	n
+Sorting algorithms/Counting sort	Counting sort	n
+String append		n
+SHA-1	SHA-1	n
+RSA code	RSA_(cryptosystem)	n
+Sum of squares	Sum_of_squares	n
+Sparkline in unicode	Sparkline	n
+Terminal control/Preserve screen	Terminal_emulator	n
+Terminal control/Clear the screen	Terminal_emulator	n
+Shell one-liner	Command-line_interface	n
+Walk a directory/Recursively		n
+Roman numerals/Encode	Roman_numerals	n
+Tree traversal	Tree traversal	n
+Safe addition	Interval_arithmetic	n
+Yahoo! search interface	Yahoo!_Search	n
+Word wrap	Word_wrap	n
+Sieve of Eratosthenes	Sieve_of_Eratosthenes	n
+Soundex	Soundex	n
+Secure temporary file	Temporary_file	n
+RIPEMD-160	RIPEMD	n
+Twelve statements		n
+Sorting algorithms/Heapsort	Heapsort	n
+Temperature conversion	Conversion_of_units_of_temperature	n
+Sockets	Transmission_Control_Protocol	n
+Stack traces	Stack_trace	n
+Sorting algorithms/Strand sort		n
+Trigonometric functions	Trigonometric functions	n
+String case		n
+Simple database	Database	n
+String concatenation	Concatenation	n
+Synchronous concurrency	Synchronization_(computer_science)	n
+Reduced row echelon form	Reduced row echelon form	n
+Rosetta Code/Rank languages by popularity		n
+Read entire file		n
+Reverse a string		n
+The Twelve Days of Christmas	The_Twelve_Days_of_Christmas_(song)	n
+Sailors, coconuts and a monkey problem		n
