@@ -124,94 +124,94 @@ Zeckendorf number representation	True	Zeckendorf%27s_theorem
 Variables	False	Variable_(computer_science)
 RCRPG	False	None
 Sort an array of composite structures	True	Sorting_algorithm
-Voronoi diagram
-Terminal control/Dimensions
-Runtime evaluation
-Runtime evaluation/In an environment
-SQL-based authentication
-Window management
-Seven-sided dice from five-sided dice
-Sort stability
-Unbias a random generator
-Probabilistic choice
-System time
-Statistics/Basic
-Rendezvous
-String matching
-QR decomposition
-SOAP
-Self-describing numbers
-Xiaolin Wu's line algorithm
-Table creation/Postal addresses
-URL decoding
-URL encoding
-Sorting algorithms/Sleep sort
-Resistor mesh
-Set
-Sorting algorithms/Comb sort
-Total circles area
-Rosetta Code/Find bare lang tags
-Short-circuit evaluation
-Sierpinski triangle
-Sorting algorithms/Bogosort
-Sorting algorithms/Permutation sort
-Rename a file
-Primes - allocate descendants to their ancestors
-The ISAAC Cipher
-Sudoku
-Price fraction
-Sequence of primes by Trial Division
-Simple windowed application
-Ray-casting algorithm
-Remove lines from a file
-Zero to the zero power
-Sorting algorithms/Selection sort
-Pythagorean triples
-Subleq
-Window creation
-SHA-256
-Web scraping
-Subtractive generator
-Speech synthesis
-Sorting algorithms/Quicksort
-Sleep
-Set of real numbers
-User input/Graphical
-User input/Text
-Roots of unity
-Take notes on the command line
-Primality by trial division
-Rot-13
-Solve a Numbrix puzzle
-Solve a Hopido puzzle
-String length
-String interpolation (included)
-Set puzzle
-Zhang-Suen thinning algorithm
-Priority queue
-XML/Output
-XML/Input
-Sorting algorithms/Cocktail sort
-Strip a set of characters from a string
-Roots of a quadratic function
-Tokenize a string
-Sorting algorithms/Counting sort
-String append
-SHA-1
-RSA code
-Sum of squares
-Sparkline in unicode
-Terminal control/Preserve screen
-Terminal control/Clear the screen
-Shell one-liner
-Walk a directory/Recursively
-Roman numerals/Encode
-Tree traversal
-Safe addition
-Yahoo! search interface
-Word wrap
-Sieve of Eratosthenes
-Soundex
+Voronoi diagram	True	Voronoi_diagram
+Terminal control/Dimensions	False	Terminal_emulator
+Runtime evaluation	False	Dynamic_programming_language
+Runtime evaluation/In an environment	False	Dynamic_programming_language
+SQL-based authentication	False	None
+Window management	False	Window_manager
+Seven-sided dice from five-sided dice	False	None
+Sort stability	True	Stable_sort
+Unbias a random generator	True	None
+Probabilistic choice	True	None
+System time	True	System_time
+Statistics/Basic	True	Statistics
+Rendezvous	True	Synchronous rendezvous
+String matching	True	String searching algorithm
+QR decomposition	True	QR decomposition
+SOAP	True	SOAP
+Self-describing numbers	True	Self-descriptive_number
+Xiaolin Wu's line algorithm	True	Xiaolin Wu's line algorithm
+Table creation/Postal addresses	False	None
+URL decoding	True	URL encoding
+URL encoding	True	URL encoding
+Sorting algorithms/Sleep sort	True	None
+Resistor mesh	False	None
+Set	True	Set (computer science)
+Sorting algorithms/Comb sort	True	Comb_sort
+Total circles area	True	None
+Rosetta Code/Find bare lang tags	False	False
+Short-circuit evaluation	True	Short-circuit_evaluation
+Sierpinski triangle	True	Sierpinski triangle
+Sorting algorithms/Bogosort	True	Sierpinski triangle
+Sorting algorithms/Permutation sort	True	Bogosort
+Rename a file	False	None
+Primes - allocate descendants to their ancestors	True	None
+The ISAAC Cipher	True	ISAAC_(cipher)
+Sudoku	True	Sudoku
+Price fraction	False	None
+Sequence of primes by Trial Division	True	Trial_division
+Simple windowed application	False	None
+Ray-casting algorithm	True	Ray_tracing_(graphics)
+Remove lines from a file	False	None
+Zero to the zero power	True	Zero to the zero power
+Sorting algorithms/Selection sort	True	Selection_sort
+Pythagorean triples	True	Pythagorean_triple
+Subleq	True	Subleq
+Window creation	False	Window_management
+SHA-256	True	SHA-2
+Web scraping	True	Web_scraping
+Subtractive generator	True	Random_number_generation
+Speech synthesis	True	Speech_synthesis
+Sorting algorithms/Quicksort	True	Quicksort
+Sleep	True	Sleep_(system_call)
+Set of real numbers	True	Real_number
+User input/Graphical	False	User_input
+User input/Text	False	User_input
+Roots of unity	True	Root_of_unity
+Take notes on the command line	False	None
+Primality by trial division	True	Trial_division
+Rot-13	True	ROT13
+Solve a Numbrix puzzle	True	None
+Solve a Hopido puzzle	True	None
+String length	False	String_(computer_science)
+String interpolation (included)	True	String_literal
+Set puzzle	False	None
+Zhang-Suen thinning algorithm	True	None
+Priority queue	True	Priority_queue
+XML/Output	True	XML
+XML/Input	True	XML
+Sorting algorithms/Cocktail sort	True	Cocktail_sort
+Strip a set of characters from a string	True	None
+Roots of a quadratic function	True	Quadratic_function
+Tokenize a string	True	Tokenize
+Sorting algorithms/Counting sort	True	Counting sort
+String append	False	None
+SHA-1	True	SHA-1
+RSA code	True	RSA_(cryptosystem)
+Sum of squares	False	Sum_of_squares
+Sparkline in unicode	True	Sparkline
+Terminal control/Preserve screen	False	Terminal_emulator
+Terminal control/Clear the screen	False	Terminal_emulator
+Shell one-liner	True	Command-line_interface
+Walk a directory/Recursively	True	None
+Roman numerals/Encode	True	Roman_numerals
+Tree traversal	True	Tree traversal
+Safe addition	True	Interval_arithmetic
+Yahoo! search interface	True	Yahoo!_Search
+Word wrap	True	Word_wrap
+Sieve of Eratosthenes	True	Sieve_of_Eratosthenes
+Soundex	True	Soundex
 Secure temporary file
 RIPEMD-160
 Twelve statements
