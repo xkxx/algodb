@@ -3,8 +3,8 @@ import sys, os
 def convert(infile, outfile):
   for line in infile:
     print line
-    (task, type, link) = line.split('\t')
-    tokens = [task, link, 'y' if link == 'True' else 'n']
+    (task, type, link) = line[0:-1].split('\t')
+    tokens = [task, link if link != 'None' else '', 'y' if link == 'True' else 'n']
     outfile.write('\t'.join(tokens) + '\n')
 
 def main():

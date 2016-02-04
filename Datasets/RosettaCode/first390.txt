@@ -212,20 +212,20 @@ Yahoo! search interface	True	Yahoo!_Search
 Word wrap	True	Word_wrap
 Sieve of Eratosthenes	True	Sieve_of_Eratosthenes
 Soundex	True	Soundex
-Secure temporary file
-RIPEMD-160
-Twelve statements
-Sorting algorithms/Heapsort
-Temperature conversion
-Sockets
-Stack traces
-Sorting algorithms/Strand sort
-Trigonometric functions
-String case
-Simple database
-String concatenation
-Synchronous concurrency
-Reduced row echelon form
+Secure temporary file	False	Temporary_file
+RIPEMD-160	True	RIPEMD
+Twelve statements	False	None
+Sorting algorithms/Heapsort	True	Heapsort
+Temperature conversion	True	Conversion_of_units_of_temperature
+Sockets	True	Transmission_Control_Protocol
+Stack traces	True	Stack_trace
+Sorting algorithms/Strand sort	True	None
+Trigonometric functions	True	Trigonometric functions
+String case	False	None
+Simple database	True	Database
+String concatenation	True	Concatenation
+Synchronous concurrency	True	Synchronization_(computer_science)
+Reduced row echelon form	True	Reduced row echelon form
 Rosetta Code/Rank languages by popularity
 Read entire file
 Reverse a string

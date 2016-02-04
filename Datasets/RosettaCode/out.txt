@@ -1,222 +1,111 @@
-Guess the number/With feedback (player)	None
-	n
-Loops/Break	Break_statement
-	n
-Guess the number/With feedback	None
-	n
-Abstract type	Abstract_type
-	n
-Benford's law	Benford%27s_law
-	n
-Jensen's Device	Jensen%27s_Device
-	n
-Perfect numbers	Perfect_number
-	n
-First-class functions/Use numbers analogously	None
-	n
-K-d tree	K-d_tree
-	n
-CSV to HTML translation	None
-	n
-Canny edge detector	Canny_edge_detector
-	n
-MD5	MD5
-	n
-Bitwise operations	Bitwise_operation
-	n
-Fibonacci n-step number sequences	Fibonacci_number
-	n
-Call an object method	Object-oriented_programming
-	n
-Infinity	Infinity
-	n
-Machine code	Machine_code
-	n
-Pascal's triangle/Puzzle	Pascal%27s_triangle
-	n
-Binary digits	Bit
-	n
-List comprehensions	List_comprehension
-	n
-Amb	None
-	n
-Count the coins	None
-	n
-Magic squares of odd order	Magic_square
-	n
-Extend your language	None
-	n
-Narcissist	None
-	n
-First class environments	Closure_(computer_programming)
-	n
-Dragon curve	Dragon_curve
-	n
-Formal power series	Formal_power_series
-	n
-Empty string	Empty_string
-	n
-Combinations and permutations	Combinations_and_permutations
-	n
-MD4	MD4
-	n
-OpenGL	OpenGL
-	n
-Permutations by swapping	Permutation
-	n
-HTTPS/Authenticated	HTTPS
-	n
-Matrix-exponentiation operator	Matrix_exponential
-	n
-Jump anywhere	Branch_(computer_science)
-	n
-Exponentiation operator	Exponentiation
-	n
-Pernicious numbers	Pernicious_number
-	n
-Compare a list of strings	None
-	n
-First-class functions	First-class_function
-	n
-Metered concurrency	Semaphore_(programming)
-	n
-Command-line arguments	Command_line_arguments
-	n
-Bitwise IO	None
-	n
-Permutations/Rank of a permutation	Permutation
-	n
-Dynamic variable names	None
-	n
-HTTPS/Client-authenticated	HTTPS
-	n
-Currying	Currying
-	n
-K-means++ clustering	K-means%2B%2B
-	n
-Hickerson series of almost integers	None
-	n
-Logical operations	Logical_connective
-	n
-Bitcoin/address validation	Bitcoin
-	n
-I before E except after C	I_before_E_except_after_C
-	n
-Bitcoin/public point to address	Bitcoin
-	n
-Modular inverse	Modular_multiplicative_inverse
-	n
-Carmichael 3 strong pseudoprimes	Carmichael_number
-	n
-Bitmap/Bresenham's line algorithm	Bresenham%27s_line_algorithm
-	n
-Mutual recursion	Mutual_recursion
-	n
-Bitmap/Write a PPM file	Netpbm
-	n
-Address of a variable	Pointer_(computer_programming)
-	n
-Create a two-dimensional array at runtime	Two-dimensional_array
-	n
-Collections	Data_structure
-	n
-Bitmap	Bitmap
-	n
-Hash from two arrays	Hash_table
-	n
-Apply a callback to an array	MapReduce
-	n
-Flatten a list	None
-	n
-Bitmap/Bézier curves/Cubic	Bézier_curve
-	n
-Haversine formula	Haversine_formula
-	n
-Parsing/Shunting-yard algorithm	Shunting-yard_algorithm
-	n
-Generator/Exponential	None
-	n
-Loops/Infinite	Infinite_loop
-	n
-Loops/For	For_loop
-	n
-Bernoulli numbers	Bernoulli_number
-	n
-One-dimensional cellular automata	Cellular_automaton
-	n
-Empty program	None
-	n
-Null object	Null_Object_pattern
-	n
-Conway's Game of Life	Conway%27s_Game_of_Life
-	n
-Host introspection	None
-	n
-Hough transform	Hough_transform
-	n
-Find limit of recursion	None
-	n
-Inverted index	Inverted_index
-	n
-Deconvolution/2D+	Deconvolution
-	n
-Average loop length	None
-	n
-Arithmetic/Rational	Rational_data_type
-	n
-Naming conventions	Naming_convention
-	n
-Compare sorting algorithms' performance	Sorting_algorithm
-	n
-Events	Event_(computing)
-	n
-Memory allocation	Memory_allocation
-	n
-Natural sorting	Natural_sort_order
-	n
-Continued fraction/Arithmetic/Construct from rational number	Continued_fraction
-	n
-Extensible prime generator	Formula_for_primes
-	n
-Plot coordinate pairs	Coordinate_system
-	n
-Named parameters	Named_parameter
-	n
-Multiple regression	Multiple_regression
-	n
-Add a variable to a class instance at runtime	None
-	n
-Odd word problem	None
-	n
-Pig the dice game	Pig_(dice_game)
-	n
-Function definition	Subroutine
-	n
-Maximum triangle path sum	None
-	n
-Order disjoint list items	None
-	n
-LU decomposition	LU_decomposition
-	n
-AKS test for primes	AKS_primality_test
-	n
-Check Machin-like formulas	Machin-like_formula
-	n
-Arithmetic-geometric mean/Calculate Pi	Approximations_of_pi
-	n
-Horizontal sundial calculations	Sundial
-	n
-Numerical integration/Gauss-Legendre Quadrature	Gaussian_quadrature
-	n
-Knight's tour	Knight%27s_tour
-	n
-Miller–Rabin primality test	Miller-Rabin_primality_test
-	n
-Go Fish	Go_Fish
-	n
-Knapsack problem/Unbounded	Knapsack_problem
-	n
-Spiral matrix	None
-	n
-Read a specific line from a file	None
-	n
+Guess the number/With feedback (player)		n
+Loops/Break	Break_statement	n
+Guess the number/With feedback		n
+Abstract type	Abstract_type	n
+Benford's law	Benford%27s_law	n
+Jensen's Device	Jensen%27s_Device	n
+Perfect numbers	Perfect_number	n
+First-class functions/Use numbers analogously		n
+K-d tree	K-d_tree	n
+CSV to HTML translation		n
+Canny edge detector	Canny_edge_detector	n
+MD5	MD5	n
+Bitwise operations	Bitwise_operation	n
+Fibonacci n-step number sequences	Fibonacci_number	n
+Call an object method	Object-oriented_programming	n
+Infinity	Infinity	n
+Machine code	Machine_code	n
+Pascal's triangle/Puzzle	Pascal%27s_triangle	n
+Binary digits	Bit	n
+List comprehensions	List_comprehension	n
+Amb		n
+Count the coins		n
+Magic squares of odd order	Magic_square	n
+Extend your language		n
+Narcissist		n
+First class environments	Closure_(computer_programming)	n
+Dragon curve	Dragon_curve	n
+Formal power series	Formal_power_series	n
+Empty string	Empty_string	n
+Combinations and permutations	Combinations_and_permutations	n
+MD4	MD4	n
+OpenGL	OpenGL	n
+Permutations by swapping	Permutation	n
+HTTPS/Authenticated	HTTPS	n
+Matrix-exponentiation operator	Matrix_exponential	n
+Jump anywhere	Branch_(computer_science)	n
+Exponentiation operator	Exponentiation	n
+Pernicious numbers	Pernicious_number	n
+Compare a list of strings		n
+First-class functions	First-class_function	n
+Metered concurrency	Semaphore_(programming)	n
+Command-line arguments	Command_line_arguments	n
+Bitwise IO		n
+Permutations/Rank of a permutation	Permutation	n
+Dynamic variable names		n
+HTTPS/Client-authenticated	HTTPS	n
+Currying	Currying	n
+K-means++ clustering	K-means%2B%2B	n
+Hickerson series of almost integers		n
+Logical operations	Logical_connective	n
+Bitcoin/address validation	Bitcoin	n
+I before E except after C	I_before_E_except_after_C	n
+Bitcoin/public point to address	Bitcoin	n
+Modular inverse	Modular_multiplicative_inverse	n
+Carmichael 3 strong pseudoprimes	Carmichael_number	n
+Bitmap/Bresenham's line algorithm	Bresenham%27s_line_algorithm	n
+Mutual recursion	Mutual_recursion	n
+Bitmap/Write a PPM file	Netpbm	n
+Address of a variable	Pointer_(computer_programming)	n
+Create a two-dimensional array at runtime	Two-dimensional_array	n
+Collections	Data_structure	n
+Bitmap	Bitmap	n
+Hash from two arrays	Hash_table	n
+Apply a callback to an array	MapReduce	n
+Flatten a list		n
+Bitmap/Bézier curves/Cubic	Bézier_curve	n
+Haversine formula	Haversine_formula	n
+Parsing/Shunting-yard algorithm	Shunting-yard_algorithm	n
+Generator/Exponential		n
+Loops/Infinite	Infinite_loop	n
+Loops/For	For_loop	n
+Bernoulli numbers	Bernoulli_number	n
+One-dimensional cellular automata	Cellular_automaton	n
+Empty program		n
+Null object	Null_Object_pattern	n
+Conway's Game of Life	Conway%27s_Game_of_Life	n
+Host introspection		n
+Hough transform	Hough_transform	n
+Find limit of recursion		n
+Inverted index	Inverted_index	n
+Deconvolution/2D+	Deconvolution	n
+Average loop length		n
+Arithmetic/Rational	Rational_data_type	n
+Naming conventions	Naming_convention	n
+Compare sorting algorithms' performance	Sorting_algorithm	n
+Events	Event_(computing)	n
+Memory allocation	Memory_allocation	n
+Natural sorting	Natural_sort_order	n
+Continued fraction/Arithmetic/Construct from rational number	Continued_fraction	n
+Extensible prime generator	Formula_for_primes	n
+Plot coordinate pairs	Coordinate_system	n
+Named parameters	Named_parameter	n
+Multiple regression	Multiple_regression	n
+Add a variable to a class instance at runtime		n
+Odd word problem		n
+Pig the dice game	Pig_(dice_game)	n
+Function definition	Subroutine	n
+Maximum triangle path sum		n
+Order disjoint list items		n
+LU decomposition	LU_decomposition	n
+AKS test for primes	AKS_primality_test	n
+Check Machin-like formulas	Machin-like_formula	n
+Arithmetic-geometric mean/Calculate Pi	Approximations_of_pi	n
+Horizontal sundial calculations	Sundial	n
+Numerical integration/Gauss-Legendre Quadrature	Gaussian_quadrature	n
+Knight's tour	Knight%27s_tour	n
+Miller–Rabin primality test	Miller-Rabin_primality_test	n
+Go Fish	Go_Fish	n
+Knapsack problem/Unbounded	Knapsack_problem	n
+Spiral matrix		n
+Read a specific line from a file		n
