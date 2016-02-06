@@ -231,54 +231,54 @@ Read entire file	False	None
 Reverse a string	False	None
 The Twelve Days of Christmas	False	The_Twelve_Days_of_Christmas_(song)
 Sailors, coconuts and a monkey problem	False	None
-Remove duplicate elements
-Zebra puzzle
-Simulate input/Keyboard
-XML/XPath
-Write entire file
-Stable marriage problem
-Sort an integer array
-Set consolidation
-Sequence of non-squares
-Yin and yang
-Read a file line by line
-Quickselect algorithm
-Sum and product of an array
-Pragmatic directives
-Wireworld
-Sorting algorithms/Stooge sort
-Sierpinski triangle/Graphical
-Substring
-Run-length encoding
-Update a configuration file
-Video display modes
-Terminal control/Ringing the terminal bell
-State name puzzle
-Return multiple values
-Symmetric difference
-Read a configuration file
-Roots of a function
-Vigenère cipher/Cryptanalysis
-Show the epoch
-Ternary logic
-Stern-Brocot sequence
-Sorting algorithms/Bead sort
-Sort using a custom comparator
-Send email
-String comparison
-Quaternion type
-Strip control codes and extended characters from a string
-World Cup group stage
-Rock-paper-scissors
-Variable size/Set
-Sum multiples of 3 and 5
-Power set
-Program termination
-Truncate a file
-Rosetta Code/Count examples
-Variadic function
-Write float arrays to a text file
-Topic variable
+Remove duplicate elements	True	None
+Zebra puzzle	True	Zebra_Puzzle
+Simulate input/Keyboard	False	None
+XML/XPath	True	XPath
+Write entire file	False	None
+Stable marriage problem	True	Stable_marriage_problem
+Sort an integer array	True	Sorting_algorithm
+Set consolidation	True	None
+Sequence of non-squares	True	None
+Yin and yang	False	None
+Read a file line by line	False	None
+Quickselect algorithm	True	Quickselect
+Sum and product of an array	False	None
+Pragmatic directives	False	Directive_(programming)
+Wireworld	True	Wireworld
+Sorting algorithms/Stooge sort	True	Stooge_sort
+Sierpinski triangle/Graphical	True	Sierpinski triangle
+Substring	False	String functions (programming)
+Run-length encoding	True	Run-length encoding
+Update a configuration file	False	Configuration_file
+Video display modes	False	Framebuffer
+Terminal control/Ringing the terminal bell	False	Bell_character
+State name puzzle	False	None
+Return multiple values	False	None
+Symmetric difference	True	Symmetric_difference
+Read a configuration file	False	Configuration_file
+Roots of a function	True	Zero_of_a_function
+Vigenère cipher/Cryptanalysis	True	Vigenère_cipher
+Show the epoch	True	Epoch_(reference_date)
+Ternary logic	True	Three-valued_logic
+Stern-Brocot sequence	True	Stern–Brocot_tree
+Sorting algorithms/Bead sort	True	Bead_sort
+Sort using a custom comparator	True	Sorting_algorithm
+Send email	True	Email
+String comparison	True	String comparison
+Quaternion type	True	Quaternion
+Strip control codes and extended characters from a string	True	None
+World Cup group stage	True	None
+Rock-paper-scissors	True	Rock-paper-scissors
+Variable size/Set	False	None
+Sum multiples of 3 and 5	True	None
+Power set	True	Power set
+Program termination	False	None
+Truncate a file	False	File_system
+Rosetta Code/Count examples	False	None
+Variadic function	False	Variadic_function
+Write float arrays to a text file	False	None
+Topic variable	False	None
 Ulam spiral (for primes)
 Stack
 Terminal control/Display an extended character
