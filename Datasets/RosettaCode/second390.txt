@@ -337,54 +337,54 @@ Non-continuous subsequences		n
 File input/output		n
 Equilibrium index		y
 Hello world/Web server	Web server	n
-Linear congruential generator
-MD5/Implementation
-Bitmap/Bézier curves/Quadratic
-ABC Problem
-Pangram checker
-Five weekends
-Harshad or Niven series
-Ordered Partitions
-Case-sensitivity of identifiers
-Calendar
-Generate Chess960 starting position
-Include a file
-Fibonacci word/fractal
-File modification time
-Extreme floating point values
-Function frequency
-Pick random element
-Percolation/Mean run density
-Joystick position
-Pig the dice game/Player
-Metronome
-Append a record to the end of a text file
-Compound data type
-Galton box animation
-Morse code
-Date manipulation
-Gaussian elimination
-Echo server
-Bitmap/Read a PPM file
-Grayscale image
-Bitmap/Histogram
-Exceptions/Catch an exception thrown in a nested call
-Bulls and cows/Player
-Map range
-Euler's sum of powers conjecture
-Flow-control structures
-Exceptions
-Lychrel numbers
-Pointers and references
-Execute SNUSP
-Inheritance/Multiple
-Conditional structures
-Non-decimal radices/Output
-Knapsack problem/Continuous
-Numeric error propagation
-Execute Brain****
-Catmull–Clark subdivision surface
-Find common directory path
-Mad Libs
-Amicable pairs
-Order two numerical lists
+Linear congruential generator	Linear congruential generator	y
+MD5/Implementation	MD5	y
+Bitmap/Bézier curves/Quadratic	Bézier_curve	y
+ABC problem	Abc_conjecture	y
+Pangram checker		y
+Five weekends		n
+Harshad or Niven series	Harshad_number	y
+Ordered Partitions	Weak_ordering	y
+Case-sensitivity of identifiers		n
+Calendar	Calendar	n
+Generate Chess960 starting position	Chess960_starting_position	y
+Include a file		n
+Fibonacci word/fractal	Fibonacci_word	y
+File modification time		n
+Extreme floating point values	Floating_point	n
+Function frequency		n
+Pick random element		n
+Percolation/Mean run density		y
+Joystick position		n
+Pig the dice game/Player	Pig_(dice_game)	y
+Metronome	Metronome	y
+Append a record to the end of a text file		n
+Compound data type	Composite_data_type	n
+Galton box animation	Bean_machine	y
+Morse code	Morse_code	y
+Date manipulation	Calendar_date	n
+Gaussian elimination	Gaussian_elimination	y
+Echo server	Echo_Protocol	y
+Bitmap/Read a PPM file		n
+Grayscale image	Grayscale	n
+Bitmap/Histogram	Image_histogram	y
+Exceptions/Catch an exception thrown in a nested call	Exception_handling	n
+Bulls and cows/Player	Bulls_and_Cows	y
+Map range		n
+Euler's sum of powers conjecture	Euler%27s_sum_of_powers_conjecture	y
+Flow-control structures	Flow_control_structure	n
+Exceptions	Exception_handling	n
+Lychrel numbers	Lychrel_number	y
+Pointers and references	Data_type	n
+Execute SNUSP		y
+Inheritance/Multiple	Object-oriented_programming	n
+Conditional structures	Conditional_(computer_programming)	n
+Non-decimal radices/Output	Radix	y
+Knapsack problem/Continuous	Knapsack_problem	y
+Numeric error propagation	Propagation_of_uncertainty	y
+Execute Brain****	Brainfuck	y
+Catmull–Clark subdivision surface	Catmull–Clark_subdivision_surface	y
+Find common directory path		n
+Mad Libs	Mad_Libs	n
+Amicable pairs	Amicable_numbers	y
+Order two numerical lists		n
