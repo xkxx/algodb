@@ -1,3 +1,8 @@
+# for misterious encoding and decoding
+import sys
+reload(sys)
+sys.setdefaultencoding('utf8')
+
 # # for task data
 # from cassandra.cluster import Cluster
 
@@ -35,8 +40,10 @@ def train():
             "match_all" : {}
         }
     }
-    res = es.search(index='throwtable', doc_type='algorithm', body=query)
-    algo_names = [entry['name'] for entry in res['hits']]
+    res = es.search(index='throwtable', doc_type='algorithm',
+        body=query, size=2000)
+    algo_names = [entry['_source']['name'] for entry in res['hits']['hits']]
+    print algo_names
 
     # debugging
     print '# of task_names:', len(task_names)
@@ -73,6 +80,8 @@ def train():
         feature_vector.append(mock_extractor(task_name, random_algo))
         score_vector.append(NON_CORRESPONDING)
 
+    print feature_vector
+    print score_vector
     # train
     clf.fit(feature_vector, score_vector)
 
@@ -87,3 +96,6 @@ def mock_extractor(title1, title2):
     features.append(fuzz.partial_ratio(title1, title2))
     features.append(Simhash(title1).distance(Simhash(title2)))
     return features
+
+if __name__ == '__main__':
+    train()

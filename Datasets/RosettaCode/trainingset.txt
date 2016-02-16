@@ -328,63 +328,153 @@ Old lady swallowed a fly	There Was an Old Lady Who Swallowed a Fly	y
 Loops/Nested		n
 Averages/Median	Median	y
 Averages/Mode	Mode	y
-N-queens problem	Eight queens puzzle	y
-24 game	24 Game	y
-Array concatenation		n
-Main step of GOST 28147-89	GOST (block cipher)	y
-Hello world/Text		n
-Non-continuous subsequences		n
-File input/output		n
-Equilibrium index		y
-Hello world/Web server	Web server	n
-Linear congruential generator
-MD5/Implementation
-Bitmap/Bézier curves/Quadratic
-ABC Problem
-Pangram checker
-Five weekends
-Harshad or Niven series
-Ordered Partitions
-Case-sensitivity of identifiers
-Calendar
-Generate Chess960 starting position
-Include a file
-Fibonacci word/fractal
-File modification time
-Extreme floating point values
-Function frequency
-Pick random element
-Percolation/Mean run density
-Joystick position
-Pig the dice game/Player
-Metronome
-Append a record to the end of a text file
-Compound data type
-Galton box animation
-Morse code
-Date manipulation
-Gaussian elimination
-Echo server
-Bitmap/Read a PPM file
-Grayscale image
-Bitmap/Histogram
-Exceptions/Catch an exception thrown in a nested call
-Bulls and cows/Player
-Map range
-Euler's sum of powers conjecture
-Flow-control structures
-Exceptions
-Lychrel numbers
-Pointers and references
-Execute SNUSP
-Inheritance/Multiple
-Conditional structures
-Non-decimal radices/Output
-Knapsack problem/Continuous
-Numeric error propagation
-Execute Brain****
-Catmull–Clark subdivision surface
-Find common directory path
-Mad Libs
-Amicable pairs
-Order two numerical lists
+Guess the number/With feedback (player)		n
+Loops/Break	Break_statement	n
+Guess the number/With feedback		n
+Abstract type	Abstract_type	n
+Benford's law	Benford%27s_law	n
+Jensen's Device	Jensen%27s_Device	n
+Perfect numbers	Perfect_number	n
+First-class functions/Use numbers analogously		n
+K-d tree	K-d_tree	n
+CSV to HTML translation		n
+Canny edge detector	Canny_edge_detector	n
+MD5	MD5	n
+Bitwise operations	Bitwise_operation	n
+Fibonacci n-step number sequences	Fibonacci_number	n
+Call an object method	Object-oriented_programming	n
+Infinity	Infinity	n
+Machine code	Machine_code	n
+Pascal's triangle/Puzzle	Pascal%27s_triangle	n
+Binary digits	Bit	n
+List comprehensions	List_comprehension	n
+Amb		n
+Count the coins		n
+Magic squares of odd order	Magic_square	n
+Extend your language		n
+Narcissist		n
+First class environments	Closure_(computer_programming)	n
+Dragon curve	Dragon_curve	n
+Formal power series	Formal_power_series	n
+Empty string	Empty_string	n
+Combinations and permutations	Combinations_and_permutations	n
+MD4	MD4	n
+OpenGL	OpenGL	n
+Permutations by swapping	Permutation	n
+HTTPS/Authenticated	HTTPS	n
+Matrix-exponentiation operator	Matrix_exponential	n
+Jump anywhere	Branch_(computer_science)	n
+Exponentiation operator	Exponentiation	n
+Pernicious numbers	Pernicious_number	n
+Compare a list of strings		n
+First-class functions	First-class_function	n
+Metered concurrency	Semaphore_(programming)	n
+Command-line arguments	Command_line_arguments	n
+Bitwise IO		n
+Permutations/Rank of a permutation	Permutation	n
+Dynamic variable names		n
+HTTPS/Client-authenticated	HTTPS	n
+Currying	Currying	n
+K-means++ clustering	K-means%2B%2B	n
+Hickerson series of almost integers		n
+Logical operations	Logical_connective	n
+Bitcoin/address validation	Bitcoin	n
+I before E except after C	I_before_E_except_after_C	n
+Bitcoin/public point to address	Bitcoin	n
+Modular inverse	Modular_multiplicative_inverse	n
+Carmichael 3 strong pseudoprimes	Carmichael_number	n
+Bitmap/Bresenham's line algorithm	Bresenham%27s_line_algorithm	n
+Mutual recursion	Mutual_recursion	n
+Bitmap/Write a PPM file	Netpbm	n
+Address of a variable	Pointer_(computer_programming)	n
+Create a two-dimensional array at runtime	Two-dimensional_array	n
+Collections	Data_structure	n
+Bitmap	Bitmap	n
+Hash from two arrays	Hash_table	n
+Apply a callback to an array	MapReduce	n
+Flatten a list		n
+Bitmap/Bézier curves/Cubic	Bézier_curve	n
+Haversine formula	Haversine_formula	n
+Parsing/Shunting-yard algorithm	Shunting-yard_algorithm	n
+Generator/Exponential		n
+Loops/Infinite	Infinite_loop	n
+Loops/For	For_loop	n
+Bernoulli numbers	Bernoulli_number	n
+One-dimensional cellular automata	Cellular_automaton	n
+Empty program		n
+Null object	Null_Object_pattern	n
+Conway's Game of Life	Conway%27s_Game_of_Life	n
+Host introspection		n
+Hough transform	Hough_transform	n
+Find limit of recursion		n
+Inverted index	Inverted_index	n
+Deconvolution/2D+	Deconvolution	n
+Average loop length		n
+Arithmetic/Rational	Rational_data_type	n
+Naming conventions	Naming_convention	n
+Compare sorting algorithms' performance	Sorting_algorithm	n
+Events	Event_(computing)	n
+Memory allocation	Memory_allocation	n
+Natural sorting	Natural_sort_order	n
+Continued fraction/Arithmetic/Construct from rational number	Continued_fraction	n
+Extensible prime generator	Formula_for_primes	n
+Plot coordinate pairs	Coordinate_system	n
+Named parameters	Named_parameter	n
+Multiple regression	Multiple_regression	n
+Add a variable to a class instance at runtime		n
+Odd word problem		n
+Pig the dice game	Pig_(dice_game)	n
+Function definition	Subroutine	n
+Maximum triangle path sum		n
+Order disjoint list items		n
+LU decomposition	LU_decomposition	n
+AKS test for primes	AKS_primality_test	n
+Check Machin-like formulas	Machin-like_formula	n
+Arithmetic-geometric mean/Calculate Pi	Approximations_of_pi	n
+Horizontal sundial calculations	Sundial	n
+Numerical integration/Gauss-Legendre Quadrature	Gaussian_quadrature	n
+Knight's tour	Knight%27s_tour	n
+Miller–Rabin primality test	Miller-Rabin_primality_test	n
+Go Fish	Go_Fish	n
+Knapsack problem/Unbounded	Knapsack_problem	n
+Spiral matrix		n
+Read a specific line from a file		n
+Time a function		n
+SEDOLs	SEDOL	n
+Real constants and functions		n
+Rate counter		n
+Zeckendorf arithmetic	Zeckendorf%27s_theorem	n
+Tic-tac-toe	Tic-tac-toe	n
+Rosetta Code/Fix code tags		n
+Ranking methods	Ranking	n
+Write language name in 3D ASCII		n
+Solve the no connection puzzle		n
+Sorting algorithms/Radix sort	Radix_sort	n
+Zeckendorf number representation	Zeckendorf%27s_theorem	n
+Variables	Variable_(computer_science)	n
+RCRPG		n
+Sort an array of composite structures	Sorting_algorithm	n
+Voronoi diagram	Voronoi_diagram	n
+Terminal control/Dimensions	Terminal_emulator	n
+Runtime evaluation	Dynamic_programming_language	n
+Runtime evaluation/In an environment	Dynamic_programming_language	n
+SQL-based authentication		n
+Window management	Window_manager	n
+Seven-sided dice from five-sided dice		n
+Sort stability	Stable_sort	n
+Unbias a random generator		n
+Probabilistic choice		n
+System time	System_time	n
+Statistics/Basic	Statistics	n
+Rendezvous	Synchronous rendezvous	n
+String matching	String searching algorithm	n
+QR decomposition	QR decomposition	n
+SOAP	SOAP	n
+Self-describing numbers	Self-descriptive_number	n
+Xiaolin Wu's line algorithm	Xiaolin Wu's line algorithm	n
+Table creation/Postal addresses		n
+URL decoding	URL encoding	n
+URL encoding	URL encoding	n
+Sorting algorithms/Sleep sort		n
+Resistor mesh		n
+Set	Set (computer science)	n
