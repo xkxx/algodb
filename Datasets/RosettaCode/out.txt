@@ -231,3 +231,159 @@ Read entire file		n
 Reverse a string		n
 The Twelve Days of Christmas	The_Twelve_Days_of_Christmas_(song)	n
 Sailors, coconuts and a monkey problem		n
+Remove duplicate elements		n
+Zebra puzzle	Zebra_Puzzle	n
+Simulate input/Keyboard		n
+XML/XPath	XPath	n
+Write entire file		n
+Stable marriage problem	Stable_marriage_problem	n
+Sort an integer array	Sorting_algorithm	n
+Set consolidation		n
+Sequence of non-squares		n
+Yin and yang		n
+Read a file line by line		n
+Quickselect algorithm	Quickselect	n
+Sum and product of an array		n
+Pragmatic directives	Directive_(programming)	n
+Wireworld	Wireworld	n
+Sorting algorithms/Stooge sort	Stooge_sort	n
+Sierpinski triangle/Graphical	Sierpinski triangle	n
+Substring	String functions (programming)	n
+Run-length encoding	Run-length encoding	n
+Update a configuration file	Configuration_file	n
+Video display modes	Framebuffer	n
+Terminal control/Ringing the terminal bell	Bell_character	n
+State name puzzle		n
+Return multiple values		n
+Symmetric difference	Symmetric_difference	n
+Read a configuration file	Configuration_file	n
+Roots of a function	Zero_of_a_function	n
+Vigenère cipher/Cryptanalysis	Vigenère_cipher	n
+Show the epoch	Epoch_(reference_date)	n
+Ternary logic	Three-valued_logic	n
+Stern-Brocot sequence	Stern–Brocot_tree	n
+Sorting algorithms/Bead sort	Bead_sort	n
+Sort using a custom comparator	Sorting_algorithm	n
+Send email	Email	n
+String comparison	String comparison	n
+Quaternion type	Quaternion	n
+Strip control codes and extended characters from a string		n
+World Cup group stage		n
+Rock-paper-scissors	Rock-paper-scissors	n
+Variable size/Set		n
+Sum multiples of 3 and 5		n
+Power set	Power set	n
+Program termination		n
+Truncate a file	File_system	n
+Rosetta Code/Count examples		n
+Variadic function	Variadic_function	n
+Write float arrays to a text file		n
+Topic variable		n
+Ulam spiral (for primes)	Ulam_spiral	n
+Stack	Stack_(abstract_data_type)	n
+Terminal control/Display an extended character	Terminal_emulator	n
+Terminal control/Inverse video	Terminal_emulator	n
+Terminal control/Hiding the cursor	Terminal_emulator	n
+Sum of a series	Sum of series	n
+Universal Turing machine	Universal_Turing_machine	n
+Test a function	Software_testing	n
+Send an unknown method call	Higher-order_function	n
+Vogel's approximation method		n
+Trabb Pardo–Knuth algorithm	Trabb_Pardo–Knuth_algorithm	n
+Singly-linked list/Traversal	Linked_list	n
+Roman numerals/Decode	Roman_numerals	n
+Program name		n
+Queue/Definition	Queue_(abstract_data_type)	n
+String prepend	Concatenation	n
+Strip whitespace from a string/Top and tail	Trimming_(computer_programming)	n
+Special variables		n
+Sorting algorithms/Pancake sort	Pancake_sorting	n
+Quine	Quine_(computing)	n
+Top rank per group	none	n
+Verify distribution uniformity/Naive	Distribution_uniformity	n
+Sorting algorithms/Insertion sort	Insertion_sort	n
+Sorting algorithms/Bubble sort	Bubble_sort	n
+Verify distribution uniformity/Chi-squared test	Chi-squared_test	n
+Random numbers	Random_number_generation	n
+XML/DOM serialization	Document_Object_Model	n
+Terminal control/Coloured text	Terminal_emulator	n
+Vigenère cipher	Vigenère_cipher	n
+Text processing/2		n
+Visualize a tree	Tree_view	n
+Unicode strings		n
+Textonyms	Predictive text	n
+Same Fringe		n
+Primorial numbers	Primorial	n
+Sorting algorithms/Shell sort	Shellsort	n
+S-Expressions	S-expression	n
+Sierpinski carpet	Sierpinski_carpet	n
+Scope modifiers	Scope_(computer_science)	n
+Sorting algorithms/Gnome sort	Gnome_sort	n
+Van der Corput sequence	Van_der_Corput_sequence	n
+Text processing/Max licenses in use		n
+Unicode variable names	Unicode	n
+Polynomial regression	Polynomial_regression	n
+Standard deviation	Standard deviation	n
+Thiele's interpolation formula	Thiele%27s_interpolation_formula	n
+Runge-Kutta method	Runge–Kutta_methods	n
+Sum digits of an integer	none	n
+Random number generator (device)	Hardware random number generator	n
+Self-referential sequence	Self-reference	n
+Record sound	Sound_recording_and_reproduction	n
+Stem-and-leaf plot	Stem-and-leaf_display	n
+URL parser	Uniform_Resource_Locator	n
+Scope/Function names and labels		n
+Polymorphism		n
+Solve a Hidato puzzle	Hidato	n
+Unix/ls	Ls	n
+Stair-climbing puzzle		n
+Text processing/1		n
+Special characters		n
+Rep-string		n
+Truncatable primes		n
+Semordnilap	Semordnilap	n
+Semiprime	Semiprime	n
+Range expansion		n
+Range extraction		n
+Regular expressions	Regular_expression	n
+Vector products	Vector_product	n
+Prime decomposition	Prime decomposition	n
+Singleton	Singleton_pattern	n
+Variable size/Get		n
+Sort disjoint sublist		n
+Start from a main routine		n
+Respond to an unknown method call		n
+Reverse words in a string		n
+Simulate input/Mouse	Computer_mouse	n
+Terminal control/Cursor movement	Terminal emulator	n
+Zig-zag matrix		n
+Rosetta Code/Find unimplemented tasks		n
+Terminal control/Positional read	Terminal emulator	n
+Problem of Apollonius	Problem_of_Apollonius	n
+Topological sort	Topological_sorting	n
+Terminal control/Cursor positioning	Terminal emulator	n
+Search a list	Linear_search	n
+Terminal control/Unicode output	Unicode	n
+Sutherland-Hodgman polygon clipping	Sutherland–Hodgman_algorithm	n
+Solve a Holy Knight's tour		n
+Window creation/X11	X11	n
+Vampire number	Vampire_number	n
+Use another language to call a function	Foreign_function_interface	n
+Random number generator (included)	Random_number_generation	n
+Towers of Hanoi	Tower_of_Hanoi	n
+Repeat a string		n
+Sokoban	Sokoban	n
+Polynomial long division	Polynomial_long_division	n
+Queue/Usage	Queue_(abstract_data_type)	n
+Undefined values	Undefined_value	n
+Y combinator	Fixed-point_combinator	n
+Singly-linked list/Element insertion	Linked_list	n
+Substring/Top and tail		n
+Singly-linked list/Element definition	Linked_list	n
+Variable-length quantity	Variable-length_quantity	n
+Write to Windows event log	Event_Viewer	n
+Strip block comments	Block comments	n
+Sorting algorithms/Merge sort	Merge_sort	n
+Walk a directory/Non-recursively		n
+Strip comments from a string	Comment_(computer_programming)	n
+Topswops		n

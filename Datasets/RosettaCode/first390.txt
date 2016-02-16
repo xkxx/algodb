@@ -150,7 +150,7 @@ Resistor mesh	False	None
 Set	True	Set (computer science)
 Sorting algorithms/Comb sort	True	Comb_sort
 Total circles area	True	None
-Rosetta Code/Find bare lang tags	False	False
+Rosetta Code/Find bare lang tags	False	None
 Short-circuit evaluation	True	Short-circuit_evaluation
 Sierpinski triangle	True	Sierpinski triangle
 Sorting algorithms/Bogosort	True	Sierpinski triangle
@@ -231,159 +231,159 @@ Read entire file	False	None
 Reverse a string	False	None
 The Twelve Days of Christmas	False	The_Twelve_Days_of_Christmas_(song)
 Sailors, coconuts and a monkey problem	False	None
-Remove duplicate elements
-Zebra puzzle
-Simulate input/Keyboard
-XML/XPath
-Write entire file
-Stable marriage problem
-Sort an integer array
-Set consolidation
-Sequence of non-squares
-Yin and yang
-Read a file line by line
-Quickselect algorithm
-Sum and product of an array
-Pragmatic directives
-Wireworld
-Sorting algorithms/Stooge sort
-Sierpinski triangle/Graphical
-Substring
-Run-length encoding
-Update a configuration file
-Video display modes
-Terminal control/Ringing the terminal bell
-State name puzzle
-Return multiple values
-Symmetric difference
-Read a configuration file
-Roots of a function
-Vigenère cipher/Cryptanalysis
-Show the epoch
-Ternary logic
-Stern-Brocot sequence
-Sorting algorithms/Bead sort
-Sort using a custom comparator
-Send email
-String comparison
-Quaternion type
-Strip control codes and extended characters from a string
-World Cup group stage
-Rock-paper-scissors
-Variable size/Set
-Sum multiples of 3 and 5
-Power set
-Program termination
-Truncate a file
-Rosetta Code/Count examples
-Variadic function
-Write float arrays to a text file
-Topic variable
-Ulam spiral (for primes)
-Stack
-Terminal control/Display an extended character
-Terminal control/Inverse video
-Terminal control/Hiding the cursor
-Sum of a series
-Universal Turing machine
-Test a function
-Send an unknown method call
-Vogel's approximation method
-Trabb Pardo–Knuth algorithm
-Singly-linked list/Traversal
-Roman numerals/Decode
-Program name
-Queue/Definition
-String prepend
-Strip whitespace from a string/Top and tail
-Special variables
-Sorting algorithms/Pancake sort
-Quine
-Top rank per group
-Verify distribution uniformity/Naive
-Sorting algorithms/Insertion sort
-Sorting algorithms/Bubble sort
-Verify distribution uniformity/Chi-squared test
-Random numbers
-XML/DOM serialization
-Terminal control/Coloured text
-Vigenère cipher
-Text processing/2
-Visualize a tree
-Unicode strings
-Textonyms
-Same Fringe
-Primorial numbers
-Sorting algorithms/Shell sort
-S-Expressions
-Sierpinski carpet
-Scope modifiers
-Sorting algorithms/Gnome sort
-Van der Corput sequence
-Text processing/Max licenses in use
-Unicode variable names
-Polynomial regression
-Standard deviation
-Thiele's interpolation formula
-Runge-Kutta method
-Sum digits of an integer
-Random number generator (device)
-Self-referential sequence
-Record sound
-Stem-and-leaf plot
-URL parser
-Scope/Function names and labels
-Polymorphism
-Solve a Hidato puzzle
-Unix/ls
-Stair-climbing puzzle
-Text processing/1
-Special characters
-Rep-string
-Truncatable primes
-Semordnilap
-Semiprime
-Range expansion
-Range extraction
-Regular expressions
-Vector products
-Prime decomposition
-Singleton
-Variable size/Get
-Sort disjoint sublist
-Start from a main routine
-Respond to an unknown method call
-Reverse words in a string
-Simulate input/Mouse
-Terminal control/Cursor movement
-Zig-zag matrix
-Rosetta Code/Find unimplemented tasks
-Terminal control/Positional read
-Problem of Apollonius
-Topological sort
-Terminal control/Cursor positioning
-Search a list
-Terminal control/Unicode output
-Sutherland-Hodgman polygon clipping
-Solve a Holy Knight's tour
-Window creation/X11
-Vampire number
-Use another language to call a function
-Random number generator (included)
-Towers of Hanoi
-Repeat a string
+Remove duplicate elements	True	None
+Zebra puzzle	True	Zebra_Puzzle
+Simulate input/Keyboard	False	None
+XML/XPath	True	XPath
+Write entire file	False	None
+Stable marriage problem	True	Stable_marriage_problem
+Sort an integer array	True	Sorting_algorithm
+Set consolidation	True	None
+Sequence of non-squares	True	None
+Yin and yang	False	None
+Read a file line by line	False	None
+Quickselect algorithm	True	Quickselect
+Sum and product of an array	False	None
+Pragmatic directives	False	Directive_(programming)
+Wireworld	True	Wireworld
+Sorting algorithms/Stooge sort	True	Stooge_sort
+Sierpinski triangle/Graphical	True	Sierpinski triangle
+Substring	False	String functions (programming)
+Run-length encoding	True	Run-length encoding
+Update a configuration file	False	Configuration_file
+Video display modes	False	Framebuffer
+Terminal control/Ringing the terminal bell	False	Bell_character
+State name puzzle	False	None
+Return multiple values	False	None
+Symmetric difference	True	Symmetric_difference
+Read a configuration file	False	Configuration_file
+Roots of a function	True	Zero_of_a_function
+Vigenère cipher/Cryptanalysis	True	Vigenère_cipher
+Show the epoch	True	Epoch_(reference_date)
+Ternary logic	True	Three-valued_logic
+Stern-Brocot sequence	True	Stern–Brocot_tree
+Sorting algorithms/Bead sort	True	Bead_sort
+Sort using a custom comparator	True	Sorting_algorithm
+Send email	True	Email
+String comparison	True	String comparison
+Quaternion type	True	Quaternion
+Strip control codes and extended characters from a string	True	None
+World Cup group stage	True	None
+Rock-paper-scissors	True	Rock-paper-scissors
+Variable size/Set	False	None
+Sum multiples of 3 and 5	True	None
+Power set	True	Power set
+Program termination	False	None
+Truncate a file	False	File_system
+Rosetta Code/Count examples	False	None
+Variadic function	False	Variadic_function
+Write float arrays to a text file	False	None
+Topic variable	False	None
+Ulam spiral (for primes)	True	Ulam_spiral
+Stack	True	Stack_(abstract_data_type)
+Terminal control/Display an extended character	False	Terminal_emulator
+Terminal control/Inverse video	False	Terminal_emulator
+Terminal control/Hiding the cursor	False	Terminal_emulator
+Sum of a series	True	Sum of series
+Universal Turing machine	True	Universal_Turing_machine
+Test a function	False	Software_testing
+Send an unknown method call	False	Higher-order_function
+Vogel's approximation method	True	None
+Trabb Pardo–Knuth algorithm	True	Trabb_Pardo–Knuth_algorithm
+Singly-linked list/Traversal	True	Linked_list
+Roman numerals/Decode	True	Roman_numerals
+Program name	False	None
+Queue/Definition	True	Queue_(abstract_data_type)
+String prepend	True	Concatenation
+Strip whitespace from a string/Top and tail	True	Trimming_(computer_programming)
+Special variables	False	None
+Sorting algorithms/Pancake sort	True	Pancake_sorting
+Quine	True	Quine_(computing)
+Top rank per group	False	None
+Verify distribution uniformity/Naive	True	Distribution_uniformity
+Sorting algorithms/Insertion sort	True	Insertion_sort
+Sorting algorithms/Bubble sort	True	Bubble_sort
+Verify distribution uniformity/Chi-squared test	True	Chi-squared_test
+Random numbers	True	Random_number_generation
+XML/DOM serialization	True	Document_Object_Model
+Terminal control/Coloured text	False	Terminal_emulator
+Vigenère cipher	True	Vigenère_cipher
+Text processing/2	False	None
+Visualize a tree	True	Tree_view
+Unicode strings	False	None
+Textonyms	True	Predictive text
+Same Fringe	True	None
+Primorial numbers	True	Primorial
+Sorting algorithms/Shell sort	True	Shellsort
+S-Expressions	True	S-expression
+Sierpinski carpet	True	Sierpinski_carpet
+Scope modifiers	False	Scope_(computer_science)
+Sorting algorithms/Gnome sort	True	Gnome_sort
+Van der Corput sequence	True	Van_der_Corput_sequence
+Text processing/Max licenses in use	False	None
+Unicode variable names	False	Unicode
+Polynomial regression	True	Polynomial_regression
+Standard deviation	True	Standard deviation
+Thiele's interpolation formula	True	Thiele%27s_interpolation_formula
+Runge-Kutta method	True	Runge–Kutta_methods
+Sum digits of an integer	True	None
+Random number generator (device)	False	Hardware random number generator
+Self-referential sequence	True	Self-reference
+Record sound	False	Sound_recording_and_reproduction
+Stem-and-leaf plot	True	Stem-and-leaf_display
+URL parser	True	Uniform_Resource_Locator
+Scope/Function names and labels	False	None
+Polymorphism	False	None
+Solve a Hidato puzzle	True	Hidato
+Unix/ls	True	Ls
+Stair-climbing puzzle	True	None
+Text processing/1	False	None
+Special characters	False	None
+Rep-string	False	None
+Truncatable primes	True	None
+Semordnilap	True	Semordnilap
+Semiprime	True	Semiprime
+Range expansion	True	None
+Range extraction	True	None
+Regular expressions	True	Regular_expression
+Vector products	True	Vector_product
+Prime decomposition	True	Prime decomposition
+Singleton	True	Singleton_pattern
+Variable size/Get	False	None
+Sort disjoint sublist	True	None
+Start from a main routine	False	None
+Respond to an unknown method call	False	None
+Reverse words in a string	True	None
+Simulate input/Mouse	False	Computer_mouse
+Terminal control/Cursor movement	False	Terminal emulator
+Zig-zag matrix	True	None
+Rosetta Code/Find unimplemented tasks	False	None
+Terminal control/Positional read	False	Terminal emulator
+Problem of Apollonius	True	Problem_of_Apollonius
+Topological sort	True	Topological_sorting
+Terminal control/Cursor positioning	False	Terminal emulator
+Search a list	True	Linear_search
+Terminal control/Unicode output	False	Unicode
+Sutherland-Hodgman polygon clipping	True	Sutherland–Hodgman_algorithm
+Solve a Holy Knight's tour	True	None
+Window creation/X11	False	X11
+Vampire number	True	Vampire_number
+Use another language to call a function	False	Foreign_function_interface
+Random number generator (included)	True	Random_number_generation
+Towers of Hanoi	True	Tower_of_Hanoi
+Repeat a string	True	None
 Sokoban	False	Sokoban
 Polynomial long division	True	Polynomial_long_division
-Queue/Usage
-Undefined values
+Queue/Usage	True	Queue_(abstract_data_type)
+Undefined values	False	Undefined_value
 Y combinator	True	Fixed-point_combinator
-Singly-linked list/Element insertion
-Substring/Top and tail
-Singly-linked list/Element definition
-Variable-length quantity
-Write to Windows event log
-Strip block comments
-Sorting algorithms/Merge sort
-Walk a directory/Non-recursively
-Strip comments from a string
-Topswops
+Singly-linked list/Element insertion	True	Linked_list
+Substring/Top and tail	False	None
+Singly-linked list/Element definition	True	Linked_list
+Variable-length quantity	True	Variable-length_quantity
+Write to Windows event log	False	Event_Viewer
+Strip block comments	True	Block comments
+Sorting algorithms/Merge sort	True	Merge_sort
+Walk a directory/Non-recursively	True	None
+Strip comments from a string	True	Comment_(computer_programming)
+Topswops	True	None
