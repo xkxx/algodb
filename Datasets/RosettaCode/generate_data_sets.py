@@ -4,6 +4,7 @@ sys.setdefaultencoding('utf8')
 
 import mwclient as mw
 from cassandra.cluster import Cluster
+import random
 
 import redis
 
@@ -22,13 +23,23 @@ def store_rosettacode_cassandra():
 
 def store_label_redis():
     rd = redis.StrictRedis(host='localhost', port=6379, db=0)
-    labelfile = open('trainingset.txt')
-    for line in labelfile:
-        (task_name, algo_name, is_algo) = line[:-1].split('\t')
+    labelfile = list(open('trainingset.txt'))
+    random.shuffle(labelfile)
+    devset = labelfile[:-100]
+    testset = labelfile[-100:]
+    for line in devset:
+        (task_name, algo_name, is_algo) = line.strip().split('\t')
         if is_algo == 'y':
             rd.sadd('rosettacode-label-isalgo', task_name)
         if len(algo_name) > 0:
             rd.hset('rosettacode-label-algoname', task_name, algo_name)
+
+    for line in testset:
+        (task_name, algo_name, is_algo) = line.strip().split('\t')
+        if is_algo == 'y':
+            rd.sadd('rosettacode-test-label-isalgo', task_name)
+        if len(algo_name) > 0:
+            rd.hset('rosettacode-test-label-algoname', task_name, algo_name)
 
 def main():
     # store_rosettacode_cassandra()

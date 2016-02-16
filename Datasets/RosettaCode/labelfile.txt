@@ -1,0 +1,779 @@
+Guess the number/With feedback (player)		n
+Loops/Break	Break_statement	n
+Guess the number/With feedback		n
+Abstract type	Abstract_type	n
+Benford's law	Benford%27s_law	y
+Jensen's Device	Jensen%27s_Device	y
+Perfect numbers	Perfect_number	y
+First-class functions/Use numbers analogously		n
+K-d tree	K-d_tree	y
+CSV to HTML translation		n
+Canny edge detector	Canny_edge_detector	y
+MD5	MD5	y
+Bitwise operations	Bitwise_operation	n
+Fibonacci n-step number sequences	Fibonacci_number	y
+Call an object method	Object-oriented_programming	n
+Infinity	Infinity	n
+Machine code	Machine_code	n
+Pascal's triangle/Puzzle	Pascal%27s_triangle	y
+Binary digits	Bit	y
+List comprehensions	List_comprehension	n
+Amb		y
+Count the coins		n
+Magic squares of odd order	Magic_square	y
+Extend your language		n
+Narcissist		n
+First class environments	Closure_(computer_programming)	y
+Dragon curve	Dragon_curve	y
+Formal power series	Formal_power_series	y
+Empty string	Empty_string	n
+Combinations and permutations	Combinations_and_permutations	y
+MD4	MD4	y
+OpenGL	OpenGL	y
+Permutations by swapping	Permutation	y
+HTTPS/Authenticated	HTTPS	y
+Matrix-exponentiation operator	Matrix_exponential	y
+Jump anywhere	Branch_(computer_science)	n
+Exponentiation operator	Exponentiation	y
+Pernicious numbers	Pernicious_number	y
+Compare a list of strings		n
+First-class functions	First-class_function	y
+Metered concurrency	Semaphore_(programming)	y
+Command-line arguments	Command_line_arguments	n
+Bitwise IO		n
+Permutations/Rank of a permutation	Permutation	y
+Dynamic variable names		n
+HTTPS/Client-authenticated	HTTPS	y
+Currying	Currying	y
+K-means++ clustering	K-means%2B%2B	y
+Hickerson series of almost integers		y
+Logical operations	Logical_connective	y
+Bitcoin/address validation	Bitcoin	y
+I before E except after C	I_before_E_except_after_C	y
+Bitcoin/public point to address	Bitcoin	y
+Modular inverse	Modular_multiplicative_inverse	y
+Carmichael 3 strong pseudoprimes	Carmichael_number	y
+Bitmap/Bresenham's line algorithm	Bresenham%27s_line_algorithm	y
+Mutual recursion	Mutual_recursion	y
+Bitmap/Write a PPM file	Netpbm	y
+Address of a variable	Pointer_(computer_programming)	n
+Create a two-dimensional array at runtime	Two-dimensional_array	n
+Collections	Data_structure	y
+Bitmap	Bitmap	y
+Hash from two arrays	Hash_table	y
+Apply a callback to an array	MapReduce	y
+Flatten a list		y
+Bitmap/Bézier curves/Cubic	Bézier_curve	y
+Haversine formula	Haversine_formula	y
+Parsing/Shunting-yard algorithm	Shunting-yard_algorithm	y
+Generator/Exponential		n
+Loops/Infinite	Infinite_loop	n
+Loops/For	For_loop	n
+Bernoulli numbers	Bernoulli_number	y
+One-dimensional cellular automata	Cellular_automaton	y
+Empty program		n
+Null object	Null_Object_pattern	n
+Conway's Game of Life	Conway%27s_Game_of_Life	y
+Host introspection		n
+Hough transform	Hough_transform	y
+Find limit of recursion		n
+Inverted index	Inverted_index	y
+Deconvolution/2D+	Deconvolution	y
+Average loop length		n
+Arithmetic/Rational	Rational_data_type	y
+Naming conventions	Naming_convention	n
+Compare sorting algorithms' performance	Sorting_algorithm	n
+Events	Event_(computing)	y
+Memory allocation	Memory_allocation	n
+Natural sorting	Natural_sort_order	y
+Continued fraction/Arithmetic/Construct from rational number	Continued_fraction	y
+Extensible prime generator	Formula_for_primes	y
+Plot coordinate pairs	Coordinate_system	n
+Named parameters	Named_parameter	y
+Multiple regression	Multiple_regression	y
+Add a variable to a class instance at runtime		n
+Odd word problem		y
+Pig the dice game	Pig_(dice_game)	n
+Function definition	Subroutine	n
+Maximum triangle path sum		n
+Order disjoint list items		n
+LU decomposition	LU_decomposition	y
+AKS test for primes	AKS_primality_test	y
+Check Machin-like formulas	Machin-like_formula	n
+Arithmetic-geometric mean/Calculate Pi	Approximations_of_pi	y
+Horizontal sundial calculations	Sundial	y
+Numerical integration/Gauss-Legendre Quadrature	Gaussian_quadrature	y
+Knight's tour	Knight%27s_tour	y
+Miller–Rabin primality test	Miller-Rabin_primality_test	y
+Go Fish	Go_Fish	n
+Knapsack problem/Unbounded	Knapsack_problem	y
+Spiral matrix		y
+Read a specific line from a file		n
+Time a function		n
+SEDOLs	SEDOL	n
+Real constants and functions		n
+Rate counter		y
+Zeckendorf arithmetic	Zeckendorf%27s_theorem	y
+Tic-tac-toe	Tic-tac-toe	y
+Rosetta Code/Fix code tags		n
+Ranking methods	Ranking	y
+Write language name in 3D ASCII		n
+Solve the no connection puzzle		y
+Sorting algorithms/Radix sort	Radix_sort	y
+Zeckendorf number representation	Zeckendorf%27s_theorem	y
+Variables	Variable_(computer_science)	n
+RCRPG		n
+Sort an array of composite structures	Sorting_algorithm	y
+Voronoi diagram	Voronoi_diagram	y
+Terminal control/Dimensions	Terminal_emulator	n
+Runtime evaluation	Dynamic_programming_language	n
+Runtime evaluation/In an environment	Dynamic_programming_language	n
+SQL-based authentication		n
+Window management	Window_manager	n
+Seven-sided dice from five-sided dice		n
+Sort stability	Stable_sort	y
+Unbias a random generator		y
+Probabilistic choice		y
+System time	System_time	y
+Statistics/Basic	Statistics	y
+Rendezvous	Synchronous rendezvous	y
+String matching	String searching algorithm	y
+QR decomposition	QR decomposition	y
+SOAP	SOAP	y
+Self-describing numbers	Self-descriptive_number	y
+Xiaolin Wu's line algorithm	Xiaolin Wu's line algorithm	y
+Table creation/Postal addresses		n
+URL decoding	URL encoding	y
+URL encoding	URL encoding	y
+Sorting algorithms/Sleep sort		y
+Resistor mesh		n
+Set	Set (computer science)	y
+Sorting algorithms/Comb sort	Comb_sort	y
+Total circles area		y
+Rosetta Code/Find bare lang tags		n
+Short-circuit evaluation	Short-circuit_evaluation	y
+Sierpinski triangle	Sierpinski triangle	y
+Sorting algorithms/Bogosort	Sierpinski triangle	y
+Sorting algorithms/Permutation sort	Bogosort	y
+Rename a file		n
+Primes - allocate descendants to their ancestors		y
+The ISAAC Cipher	ISAAC_(cipher)	y
+Sudoku	Sudoku	y
+Price fraction		n
+Sequence of primes by Trial Division	Trial_division	y
+Simple windowed application		n
+Ray-casting algorithm	Ray_tracing_(graphics)	y
+Remove lines from a file		n
+Zero to the zero power	Zero to the zero power	y
+Sorting algorithms/Selection sort	Selection_sort	y
+Pythagorean triples	Pythagorean_triple	y
+Subleq	Subleq	y
+Window creation	Window_management	n
+SHA-256	SHA-2	y
+Web scraping	Web_scraping	y
+Subtractive generator	Random_number_generation	y
+Speech synthesis	Speech_synthesis	y
+Sorting algorithms/Quicksort	Quicksort	y
+Sleep	Sleep_(system_call)	y
+Set of real numbers	Real_number	y
+User input/Graphical	User_input	n
+User input/Text	User_input	n
+Roots of unity	Root_of_unity	y
+Take notes on the command line		n
+Primality by trial division	Trial_division	y
+Rot-13	ROT13	y
+Solve a Numbrix puzzle		y
+Solve a Hopido puzzle		y
+String length	String_(computer_science)	n
+String interpolation (included)	String_literal	y
+Set puzzle		n
+Zhang-Suen thinning algorithm		y
+Priority queue	Priority_queue	y
+XML/Output	XML	y
+XML/Input	XML	y
+Sorting algorithms/Cocktail sort	Cocktail_sort	y
+Strip a set of characters from a string		y
+Roots of a quadratic function	Quadratic_function	y
+Tokenize a string	Tokenize	y
+Sorting algorithms/Counting sort	Counting sort	y
+String append		n
+SHA-1	SHA-1	y
+RSA code	RSA_(cryptosystem)	y
+Sum of squares	Sum_of_squares	n
+Sparkline in unicode	Sparkline	y
+Terminal control/Preserve screen	Terminal_emulator	n
+Terminal control/Clear the screen	Terminal_emulator	n
+Shell one-liner	Command-line_interface	y
+Walk a directory/Recursively		y
+Roman numerals/Encode	Roman_numerals	y
+Tree traversal	Tree traversal	y
+Safe addition	Interval_arithmetic	y
+Yahoo! search interface	Yahoo!_Search	y
+Word wrap	Word_wrap	y
+Sieve of Eratosthenes	Sieve_of_Eratosthenes	y
+Soundex	Soundex	y
+Secure temporary file	Temporary_file	n
+RIPEMD-160	RIPEMD	y
+Twelve statements		n
+Sorting algorithms/Heapsort	Heapsort	y
+Temperature conversion	Conversion_of_units_of_temperature	y
+Sockets	Transmission_Control_Protocol	y
+Stack traces	Stack_trace	y
+Sorting algorithms/Strand sort		y
+Trigonometric functions	Trigonometric functions	y
+String case		n
+Simple database	Database	y
+String concatenation	Concatenation	y
+Synchronous concurrency	Synchronization_(computer_science)	y
+Reduced row echelon form	Reduced row echelon form	y
+Rosetta Code/Rank languages by popularity		n
+Read entire file		n
+Reverse a string		n
+The Twelve Days of Christmas	The_Twelve_Days_of_Christmas_(song)	n
+Sailors, coconuts and a monkey problem		n
+Remove duplicate elements		y
+Zebra puzzle	Zebra_Puzzle	y
+Simulate input/Keyboard		n
+XML/XPath	XPath	y
+Write entire file		n
+Stable marriage problem	Stable_marriage_problem	y
+Sort an integer array	Sorting_algorithm	y
+Set consolidation		y
+Sequence of non-squares		y
+Yin and yang		n
+Read a file line by line		n
+Quickselect algorithm	Quickselect	y
+Sum and product of an array		n
+Pragmatic directives	Directive_(programming)	n
+Wireworld	Wireworld	y
+Sorting algorithms/Stooge sort	Stooge_sort	y
+Sierpinski triangle/Graphical	Sierpinski triangle	y
+Substring	String functions (programming)	n
+Run-length encoding	Run-length encoding	y
+Update a configuration file	Configuration_file	n
+Video display modes	Framebuffer	n
+Terminal control/Ringing the terminal bell	Bell_character	n
+State name puzzle		n
+Return multiple values		n
+Symmetric difference	Symmetric_difference	y
+Read a configuration file	Configuration_file	n
+Roots of a function	Zero_of_a_function	y
+Vigenère cipher/Cryptanalysis	Vigenère_cipher	y
+Show the epoch	Epoch_(reference_date)	y
+Ternary logic	Three-valued_logic	y
+Stern-Brocot sequence	Stern–Brocot_tree	y
+Sorting algorithms/Bead sort	Bead_sort	y
+Sort using a custom comparator	Sorting_algorithm	y
+Send email	Email	y
+String comparison	String comparison	y
+Quaternion type	Quaternion	y
+Strip control codes and extended characters from a string		y
+World Cup group stage		y
+Rock-paper-scissors	Rock-paper-scissors	y
+Variable size/Set		n
+Sum multiples of 3 and 5		y
+Power set	Power set	y
+Program termination		n
+Truncate a file	File_system	n
+Rosetta Code/Count examples		n
+Variadic function	Variadic_function	n
+Write float arrays to a text file		n
+Topic variable		n
+Ulam spiral (for primes)	Ulam_spiral	y
+Stack	Stack_(abstract_data_type)	y
+Terminal control/Display an extended character	Terminal_emulator	n
+Terminal control/Inverse video	Terminal_emulator	n
+Terminal control/Hiding the cursor	Terminal_emulator	n
+Sum of a series	Sum of series	y
+Universal Turing machine	Universal_Turing_machine	y
+Test a function	Software_testing	n
+Send an unknown method call	Higher-order_function	n
+Vogel's approximation method		y
+Trabb Pardo–Knuth algorithm	Trabb_Pardo–Knuth_algorithm	y
+Singly-linked list/Traversal	Linked_list	y
+Roman numerals/Decode	Roman_numerals	y
+Program name		n
+Queue/Definition	Queue_(abstract_data_type)	y
+String prepend	Concatenation	y
+Strip whitespace from a string/Top and tail	Trimming_(computer_programming)	y
+Special variables		n
+Sorting algorithms/Pancake sort	Pancake_sorting	y
+Quine	Quine_(computing)	y
+Top rank per group		n
+Verify distribution uniformity/Naive	Distribution_uniformity	y
+Sorting algorithms/Insertion sort	Insertion_sort	y
+Sorting algorithms/Bubble sort	Bubble_sort	y
+Verify distribution uniformity/Chi-squared test	Chi-squared_test	y
+Random numbers	Random_number_generation	y
+XML/DOM serialization	Document_Object_Model	y
+Terminal control/Coloured text	Terminal_emulator	n
+Vigenère cipher	Vigenère_cipher	y
+Text processing/2		n
+Visualize a tree	Tree_view	y
+Unicode strings		n
+Textonyms	Predictive text	y
+Same Fringe		y
+Primorial numbers	Primorial	y
+Sorting algorithms/Shell sort	Shellsort	y
+S-Expressions	S-expression	y
+Sierpinski carpet	Sierpinski_carpet	y
+Scope modifiers	Scope_(computer_science)	n
+Sorting algorithms/Gnome sort	Gnome_sort	y
+Van der Corput sequence	Van_der_Corput_sequence	y
+Text processing/Max licenses in use		n
+Unicode variable names	Unicode	n
+Polynomial regression	Polynomial_regression	y
+Standard deviation	Standard deviation	y
+Thiele's interpolation formula	Thiele%27s_interpolation_formula	y
+Runge-Kutta method	Runge–Kutta_methods	y
+Sum digits of an integer		y
+Random number generator (device)	Hardware random number generator	n
+Self-referential sequence	Self-reference	y
+Record sound	Sound_recording_and_reproduction	n
+Stem-and-leaf plot	Stem-and-leaf_display	y
+URL parser	Uniform_Resource_Locator	y
+Scope/Function names and labels		n
+Polymorphism		n
+Solve a Hidato puzzle	Hidato	y
+Unix/ls	Ls	y
+Stair-climbing puzzle		y
+Text processing/1		n
+Special characters		n
+Rep-string		n
+Truncatable primes		y
+Semordnilap	Semordnilap	y
+Semiprime	Semiprime	y
+Range expansion		y
+Range extraction		y
+Regular expressions	Regular_expression	y
+Vector products	Vector_product	y
+Prime decomposition	Prime decomposition	y
+Singleton	Singleton_pattern	y
+Variable size/Get		n
+Sort disjoint sublist		y
+Start from a main routine		n
+Respond to an unknown method call		n
+Reverse words in a string		y
+Simulate input/Mouse	Computer_mouse	n
+Terminal control/Cursor movement	Terminal emulator	n
+Zig-zag matrix		y
+Rosetta Code/Find unimplemented tasks		n
+Terminal control/Positional read	Terminal emulator	n
+Problem of Apollonius	Problem_of_Apollonius	y
+Topological sort	Topological_sorting	y
+Terminal control/Cursor positioning	Terminal emulator	n
+Search a list	Linear_search	y
+Terminal control/Unicode output	Unicode	n
+Sutherland-Hodgman polygon clipping	Sutherland–Hodgman_algorithm	y
+Solve a Holy Knight's tour		y
+Window creation/X11	X11	n
+Vampire number	Vampire_number	y
+Use another language to call a function	Foreign_function_interface	n
+Random number generator (included)	Random_number_generation	y
+Towers of Hanoi	Tower_of_Hanoi	y
+Repeat a string		y
+Sokoban	Sokoban	n
+Polynomial long division	Polynomial_long_division	y
+Queue/Usage	Queue_(abstract_data_type)	y
+Undefined values	Undefined_value	n
+Y combinator	Fixed-point_combinator	y
+Singly-linked list/Element insertion	Linked_list	y
+Substring/Top and tail		n
+Singly-linked list/Element definition	Linked_list	y
+Variable-length quantity	Variable-length_quantity	y
+Write to Windows event log	Event_Viewer	n
+Strip block comments	Block comments	y
+Sorting algorithms/Merge sort	Merge_sort	y
+Walk a directory/Non-recursively		y
+Strip comments from a string	Comment_(computer_programming)	y
+Topswops		y
+Enforced immutability		n
+Color quantization	Color quantization	y
+Deepcopy	Object copying	n
+Averages/Mean angle		n
+Identity matrix		n
+Averages/Mean time of day		n
+Arena storage pool		n
+Fibonacci word	Fibonacci word	y
+Pascal matrix generation	Pascal matrix	y
+Happy numbers	Happy number	y
+Closest-pair problem	Closest pair of points problem	y
+Call a function in a shared library		n
+Long multiplication	Multiplication algorithm	y
+Count occurrences of a substring		n
+Function composition	Function composition (computer science)	n
+Four bit adder	Adder (electronics)	y
+Longest common subsequence	Longest common subsequence problem	y
+Averages/Root mean square	Root mean square	y
+Literals/Integer	Integer	n
+Digital root	Digital root	y
+Averages/Pythagorean means	Pythagorean means	y
+CRC-32	Cyclic redundancy check	y
+Factors of an integer	Integer factorization	y
+Parsing/RPN calculator algorithm	Reverse Polish notation	y
+Comments	Comment (computer programming)	n
+Percolation/Mean cluster density		y
+Execute a Markov algorithm	Markov algorithm	y
+Abundant, deficient and perfect number classifications		n
+Forest fire	Forest-fire model	y
+Constrained random points on a circle		n
+Parsing/RPN to infix conversion		n
+Atomic updates		n
+Almost prime		n
+Longest increasing subsequence	Longest increasing subsequence	y
+Loop over multiple arrays simultaneously		n
+Empty directory		n
+Flipping bits game	Penney's game	y
+Loops/Do-while	Do while loop	n
+Pascal's triangle	Pascal's triangle	y
+Ludic numbers		y
+Loops/While	While loop	n
+Loops/Foreach	Foreach loop	n
+Matrix transposition	Transpose	y
+Factorial	Factorial	y
+Active Directory/Connect	Active Directory	n
+LZW compression	Lempel–Ziv–Welch	y
+FTP	File Transfer Protocol	n
+Continued fraction	Continued fraction	y
+Hofstadter Q sequence	Hofstadter sequence	y
+Knuth shuffle	Fisher–Yates shuffle	y
+Hofstadter Figure-Figure sequences	Hofstadter sequence	y
+Knuth's algorithm S		y
+Ordered words		n
+Distributed programming		n
+Non-decimal radices/Input		n
+Documentation	Documentation	n
+Last Friday of each month		n
+Classes	Class (computer programming)	n
+Polymorphic copy		n
+Cut a rectangle		n
+Dining philosophers	Dining philosophers problem	y
+Active object	Active object	n
+OLE Automation	OLE Automation	y
+Inheritance/Single		n
+Hostname	Hostname	n
+Hello world/Newbie	"Hello, World!" program	y
+Permutations/Derangements	Permutation	y
+Anagrams/Deranged anagrams	Anagrams	y
+Here document	Here document	n
+Hello world/Standard error		n
+Modular exponentiation	Modular exponentiation	y
+Operator precedence		n
+Arithmetic/Complex		n
+Loops/Downward for		n
+Non-decimal radices/Convert		n
+Largest int from concatenated ints		n
+Pinstripe/Display		n
+Pinstripe/Printer		n
+Colour bars/Display		n
+Gamma function	Gamma function	y
+Colour pinstripe/Printer		n
+Colour pinstripe/Display		n
+Break OO privacy		n
+Memory layout of a data structure		n
+Define a primitive data type		n
+Object serialization	Serialization	n
+Determine if a string is numeric		n
+Introspection		n
+Call a function		n
+Binary strings		n
+Palindrome detection	Palindrome	y
+JortSort		n
+Greatest element of a list	Greatest element	y
+Fractal tree	Fractal tree index	y
+Generate lower case ASCII alphabet		n
+Arrays	Array	n
+Literals/String	String (computer science)	n
+Deconvolution/1D	One-dimensional space	n
+Convert seconds to compound duration		n
+Munching squares	Munching square	y
+Higher-order functions		n
+Menu		n
+Left factorials		y
+Middle three digits		n
+Digital root/Multiplicative digital root	Digital root	y
+Make directory path		n
+Catalan numbers/Pascal's triangle	Pascal's triangle	y
+Comma quibbling		y
+Animate a pendulum		n
+Character codes		n
+Align columns		n
+Percentage difference between images		y
+CSV data manipulation		n
+Greatest subsequential sum	Maximum subarray problem	y
+Knapsack problem/0-1	Knapsack problem	y
+Number names		n
+Globally replace text in several files		n
+Arbitrary-precision integers (included)		n
+Multiplication tables	Multiplication table	n
+Permutation test	Resampling (statistics)	y
+Hello world/Line printer		n
+Maze solving	Maze solving algorithm	y
+Parallel calculations		n
+Optional parameters		n
+Calendar - for "REAL" programmers		n
+Animation	Animation	n
+Combinations	Combination	y
+FizzBuzz	Fizz buzz	y
+100 doors		n
+Multiplicative order	Multiplicative order	y
+Balanced ternary	Balanced ternary	y
+DNS query		n
+Hailstone sequence	Hofstadter sequence	y
+Hofstadter-Conway $10,000 sequence	Hofstadter sequence	y
+Matrix multiplication	Matrix multiplication	y
+Langton's ant	Langton's ant	y
+Compile-time calculation		n
+Interactive programming		n
+Huffman coding	Huffman coding	y
+Mandelbrot set	Mandelbrot set	y
+Function prototype		n
+Bitmap/Flood fill	Flood fill	y
+Day of the week		n
+Arithmetic-geometric mean	Arithmetic–geometric mean	y
+Factors of a Mersenne number	Mersenne prime	y
+Bitmap/Read an image through a pipe		n
+Floyd's triangle	Floyd's triangle	y
+Casting out nines	Casting out nines	n
+Chat server		n
+Best shuffle	Shuffling	y
+Draw a cuboid	Cuboid	n
+Find largest left truncatable prime in a given base		n
+Maze generation	Maze generation algorithm	y
+Matrix arithmetic		y
+Circles of given radius through two points		n
+Count in factors		n
+Paraffins	Alkane	n
+Accumulator factory		n
+JSON		n
+Draw a sphere		n
+Formatted numeric output		n
+Percolation/Bond percolation		n
+Nth root	Nth root	y
+Iterated digits squaring		y
+Holidays related to Easter		n
+Playing cards	Playing card	n
+Loops/Continue	Control flow	n
+Leap year	Leap year	n
+Discordian date	Discordian calendar	n
+Constrained genericity	Bounded quantification	n
+One of n lines in a file		n
+Penney's game	Penney's game	y
+Brownian tree	Brownian tree	y
+Hello world/Graphical		n
+Minesweeper game	Minesweeper (video game)	n
+Integer sequence	Integer sequence	y
+Mouse position		n
+Detect division by zero	Division by zero	y
+Keyboard macros		n
+Longest string challenge	Longest common substring problem	y
+Lucas-Lehmer test	Lucas primality test	y
+Color of a screen pixel		n
+Bitmap/Midpoint circle algorithm	Midpoint circle algorithm	y
+GUI enabling/disabling of controls		n
+GUI component interaction		n
+Input loop		n
+Hamming numbers	Regular number	y
+Catalan numbers	Catalan number	y
+Last letter-first letter		n
+Count in octal		n
+Create an object at a given address		n
+Evaluate binomial coefficients	Binomial coefficient	n
+Brace expansion		y
+Chinese remainder theorem	Chinese remainder theorem	y
+Checkpoint synchronization		n
+Doubly-linked list/Element definition		n
+24 game/Solve	24 Game	y
+Execute a system command	Command (computing)	n
+Generic swap	Swap (computer science)	y
+Knapsack problem/Bounded	Knapsack problem	y
+Least common multiple	Least common multiple	y
+Death Star	Death Star	n
+Cholesky decomposition	Cholesky decomposition	y
+Hello world/Newline omission		n
+Image noise	Image noise	n
+Create an HTML table	HTML element	n
+Permutations	Permutation	y
+Conjugate transpose	Conjugate transpose	y
+Fast Fourier transform	Fast Fourier transform	y
+Concurrent computing	Concurrent computing	n
+Image convolution		y
+Josephus problem	Josephus problem	y
+General FizzBuzz	Fizz buzz	y
+Multifactorial	Factorial	y
+Luhn test of credit card numbers	Luhn algorithm	y
+Check that file exists		n
+Create a file		n
+File size	File size	n
+Delete a file		n
+Loops/N plus one half		n
+Multisplit		n
+Execute HQ9+		n
+A+B		n
+Number reversal game		n
+N'th		n
+Greyscale bars/Display	Grayscale	n
+Parse an IP Address	IP address	y
+Median filter	Median filter	y
+Euler method	Euler method	y
+Copy a string		n
+Increment a numerical string		n
+Enumerations	Enumeration	y
+Element-wise operations		y
+Kaprekar numbers	Kaprekar number	y
+GUI/Maximum window dimensions		n
+Heronian triangles	Heronian triangle	y
+Anonymous recursion	Anonymous recursion	n
+Hash join	Hash join	y
+Entropy	Entropy (computing)	y
+Nautical bell		n
+Assertions	Assertion (software development)	n
+Monty Hall problem	Monty Hall problem	y
+Active Directory/Search for a user	Active Directory	n
+HTTP	Hypertext Transfer Protocol	n
+Anagrams	Anagrams	y
+Ackermann function	Ackermann function	y
+Monte Carlo methods	Monte Carlo method	y
+Call a foreign-language function	Foreign function interface	n
+Guess the number		y
+Doubly-linked list/Element insertion	Doubly linked list	y
+Ethiopian multiplication	Ancient Egyptian multiplication	y
+Date format		n
+Draw a clock		n
+Metaprogramming	Metaprogramming	n
+Literals/Floating point	loating point	n
+Determine if only one instance is running		n
+Doubly-linked list/Traversal	Doubly linked list	y
+Keyboard input/Flush the keyboard buffer	Keyboard buffer	n
+Keyboard input/Obtain a Y or N response		n
+Keyboard input/Keypress check		n
+Executable library		n
+Balanced brackets		y
+Gray code	Gray code	y
+Create a file on magnetic tape		n
+History variables		n
+Inverted syntax		n
+Evolutionary algorithm	Evolutionary algorithm	y
+Averages/Simple moving average	Moving average	y
+Parametrized SQL statement		n
+Find the last Sunday of each month		n
+Arithmetic/Integer	Integer (computer science)	n
+Averages/Arithmetic mean	Mean	y
+Arithmetic evaluation		y
+Dot product	Dot product	y
+Delegates	Delegation (programming)	n
+Fork	Fork (system call)	n
+Doubly-linked list/Definition	Doubly linked list	n
+Handle a signal		n
+Environment variables	Environment variable	n
+Closures/Value capture	Closure (computer programming)	y
+Caesar cipher	Caesar cipher	y
+Convert decimal number to rational		n
+HTTPS	HTTPS	n
+Bulls and cows	Bulls and Cows	y
+Fibonacci sequence	Fibonacci number	y
+Honeycombs	Honeycomb (geometry)	n
+9 billion names of God the integer	The Nine Billion Names of God	y
+Catamorphism	Catamorphism	n
+99 Bottles of Beer	99 Bottles of Beer	y
+Dutch national flag problem	Dutch national flag problem	y
+Boolean values	Boolean data type	n
+Aliquot sequence classifications	Aliquot sequence	y
+IBAN	International Bank Account Number	y
+Deal cards for FreeCell	FreeCell	y
+Horner's rule for polynomial evaluation	Horner's method	y
+Letter frequency	Letter frequency	y
+Play recorded sounds		n
+Multiple distinct objects		n
+Filter		n
+Pi	Pi	y
+Partial function application	Partial function	y
+Associative array/Creation	Associative array	n
+Find the missing permutation		y
+Box the compass	Points of the compass	n
+Dinesman's multiple-dwelling problem		n
+Percolation/Site percolation	Percolation	y
+Even or odd	Parity (mathematics)	y
+Move-to-front algorithm	Move-to-front transform	y
+Combinations with repetitions	Combination	y
+Associative array/Iteration	Associative array	n
+Pattern matching	Pattern matching	y
+Integer overflow	Integer overflow	n
+Bitmap/PPM conversion through a pipe	Bitmap	n
+Binary search	Binary search algorithm	y
+Phrase reversals		y
+Parametric polymorphism	Parametric polymorphism	n
+Array length		n
+Integer comparison		n
+Narcissistic decimal number	Narcissistic decimal number	y
+Loops/For with a specified step		n
+Numerical integration	Numerical integration	y
+Levenshtein distance	Levenshtein distance	y
+Forward difference	Finite difference	y
+Greatest common divisor	Greatest common divisor	y
+Look-and-say sequence	Look-and-say sequence	y
+Man or boy test	Man or boy test	y
+Old lady swallowed a fly	There Was an Old Lady Who Swallowed a Fly	y
+Loops/Nested		n
+Averages/Median	Median	y
+Averages/Mode	Mode	y
+N-queens problem	Eight queens puzzle	y
+24 game	24 Game	y
+Array concatenation		n
+Main step of GOST 28147-89	GOST (block cipher)	y
+Hello world/Text		n
+Non-continuous subsequences		n
+File input/output		n
+Equilibrium index		y
+Hello world/Web server	Web server	n
+Linear congruential generator	Linear congruential generator	y
+MD5/Implementation	MD5	y
+Bitmap/Bézier curves/Quadratic	Bézier_curve	y
+ABC problem	Abc_conjecture	y
+Pangram checker		y
+Five weekends		n
+Harshad or Niven series	Harshad_number	y
+Ordered Partitions	Weak_ordering	y
+Case-sensitivity of identifiers		n
+Calendar	Calendar	n
+Generate Chess960 starting position	Chess960_starting_position	y
+Include a file		n
+Fibonacci word/fractal	Fibonacci_word	y
+File modification time		n
+Extreme floating point values	Floating_point	n
+Function frequency		n
+Pick random element		n
+Percolation/Mean run density		y
+Joystick position		n
+Pig the dice game/Player	Pig_(dice_game)	y
+Metronome	Metronome	y
+Append a record to the end of a text file		n
+Compound data type	Composite_data_type	n
+Galton box animation	Bean_machine	y
+Morse code	Morse_code	y
+Date manipulation	Calendar_date	n
+Gaussian elimination	Gaussian_elimination	y
+Echo server	Echo_Protocol	y
+Bitmap/Read a PPM file		n
+Grayscale image	Grayscale	n
+Bitmap/Histogram	Image_histogram	y
+Exceptions/Catch an exception thrown in a nested call	Exception_handling	n
+Bulls and cows/Player	Bulls_and_Cows	y
+Map range		n
+Euler's sum of powers conjecture	Euler%27s_sum_of_powers_conjecture	y
+Flow-control structures	Flow_control_structure	n
+Exceptions	Exception_handling	n
+Lychrel numbers	Lychrel_number	y
+Pointers and references	Data_type	n
+Execute SNUSP		y
+Inheritance/Multiple	Object-oriented_programming	n
+Conditional structures	Conditional_(computer_programming)	n
+Non-decimal radices/Output	Radix	y
+Knapsack problem/Continuous	Knapsack_problem	y
+Numeric error propagation	Propagation_of_uncertainty	y
+Execute Brain****	Brainfuck	y
+Catmull–Clark subdivision surface	Catmull–Clark_subdivision_surface	y
+Find common directory path		n
+Mad Libs	Mad_Libs	n
+Amicable pairs	Amicable_numbers	y
+Order two numerical lists		n
