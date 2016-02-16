@@ -1,4 +1,5 @@
 from cassandra.query import SimpleStatement
+from Algorithm import get_corresponding_algo
 
 class Implementation:
     def __init__(self, page_title, categories, iwlinks, text,
@@ -13,6 +14,9 @@ class Implementation:
     def rank_trainable(self):
         return self.label is not None and self.is_algo
 
+    def __str__(self):
+        return self.title
+
 def process_single_impl(row, rd):
     impl = Implementation(row.page_title, row.categories, row.iwlinks, row.text)
     # get corresponding wiki page
@@ -23,7 +27,8 @@ def process_single_impl(row, rd):
     # get if task is algo
     is_algo = rd.sismember('rosettacode-label-isalgo', impl.title)
     # record everything
-    impl.label = algo_name
+    if algo_name:
+        impl.label = get_corresponding_algo(algo_name)
     impl.is_algo = is_algo
     # commit
     return impl

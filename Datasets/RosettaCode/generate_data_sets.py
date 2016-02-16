@@ -25,8 +25,8 @@ def store_label_redis():
     rd = redis.StrictRedis(host='localhost', port=6379, db=0)
     labelfile = list(open('trainingset.txt'))
     random.shuffle(labelfile)
-    devset = labelfile[:-100]
-    testset = labelfile[-100:]
+    devset = labelfile[:-150]
+    testset = labelfile[-150:]
     for line in devset:
         (task_name, algo_name, is_algo) = line.strip().split('\t')
         if is_algo == 'y':
