@@ -23,7 +23,7 @@ def store_rosettacode_cassandra():
 
 def store_label_redis():
     rd = redis.StrictRedis(host='localhost', port=6379, db=0)
-    labelfile = list(open('trainingset.txt'))
+    labelfile = list(open('labelfile.txt'))
     random.shuffle(labelfile)
     devset = labelfile[:-150]
     testset = labelfile[-150:]
