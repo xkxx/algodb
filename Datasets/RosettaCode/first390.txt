@@ -150,7 +150,7 @@ Resistor mesh	False	None
 Set	True	Set (computer science)
 Sorting algorithms/Comb sort	True	Comb_sort
 Total circles area	True	None
-Rosetta Code/Find bare lang tags	False	False
+Rosetta Code/Find bare lang tags	False	None
 Short-circuit evaluation	True	Short-circuit_evaluation
 Sierpinski triangle	True	Sierpinski triangle
 Sorting algorithms/Bogosort	True	Sierpinski triangle
@@ -299,7 +299,7 @@ Strip whitespace from a string/Top and tail	True	Trimming_(computer_programming)
 Special variables	False	None
 Sorting algorithms/Pancake sort	True	Pancake_sorting
 Quine	True	Quine_(computing)
-Top rank per group	False	none
+Top rank per group	False	None
 Verify distribution uniformity/Naive	True	Distribution_uniformity
 Sorting algorithms/Insertion sort	True	Insertion_sort
 Sorting algorithms/Bubble sort	True	Bubble_sort
@@ -326,7 +326,7 @@ Polynomial regression	True	Polynomial_regression
 Standard deviation	True	Standard deviation
 Thiele's interpolation formula	True	Thiele%27s_interpolation_formula
 Runge-Kutta method	True	Runge–Kutta_methods
-Sum digits of an integer	True	none
+Sum digits of an integer	True	None
 Random number generator (device)	False	Hardware random number generator
 Self-referential sequence	True	Self-reference
 Record sound	False	Sound_recording_and_reproduction
