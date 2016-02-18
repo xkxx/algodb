@@ -1,5 +1,10 @@
 from fuzzywuzzy import fuzz
 from simhash import Simhash
+from nltk.tokenize import sent_tokenize, word_tokenize
+from nltk.corpus import stopwords
+
+from sklearn.feature_extraction.text import TfidfVectorizer
+vect = TfidfVectorizer(min_df=1)
 
 feature_functions = list()
 
@@ -22,7 +27,24 @@ def wikilink_fuzzy_ratio(impl, algo):
     return score
 feature_functions.append(wikilink_fuzzy_ratio)
 
-def 
+def summary_similarity(impl, algo):
+    # get first sentence as summary
+    impl_sents = sent_tokenize(impl.text)
+    algo_sents = sent_tokenize(algo.description)
+    if (len(impl_sents) == 0) or (len(algo_sents) == 0):
+        return 0.01
+
+    # remove stop words
+    impl_summary = ' '.join([word for word in impl_sents[0].split() if word not in (stopwords.words('english'))])
+    algo_summary = ' '.join([word for word in algo_sents[0].split() if word not in (stopwords.words('english'))])
+
+    # compute tfidf
+    tfidf = vect.fit_transform([impl_summary, algo_summary])
+    return 0.01 + (tfidf * tfidf.T).A[0][1]
+feature_functions.append(summary_similarity)
+
+def code_comments(impl, algo):
+
 
 def extract_features(impl, algo):
     return [func(impl, algo) for func in feature_functions]
