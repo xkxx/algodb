@@ -21,10 +21,12 @@ def title_fuzzy_simhash(impl, algo):
 feature_functions.append(title_fuzzy_simhash)
 
 def wikilink_fuzzy_ratio(impl, algo):
-    score = 0
+    max_score = 0.0
     for wikilink in impl.wikilinks:
-        score += fuzzy.ratio(algo.title, wikilink)
-    return score
+        score = fuzzy.ratio(algo.title, wikilink)
+        if score > max_score:
+            max_score = score
+    return max_score
 feature_functions.append(wikilink_fuzzy_ratio)
 
 def summary_similarity(impl, algo):
@@ -44,7 +46,7 @@ def summary_similarity(impl, algo):
 feature_functions.append(summary_similarity)
 
 def code_comments(impl, algo):
-
+    pass
 
 def extract_features(impl, algo):
     return [func(impl, algo) for func in feature_functions]
