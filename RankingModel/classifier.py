@@ -7,15 +7,10 @@ sys.setdefaultencoding('utf8')
 # from cassandra.cluster import Cluster
 
 # for algorithm
-from elasticsearch import Elasticsearch
 from Algorithm import get_corresponding_algo, get_all_mentioned_algo
 
 # for rosettacode impl
-from cassandra.cluster import Cluster
 from Implementation import get_all_impls
-
-# for training set labels
-import redis
 
 # using support vector regression: features -> ranking score
 from sklearn import svm
@@ -29,30 +24,41 @@ from collections import Counter
 # feature extract
 from FeatureExtractor import extract_features
 
+from db_dependency import DB_beans
+
+from itertools import chain, combinations
+
 # return [(impl, corres_algo)]
-def get_trainable_data(cas, rd):
-    tasks = get_all_impls(cas, rd)
+def get_trainable_data(db):
+    tasks = get_all_impls(db)
     results = []
 
     for task in tasks:
         # now only train on tasks that are algorithms, and have wiki pages
         if not task.rank_trainable():
             continue
-        corres_algo = get_corresponding_algo(task.label)
+        corres_algo = task.label
         results.append((task, corres_algo))
+    return results
 
 def split_data(data):
-    train = data[:-100]
-    valid = data[-100:]
-    return (train, valid)
+    k = 5
+    per_split = (len(data) + k - 1) / k
+
+    splits = list()
+    for i in range(5):
+        cur_start = i * per_split
+        left = len(data) - cur_start
+        splits.append(data[cur_start:(cur_start + min(per_split, left))])
+    return splits
 
 # return feature_vector, score_vector
-def create_training_vectors(data, rd):
+def create_training_vectors(data, db):
     # feature vector
     feature_vector = list()
     # score vector
     score_vector = list()
-    algo_names = get_all_mentioned_algo(rd)
+    algo_names = get_all_mentioned_algo(db)
 
     CORRESPONDING = 1.0
     NON_CORRESPONDING = 0.0
@@ -72,8 +78,8 @@ def create_training_vectors(data, rd):
 
     return (feature_vector, score_vector)
 
-def train(data, rd):
-    (feature_vector, score_vector) = create_training_vectors(data, rd)
+def train(data, db):
+    (feature_vector, score_vector) = create_training_vectors(data, db)
     clf = svm.LinearSVR()
 
     # train
@@ -88,44 +94,65 @@ def classify(model, sample, candidates):
         sample_features = extract_features(sample, cand)
         [result] = model.predict([sample_features])
         ranks[cand] = result
-    return (ranks.most_common())
+    return ranks.most_common()
 
-def validation(model, samples):
-    all_algos = get_all_mentioned_algo()
+def validation(model, samples, db):
+    all_algos = get_all_mentioned_algo(db)
     recranks = []
+    corrects = 0
     for (impl, corres_algo) in samples:
         result = classify(model, impl, all_algos)
-        keys = zip(*result)
+        keys = zip(*result)[0]
         print "Impl:", impl
         print "Algo:", corres_algo
         print "Top Rank:", result[0:3]
-        rank = keys.index(corres_algo)
+        rank = keys.index(corres_algo) + 1
         print "Rank of Correct Algo:", rank
         recranks.append(1.0 / rank)
+        if rank == 1:
+            corrects += 1
+    meanrank = sum(recranks) * 1.0 / len(samples)
+    accuracy = corrects * 1.0 / len(samples)
+
     print
-    print "Avg Rank Reciprocal:", sum(recranks) / 1.0 / len(recranks)
+    print "Avg Rank Reciprocal:", meanrank
+    print "Total correct:", corrects
+    return (meanrank, accuracy)
 
 def main():
-    # cassandra init
-    cluster = Cluster(['127.0.0.1'])  # localhost
-    session = cluster.connect()  # default key space
-    session.set_keyspace('rosettacode')
+    db = DB_beans()
 
-    # for task names and labels
-    rd = redis.StrictRedis(host='localhost', port=6379, db=0)
-    # for algo names and data
-    es = Elasticsearch([{'host': 'localhost', 'port': 9200}])
+    all_trainable = get_trainable_data(db)
+    print all_trainable
+    splits = split_data(all_trainable)
 
-    all_trainable = get_trainable_data(session, rd)
-    (train, valid) = split_data(all_trainable)
+    trains = list(combinations(splits, 4))
+    coefs = []
+    meanranks = []
+    corrects = []
 
-    print "Training..."
-    model = train(train, rd)
+    for i in range(5):
+        train_data = list(chain(*trains[i]))
+        valid_data = splits[4 - i]
 
-    print "Verifying..."
+        print "Training Set:", len(train_data)
+        print "Validation Set:", len(valid_data)
 
-    validation(model, valid)
+        print "Training..."
+        model = train(valid_data, db)
 
+        print "Feature weights:", model.coef_
+
+        print "Verifying..."
+
+        (m, c) = validation(model, valid_data, db)
+        coefs.append(model.coef_)
+        meanranks.append(m)
+        corrects.append(c)
+
+    print "Coefs: ", coefs
+    print "Mean MRR: ", sum(meanranks) / 5.0
+    print "Mean corrects: ", sum(corrects) / 5.0
 
 if __name__ == '__main__':
     main()
