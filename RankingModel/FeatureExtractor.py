@@ -20,12 +20,14 @@ def title_fuzzy_simhash(impl, algo):
     return Simhash(impl.title).distance(Simhash(algo.title))
 feature_functions.append(title_fuzzy_simhash)
 
-def iwlink_fuzzy_ratio(impl, algo):
-    score = 0
-    for iwlink in impl.iwlinks:
-        score += fuzz.ratio(algo.title, iwlink)
-    return score
-feature_functions.append(iwlink_fuzzy_ratio)
+def iwlinks_fuzzy_ratio(impl, algo):
+    max_score = 0.0
+    for wikilink in impl.iwlinks:
+        score = fuzz.ratio(algo.title, wikilink)
+        if score > max_score:
+            max_score = score
+    return max_score
+feature_functions.append(iwlinks_fuzzy_ratio)
 
 def summary_similarity(impl, algo):
     # get first sentence as summary
