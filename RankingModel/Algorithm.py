@@ -15,7 +15,10 @@ class Algorithm:
         return hash(self.title)
 
     def __str__(self):
-        return self.title
+        return self.__repr__()
+
+    def __repr__(self):
+        return "<Algorithm:%s>" % self.title
 
 def normalize(str):
     str = ''.join(e for e in str.lower())
@@ -26,29 +29,29 @@ def decode_wiki_title(wiki_title):
     title = unquoted.replace('_', ' ')
     return title
 
-def get_corresponding_algo(algo_name, es):
+def get_corresponding_algo(algo_name, db):
     algo = Algorithm(decode_wiki_title(algo_name))
-    result = es.get(index="throwtable", doc_type='algorithm',
-    id=normalize(algo), ignore=404)
+    result = db.es.get(index="throwtable", doc_type='algorithm',
+    id=normalize(algo.title), ignore=404)
 
     if not result['found']:
-        print "ERROR: %s not found in elasticsearch db"
+        print "ERROR: %s not found in elasticsearch db" % algo_name
         algo.description = ""
         algo.tag_line = ""
     else:
-        doc = result['_doc']
+        doc = result['_source']
         algo.description = doc['description']
         algo.tag_line = doc['tag_line']
     return algo
 
-def get_all_mentioned_algo(es, rd):
+def get_all_mentioned_algo(db):
     """
         es: elasticsearch connection
         rd: redis connection
     """
     all_algos = []
-    for (impl_name, algo_name) in rd.hscan_iter('rosettacode-label-algoname'):
+    for (impl_name, algo_name) in db.rd.hscan_iter('rosettacode-label-algoname'):
         if len(algo_name):
-            algo = get_corresponding_algo(algo_name)
+            algo = get_corresponding_algo(algo_name, db)
             all_algos.append(algo)
     return all_algos
