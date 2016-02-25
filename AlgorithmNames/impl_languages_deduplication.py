@@ -72,4 +72,4 @@ def replace_lang_from_id(id, replacement):
 
 if __name__ == '__main__':
     add_lang_mapping_from_file('impl_lang.txt')
-    reindex_language()
+    # reindex_language()

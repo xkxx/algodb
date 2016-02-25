@@ -39,7 +39,7 @@ def process_single_impl(row, db):
     # commit
     return impl
 
-def get_all_impls(db):
+def get_all_tasks(db):
     """
         cas: cassandra session
         rd: redis connection

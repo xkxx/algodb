@@ -10,7 +10,7 @@ sys.setdefaultencoding('utf8')
 from Algorithm import get_corresponding_algo, get_all_mentioned_algo
 
 # for rosettacode impl
-from Implementation import get_all_impls
+from Implementation import get_all_tasks
 
 # using support vector regression: features -> ranking score
 from sklearn import svm
@@ -30,7 +30,7 @@ from itertools import chain, combinations
 
 # return [(impl, corres_algo)]
 def get_trainable_data(db):
-    tasks = get_all_impls(db)
+    tasks = get_all_tasks(db)
     results = []
 
     for task in tasks:

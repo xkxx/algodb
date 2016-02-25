@@ -8,6 +8,7 @@ class DB_beans:
         self.cs_cw_ = None
         self.es_ = None
         self.rd_ = None
+        self.cs_rs_impl_ = None
 
     def create_cs(self, keyspace):
         cluster = Cluster(['127.0.0.1'])  # localhost
@@ -26,6 +27,12 @@ class DB_beans:
         if self.cs_cw_ is None:
             self.cs_cw_ = self.create_cs('crosswikis')
         return self.cs_cw_
+
+    @property
+    def cs_rs_impl(self):
+        if self.cs_rs_impl_ is None:
+            self.cs_rs_impl_ = self.create_cs('rosettacode_impl')
+        return self.cs_rs_impl_
 
     # rd
     def create_rd(self):
