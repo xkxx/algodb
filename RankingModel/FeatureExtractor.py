@@ -20,6 +20,10 @@ def title_fuzzy_simhash(impl, algo):
     return Simhash(impl.title).distance(Simhash(algo.title))
 feature_functions.append(title_fuzzy_simhash)
 
+def title_tfidf(impl, algo):
+    tfidf = vect.fit_transform([impl.title, algo.title])
+    return 0.01 + (tfidf * tfidf.T).A[0][1]
+
 def iwlinks_fuzzy_ratio(impl, algo):
     max_score = 0.0
     for wikilink in impl.iwlinks:
