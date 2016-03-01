@@ -107,29 +107,25 @@ def get_all_tasks(db):
 
 def process_single_impl(row, db):
     task = Task(row, db)
+    page_title = row.page_title
     for solution in task.solutions:
-        codes = []
-        comments = []
-        types = []
+        lang = solution['language']
 
-        for entry in solution['content']:
+        for idx, entry in enumerate(solution['content']):
             if 'content' not in entry:
-                print entry
-            if entry['type'] == 'commentary':
-                types.append(False)
-                comments.append(entry['content'])
-            elif entry['type'] == 'code':
-                types.append(True)
-                codes.append(entry['content'])
+                print "ENTRY W/O CONTENT:", entry
+                continue
+            entry_type = entry['type']
+            content = entry['content']
 
-        db.cs_rs_impl.execute(
-            """
-            INSERT INTO impls (page_title, lang, categories, iwlinks, codes, comments, types)
-            VALUES (%s, %s, %s, %s, %s, %s, %s)
-            """,
-            [row.page_title, solution['language'], row.categories, row.iwlinks,
-                codes, comments, types]
-        )
+            db.cs_rs_impl.execute(
+                """
+                INSERT INTO impls (page_title, lang, categories, iwlinks, index, type, content)
+                VALUES (%s, %s, %s, %s, %s, %s, %s)
+                """,
+                [page_title, lang, row.categories, row.iwlinks,
+                    idx, entry_type, content]
+            )
 
         print 'indexed:', row.page_title
 
