@@ -6,7 +6,6 @@ import re
 from impl_languages_deduplication import get_standardized_lang
 import redis
 
-site = mw.Site('rosettacode.org', path='/mw/')
 search_pattern = re.compile(r"([\s\S]*?)<lang (\w+)>([\s\S]+?)<\/lang>")
 trim_pattern = re.compile(r"{{.+?}}")
 rd = redis.StrictRedis(host='localhost', port=6379, db=0)
@@ -120,6 +119,7 @@ def parse_rosetta_task_names():
     output = open('rosetta_task_names.csv', 'w+')
     csv_writer = csv.writer(output)
 
+    site = mw.Site('rosettacode.org', path='/mw/')
     category = site.Pages['Category:Programming Tasks']
     for page in category:
         csv_writer.writerow([page.page_title])
@@ -127,6 +127,7 @@ def parse_rosetta_task_names():
 def parse_rosetta_task_pages():
     output = open('rosetta.json', 'w+')
 
+    site = mw.Site('rosettacode.org', path='/mw/')
     category = site.Pages['Category:Programming Tasks']
     i = 0
     for page in category:
@@ -137,6 +138,7 @@ def parse_rosetta_task_pages():
         i += 1
 
 if __name__ == '__main__':
+    site = mw.Site('rosettacode.org', path='/mw/')
     parse_rosetta_task_pages()
     # page = site.Pages['fractran']
     # print Task(page).toJson()

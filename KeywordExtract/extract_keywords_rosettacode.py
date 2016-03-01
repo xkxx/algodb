@@ -5,13 +5,13 @@ sys.setdefaultencoding('utf8')
 from elasticsearch import Elasticsearch
 from fuzzywuzzy import process
 
-from parseRosetta import Task, site
+from throwtable.AlgorithmNames.parseRosetta import Task, site
 
 from index_elasticsearch_wikipedia import INDEX_NAME, normalize, \
     load_visited, rd, index_wiki_algorithm_entry, session
 
-from parseWikipedia import get_wiki_page, is_algorithm_page
-from impl_languages_deduplication import get_standardized_lang
+from throwtable.AlgorithmNames.parseWikipedia import get_wiki_page, is_algorithm_page
+from throwtable.AlgorithmNames.impl_languages_deduplication import get_standardized_lang
 
 import json
 

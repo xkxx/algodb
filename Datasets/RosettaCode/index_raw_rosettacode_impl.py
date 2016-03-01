@@ -1,8 +1,10 @@
-from cassandra.query import SimpleStatement
+import sys
+reload(sys)
+sys.setdefaultencoding('utf8')from cassandra.query import SimpleStatement
+
 from throwtable.RankingModel.db_dependency import DB_beans
 from throwtable.AlgorithmNames.parseRosetta import search_pattern, trim_pattern, parser, get_standardized_lang
 import re
-
 
 class Task:
     """

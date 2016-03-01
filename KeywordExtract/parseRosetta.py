@@ -3,7 +3,7 @@ import unicodecsv as csv
 import json
 import mwparserfromhell as parser
 import re
-from impl_languages_deduplication import get_standardized_lang
+from throwtable.AlgorithmNames.impl_languages_deduplication import get_standardized_lang
 import redis
 
 site = mw.Site('rosettacode.org', path='/mw/')
@@ -118,11 +118,11 @@ class Task:
 
 def parse_rosetta_task_names():
     output = open('rosetta_task_names.csv', 'w+')
-    csv_writer = csv.writer(output)
+    csv_wcriter = csv.writer(output)
 
     category = site.Pages['Category:Programming Tasks']
     for page in category:
-        csv_writer.writerow([page.name])
+        csv_writer.writerow([page.page_title])
 
 def parse_rosetta_task_pages():
     output = open('rosetta.json', 'w+')
