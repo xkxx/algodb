@@ -5,8 +5,12 @@ from pygments.token import Token, string_to_tokentype
 
 formatter = RawTokenFormatter()
 
-def extract_keywords(snippet, lang):
-    tokens_str = code_to_raw_tokens(snippet, "python")
+def extract_keywords(snippet, lang='python'):
+    """
+    retval: [(type, value), ...]
+    types: 'function_name', 'text', 'comment'
+    """
+    tokens_str = code_to_raw_tokens(snippet, lang)
     return extract_keywords_tokens(tokens_str)
 
 # TODO: redis lang mapping

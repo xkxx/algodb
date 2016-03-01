@@ -52,7 +52,7 @@ class Task:
                     self._parse_language_from_header(node.title.encode('utf8').strip())
                 if lang is None:
                     print 'ERROR: WE ARE SCREWED!!', node
-                    break
+                    continue
                 if current_solution is not None:
                     self.solutions.append(current_solution)
                 current_solution = dict()
@@ -111,6 +111,7 @@ def get_all_tasks(db):
 def process_single_impl(row, db):
     task = Task(row, db)
     page_title = row.page_title
+    summary = '\n'.join(task.task_summary)
     for solution in task.solutions:
         lang = solution['language']
 
@@ -123,14 +124,14 @@ def process_single_impl(row, db):
 
             db.cs_rs_impl.execute(
                 """
-                INSERT INTO impls (page_title, lang, categories, iwlinks, idx, type, content)
-                VALUES (%s, %s, %s, %s, %s, %s, %s)
+                INSERT INTO impls (page_title, lang, categories, iwlinks, idx, type, content, summary)
+                VALUES (%s, %s, %s, %s, %s, %s, %s, %s)
                 """,
                 [page_title, lang, row.categories, row.iwlinks,
-                    idx, entry_type, content]
+                    idx, entry_type, content, summary]
             )
 
-        print 'indexed:', row.page_title
+        print 'indexed:', row.page_title, ',', lang
 
 def main():
     get_all_tasks(DB_beans())

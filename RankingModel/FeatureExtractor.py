@@ -6,7 +6,13 @@ from nltk.corpus import stopwords
 from sklearn.feature_extraction.text import TfidfVectorizer
 vect = TfidfVectorizer(min_df=1)
 
+from throwtable.KeywordExtract.code_keyword_extractor import extract_keywords
+
 feature_functions = list()
+
+"""
+    Features from the titles
+"""
 
 def title_fuzzy_ratio(impl, algo):
     return fuzz.ratio(impl.title, algo.title)
@@ -24,6 +30,10 @@ def title_tfidf(impl, algo):
     tfidf = vect.fit_transform([impl.title, algo.title])
     return 0.01 + (tfidf * tfidf.T).A[0][1]
 
+"""
+    Features from the wikilinks
+"""
+
 def iwlinks_fuzzy_ratio(impl, algo):
     max_score = 0.0
     for wikilink in impl.iwlinks:
@@ -32,6 +42,10 @@ def iwlinks_fuzzy_ratio(impl, algo):
             max_score = score
     return max_score
 feature_functions.append(iwlinks_fuzzy_ratio)
+
+"""
+    Features from the summaries
+"""
 
 def summary_similarity(impl, algo):
     # get first sentence as summary
@@ -52,8 +66,38 @@ def summary_similarity(impl, algo):
     return 0.01 + (tfidf * tfidf.T).A[0][1]
 feature_functions.append(summary_similarity)
 
+"""
+    Features from the code
+"""
+# impl.content = [(tag, value), ...]
+# tag = 'commentary' or 'code'
+
+# whether algo's title is a part of the comments
 def code_comments(impl, algo):
-    pass
+    comments = []
+    for (tag, value) in impl.content:
+        if tag == 'code':
+            comments.extend( [keyword
+                for (t, keyword) in keyextract_keywords(value) if t == 'comment'] )
+    return fuzz.partial_ratio('\n '.join(comments), algo.title)
+
+# whether algo's title is a part of the function names
+def code_funcnames(impl, algo):
+    funcnames = []
+    for (tag, value) in impl.content:
+        if tag == 'code':
+            comments.extend( [keyword
+                for (t, keyword) in keyextract_keywords(value) if t == 'function_name'] )
+    return fuzz.partial_ratio('\n '.join(funcnames), algo.title)
+
+"""
+    Features from the commentary arround code snippets
+"""
+
+# whether algo's title is a part of the commentary
+def impl_commentary(impl, algo):
+    commentaries = [value for (tag, value) in impl.content if tag == 'commentary']
+    return fuzz.partial_ratio('\n '.join(commentaries), algo.title)
 
 def extract_features(impl, algo):
     return [func(impl, algo) for func in feature_functions]
