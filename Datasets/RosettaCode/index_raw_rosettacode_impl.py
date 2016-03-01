@@ -120,7 +120,7 @@ def process_single_impl(row, db):
 
             db.cs_rs_impl.execute(
                 """
-                INSERT INTO impls (page_title, lang, categories, iwlinks, index, type, content)
+                INSERT INTO impls (page_title, lang, categories, iwlinks, idx, type, content)
                 VALUES (%s, %s, %s, %s, %s, %s, %s)
                 """,
                 [page_title, lang, row.categories, row.iwlinks,
