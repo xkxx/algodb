@@ -80,6 +80,7 @@ def code_comments(impl, algo):
             comments.extend( [keyword
                 for (t, keyword) in keyextract_keywords(value) if t == 'comment'] )
     return fuzz.partial_ratio('\n '.join(comments), algo.title)
+feature_functions.append(code_comments)
 
 # whether algo's title is a part of the function names
 def code_funcnames(impl, algo):
@@ -89,6 +90,7 @@ def code_funcnames(impl, algo):
             comments.extend( [keyword
                 for (t, keyword) in keyextract_keywords(value) if t == 'function_name'] )
     return fuzz.partial_ratio('\n '.join(funcnames), algo.title)
+feature_functions.append(code_funcnames)
 
 """
     Features from the commentary arround code snippets
@@ -98,6 +100,7 @@ def code_funcnames(impl, algo):
 def impl_commentary(impl, algo):
     commentaries = [value for (tag, value) in impl.content if tag == 'commentary']
     return fuzz.partial_ratio('\n '.join(commentaries), algo.title)
+feature_functions.append(impl_commentary)
 
 def extract_features(impl, algo):
     return [func(impl, algo) for func in feature_functions]
