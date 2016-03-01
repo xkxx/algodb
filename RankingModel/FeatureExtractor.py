@@ -50,7 +50,7 @@ feature_functions.append(iwlinks_fuzzy_ratio)
 def summary_similarity(impl, algo):
     # get first sentence as summary
     # assume the first sentence is at most 1000 chars long
-    impl_sents = sent_tokenize(impl.text[:1000])
+    impl_sents = sent_tokenize(impl.summary)
     algo_sents = sent_tokenize(algo.description[:1000])
     if (len(impl_sents) == 0) or (len(algo_sents) == 0):
         return 0.01
