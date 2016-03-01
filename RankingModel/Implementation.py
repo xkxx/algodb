@@ -10,6 +10,9 @@ class Implementation:
             iwlinks = set()
         self.iwlinks = iwlinks
         self.text = text
+        # FIXME hard-coded impl content
+        self.lang = 'python'
+        self.content = None
         self.label = label
         self.is_algo = is_algo
 
@@ -22,9 +25,10 @@ class Implementation:
     def __repr__(self):
         return "<Implementation:%s>" % self.title
 
-def process_single_impl(row, db):
+def process_single_impl(row, content, db):
     #print row.page_title, row.iwlinks
     impl = Implementation(row.page_title, row.categories, row.iwlinks, row.text)
+    impl.content = content
     # get corresponding wiki page
     algo_name = db.rd.hget('rosettacode-label-algoname', impl.title)
     if algo_name:
@@ -41,12 +45,31 @@ def process_single_impl(row, db):
 
 def get_all_tasks(db):
     """
-        cas: cassandra session
-        rd: redis connection
+        Gets all rosettacode impls in dev set which has a label
     """
-    query = "SELECT * FROM rosettacode"
-    statement = SimpleStatement(query, fetch_size=100)
+    tasknames = db.rd.hkeys('rosettacode-label-algoname')
     results = []
-    for row in db.cs_rs.execute(statement):
-        results.append(process_single_impl(row, db))
+    for taskname in tasknames:
+        # get python impl
+        query = "SELECT * FROM impls WHERE page_title = %s AND lang = %s"
+        statement = SimpleStatement(query, fetch_size=100)
+        impl = []
+        arow = None # optimization: a single row of python impl
+        for row in db.cs_rs_impl.execute(statement, [taskname, 'python']):
+            arow = row
+            impl.append((row.type, row.content))
+
+        if arow is None:
+            # no python impl: get something we can use
+            print "No python impl for ", taskname
+            query = "SELECT * FROM impls WHERE page_title = %s LIMIT 1"
+            statement = SimpleStatement(query)
+            desp = list(db.cs_rs_impl.execute(statement, [taskname]))
+            if len(desp) != 1:
+                print algoname, result
+                raise "Task not found in cassandra db"
+            arow = desp[0]
+
+        results.append(process_single_impl(arow, impl, db))
+
     return results
