@@ -44,14 +44,15 @@ def get_corresponding_algo(algo_name, db):
         algo.tag_line = doc['tag_line']
     return algo
 
+all_algos = []
 def get_all_mentioned_algo(db):
     """
         es: elasticsearch connection
         rd: redis connection
     """
-    all_algos = []
-    for (impl_name, algo_name) in db.rd.hscan_iter('rosettacode-label-algoname'):
-        if len(algo_name):
-            algo = get_corresponding_algo(algo_name, db)
-            all_algos.append(algo)
+    if len(all_algos) == 0:
+        for (impl_name, algo_name) in db.rd.hscan_iter('rosettacode-label-algoname'):
+            if len(algo_name):
+                algo = get_corresponding_algo(algo_name, db)
+                all_algos.append(algo)
     return all_algos

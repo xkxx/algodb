@@ -32,14 +32,14 @@ from itertools import chain, combinations
 # return [(impl, corres_algo)]
 def get_trainable_data(db):
     tasks = get_all_tasks(db)
-    results = []
+    # results = []
 
-    for task in tasks:
-        # now only train on tasks that are algorithms, and have wiki pages
-        if not task.rank_trainable():
-            continue
-        results.append(task)
-    return results
+    return tasks
+    # for task in tasks:
+    #     now only train on tasks that are algorithms, and have wiki pages
+    #     if not task.rank_trainable():
+    #         continue
+    #     results.append(task)
 
 def split_data(data):
     k = 5
@@ -98,7 +98,7 @@ def train_threshold(data, ranking, db):
     score_vector = list()
     # then train decision stump
     for impl in data:
-        (topcand, toprank) = classify(ranking, impl, all_algos)[0]
+        (topcand, toprank) = rank(ranking, impl, all_algos)[0]
         feature_vector.append([toprank])
         score_vector.append(1 if (toprank, topcand == impl.label) else -1)
 
@@ -109,7 +109,6 @@ def train_threshold(data, ranking, db):
 def train(data, db):
     # first train ranking model
     ranking = train_ranking(data)
-
     threshold = train_threshold(data, ranking, db)
 
     return (ranking, threshold)
@@ -128,22 +127,27 @@ def classify(model, sample, candidates):
     (ranking, threshold) = model
     results = classify(ranking, sample, candidates)
     (topcand, toprank) = results[0]
+    guess = None
+    if threshold.predict([toprank]) == 1:
+        guess = topcand
 
+    return (guess, results)
 
 def validation(model, samples, db):
     all_algos = get_all_mentioned_algo(db)
     recranks = []
     corrects = 0
     for impl in samples:
-        result = classify(model, impl, all_algos)
+        (guess, result) = classify(model, impl, all_algos)
         keys = zip(*result)[0]
         print "Impl:", impl
         print "Algo:", impl.label
+        print "Prediction:", guess
         print "Top Rank:", result[0:3]
         rank = keys.index(impl.label) + 1
         print "Rank of Correct Algo:", rank
         recranks.append(1.0 / rank)
-        if rank == 1:
+        if guess == impl.label:
             corrects += 1
     meanrank = sum(recranks) * 1.0 / len(samples)
     accuracy = corrects * 1.0 / len(samples)
