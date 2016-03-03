@@ -81,35 +81,34 @@ def create_training_vectors(data, db, num_neg=1):
 
     return (feature_vector, score_vector)
 
-def train_ranking(data, db):
-    (feature_vector, score_vector) = create_training_vectors(data, db)
+def train_ranking(feature_vector, score_vector):
     clf = svm.LinearSVR()
-
     # train
     clf.fit(feature_vector, score_vector)
 
     return clf
 
-def train_threshold(data, ranking, db):
-    all_algos = get_all_mentioned_algo(db)
+def train_threshold(feature_vector, score_vector, ranking):
+    # all_algos = get_all_mentioned_algo(db)
     # feature vector
-    feature_vector = list()
+    stump_features = list()
     # score vector
-    score_vector = list()
+    stump_scores = list()
+    # first try rank training set on trained model
+    predictions = ranking.predict(feature_vector)
     # then train decision stump
-    for impl in data:
-        (topcand, toprank) = rank(ranking, impl, all_algos)[0]
-        feature_vector.append([toprank])
-        score_vector.append(1 if (toprank, topcand == impl.label) else -1)
+    stump_features = predictions
+    stump_scores = [1 if score == 1 else -1 for score in score_vector]
 
     clf = DecisionTreeClassifier()
-    clf.fit(feature_vector, score_vector)
+    clf.fit(stump_features, stump_scores)
     return clf
 
 def train(data, db):
+    (feature_vector, score_vector) = create_training_vectors(data, db)
     # first train ranking model
-    ranking = train_ranking(data, db)
-    threshold = train_threshold(data, ranking, db)
+    ranking = train_ranking(feature_vector, score_vector)
+    threshold = train_threshold(data, ranking)
 
     return (ranking, threshold)
 
