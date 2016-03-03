@@ -50,10 +50,10 @@ class Task:
         self.solutions = list()
         current_solution = None
         for node in solution_nodes:
-            # print '================================node: ', \
-                # node.encode('utf8'), \
-                # 'task:', self.task_name
+            # print '===node: '
+            # print node.encode('utf8')
             # print type(node)
+
             if type(node) is parser.nodes.heading.Heading:
                 lang = \
                     self._parse_language_from_header(node)
@@ -108,7 +108,7 @@ class Task:
 
     def __init__(self, row, db):
         self.db = db
-        self.nodeslist = parser.parse(row.text).nodes
+        self.nodeslist = parser.parse(row.text, skip_style_tags=True).nodes
         self.task_name = row.page_title
         self._parse_summary()
 
@@ -127,7 +127,10 @@ def process_single_impl(row, db):
     page_title = row.page_title
     summary = '\n'.join(task.task_summary)
     for solution in task.solutions:
+        print solution['language']
+    for solution in task.solutions:
         lang = solution['language']
+        print solution['content']
 
         for idx, entry in enumerate(solution['content']):
             if 'content' not in entry:

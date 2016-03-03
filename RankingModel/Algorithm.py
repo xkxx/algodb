@@ -35,7 +35,7 @@ def get_corresponding_algo(algo_name, db):
     id=normalize(algo.title), ignore=404)
 
     if not result['found']:
-        print "ERROR: %s not found in elasticsearch db" % algo_name
+        print "ERROR: %s(%s) not found in elasticsearch db" % (algo_name, normalize(algo.title))
         algo.description = ""
         algo.tag_line = ""
     else:

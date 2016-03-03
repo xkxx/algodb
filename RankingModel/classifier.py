@@ -14,6 +14,7 @@ from Implementation import get_all_tasks
 
 # using support vector regression: features -> ranking score
 from sklearn import svm
+from sklearn.tree import DecisionTreeClassifier
 
 # for randomly sampling negative training example
 import random
@@ -37,8 +38,7 @@ def get_trainable_data(db):
         # now only train on tasks that are algorithms, and have wiki pages
         if not task.rank_trainable():
             continue
-        corres_algo = task.label
-        results.append((task, corres_algo))
+        results.append(task)
     return results
 
 def split_data(data):
@@ -53,7 +53,7 @@ def split_data(data):
     return splits
 
 # return feature_vector, score_vector
-def create_training_vectors(data, db):
+def create_training_vectors(data, db, num_neg=1):
     # feature vector
     feature_vector = list()
     # score vector
@@ -65,30 +65,58 @@ def create_training_vectors(data, db):
 
     # positive:negative = 1:1
 
-    for (task, corres_algo) in data:
-        # positive training example
-        feature_vector.append(extract_features(task, corres_algo))
-        score_vector.append(CORRESPONDING)
+    for task in data:
+        if task.label is not None and task.is_algo:
+            # positive training example
+            feature_vector.append(extract_features(task, task.label))
+            score_vector.append(CORRESPONDING)
+
         # negative training example
-        random_algo = None
-        while (random_algo is None or random_algo == task.label):
-            random_algo = random.choice(algo_names)
-        feature_vector.append(extract_features(task, random_algo))
-        score_vector.append(NON_CORRESPONDING)
+        for i in range(num_neg):
+            random_algo = None
+            while (random_algo is None or random_algo == task.label):
+                random_algo = random.choice(algo_names)
+            feature_vector.append(extract_features(task, random_algo))
+            score_vector.append(NON_CORRESPONDING)
 
     return (feature_vector, score_vector)
 
-def train(data, db):
+def train_ranking(data):
     (feature_vector, score_vector) = create_training_vectors(data, db)
     clf = svm.LinearSVR()
 
     # train
     clf.fit(feature_vector, score_vector)
+
     return clf
+
+def train_threshold(data, ranking, db):
+    all_algos = get_all_mentioned_algo(db)
+    # feature vector
+    feature_vector = list()
+    # score vector
+    score_vector = list()
+    # then train decision stump
+    for impl in data:
+        (topcand, toprank) = classify(ranking, impl, all_algos)[0]
+        feature_vector.append([toprank])
+        score_vector.append(1 if (toprank, topcand == impl.label) else -1)
+
+    clf = DecisionTreeClassifier()
+    clf.fit(feature_vector, score_vector)
+    return clf
+
+def train(data, db):
+    # first train ranking model
+    ranking = train_ranking(data)
+
+    threshold = train_threshold(data, ranking, db)
+
+    return (ranking, threshold)
 
 # samples_features = a list of features, size = # of samples * # of features
 # returns a list of
-def classify(model, sample, candidates):
+def rank(model, sample, candidates):
     ranks = Counter()
     for cand in candidates:
         sample_features = extract_features(sample, cand)
@@ -96,17 +124,23 @@ def classify(model, sample, candidates):
         ranks[cand] = result
     return ranks.most_common()
 
+def classify(model, sample, candidates):
+    (ranking, threshold) = model
+    results = classify(ranking, sample, candidates)
+    (topcand, toprank) = results[0]
+
+
 def validation(model, samples, db):
     all_algos = get_all_mentioned_algo(db)
     recranks = []
     corrects = 0
-    for (impl, corres_algo) in samples:
+    for impl in samples:
         result = classify(model, impl, all_algos)
         keys = zip(*result)[0]
         print "Impl:", impl
-        print "Algo:", corres_algo
+        print "Algo:", impl.label
         print "Top Rank:", result[0:3]
-        rank = keys.index(corres_algo) + 1
+        rank = keys.index(impl.label) + 1
         print "Rank of Correct Algo:", rank
         recranks.append(1.0 / rank)
         if rank == 1:
@@ -139,7 +173,7 @@ def main():
         print "Validation Set:", len(valid_data)
 
         print "Training..."
-        model = train(valid_data, db)
+        model = train(train_data, db)
 
         print "Feature weights:", model.coef_
 

@@ -28,7 +28,7 @@ feature_functions.append(title_fuzzy_simhash)
 
 def title_tfidf(impl, algo):
     tfidf = vect.fit_transform([impl.title, algo.title])
-    return 0.01 + (tfidf * tfidf.T).A[0][1]
+    return (tfidf * tfidf.T).A[0][1]
 
 """
     Features from the wikilinks
@@ -53,7 +53,7 @@ def summary_similarity(impl, algo):
     impl_sents = sent_tokenize(impl.summary)
     algo_sents = sent_tokenize(algo.description[:1000])
     if (len(impl_sents) == 0) or (len(algo_sents) == 0):
-        return 0.01
+        return 0
 
     # remove stop words
     impl_summary = ' '.join([word for word in word_tokenize(impl_sents[0])
@@ -63,7 +63,7 @@ def summary_similarity(impl, algo):
 
     # compute tfidf
     tfidf = vect.fit_transform([impl_summary, algo_summary])
-    return 0.01 + (tfidf * tfidf.T).A[0][1]
+    return (tfidf * tfidf.T).A[0][1]
 feature_functions.append(summary_similarity)
 
 """
@@ -78,7 +78,7 @@ def code_comments(impl, algo):
     for (tag, value) in impl.content:
         if tag == 'code':
             comments.extend( [keyword
-                for (t, keyword) in keyextract_keywords(value) if t == 'comment'] )
+                for (t, keyword) in extract_keywords(value) if t == 'comment'] )
     return fuzz.partial_ratio('\n '.join(comments), algo.title)
 feature_functions.append(code_comments)
 
@@ -87,8 +87,8 @@ def code_funcnames(impl, algo):
     funcnames = []
     for (tag, value) in impl.content:
         if tag == 'code':
-            comments.extend( [keyword
-                for (t, keyword) in keyextract_keywords(value) if t == 'function_name'] )
+            funcnames.extend( [keyword
+                for (t, keyword) in extract_keywords(value) if t == 'function_name'] )
     return fuzz.partial_ratio('\n '.join(funcnames), algo.title)
 feature_functions.append(code_funcnames)
 
