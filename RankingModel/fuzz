@@ -1,0 +1,18 @@
+>>> funcnames = 'abc, mergesort, helper, join'
+>>> title = 'merge sort'
+>>> fuzz.partial_ratio(funcnames, title)
+90
+>>> funcnames = 'abc, mergesort, helper, join, dihasif, asdufhsah, asdhufis'
+>>> fuzz.partial_ratio(funcnames, title)
+90
+>>> funcnames = 'abc, mergesort, helper, join, dihasif, asdufhsah, asdhufis, dcoa, djs, dsi'
+>>> fuzz.partial_ratio(funcnames, title)90
+>>> funcnames = 'abc\nfsg\nfgsdg\n mergesort\n helper\n join\n dihasif\n asdufhsah\n asdhufis\n dcoa\n djs\n dsi'
+>>> fuzz.partial_ratio(funcnames, title)90
+>>> funcnames = 'abc\nfsg\nfgsdg\n this is mergesort, yes.\n helper\n join\n dihasif\n asdufhsah\n asdhufis\n dcoa\n djs\n dsi'
+>>> fuzz.partial_ratio(funcnames, title)90
+>>> title = 'merge Sort implementation'
+>>> fuzz.partial_ratio(funcnames, title)
+44
+>>> funcnames = 'abc\nfsg\nfgsdg\n this is the implementation of mergesort, yes.\n helper\n join\n dihasif\n asdufhsah\n asdhufis\n dcoa\n djs\n dsi'
+>>> fuzz.partial_ratio(funcnames, title)
