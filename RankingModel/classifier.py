@@ -81,7 +81,7 @@ def create_training_vectors(data, db, num_neg=1):
 
     return (feature_vector, score_vector)
 
-def train_ranking(data):
+def train_ranking(data, db):
     (feature_vector, score_vector) = create_training_vectors(data, db)
     clf = svm.LinearSVR()
 
@@ -108,7 +108,7 @@ def train_threshold(data, ranking, db):
 
 def train(data, db):
     # first train ranking model
-    ranking = train_ranking(data)
+    ranking = train_ranking(data, db)
     threshold = train_threshold(data, ranking, db)
 
     return (ranking, threshold)
