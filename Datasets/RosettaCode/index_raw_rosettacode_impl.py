@@ -19,12 +19,13 @@ class Task:
         self.task_summary: a list of sentences
         self.nodeslist: a list of mediawiki nodes from the page's text
     """
-    def _parse_language_from_header(self, title):
+    def _parse_language_from_header(self, node):
+        title = node.title.encode('utf8').strip()
         # e.g. '{{header|8th}}'
         result = matchHeader.match(title)
         if result:  # first order approx
             return result.group(1).strip()
-        if title._level == 2:  ## can't be a lang without being level 2
+        if node.level == 2:  ## can't be a lang without being level 2
             print "WARN: Consider %s as Language" % title
             return title.strip()
         return
@@ -55,7 +56,7 @@ class Task:
             # print type(node)
             if type(node) is parser.nodes.heading.Heading:
                 lang = \
-                    self._parse_language_from_header(node.title.encode('utf8').strip())
+                    self._parse_language_from_header(node)
                 if lang is None:
                     print 'WARN: Non-lang header:', node
                     if current_solution is None:
@@ -96,7 +97,7 @@ class Task:
             curr = self.nodeslist[i]
             if type(curr) is parser.nodes.heading.Heading:
                 # print curr
-                if self._parse_language_from_header(curr.title.encode('utf8')):
+                if self._parse_language_from_header(curr):
                     # print curr
                     self._parse_solutions(self.nodeslist[i:])
                     break
