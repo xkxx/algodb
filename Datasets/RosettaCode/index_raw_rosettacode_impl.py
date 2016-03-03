@@ -7,6 +7,8 @@ from throwtable.RankingModel.db_dependency import DB_beans
 from throwtable.AlgorithmNames.parseRosetta import search_pattern, trim_pattern, parser, get_standardized_lang
 import re
 
+matchHeader = re.compile(r".*?\{\{header\|(.+?)\}\}.*", re.IGNORECASE)
+
 class Task:
     """
         self.solutions: a list of implementations.
@@ -19,9 +21,13 @@ class Task:
     """
     def _parse_language_from_header(self, title):
         # e.g. '{{header|8th}}'
-        matchHeader = re.compile(r".*?\{\{header\|(.+?)\}\}.*")
         result = matchHeader.match(title)
-        return result and result.group(1).strip()
+        if result:  # first order approx
+            return result.group(1).strip()
+        if title._level == 2:  ## can't be a lang without being level 2
+            print "WARN: Consider %s as Language" % title
+            return title.strip()
+        return
 
     # find the first commentary block and the first code block,
     # if match found, return (commentary, code, entirematch),
@@ -51,7 +57,14 @@ class Task:
                 lang = \
                     self._parse_language_from_header(node.title.encode('utf8').strip())
                 if lang is None:
-                    print 'ERROR: WE ARE SCREWED!!', node
+                    print 'WARN: Non-lang header:', node
+                    if current_solution is None:
+                        print "ERROR: non-lang header not in code section"
+                        print "Likely summary subheaders - dropping it"
+                        print ">", node
+                        continue
+                    current_solution['content'].append({'type':
+                        'commentary', 'content': node.strip(" =")})
                     continue
                 if current_solution is not None:
                     self.solutions.append(current_solution)
