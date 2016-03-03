@@ -178,7 +178,7 @@ def main():
         print "Training..."
         model = train(train_data, db)
 
-        print "Feature weights:", model.coef_
+        print "Feature weights:", model[0].coef_
 
         print "Verifying..."
 
