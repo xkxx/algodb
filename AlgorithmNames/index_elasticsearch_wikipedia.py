@@ -189,15 +189,16 @@ def load_visited():
 def index_algorithms_from_labels():
     visited = load_visited()
     for task_name in rd.smembers('rosettacode-label-isalgo'): # all tasks that are algorithms
-        print task_name
+        print task_name,
         algo_name = rd.hget('rosettacode-label-algoname', task_name)
         if algo_name == '': # tasks does not have corresponding wiki page
+            print ', does not have corresponding wiki page'
             continue
 
         page = pw.get_wiki_page(algo_name)
         if page is not None:
-            print 'indexing'
             index_wiki_algorithm_entry(page, algo_name, visited)
+            print 'indexed'
 
 if __name__ == '__main__':
     # index_wiki_category('Category:Algorithms')

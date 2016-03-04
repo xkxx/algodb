@@ -4,18 +4,14 @@ import json
 
 MAX_CATEGORY_DEPTH = 3
 
-def is_algorithm_page(page):
+def is_algorithm_page(page, loosy_check=True):
+    # loosy_check let all pages pass through the algo filter
     category_match = False
     for category in page.categories:
-        if 'Algorithm' in category or 'algorithm' in category:
+        if loosy_check or ('Algorithm' in category or 'algorithm' in category):
             category_match = True
 
-    # summary_match = ('algorithm' in page.summary
-    #     or 'Algorithm' in page.summary)
-    #
-    # return category_match and summary_match
-
-    content_match = (page.content.find('algorithm') != -1
+    content_match = loosy_check or (page.content.find('algorithm') != -1
         or page.content.find('Algorithm') != -1)
 
     return category_match and content_match
