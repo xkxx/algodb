@@ -6,7 +6,7 @@ from nltk.corpus import stopwords
 from sklearn.feature_extraction.text import TfidfVectorizer
 vect = TfidfVectorizer(min_df=1)
 
-from throwtable.KeywordExtract.code_keyword_extractor import extract_keywords
+from algodb.KeywordExtract.code_keyword_extractor import extract_keywords
 
 feature_functions = list()
 

@@ -3,7 +3,7 @@ import unicodecsv as csv
 import json
 import mwparserfromhell as parser
 import re
-from throwtable.AlgorithmNames.impl_languages_deduplication import get_standardized_lang
+from algodb.AlgorithmNames.impl_languages_deduplication import get_standardized_lang
 import redis
 
 site = mw.Site('rosettacode.org', path='/mw/')

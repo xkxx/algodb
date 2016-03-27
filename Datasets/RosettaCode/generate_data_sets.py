@@ -42,8 +42,8 @@ def store_label_redis():
             rd.hset('rosettacode-test-label-algoname', task_name, algo_name)
 
 def main():
-    # store_rosettacode_cassandra()
-    store_label_redis()
+    store_rosettacode_cassandra()
+    # store_label_redis()
 
 if __name__ == '__main__':
     main()

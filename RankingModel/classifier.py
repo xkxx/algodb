@@ -97,7 +97,7 @@ def train_threshold(feature_vector, score_vector, ranking):
     # first try rank training set on trained model
     predictions = ranking.predict(feature_vector)
     # then train decision stump
-    stump_features = predictions
+    stump_features = [[x] for x in predictions]
     stump_scores = [1 if score == 1 else -1 for score in score_vector]
 
     clf = DecisionTreeClassifier()
@@ -108,7 +108,7 @@ def train(data, db):
     (feature_vector, score_vector) = create_training_vectors(data, db)
     # first train ranking model
     ranking = train_ranking(feature_vector, score_vector)
-    threshold = train_threshold(data, ranking)
+    threshold = train_threshold(feature_vector, score_vector, ranking)
 
     return (ranking, threshold)
 
@@ -124,12 +124,11 @@ def rank(model, sample, candidates):
 
 def classify(model, sample, candidates):
     (ranking, threshold) = model
-    results = classify(ranking, sample, candidates)
+    results = rank(ranking, sample, candidates)
     (topcand, toprank) = results[0]
     guess = None
-    if threshold.predict([toprank]) == 1:
+    if threshold.predict([[toprank]]) == 1:
         guess = topcand
-
     return (guess, results)
 
 def validation(model, samples, db):
@@ -143,7 +142,14 @@ def validation(model, samples, db):
         print "Algo:", impl.label
         print "Prediction:", guess
         print "Top Rank:", result[0:3]
-        rank = keys.index(impl.label) + 1
+        rank = None
+        if impl.label is None:
+            if guess == impl.label:
+                rank = 1
+            else:
+                rank = 1 + len(all_algos)
+        else:
+            rank = keys.index(impl.label) + 1
         print "Rank of Correct Algo:", rank
         recranks.append(1.0 / rank)
         if guess == impl.label:
@@ -183,7 +189,7 @@ def main():
         print "Verifying..."
 
         (m, c) = validation(model, valid_data, db)
-        coefs.append(model.coef_)
+        coefs.append(model[0].coef_)
         meanranks.append(m)
         corrects.append(c)
 

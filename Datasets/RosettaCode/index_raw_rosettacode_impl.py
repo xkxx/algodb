@@ -3,8 +3,8 @@ reload(sys)
 sys.setdefaultencoding('utf8')
 
 from cassandra.query import SimpleStatement
-from throwtable.RankingModel.db_dependency import DB_beans
-from throwtable.AlgorithmNames.parseRosetta import search_pattern, trim_pattern, parser, get_standardized_lang
+from algodb.RankingModel.db_dependency import DB_beans
+from algodb.AlgorithmNames.parseRosetta import search_pattern, trim_pattern, parser, get_standardized_lang
 import re
 
 matchHeader = re.compile(r".*?\{\{header\|(.+?)\}\}.*", re.IGNORECASE)
