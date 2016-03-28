@@ -1,5 +1,9 @@
 import random
-
+# using support vector regression: features -> ranking score
+from sklearn import svm
+from sklearn.tree import DecisionTreeClassifier
+# ranking
+from collections import Counter
 
 class RankingClassifier:
     def __init__(self, extract_features, all_algos, num_neg=1):
@@ -30,7 +34,7 @@ class RankingClassifier:
                 random_algo = None
                 while (random_algo is None or random_algo == task.label):
                     random_algo = random.choice(algo_names)
-                feature_vector.append(extract_features(task, random_algo))
+                feature_vector.append(self._extract_features(task, random_algo))
                 score_vector.append(NON_CORRESPONDING)
 
         return (feature_vector, score_vector)
@@ -58,36 +62,38 @@ class RankingClassifier:
         self.thresholdModel = clf
 
     def train(self, data):
-        (feature_vector, score_vector) = self._create_training_vectors(data, self.all_algos)
+        (feature_vector, score_vector) = self._create_training_vectors(data)
         # first train ranking model
-        ranking = train_ranking(feature_vector, score_vector)
-        threshold = train_threshold(feature_vector, score_vector)
+        self._train_ranking(feature_vector, score_vector)
+        self._train_threshold(feature_vector, score_vector)
 
     def _classify_rank(self, sample):
         ranks = Counter()
+        candidates = self.all_algos
+
         for cand in candidates:
             sample_features = self._extract_features(sample, cand)
-            [result] = rankingModel.predict([sample_features])
+            [result] = self.rankingModel.predict([sample_features])
             ranks[cand] = result
         return ranks.most_common()
 
-    def classify(sample):
-        (ranking, threshold) = model
+    def classify(self, sample):
         results = self._classify_rank(sample)
         (topcand, toprank) = results[0]
         guess = None
-        if threshold.predict([[toprank]]) == 1:
+        if self.thresholdModel.predict([[toprank]]) == 1:
             guess = topcand
         return (guess, results)
 
-    def init_results(self):
+    @staticmethod
+    def init_results():
         return {
-            'corrects': 0,
+            'corrects': [],
             'recranks': []
         }
 
-    def eval(self, sample, guess, results):
-        (guess, result) = guess
+    def eval(self, sample, prediction, results):
+        (guess, result) = prediction
         keys = zip(*result)[0]
         print "Top Rank:", result[0:3]
         rank = None
@@ -102,5 +108,5 @@ class RankingClassifier:
         results['recranks'].append(1.0 / rank)
 
     def print_model(self):
-        print "Coefs: ", self.rankingModel._coefs
-        print "Threshold: ", self.thresholdModel._tree
+        print "Coef: ", self.rankingModel.coef_
+        print "Threshold: ", self.thresholdModel.tree_

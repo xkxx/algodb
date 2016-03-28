@@ -7,20 +7,13 @@ sys.setdefaultencoding('utf8')
 # from cassandra.cluster import Cluster
 
 # for algorithm
-from Algorithm import get_corresponding_algo, get_all_mentioned_algo
+from Algorithm import get_all_mentioned_algo
 
 # for rosettacode impl
 from Implementation import get_all_tasks
 
-# using support vector regression: features -> ranking score
-from sklearn import svm
-from sklearn.tree import DecisionTreeClassifier
-
 # for randomly sampling negative training example
 import random
-
-# ranking
-from collections import Counter
 
 # feature extract
 from FeatureExtractor import extract_features
@@ -28,6 +21,9 @@ from FeatureExtractor import extract_features
 from db_dependency import DB_beans
 
 from itertools import chain, combinations
+
+# models
+from RankingClassifier import RankingClassifier
 
 # return [(impl, corres_algo)]
 def get_trainable_data(db):
@@ -52,150 +48,60 @@ def split_data(data):
         splits.append(data[cur_start:(cur_start + min(per_split, left))])
     return splits
 
-# return feature_vector, score_vector
-def create_training_vectors(data, db, num_neg=1):
-    # feature vector
-    feature_vector = list()
-    # score vector
-    score_vector = list()
-    algo_names = get_all_mentioned_algo(db)
-
-    CORRESPONDING = 1.0
-    NON_CORRESPONDING = 0.0
-
-    # positive:negative = 1:1
-
-    for task in data:
-        if task.label is not None and task.is_algo:
-            # positive training example
-            feature_vector.append(extract_features(task, task.label))
-            score_vector.append(CORRESPONDING)
-
-        # negative training example
-        for i in range(num_neg):
-            random_algo = None
-            while (random_algo is None or random_algo == task.label):
-                random_algo = random.choice(algo_names)
-            feature_vector.append(extract_features(task, random_algo))
-            score_vector.append(NON_CORRESPONDING)
-
-    return (feature_vector, score_vector)
-
-def train_ranking(feature_vector, score_vector):
-    clf = svm.LinearSVR()
-    # train
-    clf.fit(feature_vector, score_vector)
-
-    return clf
-
-def train_threshold(feature_vector, score_vector, ranking):
-    # all_algos = get_all_mentioned_algo(db)
-    # feature vector
-    stump_features = list()
-    # score vector
-    stump_scores = list()
-    # first try rank training set on trained model
-    predictions = ranking.predict(feature_vector)
-    # then train decision stump
-    stump_features = [[x] for x in predictions]
-    stump_scores = [1 if score == 1 else -1 for score in score_vector]
-
-    clf = DecisionTreeClassifier()
-    clf.fit(stump_features, stump_scores)
-    return clf
-
-def train(data, db):
-    (feature_vector, score_vector) = create_training_vectors(data, db)
-    # first train ranking model
-    ranking = train_ranking(feature_vector, score_vector)
-    threshold = train_threshold(feature_vector, score_vector, ranking)
-
-    return (ranking, threshold)
-
-# samples_features = a list of features, size = # of samples * # of features
-# returns a list of
-def rank(model, sample, candidates):
-    ranks = Counter()
-    for cand in candidates:
-        sample_features = extract_features(sample, cand)
-        [result] = model.predict([sample_features])
-        ranks[cand] = result
-    return ranks.most_common()
-
-def classify(model, sample, candidates):
-    (ranking, threshold) = model
-    results = rank(ranking, sample, candidates)
-    (topcand, toprank) = results[0]
-    guess = None
-    if threshold.predict([[toprank]]) == 1:
-        guess = topcand
-    return (guess, results)
-
-def validation(model, samples, db):
-    all_algos = get_all_mentioned_algo(db)
-    recranks = []
-    corrects = 0
+def validation(model, samples, eval_results):
     for impl in samples:
-        (guess, result) = classify(model, impl, all_algos)
-        keys = zip(*result)[0]
         print "Impl:", impl
         print "Algo:", impl.label
+        prediction = model.classify(impl)
+        guess = prediction[0]
         print "Prediction:", guess
-        print "Top Rank:", result[0:3]
-        rank = None
-        if impl.label is None:
-            if guess == impl.label:
-                rank = 1
-            else:
-                rank = 1 + len(all_algos)
-        else:
-            rank = keys.index(impl.label) + 1
-        print "Rank of Correct Algo:", rank
-        recranks.append(1.0 / rank)
-        if guess == impl.label:
-            corrects += 1
-    meanrank = sum(recranks) * 1.0 / len(samples)
-    accuracy = corrects * 1.0 / len(samples)
+        eval_results['corrects'].append(guess == impl.label)
+        # classifier-defined metrics
+        model.eval(impl, prediction, eval_results)
 
-    print
-    print "Avg Rank Reciprocal:", meanrank
-    print "Total correct:", corrects
-    return (meanrank, accuracy)
+def print_results(eval_results):
+    for metric in ['corrects', 'recranks']:
+        if metric in eval_results:
+            print metric, ':',
+            print 1.0 * sum(eval_results[metric]) / len(eval_results[metric])
 
 def main():
     db = DB_beans()
-
+    NUM_SPLITS = 5
     all_trainable = get_trainable_data(db)
+    all_algos = get_all_mentioned_algo(db)
     print all_trainable
     splits = split_data(all_trainable)
+    trains = list(combinations(splits, NUM_SPLITS - 1))
+    models = [None] * NUM_SPLITS
+    # select classifier
+    Classifier = RankingClassifier
 
-    trains = list(combinations(splits, 4))
-    coefs = []
-    meanranks = []
-    corrects = []
+    eval_results = Classifier.init_results()
 
-    for i in range(5):
+    for i in range(NUM_SPLITS):
+        model = models[i] = Classifier(extract_features, all_algos)
         train_data = list(chain(*trains[i]))
-        valid_data = splits[4 - i]
+        valid_data = splits[NUM_SPLITS - 1 - i]
 
         print "Training Set:", len(train_data)
         print "Validation Set:", len(valid_data)
 
         print "Training..."
-        model = train(train_data, db)
+        model.train(train_data)
 
-        print "Feature weights:", model[0].coef_
+        print "Model:"
+        print model.print_model()
 
         print "Verifying..."
 
-        (m, c) = validation(model, valid_data, db)
-        coefs.append(model[0].coef_)
-        meanranks.append(m)
-        corrects.append(c)
+        validation(model, valid_data, eval_results)
 
-    print "Coefs: ", coefs
-    print "Mean MRR: ", sum(meanranks) / 5.0
-    print "Mean corrects: ", sum(corrects) / 5.0
+    print "Models:"
+    for m in models:
+        model.print_model()
+    print "Results:"
+    print_results(eval_results)
 
 if __name__ == '__main__':
     main()
