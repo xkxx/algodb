@@ -1,3 +1,4 @@
+#! /usr/bin/env bash
 # DELETE
 curl -XDELETE 'http://localhost:9200/throwtable'
 
@@ -28,10 +29,10 @@ elasticdump \
 #  --type=data
 
 # ROSETTA IMPLEMENTATION
-#elasticdump \
-#  --input=version4.3/elasticsearch_implementation_v4.3.json \
-#  --output=http://localhost:9200/throwtable \
-#  --type=data
+elasticdump \
+  --input=version4.1/elasticsearch_implementation_v4.1.json \
+  --output=http://localhost:9200/throwtable \
+  --type=data
 
 # NPM IMPLEMENTATION
 #elasticdump \

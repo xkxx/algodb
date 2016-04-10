@@ -48,7 +48,7 @@ def get_all_tasks(db):
     """
         Gets all rosettacode impls in dev set which has a label
     """
-    tasknames = db.rd.hkeys('rosettacode-label-algoname')
+    tasknames = db.rd.smembers('rosettacode-label-devset')
     results = []
     for taskname in tasknames:
         # get python impl

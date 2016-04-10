@@ -25,25 +25,21 @@ def store_label_redis():
     rd = redis.StrictRedis(host='localhost', port=6379, db=0)
     labelfile = list(open('labelfile.txt'))
     random.shuffle(labelfile)
-    devset = labelfile[:-150]
-    testset = labelfile[-150:]
-    for line in devset:
+    devset = frozenset(labelfile[:-150])
+    for line in labelfile:
         (task_name, algo_name, is_algo) = line.strip().split('\t')
+        if line in devset:
+            rd.sadd('rosettacode-label-devset', task_name)
+        else:
+            rd.sadd('rosettacode-label-testset', task_name)
         if is_algo == 'y':
             rd.sadd('rosettacode-label-isalgo', task_name)
         if len(algo_name) > 0:
             rd.hset('rosettacode-label-algoname', task_name, algo_name)
 
-    for line in testset:
-        (task_name, algo_name, is_algo) = line.strip().split('\t')
-        if is_algo == 'y':
-            rd.sadd('rosettacode-test-label-isalgo', task_name)
-        if len(algo_name) > 0:
-            rd.hset('rosettacode-test-label-algoname', task_name, algo_name)
-
 def main():
-    store_rosettacode_cassandra()
-    # store_label_redis()
+    #store_rosettacode_cassandra()
+    store_label_redis()
 
 if __name__ == '__main__':
     main()

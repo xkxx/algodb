@@ -47,10 +47,6 @@ class RankingClassifier:
 
     def _train_threshold(self, feature_vector, score_vector):
         # all_algos = get_all_mentioned_algo(db)
-        # feature vector
-        stump_features = list()
-        # score vector
-        stump_scores = list()
         # first try rank training set on trained model
         predictions = self.rankingModel.predict(feature_vector)
         # then train decision stump

@@ -24,6 +24,8 @@ from itertools import chain, combinations
 
 # models
 from RankingClassifier import RankingClassifier
+from NBClassifier import NBClassifier
+from RankingNBClassifier import RankingNBClassifier
 
 # return [(impl, corres_algo)]
 def get_trainable_data(db):
@@ -65,7 +67,21 @@ def print_results(eval_results):
             print metric, ':',
             print 1.0 * sum(eval_results[metric]) / len(eval_results[metric])
 
-def main():
+def inject_sample_experiment(samples):
+    none_count = 0
+    filtered = []
+    for impl in samples:
+        #######
+        if not impl.is_algo or impl.label is None:
+            if none_count > 0:
+                continue
+            none_count += 1
+        #######
+        filtered.append(impl)
+    return filtered
+    # return samples
+
+def main(Classifier):
     db = DB_beans()
     NUM_SPLITS = 5
     all_trainable = get_trainable_data(db)
@@ -74,8 +90,6 @@ def main():
     splits = split_data(all_trainable)
     trains = list(combinations(splits, NUM_SPLITS - 1))
     models = [None] * NUM_SPLITS
-    # select classifier
-    Classifier = RankingClassifier
 
     eval_results = Classifier.init_results()
 
@@ -83,6 +97,9 @@ def main():
         model = models[i] = Classifier(extract_features, all_algos)
         train_data = list(chain(*trains[i]))
         valid_data = splits[NUM_SPLITS - 1 - i]
+
+        train_data = inject_sample_experiment(train_data)
+        valid_data = inject_sample_experiment(valid_data)
 
         print "Training Set:", len(train_data)
         print "Validation Set:", len(valid_data)
@@ -104,4 +121,11 @@ def main():
     print_results(eval_results)
 
 if __name__ == '__main__':
-    main()
+    if sys.argv[1] == 'RankingClassifier':
+        main(RankingClassifier)
+    elif sys.argv[1] == 'NBClassifier':
+        main(NBClassifier)
+    elif sys.argv[1] == 'RankingNBClassifier':
+        main(RankingNBClassifier)
+    else:
+        print "classifier.py [model]"
