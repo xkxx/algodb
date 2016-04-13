@@ -1,4 +1,4 @@
-from urllib import unquote
+from utils import decode_wiki_title, normalize
 
 class Algorithm:
     def __init__(self, page_title, tag_line=None, description=None):
@@ -19,15 +19,6 @@ class Algorithm:
 
     def __repr__(self):
         return "<Algorithm:%s>" % self.title
-
-def normalize(str):
-    str = ''.join(e for e in str.lower())
-    return '-'.join(str.split())
-
-def decode_wiki_title(wiki_title):
-    unquoted = unquote(wiki_title)
-    title = unquoted.replace('_', ' ')
-    return title
 
 def get_corresponding_algo(algo_name, db):
     algo = Algorithm(decode_wiki_title(algo_name))

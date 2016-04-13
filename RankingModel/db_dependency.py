@@ -8,6 +8,7 @@ class DB_beans:
         self.cs_cw_ = None
         self.es_ = None
         self.rd_ = None
+        self.feature_cache_ = None
         self.cs_rs_impl_ = None
 
     def create_cs(self, keyspace):
@@ -43,6 +44,16 @@ class DB_beans:
         if self.rd_ is None:
             self.create_rd()
         return self.rd_
+
+    @property
+    def feature_cache(self):
+        if self.feature_cache_ is None:
+            self.create_feature_cache()
+        return self.feature_cache_
+
+    # cache
+    def create_feature_cache(self):
+        self.feature_cache_ = redis.StrictRedis(host='localhost', port=6379, db=1)
 
     # es
     def create_es(self):

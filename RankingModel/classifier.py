@@ -16,7 +16,7 @@ from Implementation import get_all_tasks
 import random
 
 # feature extract
-from FeatureExtractor import extract_features
+from FeatureExtractor import extract_features_factory
 
 from db_dependency import DB_beans
 
@@ -86,6 +86,7 @@ def main(Classifier):
     NUM_SPLITS = 5
     all_trainable = get_trainable_data(db)
     all_algos = get_all_mentioned_algo(db)
+    extract_features = extract_features_factory(db)
     print all_trainable
     splits = split_data(all_trainable)
     trains = list(combinations(splits, NUM_SPLITS - 1))
