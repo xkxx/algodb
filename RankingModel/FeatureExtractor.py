@@ -7,6 +7,9 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 vect = TfidfVectorizer(min_df=1)
 
 from algodb.KeywordExtract.code_keyword_extractor import extract_keywords
+
+from algodb.AlgorithmNames.parseWikipedia import get_wiki_page
+
 from collections import namedtuple
 
 """
@@ -25,7 +28,7 @@ def feature(version):
 
         @feature(1)
         def some_feature_function(impl, algo):
-            return float(1)
+            return 0.42
 
     """
     def feature_decorator(extractor):
@@ -148,3 +151,23 @@ def code_funcnames(impl, algo):
 def impl_commentary(impl, algo):
     commentaries = [value for (tag, value) in impl.content if tag == 'commentary']
     return fuzz.partial_ratio('\n '.join(commentaries), algo.title)
+
+"""
+    Features from Wikipedia auto-suggest
+"""
+
+# whether Wikipedia auto-suggest thinks this is a matching page
+@feature(1)
+def wikipedia_auto_suggest(impl, algo):
+    corres_page = get_wiki_page(impl.title)
+    return int(corres_page.title == algo.title)
+
+"""
+    Features of algorithm/non-algorithm
+"""
+
+# whether Wikipedia auto-suggest finds a wikipedia link for the implementation
+@feature(1)
+def wikipedia_auto_suggest_has_link(impl, algo):
+    corres_page = get_wiki_page(impl.title)
+    return int(corres_page is None)
