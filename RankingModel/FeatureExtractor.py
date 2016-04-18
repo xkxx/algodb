@@ -43,16 +43,16 @@ def get_cache_key(feature, impl, algo):
     return ("%s:%s" % (str(impl), str(algo)),
             "%s@%d" % (feature.name, feature.version))
 
-def cache_get_feature(cache, feat, impl, algo):
-    (hkey, hfield) = get_cache_key(feat, impl, algo)
+def cache_get_feature(db, feature, impl, algo):
+    cache = db.feature_cache
+    (hkey, hfield) = get_cache_key(feature, impl, algo)
     if not cache.hexists(hkey, hfield):
-        cache.hset(hkey, hfield, str(feat.extractor(impl, algo)))
+        cache.hset(hkey, hfield, str(feature.extractor(db, impl, algo)))
     return float(cache.hget(hkey, hfield))
 
 def extract_features_factory(db):
-    cache = db.feature_cache
     def extract_features(impl, algo):
-        return [cache_get_feature(cache, feat, impl, algo)
+        return [cache_get_feature(db, feat, impl, algo)
                 for feat in feature_functions]
     return extract_features
 
@@ -64,19 +64,19 @@ def extract_features_factory(db):
 """
 
 @feature(1)
-def title_fuzzy_ratio(impl, algo):
+def title_fuzzy_ratio(db, impl, algo):
     return fuzz.ratio(impl.title, algo.title)
 
 @feature(1)
-def title_fuzzy_partial_ratio(impl, algo):
+def title_fuzzy_partial_ratio(db, impl, algo):
     return fuzz.partial_ratio(impl.title, algo.title)
 
 @feature(1)
-def title_fuzzy_simhash(impl, algo):
+def title_fuzzy_simhash(db, impl, algo):
     return Simhash(impl.title).distance(Simhash(algo.title))
 
 @feature(1)
-def title_tfidf(impl, algo):
+def title_tfidf(db, impl, algo):
     tfidf = vect.fit_transform([impl.title, algo.title])
     return (tfidf * tfidf.T).A[0][1]
 
@@ -85,7 +85,7 @@ def title_tfidf(impl, algo):
 """
 
 @feature(1)
-def iwlinks_fuzzy_ratio(impl, algo):
+def iwlinks_fuzzy_ratio(db, impl, algo):
     max_score = 0.0
     for wikilink in impl.iwlinks:
         score = fuzz.ratio(algo.title, wikilink)
@@ -98,7 +98,7 @@ def iwlinks_fuzzy_ratio(impl, algo):
 """
 
 @feature(1)
-def summary_similarity(impl, algo):
+def summary_similarity(db, impl, algo):
     # get first sentence as summary
     # assume the first sentence is at most 1000 chars long
     impl_sents = sent_tokenize(impl.summary)
@@ -124,7 +124,7 @@ def summary_similarity(impl, algo):
 
 # whether algo's title is a part of the comments
 @feature(1)
-def code_comments(impl, algo):
+def code_comments(db, impl, algo):
     comments = []
     for (tag, value) in impl.content:
         if tag == 'code':
@@ -134,7 +134,7 @@ def code_comments(impl, algo):
 
 # whether algo's title is a part of the function names
 @feature(1)
-def code_funcnames(impl, algo):
+def code_funcnames(db, impl, algo):
     funcnames = []
     for (tag, value) in impl.content:
         if tag == 'code':
@@ -148,7 +148,7 @@ def code_funcnames(impl, algo):
 
 # whether algo's title is a part of the commentary
 @feature(1)
-def impl_commentary(impl, algo):
+def impl_commentary(db, impl, algo):
     commentaries = [value for (tag, value) in impl.content if tag == 'commentary']
     return fuzz.partial_ratio('\n '.join(commentaries), algo.title)
 
@@ -156,11 +156,18 @@ def impl_commentary(impl, algo):
     Features from Wikipedia auto-suggest
 """
 
+def _get_auto_suggest(db, impl):
+    if not db.rd.hexists('rosettacode-title-auto-suggest', impl.title):
+        suggested = get_wiki_page(impl.title)
+        title = suggested.title if suggested is not None else 'None'
+        db.rd.hset('rosettacode-title-auto-suggest', impl.title, title)
+    return db.rd.hget('rosettacode-title-auto-suggest', impl.title)
+
 # whether Wikipedia auto-suggest thinks this is a matching page
 @feature(1)
-def wikipedia_auto_suggest(impl, algo):
-    corres_page = get_wiki_page(impl.title)
-    return int(corres_page.title == algo.title)
+def wikipedia_auto_suggest(db, impl, algo):
+    suggested_title = _get_auto_suggest(db, impl)
+    return int(suggested_title == algo.title)
 
 """
     Features of algorithm/non-algorithm
@@ -168,6 +175,6 @@ def wikipedia_auto_suggest(impl, algo):
 
 # whether Wikipedia auto-suggest finds a wikipedia link for the implementation
 @feature(1)
-def wikipedia_auto_suggest_has_link(impl, algo):
-    corres_page = get_wiki_page(impl.title)
-    return int(corres_page is None)
+def wikipedia_auto_suggest_has_link(db, impl, algo):
+    suggested_title = _get_auto_suggest(db, impl)
+    return int(suggested_title is 'None')
