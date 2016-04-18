@@ -100,7 +100,7 @@ def main(Classifier):
         valid_data = splits[NUM_SPLITS - 1 - i]
 
         train_data = inject_sample_experiment(train_data)
-        valid_data = inject_sample_experiment(valid_data)
+        #valid_data = inject_sample_experiment(valid_data)
 
         print "Training Set:", len(train_data)
         print "Validation Set:", len(valid_data)
