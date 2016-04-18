@@ -157,17 +157,17 @@ def impl_commentary(impl, algo):
 """
 
 # whether Wikipedia auto-suggest thinks this is a matching page
-@feature(1)
+#@feature(1)
 def wikipedia_auto_suggest(impl, algo):
     corres_page = get_wiki_page(impl.title)
-    return int(corres_page.title == algo.title)
+    return int(corres_page is not None and corres_page.title == algo.title)
 
 """
     Features of algorithm/non-algorithm
 """
 
 # whether Wikipedia auto-suggest finds a wikipedia link for the implementation
-@feature(1)
+#@feature(1)
 def wikipedia_auto_suggest_has_link(impl, algo):
     corres_page = get_wiki_page(impl.title)
     return int(corres_page is None)
