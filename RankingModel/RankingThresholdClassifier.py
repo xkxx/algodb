@@ -5,7 +5,7 @@ from sklearn.tree import DecisionTreeClassifier
 # ranking
 from collections import Counter
 
-class RankingClassifier:
+class RankingThresholdClassifier:
     def __init__(self, extract_features, all_algos, num_neg=1):
         self.rankingModel = None
         self.thresholdModel = None
@@ -85,15 +85,17 @@ class RankingClassifier:
     def init_results():
         return {
             'corrects': [],
-            'recranks': []
+            'recranks': [],
+            'false-positive': []
         }
 
-    def eval(self, sample, prediction, results):
+    def eval(self, sample, prediction, eval_results):
         (guess, result) = prediction
         keys = zip(*result)[0]
         print "Top Rank:", result[0:3]
         rank = None
         if sample.label is None:
+            eval_results['false-positive'].append(int(guess is not None))
             if guess == sample.label:
                 rank = 1
             else:
@@ -101,7 +103,7 @@ class RankingClassifier:
         else:
             rank = keys.index(sample.label) + 1
         print "Rank of Correct Algo:", rank
-        results['recranks'].append(1.0 / rank)
+        eval_results['recranks'].append(1.0 / rank)
 
     def print_model(self):
         print "Coef: ", self.rankingModel.coef_

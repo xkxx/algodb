@@ -1,7 +1,6 @@
 import random
 # using support vector regression: features -> ranking score
 from sklearn import svm
-from sklearn.tree import DecisionTreeClassifier
 # ranking
 from collections import Counter
 
@@ -46,7 +45,7 @@ class RankingClassifier:
         self.rankingModel = clf
 
     def train(self, data):
-        (feature_vector, score_vector, task_vector) = self._create_training_vectors(data)
+        (feature_vector, score_vector) = self._create_training_vectors(data)
         # first train ranking model
         self._train_ranking(feature_vector, score_vector)
 

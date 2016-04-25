@@ -27,7 +27,6 @@ class PairwiseNBClassifier:
         if len(positives) == 0:
             return (None, positives)
         # pick best positive
-
         (topcand, sorted_positives) = self.rankingModel.classify(sample, positives)
         return (topcand, sorted_positives)
 

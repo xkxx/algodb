@@ -23,7 +23,7 @@ from db_dependency import DB_beans
 from itertools import chain, combinations
 
 # models
-from RankingClassifier import RankingClassifier
+from RankingThresholdClassifier import RankingThresholdClassifier
 from NBClassifier import NBClassifier
 from RankingNBClassifier import RankingNBClassifier
 from PairwiseNBClassifier import PairwiseNBClassifier
