@@ -3,6 +3,7 @@ from sklearn import svm
 from sklearn.naive_bayes import GaussianNB
 # ranking
 from collections import Counter
+from RankingClassifier import RankingClassifier
 
 class PairwiseNBClassifier:
     def __init__(self, extract_features, all_algos, num_neg=1):
@@ -10,49 +11,28 @@ class PairwiseNBClassifier:
         self.all_algos = all_algos
         self._extract_features = extract_features
         self.num_neg = num_neg
+        self.rankingModel = RankingClassifier(extract_features, all_algos, num_neg)
 
     def _create_training_vectors(self, data):
-        # feature vector
-        feature_vector = list()
-        # score vector
-        score_vector = list()
-        algo_names = self.all_algos
-
-        CORRESPONDING = 1
-        NON_CORRESPONDING = 0
-
-        for task in data:
-            if task.label is not None and task.is_algo:
-                # positive training example
-                feature_vector.append(self._extract_features(task, task.label))
-                score_vector.append(CORRESPONDING)
-
-            # negative training example
-            for i in range(self.num_neg):
-                random_algo = None
-                while (random_algo is None or random_algo == task.label):
-                    random_algo = random.choice(algo_names)
-                feature_vector.append(self._extract_features(task, random_algo))
-                score_vector.append(NON_CORRESPONDING)
-
-        return (feature_vector, score_vector)
+        return self.rankingModel._create_training_vectors(data)
 
     def classify(self, sample):
         positives = []
         for cand in self.all_algos:
             sample_features = self._extract_features(sample, cand)
             [result] = self.NBModel.predict([sample_features])
-            prob = self.NBModel.predict_log_proba([sample_features])[0][1]  # prob of positive
+            # prob = self.NBModel.predict_log_proba([sample_features])[0][1]  # prob of positive
             if result == 1:
-                positives.append((prob, cand))
+                positives.append(cand)
         if len(positives) == 0:
             return (None, positives)
         # pick best positive
-        sorted_positive = sorted(positives)
-        best = positives[0][1]  # cand
-        return (best, positives)
+
+        (topcand, sorted_positives) = self.rankingModel.classify(sample, positives)
+        return (topcand, sorted_positives)
 
     def _train(self, data):
+        self.rankingModel.train(data)
         (feature_vector, score_vector) = \
             self._create_training_vectors(data)
         clf = GaussianNB()
@@ -77,7 +57,7 @@ class PairwiseNBClassifier:
             if len(cands) == 0:
                 eval_results['in-positive-set'].append(0)
             else:
-                (_, found_algos) = zip(*cands)
+                (found_algos, _) = zip(*cands)
                 eval_results['in-positive-set'].append(
                     int(sample.label in found_algos))
         else:

@@ -66,7 +66,7 @@ def validation(model, samples, eval_results):
         model.eval(impl, prediction, eval_results)
 
 def print_results(eval_results):
-    for metric in ['corrects', 'recranks']:
+    for metric in ['corrects', 'recranks', 'in-positive-set', 'false-positive']:
         if metric in eval_results:
             print metric, ':',
             print 1.0 * sum(eval_results[metric]) / len(eval_results[metric])
@@ -134,9 +134,7 @@ if __name__ == '__main__':
     parser.add_argument('--balanced_dev', '-bd', action="store_true", dest="balanced_test", default=False)
     args = parser.parse_args(sys.argv[1:])
 
-    if args.classifier == 'RankingClassifier' or \
-       args.classifier == 'NBClassifier' or \
-       args.classifier == 'RankingNBClassifier':
+    if args.classifier:
         main(eval(args.classifier), args.balanced_train, args.balanced_test)
     else:
         print parser.print_help()
