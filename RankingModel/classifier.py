@@ -128,9 +128,9 @@ def main(Classifier, balanced_train, balanced_test):
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
-    parser.add_argument('--classifier', action="store", dest="classifier", default="RankingClassifier")
-    parser.add_argument('--balanced_train', action="store_true", dest="balanced_train", default=False)
-    parser.add_argument('--balanced_test', action="store_true", dest="balanced_test", default=False)
+    parser.add_argument('--classifier', '-c', action="store", dest="classifier", default="RankingClassifier")
+    parser.add_argument('--balanced_train', '-bt', action="store_true", dest="balanced_train", default=False)
+    parser.add_argument('--balanced_dev', '-bd', action="store_true", dest="balanced_test", default=False)
     args = parser.parse_args(sys.argv[1:])
 
     if args.classifier == 'RankingClassifier' or \
