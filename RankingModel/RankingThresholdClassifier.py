@@ -4,7 +4,6 @@ from sklearn import svm
 from sklearn.tree import DecisionTreeClassifier
 # ranking
 from collections import Counter
-from itertools import izip
 
 class RankingClassifier:
     def __init__(self, extract_features, all_algos, num_neg=1):
@@ -19,9 +18,6 @@ class RankingClassifier:
         feature_vector = list()
         # score vector
         score_vector = list()
-        # task_vector
-        task_vector = list()
-        # I give up
         algo_names = self.all_algos
 
         CORRESPONDING = 1.0
@@ -32,7 +28,6 @@ class RankingClassifier:
                 # positive training example
                 feature_vector.append(self._extract_features(task, task.label))
                 score_vector.append(CORRESPONDING)
-                task_vector.append(task)
 
             # negative training example
             for i in range(self.num_neg):
@@ -41,9 +36,8 @@ class RankingClassifier:
                     random_algo = random.choice(algo_names)
                 feature_vector.append(self._extract_features(task, random_algo))
                 score_vector.append(NON_CORRESPONDING)
-                task_vector.append(task)
 
-        return (feature_vector, score_vector, task_vector)
+        return (feature_vector, score_vector)
 
     def _train_ranking(self, feature_vector, score_vector):
         clf = svm.LinearSVR()
@@ -51,17 +45,12 @@ class RankingClassifier:
         clf.fit(feature_vector, score_vector)
         self.rankingModel = clf
 
-    def _train_threshold(self, feature_vector, score_vector, task_vector):
+    def _train_threshold(self, feature_vector, score_vector):
         # all_algos = get_all_mentioned_algo(db)
         # first try rank training set on trained model
         predictions = self.rankingModel.predict(feature_vector)
         # then train decision stump
-        # stump_wiki_features = [
-        #     self._extract_features(task, None, only=['wikipedia_auto_suggest_has_link'])[0]
-        #     for task in task_vector]
-        # stump_features = [list(x) for x in izip(predictions, stump_wiki_features)]
         stump_features = [[x] for x in predictions]
-        print stump_features
         stump_scores = [1 if score == 1 else -1 for score in score_vector]
 
         clf = DecisionTreeClassifier()
@@ -69,10 +58,10 @@ class RankingClassifier:
         self.thresholdModel = clf
 
     def train(self, data):
-        (feature_vector, score_vector, task_vector) = self._create_training_vectors(data)
+        (feature_vector, score_vector) = self._create_training_vectors(data)
         # first train ranking model
         self._train_ranking(feature_vector, score_vector)
-        self._train_threshold(feature_vector, score_vector, task_vector)
+        self._train_threshold(feature_vector, score_vector)
 
     def _classify_rank(self, sample):
         ranks = Counter()
@@ -88,7 +77,6 @@ class RankingClassifier:
         results = self._classify_rank(sample)
         (topcand, toprank) = results[0]
         guess = None
-        wiki_feature = self._extract_features(sample, None, only=['wikipedia_auto_suggest_has_link'])[0]
         if self.thresholdModel.predict([[toprank]]) == 1:
             guess = topcand
         return (guess, results)

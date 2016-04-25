@@ -26,6 +26,7 @@ from itertools import chain, combinations
 from RankingClassifier import RankingClassifier
 from NBClassifier import NBClassifier
 from RankingNBClassifier import RankingNBClassifier
+from PairwiseNBClassifier import PairwiseNBClassifier
 
 # parsing command line arguments
 import argparse
@@ -95,7 +96,7 @@ def main(Classifier, balanced_train, balanced_test):
     trains = list(combinations(splits, NUM_SPLITS - 1))
     models = [None] * NUM_SPLITS
 
-    eval_results = Classifier.init_results()
+    eval_stats = Classifier.init_results()
 
     for i in range(NUM_SPLITS):
         model = models[i] = Classifier(extract_features, all_algos)
@@ -118,13 +119,13 @@ def main(Classifier, balanced_train, balanced_test):
 
         print "Verifying..."
 
-        validation(model, valid_data, eval_results)
+        validation(model, valid_data, eval_stats)
 
     print "Models:"
     for m in models:
         model.print_model()
     print "Results:"
-    print_results(eval_results)
+    print_results(eval_stats)
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
