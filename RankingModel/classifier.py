@@ -27,6 +27,9 @@ from RankingClassifier import RankingClassifier
 from NBClassifier import NBClassifier
 from RankingNBClassifier import RankingNBClassifier
 
+# parsing command line arguments
+import argparse
+
 # return [(impl, corres_algo)]
 def get_trainable_data(db):
     tasks = get_all_tasks(db)
@@ -81,7 +84,7 @@ def inject_sample_experiment(samples):
     return filtered
     # return samples
 
-def main(Classifier):
+def main(Classifier, balanced_train, balanced_test):
     db = DB_beans()
     NUM_SPLITS = 5
     all_trainable = get_trainable_data(db)
@@ -99,8 +102,10 @@ def main(Classifier):
         train_data = list(chain(*trains[i]))
         valid_data = splits[NUM_SPLITS - 1 - i]
 
-        train_data = inject_sample_experiment(train_data)
-        #valid_data = inject_sample_experiment(valid_data)
+        if balanced_train:
+            train_data = inject_sample_experiment(train_data)
+        if balanced_test:
+            valid_data = inject_sample_experiment(valid_data)
 
         print "Training Set:", len(train_data)
         print "Validation Set:", len(valid_data)
@@ -122,11 +127,15 @@ def main(Classifier):
     print_results(eval_results)
 
 if __name__ == '__main__':
-    if sys.argv[1] == 'RankingClassifier':
-        main(RankingClassifier)
-    elif sys.argv[1] == 'NBClassifier':
-        main(NBClassifier)
-    elif sys.argv[1] == 'RankingNBClassifier':
-        main(RankingNBClassifier)
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--classifier', action="store", dest="classifier", default="RankingClassifier")
+    parser.add_argument('--balanced_train', action="store_true", dest="balanced_train", default=False)
+    parser.add_argument('--balanced_test', action="store_true", dest="balanced_test", default=False)
+    args = parser.parse_args(sys.argv[1:])
+
+    if args.classifier == 'RankingClassifier' or \
+       args.classifier == 'NBClassifier' or \
+       args.classifier == 'RankingNBClassifier':
+        main(eval(args.classifier), args.balanced_train, args.balanced_test)
     else:
-        print "classifier.py [model]"
+        print parser.print_help()
