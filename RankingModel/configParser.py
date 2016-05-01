@@ -1,4 +1,4 @@
-import cson
+import json
 from BinaryNBModel import BinaryNBModel
 from RankingModel import RankingModel
 from ThresholdModel import ThresholdModel
@@ -9,9 +9,17 @@ modelMap = {
     'ThresholdModel': ThresholdModel
 }
 
+defaultConfig = {
+    "balanced_train": False,
+    "balanced_test": False,
+    "num_splits": 5,
+    "workflow": []
+}
+
 def read_config(filename, override):
+    config = defaultConfig.copy()
     # load config from file
-    config = cson.load(open(filename))
+    config.update(json.load(open(filename)))
     # inject override
     config.update(override)
     assert isinstance(config['workflow'], list)

@@ -3,7 +3,7 @@ from ModelBase import ModelBase
 
 class BinaryNBModel(ModelBase):
     def __init__(self, extract_features, all_algos, num_neg=1, limit_features=None):
-        super(extract_features, all_algos, num_neg, limit_features)
+        super(BinaryNBModel, self).__init__(extract_features, all_algos, num_neg, limit_features)
         self.model = None
 
     def clone(self):

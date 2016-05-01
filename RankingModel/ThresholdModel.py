@@ -4,7 +4,7 @@ from ModelBase import ModelBase
 class ThresholdModel(ModelBase):
     def __init__(self, extract_features, all_algos, rankingModel=None,
             num_neg=1, base=DecisionTreeClassifier, use_rank_score=True, limit_features=[]):
-        super(extract_features, all_algos, num_neg, limit_features)
+        super(ThresholdModel, self).__init__(extract_features, all_algos, num_neg, limit_features)
         # store params
         self.rankingModel = rankingModel
         self.thresholdModel = None
@@ -14,11 +14,11 @@ class ThresholdModel(ModelBase):
     def clone(self):
         return ThresholdModel(self._extract_features, self.all_algos,
             self.rankingModel, self.num_neg,
-            self.base, self.use_rank_score, self.limit_features)
+            self.BaseModel, self.use_rank_score, self.limit_features)
 
     def _get_feature_vector(self, impl, algo):
         feature_vector = self._extract_features(impl, algo,
-            limit_features=self.use_features)
+            limit_features=self.limit_features)
         if self.use_rank_score:
             assert self.rankingModel is not None
             (_, all_ranks) = self.rankingModel.classify(impl, candidates=[algo])

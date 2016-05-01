@@ -1,8 +1,8 @@
 import random
 
 # abstract base class of Models
-class ModelBase:
-    def __init__(self, extract_features, all_algos, num_neg=1, limit_features=None):
+class ModelBase(object):
+    def __init__(self, extract_features, all_algos, num_neg, limit_features):
         # store params
         self.all_algos = all_algos
         self._extract_features = extract_features

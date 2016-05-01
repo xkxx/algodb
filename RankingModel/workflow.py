@@ -4,7 +4,7 @@ class ModelWorkflow:
 
     def train(self, train_data):
         for model in self.workflow:
-            model.train_data()
+            model.train(train_data)
 
     def classify(self, sample):
         predictions = []

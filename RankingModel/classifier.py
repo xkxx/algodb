@@ -134,4 +134,4 @@ def main(config):
 
 if __name__ == '__main__':
     args = parseArgs()
-    main(read_config(args.config_file, vars(args)))
+    main(read_config(args.config_file[0], vars(args)))
