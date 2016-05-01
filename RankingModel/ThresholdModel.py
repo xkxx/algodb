@@ -43,7 +43,7 @@ class ThresholdModel(ModelBase):
     def classify(self, sample, candidate=None):
         # required for now because threshold should trail other models
         assert candidate is not None
-        features = [self._get_feature_vector(sample, candidate)]
+        features = self._get_feature_vector(sample, candidate)
         guess = None
 
         if self.thresholdModel.predict([features]) == 1:
@@ -63,24 +63,29 @@ class ThresholdModel(ModelBase):
 
     def eval(self, sample, prediction, eval_results):
         (guess, candidate) = prediction
+        result_class = None
 
         if sample.label is None or not sample.is_algo:
             # candidate must be wrong
             if guess is None:
-                eval_results['true-negative'][0] += 1
+                result_class = 'true-negative'
             else:
-                eval_results['false-positive'][0] += 1
+                result_class = 'false-positive'
         # sample.label is not None
         elif sample.label == candidate:
             if guess is None:
-                eval_results['false-negative'][0] += 1
+                result_class = 'false-negative'
             else:  # guess == sample.label
-                eval_results['true-positive'][0] += 1
+                result_class = 'true-positive'
         else:  # candidate is wrong
             if guess is None:
-                eval_results['wrong-negative'][0] += 1
+                result_class = 'wrong-negative'
             else:  # guess is not None
-                eval_results['wrong-positive'][0] += 1
+                result_class = 'wrong-positive'
+
+        print '  Threshold:', result_class
+        eval_results[result_class][0] += 1
 
     def print_model(self):
-        print "Threshold: ", self.thresholdModel.tree_
+        print 'Model: ', repr(self.thresholdModel)
+        print "  Threshold: ", self.thresholdModel.tree_

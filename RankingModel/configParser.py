@@ -34,4 +34,17 @@ def load_models(config, extract_features, all_algos):
         params = config.copy()
         del params['model']
         return modelMap[model](extract_features, all_algos, **params)
-    return map(create_model, config['workflow'])
+    workflow = map(create_model, config['workflow'])
+    # monkey patch thresholdModel
+    threshold_patch(workflow)
+    return workflow
+
+# patch thresholdModel to ensure it has correctly linked rankingModel
+def threshold_patch(models):
+    rankingModel = None
+    for model in models:
+        if isinstance(model, RankingModel):
+            rankingModel = model
+        if isinstance(model, ThresholdModel):
+            assert model.use_rank_score == (rankingModel is not None)
+            model.rankingModel = rankingModel

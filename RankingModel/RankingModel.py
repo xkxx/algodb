@@ -51,12 +51,15 @@ class RankingModel(ModelBase):
 
         if sample.label is not None and sample.is_algo:
             keys = zip(*result)[0]
-            print "Top Rank:", result[0:3]
+            if sample.label not in keys:
+                print "  Correct label not in candidate set"
+                return
+            print "  Top Rank:", result[0:3]
             rank = keys.index(sample.label) + 1
-            print "Rank of Correct Algo:", rank
+            print "  Rank of Correct Algo:", rank
             results['recranks'].append(1.0 / rank)
             results['correct|inset'].append(sample.label == guess)
 
     def print_model(self):
-        print "Coef: ", self.rankingModel.coef_
-        print "Threshold: ", self.thresholdModel.tree_
+        print '  Model: ', repr(self.model)
+        print "  Coef: ", self.model.coef_

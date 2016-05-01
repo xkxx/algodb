@@ -1,16 +1,16 @@
+# utility
+from collections import namedtuple
+
+# extraction helper
 from fuzzywuzzy import fuzz
 from simhash import Simhash
 from nltk.tokenize import sent_tokenize, word_tokenize
 from nltk.corpus import stopwords
-
+from algodb.KeywordExtract.code_keyword_extractor import extract_keywords
+from algodb.AlgorithmNames.parseWikipedia import get_wiki_page
 from sklearn.feature_extraction.text import TfidfVectorizer
 vect = TfidfVectorizer(min_df=1)
 
-from algodb.KeywordExtract.code_keyword_extractor import extract_keywords
-
-from algodb.AlgorithmNames.parseWikipedia import get_wiki_page
-
-from collections import namedtuple
 
 """
     Support Functions
@@ -52,7 +52,8 @@ def cache_get_feature(db, feature, impl, algo):
 
 def extract_features_factory(db):
     def extract_features(impl, algo, limit_features=None):
-        features = limit_features or [f.name for f in feature_functions]  # all
+        features = (limit_features if limit_features is not None else
+                [f.name for f in feature_functions])  # all
         return [cache_get_feature(db, feat, impl, algo)
                 for feat in feature_functions
                 if feat.name in features]

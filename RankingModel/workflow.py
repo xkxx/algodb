@@ -1,3 +1,5 @@
+from configParser import threshold_patch
+
 class ModelWorkflow:
     def __init__(self, models):
         self.workflow = models
@@ -33,8 +35,9 @@ class ModelWorkflow:
     def print_results(self, eval_results):
         for i in range(len(self.workflow)):
             model = self.workflow[i]
-            print model.__name__, ':'
+            print model.__class__.__name__, ':'
             model.print_results(eval_results[i])
+            print
 
     def print_model(self):
         for model in self.workflow:
@@ -43,4 +46,6 @@ class ModelWorkflow:
 
     def clone(self):
         newworkflow = [model.clone() for model in self.workflow]
+        # monkey patching
+        threshold_patch(newworkflow)
         return ModelWorkflow(newworkflow)

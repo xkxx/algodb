@@ -14,8 +14,8 @@ class BinaryNBModel(ModelBase):
         positives = []
         for cand in self.all_algos:
             sample_features = self._extract_features(sample, cand)
-            [result] = self.NBModel.predict([sample_features])
-            # prob = self.NBModel.predict_log_proba([sample_features])[0][1]  # prob of positive
+            [result] = self.model.predict([sample_features])
+            # prob = self.model.predict_log_proba([sample_features])[0][1]  # prob of positive
             if result == 1:
                 positives.append(cand)
         return (positives,)
@@ -38,7 +38,7 @@ class BinaryNBModel(ModelBase):
         }
 
     def eval(self, sample, prediction, eval_results):
-        (_, positive) = prediction
+        (positive,) = prediction
         if sample.label is not None and sample.is_algo:
             if len(positive) == 0:
                 eval_results['in-positive-set'].append(0)
@@ -46,8 +46,9 @@ class BinaryNBModel(ModelBase):
                 eval_results['in-positive-set'].append(
                     int(sample.label in positive))
 
-        print "Candidates: ", positive
+        print "  Candidates: ", positive
 
     def print_model(self):
-        print "Priors: ", self.model.class_prior_
-        print 'Theta: ', self.model.theta_
+        print 'Model: ', repr(self.model)
+        print "  Priors: ", self.model.class_prior_
+        print '  Theta: ', self.model.theta_

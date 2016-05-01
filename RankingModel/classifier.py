@@ -60,7 +60,7 @@ def print_results(model, eval_results):
     corrects = overall_stats['corrects']
     print "Overall Accuracy: ", 1.0 * sum(corrects) / len(corrects)
     print "Model Specific Stats:\n"
-    model.print_results(eval_results)
+    model.print_results(specific_stats)
 
 def validation(model, samples, eval_results):
     (overall_stats, specific_stats) = eval_results
@@ -70,9 +70,11 @@ def validation(model, samples, eval_results):
         prediction = model.classify(impl)
         guess = prediction[0]
         print "Prediction:", guess
-        overall_stats['corrects'].append(guess == impl.label)
+        overall_stats['corrects'].append(
+            guess == (impl.label if impl.is_algo else None))
         # classifier-defined metrics
         model.eval(impl, prediction, specific_stats)
+        print
 
 def inject_sample_experiment(samples):
     none_count = 0
