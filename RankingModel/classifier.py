@@ -58,7 +58,7 @@ def create_eval_stats(model):
 def print_results(model, eval_results):
     (overall_stats, specific_stats) = eval_results
     corrects = overall_stats['corrects']
-    print "Overall Accuracy: ", 1.0 * sum(corrects) / len(corrects)
+    print "Overall Accuracy: \t", 1.0 * sum(corrects) / len(corrects)
     print "Model Specific Stats:\n"
     model.print_results(specific_stats)
 

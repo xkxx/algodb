@@ -34,7 +34,8 @@ class BinaryNBModel(ModelBase):
     @staticmethod
     def init_results():
         return {
-            'in-positive-set': []
+            'in-positive-set': [],
+            'non-empty|negative': []
         }
 
     def eval(self, sample, prediction, eval_results):
@@ -45,6 +46,8 @@ class BinaryNBModel(ModelBase):
             else:
                 eval_results['in-positive-set'].append(
                     int(sample.label in positive))
+        else:
+            eval_results['non-empty|negative'].append(int(len(positive) != 0))
 
         print "  Candidates: ", positive
 
