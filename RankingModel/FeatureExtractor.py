@@ -51,10 +51,11 @@ def cache_get_feature(db, feature, impl, algo):
     return float(cache.hget(hkey, hfield))
 
 def extract_features_factory(db):
-    def extract_features(impl, algo, only=[f.name for f in feature_functions]):
+    def extract_features(impl, algo, limit_features=None):
+        features = limit_features or [f.name for f in feature_functions]  # all
         return [cache_get_feature(db, feat, impl, algo)
                 for feat in feature_functions
-                if feat.name in only]
+                if feat.name in features]
     return extract_features
 
 """

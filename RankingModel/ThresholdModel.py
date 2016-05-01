@@ -1,52 +1,37 @@
-import random
-# using support vector regression: features -> ranking score
-from sklearn import svm
 from sklearn.tree import DecisionTreeClassifier
-from sklearn.naive_bayes import GaussianNB
-# ranking
-from collections import Counter
+from ModelBase import ModelBase
 
-class ThresholdModel:
-    def __init__(self, extract_features, all_algos, rankingModel,
-            num_neg=1, base=DecisionTreeClassifier):
+class ThresholdModel(ModelBase):
+    def __init__(self, extract_features, all_algos, rankingModel=None,
+            num_neg=1, base=DecisionTreeClassifier, use_rank_score=True, limit_features=[]):
+        super(extract_features, all_algos, num_neg, limit_features)
+        # store params
         self.rankingModel = rankingModel
         self.thresholdModel = None
         self.BaseModel = base
-        self.all_algos = all_algos
-        self._extract_features = extract_features
-        self.num_neg = num_neg
+        self.use_rank_score = use_rank_score
 
-    def get_feature_vector(self, impl, algo):
-        return self.rankingModel.predict([self._extract_features(impl, algo)])
+    def clone(self):
+        return ThresholdModel(self._extract_features, self.all_algos,
+            self.rankingModel, self.num_neg,
+            self.base, self.use_rank_score, self.limit_features)
 
-    def _create_training_vectors(self, data):
-        # feature vector
-        feature_vector = []
-        # score vector
-        score_vector = []
-        algo_names = self.all_algos
-
-        CORRESPONDING = 1.0
-        NON_CORRESPONDING = 0.0
-
-        for task in data:
-            if task.label is not None and task.is_algo:
-                # positive training example
-                feature_vector.append(self.get_feature_vector(task, task.label))
-                score_vector.append(CORRESPONDING)
-
-            # negative training example
-            for i in range(self.num_neg):
-                random_algo = None
-                while (random_algo is None or random_algo == task.label):
-                    random_algo = random.choice(algo_names)
-                feature_vector.append(self.get_feature_vector(task, random_algo))
-                score_vector.append(NON_CORRESPONDING)
-
-        return (feature_vector, score_vector)
+    def _get_feature_vector(self, impl, algo):
+        feature_vector = self._extract_features(impl, algo,
+            limit_features=self.use_features)
+        if self.use_rank_score:
+            assert self.rankingModel is not None
+            (_, all_ranks) = self.rankingModel.classify(impl, candidates=[algo])
+            feature_vector.append(all_ranks[0][1])
+        return feature_vector
 
     def _train_threshold(self, feature_vector, score_vector):
-        clf = self.BaseModel(max_depth=2, presort=True)
+        params = {}
+        if self.BaseModel == DecisionTreeClassifier:
+            # special convinient params for decision tree
+            params = {'max_depth': len(feature_vector[0]), 'presort': True}
+
+        clf = self.BaseModel(**params)
         clf.fit(feature_vector, score_vector)
         self.thresholdModel = clf
 
@@ -55,8 +40,10 @@ class ThresholdModel:
         # first train ranking model
         self._train_threshold(feature_vector, score_vector)
 
-    def classify(self, sample, candidate):
-        features = [self.get_feature_vector(sample, candidate)]
+    def classify(self, sample, candidate=None):
+        # required for now because threshold should trail other models
+        assert candidate is not None
+        features = [self._get_feature_vector(sample, candidate)]
         guess = None
 
         if self.thresholdModel.predict([features]) == 1:
@@ -66,18 +53,18 @@ class ThresholdModel:
     @staticmethod
     def init_results():
         return {
-            'corrects': [],
             'true-positive': [0],
             'false-positive': [0],
             'true-negative': [0],
             'false-negative': [0],
-            'wrong-top-cand': [0]
+            'wrong-negative': [0],
+            'wrong-positive': [0]
         }
 
     def eval(self, sample, prediction, eval_results):
         (guess, candidate) = prediction
 
-        if sample.label is None:
+        if sample.label is None or not sample.is_algo:
             # candidate must be wrong
             if guess is None:
                 eval_results['true-negative'][0] += 1
@@ -91,9 +78,9 @@ class ThresholdModel:
                 eval_results['true-positive'][0] += 1
         else:  # candidate is wrong
             if guess is None:
-                eval_results['none|wrong-cand'][0] += 1
+                eval_results['wrong-negative'][0] += 1
             else:  # guess is not None
-                eval_results['wrong|wrong-cand'][0] += 1
+                eval_results['wrong-positive'][0] += 1
 
     def print_model(self):
         print "Threshold: ", self.thresholdModel.tree_
