@@ -53,7 +53,7 @@ class RankingThresholdClassifier:
         stump_features = [[x] for x in predictions]
         stump_scores = [1 if score == 1 else -1 for score in score_vector]
 
-        clf = DecisionTreeClassifier()
+        clf = DecisionTreeClassifier(max_depth=2, presort=True)
         clf.fit(stump_features, stump_scores)
         self.thresholdModel = clf
 
@@ -73,7 +73,8 @@ class RankingThresholdClassifier:
             ranks[cand] = result
         return ranks.most_common()
 
-    def classify(self, sample):
+    def classify(self, sample, candidates=None):
+        candidates = candidates or self.all_algos
         results = self._classify_rank(sample)
         (topcand, toprank) = results[0]
         guess = None

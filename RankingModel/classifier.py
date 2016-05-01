@@ -66,8 +66,10 @@ def validation(model, samples, eval_results):
         model.eval(impl, prediction, eval_results)
 
 def print_results(eval_results):
-    for metric in ['corrects', 'recranks', 'in-positive-set', 'false-positive']:
-        if metric in eval_results:
+    """
+    assume all metrics needs percentage calc
+    """
+    for metric in eval_results:
             print metric, ':',
             print 1.0 * sum(eval_results[metric]) / len(eval_results[metric])
 

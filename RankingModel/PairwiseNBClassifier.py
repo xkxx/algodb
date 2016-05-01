@@ -3,7 +3,7 @@ from sklearn import svm
 from sklearn.naive_bayes import GaussianNB
 # ranking
 from collections import Counter
-from RankingClassifier import RankingClassifier
+from RankingThresholdClassifier import RankingThresholdClassifier
 
 class PairwiseNBClassifier:
     def __init__(self, extract_features, all_algos, num_neg=1):
@@ -11,7 +11,7 @@ class PairwiseNBClassifier:
         self.all_algos = all_algos
         self._extract_features = extract_features
         self.num_neg = num_neg
-        self.rankingModel = RankingClassifier(extract_features, all_algos, num_neg)
+        self.rankingModel = RankingThresholdClassifier(extract_features, all_algos, num_neg)
 
     def _create_training_vectors(self, data):
         return self.rankingModel._create_training_vectors(data)
@@ -47,7 +47,8 @@ class PairwiseNBClassifier:
         return {
             'corrects': [],
             'in-positive-set': [],
-            'false-positive': []
+            'false-positive': [],
+            'correct|positive': []
         }
 
     def eval(self, sample, prediction, eval_results):
@@ -56,6 +57,7 @@ class PairwiseNBClassifier:
             if len(cands) == 0:
                 eval_results['in-positive-set'].append(0)
             else:
+                eval_results['correct|positive'].append(int(best == sample.label))
                 (found_algos, _) = zip(*cands)
                 eval_results['in-positive-set'].append(
                     int(sample.label in found_algos))
