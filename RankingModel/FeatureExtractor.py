@@ -177,10 +177,10 @@ def wikipedia_auto_suggest(db, impl, algo):
 """
 
 # whether Wikipedia auto-suggest finds a wikipedia link for the implementation
-@feature(3)
+@feature(4)
 def wikipedia_auto_suggest_has_link(db, impl, algo):
     suggested_title = _get_auto_suggest(db, impl)
-    return int(suggested_title == 'None')
+    return int(suggested_title != 'None')
 
 @feature(1)
 def title_has_algorithm(db, impl, algo):
