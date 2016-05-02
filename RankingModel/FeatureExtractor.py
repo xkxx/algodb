@@ -188,4 +188,4 @@ def title_has_algorithm(db, impl, algo):
 
 @feature(1)
 def description_has_algorithm(db, impl, algo):
-    return int('algorithm' in impl.description.lower())
+    return int('algorithm' in impl.summary.lower())

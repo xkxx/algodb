@@ -5,7 +5,7 @@ from utils import is_positive
 
 class FilterModel(ModelBase):
     def __init__(self, extract_features, all_algos,
-            num_neg=1, base=GaussianNB, limit_features=[]):
+            num_neg=1, base=DecisionTreeClassifier, limit_features=[]):
         super(FilterModel, self).__init__(extract_features, all_algos, num_neg, limit_features)
         # store params
         self.model = None
@@ -72,4 +72,5 @@ class FilterModel(ModelBase):
 
     def print_model(self):
         print '  Model: ', repr(self.model)
-        print "  Tree: ", self.model.tree_
+        #print "  Prior: ", self.model.class_prior_
+        #print "  Theta: ", self.model.theta_
