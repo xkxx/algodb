@@ -56,8 +56,8 @@ class ModelBase(object):
                 the impl to classify
             candidates:
                 algo | [algo] | None, depending on the output of the last model
-                every model must be able to handle [algo]
-                a filter-type model must be able to handle algo | None
+                every model must be able to handle [algo] and None
+                a threshold-type model must be able to handle algo
 
             return: (result, ...diagnostic_data)
 

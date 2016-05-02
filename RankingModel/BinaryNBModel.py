@@ -55,6 +55,6 @@ class BinaryNBModel(ModelBase):
         print "  Candidates: ", positive
 
     def print_model(self):
-        print 'Model: ', repr(self.model)
+        print '  Model: ', repr(self.model)
         print "  Priors: ", self.model.class_prior_
         print '  Theta: ', self.model.theta_

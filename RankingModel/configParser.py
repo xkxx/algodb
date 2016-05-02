@@ -2,11 +2,13 @@ import json
 from BinaryNBModel import BinaryNBModel
 from RankingModel import RankingModel
 from ThresholdModel import ThresholdModel
+from FilterModel import FilterModel
 
 modelMap = {
     'BinaryNBModel': BinaryNBModel,
     'RankingModel': RankingModel,
-    'ThresholdModel': ThresholdModel
+    'ThresholdModel': ThresholdModel,
+    'FilterModel': FilterModel
 }
 
 defaultConfig = {

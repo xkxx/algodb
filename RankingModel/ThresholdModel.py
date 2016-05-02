@@ -42,18 +42,14 @@ class ThresholdModel(ModelBase):
         self._train_threshold(feature_vector, score_vector)
 
     def classify(self, sample, candidate):
+        assert type(candidate) != list
         if candidate is None:
             # nothing to do
             return (None, None)
         features = self._get_feature_vector(sample, candidate)
         prediction = self.thresholdModel.predict([features]) == 1
 
-        if type(candidate) != list:
-            # threshold model is used for final filter
-            return (candidate if prediction else None, candidate)
-        else:
-            # threshold is being run first, need to return list of candidates
-            return (self.all_algos if prediction else [], None)
+        return (candidate if prediction else None, candidate)
 
     @staticmethod
     def init_results():
@@ -70,7 +66,6 @@ class ThresholdModel(ModelBase):
         (guess, candidate) = prediction
         result_class = None
 
-        # TODO: what if candidate is list (as filter)?
         # TODO: what if candidate is None?
         if not is_positive(sample):
             # candidate must be wrong
@@ -94,5 +89,5 @@ class ThresholdModel(ModelBase):
         eval_results[result_class][0] += 1
 
     def print_model(self):
-        print 'Model: ', repr(self.thresholdModel)
+        print '  Model: ', repr(self.thresholdModel)
         print "  Threshold: ", self.thresholdModel.tree_
