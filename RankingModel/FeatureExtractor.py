@@ -181,3 +181,11 @@ def wikipedia_auto_suggest(db, impl, algo):
 def wikipedia_auto_suggest_has_link(db, impl, algo):
     suggested_title = _get_auto_suggest(db, impl)
     return int(suggested_title == 'None')
+
+@feature(1)
+def title_has_algorithm(db, impl, algo):
+    return int('algorithm' in impl.title.lower())
+
+@feature(1)
+def description_has_algorithm(db, impl, algo):
+    return int('algorithm' in impl.description.lower())

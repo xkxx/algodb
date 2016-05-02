@@ -2,7 +2,8 @@
   "workflow": [
     {
       "model": "FilterModel",
-      "limit_features": ["wikipedia_auto_suggest_has_link"],
+      "limit_features": ["wikipedia_auto_suggest_has_link", "title_has_algorithm",
+        "description_has_algorithm"],
       "num_neg": 1
     },
     {
