@@ -1,11 +1,12 @@
 from sklearn.tree import DecisionTreeClassifier
 from sklearn.naive_bayes import GaussianNB
+from sklearn.linear_model import LogisticRegression
 from ModelBase import ModelBase
 from utils import is_positive, export_tree
 
 class FilterModel(ModelBase):
     def __init__(self, extract_features, all_algos,
-            num_neg=1, base=DecisionTreeClassifier, limit_features=[]):
+            num_neg=1, base=LogisticRegression, limit_features=[]):
         super(FilterModel, self).__init__(extract_features, all_algos, num_neg, limit_features)
         # store params
         self.model = None
@@ -72,5 +73,5 @@ class FilterModel(ModelBase):
 
     def print_model(self):
         print '  Model: ', repr(self.model)
-        print '  Tree exported.'
-        export_tree(self.model)
+        # print '  Tree exported.'
+        # export_tree(self.model)
