@@ -11,10 +11,6 @@ class ModelBase(object):
         self.limit_features = limit_features
 
     def _get_feature_vector(self, impl, algo):
-        print 'sample:', impl
-
-        features = self._extract_features(impl, algo, self.limit_features)
-        print 'feature:', impl
         return self._extract_features(impl, algo, self.limit_features)
 
     def _create_training_vectors(self, data):
