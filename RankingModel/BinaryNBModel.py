@@ -12,6 +12,8 @@ class BinaryNBModel(ModelBase):
             self.num_neg, self.limit_features)
 
     def classify(self, sample, candidates):
+        if candidates is None:
+            return (None,)
         assert type(candidates) == list
         # candidates = candidates if candidates is not None else self.all_algos
         positives = []
@@ -43,6 +45,8 @@ class BinaryNBModel(ModelBase):
 
     def eval(self, sample, prediction, eval_results):
         (positive,) = prediction
+        if positive is None:
+            return
         if is_positive(sample):
             if len(positive) == 0:
                 eval_results['in-positive-set'].append(0)

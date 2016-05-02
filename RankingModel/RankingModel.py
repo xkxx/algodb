@@ -35,6 +35,8 @@ class RankingModel(ModelBase):
         return ranks.most_common()
 
     def classify(self, sample, candidates):
+        if candidates is None:
+            return (None, [])
         assert type(candidates) == list
         # print 'ranking:', candidates
         # candidates = candidates if candidates is not None else self.all_algos
@@ -55,7 +57,7 @@ class RankingModel(ModelBase):
         (guess, result) = prediction
 
         if is_positive(sample):
-            keys = zip(*result)[0]
+            keys = zip(*result)[0] if len(result) != 0 else []
             if sample.label not in keys:
                 print "  Correct label not in candidate set"
                 return
