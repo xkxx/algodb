@@ -167,19 +167,17 @@ def _get_auto_suggest(db, impl):
     return db.rd.hget('rosettacode-title-auto-suggest', impl.title)
 
 # whether Wikipedia auto-suggest thinks this is a matching page
-@feature(1)
+@feature(2)
 def wikipedia_auto_suggest(db, impl, algo):
     suggested_title = _get_auto_suggest(db, impl)
-    return int(suggested_title == algo.title)
+    return fuzz.ratio(suggested_title, algo.title)
 
 """
     Features of algorithm/non-algorithm
 """
 
 # whether Wikipedia auto-suggest finds a wikipedia link for the implementation
-@feature(1)
+@feature(3)
 def wikipedia_auto_suggest_has_link(db, impl, algo):
     suggested_title = _get_auto_suggest(db, impl)
-    print "impl:", impl
-    print "suggested_title", suggested_title
-    return int(suggested_title is 'None')
+    return int(suggested_title == 'None')
