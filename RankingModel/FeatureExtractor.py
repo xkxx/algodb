@@ -180,4 +180,6 @@ def wikipedia_auto_suggest(db, impl, algo):
 @feature(1)
 def wikipedia_auto_suggest_has_link(db, impl, algo):
     suggested_title = _get_auto_suggest(db, impl)
+    print "impl:", impl
+    print "suggested_title", suggested_title
     return int(suggested_title is 'None')
