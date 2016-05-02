@@ -1,7 +1,7 @@
 from sklearn.tree import DecisionTreeClassifier
 from sklearn.naive_bayes import GaussianNB
 from ModelBase import ModelBase
-from utils import is_positive
+from utils import is_positive, export_tree
 
 class FilterModel(ModelBase):
     def __init__(self, extract_features, all_algos,
@@ -74,3 +74,5 @@ class FilterModel(ModelBase):
         print '  Model: ', repr(self.model)
         #print "  Prior: ", self.model.class_prior_
         #print "  Theta: ", self.model.theta_
+        print '  Tree exported.'
+        export_tree(self.model)
