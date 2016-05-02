@@ -1,10 +1,11 @@
 from sklearn.tree import DecisionTreeClassifier
+from sklearn.naive_bayes import GaussianNB
 from ModelBase import ModelBase
 from utils import is_positive
 
 class FilterModel(ModelBase):
     def __init__(self, extract_features, all_algos,
-            num_neg=1, base=DecisionTreeClassifier, limit_features=[]):
+            num_neg=1, base=GaussianNB, limit_features=[]):
         super(FilterModel, self).__init__(extract_features, all_algos, num_neg, limit_features)
         # store params
         self.model = None

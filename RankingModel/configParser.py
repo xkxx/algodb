@@ -27,9 +27,6 @@ def read_config(filename, override):
     assert isinstance(config['workflow'], list)
     return config
 
-def get_models(config):
-    return [modelMap[model] for model in config['workflow']]
-
 def load_models(config, extract_features, all_algos):
     def create_model(config):
         model = config['model']
