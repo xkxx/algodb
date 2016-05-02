@@ -3,6 +3,7 @@ from sklearn import svm
 # ranking
 from collections import Counter
 from ModelBase import ModelBase
+from utils import is_positive
 
 class RankingModel(ModelBase):
     def __init__(self, extract_features, all_algos, num_neg=1, limit_features=None):
@@ -33,9 +34,13 @@ class RankingModel(ModelBase):
             ranks[cand] = result
         return ranks.most_common()
 
-    def classify(self, sample, candidates=None):
-        candidates = candidates or self.all_algos
+    def classify(self, sample, candidates):
+        assert type(candidates) == list
+        # print 'ranking:', candidates
+        # candidates = candidates if candidates is not None else self.all_algos
         results = self._classify_rank(sample, candidates)
+        if len(results) == 0:
+            return (None, results)
         (topcand, toprank) = results[0]
         return (topcand, results)
 
@@ -49,7 +54,7 @@ class RankingModel(ModelBase):
     def eval(self, sample, prediction, results):
         (guess, result) = prediction
 
-        if sample.label is not None and sample.is_algo:
+        if is_positive(sample):
             keys = zip(*result)[0]
             if sample.label not in keys:
                 print "  Correct label not in candidate set"

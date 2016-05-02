@@ -15,10 +15,11 @@ import random
 from FeatureExtractor import extract_features_factory
 from db_dependency import DB_beans
 from itertools import chain, combinations
+from utils import is_positive
 
 # parsing arguments and config
 import argparse
-from configParser import read_config, get_models, load_models
+from configParser import read_config, load_models
 from workflow import ModelWorkflow
 
 def parseArgs():
@@ -58,20 +59,21 @@ def create_eval_stats(model):
 def print_results(model, eval_results):
     (overall_stats, specific_stats) = eval_results
     corrects = overall_stats['corrects']
+    print "For ", model
     print "Overall Accuracy: \t", 1.0 * sum(corrects) / len(corrects)
     print "Model Specific Stats:\n"
     model.print_results(specific_stats)
 
-def validation(model, samples, eval_results):
+def validation(model, samples, all_algos, eval_results):
     (overall_stats, specific_stats) = eval_results
     for impl in samples:
         print "Impl:", impl
         print "Algo:", impl.label
-        prediction = model.classify(impl)
+        prediction = model.classify(impl, all_algos)
         guess = prediction[0]
         print "Prediction:", guess
         overall_stats['corrects'].append(
-            guess == (impl.label if impl.is_algo else None))
+            guess == (impl.label if is_positive(impl) else None))
         # classifier-defined metrics
         model.eval(impl, prediction, specific_stats)
         print
@@ -80,7 +82,7 @@ def inject_sample_experiment(samples):
     none_count = 0
     filtered = []
     for impl in samples:
-        if not impl.is_algo or impl.label is None:
+        if not is_positive(impl):
             if none_count > 0:
                 continue
             none_count += 1
@@ -126,11 +128,12 @@ def main(config):
 
         print "Verifying..."
 
-        validation(model, valid_data, eval_stats)
+        validation(model, valid_data, all_algos, eval_stats)
 
     print "Models:"
     for m in models:
         model.print_model()
+    print
     print "Results:"
     print_results(workflow, eval_stats)
 

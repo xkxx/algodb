@@ -1,4 +1,5 @@
 import random
+from utils import is_positive
 
 # abstract base class of Models
 class ModelBase(object):
@@ -23,7 +24,7 @@ class ModelBase(object):
         NON_CORRESPONDING = 0.0
 
         for task in data:
-            if task.label is not None and task.is_algo:
+            if is_positive(task):
                 # positive training example
                 feature_vector.append(self._get_feature_vector(task, task.label))
                 score_vector.append(CORRESPONDING)
@@ -47,7 +48,24 @@ class ModelBase(object):
             print '  ', metric, ':\t',
             print 1.0 * sum(eval_results[metric]) / len(eval_results[metric])
 
-    def classify(self, sample):
+    def classify(self, sample, candidates):
+        """
+            input: (sample, candidates)
+
+            sample:
+                the impl to classify
+            candidates:
+                algo | [algo] | None, depending on the output of the last model
+                every model must be able to handle [algo]
+                a filter-type model must be able to handle algo | None
+
+            return: (result, ...diagnostic_data)
+
+            result:
+                algo | [algo] | None, depending on the op of the model
+            diagnostic_data:
+                data used for self-eval later down the line
+        """
         raise NotImplementedError()
 
     def train(self, data):
@@ -62,3 +80,9 @@ class ModelBase(object):
     def clone(self):
         "Create a clone with itself, without the trained state"
         raise NotImplementedError()
+
+    def __str__(self):
+        return ".%s." % (self.__class__.__name__)
+
+    def __repr__(self):
+        return self.__str__()

@@ -10,4 +10,7 @@ def decode_wiki_title(wiki_title):
     title = unquoted.replace('_', ' ')
     return title
 
+def is_positive(impl):
+    return impl.label is not None and impl.is_algo
+
 term = Terminal()

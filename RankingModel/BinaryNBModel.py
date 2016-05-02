@@ -1,5 +1,6 @@
 from sklearn.naive_bayes import GaussianNB
 from ModelBase import ModelBase
+from utils import is_positive
 
 class BinaryNBModel(ModelBase):
     def __init__(self, extract_features, all_algos, num_neg=1, limit_features=None):
@@ -10,9 +11,11 @@ class BinaryNBModel(ModelBase):
         return BinaryNBModel(self._extract_features, self.all_algos,
             self.num_neg, self.limit_features)
 
-    def classify(self, sample):
+    def classify(self, sample, candidates):
+        assert type(candidates) == list
+        # candidates = candidates if candidates is not None else self.all_algos
         positives = []
-        for cand in self.all_algos:
+        for cand in candidates:
             sample_features = self._extract_features(sample, cand)
             [result] = self.model.predict([sample_features])
             # prob = self.model.predict_log_proba([sample_features])[0][1]  # prob of positive
@@ -40,7 +43,7 @@ class BinaryNBModel(ModelBase):
 
     def eval(self, sample, prediction, eval_results):
         (positive,) = prediction
-        if sample.label is not None and sample.is_algo:
+        if is_positive(sample):
             if len(positive) == 0:
                 eval_results['in-positive-set'].append(0)
             else:

@@ -8,21 +8,20 @@ class ModelWorkflow:
         for model in self.workflow:
             model.train(train_data)
 
-    def classify(self, sample):
+    def classify(self, sample, candidates):
         predictions = []
-        cur = []  # [] is a poor man's `maybe` #monad
+        cur = candidates
         for model in self.workflow:
             # each model takes at most 2 params:
             # 1: the sample to classify
-            # 2: an optional intermediate val from the last model
-            classify_input = [sample] + cur
-            prediction = model.classify(*classify_input)
+            # 2: an intermediate val from the last model
+            prediction = model.classify(sample, cur)
             # each model returns n values in a tuple:
             # 1: the final prediction, or intermediate val to the next model
             # rest: info needed for eval
             predictions.append(prediction)
-            cur = [prediction[0]]
-        return (cur[0], predictions)
+            cur = prediction[0]
+        return (cur, predictions)
 
     def init_results(self):
         return [model.init_results() for model in self.workflow]
@@ -35,13 +34,19 @@ class ModelWorkflow:
     def print_results(self, eval_results):
         for i in range(len(self.workflow)):
             model = self.workflow[i]
-            print model.__class__.__name__, ':'
+            print model, ':'
             model.print_results(eval_results[i])
             print
 
+    def __str__(self):
+        return '{Workflow: %s}' % ('->'.join([str(model) for model in self.workflow]))
+
+    def __repr__(self):
+        return self.__str__()
+
     def print_model(self):
         for model in self.workflow:
-            print model.__class__.__name__, ':'
+            print model, ':'
             model.print_model()
 
     def clone(self):

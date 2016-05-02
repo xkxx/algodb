@@ -1,5 +1,6 @@
 from sklearn.tree import DecisionTreeClassifier
 from ModelBase import ModelBase
+from utils import is_positive
 
 class ThresholdModel(ModelBase):
     def __init__(self, extract_features, all_algos, rankingModel=None,
@@ -40,15 +41,19 @@ class ThresholdModel(ModelBase):
         # first train ranking model
         self._train_threshold(feature_vector, score_vector)
 
-    def classify(self, sample, candidate=None):
-        # required for now because threshold should trail other models
-        assert candidate is not None
+    def classify(self, sample, candidate):
+        if candidate is None:
+            # nothing to do
+            return (None, None)
         features = self._get_feature_vector(sample, candidate)
-        guess = None
+        prediction = self.thresholdModel.predict([features]) == 1
 
-        if self.thresholdModel.predict([features]) == 1:
-            guess = candidate
-        return (guess, candidate)
+        if type(candidate) != list:
+            # threshold model is used for final filter
+            return (candidate if prediction else None, candidate)
+        else:
+            # threshold is being run first, need to return list of candidates
+            return (self.all_algos if prediction else [], None)
 
     @staticmethod
     def init_results():
@@ -65,7 +70,9 @@ class ThresholdModel(ModelBase):
         (guess, candidate) = prediction
         result_class = None
 
-        if sample.label is None or not sample.is_algo:
+        # TODO: what if candidate is list (as filter)?
+        # TODO: what if candidate is None?
+        if not is_positive(sample):
             # candidate must be wrong
             if guess is None:
                 result_class = 'true-negative'
