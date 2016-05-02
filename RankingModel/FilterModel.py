@@ -31,7 +31,10 @@ class FilterModel(ModelBase):
 
     def classify(self, sample, candidates):
         assert candidates is not None and type(candidates) == list
+        print 'sample:', sample
+
         features = self._get_feature_vector(sample, None)
+        print 'feature:', features
 
         if self.model.predict([features]) == 1:
             return (candidates,)
