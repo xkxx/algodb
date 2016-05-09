@@ -1,21 +1,21 @@
 # using support vector regression: features -> ranking score
-from sklearn import svm
+from sklearn.svm import LinearSVR
 # ranking
 from collections import Counter
 from ModelBase import ModelBase
 from utils import is_positive
 
 class RankingModel(ModelBase):
-    def __init__(self, extract_features, all_algos, num_neg=1, limit_features=None):
-        super(RankingModel, self).__init__(extract_features, all_algos, num_neg, limit_features)
+    def __init__(self, extract_features, all_algos, base=LinearSVR, num_neg=1, limit_features=None):
+        super(RankingModel, self).__init__(extract_features, all_algos, base, num_neg, limit_features)
         self.model = None
 
     def clone(self):
-        return RankingModel(self._extract_features, self.all_algos,
+        return RankingModel(self._extract_features, self.all_algos, self.BaseModel,
             self.num_neg, self.limit_features)
 
     def _train_ranking(self, feature_vector, score_vector):
-        clf = svm.LinearSVR()
+        clf = self.BaseModel()
         # train
         clf.fit(feature_vector, score_vector)
         self.model = clf

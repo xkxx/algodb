@@ -62,7 +62,6 @@ def print_results(model, eval_results):
     print "For ", model
     print "Overall Accuracy: \t", 1.0 * sum(corrects) / len(corrects)
     print "Model Specific Stats:\n"
-    print specific_stats
     model.print_results(specific_stats)
 
 def validation(model, samples, all_algos, eval_results):

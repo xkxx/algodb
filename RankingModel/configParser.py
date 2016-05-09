@@ -4,11 +4,23 @@ from RankingModel import RankingModel
 from ThresholdModel import ThresholdModel
 from FilterModel import FilterModel
 
+from sklearn.tree import DecisionTreeClassifier
+from sklearn.naive_bayes import GaussianNB
+from sklearn.linear_model import LogisticRegression
+from sklearn.svm import LinearSVR
+
 modelMap = {
     'BinaryNBModel': BinaryNBModel,
     'RankingModel': RankingModel,
     'ThresholdModel': ThresholdModel,
     'FilterModel': FilterModel
+}
+
+baseModelMap = {
+    'DecisionTreeClassifier': DecisionTreeClassifier,
+    'GaussianNB': GaussianNB,
+    'LogisticRegression': LogisticRegression,
+    'LinearSVR': LinearSVR
 }
 
 defaultConfig = {
@@ -32,6 +44,8 @@ def load_models(config, extract_features, all_algos):
         model = config['model']
         params = config.copy()
         del params['model']
+        if 'base' in params:
+            params['base'] = baseModelMap[params['base']]
         return modelMap[model](extract_features, all_algos, **params)
     workflow = map(create_model, config['workflow'])
     # monkey patch thresholdModel

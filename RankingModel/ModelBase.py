@@ -3,10 +3,11 @@ from utils import is_positive
 
 # abstract base class of Models
 class ModelBase(object):
-    def __init__(self, extract_features, all_algos, num_neg, limit_features):
+    def __init__(self, extract_features, all_algos, base, num_neg, limit_features):
         # store params
         self.all_algos = all_algos
         self._extract_features = extract_features
+        self.BaseModel = base
         self.num_neg = num_neg
         self.limit_features = limit_features
 

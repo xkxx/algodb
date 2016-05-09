@@ -2,18 +2,8 @@
   "workflow": [
     {
       "model": "FilterModel",
-      "limit_features": ["wikipedia_auto_suggest_has_link", "title_has_algorithm",
-        "description_has_algorithm"],
       "use_pairwise_features": true,
       "pairwise_limit_features": ["title_fuzzy_ratio", "title_fuzzy_partial_ratio",
-        "title_fuzzy_simhash", "title_tfidf", "iwlinks_fuzzy_ratio",
-        "summary_similarity", "code_comments", "code_funcnames",
-        "impl_commentary", "wikipedia_auto_suggest"],
-      "num_neg": 1
-    },
-    {
-      "model": "BinaryNBModel",
-      "limit_features": ["title_fuzzy_ratio", "title_fuzzy_partial_ratio",
         "title_fuzzy_simhash", "title_tfidf", "iwlinks_fuzzy_ratio",
         "summary_similarity", "code_comments", "code_funcnames",
         "impl_commentary", "wikipedia_auto_suggest"],

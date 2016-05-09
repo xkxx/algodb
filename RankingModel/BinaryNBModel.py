@@ -3,12 +3,12 @@ from ModelBase import ModelBase
 from utils import is_positive
 
 class BinaryNBModel(ModelBase):
-    def __init__(self, extract_features, all_algos, num_neg=1, limit_features=None):
-        super(BinaryNBModel, self).__init__(extract_features, all_algos, num_neg, limit_features)
+    def __init__(self, extract_features, all_algos, base=GaussianNB, num_neg=1, limit_features=None):
+        super(BinaryNBModel, self).__init__(extract_features, all_algos, base, num_neg, limit_features)
         self.model = None
 
     def clone(self):
-        return BinaryNBModel(self._extract_features, self.all_algos,
+        return BinaryNBModel(self._extract_features, self.all_algos, self.BaseModel,
             self.num_neg, self.limit_features)
 
     def classify(self, sample, candidates):
@@ -18,7 +18,7 @@ class BinaryNBModel(ModelBase):
         # candidates = candidates if candidates is not None else self.all_algos
         positives = []
         for cand in candidates:
-            sample_features = self._extract_features(sample, cand)
+            sample_features = self._get_feature_vector(sample, cand)
             [result] = self.model.predict([sample_features])
             # prob = self.model.predict_log_proba([sample_features])[0][1]  # prob of positive
             if result == 1:
@@ -28,7 +28,7 @@ class BinaryNBModel(ModelBase):
     def _train(self, data):
         (feature_vector, score_vector) = \
             self._create_training_vectors(data)
-        clf = GaussianNB()
+        clf = self.BaseModel()
         # train
         clf.fit(feature_vector, score_vector)
         self.model = clf

@@ -3,19 +3,18 @@ from ModelBase import ModelBase
 from utils import is_positive
 
 class ThresholdModel(ModelBase):
-    def __init__(self, extract_features, all_algos, rankingModel=None,
-            num_neg=1, base=DecisionTreeClassifier, use_rank_score=True, limit_features=[]):
-        super(ThresholdModel, self).__init__(extract_features, all_algos, num_neg, limit_features)
+    def __init__(self, extract_features, all_algos, base=DecisionTreeClassifier,
+            rankingModel=None, num_neg=1, use_rank_score=True, limit_features=[]):
+        super(ThresholdModel, self).__init__(extract_features, all_algos, base, num_neg, limit_features)
         # store params
         self.rankingModel = rankingModel
         self.thresholdModel = None
-        self.BaseModel = base
         self.use_rank_score = use_rank_score
 
     def clone(self):
-        return ThresholdModel(self._extract_features, self.all_algos,
+        return ThresholdModel(self._extract_features, self.all_algos, self.BaseModel,
             self.rankingModel, self.num_neg,
-            self.BaseModel, self.use_rank_score, self.limit_features)
+            self.use_rank_score, self.limit_features)
 
     def _get_feature_vector(self, impl, algo):
         feature_vector = self._extract_features(impl, algo,
