@@ -1,5 +1,5 @@
 import random
-from utils import is_positive
+from utils import is_positive, print_f1
 
 # abstract base class of Models
 class ModelBase(object):
@@ -48,6 +48,8 @@ class ModelBase(object):
         for metric in eval_results:
             print '  ', metric, ':\t',
             print 1.0 * sum(eval_results[metric]) / len(eval_results[metric])
+        if 'true-positive' in eval_results:
+            print_f1(eval_results)
 
     def classify(self, sample, candidates):
         """

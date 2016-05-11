@@ -11,6 +11,10 @@ from Implementation import get_all_tasks
 # for randomly sampling negative training example
 import random
 
+# numpy
+import numpy as np
+import scipy.stats
+
 # feature extract
 from FeatureExtractor import extract_features_factory
 from db_dependency import DB_beans
@@ -51,9 +55,10 @@ def split_data(data, k):
         splits.append(data[cur_start:(cur_start + min(per_split, left))])
     return splits
 
-def create_eval_stats(model):
+def create_eval_stats(model, NUM_SPLITS):
     return ({
-        'corrects': []
+        'corrects': [],
+        'corrects-perrun': [[]] * NUM_SPLITS
     }, model.init_results())
 
 def print_results(model, eval_results):
@@ -61,10 +66,16 @@ def print_results(model, eval_results):
     corrects = overall_stats['corrects']
     print "For ", model
     print "Overall Accuracy: \t", 1.0 * sum(corrects) / len(corrects)
+    accuracy_perrun = [1.0 * sum(corrects) / len(corrects) for corrects in overall_stats['corrects-perrun']]
+    print "Standard Deviation: \t", np.std(np.array(accuracy_perrun))
+    mean = np.mean(accuracy_perrun)
+    se = scipy.stats.sem(accuracy_perrun)
+    h = se * scipy.stats.t_ppf((1+0.95)/2.0, 4)
+    print "Confidence Level: \t", mean - h, mean + h
     print "Model Specific Stats:\n"
     model.print_results(specific_stats)
 
-def validation(model, samples, all_algos, eval_results):
+def validation(model, samples, all_algos, eval_results, i):
     (overall_stats, specific_stats) = eval_results
     for impl in samples:
         print "Impl:", impl
@@ -72,8 +83,9 @@ def validation(model, samples, all_algos, eval_results):
         prediction = model.classify(impl, all_algos)
         guess = prediction[0]
         print "Prediction:", guess
-        overall_stats['corrects'].append(
-            guess == (impl.label if is_positive(impl) else None))
+        is_correct = (guess == (impl.label if is_positive(impl) else None))
+        overall_stats['corrects'].append(is_correct)
+        overall_stats['corrects-perrun'][i].append(is_correct)
         # classifier-defined metrics
         model.eval(impl, prediction, specific_stats)
         print
@@ -105,7 +117,7 @@ def main(config):
     models = [None] * NUM_SPLITS
     workflow = ModelWorkflow(
         load_models(config, extract_features, all_algos))
-    eval_stats = create_eval_stats(workflow)
+    eval_stats = create_eval_stats(workflow, NUM_SPLITS)
 
     for i in range(NUM_SPLITS):
         model = models[i] = workflow.clone()
@@ -128,7 +140,7 @@ def main(config):
 
         print "Verifying..."
 
-        validation(model, valid_data, all_algos, eval_stats)
+        validation(model, valid_data, all_algos, eval_stats, i)
 
     print "Models:"
     for m in models:

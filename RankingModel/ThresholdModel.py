@@ -1,6 +1,6 @@
 from sklearn.tree import DecisionTreeClassifier
 from ModelBase import ModelBase
-from utils import is_positive
+from utils import is_positive, init_f1_metrics
 
 class ThresholdModel(ModelBase):
     def __init__(self, extract_features, all_algos, base=DecisionTreeClassifier,
@@ -52,19 +52,18 @@ class ThresholdModel(ModelBase):
 
     @staticmethod
     def init_results():
-        return {
-            'true-positive': [0],
-            'false-positive': [0],
-            'true-negative': [0],
-            'false-negative': [0],
+        metrics = init_f1_metrics()
+        metrics.update({
             'wrong-negative': [0],
             'wrong-positive': [0]
-        }
+        })
+        return metrics
 
     def eval(self, sample, prediction, eval_results):
         (guess, candidate) = prediction
         result_class = None
-
+        if candidate == None:
+            return
         # TODO: what if candidate is None?
         if not is_positive(sample):
             # candidate must be wrong
@@ -84,7 +83,8 @@ class ThresholdModel(ModelBase):
             else:  # guess is not None
                 result_class = 'wrong-positive'
 
-        print '  Threshold:', result_class
+        print '  Threshold:', guess
+        print '  Class:', result_class
         eval_results[result_class][0] += 1
 
     def print_model(self):

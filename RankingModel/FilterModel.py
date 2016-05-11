@@ -1,7 +1,7 @@
 from sklearn.tree import DecisionTreeClassifier
 from sklearn.naive_bayes import GaussianNB
 from ModelBase import ModelBase
-from utils import is_positive, export_tree
+from utils import is_positive, init_f1_metrics, export_tree
 
 class FilterModel(ModelBase):
     def __init__(self, extract_features, all_algos, base=GaussianNB,
@@ -53,12 +53,7 @@ class FilterModel(ModelBase):
 
     @staticmethod
     def init_results():
-        return {
-            'true-positive': [0],
-            'false-positive': [0],
-            'true-negative': [0],
-            'false-negative': [0]
-        }
+        return init_f1_metrics()
 
     def eval(self, sample, prediction, eval_results):
         (guess,) = prediction
@@ -76,7 +71,8 @@ class FilterModel(ModelBase):
             else:
                 result_class = 'true-negative'
 
-        print '  Filter:', result_class
+        print '  Filter:', guess_is_algo
+        print '  Class:', result_class
         eval_results[result_class][0] += 1
 
     def print_model(self):

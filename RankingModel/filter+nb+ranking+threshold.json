@@ -2,6 +2,8 @@
   "workflow": [
     {
       "model": "FilterModel",
+      "limit_features": ["wikipedia_auto_suggest_has_link", "title_has_algorithm",
+        "description_has_algorithm"],
       "use_pairwise_features": true,
       "pairwise_limit_features": ["title_fuzzy_ratio", "title_fuzzy_partial_ratio",
         "title_fuzzy_simhash", "title_tfidf", "iwlinks_fuzzy_ratio",
@@ -26,7 +28,9 @@
     }, {
       "model": "ThresholdModel",
       "use_rank_score": true,
-      "num_neg": 1
+      "num_neg": 1,
+      "limit_features": ["wikipedia_auto_suggest_has_link", "title_has_algorithm",
+        "description_has_algorithm"]
     }
   ],
   "balanced_train": false,
