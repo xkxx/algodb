@@ -53,10 +53,10 @@ class RankingModel(ModelBase):
             'correct|inset': []
         }
 
-    def eval(self, sample, prediction, results):
+    def eval(self, sample, prediction, eval_results):
         (guess, result) = prediction
 
-        if is_positive(sample):
+        if guess is not None:
             keys = zip(*result)[0] if len(result) != 0 else []
             if sample.label not in keys:
                 print "  Correct label not in candidate set"
@@ -64,8 +64,8 @@ class RankingModel(ModelBase):
             print "  Top Rank:", result[0:3]
             rank = keys.index(sample.label) + 1
             print "  Rank of Correct Algo:", rank
-            results['recranks'].append(1.0 / rank)
-            results['correct|inset'].append(sample.label == guess)
+            eval_results['recranks'].append(1.0 / rank)
+            eval_results['correct|inset'].append(sample.label == guess)
 
     def print_model(self):
         print '  Model: ', repr(self.model)
