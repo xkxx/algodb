@@ -93,7 +93,7 @@ class RankingNBClassifier:
             'corrects': []
         }
 
-    def eval(self, sample, prediction, results):
+    def eval(self, sample, prediction, eval_results):
         pass
 
     def print_model(self):
