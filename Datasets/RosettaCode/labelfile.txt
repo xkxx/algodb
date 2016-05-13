@@ -331,16 +331,16 @@ Random number generator (device)	Hardware random number generator	n
 Self-referential sequence	Self-reference	y
 Record sound	Sound_recording_and_reproduction	n
 Stem-and-leaf plot	Stem-and-leaf_display	y
-URL parser	Uniform_Resource_Locator	y
+URL parser	Uniform_Resource_Locator	n
 Scope/Function names and labels		n
 Polymorphism		n
-Solve a Hidato puzzle	Hidato	y
+Solve a Hidato puzzle	Hidato	n
 Unix/ls	Ls	y
 Stair-climbing puzzle		y
 Text processing/1		n
 Special characters		n
 Rep-string		n
-Truncatable primes		y
+Truncatable primes	Truncatable_prime	y
 Semordnilap	Semordnilap	y
 Semiprime	Semiprime	y
 Range expansion		y
@@ -369,7 +369,7 @@ Solve a Holy Knight's tour		y
 Window creation/X11	X11	n
 Vampire number	Vampire_number	y
 Use another language to call a function	Foreign_function_interface	n
-Random number generator (included)	Random_number_generation	y
+Random number generator (included)	Random_number_generation	n
 Towers of Hanoi	Tower_of_Hanoi	y
 Repeat a string		y
 Sokoban	Sokoban	n
@@ -382,14 +382,14 @@ Substring/Top and tail		n
 Singly-linked list/Element definition	Linked_list	y
 Variable-length quantity	Variable-length_quantity	y
 Write to Windows event log	Event_Viewer	n
-Strip block comments	Block comments	y
+Strip block comments	Block comments	n
 Sorting algorithms/Merge sort	Merge_sort	y
 Walk a directory/Non-recursively		y
-Strip comments from a string	Comment_(computer_programming)	y
+Strip comments from a string	Comment_(computer_programming)	n
 Topswops		y
 Enforced immutability		n
 Color quantization	Color quantization	y
-Deepcopy	Object copying	n
+Deepcopy	Object copying	y
 Averages/Mean angle		n
 Identity matrix		n
 Averages/Mean time of day		n
@@ -402,7 +402,7 @@ Call a function in a shared library		n
 Long multiplication	Multiplication algorithm	y
 Count occurrences of a substring		n
 Function composition	Function composition (computer science)	n
-Four bit adder	Adder (electronics)	y
+Four bit adder	Adder (electronics)	n
 Longest common subsequence	Longest common subsequence problem	y
 Averages/Root mean square	Root mean square	y
 Literals/Integer	Integer	n
@@ -419,11 +419,11 @@ Forest fire	Forest-fire model	y
 Constrained random points on a circle		n
 Parsing/RPN to infix conversion		n
 Atomic updates		n
-Almost prime		n
+Almost prime	Almost prime	y
 Longest increasing subsequence	Longest increasing subsequence	y
 Loop over multiple arrays simultaneously		n
 Empty directory		n
-Flipping bits game	Penney's game	y
+Flipping bits game	Penney's game	n
 Loops/Do-while	Do while loop	n
 Pascal's triangle	Pascal's triangle	y
 Ludic numbers		y
@@ -453,8 +453,8 @@ OLE Automation	OLE Automation	y
 Inheritance/Single		n
 Hostname	Hostname	n
 Hello world/Newbie	"Hello, World!" program	y
-Permutations/Derangements	Permutation	y
-Anagrams/Deranged anagrams	Anagrams	y
+Permutations/Derangements	Derangements	y
+Anagrams/Deranged anagrams	Derangement	y
 Here document	Here document	n
 Hello world/Standard error		n
 Modular exponentiation	Modular exponentiation	y
@@ -480,16 +480,16 @@ Binary strings		n
 Palindrome detection	Palindrome	y
 JortSort		n
 Greatest element of a list	Greatest element	y
-Fractal tree	Fractal tree index	y
+Fractal tree	Fractal	n
 Generate lower case ASCII alphabet		n
 Arrays	Array	n
 Literals/String	String (computer science)	n
-Deconvolution/1D	One-dimensional space	n
+Deconvolution/1D	Deconvolution	y
 Convert seconds to compound duration		n
 Munching squares	Munching square	y
 Higher-order functions		n
 Menu		n
-Left factorials		y
+Left factorials	Derangement	y
 Middle three digits		n
 Digital root/Multiplicative digital root	Digital root	y
 Make directory path		n
@@ -506,7 +506,7 @@ Number names		n
 Globally replace text in several files		n
 Arbitrary-precision integers (included)		n
 Multiplication tables	Multiplication table	n
-Permutation test	Resampling (statistics)	y
+Permutation test	Exact_test	y
 Hello world/Line printer		n
 Maze solving	Maze solving algorithm	y
 Parallel calculations		n
@@ -538,9 +538,9 @@ Casting out nines	Casting out nines	n
 Chat server		n
 Best shuffle	Shuffling	y
 Draw a cuboid	Cuboid	n
-Find largest left truncatable prime in a given base		n
+Find largest left truncatable prime in a given base	Truncatable_prime	y
 Maze generation	Maze generation algorithm	y
-Matrix arithmetic		y
+Matrix arithmetic	Determinant	y
 Circles of given radius through two points		n
 Count in factors		n
 Paraffins	Alkane	n
@@ -558,13 +558,13 @@ Leap year	Leap year	n
 Discordian date	Discordian calendar	n
 Constrained genericity	Bounded quantification	n
 One of n lines in a file		n
-Penney's game	Penney's game	y
+Penney's game	Penney's game	n
 Brownian tree	Brownian tree	y
 Hello world/Graphical		n
 Minesweeper game	Minesweeper (video game)	n
 Integer sequence	Integer sequence	y
 Mouse position		n
-Detect division by zero	Division by zero	y
+Detect division by zero	Division by zero	n
 Keyboard macros		n
 Longest string challenge	Longest common substring problem	y
 Lucas-Lehmer test	Lucas primality test	y
@@ -578,12 +578,12 @@ Catalan numbers	Catalan number	y
 Last letter-first letter		n
 Count in octal		n
 Create an object at a given address		n
-Evaluate binomial coefficients	Binomial coefficient	n
+Evaluate binomial coefficients	Binomial coefficient	y
 Brace expansion		y
 Chinese remainder theorem	Chinese remainder theorem	y
-Checkpoint synchronization		n
-Doubly-linked list/Element definition		n
-24 game/Solve	24 Game	y
+Checkpoint synchronization	Synchronization_(computer_science)	y
+Doubly-linked list/Element definition	Doubly_linked_list	y
+24 game/Solve	24 Game	n
 Execute a system command	Command (computing)	n
 Generic swap	Swap (computer science)	y
 Knapsack problem/Bounded	Knapsack problem	y
@@ -613,20 +613,20 @@ A+B		n
 Number reversal game		n
 N'th		n
 Greyscale bars/Display	Grayscale	n
-Parse an IP Address	IP address	y
+Parse an IP Address	IP address	n
 Median filter	Median filter	y
 Euler method	Euler method	y
 Copy a string		n
 Increment a numerical string		n
-Enumerations	Enumeration	y
+Enumerations	Enumeration	n
 Element-wise operations		y
 Kaprekar numbers	Kaprekar number	y
 GUI/Maximum window dimensions		n
 Heronian triangles	Heronian triangle	y
 Anonymous recursion	Anonymous recursion	n
 Hash join	Hash join	y
-Entropy	Entropy (computing)	y
-Nautical bell		n
+Entropy	Entropy_(information_theory)	y
+Nautical bell	Ship%27s_bell	n
 Assertions	Assertion (software development)	n
 Monty Hall problem	Monty Hall problem	y
 Active Directory/Search for a user	Active Directory	n
@@ -666,21 +666,21 @@ Fork	Fork (system call)	n
 Doubly-linked list/Definition	Doubly linked list	n
 Handle a signal		n
 Environment variables	Environment variable	n
-Closures/Value capture	Closure (computer programming)	y
+Closures/Value capture	Closure (computer programming)	n
 Caesar cipher	Caesar cipher	y
 Convert decimal number to rational		n
 HTTPS	HTTPS	n
-Bulls and cows	Bulls and Cows	y
+Bulls and cows	Bulls and Cows	n
 Fibonacci sequence	Fibonacci number	y
 Honeycombs	Honeycomb (geometry)	n
-9 billion names of God the integer	The Nine Billion Names of God	y
+9 billion names of God the integer	The Nine Billion Names of God	n
 Catamorphism	Catamorphism	n
-99 Bottles of Beer	99 Bottles of Beer	y
+99 Bottles of Beer	99 Bottles of Beer	n
 Dutch national flag problem	Dutch national flag problem	y
 Boolean values	Boolean data type	n
 Aliquot sequence classifications	Aliquot sequence	y
 IBAN	International Bank Account Number	y
-Deal cards for FreeCell	FreeCell	y
+Deal cards for FreeCell	FreeCell	n
 Horner's rule for polynomial evaluation	Horner's method	y
 Letter frequency	Letter frequency	y
 Play recorded sounds		n
@@ -697,7 +697,7 @@ Even or odd	Parity (mathematics)	y
 Move-to-front algorithm	Move-to-front transform	y
 Combinations with repetitions	Combination	y
 Associative array/Iteration	Associative array	n
-Pattern matching	Pattern matching	y
+Pattern matching	Pattern matching	n
 Integer overflow	Integer overflow	n
 Bitmap/PPM conversion through a pipe	Bitmap	n
 Binary search	Binary search algorithm	y
@@ -713,12 +713,12 @@ Forward difference	Finite difference	y
 Greatest common divisor	Greatest common divisor	y
 Look-and-say sequence	Look-and-say sequence	y
 Man or boy test	Man or boy test	y
-Old lady swallowed a fly	There Was an Old Lady Who Swallowed a Fly	y
+Old lady swallowed a fly	There Was an Old Lady Who Swallowed a Fly	n
 Loops/Nested		n
 Averages/Median	Median	y
 Averages/Mode	Mode	y
 N-queens problem	Eight queens puzzle	y
-24 game	24 Game	y
+24 game	24 Game	n
 Array concatenation		n
 Main step of GOST 28147-89	GOST (block cipher)	y
 Hello world/Text		n
@@ -745,33 +745,33 @@ Function frequency		n
 Pick random element		n
 Percolation/Mean run density		y
 Joystick position		n
-Pig the dice game/Player	Pig_(dice_game)	y
+Pig the dice game/Player	Pig_(dice_game)	n
 Metronome	Metronome	y
 Append a record to the end of a text file		n
 Compound data type	Composite_data_type	n
 Galton box animation	Bean_machine	y
-Morse code	Morse_code	y
+Morse code	Morse_code	n
 Date manipulation	Calendar_date	n
 Gaussian elimination	Gaussian_elimination	y
-Echo server	Echo_Protocol	y
+Echo server	Echo_Protocol	n
 Bitmap/Read a PPM file		n
 Grayscale image	Grayscale	n
-Bitmap/Histogram	Image_histogram	y
+Bitmap/Histogram	Image_histogram	n
 Exceptions/Catch an exception thrown in a nested call	Exception_handling	n
-Bulls and cows/Player	Bulls_and_Cows	y
+Bulls and cows/Player	Bulls_and_Cows	n
 Map range		n
 Euler's sum of powers conjecture	Euler%27s_sum_of_powers_conjecture	y
 Flow-control structures	Flow_control_structure	n
 Exceptions	Exception_handling	n
-Lychrel numbers	Lychrel_number	y
+Lychrel numbers	Lychrel_number	n
 Pointers and references	Data_type	n
 Execute SNUSP		y
 Inheritance/Multiple	Object-oriented_programming	n
 Conditional structures	Conditional_(computer_programming)	n
-Non-decimal radices/Output	Radix	y
+Non-decimal radices/Output	Radix	n
 Knapsack problem/Continuous	Knapsack_problem	y
 Numeric error propagation	Propagation_of_uncertainty	y
-Execute Brain****	Brainfuck	y
+Execute Brain****	Brainfuck	n
 Catmull–Clark subdivision surface	Catmull–Clark_subdivision_surface	y
 Find common directory path		n
 Mad Libs	Mad_Libs	n
