@@ -2,7 +2,7 @@ Guess the number/With feedback (player)		n
 Loops/Break	Break_statement	n
 Guess the number/With feedback		n
 Abstract type	Abstract_type	n
-Benford's law	Benford%27s_law	y
+Benford's law	Benford%27s_law	n
 Jensen's Device	Jensen%27s_Device	y
 Perfect numbers	Perfect_number	y
 First-class functions/Use numbers analogously		n
@@ -16,9 +16,9 @@ Call an object method	Object-oriented_programming	n
 Infinity	Infinity	n
 Machine code	Machine_code	n
 Pascal's triangle/Puzzle	Pascal%27s_triangle	y
-Binary digits	Bit	y
+Binary digits	Bit	n
 List comprehensions	List_comprehension	n
-Amb		y
+Amb		n
 Count the coins		n
 Magic squares of odd order	Magic_square	y
 Extend your language		n
@@ -29,38 +29,38 @@ Formal power series	Formal_power_series	y
 Empty string	Empty_string	n
 Combinations and permutations	Combinations_and_permutations	y
 MD4	MD4	y
-OpenGL	OpenGL	y
+OpenGL	OpenGL	n
 Permutations by swapping	Permutation	y
-HTTPS/Authenticated	HTTPS	y
+HTTPS/Authenticated	HTTPS	n
 Matrix-exponentiation operator	Matrix_exponential	y
 Jump anywhere	Branch_(computer_science)	n
 Exponentiation operator	Exponentiation	y
 Pernicious numbers	Pernicious_number	y
 Compare a list of strings		n
-First-class functions	First-class_function	y
+First-class functions	First-class_function	n
 Metered concurrency	Semaphore_(programming)	y
 Command-line arguments	Command_line_arguments	n
 Bitwise IO		n
 Permutations/Rank of a permutation	Permutation	y
 Dynamic variable names		n
-HTTPS/Client-authenticated	HTTPS	y
-Currying	Currying	y
+HTTPS/Client-authenticated	HTTPS	n
+Currying	Currying	n
 K-means++ clustering	K-means%2B%2B	y
-Hickerson series of almost integers		y
+Hickerson series of almost integers		n
 Logical operations	Logical_connective	y
-Bitcoin/address validation	Bitcoin	y
-I before E except after C	I_before_E_except_after_C	y
-Bitcoin/public point to address	Bitcoin	y
+Bitcoin/address validation	Bitcoin	n
+I before E except after C	I_before_E_except_after_C	n
+Bitcoin/public point to address	Bitcoin	n
 Modular inverse	Modular_multiplicative_inverse	y
 Carmichael 3 strong pseudoprimes	Carmichael_number	y
 Bitmap/Bresenham's line algorithm	Bresenham%27s_line_algorithm	y
-Mutual recursion	Mutual_recursion	y
-Bitmap/Write a PPM file	Netpbm	y
+Mutual recursion	Mutual_recursion	n
+Bitmap/Write a PPM file	Netpbm	n
 Address of a variable	Pointer_(computer_programming)	n
 Create a two-dimensional array at runtime	Two-dimensional_array	n
-Collections	Data_structure	y
-Bitmap	Bitmap	y
-Hash from two arrays	Hash_table	y
+Collections	Data_structure	n
+Bitmap	Bitmap	n
+Hash from two arrays	Hash_table	n
 Apply a callback to an array	MapReduce	y
 Flatten a list		y
 Bitmap/Bézier curves/Cubic	Bézier_curve	y
@@ -83,13 +83,13 @@ Average loop length		n
 Arithmetic/Rational	Rational_data_type	y
 Naming conventions	Naming_convention	n
 Compare sorting algorithms' performance	Sorting_algorithm	n
-Events	Event_(computing)	y
+Events	Event_(computing)	n
 Memory allocation	Memory_allocation	n
-Natural sorting	Natural_sort_order	y
+Natural sorting	Natural_sort_order	n
 Continued fraction/Arithmetic/Construct from rational number	Continued_fraction	y
 Extensible prime generator	Formula_for_primes	y
 Plot coordinate pairs	Coordinate_system	n
-Named parameters	Named_parameter	y
+Named parameters	Named_parameter	n
 Multiple regression	Multiple_regression	y
 Add a variable to a class instance at runtime		n
 Odd word problem		y
@@ -107,18 +107,18 @@ Knight's tour	Knight%27s_tour	y
 Miller–Rabin primality test	Miller-Rabin_primality_test	y
 Go Fish	Go_Fish	n
 Knapsack problem/Unbounded	Knapsack_problem	y
-Spiral matrix		y
+Spiral matrix		n
 Read a specific line from a file		n
 Time a function		n
 SEDOLs	SEDOL	n
 Real constants and functions		n
-Rate counter		y
+Rate counter		n
 Zeckendorf arithmetic	Zeckendorf%27s_theorem	y
 Tic-tac-toe	Tic-tac-toe	y
 Rosetta Code/Fix code tags		n
 Ranking methods	Ranking	y
 Write language name in 3D ASCII		n
-Solve the no connection puzzle		y
+Solve the no connection puzzle		n
 Sorting algorithms/Radix sort	Radix_sort	y
 Zeckendorf number representation	Zeckendorf%27s_theorem	y
 Variables	Variable_(computer_science)	n
@@ -132,31 +132,31 @@ SQL-based authentication		n
 Window management	Window_manager	n
 Seven-sided dice from five-sided dice		n
 Sort stability	Stable_sort	y
-Unbias a random generator		y
-Probabilistic choice		y
-System time	System_time	y
-Statistics/Basic	Statistics	y
+Unbias a random generator		n
+Probabilistic choice		n
+System time	System_time	n
+Statistics/Basic	Statistics	n
 Rendezvous	Synchronous rendezvous	y
 String matching	String searching algorithm	y
 QR decomposition	QR decomposition	y
-SOAP	SOAP	y
+SOAP	SOAP	n
 Self-describing numbers	Self-descriptive_number	y
 Xiaolin Wu's line algorithm	Xiaolin Wu's line algorithm	y
 Table creation/Postal addresses		n
-URL decoding	URL encoding	y
+URL decoding		n
 URL encoding	URL encoding	y
 Sorting algorithms/Sleep sort		y
 Resistor mesh		n
-Set	Set (computer science)	y
+Set	Set (computer science)	n
 Sorting algorithms/Comb sort	Comb_sort	y
-Total circles area		y
+Total circles area		n
 Rosetta Code/Find bare lang tags		n
 Short-circuit evaluation	Short-circuit_evaluation	y
 Sierpinski triangle	Sierpinski triangle	y
 Sorting algorithms/Bogosort	Sierpinski triangle	y
 Sorting algorithms/Permutation sort	Bogosort	y
 Rename a file		n
-Primes - allocate descendants to their ancestors		y
+Primes - allocate descendants to their ancestors		n
 The ISAAC Cipher	ISAAC_(cipher)	y
 Sudoku	Sudoku	y
 Price fraction		n
@@ -167,32 +167,32 @@ Remove lines from a file		n
 Zero to the zero power	Zero to the zero power	y
 Sorting algorithms/Selection sort	Selection_sort	y
 Pythagorean triples	Pythagorean_triple	y
-Subleq	Subleq	y
+Subleq	Subleq	n
 Window creation	Window_management	n
 SHA-256	SHA-2	y
 Web scraping	Web_scraping	y
 Subtractive generator	Random_number_generation	y
-Speech synthesis	Speech_synthesis	y
+Speech synthesis	Speech_synthesis	n
 Sorting algorithms/Quicksort	Quicksort	y
-Sleep	Sleep_(system_call)	y
-Set of real numbers	Real_number	y
+Sleep	Sleep_(system_call)	n
+Set of real numbers	Real_number	n
 User input/Graphical	User_input	n
 User input/Text	User_input	n
 Roots of unity	Root_of_unity	y
 Take notes on the command line		n
 Primality by trial division	Trial_division	y
 Rot-13	ROT13	y
-Solve a Numbrix puzzle		y
-Solve a Hopido puzzle		y
+Solve a Numbrix puzzle		n
+Solve a Hopido puzzle		n
 String length	String_(computer_science)	n
-String interpolation (included)	String_literal	y
+String interpolation (included)	String_literal	n
 Set puzzle		n
-Zhang-Suen thinning algorithm		y
-Priority queue	Priority_queue	y
-XML/Output	XML	y
-XML/Input	XML	y
+Zhang-Suen thinning algorithm		n
+Priority queue	Priority_queue	n
+XML/Output	XML	n
+XML/Input	XML	n
 Sorting algorithms/Cocktail sort	Cocktail_sort	y
-Strip a set of characters from a string		y
+Strip a set of characters from a string		n
 Roots of a quadratic function	Quadratic_function	y
 Tokenize a string	Tokenize	y
 Sorting algorithms/Counting sort	Counting sort	y
@@ -200,15 +200,15 @@ String append		n
 SHA-1	SHA-1	y
 RSA code	RSA_(cryptosystem)	y
 Sum of squares	Sum_of_squares	n
-Sparkline in unicode	Sparkline	y
+Sparkline in unicode	Sparkline	n
 Terminal control/Preserve screen	Terminal_emulator	n
 Terminal control/Clear the screen	Terminal_emulator	n
-Shell one-liner	Command-line_interface	y
-Walk a directory/Recursively		y
+Shell one-liner	Command-line_interface	n
+Walk a directory/Recursively		n
 Roman numerals/Encode	Roman_numerals	y
 Tree traversal	Tree traversal	y
 Safe addition	Interval_arithmetic	y
-Yahoo! search interface	Yahoo!_Search	y
+Yahoo! search interface	Yahoo!_Search	n
 Word wrap	Word_wrap	y
 Sieve of Eratosthenes	Sieve_of_Eratosthenes	y
 Soundex	Soundex	y
@@ -216,13 +216,13 @@ Secure temporary file	Temporary_file	n
 RIPEMD-160	RIPEMD	y
 Twelve statements		n
 Sorting algorithms/Heapsort	Heapsort	y
-Temperature conversion	Conversion_of_units_of_temperature	y
-Sockets	Transmission_Control_Protocol	y
-Stack traces	Stack_trace	y
+Temperature conversion	Conversion_of_units_of_temperature	n
+Sockets	Transmission_Control_Protocol	n
+Stack traces	Stack_trace	n
 Sorting algorithms/Strand sort		y
 Trigonometric functions	Trigonometric functions	y
 String case		n
-Simple database	Database	y
+Simple database	Database	n
 String concatenation	Concatenation	y
 Synchronous concurrency	Synchronization_(computer_science)	y
 Reduced row echelon form	Reduced row echelon form	y
@@ -231,15 +231,15 @@ Read entire file		n
 Reverse a string		n
 The Twelve Days of Christmas	The_Twelve_Days_of_Christmas_(song)	n
 Sailors, coconuts and a monkey problem		n
-Remove duplicate elements		y
+Remove duplicate elements		n
 Zebra puzzle	Zebra_Puzzle	y
 Simulate input/Keyboard		n
-XML/XPath	XPath	y
+XML/XPath	XPath	n
 Write entire file		n
 Stable marriage problem	Stable_marriage_problem	y
 Sort an integer array	Sorting_algorithm	y
-Set consolidation		y
-Sequence of non-squares		y
+Set consolidation		n
+Sequence of non-squares		n
 Yin and yang		n
 Read a file line by line		n
 Quickselect algorithm	Quickselect	y
@@ -259,19 +259,19 @@ Symmetric difference	Symmetric_difference	y
 Read a configuration file	Configuration_file	n
 Roots of a function	Zero_of_a_function	y
 Vigenère cipher/Cryptanalysis	Vigenère_cipher	y
-Show the epoch	Epoch_(reference_date)	y
+Show the epoch	Epoch_(reference_date)	n
 Ternary logic	Three-valued_logic	y
 Stern-Brocot sequence	Stern–Brocot_tree	y
 Sorting algorithms/Bead sort	Bead_sort	y
-Sort using a custom comparator	Sorting_algorithm	y
-Send email	Email	y
+Sort using a custom comparator	Sorting_algorithm	n
+Send email	Email	n
 String comparison	String comparison	y
 Quaternion type	Quaternion	y
-Strip control codes and extended characters from a string		y
-World Cup group stage		y
+Strip control codes and extended characters from a string		n
+World Cup group stage		n
 Rock-paper-scissors	Rock-paper-scissors	y
 Variable size/Set		n
-Sum multiples of 3 and 5		y
+Sum multiples of 3 and 5		n
 Power set	Power set	y
 Program termination		n
 Truncate a file	File_system	n
@@ -280,39 +280,39 @@ Variadic function	Variadic_function	n
 Write float arrays to a text file		n
 Topic variable		n
 Ulam spiral (for primes)	Ulam_spiral	y
-Stack	Stack_(abstract_data_type)	y
+Stack	Stack_(abstract_data_type)	n
 Terminal control/Display an extended character	Terminal_emulator	n
 Terminal control/Inverse video	Terminal_emulator	n
 Terminal control/Hiding the cursor	Terminal_emulator	n
 Sum of a series	Sum of series	y
-Universal Turing machine	Universal_Turing_machine	y
+Universal Turing machine	Universal_Turing_machine	n
 Test a function	Software_testing	n
 Send an unknown method call	Higher-order_function	n
-Vogel's approximation method		y
+Vogel's approximation method		n
 Trabb Pardo–Knuth algorithm	Trabb_Pardo–Knuth_algorithm	y
-Singly-linked list/Traversal	Linked_list	y
-Roman numerals/Decode	Roman_numerals	y
+Singly-linked list/Traversal	Linked_list	n
+Roman numerals/Decode	Roman_numerals	n
 Program name		n
 Queue/Definition	Queue_(abstract_data_type)	y
-String prepend	Concatenation	y
+String prepend	Concatenation	n
 Strip whitespace from a string/Top and tail	Trimming_(computer_programming)	y
 Special variables		n
 Sorting algorithms/Pancake sort	Pancake_sorting	y
-Quine	Quine_(computing)	y
+Quine	Quine_(computing)	n
 Top rank per group		n
 Verify distribution uniformity/Naive	Distribution_uniformity	y
 Sorting algorithms/Insertion sort	Insertion_sort	y
 Sorting algorithms/Bubble sort	Bubble_sort	y
 Verify distribution uniformity/Chi-squared test	Chi-squared_test	y
 Random numbers	Random_number_generation	y
-XML/DOM serialization	Document_Object_Model	y
+XML/DOM serialization	Document_Object_Model	n
 Terminal control/Coloured text	Terminal_emulator	n
 Vigenère cipher	Vigenère_cipher	y
 Text processing/2		n
-Visualize a tree	Tree_view	y
+Visualize a tree	Tree_view	n
 Unicode strings		n
 Textonyms	Predictive text	y
-Same Fringe		y
+Same Fringe		n
 Primorial numbers	Primorial	y
 Sorting algorithms/Shell sort	Shellsort	y
 S-Expressions	S-expression	y
@@ -326,37 +326,37 @@ Polynomial regression	Polynomial_regression	y
 Standard deviation	Standard deviation	y
 Thiele's interpolation formula	Thiele%27s_interpolation_formula	y
 Runge-Kutta method	Runge–Kutta_methods	y
-Sum digits of an integer		y
+Sum digits of an integer		n
 Random number generator (device)	Hardware random number generator	n
-Self-referential sequence	Self-reference	y
+Self-referential sequence	Self-reference	n
 Record sound	Sound_recording_and_reproduction	n
 Stem-and-leaf plot	Stem-and-leaf_display	y
-URL parser	Uniform_Resource_Locator	y
+URL parser	Uniform_Resource_Locator	n
 Scope/Function names and labels		n
 Polymorphism		n
-Solve a Hidato puzzle	Hidato	y
-Unix/ls	Ls	y
-Stair-climbing puzzle		y
+Solve a Hidato puzzle	Hidato	
+Unix/ls	Ls	n
+Stair-climbing puzzle		n
 Text processing/1		n
 Special characters		n
 Rep-string		n
-Truncatable primes		y
-Semordnilap	Semordnilap	y
-Semiprime	Semiprime	y
-Range expansion		y
-Range extraction		y
-Regular expressions	Regular_expression	y
+Truncatable primes		n
+Semordnilap	Semordnilap	n
+Semiprime	Semiprime	n
+Range expansion		n
+Range extraction		n
+Regular expressions	Regular_expression	n
 Vector products	Vector_product	y
 Prime decomposition	Prime decomposition	y
-Singleton	Singleton_pattern	y
+Singleton	Singleton_pattern	n
 Variable size/Get		n
-Sort disjoint sublist		y
+Sort disjoint sublist		n
 Start from a main routine		n
 Respond to an unknown method call		n
-Reverse words in a string		y
+Reverse words in a string		n
 Simulate input/Mouse	Computer_mouse	n
 Terminal control/Cursor movement	Terminal emulator	n
-Zig-zag matrix		y
+Zig-zag matrix		n
 Rosetta Code/Find unimplemented tasks		n
 Terminal control/Positional read	Terminal emulator	n
 Problem of Apollonius	Problem_of_Apollonius	y
@@ -365,16 +365,16 @@ Terminal control/Cursor positioning	Terminal emulator	n
 Search a list	Linear_search	y
 Terminal control/Unicode output	Unicode	n
 Sutherland-Hodgman polygon clipping	Sutherland–Hodgman_algorithm	y
-Solve a Holy Knight's tour		y
+Solve a Holy Knight's tour		n
 Window creation/X11	X11	n
-Vampire number	Vampire_number	y
+Vampire number	Vampire_number	n
 Use another language to call a function	Foreign_function_interface	n
 Random number generator (included)	Random_number_generation	y
 Towers of Hanoi	Tower_of_Hanoi	y
-Repeat a string		y
+Repeat a string		n
 Sokoban	Sokoban	n
 Polynomial long division	Polynomial_long_division	y
-Queue/Usage	Queue_(abstract_data_type)	y
+Queue/Usage	Queue_(abstract_data_type)	n
 Undefined values	Undefined_value	n
 Y combinator	Fixed-point_combinator	y
 Singly-linked list/Element insertion	Linked_list	y
