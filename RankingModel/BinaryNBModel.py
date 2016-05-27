@@ -73,9 +73,11 @@ class BinaryNBModel(ModelBase):
                     result_class = 'true-positive'
                 else:
                     result_class = 'false-negative'
+                    print '  Feature_vector:', self._get_feature_dict(sample, cand)
             else:
                 if label == 1:
                     result_class = 'false-positive'
+                    print '  Feature_vector:', self._get_feature_dict(sample, cand)
                 else:
                     result_class = 'true-negative'
             eval_results[result_class][0] += 1

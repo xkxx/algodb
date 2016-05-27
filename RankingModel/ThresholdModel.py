@@ -78,10 +78,12 @@ class ThresholdModel(ModelBase):
                 result_class = 'true-negative'
             else:
                 result_class = 'false-positive'
+                print '  Feature_vector:', self._get_feature_dict(sample, candidate)
         # sample.label is not None
         elif sample.label == candidate:
             if guess is None:
                 result_class = 'false-negative'
+                print '  Feature_vector:', self._get_feature_dict(sample, candidate)
             else:  # guess == sample.label
                 result_class = 'true-positive'
         else:  # candidate is wrong
