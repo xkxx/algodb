@@ -84,3 +84,8 @@ class RankingModel(ModelBase):
             print "  Rank of Correct Algo:", rank
             eval_results['recranks'].append(1.0 / rank)
             eval_results['correct|inset'].append(sample.label == guess)
+
+            # wrong topcand
+            if guess != sample.label:
+                print '  Feature_vector of label:', self._get_feature_dict(sample, sample.label)
+                print '  Feature_vector of guess:', self._get_feature_dict(sample, guess)

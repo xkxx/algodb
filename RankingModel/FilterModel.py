@@ -87,9 +87,13 @@ class FilterModel(ModelBase):
                 result_class = 'true-positive'
             else:
                 result_class = 'false-negative'
+                print '  Feature_vector:', \
+                    self._get_feature_dict(sample, None)
         else:
             if guess_is_algo:
                 result_class = 'false-positive'
+                print '  Feature_vector:', \
+                    self._get_feature_dict(sample, None)
             else:
                 result_class = 'true-negative'
 
