@@ -1,18 +1,39 @@
 import random
 from utils import is_positive, print_f1
 
+from sklearn.tree import DecisionTreeClassifier
+from sklearn.naive_bayes import GaussianNB
+from sklearn.linear_model import LogisticRegression
+from sklearn.svm import LinearSVR
+
+from collections import namedtuple
+
+class Prediction(namedtuple('Prediction', ['output', 'raw_scores', 'input'])):
+    def __new__(_cls, output, raw_scores=None, input=None):
+        return super(Prediction, _cls).__new__(_cls, output, raw_scores, input)
+
 # abstract base class of Models
 class ModelBase(object):
-    def __init__(self, extract_features, all_algos, base, num_neg, limit_features):
+    def __init__(self, extract_features, all_algos, base, num_neg, limit_features, skip, model_refs):
         # store params
         self.all_algos = all_algos
         self._extract_features = extract_features
         self.BaseModel = base
         self.num_neg = num_neg
         self.limit_features = limit_features
+        self.model_refs = model_refs
+        self.model = None
+        self.skip = skip
+        self.feature_names = None
+
+    def _get_feature_dict(self, impl, algo):
+        return self._extract_features(impl, algo, self.limit_features)
 
     def _get_feature_vector(self, impl, algo):
-        return self._extract_features(impl, algo, self.limit_features)
+        feature_dict = self._get_feature_dict(impl, algo)
+        if self.feature_names is None:
+            self.feature_names = feature_dict.keys()
+        return feature_dict.values()
 
     def _create_training_vectors(self, data):
         # feature vector
@@ -77,15 +98,29 @@ class ModelBase(object):
     def eval(self, sample, prediction, eval_results):
         raise NotImplementedError()
 
-    def print_model(self):
+    def clone(self):
+        "Create a clone of itself, without the trained state"
         raise NotImplementedError()
 
-    def clone(self):
-        "Create a clone with itself, without the trained state"
-        raise NotImplementedError()
+    def print_model(self):
+        print '  Model: ', repr(self.model)
+        feature_weights = None
+        if isinstance(self.model, GaussianNB):
+            print "  Priors: ", self.model.class_prior_
+            feature_weights = self.model.theta_[1]
+        elif (isinstance(self.model, LinearSVR) or
+              isinstance(self.model, LogisticRegression)):
+            feature_weights = self.model.coef_
+
+        if feature_weights is not None:
+            feature_weights_sorted = sorted(
+                zip(self.feature_names, feature_weights),
+                key=lambda (k, v): v,
+                reverse=True)
+            print "  Feature Weights: ", feature_weights_sorted
 
     def __str__(self):
-        return ".%s." % (self.__class__.__name__)
+        return ".%s(%s)." % (self.__class__.__name__, self.BaseModel.__name__)
 
     def __repr__(self):
         return self.__str__()

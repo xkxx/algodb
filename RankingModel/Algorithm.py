@@ -1,10 +1,11 @@
 from utils import decode_wiki_title, normalize
 
 class Algorithm:
-    def __init__(self, page_title, tag_line=None, description=None):
+    def __init__(self, page_title, tag_line=None, description=None, categories = None):
         self.title = page_title
         self.tag_line = tag_line
         self.description = description
+        self.categories = categories
 
     def __eq__(self, other):
         if not isinstance(other, Algorithm):
@@ -29,10 +30,12 @@ def get_corresponding_algo(algo_name, db):
         print "ERROR: %s(%s) not found in elasticsearch db" % (algo_name, normalize(algo.title))
         algo.description = ""
         algo.tag_line = ""
+        algo.categories = []
     else:
         doc = result['_source']
         algo.description = doc['description']
         algo.tag_line = doc['tag_line']
+        algo.categories = doc['categories']
     return algo
 
 all_algos = []

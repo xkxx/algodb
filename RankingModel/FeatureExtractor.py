@@ -51,12 +51,15 @@ def cache_get_feature(db, feature, impl, algo):
     return float(cache.hget(hkey, hfield))
 
 def extract_features_factory(db):
-    def extract_features(impl, algo, limit_features=None):
+    def extract_features(impl, algo, limit_features=None,
+                         feature_name_prefix=""):
         features = (limit_features if limit_features is not None else
                 [f.name for f in feature_functions])  # all
-        return [cache_get_feature(db, feat, impl, algo)
-                for feat in feature_functions
-                if feat.name in features]
+        return {
+            (feature_name_prefix + feat.name):
+                cache_get_feature(db, feat, impl, algo)
+            for feat in feature_functions
+            if feat.name in features}
     return extract_features
 
 """
@@ -189,3 +192,33 @@ def title_has_algorithm(db, impl, algo):
 @feature(1)
 def description_has_algorithm(db, impl, algo):
     return int('algorithm' in impl.summary.lower())
+
+@feature(1)
+def wikipage_category_algorithm_check(db, impl, algo):
+    '''
+        used for threshold model,
+        algo must be the top candidate
+    '''
+    for category in algo.categories:
+        if 'algorithm' in category.lower():
+            return 1
+    return 0
+
+@feature(1)
+def wikipage_category_math_check(db, impl, algo):
+    '''
+        used for threshold model,
+        algo must be the top candidate
+    '''
+    for category in algo.categories:
+        if 'math' in category.lower():
+            return 1
+    return 0
+
+@feature(1)
+def wikipage_content_algorithm_check(db, impl, algo):
+    '''
+        used for threshold model,
+        algo must be the top candidate
+    '''
+    return int('algorithm' in algo.description)

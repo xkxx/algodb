@@ -1,11 +1,24 @@
-from configParser import threshold_patch
+from configParser import models_patch
+from ModelBase import Prediction
 
 class ModelWorkflow:
     def __init__(self, models):
-        self.workflow = models
+        self.models = models
+        # if model specifies 'skip', they should be skipped during eval
+        # it's necessary if they are only used as part of other models
+        self.workflow = [m for m in models if not m.skip]
 
     def train(self, train_data):
-        for model in self.workflow:
+        train_order = {
+            'BinaryNBModel': 1,
+            'RankingModel': 2,
+            'FilterModel': 3,
+            'ThresholdModel': 4}
+
+        models = sorted(self.models,
+            key=lambda x: train_order[x.__class__.__name__])
+
+        for model in models:
             model.train(train_data)
 
     def classify(self, sample, candidates):
@@ -20,14 +33,16 @@ class ModelWorkflow:
             # 1: the final prediction, or intermediate val to the next model
             # rest: info needed for eval
             predictions.append(prediction)
-            cur = prediction[0]
-        return (cur, predictions)
+            cur = prediction.output
+        return Prediction(output=cur, raw_scores=predictions)
 
     def init_results(self):
-        return [model.init_results() for model in self.workflow]
+        return [model.init_results()
+            for model in self.workflow
+            if not model.skip]
 
     def eval(self, sample, prediction, eval_results):
-        (final_result, predictions) = prediction
+        predictions = prediction.raw_scores
         for i in range(len(self.workflow)):
             self.workflow[i].eval(sample, predictions[i], eval_results[i])
 
@@ -50,7 +65,7 @@ class ModelWorkflow:
             model.print_model()
 
     def clone(self):
-        newworkflow = [model.clone() for model in self.workflow]
+        newmodels = [model.clone() for model in self.models]
         # monkey patching
-        threshold_patch(newworkflow)
-        return ModelWorkflow(newworkflow)
+        models_patch(newmodels)
+        return ModelWorkflow(newmodels)

@@ -1,30 +1,52 @@
 from sklearn.tree import DecisionTreeClassifier
 from sklearn.naive_bayes import GaussianNB
-from ModelBase import ModelBase
-from utils import is_positive, init_f1_metrics, export_tree
+from ModelBase import ModelBase, Prediction
+from utils import is_positive, init_f1_metrics
 
 class FilterModel(ModelBase):
     def __init__(self, extract_features, all_algos, base=GaussianNB,
-            num_neg=1, limit_features=[],
-            use_pairwise_features=True, pairwise_limit_features=None):
-        super(FilterModel, self).__init__(extract_features, all_algos, base, num_neg, limit_features)
+            num_neg=1, limit_features=[], skip=False, model_refs=None,
+            use_pairwise_features=True, pairwise_limit_features=None,
+            use_rank_score=False, use_nb_score=False):
+        super(FilterModel, self).__init__(extract_features, all_algos, base,
+            num_neg, limit_features, skip, model_refs)
         # store params
-        self.model = None
         self.use_pairwise_features = use_pairwise_features
         self.pairwise_limit_features = pairwise_limit_features
+        self.use_rank_score = use_rank_score
+        self.use_nb_score = use_nb_score
 
     def clone(self):
         return FilterModel(self._extract_features, self.all_algos, self.BaseModel,
-            self.num_neg, self.limit_features,
-            self.use_pairwise_features, self.pairwise_limit_features)
+            self.num_neg, self.limit_features, self.skip, self.model_refs,
+            self.use_pairwise_features, self.pairwise_limit_features,
+            self.use_rank_score, self.use_nb_score)
 
-    def _get_feature_vector(self, impl, algo):
-        feature_vector = self._extract_features(impl, algo,
+    def _get_feature_dict(self, impl, algo):
+        feature_dict = self._extract_features(impl, algo,
             limit_features=self.limit_features)
+        all_algos = self.all_algos
         if self.use_pairwise_features:
             for algo in self.all_algos:
-                feature_vector.extend(self._extract_features(impl, algo, self.pairwise_limit_features))
-        return feature_vector
+                feature_dict.update(
+                    self._extract_features(impl, algo,
+                        limit_features=self.pairwise_limit_features,
+                        feature_name_prefix=algo.title + ':'))
+
+        if self.use_rank_score:
+            assert 'RankingModel' in self.model_refs
+            rankingModel = self.model_refs['RankingModel']
+            rank_scores = rankingModel.get_rank_scores(impl, all_algos)
+            for i in range(len(all_algos)):
+                feature_dict['%s:rank_score' % all_algos[i]] = rank_scores[i]
+
+        if self.use_nb_score:
+            assert 'BinaryNBModel' in self.model_refs
+            nbModel = self.model_refs['BinaryNBModel']
+            nb_features = nbModel.get_log_prob(impl, all_algos)
+            for i in range(len(all_algos)):
+                feature_dict['%s:nb_score' % all_algos[i]] = nb_features[i]
+        return feature_dict
 
     def _train_threshold(self, feature_vector, score_vector):
         params = {}
@@ -47,16 +69,16 @@ class FilterModel(ModelBase):
         features = self._get_feature_vector(sample, None)
 
         if self.model.predict([features]) == 1:
-            return (candidates,)
+            return Prediction(output=(candidates,))
         else:
-            return (None,)
+            return Prediction(output=(None,))
 
     @staticmethod
     def init_results():
         return init_f1_metrics()
 
     def eval(self, sample, prediction, eval_results):
-        (guess,) = prediction
+        guess = prediction.output
         guess_is_algo = guess is not None
         result_class = None
 
@@ -74,9 +96,3 @@ class FilterModel(ModelBase):
         print '  Filter:', guess_is_algo
         print '  Class:', result_class
         eval_results[result_class][0] += 1
-
-    def print_model(self):
-        print '  Model: ', repr(self.model)
-        # TODO: print model internal dynamically
-        # print '  Tree exported.'
-        # export_tree(self.model)

@@ -62,7 +62,7 @@ Collections	Data_structure	n
 Bitmap	Bitmap	n
 Hash from two arrays	Hash_table	n
 Apply a callback to an array	MapReduce	y
-Flatten a list		y
+Flatten a list		n
 Bitmap/Bézier curves/Cubic	Bézier_curve	y
 Haversine formula	Haversine_formula	y
 Parsing/Shunting-yard algorithm	Shunting-yard_algorithm	y
@@ -92,7 +92,7 @@ Plot coordinate pairs	Coordinate_system	n
 Named parameters	Named_parameter	n
 Multiple regression	Multiple_regression	y
 Add a variable to a class instance at runtime		n
-Odd word problem		y
+Odd word problem		n
 Pig the dice game	Pig_(dice_game)	n
 Function definition	Subroutine	n
 Maximum triangle path sum		n
@@ -145,7 +145,7 @@ Xiaolin Wu's line algorithm	Xiaolin Wu's line algorithm	y
 Table creation/Postal addresses		n
 URL decoding		n
 URL encoding	URL encoding	y
-Sorting algorithms/Sleep sort		y
+Sorting algorithms/Sleep sort		n
 Resistor mesh		n
 Set	Set (computer science)	n
 Sorting algorithms/Comb sort	Comb_sort	y
@@ -219,7 +219,7 @@ Sorting algorithms/Heapsort	Heapsort	y
 Temperature conversion	Conversion_of_units_of_temperature	n
 Sockets	Transmission_Control_Protocol	n
 Stack traces	Stack_trace	n
-Sorting algorithms/Strand sort		y
+Sorting algorithms/Strand sort		n
 Trigonometric functions	Trigonometric functions	y
 String case		n
 Simple database	Database	n
@@ -334,7 +334,7 @@ Stem-and-leaf plot	Stem-and-leaf_display	y
 URL parser	Uniform_Resource_Locator	n
 Scope/Function names and labels		n
 Polymorphism		n
-Solve a Hidato puzzle	Hidato	
+Solve a Hidato puzzle	Hidato	n
 Unix/ls	Ls	n
 Stair-climbing puzzle		n
 Text processing/1		n
@@ -384,9 +384,9 @@ Variable-length quantity	Variable-length_quantity	y
 Write to Windows event log	Event_Viewer	n
 Strip block comments	Block comments	n
 Sorting algorithms/Merge sort	Merge_sort	y
-Walk a directory/Non-recursively		y
+Walk a directory/Non-recursively		n
 Strip comments from a string	Comment_(computer_programming)	n
-Topswops		y
+Topswops		n
 Enforced immutability		n
 Color quantization	Color quantization	y
 Deepcopy	Object copying	y
@@ -412,7 +412,7 @@ CRC-32	Cyclic redundancy check	y
 Factors of an integer	Integer factorization	y
 Parsing/RPN calculator algorithm	Reverse Polish notation	y
 Comments	Comment (computer programming)	n
-Percolation/Mean cluster density		y
+Percolation/Mean cluster density		n
 Execute a Markov algorithm	Markov algorithm	y
 Abundant, deficient and perfect number classifications		n
 Forest fire	Forest-fire model	y
@@ -426,7 +426,7 @@ Empty directory		n
 Flipping bits game	Penney's game	n
 Loops/Do-while	Do while loop	n
 Pascal's triangle	Pascal's triangle	y
-Ludic numbers		y
+Ludic numbers		n
 Loops/While	While loop	n
 Loops/Foreach	Foreach loop	n
 Matrix transposition	Transpose	y
@@ -438,7 +438,7 @@ Continued fraction	Continued fraction	y
 Hofstadter Q sequence	Hofstadter sequence	y
 Knuth shuffle	Fisher–Yates shuffle	y
 Hofstadter Figure-Figure sequences	Hofstadter sequence	y
-Knuth's algorithm S		y
+Knuth's algorithm S		n
 Ordered words		n
 Distributed programming		n
 Non-decimal radices/Input		n
@@ -494,11 +494,11 @@ Middle three digits		n
 Digital root/Multiplicative digital root	Digital root	y
 Make directory path		n
 Catalan numbers/Pascal's triangle	Pascal's triangle	y
-Comma quibbling		y
+Comma quibbling		n
 Animate a pendulum		n
 Character codes		n
 Align columns		n
-Percentage difference between images		y
+Percentage difference between images		n
 CSV data manipulation		n
 Greatest subsequential sum	Maximum subarray problem	y
 Knapsack problem/0-1	Knapsack problem	y
@@ -550,7 +550,7 @@ Draw a sphere		n
 Formatted numeric output		n
 Percolation/Bond percolation		n
 Nth root	Nth root	y
-Iterated digits squaring		y
+Iterated digits squaring		n
 Holidays related to Easter		n
 Playing cards	Playing card	n
 Loops/Continue	Control flow	n
@@ -579,7 +579,7 @@ Last letter-first letter		n
 Count in octal		n
 Create an object at a given address		n
 Evaluate binomial coefficients	Binomial coefficient	y
-Brace expansion		y
+Brace expansion		n
 Chinese remainder theorem	Chinese remainder theorem	y
 Checkpoint synchronization	Synchronization_(computer_science)	y
 Doubly-linked list/Element definition	Doubly_linked_list	y
@@ -597,7 +597,7 @@ Permutations	Permutation	y
 Conjugate transpose	Conjugate transpose	y
 Fast Fourier transform	Fast Fourier transform	y
 Concurrent computing	Concurrent computing	n
-Image convolution		y
+Image convolution		n
 Josephus problem	Josephus problem	y
 General FizzBuzz	Fizz buzz	y
 Multifactorial	Factorial	y
@@ -619,7 +619,7 @@ Euler method	Euler method	y
 Copy a string		n
 Increment a numerical string		n
 Enumerations	Enumeration	n
-Element-wise operations		y
+Element-wise operations		n
 Kaprekar numbers	Kaprekar number	y
 GUI/Maximum window dimensions		n
 Heronian triangles	Heronian triangle	y
@@ -635,7 +635,7 @@ Anagrams	Anagrams	y
 Ackermann function	Ackermann function	y
 Monte Carlo methods	Monte Carlo method	y
 Call a foreign-language function	Foreign function interface	n
-Guess the number		y
+Guess the number		n
 Doubly-linked list/Element insertion	Doubly linked list	y
 Ethiopian multiplication	Ancient Egyptian multiplication	y
 Date format		n
@@ -648,7 +648,7 @@ Keyboard input/Flush the keyboard buffer	Keyboard buffer	n
 Keyboard input/Obtain a Y or N response		n
 Keyboard input/Keypress check		n
 Executable library		n
-Balanced brackets		y
+Balanced brackets		n
 Gray code	Gray code	y
 Create a file on magnetic tape		n
 History variables		n
@@ -659,7 +659,7 @@ Parametrized SQL statement		n
 Find the last Sunday of each month		n
 Arithmetic/Integer	Integer (computer science)	n
 Averages/Arithmetic mean	Mean	y
-Arithmetic evaluation		y
+Arithmetic evaluation		n
 Dot product	Dot product	y
 Delegates	Delegation (programming)	n
 Fork	Fork (system call)	n
@@ -689,7 +689,7 @@ Filter		n
 Pi	Pi	y
 Partial function application	Partial function	y
 Associative array/Creation	Associative array	n
-Find the missing permutation		y
+Find the missing permutation		n
 Box the compass	Points of the compass	n
 Dinesman's multiple-dwelling problem		n
 Percolation/Site percolation	Percolation	y
@@ -701,7 +701,7 @@ Pattern matching	Pattern matching	n
 Integer overflow	Integer overflow	n
 Bitmap/PPM conversion through a pipe	Bitmap	n
 Binary search	Binary search algorithm	y
-Phrase reversals		y
+Phrase reversals		n
 Parametric polymorphism	Parametric polymorphism	n
 Array length		n
 Integer comparison		n
@@ -724,13 +724,13 @@ Main step of GOST 28147-89	GOST (block cipher)	y
 Hello world/Text		n
 Non-continuous subsequences		n
 File input/output		n
-Equilibrium index		y
+Equilibrium index		n
 Hello world/Web server	Web server	n
 Linear congruential generator	Linear congruential generator	y
 MD5/Implementation	MD5	y
 Bitmap/Bézier curves/Quadratic	Bézier_curve	y
 ABC problem	Abc_conjecture	y
-Pangram checker		y
+Pangram checker		n
 Five weekends		n
 Harshad or Niven series	Harshad_number	y
 Ordered Partitions	Weak_ordering	y
@@ -743,7 +743,7 @@ File modification time		n
 Extreme floating point values	Floating_point	n
 Function frequency		n
 Pick random element		n
-Percolation/Mean run density		y
+Percolation/Mean run density		n
 Joystick position		n
 Pig the dice game/Player	Pig_(dice_game)	n
 Metronome	Metronome	y
@@ -765,7 +765,7 @@ Flow-control structures	Flow_control_structure	n
 Exceptions	Exception_handling	n
 Lychrel numbers	Lychrel_number	n
 Pointers and references	Data_type	n
-Execute SNUSP		y
+Execute SNUSP		n
 Inheritance/Multiple	Object-oriented_programming	n
 Conditional structures	Conditional_(computer_programming)	n
 Non-decimal radices/Output	Radix	n

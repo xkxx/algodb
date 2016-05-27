@@ -49,15 +49,15 @@ def load_models(config, extract_features, all_algos):
         return modelMap[model](extract_features, all_algos, **params)
     workflow = map(create_model, config['workflow'])
     # monkey patch thresholdModel
-    threshold_patch(workflow)
+    models_patch(workflow)
     return workflow
 
 # patch thresholdModel to ensure it has correctly linked rankingModel
-def threshold_patch(models):
-    rankingModel = None
+def models_patch(models):
+    model_refs = dict()
+
     for model in models:
-        if isinstance(model, RankingModel):
-            rankingModel = model
-        if isinstance(model, ThresholdModel):
-            assert model.use_rank_score == (rankingModel is not None)
-            model.rankingModel = rankingModel
+        model_refs[model.__class__.__name__] = model
+
+    for model in models:
+        model.model_refs = model_refs

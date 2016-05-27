@@ -58,7 +58,7 @@ def split_data(data, k):
 def create_eval_stats(model, NUM_SPLITS):
     return ({
         'corrects': [],
-        'corrects-perrun': [[]] * NUM_SPLITS
+        'corrects-perrun': [[] for i in range(NUM_SPLITS)]
     }, model.init_results())
 
 def print_results(model, eval_results):
@@ -66,11 +66,11 @@ def print_results(model, eval_results):
     corrects = overall_stats['corrects']
     print "For ", model
     print "Overall Accuracy: \t", 1.0 * sum(corrects) / len(corrects)
-    accuracy_perrun = [1.0 * sum(corrects) / len(corrects) for corrects in overall_stats['corrects-perrun']]
+    accuracy_perrun = [1.0 * sum(x) / len(x) for x in overall_stats['corrects-perrun']]
     print "Standard Deviation: \t", np.std(np.array(accuracy_perrun))
     mean = np.mean(accuracy_perrun)
     se = scipy.stats.sem(accuracy_perrun)
-    h = se * scipy.stats.t_ppf((1+0.95)/2.0, 4)
+    h = se * scipy.stats.t._ppf((1 + 0.95) / 2.0, 4)
     print "Confidence Level: \t", mean - h, mean + h
     print "Model Specific Stats:\n"
     model.print_results(specific_stats)
@@ -81,7 +81,7 @@ def validation(model, samples, all_algos, eval_results, i):
         print "Impl:", impl
         print "Algo:", impl.label
         prediction = model.classify(impl, all_algos)
-        guess = prediction[0]
+        guess = prediction.output
         print "Prediction:", guess
         is_correct = (guess == (impl.label if is_positive(impl) else None))
         overall_stats['corrects'].append(is_correct)

@@ -20,18 +20,23 @@ def store_rosettacode_cassandra():
         categories = set([el.page_title for el in page.categories()])
         session.execute("INSERT INTO rosettacode (page_title, categories, iwlinks, text) VALUES (%s, %s, %s, %s)", [page.page_title, categories, iwlinks, page.text()])
 
+def split_dataset():
+        rd = redis.StrictRedis(host='localhost', port=6379, db=0)
+        labelfile = list(open('labelfile.txt'))
+        random.shuffle(labelfile)
+        devset = frozenset(labelfile[:-150])
+        for line in labelfile:
+            (task_name, algo_name, is_algo) = line.strip().split('\t')
+            if line in devset:
+                rd.sadd('rosettacode-label-devset', task_name)
+            else:
+                rd.sadd('rosettacode-label-testset', task_name)
 
 def store_label_redis():
     rd = redis.StrictRedis(host='localhost', port=6379, db=0)
     labelfile = list(open('labelfile.txt'))
-    random.shuffle(labelfile)
-    devset = frozenset(labelfile[:-150])
     for line in labelfile:
         (task_name, algo_name, is_algo) = line.strip().split('\t')
-        if line in devset:
-            rd.sadd('rosettacode-label-devset', task_name)
-        else:
-            rd.sadd('rosettacode-label-testset', task_name)
         if is_algo == 'y':
             rd.sadd('rosettacode-label-isalgo', task_name)
         if len(algo_name) > 0:
