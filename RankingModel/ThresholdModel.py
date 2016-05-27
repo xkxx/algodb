@@ -23,8 +23,8 @@ class ThresholdModel(ModelBase):
         if self.use_rank_score:
             assert 'RankingModel' in self.model_refs
             rankingModel = self.model_refs['RankingModel']
-            (_, all_ranks) = rankingModel.classify(impl, candidates=[algo])
-            feature_dict['rank_score'] = all_ranks[0][1]
+            [all_ranks] = rankingModel.get_rank_scores(impl, candidates=[algo])
+            feature_dict['rank_score'] = all_ranks
         if self.use_nb_score:
             assert 'BinaryNBModel' in self.model_refs
             rankingModel = self.model_refs['BinaryNBModel']
