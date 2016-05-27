@@ -51,7 +51,7 @@ class ThresholdModel(ModelBase):
         assert type(candidate) != list
         if candidate is None:
             # nothing to do
-            return (None, None)
+            return Prediction(output=None, input=None)
         features = self._get_feature_vector(sample, candidate)
         prediction = self.model.predict([features]) == 1
 

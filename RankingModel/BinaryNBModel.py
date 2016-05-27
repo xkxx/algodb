@@ -14,7 +14,7 @@ class BinaryNBModel(ModelBase):
 
     def classify(self, sample, candidates):
         if candidates is None:
-            return (None, [])
+            return Prediction(output=None, raw_scores=[])
         assert type(candidates) == list
         # candidates = candidates if candidates is not None else self.all_algos
         positives = []

@@ -69,9 +69,9 @@ class FilterModel(ModelBase):
         features = self._get_feature_vector(sample, None)
 
         if self.model.predict([features]) == 1:
-            return Prediction(output=(candidates,))
+            return Prediction(output=candidates)
         else:
-            return Prediction(output=(None,))
+            return Prediction(output=None)
 
     @staticmethod
     def init_results():

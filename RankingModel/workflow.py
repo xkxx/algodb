@@ -33,6 +33,9 @@ class ModelWorkflow:
             # 1: the final prediction, or intermediate val to the next model
             # rest: info needed for eval
             predictions.append(prediction)
+            # print predictions
+            # print type(model)
+            # print
             cur = prediction.output
         return Prediction(output=cur, raw_scores=predictions)
 
