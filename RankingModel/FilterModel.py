@@ -28,24 +28,30 @@ class FilterModel(ModelBase):
         all_algos = self.all_algos
         if self.use_pairwise_features:
             for algo in self.all_algos:
-                feature_dict.update(
-                    self._extract_features(impl, algo,
-                        limit_features=self.pairwise_limit_features,
-                        feature_name_prefix=algo.title + ':'))
+                features = self._extract_features(impl, algo,
+                    limit_features=self.pairwise_limit_features,
+                    feature_name_prefix="max:")
+                for f in features:  # update the max feature value
+                    if feature_dict.get(f, float('-inf')) < features[f]:
+                        feature_dict[f] = features[f]
 
         if self.use_rank_score:
             assert 'RankingModel' in self.model_refs
             rankingModel = self.model_refs['RankingModel']
             rank_scores = rankingModel.get_rank_scores(impl, all_algos)
-            for i in range(len(all_algos)):
-                feature_dict['%s:rank_score' % all_algos[i]] = rank_scores[i]
+            # for i in range(len(all_algos)):
+            #     feature_dict['%s:rank_score' % all_algos[i]] = rank_scores[i]
+            feature_dict['max:rank_score'] = max(rank_scores)
 
         if self.use_nb_score:
             assert 'BinaryNBModel' in self.model_refs
             nbModel = self.model_refs['BinaryNBModel']
             nb_features = nbModel.get_log_prob(impl, all_algos)
-            for i in range(len(all_algos)):
-                feature_dict['%s:nb_score' % all_algos[i]] = nb_features[i]
+            # for i in range(len(all_algos)):
+            #     feature_dict['%s:nb_score' % all_algos[i]] = nb_features[i]
+            feature_dict['max:nb_score'] = max(nb_features)
+
+        print feature_dict
         return feature_dict
 
     def _train_threshold(self, feature_vector, score_vector):

@@ -102,22 +102,22 @@ class ModelBase(object):
         "Create a clone of itself, without the trained state"
         raise NotImplementedError()
 
+    def format_parameters(self, parameters):
+        parameters_sorted = sorted(
+            zip(self.feature_names, parameters),
+            key=lambda (k, v): v,
+            reverse=True)
+        return parameters_sorted
+
     def print_model(self):
         print '  Model: ', repr(self.model)
-        feature_weights = None
         if isinstance(self.model, GaussianNB):
             print "  Priors: ", self.model.class_prior_
-            feature_weights = self.model.theta_[1]
+            print "  Feature Means - 1: ", self.format_parameters(self.model.theta_[1])
+            print "  Feature Means - 0: ", self.format_parameters(self.model.theta_[0])
         elif (isinstance(self.model, LinearSVR) or
               isinstance(self.model, LogisticRegression)):
-            feature_weights = self.model.coef_
-
-        if feature_weights is not None:
-            feature_weights_sorted = sorted(
-                zip(self.feature_names, feature_weights),
-                key=lambda (k, v): v,
-                reverse=True)
-            print "  Feature Weights: ", feature_weights_sorted
+            print "  Feature Weights: ", self.format_parameters(self.model.coef_)
 
     def __str__(self):
         return ".%s(%s)." % (self.__class__.__name__, self.BaseModel.__name__)

@@ -59,7 +59,7 @@ class RankingModel(ModelBase):
         # candidates = candidates if candidates is not None else self.all_algos
         results = self._classify_rank(sample, candidates).most_common()
         if len(results) == 0:
-            return (None, results)
+            return Prediction(output=None, raw_scores=results)
         (topcand, toprank) = results[0]
 
         return Prediction(output=topcand, raw_scores=results)
@@ -83,9 +83,9 @@ class RankingModel(ModelBase):
             rank = keys.index(sample.label) + 1
             print "  Rank of Correct Algo:", rank
             eval_results['recranks'].append(1.0 / rank)
-            eval_results['correct|inset'].append(sample.label == guess)
+            eval_results['correct|inset'].append(int(sample.label == guess))
 
             # wrong topcand
-            if guess != sample.label:
+            if not (sample.label == guess):
                 print '  Feature_vector of label:', self._get_feature_dict(sample, sample.label)
                 print '  Feature_vector of guess:', self._get_feature_dict(sample, guess)
