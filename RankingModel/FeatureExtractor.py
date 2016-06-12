@@ -9,8 +9,12 @@ from nltk.corpus import stopwords
 from algodb.KeywordExtract.code_keyword_extractor import extract_keywords
 from algodb.AlgorithmNames.parseWikipedia import get_wiki_page
 from sklearn.feature_extraction.text import TfidfVectorizer
-vect = TfidfVectorizer(min_df=1)
 
+import re
+import math
+from collections import Counter
+
+vect = TfidfVectorizer(min_df=1)
 
 """
     Support Functions
@@ -86,6 +90,33 @@ def title_tfidf(db, impl, algo):
     tfidf = vect.fit_transform([impl.title, algo.title])
     return (tfidf * tfidf.T).A[0][1]
 
+def get_cosine(vec1, vec2):
+    words1 = vec1.keys()
+    words2 = vec2.keys()
+    intersection = set(words1) & set(words2)
+    numerator = sum([vec1[x] * vec2[x] for x in intersection])
+
+    sum1 = sum([vec1[x]**2 for x in words1])
+    sum2 = sum([vec2[x]**2 for x in words2])
+    denominator = math.sqrt(sum1) * math.sqrt(sum2)
+
+    if not denominator:
+        return 0.0
+    else:
+        return float(numerator) / denominator
+
+WORD = re.compile(r'(\W+)')
+
+def text_to_vector(text):
+    words = [word for word in WORD.split(text) if word != ' ']
+    return Counter(words)
+
+@feature(1)
+def title_cosine_similarity(db, impl, algo):
+    impl_vec = text_to_vector(impl.title)
+    algo_vec = text_to_vector(algo.title)
+    return get_cosine(impl_vec, algo_vec)
+
 """
     Features from the wikilinks
 """
@@ -95,6 +126,17 @@ def iwlinks_fuzzy_ratio(db, impl, algo):
     max_score = 0.0
     for wikilink in impl.iwlinks:
         score = fuzz.ratio(algo.title, wikilink)
+        if score > max_score:
+            max_score = score
+    return max_score
+
+@feature(1)
+def iwlinks_fuzzy_ratio_cosine(db, impl, algo):
+    max_score = 0.0
+    algo_vec = text_to_vector(algo.title)
+    for wikilink in impl.iwlinks:
+        iw_vec = text_to_vector(wikilink)
+        score = get_cosine(iw_vec, algo_vec)
         if score > max_score:
             max_score = score
     return max_score
@@ -174,6 +216,13 @@ def _get_auto_suggest(db, impl):
 def wikipedia_auto_suggest(db, impl, algo):
     suggested_title = _get_auto_suggest(db, impl)
     return fuzz.ratio(suggested_title, algo.title)
+
+@feature(2)
+def wikipedia_auto_suggest_cosine(db, impl, algo):
+    algo_vec = text_to_vector(impl.title)
+    suggested_vec = _get_auto_suggest(db, impl)
+
+    return get_cosine(algo_vec, suggested_vec)
 
 """
     Features of algorithm/non-algorithm

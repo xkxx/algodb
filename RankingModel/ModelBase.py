@@ -4,7 +4,7 @@ from utils import is_positive, print_f1
 from sklearn.tree import DecisionTreeClassifier
 from sklearn.naive_bayes import GaussianNB
 from sklearn.linear_model import LogisticRegression
-from sklearn.svm import LinearSVR
+from sklearn.svm import LinearSVR, LinearSVC
 
 from collections import namedtuple
 
@@ -115,7 +115,8 @@ class ModelBase(object):
             print "  Priors: ", self.model.class_prior_
             print "  Feature Means - 1: ", self.format_parameters(self.model.theta_[1])
             print "  Feature Means - 0: ", self.format_parameters(self.model.theta_[0])
-        elif (isinstance(self.model, LinearSVR) or
+        elif (isinstance(self.model, LinearSVC) or
+              isinstance(self.model, LinearSVR) or
               isinstance(self.model, LogisticRegression)):
             print "  Feature Weights: ", self.format_parameters(self.model.coef_)
 

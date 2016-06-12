@@ -7,7 +7,7 @@ from FilterModel import FilterModel
 from sklearn.tree import DecisionTreeClassifier
 from sklearn.naive_bayes import GaussianNB
 from sklearn.linear_model import LogisticRegression
-from sklearn.svm import LinearSVR
+from sklearn.svm import LinearSVR, LinearSVC
 
 modelMap = {
     'BinaryNBModel': BinaryNBModel,
@@ -20,7 +20,8 @@ baseModelMap = {
     'DecisionTreeClassifier': DecisionTreeClassifier,
     'GaussianNB': GaussianNB,
     'LogisticRegression': LogisticRegression,
-    'LinearSVR': LinearSVR
+    'LinearSVR': LinearSVR,
+    'LinearSVC': LinearSVC
 }
 
 defaultConfig = {

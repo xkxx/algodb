@@ -7,20 +7,35 @@ class FilterModel(ModelBase):
     def __init__(self, extract_features, all_algos, base=GaussianNB,
             num_neg=1, limit_features=[], skip=False, model_refs=None,
             use_pairwise_features=True, pairwise_limit_features=None,
-            use_rank_score=False, use_nb_score=False):
+            use_rank_score=False, use_nb_score=False,
+            pairwise_feature_raw=False, pairwise_feature_aggregate=False,
+            rank_score_raw=False, rank_score_aggregate=False,
+            nb_score_raw=False, nb_score_aggregate=False):
+
         super(FilterModel, self).__init__(extract_features, all_algos, base,
             num_neg, limit_features, skip, model_refs)
         # store params
         self.use_pairwise_features = use_pairwise_features
         self.pairwise_limit_features = pairwise_limit_features
+
         self.use_rank_score = use_rank_score
         self.use_nb_score = use_nb_score
+
+        self.pairwise_feature_raw = pairwise_feature_raw
+        self.pairwise_feature_aggregate = pairwise_feature_aggregate
+        self.rank_score_raw = rank_score_raw
+        self.rank_score_aggregate = rank_score_aggregate
+        self.nb_score_raw = nb_score_raw
+        self.nb_score_aggregate = nb_score_aggregate
 
     def clone(self):
         return FilterModel(self._extract_features, self.all_algos, self.BaseModel,
             self.num_neg, self.limit_features, self.skip, self.model_refs,
             self.use_pairwise_features, self.pairwise_limit_features,
-            self.use_rank_score, self.use_nb_score)
+            self.use_rank_score, self.use_nb_score,
+            self.pairwise_feature_raw, self.pairwise_feature_aggregate,
+            self.rank_score_raw, self.rank_score_aggregate,
+            self.nb_score_raw, self.nb_score_aggregate)
 
     def _get_feature_dict(self, impl, algo):
         feature_dict = self._extract_features(impl, algo,
@@ -29,29 +44,35 @@ class FilterModel(ModelBase):
         if self.use_pairwise_features:
             for algo in self.all_algos:
                 features = self._extract_features(impl, algo,
-                    limit_features=self.pairwise_limit_features,
-                    feature_name_prefix="max:")
-                for f in features:  # update the max feature value
-                    if feature_dict.get(f, float('-inf')) < features[f]:
-                        feature_dict[f] = features[f]
+                    limit_features=self.pairwise_limit_features)
+                for (f, val) in features.iteritems():  # update the max feature value
+                    if self.pairwise_feature_aggregate:
+                        feature_name = "max:" + f
+                        if feature_dict.get(feature_name, float('-inf')) < val:
+                            feature_dict[feature_name] = val
+                    if self.pairwise_feature_raw:
+                        feature_dict['%s:rank_score' % algo.title] = val
 
         if self.use_rank_score:
             assert 'RankingModel' in self.model_refs
             rankingModel = self.model_refs['RankingModel']
             rank_scores = rankingModel.get_rank_scores(impl, all_algos)
-            # for i in range(len(all_algos)):
-            #     feature_dict['%s:rank_score' % all_algos[i]] = rank_scores[i]
-            feature_dict['max:rank_score'] = max(rank_scores)
+            if self.rank_score_raw:
+                for i in range(len(all_algos)):
+                    feature_dict['%s:rank_score' % all_algos[i]] = rank_scores[i]
+            if self.rank_score_aggregate:
+                feature_dict['max:rank_score'] = max(rank_scores)
 
         if self.use_nb_score:
             assert 'BinaryNBModel' in self.model_refs
             nbModel = self.model_refs['BinaryNBModel']
             nb_features = nbModel.get_log_prob(impl, all_algos)
-            # for i in range(len(all_algos)):
-            #     feature_dict['%s:nb_score' % all_algos[i]] = nb_features[i]
-            feature_dict['max:nb_score'] = max(nb_features)
+            if self.nb_score_raw:
+                for i in range(len(all_algos)):
+                    feature_dict['%s:nb_score' % all_algos[i]] = nb_features[i]
+            if self.nb_score_aggregate:
+                feature_dict['max:nb_score'] = max(nb_features)
 
-        print feature_dict
         return feature_dict
 
     def _train_threshold(self, feature_vector, score_vector):
