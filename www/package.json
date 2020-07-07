@@ -21,7 +21,7 @@
     "list-to-tree": "0.0.4",
     "marked": "^0.3.5",
     "morgan": "~1.5.1",
-    "npm": "^3.5.0",
+    "npm": "^6.14.6",
     "objmap": "^1.2.0",
     "request": "^2.67.0",
     "serve-favicon": "~2.2.0",
