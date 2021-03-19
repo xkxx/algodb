@@ -23,7 +23,7 @@ fuzzywuzzy==0.8.0
 hiredis==0.2.0
 httplib2==0.8
 itsdangerous==0.24
-Jinja2==2.7.3
+Jinja2==2.11.3
 lockfile==0.8
 lxml==3.3.3
 Mako==0.9.1
