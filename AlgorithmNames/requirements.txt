@@ -41,7 +41,7 @@ numpy==1.10.0.post2
 oauthlib==0.6.1
 oneconf==0.3.7.14.4.1
 PAM==0.4.2
-paramiko==1.10.1
+paramiko==2.10.1
 pep8==1.5.7
 pexpect==3.1
 Pillow==2.3.0
